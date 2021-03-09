@@ -5,7 +5,6 @@ module.exports = {
     use: `status [presence]`,
     example:[`status online`, `status idle`, `status dnd`],
     execute(message, args) {
-        const {owner} = require('./../config.json');if(!owner.includes(message.author.id)) {return;}
         const client = message.client
 
         if (args[0] == `online`) {

@@ -1,12 +1,11 @@
 module.exports = {
-    name: ['setpfp'],
-    description: 'Changes the bot\'s pfp',
+    name: ['setmythran'],
+    description: 'Give another user Mythran permissions.',
     args: true,
-    use: `setpfp [url]`,
-    example:[`setpfp https://media.discordapp.net/attachments/641133444746838016/813621671461781544/circle-cropped_1.png`],
+    use: `setMythran [url]`,
+    example:[`setMythran 789705048035688458`],
     execute(message, args) {
         let config = require('./../config.json');
-        if(!config.owner.includes(message.author.id) || args.length > 1) {return;}
         function err(){
             try {
                 //const help = require(`./help.js`);
@@ -17,21 +16,14 @@ module.exports = {
                 console.error(error)
             }
         }
+        if(args.length > 1) {err();}
         const fs = require('fs')
-        const client = message.client
-        let link = args[0]
-        try{
-            client.user.setAvatar(link)
-            config.iconURL = link
-        }catch(e){
-            console.log(e)
-            err()}
-
-
+        let newMythranID = args[0]
+        config.mythran.push(newMythranID)
 
         fs.writeFile ("config.json", JSON.stringify(config,null,2), function(err) {
                 if (err) throw err;
-            message.channel.send("Done ✅")
+                message.channel.send("Done ✅")
             }
         );
     }

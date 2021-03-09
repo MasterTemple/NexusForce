@@ -6,7 +6,7 @@ module.exports = {
     example:[`play LEGO Universe`],
     execute(message, args) {
 
-        const {owner} = require('./../config.json');if(!owner.includes(message.author.id)) {return;}
+        //const {owner} = require('./../config.json');if(!owner.includes(message.author.id)) {return;}
 
         const client = message.client
         if(args.length >0) {
