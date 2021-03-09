@@ -23,7 +23,10 @@ for (const file of mythranCommandFiles) {
 
 client.once('ready', () => {
     console.log(`${botInfo.name} ${parseFloat(botInfo.version).toFixed( 1)} reporting for duty!`);
-    client.user.setPresence({activity: {name: startupStatus}});
+    if(startupStatus != undefined) {
+        client.user.setPresence({activity: {name: startupStatus}});
+    }
+
 })
 
 client.on('message', message => {
