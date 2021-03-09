@@ -31,7 +31,7 @@ module.exports = {
                 let objectInformationFile = require(`./../json/Reference/objects.json`)
                 let type = objectInformationFile.table.find(a => a.id === objectID).type
                 message.channel.send(`Object [${objectID}] Type: **${type}**`)
-                return
+                //return
 
                 if (type == (`NPC`) || type == (`UserGeneratedNPCs`)) {
                     const func = require(`./npc.js`);
@@ -42,9 +42,9 @@ module.exports = {
                     }
                     return
                 } else if (type == 'Loot') {
-                    const func = require(`./item.js`);
+                    const func = require(`./../functions/item.js`);
                     try {
-                        func.execute(message, args);
+                        func.execute(message, objectID);
                     } catch (error) {
                         console.error(error);
                     }

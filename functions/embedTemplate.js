@@ -1,10 +1,7 @@
 module.exports = {
-    execute(message, title, description, url, thumbnail, fields) {
+    execute(message, title, description, url, thumbnail) {
         const {inviteLink, iconURL, footer} = require('./../config.json');
 
-        const client = message.client;
-        let channel = message.channel.toString();
-        channel = channel.substring(2, channel.length-1);
 
         const Discord = require('discord.js');
         const embed = new Discord.MessageEmbed()
@@ -25,6 +22,6 @@ module.exports = {
             .setTimestamp()
             .setFooter(footer, iconURL);
 
-        client.channels.cache.get(channel).send(embed);
+        return embed
     }
 }
