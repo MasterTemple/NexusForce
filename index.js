@@ -46,7 +46,7 @@ client.on('message', message => {
                 message.reply('There was an issue executing that command! 😭');
             }
         }
-    }else{
+    }else if(client.mythranCommands.has(commandName)){
         message.reply("You're not a Mythran! Get back to smashing the Maelstrom!")
     }
 

@@ -16,14 +16,20 @@ module.exports = {
             }
         }
 
-        if(args.length == 1){
+        if(args.length > 1 || isNaN(args[0])){
+            let findOne = require(`./../functions/findOne.js`)
+            var objectID = findOne.execute(args)
+            if(objectID===undefined){
+                message.channel.send("An object with this DisplayName or Name does not exist.")
+            }
+        }else{
             var objectID = args[0]
+        }
+        console.log(objectID)
+
             try {
-                const client = message.client
                 let objectInformationFile = require(`./../json/Reference/objects.json`)
-                //console.log(objectInformationFile.table.find(a => a.id === objectID))
                 let type = objectInformationFile.table.find(a => a.id === objectID).type
-                //console.log(`Type: ${type}`)
                 message.channel.send(`Object [${objectID}] Type: **${type}**`)
                 return
 
@@ -64,10 +70,11 @@ module.exports = {
                 } else {
                     message.channel.send(`Object [${id}] Type: **${type}**\nThis datatype is not currently supported.`)
                 }
-            } catch {
+            } catch(e) {
+            console.log(e)
                 message.channel.send("An object for this ID does not even exist.")
             }
-        }
+
 
     }
 }

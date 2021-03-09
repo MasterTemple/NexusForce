@@ -2,7 +2,7 @@ module.exports = {
     name: ['setmythran'],
     description: 'Give another user Mythran permissions.',
     args: true,
-    use: `setMythran [url]`,
+    use: `setMythran [id]`,
     example:[`setMythran 789705048035688458`],
     execute(message, args) {
         let config = require('./../config.json');
