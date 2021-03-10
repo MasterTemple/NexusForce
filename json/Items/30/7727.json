@@ -26,7 +26,8 @@
     "damageCombo": "2+4",
     "chargeUpImaginationCost": 3,
     "doubleJumpSmash": "1",
-    "singleJumpSmash": "2"
+    "singleJumpSmash": "2",
+    "hasChargeUp": true
   },
   "abilityName": "Freeze Wand 2",
   "chargeUpDescription": "Does 4 damage and freezes enemies",

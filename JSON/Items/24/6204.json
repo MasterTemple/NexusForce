@@ -23,11 +23,12 @@
     17171
   ],
   "meleeDamageInfo": {
-    "damageCombo": "2+3",
-    "chargeUpDamage": "2",
+    "damageCombo": "2+2+3",
     "chargeUpImaginationCost": 1,
     "doubleJumpSmash": "1",
-    "singleJumpSmash": "2"
+    "singleJumpSmash": "2",
+    "chargeUpDoesDamage": false,
+    "hasChargeUp": true
   },
   "abilityName": "Great Attack with Rooting",
   "chargeUpDescription": "Sticks enemies' feet to the ground",

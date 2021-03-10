@@ -25,7 +25,9 @@
   "meleeDamageInfo": {
     "damageCombo": "",
     "doubleJumpSmash": "1",
-    "singleJumpSmash": "1"
+    "singleJumpSmash": "1",
+    "chargeUpDoesDamage": true,
+    "hasChargeUp": true
   },
   "abilityName": "Wand Mastery 1",
   "chargeUpDescription": "Restores 2 Imagination for nearby characters",

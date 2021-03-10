@@ -37,7 +37,9 @@
   "meleeDamageInfo": {
     "damageCombo": "",
     "doubleJumpSmash": "2",
-    "singleJumpSmash": "3"
+    "singleJumpSmash": "3",
+    "chargeUpDoesDamage": true,
+    "hasChargeUp": true
   },
   "Imagination": 2,
   "chargeUpDescription": "Restores up to 12 Armor to nearby characters - charge longer for more Armor",

@@ -25,7 +25,8 @@
   "meleeDamageInfo": {
     "damageCombo": "4",
     "doubleJumpSmash": "2",
-    "singleJumpSmash": "4"
+    "singleJumpSmash": "4",
+    "hasChargeUp": false
   },
   "abilityName": "Wand Attack",
   "localeDescription": " Blasts enemies in front of you",

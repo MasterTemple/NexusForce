@@ -25,7 +25,8 @@
   "meleeDamageInfo": {
     "damageCombo": "3+3+4",
     "doubleJumpSmash": "2",
-    "singleJumpSmash": "3"
+    "singleJumpSmash": "3",
+    "hasChargeUp": false
   },
   "abilityName": "Heroic Attack",
   "localeDescription": "Slashes enemies",

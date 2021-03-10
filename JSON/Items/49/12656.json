@@ -36,7 +36,9 @@
     "chargeUpDamage": "5",
     "chargeUpImaginationCost": 2,
     "doubleJumpSmash": "5",
-    "singleJumpSmash": "7"
+    "singleJumpSmash": "7",
+    "chargeUpDoesDamage": true,
+    "hasChargeUp": true
   },
   "chargeUpDescription": "Turns you into a whirlwind that shields you from damage; release to do 2 damage to normal enemies or 5 damage to Skeletons and knock them down",
   "cooldowngroup": 0,

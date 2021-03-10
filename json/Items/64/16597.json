@@ -13,9 +13,12 @@
     33455
   ],
   "meleeDamageInfo": {
-    "damageCombo": "1+6+1+6+3+9",
+    "damageCombo": "1+6+1+3+9",
+    "chargeUpDamage": "6",
     "doubleJumpSmash": "4",
-    "singleJumpSmash": "6"
+    "singleJumpSmash": "6",
+    "chargeUpDoesDamage": true,
+    "hasChargeUp": false
   },
   "localeDescription": "Slashes enemies",
   "projectileDamageInfo": {

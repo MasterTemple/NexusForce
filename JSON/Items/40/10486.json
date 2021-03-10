@@ -27,7 +27,9 @@
     "chargeUpDamage": "1",
     "chargeUpImaginationCost": 1,
     "doubleJumpSmash": "1",
-    "singleJumpSmash": "1"
+    "singleJumpSmash": "1",
+    "chargeUpDoesDamage": true,
+    "hasChargeUp": true
   },
   "abilityName": "Dragon Style Attack",
   "chargeUpDescription": "Launches you into the air, doing 1 damage to enemies you strike",

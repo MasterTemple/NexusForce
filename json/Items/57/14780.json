@@ -25,7 +25,8 @@
   "meleeDamageInfo": {
     "damageCombo": "2+6+2+7+2+10",
     "doubleJumpSmash": "4",
-    "singleJumpSmash": "6"
+    "singleJumpSmash": "6",
+    "hasChargeUp": false
   },
   "abilityName": "Ninjago Attack",
   "localeDescription": "Slashes enemies",

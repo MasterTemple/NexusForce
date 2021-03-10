@@ -27,7 +27,9 @@
     "chargeUpDamage": "3",
     "chargeUpImaginationCost": 3,
     "doubleJumpSmash": "1",
-    "singleJumpSmash": "2"
+    "singleJumpSmash": "2",
+    "chargeUpDoesDamage": true,
+    "hasChargeUp": true
   },
   "abilityName": "Great Attack with Lightning",
   "chargeUpDescription": "Calls down lightning that does 3 damage to enemies",

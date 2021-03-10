@@ -25,7 +25,8 @@
   "meleeDamageInfo": {
     "damageCombo": "2+2",
     "doubleJumpSmash": "1",
-    "singleJumpSmash": "1"
+    "singleJumpSmash": "1",
+    "hasChargeUp": false
   },
   "abilityName": "Quality Attack",
   "localeDescription": "Pokes enemies",

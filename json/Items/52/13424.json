@@ -26,7 +26,9 @@
     "damageCombo": "10+10+10",
     "chargeUpDamage": "100",
     "doubleJumpSmash": "10",
-    "singleJumpSmash": "10"
+    "singleJumpSmash": "10",
+    "chargeUpDoesDamage": true,
+    "hasChargeUp": true
   },
   "projectileDamageInfo": {
     "chargeUpDamage": "10",

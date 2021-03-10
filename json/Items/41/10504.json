@@ -23,10 +23,11 @@
     5744
   ],
   "meleeDamageInfo": {
-    "damageCombo": "2+3",
-    "chargeUpDamage": "3",
+    "damageCombo": "2+3+3",
     "doubleJumpSmash": "1",
-    "singleJumpSmash": "2"
+    "singleJumpSmash": "2",
+    "chargeUpDoesDamage": false,
+    "hasChargeUp": true
   },
   "abilityName": "Knight's Blade 3",
   "chargeUpDescription": "Blocks 8 attacks while charged",

@@ -23,10 +23,11 @@
     23814
   ],
   "meleeDamageInfo": {
-    "damageCombo": "2+1",
-    "chargeUpDamage": "2",
+    "damageCombo": "2+2+1",
     "doubleJumpSmash": "1",
-    "singleJumpSmash": "1"
+    "singleJumpSmash": "1",
+    "chargeUpDoesDamage": false,
+    "hasChargeUp": true
   },
   "abilityName": "Shadow Blade 1",
   "chargeUpDescription": "Restores 2 Imagination for nearby characters",

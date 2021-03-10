@@ -27,7 +27,8 @@
   "meleeDamageInfo": {
     "damageCombo": "2+3+3",
     "doubleJumpSmash": "1",
-    "singleJumpSmash": "2"
+    "singleJumpSmash": "2",
+    "hasChargeUp": false
   },
   "abilityName": "Lucky",
   "localeDescription": "Smashes enemies",

@@ -27,7 +27,9 @@
     "chargeUpDamage": "7",
     "chargeUpImaginationCost": 6,
     "doubleJumpSmash": "2",
-    "singleJumpSmash": "3"
+    "singleJumpSmash": "3",
+    "chargeUpDoesDamage": true,
+    "hasChargeUp": true
   },
   "abilityName": "Heroic Attack with Lightning",
   "chargeUpDescription": "Calls down lightning that does 7 damage to enemies",

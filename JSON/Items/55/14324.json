@@ -23,10 +23,11 @@
     38731
   ],
   "meleeDamageInfo": {
-    "damageCombo": "4+4",
-    "chargeUpDamage": "4",
+    "damageCombo": "4+4+4",
     "doubleJumpSmash": "2",
-    "singleJumpSmash": "4"
+    "singleJumpSmash": "4",
+    "chargeUpDoesDamage": false,
+    "hasChargeUp": true
   },
   "abilityName": "Rental Blaster Master",
   "chargeUpDescription": "Restores up to 5 Imagination for nearby characters - charge longer for more Imagination",

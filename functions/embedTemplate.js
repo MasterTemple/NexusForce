@@ -1,5 +1,5 @@
 module.exports = {
-    execute(message, title, description, url, thumbnail) {
+    execute(title, description, url, thumbnail) {
         const {inviteLink, iconURL, footer} = require('./../config.json');
 
 

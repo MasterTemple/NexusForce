@@ -25,7 +25,8 @@
   "meleeDamageInfo": {
     "damageCombo": "3",
     "doubleJumpSmash": "1",
-    "singleJumpSmash": "1"
+    "singleJumpSmash": "1",
+    "hasChargeUp": false
   },
   "abilityName": "Worthy Attack",
   "localeDescription": "Slashes enemies",

@@ -25,7 +25,8 @@
   "meleeDamageInfo": {
     "damageCombo": "2+3",
     "doubleJumpSmash": "1",
-    "singleJumpSmash": "1"
+    "singleJumpSmash": "1",
+    "hasChargeUp": false
   },
   "abilityName": "Superior Attack",
   "localeDescription": "Smashes enemies",

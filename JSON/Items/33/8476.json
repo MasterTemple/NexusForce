@@ -27,7 +27,9 @@
     "chargeUpDamage": "4",
     "chargeUpImaginationCost": 3,
     "doubleJumpSmash": "2",
-    "singleJumpSmash": "3"
+    "singleJumpSmash": "3",
+    "chargeUpDoesDamage": true,
+    "hasChargeUp": true
   },
   "abilityName": "Elite Attack with Lightning",
   "chargeUpDescription": "Calls down lightning that does 4 damage to enemies",

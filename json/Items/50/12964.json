@@ -25,10 +25,11 @@
     9912
   ],
   "meleeDamageInfo": {
-    "damageCombo": "3+2",
-    "chargeUpDamage": "3",
+    "damageCombo": "3+3+2",
     "doubleJumpSmash": "1",
-    "singleJumpSmash": "2"
+    "singleJumpSmash": "2",
+    "chargeUpDoesDamage": false,
+    "hasChargeUp": true
   },
   "abilityName": "Wrench Wrecker 3",
   "Imagination": 2,

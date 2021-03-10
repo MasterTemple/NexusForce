@@ -23,10 +23,13 @@
     16888
   ],
   "meleeDamageInfo": {
-    "damageCombo": "1+1+1+4",
+    "damageCombo": "1+1+1",
+    "chargeUpDamage": "4",
     "chargeUpImaginationCost": 3,
     "doubleJumpSmash": "2",
-    "singleJumpSmash": "3"
+    "singleJumpSmash": "3",
+    "chargeUpDoesDamage": true,
+    "hasChargeUp": true
   },
   "abilityName": "Elite Ranged Attack",
   "chargeUpDescription": "Spins you around, doing 4 damage to nearby enemies",

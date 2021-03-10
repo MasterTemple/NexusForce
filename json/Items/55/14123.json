@@ -23,10 +23,13 @@
     31518
   ],
   "meleeDamageInfo": {
-    "damageCombo": "1+1+1+1+1+1",
+    "damageCombo": "1+1+1+1+1",
+    "chargeUpDamage": "1",
     "chargeUpImaginationCost": 1,
     "doubleJumpSmash": "2",
-    "singleJumpSmash": "3"
+    "singleJumpSmash": "3",
+    "chargeUpDoesDamage": true,
+    "hasChargeUp": false
   },
   "abilityName": "Elite Ranged Attack",
   "localeDescription": "Fire a projectile",

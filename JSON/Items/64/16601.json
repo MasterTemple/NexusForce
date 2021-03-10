@@ -34,7 +34,8 @@
   "meleeDamageInfo": {
     "damageCombo": "1+6+2+6+3+10",
     "doubleJumpSmash": "4",
-    "singleJumpSmash": "6"
+    "singleJumpSmash": "6",
+    "hasChargeUp": false
   },
   "localeDescription": "Spin around and deal damage to enemies",
   "projectileDamageInfo": {

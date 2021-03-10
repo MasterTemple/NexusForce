@@ -25,7 +25,8 @@
   "meleeDamageInfo": {
     "damageCombo": "1",
     "doubleJumpSmash": "1",
-    "singleJumpSmash": "1"
+    "singleJumpSmash": "1",
+    "hasChargeUp": true
   },
   "abilityName": "Imagination Wand 1",
   "chargeUpDescription": "Restores 4 Imagination",

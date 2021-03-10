@@ -25,7 +25,9 @@
   "meleeDamageInfo": {
     "damageCombo": "1+1+1",
     "doubleJumpSmash": "1",
-    "singleJumpSmash": "1"
+    "singleJumpSmash": "1",
+    "chargeUpDoesDamage": true,
+    "hasChargeUp": false
   },
   "abilityName": "Basic Attack",
   "localeDescription": "Slashes enemies",

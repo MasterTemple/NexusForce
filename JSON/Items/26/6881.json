@@ -25,7 +25,8 @@
   "meleeDamageInfo": {
     "damageCombo": "2",
     "doubleJumpSmash": "1",
-    "singleJumpSmash": "1"
+    "singleJumpSmash": "1",
+    "hasChargeUp": false
   },
   "abilityName": "Improved Attack",
   "localeDescription": "Smashes enemies",

@@ -32,11 +32,12 @@
     11860
   ],
   "meleeDamageInfo": {
-    "damageCombo": "3+3",
-    "chargeUpDamage": "3",
+    "damageCombo": "3+3+3",
     "chargeUpImaginationCost": 1,
     "doubleJumpSmash": "2",
-    "singleJumpSmash": "3"
+    "singleJumpSmash": "3",
+    "chargeUpDoesDamage": false,
+    "hasChargeUp": true
   },
   "chargeUpDescription": "Puts enemies to sleep",
   "projectileDamageInfo": {

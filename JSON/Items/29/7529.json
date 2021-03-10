@@ -23,10 +23,11 @@
     13780
   ],
   "meleeDamageInfo": {
-    "damageCombo": "2+1",
-    "chargeUpDamage": "2",
+    "damageCombo": "2+2+1",
     "doubleJumpSmash": "1",
-    "singleJumpSmash": "1"
+    "singleJumpSmash": "1",
+    "chargeUpDoesDamage": false,
+    "hasChargeUp": true
   },
   "abilityName": "Gnarled Staff 1",
   "chargeUpDescription": "Restores up to 2 Armor to nearby characters",

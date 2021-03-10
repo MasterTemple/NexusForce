@@ -25,7 +25,9 @@
   "meleeDamageInfo": {
     "damageCombo": "",
     "doubleJumpSmash": "1",
-    "singleJumpSmash": "1"
+    "singleJumpSmash": "1",
+    "chargeUpDoesDamage": true,
+    "hasChargeUp": true
   },
   "abilityName": "Improvised Launcher 1",
   "chargeUpDescription": "Restores up to 2 Armor to nearby characters",

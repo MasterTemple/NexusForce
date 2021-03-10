@@ -42,7 +42,8 @@
   "meleeDamageInfo": {
     "damageCombo": "1",
     "doubleJumpSmash": "1",
-    "singleJumpSmash": "1"
+    "singleJumpSmash": "1",
+    "hasChargeUp": false
   },
   "localeDescription": "Sprays soapy water",
   "abilityImaginationCost": 0,

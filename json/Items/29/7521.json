@@ -23,10 +23,11 @@
     11035
   ],
   "meleeDamageInfo": {
-    "damageCombo": "2+2",
-    "chargeUpDamage": "2",
+    "damageCombo": "2+2+2",
     "doubleJumpSmash": "1",
-    "singleJumpSmash": "2"
+    "singleJumpSmash": "2",
+    "chargeUpDoesDamage": false,
+    "hasChargeUp": true
   },
   "abilityName": "Blaster Master 2",
   "chargeUpDescription": "Restores up to 5 Imagination for nearby characters - charge longer for more Imagination",

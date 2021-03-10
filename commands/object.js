@@ -30,7 +30,6 @@ module.exports = {
             try {
                 let objectInformationFile = require(`./../json/Reference/objects.json`)
                 let type = objectInformationFile.table.find(a => a.id === objectID).type
-                message.channel.send(`Object [${objectID}] Type: **${type}**`)
                 //return
 
                 if (type == (`NPC`) || type == (`UserGeneratedNPCs`)) {
@@ -69,6 +68,7 @@ module.exports = {
                     return
                 } else {
                     message.channel.send(`Object [${id}] Type: **${type}**\nThis datatype is not currently supported.`)
+
                 }
             } catch(e) {
             console.log(e)

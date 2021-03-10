@@ -15,7 +15,9 @@
   "meleeDamageInfo": {
     "damageCombo": "1",
     "doubleJumpSmash": "1",
-    "singleJumpSmash": "1"
+    "singleJumpSmash": "1",
+    "chargeUpDoesDamage": true,
+    "hasChargeUp": true
   },
   "chargeUpDescription": "Restores 4 Imagination",
   "abilityImaginationCost": 0,

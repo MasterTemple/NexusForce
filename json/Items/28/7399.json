@@ -27,7 +27,9 @@
   "meleeDamageInfo": {
     "damageCombo": "",
     "doubleJumpSmash": "1",
-    "singleJumpSmash": "2"
+    "singleJumpSmash": "2",
+    "chargeUpDoesDamage": true,
+    "hasChargeUp": true
   },
   "abilityName": "Wand Mastery 3",
   "Imagination": 1,

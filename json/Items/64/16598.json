@@ -15,7 +15,8 @@
   "meleeDamageInfo": {
     "damageCombo": "1+6+2+7+3+9",
     "doubleJumpSmash": "4",
-    "singleJumpSmash": "6"
+    "singleJumpSmash": "6",
+    "hasChargeUp": false
   },
   "localeDescription": "Pokes enemies",
   "projectileDamageInfo": {

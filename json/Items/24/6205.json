@@ -27,7 +27,9 @@
     "chargeUpDamage": "3",
     "chargeUpImaginationCost": 1,
     "doubleJumpSmash": "1",
-    "singleJumpSmash": "1"
+    "singleJumpSmash": "1",
+    "chargeUpDoesDamage": true,
+    "hasChargeUp": true
   },
   "abilityName": "Superior Attack with Knockback",
   "chargeUpDescription": "Knocks back enemies",

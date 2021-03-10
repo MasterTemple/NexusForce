@@ -26,7 +26,9 @@
     "damageCombo": "3",
     "chargeUpImaginationCost": 1,
     "doubleJumpSmash": "1",
-    "singleJumpSmash": "1"
+    "singleJumpSmash": "1",
+    "chargeUpDoesDamage": true,
+    "hasChargeUp": true
   },
   "abilityName": "Worthy Attack with Repulsion",
   "chargeUpDescription": "Knocks back enemies ",

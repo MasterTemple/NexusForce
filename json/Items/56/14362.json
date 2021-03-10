@@ -27,7 +27,9 @@
     "chargeUpDamage": "3",
     "chargeUpImaginationCost": 4,
     "doubleJumpSmash": "2",
-    "singleJumpSmash": "2"
+    "singleJumpSmash": "2",
+    "chargeUpDoesDamage": true,
+    "hasChargeUp": true
   },
   "abilityName": "Rental Flare Guns",
   "chargeUpDescription": "Fires a 4 damage projectile",

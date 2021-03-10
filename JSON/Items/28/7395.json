@@ -23,10 +23,11 @@
     9531
   ],
   "meleeDamageInfo": {
-    "damageCombo": "2+2",
-    "chargeUpDamage": "3",
+    "damageCombo": "2+3+2",
     "doubleJumpSmash": "1",
-    "singleJumpSmash": "2"
+    "singleJumpSmash": "2",
+    "chargeUpDoesDamage": false,
+    "hasChargeUp": true
   },
   "abilityName": "Wrench Wrecker 2",
   "chargeUpDescription": "Restores up to 6 Armor to nearby characters - charge longer for more Armor",

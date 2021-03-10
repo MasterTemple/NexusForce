@@ -34,7 +34,8 @@
   "meleeDamageInfo": {
     "damageCombo": "1+1+2",
     "doubleJumpSmash": "1",
-    "singleJumpSmash": "1"
+    "singleJumpSmash": "1",
+    "hasChargeUp": false
   },
   "localeDescription": "Turns you into a whirlwind that does 5 damage to enemies",
   "projectileDamageInfo": {

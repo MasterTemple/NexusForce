@@ -35,7 +35,8 @@
     "damageCombo": "2+2+3+4",
     "chargeUpImaginationCost": 6,
     "doubleJumpSmash": "1",
-    "singleJumpSmash": "1"
+    "singleJumpSmash": "1",
+    "hasChargeUp": true
   },
   "chargeUpDescription": "Fires a 5 damage projectile",
   "projectileDamageInfo": {

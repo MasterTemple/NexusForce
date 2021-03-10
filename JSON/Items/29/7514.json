@@ -25,10 +25,11 @@
     11860
   ],
   "meleeDamageInfo": {
-    "damageCombo": "1+2",
-    "chargeUpDamage": "1",
+    "damageCombo": "1+1+2",
     "doubleJumpSmash": "1",
-    "singleJumpSmash": "1"
+    "singleJumpSmash": "1",
+    "chargeUpDoesDamage": false,
+    "hasChargeUp": true
   },
   "abilityName": "[DNL] Angers Enemies UI",
   "chargeUpDescription": "Blocks 4 attacks while charged",

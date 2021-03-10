@@ -23,11 +23,12 @@
     15034
   ],
   "meleeDamageInfo": {
-    "damageCombo": "2+2",
-    "chargeUpDamage": "2",
+    "damageCombo": "2+2+2",
     "chargeUpImaginationCost": 5,
     "doubleJumpSmash": "1",
-    "singleJumpSmash": "2"
+    "singleJumpSmash": "2",
+    "chargeUpDoesDamage": false,
+    "hasChargeUp": true
   },
   "abilityName": "Quality Attack with Shield",
   "chargeUpDescription": "Shields you from 5 points of damage",

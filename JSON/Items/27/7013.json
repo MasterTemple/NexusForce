@@ -25,7 +25,8 @@
   "meleeDamageInfo": {
     "damageCombo": "3+3+3",
     "doubleJumpSmash": "2",
-    "singleJumpSmash": "3"
+    "singleJumpSmash": "3",
+    "hasChargeUp": false
   },
   "abilityName": "Elite Attack",
   "localeDescription": "Pokes enemies",

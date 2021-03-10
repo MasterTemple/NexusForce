@@ -27,7 +27,9 @@
     "chargeUpDamage": "2",
     "chargeUpImaginationCost": 1,
     "doubleJumpSmash": "1",
-    "singleJumpSmash": "1"
+    "singleJumpSmash": "1",
+    "chargeUpDoesDamage": true,
+    "hasChargeUp": true
   },
   "abilityName": "Panda Style Attack",
   "chargeUpDescription": "Makes you roll into enemies, doing 2 damage",

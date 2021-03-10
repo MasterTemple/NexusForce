@@ -42,7 +42,9 @@
     "chargeUpDamage": "10",
     "chargeUpImaginationCost": 7,
     "doubleJumpSmash": "1",
-    "singleJumpSmash": "3"
+    "singleJumpSmash": "3",
+    "chargeUpDoesDamage": true,
+    "hasChargeUp": true
   },
   "Armor": 2,
   "Imagination": 2,

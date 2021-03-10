@@ -26,7 +26,9 @@
     "damageCombo": "1+1+1",
     "chargeUpImaginationCost": 1,
     "doubleJumpSmash": "5",
-    "singleJumpSmash": "7"
+    "singleJumpSmash": "7",
+    "chargeUpDoesDamage": true,
+    "hasChargeUp": false
   },
   "abilityName": "Ninjago Sashimi Attack",
   "localeDescription": "Fires a Seeking Fish",

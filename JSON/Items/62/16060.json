@@ -17,7 +17,8 @@
   "meleeDamageInfo": {
     "damageCombo": "3+7+3+8+3+9",
     "doubleJumpSmash": "5",
-    "singleJumpSmash": "7"
+    "singleJumpSmash": "7",
+    "hasChargeUp": false
   },
   "abilityImaginationCost": 0,
   "cooldowngroup": -1,

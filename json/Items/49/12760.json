@@ -23,10 +23,11 @@
     26114
   ],
   "meleeDamageInfo": {
-    "damageCombo": "3+3",
-    "chargeUpDamage": "3",
+    "damageCombo": "3+3+3",
     "doubleJumpSmash": "2",
-    "singleJumpSmash": "3"
+    "singleJumpSmash": "3",
+    "chargeUpDoesDamage": false,
+    "hasChargeUp": true
   },
   "abilityName": "Elite Attack with Block",
   "chargeUpDescription": "Blocks 3 attacks while charged",
