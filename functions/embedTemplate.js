@@ -9,7 +9,6 @@ module.exports = {
             .setTitle(title)
             .setURL(url)
             .setAuthor(`Nexus Force`, iconURL, inviteLink)
-            .setDescription(description)
 
             .setThumbnail(thumbnail)
             //.addFields(
@@ -21,6 +20,10 @@ module.exports = {
             //.setImage(thumbnail)
             .setTimestamp()
             .setFooter(footer, iconURL);
+
+        if(description !== undefined){
+            embed.setDescription(description)
+        }
 
         return embed
     }

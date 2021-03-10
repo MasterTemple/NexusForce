@@ -12,9 +12,29 @@ module.exports = {
 
         // message.channel.send(`\`\`\`${JSON.stringify(item,null,2)}\`\`\``)
 
+        if(item.Armor === undefined){
+            item.Armor = 0
+        }
+        if(item.Health === undefined){
+            item.Health = 0
+        }
+        if(item.Imagination === undefined){
+            item.Imagination = 0
+        }
+        if(item.description === null){
+            item.description = "None"
+        }
+        if(item.internalNotes === null){
+            item.internalNotes = "None"
+        }
+        if(item.levelRequirement === null){
+            item.levelRequirement = "None"
+        }
+
+
         let msgEmbed = require(`./embedTemplate.js`)
         if(item.equipLocationNames.length === 1){
-            var description = `**Equip Location:** ${item.equipLocationNames[0]}`
+            //var description = `**Equip Location:** ${item.equipLocationNames[0]}`
         }else{
             var description = `**Equip Locations:** ${item.equipLocationNames.join(`, `)}`
         }
@@ -30,22 +50,65 @@ module.exports = {
             { name: 'Health', value: item.Health, inline: true },
             { name: 'Imagination', value: item.Imagination, inline: true },
         )
-        embed.addFields(
-            { name: item.abilityName, value: item.localeDescription, inline: false },
-            // { name: item.abilityName, value: item.localeDescription, inline: true },
-            // { name: item.abilityName, value: item.localeDescription, inline: true },
-        )
-        embed.addFields(
-            { name: "Imagination Cost", value: item.abilityImaginationCost, inline: true },
-            { name: "Cooldown Time", value: `${item.cooldownTime} Seconds`, inline: true },
-            { name: "Cooldown Group", value: item.cooldowngroup, inline: true },
-        )
 
-        embed.addFields(
-            { name: "Cost", value: item.price, inline: true },
-            { name: "Faction Token Cost", value: item.factionTokens, inline: true },
-            { name: "Level Requirement", value: item.levelRequirement, inline: true },
-        )
+        if(item.isWeapon === false && item.abilityName !== undefined){
+            embed.addFields(
+                {name: item.abilityName, value: item.localeDescription, inline: false},
+                // { name: item.abilityName, value: item.localeDescription, inline: true },
+                // { name: item.abilityName, value: item.localeDescription, inline: true },
+            )
+        }
+
+        if(item.isWeapon === true && item.projectileDamageInfo.projectileDamageCombo === ""){
+            embed.addFields(
+                {name: "Damage Combo", value: item.meleeDamageInfo.damageCombo, inline: true},
+                {name: "Singe Jump Smash", value: item.meleeDamageInfo.singleJumpSmash, inline: true},
+                {name: "Double Jump Smash", value: item.meleeDamageInfo.doubleJumpSmash, inline: true},
+            )
+        }else if(item.isWeapon === true && item.projectileDamageInfo.projectileDamageCombo !== ""){
+            embed.addFields(
+                {name: "Damage Combo", value: item.projectileDamageInfo.projectileDamageCombo, inline: true},
+                {name: "Singe Jump Smash", value: item.meleeDamageInfo.singleJumpSmash, inline: true},
+                {name: "Double Jump Smash", value: item.meleeDamageInfo.doubleJumpSmash, inline: true},
+            )
+        }
+
+
+        if(item.isWeapon && item.allItems.length !== 1){
+            embed.addFields(
+                {name: "Imagination Cost", value: item.abilityImaginationCost, inline: true},
+                {name: "Cooldown Time", value: `${item.cooldownTime} Seconds`, inline: true},
+                {name: "Cooldown Group", value: item.cooldowngroup, inline: true},
+            )
+        }
+
+        if(item.isWeapon === false && item.abilityImaginationCost !== undefined && item.cooldownTime !== undefined && item.cooldowngroup !== undefined){
+            embed.addFields(
+                {name: "Imagination Cost", value: item.abilityImaginationCost, inline: true},
+                {name: "Cooldown Time", value: `${item.cooldownTime} Seconds`, inline: true},
+                {name: "Cooldown Group", value: item.cooldowngroup, inline: true},
+            )
+        }
+
+        if(item.factionTokens !== null){
+            embed.addFields(
+                {name: "Cost", value: item.price, inline: true},
+                {name: "Faction Token Cost", value: item.factionTokens, inline: true},
+                {name: "Level Requirement", value: item.levelRequirement, inline: true},
+            )
+        }else if(item.commendationCost !== null){
+            embed.addFields(
+                {name: "Cost", value: item.price, inline: true},
+                {name: "Commendation Cost", value: item.commendationCost, inline: true},
+                {name: "Level Requirement", value: item.levelRequirement, inline: true},
+            )
+        }else if(item.commendationCost === null){
+            embed.addFields(
+                {name: "Cost", value: item.price, inline: true},
+                {name: "Stack Size", value: item.stackSize, inline: true},
+                {name: "Level Requirement", value: item.levelRequirement, inline: true},
+            )
+        }
 
         message.channel.send(embed)
 
