@@ -44,5 +44,8 @@
   "price": 7500,
   "commendationCost": null,
   "factionTokens": 180,
-  "levelRequirement": "30"
+  "levelRequirement": "30",
+  "Armor": 0,
+  "Health": 0,
+  "Imagination": 0
 }
