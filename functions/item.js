@@ -44,12 +44,7 @@ module.exports = {
             { name: 'Description', value: item.description, inline: true },
             { name: 'Internal Notes', value: item.internalNotes, inline: true },
         )
-        embed.addFields(
 
-            { name: 'Armor', value: item.Armor, inline: true },
-            { name: 'Health', value: item.Health, inline: true },
-            { name: 'Imagination', value: item.Imagination, inline: true },
-        )
 
         if(item.isWeapon === false && item.abilityName !== undefined){
             embed.addFields(
@@ -58,6 +53,13 @@ module.exports = {
                 // { name: item.abilityName, value: item.localeDescription, inline: true },
             )
         }
+
+        embed.addFields(
+
+            { name: 'Armor', value: item.Armor, inline: true },
+            { name: 'Health', value: item.Health, inline: true },
+            { name: 'Imagination', value: item.Imagination, inline: true },
+        )
 
         if(item.isWeapon === true && item.projectileDamageInfo.projectileDamageCombo === ""){
             embed.addFields(
@@ -73,8 +75,23 @@ module.exports = {
             )
         }
 
+        if(item.isWeapon && item.meleeDamageInfo.chargeUpDamage !== undefined && item.projectileDamageInfo.chargeUpIsProjectile === false){
+            embed.addFields(
+                {name: "Charge Up Ability", value: item.chargeUpDescription, inline: true},
+                {name: "Charge Up Damage", value: item.meleeDamageInfo.chargeUpDamage, inline: true},
+                {name: "Charge Up Cost", value: `${item.meleeDamageInfo.chargeUpImaginationCost} Imagination`, inline: true},
+            )
+        }else if(item.isWeapon && item.meleeDamageInfo.chargeUpDamage !== undefined && item.projectileDamageInfo.chargeUpIsProjectile){
+            embed.addFields(
+                {name: "Charge Up Ability", value: item.chargeUpDescription, inline: true},
+                {name: "Charge Up Damage", value: item.projectileDamageInfo.chargeUpDamage, inline: true},
+                {name: "Charge Up Cost", value: `${item.meleeDamageInfo.chargeUpImaginationCost} Imagination`, inline: true},
+            )
+        }
 
-        if(item.isWeapon && item.allItems.length !== 1){
+
+
+            if(item.isWeapon && item.allItems.length !== 1){
             embed.addFields(
                 {name: "Imagination Cost", value: item.abilityImaginationCost, inline: true},
                 {name: "Cooldown Time", value: `${item.cooldownTime} Seconds`, inline: true},
@@ -99,7 +116,7 @@ module.exports = {
         }else if(item.commendationCost !== null){
             embed.addFields(
                 {name: "Cost", value: item.price, inline: true},
-                {name: "Commendation Cost", value: item.commendationCost, inline: true},
+                {name: "Commendation Cost", value: `${item.commendationCost} Faction Tokens`, inline: true},
                 {name: "Level Requirement", value: item.levelRequirement, inline: true},
             )
         }else if(item.commendationCost === null){
