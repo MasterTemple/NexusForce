@@ -1,0 +1,51 @@
+{
+  "allItems": [
+    7533
+  ],
+  "equipLocationNames": [
+    "Right Hand"
+  ],
+  "equipLocation": [
+    "special_r"
+  ],
+  "isPackage": false,
+  "itemID": 7533,
+  "name": "Adventurer Crossbow 2",
+  "displayName": "Adventurer Crossbow 2",
+  "description": "Rank 2 Specialty Kit Item",
+  "isWeapon": true,
+  "internalNotes": "Rank 2 Specialty Kit Item",
+  "abilityNames": [],
+  "skillIDs": [
+    1060
+  ],
+  "behaviorIDs": [
+    23302
+  ],
+  "meleeDamageInfo": {
+    "damageCombo": "1+1+1",
+    "chargeUpImaginationCost": 4,
+    "doubleJumpSmash": "1",
+    "singleJumpSmash": "2",
+    "chargeUpDoesDamage": true,
+    "hasChargeUp": true
+  },
+  "abilityName": "Adventurer Crossbow 2",
+  "chargeUpDescription": "Fires a spread of bolts that do 3 damage each",
+  "projectileDamageInfo": {
+    "chargeUpDamage": "3",
+    "projectileDamageCombo": "2+3+2",
+    "isChargeUp": true,
+    "chargeUpIsProjectile": true,
+    "isProjectileWeapon": true
+  },
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/factionkits/adventurer2_gun.png",
+  "stackSize": 1,
+  "price": 3000,
+  "commendationCost": null,
+  "factionTokens": 60,
+  "levelRequirement": "15",
+  "Armor": 0,
+  "Health": 0,
+  "Imagination": 0
+}

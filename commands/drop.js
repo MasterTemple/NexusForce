@@ -15,8 +15,19 @@ module.exports = {
                 console.error(error);
             }
         }
-
-
+        if(args.length > 1 || isNaN(args[0])){
+            let findOne = require(`./../functions/findOne.js`)
+            var objectID = findOne.execute(args)
+            if(objectID===undefined){
+                message.channel.send("An object with this DisplayName or Name does not exist.")
+            }
+        }else{
+            var objectID = args[0]
+        }
+        var dropFile = require(`./../json/Drops/DropInfoOnlyUsedEnemies/${Math.floor(objectID/256)}/${objectID}.json`)
+        if(dropFile)
+        console.log(dropFile)
+        message.channel.send(`\`\`\`json\n${JSON.stringify(dropFile,null, 2)}\`\`\``)
 
 
 
