@@ -1,9 +1,9 @@
 module.exports = {
-    name: ['drop', 'd'],
-    description: 'See what enemies drop an item',
+    name: ['npc'],
+    description: 'See where to npc an item',
     args: true,
-    use: `drop [id]`,
-    example: [`drop 7570`],
+    use: `npc [id]`,
+    example: [`npc 7570`],
     execute(message, args) {
         function err() {
             try {
@@ -24,10 +24,10 @@ module.exports = {
         }else{
             var objectID = args[0]
         }
-        var dropFile = require(`./../json/Drops/DropInfoOnlyUsedEnemies/${Math.floor(objectID/256)}/${objectID}.json`)
-        if(dropFile)
-        console.log(dropFile)
-        message.channel.send(`\`\`\`json\n${JSON.stringify(dropFile,null, 2)}\`\`\``)
+        var npcFile = require(`./../json/NPC/${Math.floor(objectID/256)}/${objectID}.json`)
+        if(npcFile)
+            console.log(npcFile)
+        message.channel.send(`\`\`\`json\n${JSON.stringify(npcFile,null, 2)}\`\`\``)
 
 
 

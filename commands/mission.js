@@ -1,9 +1,9 @@
 module.exports = {
-    name: ['drop', 'd'],
-    description: 'See what enemies drop an item',
+    name: ['mission', 'achievement'],
+    description: 'ADD DESCRIPTION',
     args: true,
-    use: `drop [id]`,
-    example: [`drop 7570`],
+    use: `mission [id]`,
+    example: [`mission 7570`],
     execute(message, args) {
         function err() {
             try {
@@ -16,18 +16,18 @@ module.exports = {
             }
         }
         if(args.length > 1 || isNaN(args[0])){
-            let findOne = require(`functions/findOneObject`)
+            let findOne = require(`./../functions/findOneMission.js`)
             var objectID = findOne.execute(args)
             if(objectID===undefined){
-                message.channel.send("An object with this DisplayName or Name does not exist.")
+                message.channel.send("A mission with this Name does not exist.")
             }
         }else{
             var objectID = args[0]
         }
-        var dropFile = require(`./../json/Drops/DropInfoOnlyUsedEnemies/${Math.floor(objectID/256)}/${objectID}.json`)
-        if(dropFile)
-        console.log(dropFile)
-        message.channel.send(`\`\`\`json\n${JSON.stringify(dropFile,null, 2)}\`\`\``)
+        var missionFile = require(`./../json/MissionsAndAchievements/${Math.floor(objectID/256)}/${objectID}.json`)
+        if(missionFile)
+            console.log(missionFile)
+        message.channel.send(`\`\`\`json\n${JSON.stringify(missionFile,null, 2)}\`\`\``)
 
 
 
