@@ -8,8 +8,8 @@ module.exports = {
         let config = require('./../config.json');
         function err(){
             try {
-                //const help = require(`./help.js`);
-                //help.execute(message, module.exports.name)
+                const help = require(`./mythran.js`);
+                help.execute(message, module.exports.name)
                 console.log(`fail`)
                 return
             } catch (error) {

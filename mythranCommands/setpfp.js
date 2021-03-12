@@ -8,8 +8,8 @@ module.exports = {
         let config = require('./../config.json');
         function err(){
             try {
-                //const help = require(`./help.js`);
-                //help.execute(message, module.exports.name)
+                const help = require(`./mythran.js`);
+                help.execute(message, module.exports.name)
                 console.log(`fail`)
                 return
             } catch (error) {
@@ -24,15 +24,16 @@ module.exports = {
         try{
             client.user.setAvatar(link)
             config.iconURL = link
+            message.channel.send("Done ✅")
         }catch(e){
             console.log(e)
-            err()}
+            err()
+        }
 
 
 
         fs.writeFile ("config.json", JSON.stringify(config,null,2), function(err) {
                 if (err) throw err;
-            message.channel.send("Done ✅")
             }
         );
     }

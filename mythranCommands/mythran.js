@@ -1,5 +1,5 @@
 module.exports = {
-    name: ['help'],
+    name: ['mythran'],
     description: 'Displays public commands and what each one does',
     args: true,
     use: `help optional:[commandName]`,
@@ -18,7 +18,7 @@ module.exports = {
 
         const helpEmbed = new Discord.MessageEmbed()
 
-        const commandFiles = fs.readdirSync('./commands').filter(file => file.endsWith('.js'));
+        const commandFiles = fs.readdirSync('./mythranCommands').filter(file => file.endsWith('.js'));
         var desc = ``
         //const exclude = ["help", "items", "setpfp", "status", "play"]
 
@@ -28,22 +28,22 @@ module.exports = {
 
                 for (var i = 0; i < command.name.length; i++){
 
-                        desc = (`${desc}**`)
-                        //helpEmbed.addFields({ name: 'Display Name', value: displayName, inline: true },)
-                        var cmdNames = ``
-                        for (var i = 0; i < command.name.length; i++) {
-                            //cmdNames = (`${cmdNames}${prefix}${command.name[i]} `)
-                            desc = `${desc}${cmdNames}${prefix}${command.name[i]} `
+                    desc = (`${desc}**`)
+                    //helpEmbed.addFields({ name: 'Display Name', value: displayName, inline: true },)
+                    var cmdNames = ``
+                    for (var i = 0; i < command.name.length; i++) {
+                        //cmdNames = (`${cmdNames}${prefix}${command.name[i]} `)
+                        desc = `${desc}${cmdNames}${prefix}${command.name[i]} `
 
-                        }
-                        //helpEmbed.addFields({ name: cmdNames, value: command.description, inline: true },)
-                        //helpEmbed.addFields({ name: cmdNames, value: command.description, inline: false },)
+                    }
+                    //helpEmbed.addFields({ name: cmdNames, value: command.description, inline: true },)
+                    //helpEmbed.addFields({ name: cmdNames, value: command.description, inline: false },)
 
-                        if(i == command.name.length) {
-                            desc = (`${desc}**${command.description}\n`)
-                            helpEmbed.setDescription(desc)
+                    if(i == command.name.length) {
+                        desc = (`${desc}**${command.description}\n`)
+                        helpEmbed.setDescription(desc)
 
-                        }
+                    }
 
 
                 }
@@ -53,7 +53,7 @@ module.exports = {
                 var command
                 dance:
                     for (const file of commandFiles) {
-                        command = require(`./../commands/${file}`);
+                        command = require(`./../mythranCommands/${file}`);
                         for(var i=0; i < command.name.length; i++) {
                             if(command.name[i]==args[0]){
                                 break dance
@@ -85,7 +85,7 @@ module.exports = {
                 console.log(error)
                 for (const file of commandFiles) {
                     const command = require(`./${file}`);
-                    if (!exclude.includes(command.name)) {
+                    //if (!exclude.includes(command.name)) {
                         desc = (`${desc}**`)
 
                         for (var i = 0; i < command.name.length; i++) {
@@ -95,7 +95,7 @@ module.exports = {
                         desc = (`${desc}**${command.description}\n`)
                         //}
 
-                    }
+                    //}
                 }
                 helpEmbed.setDescription(desc)
 

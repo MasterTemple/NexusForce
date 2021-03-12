@@ -20,6 +20,8 @@ module.exports = {
             var objectID = findOne.execute(args)
             if(objectID===undefined){
                 message.channel.send("An object with this DisplayName or Name does not exist.")
+                err()
+                return
             }
         }else{
             var objectID = args[0]
