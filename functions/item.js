@@ -46,7 +46,7 @@ module.exports = {
         )
 
 
-        if(item.isWeapon === false && item.abilityName !== undefined){
+        if(item.isWeapon === false && item.abilityName !== undefined && item.equipLocation[0] !== "chest" && item.equipLocation[0] !== "legs"){
             embed.addFields(
                 {name: item.abilityName, value: item.localeDescription, inline: false},
                 // { name: item.abilityName, value: item.localeDescription, inline: true },

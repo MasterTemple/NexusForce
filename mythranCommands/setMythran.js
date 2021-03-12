@@ -16,7 +16,10 @@ module.exports = {
                 console.error(error)
             }
         }
-        if(args.length > 1) {err();}
+        if(args.length > 1) {
+            err()
+            return
+        }
         const fs = require('fs')
         let newMythranID = args[0]
         config.mythran.push(newMythranID)

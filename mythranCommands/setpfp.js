@@ -16,7 +16,10 @@ module.exports = {
                 console.error(error)
             }
         }
-        if(args.length > 1) {err();}
+        if(args.length > 1) {
+            err()
+            return
+        }
 
         const fs = require('fs')
         const client = message.client
