@@ -61,6 +61,8 @@ I am aware the weapon combos with some weapons are messed up (the charge up ones
 ![img_1.png](img_1.png)\
 # !level
 ![img.png](img.png)\
+# !group
+![img_8.png](img_8.png)
 # !brick
 ![img_2.png](img_2.png)\
 # !npc
