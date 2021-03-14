@@ -50,19 +50,19 @@ I am aware the weapon combos with some weapons are messed up (the charge up ones
 
 #Some screenshots:
 #!drop
-![img_7.png](img_7.png)
+![img_7.png](img_7.png)\
 #!obj
-![img_4.png](img_4.png)
+![img_4.png](img_4.png)\
 #!earn
-![img_5.png](img_5.png)
+![img_5.png](img_5.png)\
 #!buy
-![img_6.png](img_6.png)
+![img_6.png](img_6.png)\
 #!mission
-![img_1.png](img_1.png)
+![img_1.png](img_1.png)\
 #!level
-![img.png](img.png)
+![img.png](img.png)\
 #!brick
-![img_2.png](img_2.png)
+![img_2.png](img_2.png)\
 #!npc
-![img_3.png](img_3.png)
+![img_3.png](img_3.png)\
 
