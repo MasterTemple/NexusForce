@@ -1,0 +1,7 @@
+{
+  "id": 10058,
+  "name": "Behavior - Move Around",
+  "displayName": "Move Around Behavior",
+  "description": "Moves model around",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/model_icon.png"
+}

@@ -1,0 +1,7 @@
+{
+  "id": 10064,
+  "name": "Behavior - Juke Box",
+  "displayName": "Juke Box Behavior",
+  "description": "Plays music",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/model_icon.png"
+}

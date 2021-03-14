@@ -1,0 +1,7 @@
+{
+  "id": 10063,
+  "name": "Behavior - Basic Enemy",
+  "displayName": "Basic Enemy Behavior",
+  "description": "Makes model an enemy",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/model_icon.png"
+}

@@ -1,0 +1,69 @@
+{
+  "id": 8626,
+  "name": "Pirate Princess Dress",
+  "displayName": "Pirate Princess Dress",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/reward/m73200_princess_03.png",
+  "dropStuff": [
+    {
+      "percent": 0.25,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "448",
+      "differentItemsToDropRange": 31,
+      "destructibleComponents": [
+        {
+          "name": "GF - Stromling Pirate",
+          "objectID": 6550,
+          "displayName": "Stromling Pirate"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 0.5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "459",
+      "differentItemsToDropRange": 31,
+      "destructibleComponents": [
+        {
+          "name": "GF - Stromling Admiral",
+          "objectID": 6789,
+          "displayName": "Stromling Admiral"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 2,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "467",
+      "differentItemsToDropRange": 31,
+      "destructibleComponents": [
+        {
+          "name": "GF - Stromling Ape",
+          "objectID": 6806,
+          "displayName": "Stromling Ape"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2288",
+      "differentItemsToDropRange": 31,
+      "destructibleComponents": [
+        {
+          "name": "NSI - Stromling Ape Boss",
+          "objectID": 12591,
+          "displayName": "Kinga Hurl - Stromling Ape"
+        }
+      ],
+      "soldByVendor": 0
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": 13611,
+  "name": "Dynamite Pluger Behavior",
+  "displayName": "Dynamite Pluger Behavior",
+  "description": "A behavior that makes a model communicate to a model with the Dynamite Behavior to explode.",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_bvr_dynamiteplunger.png"
+}

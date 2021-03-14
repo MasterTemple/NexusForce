@@ -1,0 +1,7 @@
+{
+  "id": 10996,
+  "name": "Manipulate Model Behavior",
+  "displayName": "Manipulate Model Behavior",
+  "description": "Allows a player to slide and rotate a model around.  Interacting pushes the model forward and attacking causes it to spin.",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/missioncomics/wonderland/avant_gardens/hud_icons/assembly_guy_hud.png"
+}

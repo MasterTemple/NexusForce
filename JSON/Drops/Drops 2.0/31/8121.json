@@ -1,0 +1,7 @@
+{
+  "id": 8121,
+  "name": "DroppedLootTemplate",
+  "displayName": null,
+  "description": "Loot template used to render actual loot icon gfx to",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/missioncomics/wonderland/gnarled_forest/hud_icons/mission_230.png"
+}

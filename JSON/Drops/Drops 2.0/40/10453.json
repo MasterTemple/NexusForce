@@ -1,0 +1,7 @@
+{
+  "id": 10453,
+  "name": "Behavior - Greeter",
+  "displayName": "Greeter Behavior",
+  "description": "Turns your model into a friendly greeter for your property with many ways to interact with it.  Your model will even patrol for you if you ask it to.",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/achievements/general_social.png"
+}

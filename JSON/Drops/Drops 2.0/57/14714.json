@@ -1,0 +1,29 @@
+{
+  "id": 14714,
+  "name": "Sankaku Yari",
+  "displayName": "Sankaku Yari",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m4497_26.png",
+  "dropStuff": [
+    {
+      "percent": 0.1,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "5053",
+      "differentItemsToDropRange": 2,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Bone Wolf",
+          "objectID": 13995,
+          "displayName": "Bone Wolf"
+        },
+        {
+          "name": "NJD - Bone Wolf - Frakjaw instance",
+          "objectID": 16191,
+          "displayName": "Bone Wolf"
+        }
+      ],
+      "soldByVendor": 1
+    }
+  ]
+}

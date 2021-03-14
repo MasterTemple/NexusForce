@@ -1,0 +1,59 @@
+{
+  "id": 3861,
+  "name": "Diver Helmet",
+  "displayName": "Diver Helmet",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m30124_30090_26.png",
+  "dropStuff": [
+    {
+      "percent": 0.05,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2069",
+      "differentItemsToDropRange": 13,
+      "destructibleComponents": [
+        {
+          "name": "VE Instance - Stromling Hammerling Ranged",
+          "objectID": 8238,
+          "displayName": "Hammerhurl Stromling"
+        },
+        {
+          "name": "VE Instance - Stromling Hammerling Melee",
+          "objectID": 12542,
+          "displayName": "Hammer Stromling"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 3,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2078",
+      "differentItemsToDropRange": 13,
+      "destructibleComponents": [
+        {
+          "name": "VE Instance - Stromling Mech 2",
+          "objectID": 8433,
+          "displayName": "Corrupted Sentry"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2096",
+      "differentItemsToDropRange": 13,
+      "destructibleComponents": [
+        {
+          "name": "VE Instance - Elite Dark Spiderling",
+          "objectID": 12387,
+          "displayName": "Elite Dark Spiderling"
+        }
+      ],
+      "soldByVendor": 0
+    }
+  ]
+}

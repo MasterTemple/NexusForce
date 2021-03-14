@@ -1,0 +1,54 @@
+{
+  "id": 10769,
+  "name": "Model Reward Fortress Wall Gate",
+  "displayName": "Fortress Wall Gate Model",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_ninjafortress-wallgate.png",
+  "dropStuff": [
+    {
+      "percent": 0.25,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "1102",
+      "differentItemsToDropRange": 54,
+      "destructibleComponents": [
+        {
+          "name": "FV Maelstrom Cavalry",
+          "objectID": 7816,
+          "displayName": "Maelstrom Horseman"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 0.13,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "1089",
+      "differentItemsToDropRange": 54,
+      "destructibleComponents": [
+        {
+          "name": "FV Dark Ronin",
+          "objectID": 7815,
+          "displayName": "Dark Ronin"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 100,
+      "minToDrop": "3",
+      "maxToDrop": "3",
+      "id": "2307",
+      "differentItemsToDropRange": 54,
+      "destructibleComponents": [
+        {
+          "name": "NSI - Dark Spiderling Boss",
+          "objectID": 12609,
+          "displayName": "Whack Bliddo - Dark Spiderling Invader"
+        }
+      ],
+      "soldByVendor": 0
+    }
+  ]
+}

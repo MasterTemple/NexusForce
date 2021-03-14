@@ -1,0 +1,59 @@
+{
+  "id": 14549,
+  "name": "Spiderling Postcard",
+  "displayName": "Spider Queen's Postcard",
+  "description": "Return this to Melodie Foxtrot in Avant Gardens.",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/icons/postcard.png",
+  "dropStuff": [
+    {
+      "percent": 50,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4384",
+      "differentItemsToDropRange": 1,
+      "destructibleComponents": [
+        {
+          "name": "AG - Dark Spiderling",
+          "objectID": 6359,
+          "displayName": "Dark Spiderling"
+        },
+        {
+          "name": "AG - Dark Spiderling - Spider Cave only",
+          "objectID": 14572,
+          "displayName": "Dark Spiderling"
+        },
+        {
+          "name": "AG - Dark Spiderling (Spider Boss Version)",
+          "objectID": 16197,
+          "displayName": "Dark Spiderling"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 50,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4384",
+      "differentItemsToDropRange": 1,
+      "destructibleComponents": [
+        {
+          "name": "AG - Dark Spiderling",
+          "objectID": 6359,
+          "displayName": "Dark Spiderling"
+        },
+        {
+          "name": "AG - Dark Spiderling - Spider Cave only",
+          "objectID": 14572,
+          "displayName": "Dark Spiderling"
+        },
+        {
+          "name": "AG - Dark Spiderling (Spider Boss Version)",
+          "objectID": 16197,
+          "displayName": "Dark Spiderling"
+        }
+      ],
+      "soldByVendor": 1
+    }
+  ]
+}

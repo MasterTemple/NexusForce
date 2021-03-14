@@ -1,0 +1,54 @@
+{
+  "id": 8371,
+  "name": "Shuriken",
+  "displayName": null,
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/skills/shuriken.png",
+  "dropStuff": [
+    {
+      "percent": 1.5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "1100",
+      "differentItemsToDropRange": 36,
+      "destructibleComponents": [
+        {
+          "name": "FV Maelstrom Cavalry",
+          "objectID": 7816,
+          "displayName": "Maelstrom Horseman"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 1,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "1087",
+      "differentItemsToDropRange": 36,
+      "destructibleComponents": [
+        {
+          "name": "FV Dark Ronin",
+          "objectID": 7815,
+          "displayName": "Dark Ronin"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 100,
+      "minToDrop": "4",
+      "maxToDrop": "6",
+      "id": "2306",
+      "differentItemsToDropRange": 36,
+      "destructibleComponents": [
+        {
+          "name": "NSI - Dark Spiderling Boss",
+          "objectID": 12609,
+          "displayName": "Whack Bliddo - Dark Spiderling Invader"
+        }
+      ],
+      "soldByVendor": 0
+    }
+  ]
+}

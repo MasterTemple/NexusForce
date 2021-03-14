@@ -1,0 +1,39 @@
+{
+  "id": 14518,
+  "name": "Eye Bone",
+  "displayName": "Eye Bone",
+  "description": "Return this to Furious Urufu in the Ninjago Monastery.",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/misc/eye_bone.png",
+  "dropStuff": [
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4286",
+      "differentItemsToDropRange": 1,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Bonezai Skeleton Lieutenant",
+          "objectID": 16050,
+          "displayName": "Bonezai - Skeleton of Ice"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4286",
+      "differentItemsToDropRange": 1,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Bonezai Skeleton Lieutenant",
+          "objectID": 16050,
+          "displayName": "Bonezai - Skeleton of Ice"
+        }
+      ],
+      "soldByVendor": 1
+    }
+  ]
+}

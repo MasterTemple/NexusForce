@@ -1,0 +1,79 @@
+{
+  "id": 8647,
+  "name": "Cargo Pants",
+  "displayName": "Cargo Pants",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/legs/m73200_28.png",
+  "dropStuff": [
+    {
+      "percent": 2.5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "1279",
+      "differentItemsToDropRange": 8,
+      "destructibleComponents": [
+        {
+          "name": "AG - Stromling",
+          "objectID": 4712,
+          "displayName": "Stromling"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "1280",
+      "differentItemsToDropRange": 8,
+      "destructibleComponents": [
+        {
+          "name": "AG - Stromling Mech",
+          "objectID": 6253,
+          "displayName": "Stromling Mech"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "1281",
+      "differentItemsToDropRange": 8,
+      "destructibleComponents": [
+        {
+          "name": "AG - Dark Spiderling",
+          "objectID": 6359,
+          "displayName": "Dark Spiderling"
+        },
+        {
+          "name": "AG - Dark Spiderling - Spider Cave only",
+          "objectID": 14572,
+          "displayName": "Dark Spiderling"
+        },
+        {
+          "name": "AG - Dark Spiderling (Spider Boss Version)",
+          "objectID": 16197,
+          "displayName": "Dark Spiderling"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2282",
+      "differentItemsToDropRange": 8,
+      "destructibleComponents": [
+        {
+          "name": "NSI - Super Stromling Boss",
+          "objectID": 12600,
+          "displayName": "Murgle Blotch - Stromling Champion"
+        }
+      ],
+      "soldByVendor": 0
+    }
+  ]
+}

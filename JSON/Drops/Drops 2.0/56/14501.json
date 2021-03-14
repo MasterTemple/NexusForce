@@ -1,0 +1,49 @@
+{
+  "id": 14501,
+  "name": "Lucky Wolf's Paw",
+  "displayName": "Lucky Wolf's Paw",
+  "description": "Return this to Cringe Lo in the Ninjago Monastery!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/misc/lucky_wolf_paw.png",
+  "dropStuff": [
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4531",
+      "differentItemsToDropRange": 1,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Bone Wolf",
+          "objectID": 13995,
+          "displayName": "Bone Wolf"
+        },
+        {
+          "name": "NJD - Bone Wolf - Frakjaw instance",
+          "objectID": 16191,
+          "displayName": "Bone Wolf"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4531",
+      "differentItemsToDropRange": 1,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Bone Wolf",
+          "objectID": 13995,
+          "displayName": "Bone Wolf"
+        },
+        {
+          "name": "NJD - Bone Wolf - Frakjaw instance",
+          "objectID": 16191,
+          "displayName": "Bone Wolf"
+        }
+      ],
+      "soldByVendor": 1
+    }
+  ]
+}

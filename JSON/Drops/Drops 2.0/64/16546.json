@@ -1,0 +1,199 @@
+{
+  "id": 16546,
+  "name": "Model Reward Monastery Watertower",
+  "displayName": "Monastery Water Tower Model",
+  "description": "A model for your Property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/models/rew_ninjagomonastery_watertower.png",
+  "dropStuff": [
+    {
+      "percent": 0.13,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4901",
+      "differentItemsToDropRange": 49,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Skeleton Trooper",
+          "objectID": 14491,
+          "displayName": "Skeleton Trooper"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4945",
+      "differentItemsToDropRange": 49,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Bone Wolf",
+          "objectID": 13995,
+          "displayName": "Bone Wolf"
+        },
+        {
+          "name": "NJD - Bone Wolf - Frakjaw instance",
+          "objectID": 16191,
+          "displayName": "Bone Wolf"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4997",
+      "differentItemsToDropRange": 49,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Krazi Skeleton Lieutenant",
+          "objectID": 16049,
+          "displayName": "Krazi - Skeleton of Lightning"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "5009",
+      "differentItemsToDropRange": 49,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Bonezai Skeleton Lieutenant",
+          "objectID": 16050,
+          "displayName": "Bonezai - Skeleton of Ice"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "5025",
+      "differentItemsToDropRange": 49,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Chopov Skeleton Lieutenant",
+          "objectID": 16047,
+          "displayName": "Chopov - Skeleton of Earth"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 0.5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4989",
+      "differentItemsToDropRange": 49,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Skeleton Commando",
+          "objectID": 14026,
+          "displayName": "Skeleton Commando"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 0.13,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4961",
+      "differentItemsToDropRange": 49,
+      "destructibleComponents": [
+        {
+          "name": "NJD - Skeleton Blacksmith - Frakjaw instance",
+          "objectID": 14007,
+          "displayName": "Skeleton Blacksmith"
+        },
+        {
+          "name": "NJD - Skeleton Marksman - Frakjaw instance",
+          "objectID": 14008,
+          "displayName": "Skeleton Marksman"
+        },
+        {
+          "name": "NJD - Skeleton Commando - Frakjaw instance",
+          "objectID": 14009,
+          "displayName": "Skeleton Commando"
+        },
+        {
+          "name": "NJ - Skeleton Blacksmith",
+          "objectID": 14024,
+          "displayName": "Skeleton Blacksmith"
+        },
+        {
+          "name": "NJD - Skeleton Mad Scientist - Frakjaw instance",
+          "objectID": 16511,
+          "displayName": "Skeleton Mad Scientist"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 0.13,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4965",
+      "differentItemsToDropRange": 49,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Skeleton Raider",
+          "objectID": 14025,
+          "displayName": "Skeleton Raider"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 0.5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4993",
+      "differentItemsToDropRange": 49,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Skeleton Overseer",
+          "objectID": 14027,
+          "displayName": "Skeleton Overseer"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 0.13,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4969",
+      "differentItemsToDropRange": 49,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Skeleton Marksman",
+          "objectID": 14028,
+          "displayName": "Skeleton Marksman"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 0.5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "5042",
+      "differentItemsToDropRange": 49,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Skeleton Mad Scientist",
+          "objectID": 14029,
+          "displayName": "Skeleton Mad Scientist"
+        }
+      ],
+      "soldByVendor": 1
+    }
+  ]
+}

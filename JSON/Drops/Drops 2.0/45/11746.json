@@ -1,0 +1,39 @@
+{
+  "id": 11746,
+  "name": "Model Reward Micro City Skyscraper with Monkey",
+  "displayName": "Micro City Skyscraper with Monkey Model",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_microscalecity_building_skyscraperwithmonkey.png",
+  "dropStuff": [
+    {
+      "percent": 100,
+      "minToDrop": "2",
+      "maxToDrop": "3",
+      "id": "4597",
+      "differentItemsToDropRange": 1,
+      "destructibleComponents": [
+        {
+          "name": "AM - Stromling Ape",
+          "objectID": 11217,
+          "displayName": "Stromling Ape Invader"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 100,
+      "minToDrop": "2",
+      "maxToDrop": "3",
+      "id": "4597",
+      "differentItemsToDropRange": 1,
+      "destructibleComponents": [
+        {
+          "name": "AM - Stromling Ape",
+          "objectID": 11217,
+          "displayName": "Stromling Ape Invader"
+        }
+      ],
+      "soldByVendor": 0
+    }
+  ]
+}

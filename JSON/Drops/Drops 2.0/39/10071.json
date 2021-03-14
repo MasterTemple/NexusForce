@@ -1,0 +1,69 @@
+{
+  "id": 10071,
+  "name": "Model Reward Pirate Idol",
+  "displayName": "Pirate Idol Model",
+  "description": "A model for your Property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_pirates_idol.png",
+  "dropStuff": [
+    {
+      "percent": 0.13,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "449",
+      "differentItemsToDropRange": 95,
+      "destructibleComponents": [
+        {
+          "name": "GF - Stromling Pirate",
+          "objectID": 6550,
+          "displayName": "Stromling Pirate"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 0.25,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "460",
+      "differentItemsToDropRange": 95,
+      "destructibleComponents": [
+        {
+          "name": "GF - Stromling Admiral",
+          "objectID": 6789,
+          "displayName": "Stromling Admiral"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "468",
+      "differentItemsToDropRange": 95,
+      "destructibleComponents": [
+        {
+          "name": "GF - Stromling Ape",
+          "objectID": 6806,
+          "displayName": "Stromling Ape"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 100,
+      "minToDrop": "2",
+      "maxToDrop": "3",
+      "id": "2289",
+      "differentItemsToDropRange": 95,
+      "destructibleComponents": [
+        {
+          "name": "NSI - Stromling Ape Boss",
+          "objectID": 12591,
+          "displayName": "Kinga Hurl - Stromling Ape"
+        }
+      ],
+      "soldByVendor": 0
+    }
+  ]
+}

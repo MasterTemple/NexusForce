@@ -1,0 +1,39 @@
+{
+  "id": 13058,
+  "name": "Cracked Ronin's Helm",
+  "displayName": "Cracked Ronin's Helm",
+  "description": "Return this to Duke Exeter in Nexus Tower!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/missioncomics/crux_prime/task_icons/mission_1296.png",
+  "dropStuff": [
+    {
+      "percent": 30,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "3492",
+      "differentItemsToDropRange": 1,
+      "destructibleComponents": [
+        {
+          "name": "FV Dark Ronin",
+          "objectID": 7815,
+          "displayName": "Dark Ronin"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 30,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "3492",
+      "differentItemsToDropRange": 1,
+      "destructibleComponents": [
+        {
+          "name": "FV Dark Ronin",
+          "objectID": 7815,
+          "displayName": "Dark Ronin"
+        }
+      ],
+      "soldByVendor": 0
+    }
+  ]
+}

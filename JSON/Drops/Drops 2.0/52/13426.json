@@ -1,0 +1,69 @@
+{
+  "id": 13426,
+  "name": "Anchors Away",
+  "displayName": "Anchors Away",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/march2011content/ui/inventory/misc/obj_anchor.png",
+  "dropStuff": [
+    {
+      "percent": 1,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "447",
+      "differentItemsToDropRange": 40,
+      "destructibleComponents": [
+        {
+          "name": "GF - Stromling Pirate",
+          "objectID": 6550,
+          "displayName": "Stromling Pirate"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 1.5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "458",
+      "differentItemsToDropRange": 40,
+      "destructibleComponents": [
+        {
+          "name": "GF - Stromling Admiral",
+          "objectID": 6789,
+          "displayName": "Stromling Admiral"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 40,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "466",
+      "differentItemsToDropRange": 40,
+      "destructibleComponents": [
+        {
+          "name": "GF - Stromling Ape",
+          "objectID": 6806,
+          "displayName": "Stromling Ape"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 100,
+      "minToDrop": "3",
+      "maxToDrop": "5",
+      "id": "2287",
+      "differentItemsToDropRange": 40,
+      "destructibleComponents": [
+        {
+          "name": "NSI - Stromling Ape Boss",
+          "objectID": 12591,
+          "displayName": "Kinga Hurl - Stromling Ape"
+        }
+      ],
+      "soldByVendor": 0
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "id": 2999,
+  "name": "Potion of Imagination 3",
+  "displayName": "Super Notion Potion",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/potion_red.png",
+  "dropStuff": [
+    {
+      "percent": 1,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "447",
+      "differentItemsToDropRange": 40,
+      "destructibleComponents": [
+        {
+          "name": "GF - Stromling Pirate",
+          "objectID": 6550,
+          "displayName": "Stromling Pirate"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 1.5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "458",
+      "differentItemsToDropRange": 40,
+      "destructibleComponents": [
+        {
+          "name": "GF - Stromling Admiral",
+          "objectID": 6789,
+          "displayName": "Stromling Admiral"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 40,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "466",
+      "differentItemsToDropRange": 40,
+      "destructibleComponents": [
+        {
+          "name": "GF - Stromling Ape",
+          "objectID": 6806,
+          "displayName": "Stromling Ape"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 100,
+      "minToDrop": "3",
+      "maxToDrop": "5",
+      "id": "2287",
+      "differentItemsToDropRange": 40,
+      "destructibleComponents": [
+        {
+          "name": "NSI - Stromling Ape Boss",
+          "objectID": 12591,
+          "displayName": "Kinga Hurl - Stromling Ape"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 1.5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "1100",
+      "differentItemsToDropRange": 36,
+      "destructibleComponents": [
+        {
+          "name": "FV Maelstrom Cavalry",
+          "objectID": 7816,
+          "displayName": "Maelstrom Horseman"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 1,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "1087",
+      "differentItemsToDropRange": 36,
+      "destructibleComponents": [
+        {
+          "name": "FV Dark Ronin",
+          "objectID": 7815,
+          "displayName": "Dark Ronin"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 100,
+      "minToDrop": "4",
+      "maxToDrop": "6",
+      "id": "2306",
+      "differentItemsToDropRange": 36,
+      "destructibleComponents": [
+        {
+          "name": "NSI - Dark Spiderling Boss",
+          "objectID": 12609,
+          "displayName": "Whack Bliddo - Dark Spiderling Invader"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 0.5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2070",
+      "differentItemsToDropRange": 10,
+      "destructibleComponents": [
+        {
+          "name": "VE Instance - Stromling Hammerling Ranged",
+          "objectID": 8238,
+          "displayName": "Hammerhurl Stromling"
+        },
+        {
+          "name": "VE Instance - Stromling Hammerling Melee",
+          "objectID": 12542,
+          "displayName": "Hammer Stromling"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 30,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2079",
+      "differentItemsToDropRange": 10,
+      "destructibleComponents": [
+        {
+          "name": "VE Instance - Stromling Mech 2",
+          "objectID": 8433,
+          "displayName": "Corrupted Sentry"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 50,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2097",
+      "differentItemsToDropRange": 10,
+      "destructibleComponents": [
+        {
+          "name": "VE Instance - Elite Dark Spiderling",
+          "objectID": 12387,
+          "displayName": "Elite Dark Spiderling"
+        }
+      ],
+      "soldByVendor": 0
+    }
+  ]
+}

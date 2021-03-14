@@ -1,0 +1,7 @@
+{
+  "id": 13559,
+  "name": "Enemy Behavior Alpha",
+  "displayName": "Enemy Behavior Alpha",
+  "description": "A behavior that controls enemy movement.  Works with Enemy Behavior Beta.",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/cp_skullkin_head.png"
+}

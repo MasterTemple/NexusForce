@@ -1,0 +1,374 @@
+{
+  "id": 1966,
+  "name": "Health Banana 1",
+  "displayName": "Healing Banana",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/m330853_24.png",
+  "dropStuff": [
+    {
+      "percent": 5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "606",
+      "differentItemsToDropRange": 23,
+      "destructibleComponents": [
+        {
+          "name": "AG - Stromling",
+          "objectID": 4712,
+          "displayName": "Stromling"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 7.5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "596",
+      "differentItemsToDropRange": 23,
+      "destructibleComponents": [
+        {
+          "name": "AG - Stromling Mech",
+          "objectID": 6253,
+          "displayName": "Stromling Mech"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 8.5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "599",
+      "differentItemsToDropRange": 23,
+      "destructibleComponents": [
+        {
+          "name": "AG - Dark Spiderling",
+          "objectID": 6359,
+          "displayName": "Dark Spiderling"
+        },
+        {
+          "name": "AG - Dark Spiderling - Spider Cave only",
+          "objectID": 14572,
+          "displayName": "Dark Spiderling"
+        },
+        {
+          "name": "AG - Dark Spiderling (Spider Boss Version)",
+          "objectID": 16197,
+          "displayName": "Dark Spiderling"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 100,
+      "minToDrop": "3",
+      "maxToDrop": "4",
+      "id": "2273",
+      "differentItemsToDropRange": 23,
+      "destructibleComponents": [
+        {
+          "name": "NSI - Super Stromling Boss",
+          "objectID": 12600,
+          "displayName": "Murgle Blotch - Stromling Champion"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 1,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "447",
+      "differentItemsToDropRange": 40,
+      "destructibleComponents": [
+        {
+          "name": "GF - Stromling Pirate",
+          "objectID": 6550,
+          "displayName": "Stromling Pirate"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 1.5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "458",
+      "differentItemsToDropRange": 40,
+      "destructibleComponents": [
+        {
+          "name": "GF - Stromling Admiral",
+          "objectID": 6789,
+          "displayName": "Stromling Admiral"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 40,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "466",
+      "differentItemsToDropRange": 40,
+      "destructibleComponents": [
+        {
+          "name": "GF - Stromling Ape",
+          "objectID": 6806,
+          "displayName": "Stromling Ape"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 100,
+      "minToDrop": "3",
+      "maxToDrop": "5",
+      "id": "2287",
+      "differentItemsToDropRange": 40,
+      "destructibleComponents": [
+        {
+          "name": "NSI - Stromling Ape Boss",
+          "objectID": 12591,
+          "displayName": "Kinga Hurl - Stromling Ape"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 1.5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "1100",
+      "differentItemsToDropRange": 36,
+      "destructibleComponents": [
+        {
+          "name": "FV Maelstrom Cavalry",
+          "objectID": 7816,
+          "displayName": "Maelstrom Horseman"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 1,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "1087",
+      "differentItemsToDropRange": 36,
+      "destructibleComponents": [
+        {
+          "name": "FV Dark Ronin",
+          "objectID": 7815,
+          "displayName": "Dark Ronin"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 100,
+      "minToDrop": "4",
+      "maxToDrop": "6",
+      "id": "2306",
+      "differentItemsToDropRange": 36,
+      "destructibleComponents": [
+        {
+          "name": "NSI - Dark Spiderling Boss",
+          "objectID": 12609,
+          "displayName": "Whack Bliddo - Dark Spiderling Invader"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 1,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4900",
+      "differentItemsToDropRange": 26,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Skeleton Trooper",
+          "objectID": 14491,
+          "displayName": "Skeleton Trooper"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 1.5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4944",
+      "differentItemsToDropRange": 26,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Bone Wolf",
+          "objectID": 13995,
+          "displayName": "Bone Wolf"
+        },
+        {
+          "name": "NJD - Bone Wolf - Frakjaw instance",
+          "objectID": 16191,
+          "displayName": "Bone Wolf"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 40,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4996",
+      "differentItemsToDropRange": 26,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Krazi Skeleton Lieutenant",
+          "objectID": 16049,
+          "displayName": "Krazi - Skeleton of Lightning"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 40,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "5008",
+      "differentItemsToDropRange": 26,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Bonezai Skeleton Lieutenant",
+          "objectID": 16050,
+          "displayName": "Bonezai - Skeleton of Ice"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 40,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "5024",
+      "differentItemsToDropRange": 26,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Chopov Skeleton Lieutenant",
+          "objectID": 16047,
+          "displayName": "Chopov - Skeleton of Earth"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 1.5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4988",
+      "differentItemsToDropRange": 26,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Skeleton Commando",
+          "objectID": 14026,
+          "displayName": "Skeleton Commando"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 1,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4960",
+      "differentItemsToDropRange": 26,
+      "destructibleComponents": [
+        {
+          "name": "NJD - Skeleton Blacksmith - Frakjaw instance",
+          "objectID": 14007,
+          "displayName": "Skeleton Blacksmith"
+        },
+        {
+          "name": "NJD - Skeleton Marksman - Frakjaw instance",
+          "objectID": 14008,
+          "displayName": "Skeleton Marksman"
+        },
+        {
+          "name": "NJD - Skeleton Commando - Frakjaw instance",
+          "objectID": 14009,
+          "displayName": "Skeleton Commando"
+        },
+        {
+          "name": "NJ - Skeleton Blacksmith",
+          "objectID": 14024,
+          "displayName": "Skeleton Blacksmith"
+        },
+        {
+          "name": "NJD - Skeleton Mad Scientist - Frakjaw instance",
+          "objectID": 16511,
+          "displayName": "Skeleton Mad Scientist"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 1,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4964",
+      "differentItemsToDropRange": 26,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Skeleton Raider",
+          "objectID": 14025,
+          "displayName": "Skeleton Raider"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 1.5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4992",
+      "differentItemsToDropRange": 26,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Skeleton Overseer",
+          "objectID": 14027,
+          "displayName": "Skeleton Overseer"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 1,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4968",
+      "differentItemsToDropRange": 26,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Skeleton Marksman",
+          "objectID": 14028,
+          "displayName": "Skeleton Marksman"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 1.5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "5041",
+      "differentItemsToDropRange": 26,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Skeleton Mad Scientist",
+          "objectID": 14029,
+          "displayName": "Skeleton Mad Scientist"
+        }
+      ],
+      "soldByVendor": 1
+    }
+  ]
+}

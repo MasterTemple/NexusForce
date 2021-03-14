@@ -1,0 +1,7 @@
+{
+  "id": 10448,
+  "name": "Behavior - Spin Right",
+  "displayName": "Spin Right Behavior",
+  "description": "When interacted with, model will spin clockwise in a circle.",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/behaviors/spinleft.png"
+}

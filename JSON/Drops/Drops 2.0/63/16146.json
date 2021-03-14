@@ -1,0 +1,39 @@
+{
+  "id": 16146,
+  "name": "Maelstrom Double-Axe",
+  "displayName": "Maelstrom Double-Axe",
+  "description": "The Skeletons forged this from pure Maelstrom!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/hands/doublemaelstromboneaxe.png",
+  "dropStuff": [
+    {
+      "percent": 50,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4749",
+      "differentItemsToDropRange": 1,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Skeleton Overseer",
+          "objectID": 14027,
+          "displayName": "Skeleton Overseer"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 50,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4749",
+      "differentItemsToDropRange": 1,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Skeleton Overseer",
+          "objectID": 14027,
+          "displayName": "Skeleton Overseer"
+        }
+      ],
+      "soldByVendor": 1
+    }
+  ]
+}

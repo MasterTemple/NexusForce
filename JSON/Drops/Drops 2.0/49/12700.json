@@ -1,0 +1,384 @@
+{
+  "id": 12700,
+  "name": "Denim Shirt",
+  "displayName": "Denim Shirt",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/torsos/torsos_sleevelessdenimshirt.png",
+  "dropStuff": [
+    {
+      "percent": 0.6,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2527",
+      "differentItemsToDropRange": 29,
+      "destructibleComponents": [
+        {
+          "name": "AM - Stromling",
+          "objectID": 11212,
+          "displayName": "Stromling Invader"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 0.7,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2872",
+      "differentItemsToDropRange": 29,
+      "destructibleComponents": [
+        {
+          "name": "AM - Stromling Mech",
+          "objectID": 11213,
+          "displayName": "Stromling Mech Invader"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 0.8,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2877",
+      "differentItemsToDropRange": 29,
+      "destructibleComponents": [
+        {
+          "name": "AM - Dark Spiderling",
+          "objectID": 11214,
+          "displayName": "Dark Spiderling Invader"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 0.6,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2897",
+      "differentItemsToDropRange": 29,
+      "destructibleComponents": [
+        {
+          "name": "AM - Stromling Pirate",
+          "objectID": 11215,
+          "displayName": "Stromling Pirate Invader"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 0.8,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2902",
+      "differentItemsToDropRange": 29,
+      "destructibleComponents": [
+        {
+          "name": "AM - Stromling Admiral",
+          "objectID": 11216,
+          "displayName": "Stromling Admiral Invader"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 50,
+      "minToDrop": "1",
+      "maxToDrop": "2",
+      "id": "2907",
+      "differentItemsToDropRange": 29,
+      "destructibleComponents": [
+        {
+          "name": "AM - Stromling Ape",
+          "objectID": 11217,
+          "displayName": "Stromling Ape Invader"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 0.6,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2912",
+      "differentItemsToDropRange": 29,
+      "destructibleComponents": [
+        {
+          "name": "AM - Dark Ronin",
+          "objectID": 11218,
+          "displayName": "Dark Ronin Invader"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 1,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2917",
+      "differentItemsToDropRange": 29,
+      "destructibleComponents": [
+        {
+          "name": "AM - Maelstrom Horseman",
+          "objectID": 11219,
+          "displayName": "Maelstrom Horseman Invader"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 100,
+      "minToDrop": "8",
+      "maxToDrop": "12",
+      "id": "2922",
+      "differentItemsToDropRange": 29,
+      "destructibleComponents": [
+        {
+          "name": "AM - Maelstrom Dragon",
+          "objectID": 11220,
+          "displayName": "Maelstrom Dragon Invader"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2927",
+      "differentItemsToDropRange": 29,
+      "destructibleComponents": [
+        {
+          "name": "AM - Stromling NAMED",
+          "objectID": 11982,
+          "displayName": "Talli Reeko - Stromling Invader"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2932",
+      "differentItemsToDropRange": 29,
+      "destructibleComponents": [
+        {
+          "name": "AM - Stromling Mech NAMED",
+          "objectID": 11983,
+          "displayName": "ED-902 - Stromling Mech Invader"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "2",
+      "id": "2937",
+      "differentItemsToDropRange": 29,
+      "destructibleComponents": [
+        {
+          "name": "AM - Dark Spiderling NAMED",
+          "objectID": 11984,
+          "displayName": "Muffet Bane - Dark Spiderling Invader"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2942",
+      "differentItemsToDropRange": 29,
+      "destructibleComponents": [
+        {
+          "name": "AM - Stromling Pirate NAMED",
+          "objectID": 11985,
+          "displayName": "Gull Rawstew - Stromling Pirate Invader"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "2",
+      "id": "2947",
+      "differentItemsToDropRange": 29,
+      "destructibleComponents": [
+        {
+          "name": "AM - Stromling Admiral NAMED",
+          "objectID": 11986,
+          "displayName": "Admiral Flogmore - Stromling Admiral Invader"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 25,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2952",
+      "differentItemsToDropRange": 29,
+      "destructibleComponents": [
+        {
+          "name": "AM - Stromling Ape NAMED",
+          "objectID": 11987,
+          "displayName": "Roo Morgg - Stromling Ape Invader"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "2",
+      "id": "2957",
+      "differentItemsToDropRange": 29,
+      "destructibleComponents": [
+        {
+          "name": "AM - Dark Ronin NAMED",
+          "objectID": 11988,
+          "displayName": "Grim Daisho - Dark Ronin Invader"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "2",
+      "id": "2962",
+      "differentItemsToDropRange": 29,
+      "destructibleComponents": [
+        {
+          "name": "AM - Maelstrom Horseman NAMED",
+          "objectID": 12654,
+          "displayName": "Vargas the Tormented - Maelstrom Horseman Invader"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 100,
+      "minToDrop": "8",
+      "maxToDrop": "12",
+      "id": "2967",
+      "differentItemsToDropRange": 29,
+      "destructibleComponents": [
+        {
+          "name": "AM - Maelstrom Dragon NAMED",
+          "objectID": 11989,
+          "displayName": "Butterscorch - Maelstrom Dragon Invader"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 0.5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2972",
+      "differentItemsToDropRange": 29,
+      "destructibleComponents": [
+        {
+          "name": "AM - Skeleton Miner",
+          "objectID": 12000,
+          "displayName": "Skeleton Miner"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "2",
+      "id": "2977",
+      "differentItemsToDropRange": 29,
+      "destructibleComponents": [
+        {
+          "name": "AM - Skeleton Miner NAMED",
+          "objectID": 12001,
+          "displayName": "Hardhead - Skeleton Miner"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 0.5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2982",
+      "differentItemsToDropRange": 29,
+      "destructibleComponents": [
+        {
+          "name": "AM - Skeleton Patroller",
+          "objectID": 12004,
+          "displayName": "Skeleton Pit Boss"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2987",
+      "differentItemsToDropRange": 29,
+      "destructibleComponents": [
+        {
+          "name": "AM - Skeleton Patroller NAMED Nuckal",
+          "objectID": 12005,
+          "displayName": "Nuckal - Skeleton Lightning General"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 0.5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2992",
+      "differentItemsToDropRange": 29,
+      "destructibleComponents": [
+        {
+          "name": "AM - Skeleton Engineer",
+          "objectID": 12002,
+          "displayName": "Skeleton Engineer"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "2",
+      "id": "2997",
+      "differentItemsToDropRange": 29,
+      "destructibleComponents": [
+        {
+          "name": "AM - Skeleton Engineer NAMED",
+          "objectID": 12003,
+          "displayName": "Blackmarrow - Skeleton Engineer"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 0.5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "3486",
+      "differentItemsToDropRange": 29,
+      "destructibleComponents": [
+        {
+          "name": "AM - Watchtower Skeleton",
+          "objectID": 13068,
+          "displayName": "Skeleton Watchman"
+        }
+      ],
+      "soldByVendor": 1
+    }
+  ]
+}

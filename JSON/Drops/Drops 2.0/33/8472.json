@@ -1,0 +1,54 @@
+{
+  "id": 8472,
+  "name": "Elite Katana",
+  "displayName": "Elite Katana",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m30173_01.png",
+  "dropStuff": [
+    {
+      "percent": 0.7,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "1099",
+      "differentItemsToDropRange": 27,
+      "destructibleComponents": [
+        {
+          "name": "FV Maelstrom Cavalry",
+          "objectID": 7816,
+          "displayName": "Maelstrom Horseman"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 0.35,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "1086",
+      "differentItemsToDropRange": 27,
+      "destructibleComponents": [
+        {
+          "name": "FV Dark Ronin",
+          "objectID": 7815,
+          "displayName": "Dark Ronin"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2308",
+      "differentItemsToDropRange": 27,
+      "destructibleComponents": [
+        {
+          "name": "NSI - Dark Spiderling Boss",
+          "objectID": 12609,
+          "displayName": "Whack Bliddo - Dark Spiderling Invader"
+        }
+      ],
+      "soldByVendor": 0
+    }
+  ]
+}

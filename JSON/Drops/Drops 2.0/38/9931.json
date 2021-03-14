@@ -1,0 +1,39 @@
+{
+  "id": 9931,
+  "name": "Maelstrom Infected Anchor",
+  "displayName": "Maelstrom Infected Anchor",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/anchor.png",
+  "dropStuff": [
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "3595",
+      "differentItemsToDropRange": 1,
+      "destructibleComponents": [
+        {
+          "name": "GF - Stromling Admiral",
+          "objectID": 6789,
+          "displayName": "Stromling Admiral"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "1111",
+      "differentItemsToDropRange": 1,
+      "destructibleComponents": [
+        {
+          "name": "GF - Stromling Ape",
+          "objectID": 6806,
+          "displayName": "Stromling Ape"
+        }
+      ],
+      "soldByVendor": 0
+    }
+  ]
+}
