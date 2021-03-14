@@ -58,7 +58,7 @@ module.exports = {
 
         for(var e=0;e<buyFile.vendors.length;e++){
 
-            vendorInfo = `${vendorInfo}**${buyFile.vendors[e].vendorDisplayName}** [**${buyFile.vendors[e].vendorID}**]\n`
+            vendorInfo = `${vendorInfo}${buyFile.vendors[e].vendorDisplayName} [${buyFile.vendors[e].vendorID}]\n`
 
         }
 
@@ -67,7 +67,7 @@ module.exports = {
         }else if(buyFile.vendors.length > 1){
             embed.addField(`Vendors:`, vendorInfo, false)
         }else if(buyFile.commendationVendor.length === 1 && buyFile.commendationCost !== null){
-            embed.addField(`Vendor:`, `**Honor Accolade - Commendation Vendor** [**13806**]`, false)
+            embed.addField(`Vendor:`, `Honor Accolade - Commendation Vendor [13806]`, false)
         }else{
             embed.addField(`This Item Is Not Sold!`, "Try **!earn** or **!drop** to see how to unlock this item!", false)
         }
