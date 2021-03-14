@@ -1,0 +1,10 @@
+{
+  "table": [
+    {
+      "missionID": "252",
+      "name": "Robo-Repair 2",
+      "objective": "Quick Build 50 more smashed Stromling Mechs into turrets."
+    }
+  ],
+  "itemID": 6930
+}

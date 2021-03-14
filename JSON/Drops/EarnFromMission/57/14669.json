@@ -1,0 +1,14 @@
+{
+  "table": [
+    {
+      "missionID": "1833",
+      "name": "Funny Bone"
+    },
+    {
+      "missionID": "1985",
+      "name": "Heel, Boy! 2",
+      "objective": "Smash 50 more Bone Wolves in the Ninjago Caves."
+    }
+  ],
+  "itemID": 14669
+}

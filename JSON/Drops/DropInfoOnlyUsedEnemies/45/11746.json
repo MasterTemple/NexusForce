@@ -1,0 +1,34 @@
+{
+  "843": [
+    {
+      "percent": 100,
+      "minToDrop": "2",
+      "maxToDrop": "3",
+      "id": "4597",
+      "differentItemsToDropRange": 1,
+      "destructibleComponents": [
+        {
+          "name": "AM - Stromling Ape",
+          "objectID": 11217,
+          "displayName": "Stromling Ape Invader"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 100,
+      "minToDrop": "2",
+      "maxToDrop": "3",
+      "id": "4597",
+      "differentItemsToDropRange": 1,
+      "destructibleComponents": [
+        {
+          "name": "AM - Stromling Ape",
+          "objectID": 11217,
+          "displayName": "Stromling Ape Invader"
+        }
+      ],
+      "soldByVendor": 0
+    }
+  ]
+}

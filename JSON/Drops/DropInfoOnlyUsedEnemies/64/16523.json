@@ -1,0 +1,13 @@
+{
+  "763": [
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "0",
+      "id": "4292",
+      "differentItemsToDropRange": 16,
+      "destructibleComponents": [],
+      "soldByVendor": 0
+    }
+  ]
+}

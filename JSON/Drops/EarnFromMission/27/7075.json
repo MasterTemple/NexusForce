@@ -1,0 +1,10 @@
+{
+  "table": [
+    {
+      "missionID": "851",
+      "name": "The Way of the Hammer",
+      "objective": "Smash 25 glowing anvils, 25 Dragon statues, 25 Horse statues, and 25 Mantis statues."
+    }
+  ],
+  "itemID": 7075
+}

@@ -1,0 +1,34 @@
+{
+  "452": [
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2132",
+      "differentItemsToDropRange": 1,
+      "destructibleComponents": [
+        {
+          "name": "AM - Dark Ronin NAMED",
+          "objectID": 11988,
+          "displayName": "Grim Daisho - Dark Ronin Invader"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2132",
+      "differentItemsToDropRange": 1,
+      "destructibleComponents": [
+        {
+          "name": "AM - Dark Ronin NAMED",
+          "objectID": 11988,
+          "displayName": "Grim Daisho - Dark Ronin Invader"
+        }
+      ],
+      "soldByVendor": 0
+    }
+  ]
+}

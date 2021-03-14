@@ -1,0 +1,10 @@
+{
+  "table": [
+    {
+      "missionID": "1329",
+      "name": "Thirsty Traveler",
+      "objective": "Interact with the water fountains in Nexus Tower 25 times."
+    }
+  ],
+  "itemID": 11801
+}

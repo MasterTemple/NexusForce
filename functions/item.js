@@ -55,8 +55,7 @@ module.exports = {
         }
 
         embed.addFields(
-
-            { name: 'Armor', value: item.Armor, inline: true },
+            { name: `Armor`, value: item.Armor, inline: true },
             { name: 'Health', value: item.Health, inline: true },
             { name: 'Imagination', value: item.Imagination, inline: true },
         )

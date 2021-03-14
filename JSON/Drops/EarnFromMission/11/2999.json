@@ -1,0 +1,14 @@
+{
+  "table": [
+    {
+      "missionID": "966",
+      "name": "The Art of Spinjitzu"
+    },
+    {
+      "missionID": "1368",
+      "name": "Creative Flow",
+      "objective": "Quick Build any of the Imagination pipes in Nexus Tower 40 more times."
+    }
+  ],
+  "itemID": 2999
+}

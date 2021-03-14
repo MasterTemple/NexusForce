@@ -1,0 +1,14 @@
+{
+  "table": [
+    {
+      "missionID": "434",
+      "name": "Everybody's chum, Chief Brody",
+      "objective": "Smash 100 more sharks."
+    },
+    {
+      "missionID": "746",
+      "name": "Jack Knife's Treasure"
+    }
+  ],
+  "itemID": 10513
+}

@@ -1,0 +1,247 @@
+{
+  "table": [
+    {
+      "missionID": "1319",
+      "name": "Spying on Sentinel"
+    },
+    {
+      "missionID": "1320",
+      "name": "Assembly Eavesdrop"
+    },
+    {
+      "missionID": "1326",
+      "name": "Picky Shopper 2",
+      "objective": "Interact with 4 more vendors in Nexus Tower."
+    },
+    {
+      "missionID": "1369",
+      "name": "Nexus Tower Achiever 1",
+      "objective": "Complete 10 Missions or Achievements in Nexus Tower."
+    },
+    {
+      "missionID": "1404",
+      "name": "Cannon Cove Crackshot"
+    },
+    {
+      "missionID": "1406",
+      "name": "Vertigo Debris"
+    },
+    {
+      "missionID": "1408",
+      "name": "Drive Five"
+    },
+    {
+      "missionID": "1409",
+      "name": "Flower Hour"
+    },
+    {
+      "missionID": "1410",
+      "name": "Cannon Cove Champion"
+    },
+    {
+      "missionID": "1411",
+      "name": "Time Trooper"
+    },
+    {
+      "missionID": "1412",
+      "name": "Super Survivor"
+    },
+    {
+      "missionID": "1413",
+      "name": "Pet Cove Clean Up"
+    },
+    {
+      "missionID": "1414",
+      "name": "Pet Cove Perk Up"
+    },
+    {
+      "missionID": "1415",
+      "name": "Back to the Front"
+    },
+    {
+      "missionID": "1416",
+      "name": "Monument Maintenance"
+    },
+    {
+      "missionID": "1417",
+      "name": "Mechanized Assault"
+    },
+    {
+      "missionID": "1458",
+      "name": "Hair Beyond Compare"
+    },
+    {
+      "missionID": "1502",
+      "name": "Cannon Cove Crackshot"
+    },
+    {
+      "missionID": "1504",
+      "name": "Vertigo Debris"
+    },
+    {
+      "missionID": "1506",
+      "name": "Drive Five"
+    },
+    {
+      "missionID": "1507",
+      "name": "Flower Hour"
+    },
+    {
+      "missionID": "1508",
+      "name": "Cannon Cove Champion"
+    },
+    {
+      "missionID": "1509",
+      "name": "Time Trooper"
+    },
+    {
+      "missionID": "1510",
+      "name": "Super Survivor"
+    },
+    {
+      "missionID": "1511",
+      "name": "Pet Cove Clean Up"
+    },
+    {
+      "missionID": "1512",
+      "name": "Pet Cove Perk Up"
+    },
+    {
+      "missionID": "1513",
+      "name": "Back to the Front"
+    },
+    {
+      "missionID": "1514",
+      "name": "Monument Maintenance"
+    },
+    {
+      "missionID": "1515",
+      "name": "Mechanized Assault"
+    },
+    {
+      "missionID": "1539",
+      "name": "Cannon Cove Crackshot"
+    },
+    {
+      "missionID": "1541",
+      "name": "Vertigo Debris"
+    },
+    {
+      "missionID": "1543",
+      "name": "Drive Five"
+    },
+    {
+      "missionID": "1544",
+      "name": "Flower Hour"
+    },
+    {
+      "missionID": "1545",
+      "name": "Cannon Cove Champion"
+    },
+    {
+      "missionID": "1546",
+      "name": "Time Trooper"
+    },
+    {
+      "missionID": "1547",
+      "name": "Super Survivor"
+    },
+    {
+      "missionID": "1548",
+      "name": "Pet Cove Clean Up"
+    },
+    {
+      "missionID": "1549",
+      "name": "Pet Cove Perk Up"
+    },
+    {
+      "missionID": "1550",
+      "name": "Back to the Front"
+    },
+    {
+      "missionID": "1551",
+      "name": "Monument Maintenance"
+    },
+    {
+      "missionID": "1552",
+      "name": "Mechanized Assault"
+    },
+    {
+      "missionID": "1576",
+      "name": "Cannon Cove Crackshot"
+    },
+    {
+      "missionID": "1578",
+      "name": "Vertigo Debris"
+    },
+    {
+      "missionID": "1580",
+      "name": "Drive Five"
+    },
+    {
+      "missionID": "1581",
+      "name": "Flower Hour"
+    },
+    {
+      "missionID": "1582",
+      "name": "Cannon Cove Champion"
+    },
+    {
+      "missionID": "1583",
+      "name": "Time Trooper"
+    },
+    {
+      "missionID": "1584",
+      "name": "Super Survivor"
+    },
+    {
+      "missionID": "1585",
+      "name": "Pet Cove Clean Up"
+    },
+    {
+      "missionID": "1586",
+      "name": "Pet Cove Perk Up"
+    },
+    {
+      "missionID": "1587",
+      "name": "Back to the Front"
+    },
+    {
+      "missionID": "1588",
+      "name": "Monument Maintenance"
+    },
+    {
+      "missionID": "1589",
+      "name": "Mechanized Assault"
+    },
+    {
+      "missionID": "1735",
+      "name": "Medic!",
+      "objective": "Collect 2500 more Life power-ups."
+    },
+    {
+      "missionID": "1736",
+      "name": "Imagine That!",
+      "objective": "Collect 2500 more Imagination power-ups."
+    },
+    {
+      "missionID": "1737",
+      "name": "Tanks Very Much!",
+      "objective": "Collect 2500 more Armor power-ups."
+    },
+    {
+      "missionID": "1858",
+      "name": "Do the Monster Smash"
+    },
+    {
+      "missionID": "1863",
+      "name": "Web of Destruction"
+    },
+    {
+      "missionID": "1895",
+      "name": "Monument Maintenance",
+      "objective": "Quick Build 100 more Bouncers, buttons or moving platforms on the Avant Gardens Monument."
+    }
+  ],
+  "itemID": 13099
+}

@@ -1,0 +1,95 @@
+{
+  "72": [
+    {
+      "percent": 2.5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "604",
+      "differentItemsToDropRange": 22,
+      "destructibleComponents": [
+        {
+          "name": "AG - Stromling",
+          "objectID": 4712,
+          "displayName": "Stromling"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "595",
+      "differentItemsToDropRange": 22,
+      "destructibleComponents": [
+        {
+          "name": "AG - Stromling Mech",
+          "objectID": 6253,
+          "displayName": "Stromling Mech"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "598",
+      "differentItemsToDropRange": 22,
+      "destructibleComponents": [
+        {
+          "name": "AG - Dark Spiderling",
+          "objectID": 6359,
+          "displayName": "Dark Spiderling"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2272",
+      "differentItemsToDropRange": 22,
+      "destructibleComponents": [
+        {
+          "name": "NSI - Super Stromling Boss",
+          "objectID": 12600,
+          "displayName": "Murgle Blotch - Stromling Champion"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 10,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4581",
+      "differentItemsToDropRange": 22,
+      "destructibleComponents": [],
+      "soldByVendor": 1
+    }
+  ],
+  "89": [
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "0",
+      "id": "369",
+      "differentItemsToDropRange": 22,
+      "destructibleComponents": [],
+      "soldByVendor": 1
+    }
+  ],
+  "575": [
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "3",
+      "id": "3724",
+      "differentItemsToDropRange": 85,
+      "destructibleComponents": [],
+      "soldByVendor": 0
+    }
+  ]
+}

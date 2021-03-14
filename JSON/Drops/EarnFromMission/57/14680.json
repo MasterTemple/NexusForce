@@ -1,0 +1,23 @@
+{
+  "table": [
+    {
+      "missionID": "1743",
+      "name": "Barnacle Blaster",
+      "objective": "Hit 50 more Sea Monsters in Cannon Cove Shooting Gallery."
+    },
+    {
+      "missionID": "1778",
+      "name": "Corrupted Sentry Destroyer",
+      "objective": "Smash 250 more Corrupted Sentries on the Venture Explorer spaceship."
+    },
+    {
+      "missionID": "1860",
+      "name": "Clean-Up Squad"
+    },
+    {
+      "missionID": "1865",
+      "name": "Test Your Metal"
+    }
+  ],
+  "itemID": 14680
+}

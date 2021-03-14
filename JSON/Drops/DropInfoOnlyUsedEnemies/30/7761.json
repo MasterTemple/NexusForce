@@ -1,0 +1,106 @@
+{
+  "114": [
+    {
+      "percent": 2,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "726",
+      "differentItemsToDropRange": 105,
+      "destructibleComponents": [
+        {
+          "name": "AG - Stromling",
+          "objectID": 4712,
+          "displayName": "Stromling"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "727",
+      "differentItemsToDropRange": 105,
+      "destructibleComponents": [
+        {
+          "name": "AG - Stromling Mech",
+          "objectID": 6253,
+          "displayName": "Stromling Mech"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "728",
+      "differentItemsToDropRange": 105,
+      "destructibleComponents": [
+        {
+          "name": "AG - Dark Spiderling",
+          "objectID": 6359,
+          "displayName": "Dark Spiderling"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "2",
+      "id": "2275",
+      "differentItemsToDropRange": 105,
+      "destructibleComponents": [
+        {
+          "name": "NSI - Super Stromling Boss",
+          "objectID": 12600,
+          "displayName": "Murgle Blotch - Stromling Champion"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4585",
+      "differentItemsToDropRange": 105,
+      "destructibleComponents": [],
+      "soldByVendor": 1
+    }
+  ],
+  "184": [
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "2",
+      "id": "3934",
+      "differentItemsToDropRange": 30,
+      "destructibleComponents": [],
+      "soldByVendor": 0
+    }
+  ],
+  "187": [
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "669",
+      "differentItemsToDropRange": 17,
+      "destructibleComponents": [],
+      "soldByVendor": 0
+    }
+  ],
+  "284": [
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "0",
+      "id": "3860",
+      "differentItemsToDropRange": 22,
+      "destructibleComponents": [],
+      "soldByVendor": 1
+    }
+  ]
+}

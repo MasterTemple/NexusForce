@@ -1,0 +1,10 @@
+{
+  "table": [
+    {
+      "missionID": "420",
+      "name": "Gnarled Forest Observer",
+      "objective": "Use all 9 of the Binoculars in Gnarled Forest."
+    }
+  ],
+  "itemID": 6883
+}

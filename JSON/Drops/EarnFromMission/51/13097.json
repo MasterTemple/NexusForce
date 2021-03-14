@@ -1,0 +1,15 @@
+{
+  "table": [
+    {
+      "missionID": "1888",
+      "name": "Solo Riders",
+      "objective": "As a solo player, defeat the 4 Riders in the Battle of Nimbus Station."
+    },
+    {
+      "missionID": "1974",
+      "name": "Bone Up",
+      "objective": "Quick Build 75 more Skeleton Bouncers on the Ninjago Battlefield."
+    }
+  ],
+  "itemID": 13097
+}

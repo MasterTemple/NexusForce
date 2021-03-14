@@ -1,0 +1,28 @@
+{
+  "479": [
+    {
+      "percent": 20,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2168",
+      "differentItemsToDropRange": 1,
+      "destructibleComponents": [
+        {
+          "name": "AM - Skeleton Patroller",
+          "objectID": 12004,
+          "displayName": "Skeleton Pit Boss"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 20,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2169",
+      "differentItemsToDropRange": 1,
+      "destructibleComponents": [],
+      "soldByVendor": 0
+    }
+  ]
+}

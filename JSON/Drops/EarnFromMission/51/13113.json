@@ -1,0 +1,58 @@
+{
+  "table": [
+    {
+      "missionID": "1156",
+      "name": "Collector of Corruption 3",
+      "objective": "Collect 500 Maelstrom-infected bricks."
+    },
+    {
+      "missionID": "1296",
+      "name": "Forbidden Trophies"
+    },
+    {
+      "missionID": "1327",
+      "name": "Picky Shopper 3",
+      "objective": "Interact with 6 more vendors in Nexus Tower."
+    },
+    {
+      "missionID": "1333",
+      "name": "Mr. Clean",
+      "objective": "Use the Soap Gun to clean up 24 dirt clouds in Nexus Tower."
+    },
+    {
+      "missionID": "1353",
+      "name": "Like Clockwork 4",
+      "objective": "Complete 500 Daily Missions."
+    },
+    {
+      "missionID": "1364",
+      "name": "Back-Alley Buyer",
+      "objective": "Buy any 3 items from Mr. Ree, the Shady Vendor in Nexus Tower."
+    },
+    {
+      "missionID": "1371",
+      "name": "Nexus Tower Achiever 3",
+      "objective": "Complete 20 more Missions or Achievements in Nexus Tower, for a total of 40."
+    },
+    {
+      "missionID": "1448",
+      "name": "I Have the Power!"
+    },
+    {
+      "missionID": "1885",
+      "name": "Solo Blotch",
+      "objective": "As a solo player, defeat Murgle Blotch in the Battle of Nimbus Station."
+    },
+    {
+      "missionID": "1974",
+      "name": "Bone Up",
+      "objective": "Quick Build 75 more Skeleton Bouncers on the Ninjago Battlefield."
+    },
+    {
+      "missionID": "1976",
+      "name": "Just a Fling",
+      "objective": "Quick Build 75 more Catapults on the Ninjago Battlefield."
+    }
+  ],
+  "itemID": 13113
+}

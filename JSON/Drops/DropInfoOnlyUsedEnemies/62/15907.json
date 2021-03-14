@@ -1,0 +1,39 @@
+{
+  "866": [
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "2",
+      "id": "5044",
+      "differentItemsToDropRange": 41,
+      "destructibleComponents": [],
+      "soldByVendor": 0
+    }
+  ],
+  "868": [
+    {
+      "percent": 0.1,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "5048",
+      "differentItemsToDropRange": 3,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Bonezai Skeleton Lieutenant",
+          "objectID": 16050,
+          "displayName": "Bonezai - Skeleton of Ice"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 12,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "5051",
+      "differentItemsToDropRange": 3,
+      "destructibleComponents": [],
+      "soldByVendor": 1
+    }
+  ]
+}

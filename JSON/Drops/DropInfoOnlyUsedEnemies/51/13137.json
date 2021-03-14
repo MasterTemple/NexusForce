@@ -1,0 +1,35 @@
+{
+  "179": [
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "0",
+      "id": "678",
+      "differentItemsToDropRange": 36,
+      "destructibleComponents": [],
+      "soldByVendor": 1
+    }
+  ],
+  "631": [
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "0",
+      "id": "678",
+      "differentItemsToDropRange": 36,
+      "destructibleComponents": [],
+      "soldByVendor": 1
+    }
+  ],
+  "691": [
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "0",
+      "id": "3954",
+      "differentItemsToDropRange": 41,
+      "destructibleComponents": [],
+      "soldByVendor": 1
+    }
+  ]
+}

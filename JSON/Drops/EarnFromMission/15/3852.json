@@ -1,0 +1,10 @@
+{
+  "table": [
+    {
+      "missionID": "472",
+      "name": "Pirate Firefighter",
+      "objective": "Put out 10 tiki torches with the Water Sprayer or other water spraying device!"
+    }
+  ],
+  "itemID": 3852
+}

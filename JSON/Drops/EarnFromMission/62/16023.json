@@ -1,0 +1,14 @@
+{
+  "table": [
+    {
+      "missionID": "1918",
+      "name": "Urufu's First Treasure"
+    },
+    {
+      "missionID": "2006",
+      "name": "Hero of Ninjago",
+      "objective": "Recover the 4 Weapons of Spinjitzu."
+    }
+  ],
+  "itemID": 16023
+}

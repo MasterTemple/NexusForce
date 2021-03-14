@@ -1,0 +1,166 @@
+{
+  "87": [
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "362",
+      "differentItemsToDropRange": 23,
+      "destructibleComponents": [],
+      "soldByVendor": 0
+    }
+  ],
+  "105": [
+    {
+      "percent": 0.13,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "449",
+      "differentItemsToDropRange": 95,
+      "destructibleComponents": [
+        {
+          "name": "GF - Stromling Pirate",
+          "objectID": 6550,
+          "displayName": "Stromling Pirate"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 0.25,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "460",
+      "differentItemsToDropRange": 95,
+      "destructibleComponents": [
+        {
+          "name": "GF - Stromling Admiral",
+          "objectID": 6789,
+          "displayName": "Stromling Admiral"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "468",
+      "differentItemsToDropRange": 95,
+      "destructibleComponents": [
+        {
+          "name": "GF - Stromling Ape",
+          "objectID": 6806,
+          "displayName": "Stromling Ape"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 100,
+      "minToDrop": "2",
+      "maxToDrop": "3",
+      "id": "2289",
+      "differentItemsToDropRange": 95,
+      "destructibleComponents": [
+        {
+          "name": "NSI - Stromling Ape Boss",
+          "objectID": 12591,
+          "displayName": "Kinga Hurl - Stromling Ape"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 40,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4640",
+      "differentItemsToDropRange": 95,
+      "destructibleComponents": [],
+      "soldByVendor": 1
+    }
+  ],
+  "114": [
+    {
+      "percent": 2,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "726",
+      "differentItemsToDropRange": 105,
+      "destructibleComponents": [
+        {
+          "name": "AG - Stromling",
+          "objectID": 4712,
+          "displayName": "Stromling"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "727",
+      "differentItemsToDropRange": 105,
+      "destructibleComponents": [
+        {
+          "name": "AG - Stromling Mech",
+          "objectID": 6253,
+          "displayName": "Stromling Mech"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "728",
+      "differentItemsToDropRange": 105,
+      "destructibleComponents": [
+        {
+          "name": "AG - Dark Spiderling",
+          "objectID": 6359,
+          "displayName": "Dark Spiderling"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "2",
+      "id": "2275",
+      "differentItemsToDropRange": 105,
+      "destructibleComponents": [
+        {
+          "name": "NSI - Super Stromling Boss",
+          "objectID": 12600,
+          "displayName": "Murgle Blotch - Stromling Champion"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4585",
+      "differentItemsToDropRange": 105,
+      "destructibleComponents": [],
+      "soldByVendor": 1
+    }
+  ],
+  "285": [
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "0",
+      "id": "1269",
+      "differentItemsToDropRange": 55,
+      "destructibleComponents": [],
+      "soldByVendor": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "757": [
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4293",
+      "differentItemsToDropRange": 1,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Frakjaw Skeleton Lieutenant",
+          "objectID": 16048,
+          "displayName": "Frakjaw - Skeleton of Fire"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4293",
+      "differentItemsToDropRange": 1,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Frakjaw Skeleton Lieutenant",
+          "objectID": 16048,
+          "displayName": "Frakjaw - Skeleton of Fire"
+        }
+      ],
+      "soldByVendor": 0
+    }
+  ]
+}

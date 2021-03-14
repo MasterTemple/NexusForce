@@ -1,0 +1,34 @@
+{
+  "739": [
+    {
+      "percent": 25,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4779",
+      "differentItemsToDropRange": 1,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Skeleton Marksman",
+          "objectID": 14028,
+          "displayName": "Skeleton Marksman"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 25,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4779",
+      "differentItemsToDropRange": 1,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Skeleton Marksman",
+          "objectID": 14028,
+          "displayName": "Skeleton Marksman"
+        }
+      ],
+      "soldByVendor": 1
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "table": [
+    {
+      "missionID": "937",
+      "name": "Nexus Force Explorer",
+      "objective": "Discover all locations in the Nimbus System."
+    }
+  ],
+  "itemID": 3066
+}

@@ -1,0 +1,28 @@
+{
+  "480": [
+    {
+      "percent": 25,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2170",
+      "differentItemsToDropRange": 1,
+      "destructibleComponents": [
+        {
+          "name": "AM - Skeleton Miner",
+          "objectID": 12000,
+          "displayName": "Skeleton Miner"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 25,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2174",
+      "differentItemsToDropRange": 1,
+      "destructibleComponents": [],
+      "soldByVendor": 0
+    }
+  ]
+}

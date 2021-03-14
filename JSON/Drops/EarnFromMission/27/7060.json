@@ -1,0 +1,10 @@
+{
+  "table": [
+    {
+      "missionID": "83",
+      "name": "Pirate Sharpshooter 1",
+      "objective": "Score a cumulative total of 1,000,000 points in Cannon Cove Shooting Gallery."
+    }
+  ],
+  "itemID": 7060
+}

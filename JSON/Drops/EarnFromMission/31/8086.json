@@ -1,0 +1,10 @@
+{
+  "table": [
+    {
+      "missionID": "343",
+      "name": "Crack Shot 3",
+      "objective": "Hit 20 more targets in a row in Cannon Cove Shooting Gallery with regular cannon shots."
+    }
+  ],
+  "itemID": 8086
+}

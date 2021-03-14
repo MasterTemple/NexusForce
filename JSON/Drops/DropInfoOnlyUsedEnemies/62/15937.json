@@ -1,0 +1,191 @@
+{
+  "844": [
+    {
+      "percent": 0.25,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4898",
+      "differentItemsToDropRange": 24,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Skeleton Trooper",
+          "objectID": 14491,
+          "displayName": "Skeleton Trooper"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 2,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4994",
+      "differentItemsToDropRange": 24,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Krazi Skeleton Lieutenant",
+          "objectID": 16049,
+          "displayName": "Krazi - Skeleton of Lightning"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 2,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "5006",
+      "differentItemsToDropRange": 24,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Bonezai Skeleton Lieutenant",
+          "objectID": 16050,
+          "displayName": "Bonezai - Skeleton of Ice"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 2,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "5022",
+      "differentItemsToDropRange": 24,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Chopov Skeleton Lieutenant",
+          "objectID": 16047,
+          "displayName": "Chopov - Skeleton of Earth"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 0.5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4986",
+      "differentItemsToDropRange": 24,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Skeleton Commando",
+          "objectID": 14026,
+          "displayName": "Skeleton Commando"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 0.25,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4958",
+      "differentItemsToDropRange": 24,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Skeleton Blacksmith",
+          "objectID": 14024,
+          "displayName": "Skeleton Blacksmith"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 0.25,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4962",
+      "differentItemsToDropRange": 24,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Skeleton Raider",
+          "objectID": 14025,
+          "displayName": "Skeleton Raider"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 0.5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4990",
+      "differentItemsToDropRange": 24,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Skeleton Overseer",
+          "objectID": 14027,
+          "displayName": "Skeleton Overseer"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 0.25,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4966",
+      "differentItemsToDropRange": 24,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Skeleton Marksman",
+          "objectID": 14028,
+          "displayName": "Skeleton Marksman"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 0.5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "5039",
+      "differentItemsToDropRange": 24,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Skeleton Mad Scientist",
+          "objectID": 14029,
+          "displayName": "Skeleton Mad Scientist"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 0.5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "5039",
+      "differentItemsToDropRange": 24,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Skeleton Mad Scientist",
+          "objectID": 14029,
+          "displayName": "Skeleton Mad Scientist"
+        }
+      ],
+      "soldByVendor": 1
+    }
+  ],
+  "863": [
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "0",
+      "id": "5043",
+      "differentItemsToDropRange": 6,
+      "destructibleComponents": [],
+      "soldByVendor": 1
+    }
+  ],
+  "866": [
+    {
+      "percent": 100,
+      "minToDrop": "1",
+      "maxToDrop": "2",
+      "id": "5044",
+      "differentItemsToDropRange": 41,
+      "destructibleComponents": [],
+      "soldByVendor": 0
+    }
+  ]
+}

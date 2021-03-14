@@ -1,0 +1,142 @@
+{
+  "table": [
+    {
+      "missionID": "979",
+      "name": "Black Box"
+    },
+    {
+      "missionID": "987",
+      "name": "Shield Zones"
+    },
+    {
+      "missionID": "991",
+      "name": "Tea Time"
+    },
+    {
+      "missionID": "996",
+      "name": "Smash Talli Reeko!",
+      "objective": "Smash Talli Reeko on Crux Prime!"
+    },
+    {
+      "missionID": "1254",
+      "name": "Mutiny on Crux Prime"
+    },
+    {
+      "missionID": "1255",
+      "name": "Horsemaster"
+    },
+    {
+      "missionID": "1256",
+      "name": "Spider Slayer"
+    },
+    {
+      "missionID": "1257",
+      "name": "Dragonlord"
+    },
+    {
+      "missionID": "1258",
+      "name": "Invaders!"
+    },
+    {
+      "missionID": "1259",
+      "name": "Bone Patrol"
+    },
+    {
+      "missionID": "1260",
+      "name": "Arrr is for Robot"
+    },
+    {
+      "missionID": "1261",
+      "name": "Boss Battler"
+    },
+    {
+      "missionID": "1262",
+      "name": "Maelstrom Mangler"
+    },
+    {
+      "missionID": "1263",
+      "name": "Chaos Crusher"
+    },
+    {
+      "missionID": "1264",
+      "name": "Smash Pack"
+    },
+    {
+      "missionID": "1265",
+      "name": "Bone Voyage"
+    },
+    {
+      "missionID": "1266",
+      "name": "Easy and Hard"
+    },
+    {
+      "missionID": "1267",
+      "name": "Smash ED-902!",
+      "objective": "Smash ED-902 on Crux Prime!"
+    },
+    {
+      "missionID": "1268",
+      "name": "Smash Muffet Bane!",
+      "objective": "Smash Muffet Bane on Crux Prime!"
+    },
+    {
+      "missionID": "1269",
+      "name": "Smash Gull Rawstew!",
+      "objective": "Smash Gull Rawstew on Crux Prime!"
+    },
+    {
+      "missionID": "1270",
+      "name": "Smash Admiral Flogmore!",
+      "objective": "Smash Admiral Flogmore on Crux Prime!"
+    },
+    {
+      "missionID": "1271",
+      "name": "Smash Roo Morgg!",
+      "objective": "Smash Roo Morgg on Crux Prime!"
+    },
+    {
+      "missionID": "1272",
+      "name": "Smash Grim Daisho!",
+      "objective": "Smash Grim Daisho on Crux Prime!"
+    },
+    {
+      "missionID": "1273",
+      "name": "Smash Vargas the Tormented!",
+      "objective": "Smash Vargas the Tormented on Crux Prime!"
+    },
+    {
+      "missionID": "1274",
+      "name": "Smash Butterscorch!",
+      "objective": "Smash Butterscorch on Crux Prime!"
+    },
+    {
+      "missionID": "1275",
+      "name": "Bomb Squad"
+    },
+    {
+      "missionID": "1297",
+      "name": "Engineers of Destruction"
+    },
+    {
+      "missionID": "1305",
+      "name": "Mining Marauder"
+    },
+    {
+      "missionID": "1306",
+      "name": "Ninja Avenger"
+    },
+    {
+      "missionID": "1307",
+      "name": "Breaking Ranks"
+    },
+    {
+      "missionID": "1308",
+      "name": "Your Spinjitzu is Strong"
+    },
+    {
+      "missionID": "1309",
+      "name": "Compound Fracture"
+    }
+  ],
+  "itemID": 12115
+}

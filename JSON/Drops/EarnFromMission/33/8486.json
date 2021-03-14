@@ -1,0 +1,10 @@
+{
+  "table": [
+    {
+      "missionID": "102",
+      "name": "Hearty Score 1",
+      "objective": "Score 50,000 points in one game in Cannon Cove Shooting Gallery."
+    }
+  ],
+  "itemID": 8486
+}

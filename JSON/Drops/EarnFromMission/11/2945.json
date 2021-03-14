@@ -1,0 +1,10 @@
+{
+  "table": [
+    {
+      "missionID": "525",
+      "name": "Defeat the Maelstrom 1",
+      "objective": "Smash 10 elite enemies."
+    }
+  ],
+  "itemID": 2945
+}

@@ -1,0 +1,15 @@
+{
+  "table": [
+    {
+      "missionID": "795",
+      "name": "Ninja Initiate 3",
+      "objective": "Smash 1000 more Maelstrom Horsemen."
+    },
+    {
+      "missionID": "855",
+      "name": "Lights Out",
+      "objective": "Smash 100 ninja lanterns in Forbidden Valley."
+    }
+  ],
+  "itemID": 11162
+}

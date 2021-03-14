@@ -1,0 +1,25 @@
+{
+  "table": [
+    {
+      "missionID": "462",
+      "name": "Pirate Arch-itect 1",
+      "objective": "Quick Build the Pirate Archway in Gnarled Forest."
+    },
+    {
+      "missionID": "1843",
+      "name": "A Collector's Dream 2",
+      "objective": "Complete 100 collection Quick Builds."
+    },
+    {
+      "missionID": "1970",
+      "name": "What's in the Box?!! 2",
+      "objective": "Quick Build 25 more Dragon-in-a-Boxes on the Ninjago Battlefield."
+    },
+    {
+      "missionID": "2069",
+      "name": "Fight in the Shade 2",
+      "objective": "Quick Build 25 more Archery Targets on the Ninjago Battlefield."
+    }
+  ],
+  "itemID": 5834
+}
