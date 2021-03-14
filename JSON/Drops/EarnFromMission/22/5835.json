@@ -1,4 +1,9 @@
 {
+  "itemID": 5835,
+  "name": "Super Brick Booster Pack",
+  "displayName": "Super Brick Booster Pack",
+  "description": "Double-click to open this pack of bricks!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/ag_super_brickpack.png",
   "table": [
     {
       "missionID": "16",
@@ -35,6 +40,5 @@
       "name": "Fight in the Shade",
       "objective": "Quick Build 75 more Archery Targets on the Ninjago Battlefield."
     }
-  ],
-  "itemID": 5835
+  ]
 }

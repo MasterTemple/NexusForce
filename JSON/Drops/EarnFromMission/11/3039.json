@@ -1,4 +1,9 @@
 {
+  "itemID": 3039,
+  "name": "Green Imaginite",
+  "displayName": "Green Imaginite",
+  "description": "Spend this on minigames!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/misc/m30385_37.png",
   "table": [
     {
       "missionID": "475",
@@ -12,6 +17,5 @@
       "missionID": "940",
       "name": "Your Action Bar"
     }
-  ],
-  "itemID": 3039
+  ]
 }

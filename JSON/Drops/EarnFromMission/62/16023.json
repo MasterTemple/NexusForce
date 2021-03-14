@@ -1,4 +1,9 @@
 {
+  "itemID": 16023,
+  "name": "Ninjago Hound Treat",
+  "displayName": "Ninjago Hound Treat",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/misc/hound_treat.png",
   "table": [
     {
       "missionID": "1918",
@@ -9,6 +14,5 @@
       "name": "Hero of Ninjago",
       "objective": "Recover the 4 Weapons of Spinjitzu."
     }
-  ],
-  "itemID": 16023
+  ]
 }

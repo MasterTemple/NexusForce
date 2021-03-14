@@ -1,4 +1,9 @@
 {
+  "itemID": 2998,
+  "name": "Potion of Imagination 2",
+  "displayName": "Strong Notion Potion",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/potion_green.png",
   "table": [
     {
       "missionID": "1281",
@@ -8,6 +13,5 @@
       "missionID": "1457",
       "name": "High Score"
     }
-  ],
-  "itemID": 2998
+  ]
 }

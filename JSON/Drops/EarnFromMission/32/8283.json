@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8283
+  "itemID": 8283,
+  "name": "NPC Rusty Steele Helmet",
+  "displayName": null,
+  "description": "NPC Rusty Steele Helmet",
+  "iconURL": "https://github.com/MasterTemple/lu_bot/blob/master/src/unknown.png?raw=true",
+  "table": []
 }

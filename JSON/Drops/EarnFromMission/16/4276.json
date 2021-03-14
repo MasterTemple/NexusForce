@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4276
+  "itemID": 4276,
+  "name": "Dark Stone Grey Shirt 24",
+  "displayName": "Medieval Vest",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_81_199.png",
+  "table": []
 }

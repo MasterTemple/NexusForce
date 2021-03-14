@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 14559
+  "itemID": 14559,
+  "name": "Hatchling Frog's Egg - Dark Gray",
+  "displayName": "Dark Gray Frog's Egg",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/icons/frog-eggs.png",
+  "table": []
 }

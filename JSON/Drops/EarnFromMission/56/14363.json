@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 14363
+  "itemID": 14363,
+  "name": "Venture Gear - Daredevil - offhand proxy",
+  "displayName": "Venture Gear - Daredevil - weapon proxy",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/faction%20kits/daredevil_flareguns_2.png",
+  "table": []
 }

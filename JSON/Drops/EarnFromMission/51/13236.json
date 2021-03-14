@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13236
+  "itemID": 13236,
+  "name": "Model Reward Tracker Bot Model",
+  "displayName": "Tracker Bot Model",
+  "description": "This model contains behaviors!",
+  "iconURL": "https://github.com/MasterTemple/lu_bot/blob/master/src/unknown.png?raw=true",
+  "table": []
 }

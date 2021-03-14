@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12770
+  "itemID": 12770,
+  "name": "Cutoff Jeans",
+  "displayName": "Cutoff Jeans",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/legs/legs_cutoffs.png",
+  "table": []
 }

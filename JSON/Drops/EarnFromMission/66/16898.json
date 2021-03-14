@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 16898
+  "itemID": 16898,
+  "name": "Hatchling Crocodiles Egg",
+  "displayName": "Crocodile Egg",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/misc/petegg.png",
+  "table": []
 }

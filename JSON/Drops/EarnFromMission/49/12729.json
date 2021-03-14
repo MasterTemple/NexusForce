@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12729
+  "itemID": 12729,
+  "name": "Elite Long Barrel Blaster",
+  "displayName": "Elite Long Barrel Blaster",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/hands/props_longbarrelpistol.png",
+  "table": []
 }

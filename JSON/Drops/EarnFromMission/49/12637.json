@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12637
+  "itemID": 12637,
+  "name": "Knight Valiant Weapon",
+  "displayName": "The Powerjouster",
+  "description": "Two-Handed Weapon",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/faction%20kits/fackit_knightvaliant_master.png",
+  "table": []
 }

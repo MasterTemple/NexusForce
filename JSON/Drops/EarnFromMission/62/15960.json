@@ -1,9 +1,13 @@
 {
+  "itemID": 15960,
+  "name": "Piercing Patch Hood",
+  "displayName": "Piercing Patch Hood",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/helms/gray_ninja_hood_spear.png",
   "table": [
     {
       "missionID": "1922",
       "name": "Urufu's Fifth Treasure"
     }
-  ],
-  "itemID": 15960
+  ]
 }

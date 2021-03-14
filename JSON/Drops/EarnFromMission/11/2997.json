@@ -1,9 +1,13 @@
 {
+  "itemID": 2997,
+  "name": "Armor Polish 3",
+  "displayName": "Armor Gleam",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/sledge_hammer.png",
   "table": [
     {
       "missionID": "970",
       "name": "Bone Fractures"
     }
-  ],
-  "itemID": 2997
+  ]
 }

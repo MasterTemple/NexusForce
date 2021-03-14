@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 14556
+  "itemID": 14556,
+  "name": "Rusty Steel Macguffin - laser",
+  "displayName": "Flashlight",
+  "description": "Return this to Rusty Steele in Avant Gardens.",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/icons/flashlight.png",
+  "table": []
 }

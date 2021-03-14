@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 14354
+  "itemID": 14354,
+  "name": "Assembly Gear - Summoner - chest proxy",
+  "displayName": "Assenbly Gear - Summoner - chest proxy",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/faction/summoner_02.png",
+  "table": []
 }

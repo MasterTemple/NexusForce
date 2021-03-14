@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13836
+  "itemID": 13836,
+  "name": "Janitor Shirt Proxy",
+  "displayName": "Janitor Shirt Proxy",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/torsos/torsos_nexuscustodian.png",
+  "table": []
 }

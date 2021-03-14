@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 5779
+  "itemID": 5779,
+  "name": "Reddish Brown Shirt 36",
+  "displayName": "Mission Giver Shirt",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_46_192.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 5658
+  "itemID": 5658,
+  "name": "NPC Jackhammer",
+  "displayName": null,
+  "description": "bad offset",
+  "iconURL": "https://github.com/MasterTemple/lu_bot/blob/master/src/unknown.png?raw=true",
+  "table": []
 }

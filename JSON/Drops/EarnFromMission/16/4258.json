@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4258
+  "itemID": 4258,
+  "name": "Dark Stone Grey Shirt 6",
+  "displayName": "Business Jacket",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_74_199.png",
+  "table": []
 }

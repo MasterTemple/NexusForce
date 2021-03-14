@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12720
+  "itemID": 12720,
+  "name": "Super Dagger",
+  "displayName": "Super Dagger",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m44658_199.png",
+  "table": []
 }

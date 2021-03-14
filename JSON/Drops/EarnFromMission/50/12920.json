@@ -1,9 +1,13 @@
 {
+  "itemID": 12920,
+  "name": "NJ SJ Imagination Pants",
+  "displayName": "Imagination Spinjitzu Pants",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/legs/legs_spinjitzu.png",
   "table": [
     {
       "missionID": "974",
       "name": "Nuckal Cracker"
     }
-  ],
-  "itemID": 12920
+  ]
 }

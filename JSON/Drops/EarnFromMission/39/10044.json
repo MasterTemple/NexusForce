@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10044
+  "itemID": 10044,
+  "name": "Behavior - Basic Smash",
+  "displayName": "Basic Smash Behavior",
+  "description": "Smash an object and rebuild it",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/model_icon.png",
+  "table": []
 }

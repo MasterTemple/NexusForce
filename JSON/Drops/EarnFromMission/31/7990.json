@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7990
+  "itemID": 7990,
+  "name": "Blue Kepi Hat",
+  "displayName": "Blue Kepi Hat",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m30135_23.png",
+  "table": []
 }

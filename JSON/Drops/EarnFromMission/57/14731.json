@@ -1,9 +1,13 @@
 {
+  "itemID": 14731,
+  "name": "Purified Bone",
+  "displayName": "Purified Bone",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/hands/silverbone.png",
   "table": [
     {
       "missionID": "2022",
       "name": "Maelstrom Weapons Part 6"
     }
-  ],
-  "itemID": 14731
+  ]
 }

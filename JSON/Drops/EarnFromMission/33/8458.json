@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8458
+  "itemID": 8458,
+  "name": "Samurai Neck/Back 2",
+  "displayName": "Samurai Shoulderpads 2",
+  "description": "Rank 2 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/faction%20kits/samurai_shoulder_2.png",
+  "table": []
 }

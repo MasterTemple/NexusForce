@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10796
+  "itemID": 10796,
+  "name": "LUP Model Reward BrownTable",
+  "displayName": "Brown Table Model 1",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/lup_ajs_browntable.png",
+  "table": []
 }

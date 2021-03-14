@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13217
+  "itemID": 13217,
+  "name": "Model Reward Spider Model",
+  "displayName": "Spider Model",
+  "description": "This model contains behaviors!",
+  "iconURL": "https://github.com/MasterTemple/lu_bot/blob/master/src/unknown.png?raw=true",
+  "table": []
 }

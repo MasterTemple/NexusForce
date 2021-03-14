@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 14841
+  "itemID": 14841,
+  "name": "Superior Black heavy Spear Proxy",
+  "displayName": "Superior Black heavy Spear Proxy",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/faction%20kits/fackit_samuraivaliant_master.png",
+  "table": []
 }

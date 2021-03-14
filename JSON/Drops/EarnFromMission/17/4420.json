@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4420
+  "itemID": 4420,
+  "name": "Medium Blue Shirt 32",
+  "displayName": "Starry Tank Top",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_40_102.png",
+  "table": []
 }

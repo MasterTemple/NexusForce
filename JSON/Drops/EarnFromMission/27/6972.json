@@ -1,9 +1,13 @@
 {
+  "itemID": 6972,
+  "name": "Numb Chuck's Maelstrom Staff",
+  "displayName": "Numb Chuck's Maelstrom Staff",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/gf_maelstromstaff.png",
   "table": [
     {
       "missionID": "735",
       "name": "Return the Stolen Treasure"
     }
-  ],
-  "itemID": 6972
+  ]
 }

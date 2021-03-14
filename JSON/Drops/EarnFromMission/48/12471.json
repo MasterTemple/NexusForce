@@ -1,10 +1,14 @@
 {
+  "itemID": 12471,
+  "name": "Overstuffed Briefcase",
+  "displayName": "Overstuffed Briefcase",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/misc/overstuffed_briefcase.png",
   "table": [
     {
       "missionID": "1118",
       "name": "Crux Prime Ape Whisperer 2",
       "objective": "Smash 50 more Stromling Ape Invaders on Crux Prime."
     }
-  ],
-  "itemID": 12471
+  ]
 }

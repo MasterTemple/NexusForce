@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8673
+  "itemID": 8673,
+  "name": "Kettle Helmet",
+  "displayName": "Kettle Helmet",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m30273_199.png",
+  "table": []
 }

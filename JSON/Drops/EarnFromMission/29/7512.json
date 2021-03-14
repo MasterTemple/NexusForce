@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7512
+  "itemID": 7512,
+  "name": "Daredevil Legs 2",
+  "displayName": "Daredevil Pants 2",
+  "description": "Rank 2 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/legs/faction/daredevil_02.png",
+  "table": []
 }

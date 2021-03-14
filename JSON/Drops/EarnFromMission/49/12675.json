@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12675
+  "itemID": 12675,
+  "name": "Fleur-di-lis Shield",
+  "displayName": "Fleur-de-Lis Shield",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/hands/heatershieldfluedelis.png",
+  "table": []
 }

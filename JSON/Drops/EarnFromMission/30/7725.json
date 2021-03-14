@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7725
+  "itemID": 7725,
+  "name": "Healing Drumstick",
+  "displayName": "Healing Drumstick",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/m33057_38.png",
+  "table": []
 }

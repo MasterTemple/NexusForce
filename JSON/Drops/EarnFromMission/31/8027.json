@@ -1,9 +1,13 @@
 {
+  "itemID": 8027,
+  "name": "Rank 1 Space Ranger Kit Package",
+  "displayName": "Rank 1 Space Ranger Kit Package",
+  "description": "Double-click to get the Rank 1 Space Ranger Specialty Gear!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/kits/kit_sentinel.png",
   "table": [
     {
       "missionID": "591",
       "name": "Get your Sentinel Faction Gear!"
     }
-  ],
-  "itemID": 8027
+  ]
 }

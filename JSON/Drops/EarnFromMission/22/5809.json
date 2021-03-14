@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 5809
+  "itemID": 5809,
+  "name": "Earth Green Shirt 36",
+  "displayName": "Mission Giver Shirt",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_46_141.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12963
+  "itemID": 12963,
+  "name": "Engineer Neck/Back 3 Color Variant",
+  "displayName": "Engineer Vest 3",
+  "description": "Rank 3 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/faction%20kits/engineer_vest_3_variant.png",
+  "table": []
 }

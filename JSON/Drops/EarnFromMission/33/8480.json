@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8480
+  "itemID": 8480,
+  "name": "Exceptional Axe",
+  "displayName": "Exceptional Axe",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m3848_297.png",
+  "table": []
 }

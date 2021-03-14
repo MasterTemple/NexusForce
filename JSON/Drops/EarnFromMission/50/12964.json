@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12964
+  "itemID": 12964,
+  "name": "Engineer Weapon 3 Color Variant",
+  "displayName": "Engineer Wrench 3",
+  "description": "Rank 3 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/faction%20kits/engineer_wrench_3_variant.png",
+  "table": []
 }

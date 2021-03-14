@@ -1,9 +1,13 @@
 {
+  "itemID": 2630,
+  "name": "Superior Cutlass",
+  "displayName": "Superior Cutlass",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m2530_297.png",
   "table": [
     {
       "missionID": "384",
       "name": "What's the Commotion?"
     }
-  ],
-  "itemID": 2630
+  ]
 }

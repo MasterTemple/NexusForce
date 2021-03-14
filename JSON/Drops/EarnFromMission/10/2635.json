@@ -1,10 +1,14 @@
 {
+  "itemID": 2635,
+  "name": "Pirate Captain Hat",
+  "displayName": "Pirate Captain Hat",
+  "description": "Wear this in Nimbus Station to launch your rocket to the Pirate Camp",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/custom_captainhat.png",
   "table": [
     {
       "missionID": "423",
       "name": "Venture League Privateer 3",
       "objective": "Smash 1000 more Stromling Pirates."
     }
-  ],
-  "itemID": 2635
+  ]
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 16521
+  "itemID": 16521,
+  "name": "Model Reward Monastery Right Entrance",
+  "displayName": "Monastery Right Entrance Model",
+  "description": "A model for your Property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/models/rew_ninjagomonastery_entranceright.png",
+  "table": []
 }

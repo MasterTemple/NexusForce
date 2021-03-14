@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8473
+  "itemID": 8473,
+  "name": "Elite Scimitar",
+  "displayName": "Elite Scimitar",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m43887_297.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8169
+  "itemID": 8169,
+  "name": "Test Venture Grunt Helmet",
+  "displayName": null,
+  "description": "test Venture Grunt Helm",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/custom_flower_hat.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12978
+  "itemID": 12978,
+  "name": "Samurai Offhand 3 Color Variant",
+  "displayName": "Samurai Bow 3",
+  "description": "Rank 3 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/faction%20kits/samurai_bow_3_variant.png",
+  "table": []
 }

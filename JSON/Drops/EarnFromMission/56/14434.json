@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 14434
+  "itemID": 14434,
+  "name": "NPC Weapon of Spinning Earth Staff",
+  "displayName": "NPC Weapon of Spinning Earth Staff",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/hands/imaginationstaff.png",
+  "table": []
 }

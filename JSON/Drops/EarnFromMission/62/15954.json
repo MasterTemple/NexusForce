@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 15954
+  "itemID": 15954,
+  "name": "Slash and Stitch",
+  "displayName": "Slash and Stitch",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/helms/gray_ninja_hood_katana.png",
+  "table": []
 }

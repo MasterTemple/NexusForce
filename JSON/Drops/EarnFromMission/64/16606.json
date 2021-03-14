@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 16606
+  "itemID": 16606,
+  "name": "Earth Spinjitzu Gi Cole's Gi of Quakes",
+  "displayName": "Cole's Gi of Quakes",
+  "description": "Wear this to look like Cole!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/torsos/torsos_earthkit%20copy.png",
+  "table": []
 }

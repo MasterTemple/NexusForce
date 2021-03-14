@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13346
+  "itemID": 13346,
+  "name": "NPC Indian  Hair Vendor",
+  "displayName": "NPC Indian  Hair Vendor",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/factionkits/adventurer3_hat.png",
+  "table": []
 }

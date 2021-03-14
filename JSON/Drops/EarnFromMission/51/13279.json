@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13279
+  "itemID": 13279,
+  "name": "Engineer Valiant Weapon Proxy",
+  "displayName": "Engineer Valiant Weapon Proxy",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/faction%20kits/fackit_engineervaliant_master.png",
+  "table": []
 }

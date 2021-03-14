@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10708
+  "itemID": 10708,
+  "name": "E3 Model Question Block",
+  "displayName": "",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/smash_won_gnar_crate-large.png",
+  "table": []
 }

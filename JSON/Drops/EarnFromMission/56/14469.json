@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 14469
+  "itemID": 14469,
+  "name": "test Fruit",
+  "displayName": "test Fruit",
+  "description": "test",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/behaviors/stop.png",
+  "table": []
 }

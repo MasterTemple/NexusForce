@@ -1,10 +1,14 @@
 {
+  "itemID": 8086,
+  "name": "Red Imperial Shirt",
+  "displayName": "Red Imperial Shirt",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/reward/m73200_colonial_red.png",
   "table": [
     {
       "missionID": "343",
       "name": "Crack Shot 3",
       "objective": "Hit 20 more targets in a row in Cannon Cove Shooting Gallery with regular cannon shots."
     }
-  ],
-  "itemID": 8086
+  ]
 }

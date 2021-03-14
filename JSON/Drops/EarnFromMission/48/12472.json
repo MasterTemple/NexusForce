@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12472
+  "itemID": 12472,
+  "name": "Explorien Bot Helm",
+  "displayName": "Explorien Bot Helm",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/hats/exploriendroidhat.png",
+  "table": []
 }

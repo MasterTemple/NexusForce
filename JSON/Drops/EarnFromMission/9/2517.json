@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 2517
+  "itemID": 2517,
+  "name": "Earth Blue Pants",
+  "displayName": "Earth Blue Pants",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/legs/m73200_140.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4399
+  "itemID": 4399,
+  "name": "Medium Blue Shirt 11",
+  "displayName": "Rumpled Jacket",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_77_102.png",
+  "table": []
 }

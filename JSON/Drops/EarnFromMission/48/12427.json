@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12427
+  "itemID": 12427,
+  "name": "PaperFigShield",
+  "displayName": "PaperFigShield",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/maelstromeyeshield.png",
+  "table": []
 }

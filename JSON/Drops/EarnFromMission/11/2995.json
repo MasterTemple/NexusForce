@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 2995
+  "itemID": 2995,
+  "name": "Health Apple 3",
+  "displayName": "Healing Apple",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/m33051_28.png",
+  "table": []
 }

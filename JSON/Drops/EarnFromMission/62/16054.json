@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 16054
+  "itemID": 16054,
+  "name": "NPC Skeleton Head Krazi",
+  "displayName": "NPC Skeleton Head Krazi",
+  "description": "NPC Skeleton Head Krazi",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/png/m2587.png",
+  "table": []
 }

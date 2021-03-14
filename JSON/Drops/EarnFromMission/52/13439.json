@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13439
+  "itemID": 13439,
+  "name": "Imagination Fountain Behavior",
+  "displayName": "Imagination Fountain Behavior",
+  "description": "A behavior that releases imagination when the model is interacted with.",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_bvr_fountain.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 14186
+  "itemID": 14186,
+  "name": "Journal of the Founders",
+  "displayName": "Journal of the Founders",
+  "description": "Double-click to unlock 8 additional Vault slots!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/common/passport.png",
+  "table": []
 }

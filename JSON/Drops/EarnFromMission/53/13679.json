@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13679
+  "itemID": 13679,
+  "name": "Model Reward Zoo Fence Electrified Corner Inside ",
+  "displayName": "Zoo Electrified Inside Fence Corner Model",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_zoo_fence_electrified_corner_inside.png",
+  "table": []
 }

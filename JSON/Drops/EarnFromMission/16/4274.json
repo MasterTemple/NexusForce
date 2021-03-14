@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4274
+  "itemID": 4274,
+  "name": "Dark Stone Grey Shirt 22",
+  "displayName": "Green Coveralls",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_79_199.png",
+  "table": []
 }

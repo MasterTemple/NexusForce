@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12308
+  "itemID": 12308,
+  "name": "Banneret's Helm",
+  "displayName": "Banneret's Helm",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/squireshelm.png",
+  "table": []
 }

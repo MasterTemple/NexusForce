@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7529
+  "itemID": 7529,
+  "name": "Summoner Weapon 1",
+  "displayName": "Summoner Staff 1",
+  "description": "Rank 1 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/faction%20kits/summoner_staff_1.png",
+  "table": []
 }

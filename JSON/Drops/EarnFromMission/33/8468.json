@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8468
+  "itemID": 8468,
+  "name": "Super Spear",
+  "displayName": "Super Spear",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m4497_297.png",
+  "table": []
 }

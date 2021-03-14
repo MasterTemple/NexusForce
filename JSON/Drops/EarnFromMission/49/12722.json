@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12722
+  "itemID": 12722,
+  "name": "Heroic Trident of Lightning",
+  "displayName": "Heroic Trident of Lightning",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m87753_131.png",
+  "table": []
 }

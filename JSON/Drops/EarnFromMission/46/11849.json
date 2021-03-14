@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11849
+  "itemID": 11849,
+  "name": "Model Reward Spacefort Wall Short Armored Viewport",
+  "displayName": "Space Fort Short Armored Wall Model",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_spacefort_wall_short_armoredviewport.png",
+  "table": []
 }

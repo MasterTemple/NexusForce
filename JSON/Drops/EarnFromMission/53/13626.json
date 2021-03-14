@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13626
+  "itemID": 13626,
+  "name": "Damage Behavior",
+  "displayName": "Damage Behavior",
+  "description": "A behavior that makes a model damage a player on touch.",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/behaviors/causedamage.png",
+  "table": []
 }

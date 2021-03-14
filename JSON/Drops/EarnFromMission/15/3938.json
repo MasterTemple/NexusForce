@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 3938
+  "itemID": 3938,
+  "name": "Train Conductor Shirt",
+  "displayName": "Conductor's Shirt",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/m73200_train_conductor.png",
+  "table": []
 }

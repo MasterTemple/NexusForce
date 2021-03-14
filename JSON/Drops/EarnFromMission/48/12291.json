@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12291
+  "itemID": 12291,
+  "name": "Flannel Pants",
+  "displayName": "Flannel Pants",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/legs/flannelpants.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12695
+  "itemID": 12695,
+  "name": "Pit Stop Racing Shirt",
+  "displayName": "Pit Stop Racing Shirt",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/torsos/torsos_pitstopracingshirt.png",
+  "table": []
 }

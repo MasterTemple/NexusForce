@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12647
+  "itemID": 12647,
+  "name": "Daredevil Valiant Weapon",
+  "displayName": "The Rutcarver",
+  "description": "Two-Handed Weapon",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/faction%20kits/fackit_daredevilvaliant_master.png",
+  "table": []
 }

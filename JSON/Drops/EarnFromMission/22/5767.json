@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 5767
+  "itemID": 5767,
+  "name": "Dark Stone Grey Shirt 36",
+  "displayName": "Mission Giver Shirt",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_46_199.png",
+  "table": []
 }

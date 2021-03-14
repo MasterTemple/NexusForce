@@ -1,4 +1,9 @@
 {
+  "itemID": 14126,
+  "name": "Faction Token Bag - 100 tokens",
+  "displayName": "Ultra Bag of Faction Tokens",
+  "description": "Double-click to get 100 Faction Tokens!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/faction_bag_lg.png",
   "table": [
     {
       "missionID": "1274",
@@ -25,6 +30,5 @@
       "name": "Nimbus Station Achiever",
       "objective": "Complete 10 more Missions or Achievements in Nimbus Station, for a total of 50."
     }
-  ],
-  "itemID": 14126
+  ]
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13763
+  "itemID": 13763,
+  "name": "Faction Token Proxy",
+  "displayName": "Faction Token Proxy",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/behaviors/stop.png",
+  "table": []
 }

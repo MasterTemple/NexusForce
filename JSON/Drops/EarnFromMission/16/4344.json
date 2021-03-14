@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4344
+  "itemID": 4344,
+  "name": "Reddish Brown Shirt 24",
+  "displayName": "Medieval Vest",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_81_192.png",
+  "table": []
 }

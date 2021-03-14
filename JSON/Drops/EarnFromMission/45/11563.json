@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11563
+  "itemID": 11563,
+  "name": "Model Reward Airport Helicopter 2",
+  "displayName": "Airport Helicopter Model 2",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_airport_helicopter2.png",
+  "table": []
 }

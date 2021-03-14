@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12642
+  "itemID": 12642,
+  "name": "Samurai Valiant Weapon",
+  "displayName": "The Samuraizor",
+  "description": "Two-Handed Weapon",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/faction%20kits/fackit_samuraivaliant_master.png",
+  "table": []
 }

@@ -1,4 +1,9 @@
 {
+  "itemID": 10095,
+  "name": "Faction Token Bag - 5 tokens",
+  "displayName": "Medium Bag of Faction Tokens",
+  "description": "Double-click to get 5 Faction Tokens!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/faction_bag_xxsm.png",
   "table": [
     {
       "missionID": "973",
@@ -348,6 +353,5 @@
       "name": "Just a Fling 2",
       "objective": "Quick Build 25 more Catapults on the Ninjago Battlefield."
     }
-  ],
-  "itemID": 10095
+  ]
 }

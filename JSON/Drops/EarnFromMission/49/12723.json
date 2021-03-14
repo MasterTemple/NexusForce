@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12723
+  "itemID": 12723,
+  "name": "Wand of Repulsion",
+  "displayName": "Wand of Repulsion",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m6124_01.png",
+  "table": []
 }

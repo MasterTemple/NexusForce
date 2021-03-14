@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13316
+  "itemID": 13316,
+  "name": "NPC Vampire Bat Vendor",
+  "displayName": "NPC Vampire Bat Vendor",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/faction%20kits/spacemaurader_blaster_3.png",
+  "table": []
 }

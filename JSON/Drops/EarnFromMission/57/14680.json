@@ -1,4 +1,9 @@
 {
+  "itemID": 14680,
+  "name": "Armor Repair Kit",
+  "displayName": "Armor Repair Kit",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_green_brown.png",
   "table": [
     {
       "missionID": "1743",
@@ -18,6 +23,5 @@
       "missionID": "1865",
       "name": "Test Your Metal"
     }
-  ],
-  "itemID": 14680
+  ]
 }

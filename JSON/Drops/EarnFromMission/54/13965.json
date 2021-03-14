@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13965
+  "itemID": 13965,
+  "name": "TEST Tower Grid Shoulder A",
+  "displayName": "TEST Tower Grid Shoulder A",
+  "description": "TEST Tower Grid Shoulder A",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/faction%20kits/buccaneer_shoulder_2.png",
+  "table": []
 }

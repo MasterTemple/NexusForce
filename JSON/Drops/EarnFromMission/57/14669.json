@@ -1,4 +1,9 @@
 {
+  "itemID": 14669,
+  "name": "Training Katana",
+  "displayName": "Training Katana",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m30173_199.png",
   "table": [
     {
       "missionID": "1833",
@@ -9,6 +14,5 @@
       "name": "Heel, Boy! 2",
       "objective": "Smash 50 more Bone Wolves in the Ninjago Caves."
     }
-  ],
-  "itemID": 14669
+  ]
 }

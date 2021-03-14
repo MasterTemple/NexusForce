@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11584
+  "itemID": 11584,
+  "name": "Model Reward Airport Wall 5",
+  "displayName": "Airport Wall Model 5",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_airport_wall05.png",
+  "table": []
 }

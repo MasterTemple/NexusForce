@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13914
+  "itemID": 13914,
+  "name": "Helm of the Mountain King",
+  "displayName": "Helm of the Mountain King",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m60747_297.png",
+  "table": []
 }

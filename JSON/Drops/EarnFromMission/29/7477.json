@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7477
+  "itemID": 7477,
+  "name": "Shinobi Chest 3",
+  "displayName": "Shinobi Gi 3",
+  "description": "Rank 3 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/factionkits/torsos_shinobi3.png",
+  "table": []
 }

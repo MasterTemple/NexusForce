@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 6328
+  "itemID": 6328,
+  "name": "Test Client Blaster",
+  "displayName": null,
+  "description": "Test Client Blaster",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m2561_192.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13892
+  "itemID": 13892,
+  "name": "Venture Crate Disguise",
+  "displayName": "Venture League Box Disguise",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/misc/venturecratedisguise.png",
+  "table": []
 }

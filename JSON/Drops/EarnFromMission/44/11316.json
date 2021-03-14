@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11316
+  "itemID": 11316,
+  "name": "12 Month Subscriber Reward Pack",
+  "displayName": "12 Month Subscriber Reward Pack",
+  "description": "Double-click to open this pack of rewards!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_blue.png",
+  "table": []
 }

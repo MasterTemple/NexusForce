@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12989
+  "itemID": 12989,
+  "name": "Sorcerer Neck/Back 3 Color Variant",
+  "displayName": "Sorcerer Shoulderpads 3",
+  "description": "Rank 3 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/faction%20kits/sorcerer_vest_3_variant.png",
+  "table": []
 }

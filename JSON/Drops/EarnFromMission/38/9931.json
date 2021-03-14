@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 9931
+  "itemID": 9931,
+  "name": "Maelstrom Infected Anchor",
+  "displayName": "Maelstrom Infected Anchor",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/anchor.png",
+  "table": []
 }

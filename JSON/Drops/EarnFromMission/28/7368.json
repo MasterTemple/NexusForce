@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7368
+  "itemID": 7368,
+  "name": "Knight Chest 2",
+  "displayName": "Knight Breastplate 2",
+  "description": "Rank 2 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/faction/knight_02.png",
+  "table": []
 }

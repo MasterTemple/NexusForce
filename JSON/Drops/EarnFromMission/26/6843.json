@@ -1,10 +1,14 @@
 {
+  "itemID": 6843,
+  "name": "Superior Mate's Cutlass",
+  "displayName": "Superior Mate's Cutlass",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m2530_199.png",
   "table": [
     {
       "missionID": "421",
       "name": "Venture League Privateer 1",
       "objective": "Smash 25 Stromling Pirates."
     }
-  ],
-  "itemID": 6843
+  ]
 }

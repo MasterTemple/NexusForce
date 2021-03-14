@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8361
+  "itemID": 8361,
+  "name": "Belted Ninja Shirt",
+  "displayName": "Belted Ninja Shirt",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/reward/m73200_belted_ninja.png",
+  "table": []
 }

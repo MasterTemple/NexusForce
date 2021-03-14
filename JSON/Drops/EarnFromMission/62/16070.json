@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 16070
+  "itemID": 16070,
+  "name": "Worn Gi",
+  "displayName": "Worn Gi",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/torsos/minifig_tanninjagi.png",
+  "table": []
 }

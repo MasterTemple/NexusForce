@@ -1,9 +1,13 @@
 {
+  "itemID": 8354,
+  "name": "Mantis Style Gi Shirt",
+  "displayName": "Mantis Style Gi",
+  "description": "Masters of Mantis style Kung Fu do not use any weapons!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/reward/m73200_mantis_gi.png",
   "table": [
     {
       "missionID": "496",
       "name": "The Ninja Masters"
     }
-  ],
-  "itemID": 8354
+  ]
 }

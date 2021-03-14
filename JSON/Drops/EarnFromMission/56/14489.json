@@ -1,9 +1,13 @@
 {
+  "itemID": 14489,
+  "name": "Lightning Key",
+  "displayName": "Lightning Key",
+  "description": "Use this to open the treasure chest in the Dojo of Lightning.",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/misc/lightning_key.png",
   "table": [
     {
       "missionID": "1929",
       "name": "DNL - Lightning Key Hidden Achievement"
     }
-  ],
-  "itemID": 14489
+  ]
 }

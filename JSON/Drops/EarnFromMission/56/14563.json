@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 14563
+  "itemID": 14563,
+  "name": "Hatchling Cat's Fish - Tan",
+  "displayName": "Tan Cat's Fish",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/icons/cat-fish.png",
+  "table": []
 }

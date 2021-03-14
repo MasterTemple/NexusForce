@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8484
+  "itemID": 8484,
+  "name": "Worthy Butterfly Net",
+  "displayName": "Worthy Butterfly Net",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m4433_24.png",
+  "table": []
 }

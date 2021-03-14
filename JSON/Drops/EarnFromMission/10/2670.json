@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 2670
+  "itemID": 2670,
+  "name": "Test Contest Insta Bot",
+  "displayName": null,
+  "description": "Team 5",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/potion_blue.png",
+  "table": []
 }

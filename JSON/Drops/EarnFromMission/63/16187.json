@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 16187
+  "itemID": 16187,
+  "name": "Adventurer Cape Back/Neck",
+  "displayName": "Valiant Adventurer's Cape",
+  "description": "Rank 3 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/icons/cape_venture.png",
+  "table": []
 }

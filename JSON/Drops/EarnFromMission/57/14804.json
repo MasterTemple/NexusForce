@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 14804
+  "itemID": 14804,
+  "name": "NPC Coolie hat",
+  "displayName": "NPC Coolie hat",
+  "description": "NPC Coolie hat",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m30177_1.png",
+  "table": []
 }

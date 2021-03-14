@@ -1,10 +1,14 @@
 {
+  "itemID": 3065,
+  "name": "Exceptional Katana of Shielding",
+  "displayName": "Exceptional Katana of Shielding",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m30173-194.png",
   "table": [
     {
       "missionID": "185",
       "name": "Smash 'Em All 2",
       "objective": "Smash 250 more enemies."
     }
-  ],
-  "itemID": 3065
+  ]
 }

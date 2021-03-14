@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4075
+  "itemID": 4075,
+  "name": "Bright Red Shirt 27",
+  "displayName": "Girl's Tank Top",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_42_21.png",
+  "table": []
 }

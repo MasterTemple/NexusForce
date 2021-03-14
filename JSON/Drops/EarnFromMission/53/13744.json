@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13744
+  "itemID": 13744,
+  "name": "Crate Disguise Head Proxy",
+  "displayName": "Crate Disguise Head Proxy",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/",
+  "table": []
 }

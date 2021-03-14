@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7397
+  "itemID": 7397,
+  "name": "Sorcerer Weapon 1",
+  "displayName": "Sorcerer Wand 1",
+  "description": "Rank 1 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/faction%20kits/sorcerer_staff_1.png",
+  "table": []
 }

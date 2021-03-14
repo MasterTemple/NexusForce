@@ -1,10 +1,14 @@
 {
+  "itemID": 10129,
+  "name": "Beta Tester Shirt",
+  "displayName": "Beta Tester Shirt",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/reward/m73200_minifigarm.png",
   "table": [
     {
       "missionID": "875",
       "name": "Beta Tester",
       "objective": "Awarded for participation in the LEGO Universe Beta Test."
     }
-  ],
-  "itemID": 10129
+  ]
 }

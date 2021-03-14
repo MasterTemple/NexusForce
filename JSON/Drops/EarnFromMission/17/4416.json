@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4416
+  "itemID": 4416,
+  "name": "Medium Blue Shirt 28",
+  "displayName": "Girl's Midriff Jacket",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_71_102.png",
+  "table": []
 }

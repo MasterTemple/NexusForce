@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7444
+  "itemID": 7444,
+  "name": "Space Ranger Head 3",
+  "displayName": "Space Ranger Helmet 3",
+  "description": "Rank 3 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/factionkits/spaceranger3_helmet.png",
+  "table": []
 }

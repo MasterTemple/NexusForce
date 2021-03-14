@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11462
+  "itemID": 11462,
+  "name": "Shinobi Offhand 2 - Proxy",
+  "displayName": "Shinobi Offhand 2 - Proxy",
+  "description": "Rank 2 Specialty Kit Item. Tied to Shinobi Weapon 2",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/factionkits/shinobi2_sword.png",
+  "table": []
 }

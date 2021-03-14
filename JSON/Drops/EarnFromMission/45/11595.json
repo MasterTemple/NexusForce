@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11595
+  "itemID": 11595,
+  "name": "Model Reward Farm Barn Door 4",
+  "displayName": "Farm Barn Door Model 4",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_barn_door04.png",
+  "table": []
 }

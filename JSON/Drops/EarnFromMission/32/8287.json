@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8287
+  "itemID": 8287,
+  "name": "NPC Wisp Lee Scarf",
+  "displayName": null,
+  "description": "NPC Wisp Lee Scarf",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m3833_24.png",
+  "table": []
 }

@@ -1,10 +1,14 @@
 {
+  "itemID": 13625,
+  "name": "Micro City Model Pack 3",
+  "displayName": "Micro City Model Pack 3",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_red.png",
   "table": [
     {
       "missionID": "1210",
       "name": "Ain't Misbehavin' 3",
       "objective": "Add 50 more Behaviors to any of your models."
     }
-  ],
-  "itemID": 13625
+  ]
 }

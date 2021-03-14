@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 9818
+  "itemID": 9818,
+  "name": "Daredevil Offhand 1 - Proxy",
+  "displayName": null,
+  "description": "Rank 1 Specialty Kit Item. Tied to Daredevil weapon 1",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/faction%20kits/daredevil_flareguns_1.png",
+  "table": []
 }

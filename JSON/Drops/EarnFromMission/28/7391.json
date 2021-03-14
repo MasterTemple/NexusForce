@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7391
+  "itemID": 7391,
+  "name": "Knight Weapon 1",
+  "displayName": "Knight Greatsword 1",
+  "description": "Rank 1 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/faction%20kits/knight_sword_1.png",
+  "table": []
 }

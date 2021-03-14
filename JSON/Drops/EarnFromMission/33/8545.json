@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8545
+  "itemID": 8545,
+  "name": "DELETE ME TEST Trophy",
+  "displayName": "Trophy",
+  "description": "Brick is too big to be carried!!!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/png/m72092.png",
+  "table": []
 }

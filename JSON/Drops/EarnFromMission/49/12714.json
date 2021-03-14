@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12714
+  "itemID": 12714,
+  "name": "Futuron Shirt",
+  "displayName": "Futuron Shirt",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/torsos/torsos_futronshirt.png",
+  "table": []
 }

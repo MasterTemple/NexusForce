@@ -1,10 +1,14 @@
 {
+  "itemID": 7784,
+  "name": "Mega Chest Armor",
+  "displayName": "Mega Chest Armor",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/back_neck/m30174_199.png",
   "table": [
     {
       "missionID": "803",
       "name": "Forbidden Valley Achiever",
       "objective": "Complete 10 more Missions or Achievements in Forbidden Valley, for a total of 50."
     }
-  ],
-  "itemID": 7784
+  ]
 }

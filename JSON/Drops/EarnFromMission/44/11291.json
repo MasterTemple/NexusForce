@@ -1,9 +1,13 @@
 {
+  "itemID": 11291,
+  "name": "White Top Hat",
+  "displayName": "White Top Hat",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m3878_01.png",
   "table": [
     {
       "missionID": "942",
       "name": "Dark Beat"
     }
-  ],
-  "itemID": 11291
+  ]
 }

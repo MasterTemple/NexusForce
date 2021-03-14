@@ -1,9 +1,13 @@
 {
+  "itemID": 16151,
+  "name": "Purified Mace",
+  "displayName": "Purified Battle Mace",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/hands/silvermace.png",
   "table": [
     {
       "missionID": "2026",
       "name": "Maelstrom Weapons Part 7"
     }
-  ],
-  "itemID": 16151
+  ]
 }

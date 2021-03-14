@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13158
+  "itemID": 13158,
+  "name": "Model Reward Skeleton Statue",
+  "displayName": "Skeleton Statue Model",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_skeleton_statue.png",
+  "table": []
 }

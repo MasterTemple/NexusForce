@@ -1,4 +1,9 @@
 {
+  "itemID": 9725,
+  "name": "Castle Model Pack 5",
+  "displayName": "Castle Model Pack 5",
+  "description": "Double-click to open this pack of models!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_gray.png",
   "table": [
     {
       "missionID": "398",
@@ -9,6 +14,5 @@
       "missionID": "891",
       "name": "Model Movers"
     }
-  ],
-  "itemID": 9725
+  ]
 }

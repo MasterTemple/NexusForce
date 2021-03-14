@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8611
+  "itemID": 8611,
+  "name": "Ruffled Bodice",
+  "displayName": "Ruffled Bodice",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/reward/m73200_bodicewithpearls.png",
+  "table": []
 }

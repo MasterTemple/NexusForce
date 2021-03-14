@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8506
+  "itemID": 8506,
+  "name": "Quality Dirk",
+  "displayName": "Quality Dirk",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m57467_131.png",
+  "table": []
 }

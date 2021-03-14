@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 9872
+  "itemID": 9872,
+  "name": "Teal Vamp Cape",
+  "displayName": "Test Cape",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/back_neck/m50231_106.png",
+  "table": []
 }

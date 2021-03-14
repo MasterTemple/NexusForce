@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4357
+  "itemID": 4357,
+  "name": "White Shirt 3",
+  "displayName": "Checkered Shirt",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_72_1.png",
+  "table": []
 }

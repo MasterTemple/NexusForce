@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13751
+  "itemID": 13751,
+  "name": "Skeleton Disguise Shirt Proxy",
+  "displayName": "Skeleton Disguise Shirt Proxy",
+  "description": "Usedin Nexus Tower Mission Chains",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/torsos/torsos_skeletondisguise.png",
+  "table": []
 }

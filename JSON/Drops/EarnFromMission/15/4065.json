@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4065
+  "itemID": 4065,
+  "name": "Bright Red Shirt 17",
+  "displayName": "Textured Polo Shirt",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_6_21.png",
+  "table": []
 }

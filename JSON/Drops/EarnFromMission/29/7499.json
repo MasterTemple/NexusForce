@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7499
+  "itemID": 7499,
+  "name": "Shinobi Legs 1",
+  "displayName": "Shinobi Leggings 1",
+  "description": "Rank 1 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/factionkits/legs_shinobi1.png",
+  "table": []
 }

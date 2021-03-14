@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11890
+  "itemID": 11890,
+  "name": "Model Reward Winter Train Engine",
+  "displayName": "Winter Train Engine Model",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_winter_trainengine.png",
+  "table": []
 }

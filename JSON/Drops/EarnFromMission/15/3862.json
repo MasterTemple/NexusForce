@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 3862
+  "itemID": 3862,
+  "name": "Skunk Shirt 1",
+  "displayName": "Double Striped Skunk Shirt",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_61_26.png",
+  "table": []
 }

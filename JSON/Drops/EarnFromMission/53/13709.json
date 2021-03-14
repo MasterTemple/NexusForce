@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13709
+  "itemID": 13709,
+  "name": "Model Reward Zoo Aviary Floor Corner 2 ",
+  "displayName": "Zoo Aviary Floor Corner Model 2",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_zoo_aviary_floor_corner_02.png",
+  "table": []
 }

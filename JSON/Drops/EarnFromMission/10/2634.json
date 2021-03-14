@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 2634
+  "itemID": 2634,
+  "name": "Binoculars",
+  "displayName": "Binoculars",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m30162_199.png",
+  "table": []
 }

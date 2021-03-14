@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 16066
+  "itemID": 16066,
+  "name": "Faded Gi",
+  "displayName": "Faded Gi",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/torsos/minifig_greyninjagi.png",
+  "table": []
 }

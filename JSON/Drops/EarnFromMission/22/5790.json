@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 5790
+  "itemID": 5790,
+  "name": "Medium Blue Shirt 35",
+  "displayName": "Butterfly Shirt",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_35_102.png",
+  "table": []
 }

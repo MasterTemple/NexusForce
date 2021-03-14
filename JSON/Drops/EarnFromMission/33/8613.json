@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8613
+  "itemID": 8613,
+  "name": "Cattle Rustler Shirt",
+  "displayName": "Cattle Rustler Shirt",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/reward/m73200_cattlerustler.png",
+  "table": []
 }

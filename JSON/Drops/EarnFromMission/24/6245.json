@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 6245
+  "itemID": 6245,
+  "name": "Test Skateboard",
+  "displayName": null,
+  "description": "Test Skateboard mount",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_46_154.png",
+  "table": []
 }

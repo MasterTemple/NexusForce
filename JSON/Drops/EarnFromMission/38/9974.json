@@ -1,10 +1,14 @@
 {
+  "itemID": 9974,
+  "name": "Rank 2 Samurai Book",
+  "displayName": "",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/misc/book_sentinel.png",
   "table": [
     {
       "missionID": "1466",
       "name": "The Samurai's Gear 1",
       "objective": "Equip all 4 pieces of the Rank 1 Samurai gear."
     }
-  ],
-  "itemID": 9974
+  ]
 }

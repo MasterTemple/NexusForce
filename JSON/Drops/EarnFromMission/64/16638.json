@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 16638
+  "itemID": 16638,
+  "name": "Lightning Spinjitzu Pants Jay's DX Pants of Storms",
+  "displayName": "Jay's DX Pants of Storms",
+  "description": "Wear this to look like Jay DX!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/legs/legs_dxlightning.png",
+  "table": []
 }

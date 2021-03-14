@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10048
+  "itemID": 10048,
+  "name": "Behavior - Drop Power-Ups",
+  "displayName": "Drop Power-Ups Behavior",
+  "description": "When attacked, drop power-ups",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/model_icon.png",
+  "table": []
 }

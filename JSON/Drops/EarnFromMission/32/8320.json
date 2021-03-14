@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8320
+  "itemID": 8320,
+  "name": "Paradox Token",
+  "displayName": "Paradox Token",
+  "description": "Spend this at a Paradox vendor!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/misc/faction_coin_paradox.png",
+  "table": []
 }

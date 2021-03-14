@@ -1,10 +1,14 @@
 {
+  "itemID": 6934,
+  "name": "Net of Bees",
+  "displayName": "Net of Bees",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m4433_24.png",
   "table": [
     {
       "missionID": "405",
       "name": "Battle Booster",
       "objective": "Build the Survival Buff Station 100 times."
     }
-  ],
-  "itemID": 6934
+  ]
 }

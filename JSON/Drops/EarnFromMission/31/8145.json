@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8145
+  "itemID": 8145,
+  "name": "Test Samurai KIT Skirt",
+  "displayName": null,
+  "description": "Test Samurai KIT Skirt",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m3833_24.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 16063
+  "itemID": 16063,
+  "name": "Jay's First Gi",
+  "displayName": "Jay's First Gi",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/torsos/minifig_blueninjagi.png",
+  "table": []
 }

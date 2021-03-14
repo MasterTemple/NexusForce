@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 16580
+  "itemID": 16580,
+  "name": "Model Reward Skeleton Outpost Tall Wall",
+  "displayName": "Skeleton Outpost Tall Wall Model",
+  "description": "A model for your Property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/models/rew_skeletonoutpost_wall_tall.png",
+  "table": []
 }

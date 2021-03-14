@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7339
+  "itemID": 7339,
+  "name": "Test Katana of Bees",
+  "displayName": null,
+  "description": "Testing the SJ tornado skill",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m30173-194.png",
+  "table": []
 }

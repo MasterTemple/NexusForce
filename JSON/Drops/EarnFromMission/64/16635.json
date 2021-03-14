@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 16635
+  "itemID": 16635,
+  "name": "Ice Spinjitzu Gi Zane's DX Gi of Frost",
+  "displayName": "Zane's DX Gi of Frost",
+  "description": "Wear this to look like Zane DX!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/torsos/torsos_dxice.png",
+  "table": []
 }

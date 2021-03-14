@@ -1,10 +1,14 @@
 {
+  "itemID": 12597,
+  "name": "Impact Wrench",
+  "displayName": "Impact Wrench",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m55297_26.png",
   "table": [
     {
       "missionID": "1244",
       "name": "Whack Bliddo Timesmash 2",
       "objective": "Defeat Whack Bliddo in the Battle of Nimbus Station in less than 12:00."
     }
-  ],
-  "itemID": 12597
+  ]
 }

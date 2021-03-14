@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8040
+  "itemID": 8040,
+  "name": "Dark Grey Racing Helmet",
+  "displayName": "Dark Grey Racing Helmet",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m30124_199.png",
+  "table": []
 }

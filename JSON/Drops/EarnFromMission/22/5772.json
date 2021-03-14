@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 5772
+  "itemID": 5772,
+  "name": "Medium Stone Grey Shirt 35",
+  "displayName": "Butterfly Shirt",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_35_194.png",
+  "table": []
 }

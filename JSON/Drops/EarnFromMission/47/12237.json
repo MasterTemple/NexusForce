@@ -1,4 +1,9 @@
 {
+  "itemID": 12237,
+  "name": "Candy Cane",
+  "displayName": "Candy Cane",
+  "description": "Spend this at a Winter vendor!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/misc/candy_cane.png",
   "table": [
     {
       "missionID": "1146",
@@ -20,6 +25,5 @@
       "name": "Against the Posts",
       "objective": "Smash 5 lamp posts in Frostburgh."
     }
-  ],
-  "itemID": 12237
+  ]
 }

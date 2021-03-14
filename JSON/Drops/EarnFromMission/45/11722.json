@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11722
+  "itemID": 11722,
+  "name": "Model Reward Mechbay Ball Bot Base Elevator",
+  "displayName": "Mech Bay Ball-Bot Base Elevator Model",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_mechbay_ballbotbaseelevator.png",
+  "table": []
 }

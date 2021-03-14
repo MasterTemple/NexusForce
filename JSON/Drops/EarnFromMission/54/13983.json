@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13983
+  "itemID": 13983,
+  "name": "Test Rank 2 Shield",
+  "displayName": "Test Rank 2 Shield",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/scutumshield_cruxplanet.png",
+  "table": []
 }

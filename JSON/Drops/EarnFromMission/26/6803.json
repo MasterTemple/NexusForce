@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 6803
+  "itemID": 6803,
+  "name": "Blue Baseball Cap",
+  "displayName": "Blue Baseball Cap",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m4485_23.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 6905
+  "itemID": 6905,
+  "name": "Test Bow Regular",
+  "displayName": null,
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/png/m2420.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 5645
+  "itemID": 5645,
+  "name": "NPC Flagwaver Flag",
+  "displayName": null,
+  "description": "Flag waved by obstacle course flag waver",
+  "iconURL": "https://github.com/MasterTemple/lu_bot/blob/master/src/unknown.png?raw=true",
+  "table": []
 }

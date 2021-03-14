@@ -1,10 +1,14 @@
 {
+  "itemID": 8627,
+  "name": "Fancy Captain Shirt",
+  "displayName": "Fancy Captain Shirt",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/reward/m73200_captain_fancy.png",
   "table": [
     {
       "missionID": "340",
       "name": "Hearty Score 4",
       "objective": "Score 500,000 points in one game in Cannon Cove Shooting Gallery."
     }
-  ],
-  "itemID": 8627
+  ]
 }

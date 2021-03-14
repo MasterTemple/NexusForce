@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12926
+  "itemID": 12926,
+  "name": "Savage Club Proxy",
+  "displayName": "Savage Club Proxy",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/",
+  "table": []
 }

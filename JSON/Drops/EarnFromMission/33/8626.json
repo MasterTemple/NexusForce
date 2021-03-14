@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8626
+  "itemID": 8626,
+  "name": "Pirate Princess Dress",
+  "displayName": "Pirate Princess Dress",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/reward/m73200_princess_03.png",
+  "table": []
 }

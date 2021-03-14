@@ -1,10 +1,14 @@
 {
+  "itemID": 12780,
+  "name": "Walk Like an Egyptian Headdress",
+  "displayName": "Egyptian Headdress",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m30168_297.png",
   "table": [
     {
       "missionID": "1140",
       "name": "Spinjitzu Initiate",
       "objective": "Use Imagination Spinjitzu to destroy 100 more enemies on Crux Prime."
     }
-  ],
-  "itemID": 12780
+  ]
 }

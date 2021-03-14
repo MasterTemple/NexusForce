@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13074
+  "itemID": 13074,
+  "name": "Nuckal's Maelstrom Bone",
+  "displayName": "Nuckal's Maelstrom Crystal",
+  "description": "Return this to Neido on Crux Prime!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/misc/maelstrom_crystal.png",
+  "table": []
 }

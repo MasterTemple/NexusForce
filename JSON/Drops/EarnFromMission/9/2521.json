@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 2521
+  "itemID": 2521,
+  "name": "Dark Stone Grey Pants",
+  "displayName": "Dark Stone Grey Pants",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/legs/m73200_199.png",
+  "table": []
 }

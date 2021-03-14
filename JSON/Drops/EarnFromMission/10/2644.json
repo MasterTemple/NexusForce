@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 2644
+  "itemID": 2644,
+  "name": "Worthy Corseque",
+  "displayName": "Worthy Corseque",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m43899_199.png",
+  "table": []
 }

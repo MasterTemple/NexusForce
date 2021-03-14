@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11460
+  "itemID": 11460,
+  "name": "Inventor Offhand 2 - Proxy",
+  "displayName": "Inventor Offhand 2 - Proxy",
+  "description": "Rank 2 Specialty Kit Item. Tied to Inventor Weapon 2",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/factionkits/inventor2_beejar.png",
+  "table": []
 }

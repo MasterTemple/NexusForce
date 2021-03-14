@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8426
+  "itemID": 8426,
+  "name": "Tan Cowboy Hat",
+  "displayName": "Tan Cowboy Hat",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m3629_05.png",
+  "table": []
 }

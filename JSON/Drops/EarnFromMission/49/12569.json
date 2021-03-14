@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12569
+  "itemID": 12569,
+  "name": "Stink Bomb Throw",
+  "displayName": "Stink Bomb",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/misc/stinkbomb.png",
+  "table": []
 }

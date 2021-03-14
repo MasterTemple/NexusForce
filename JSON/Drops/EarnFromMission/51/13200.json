@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13200
+  "itemID": 13200,
+  "name": "Model Reward Carrot Model",
+  "displayName": "Carrot Model",
+  "description": "This model contains behaviors!",
+  "iconURL": "https://github.com/MasterTemple/lu_bot/blob/master/src/unknown.png?raw=true",
+  "table": []
 }

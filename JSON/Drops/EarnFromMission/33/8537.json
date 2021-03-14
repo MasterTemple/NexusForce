@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8537
+  "itemID": 8537,
+  "name": "Tech Armor",
+  "displayName": "Tech Armor",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/back_neck/m62408_131.png",
+  "table": []
 }

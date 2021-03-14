@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8469
+  "itemID": 8469,
+  "name": "Elite Ice Saw",
+  "displayName": "Elite Ice Saw",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m6117_131.png",
+  "table": []
 }

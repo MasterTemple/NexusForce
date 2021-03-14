@@ -1,9 +1,13 @@
 {
+  "itemID": 4880,
+  "name": "Basic Shortsword",
+  "displayName": "Basic Shortsword",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m3847_131.png",
   "table": [
     {
       "missionID": "311",
       "name": "Get Help!"
     }
-  ],
-  "itemID": 4880
+  ]
 }

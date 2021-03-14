@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4592
+  "itemID": 4592,
+  "name": "Sand Blue Shirt 34",
+  "displayName": "Red Flower Shirt",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_38_135.png",
+  "table": []
 }

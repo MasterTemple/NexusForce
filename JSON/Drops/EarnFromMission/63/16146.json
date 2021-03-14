@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 16146
+  "itemID": 16146,
+  "name": "Maelstrom Double-Axe",
+  "displayName": "Maelstrom Double-Axe",
+  "description": "The Skeletons forged this from pure Maelstrom!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/hands/doublemaelstromboneaxe.png",
+  "table": []
 }

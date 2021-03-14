@@ -1,9 +1,13 @@
 {
+  "itemID": 16269,
+  "name": "Lightning Spinjitzu Pants Pants of Storms",
+  "displayName": "Pants of Storms",
+  "description": "Wear this to look like a Ninja of Lightning and rocket directly to the Ninjago Caves!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/legs/legs_lightningbasekit.png",
   "table": [
     {
       "missionID": "1948",
       "name": "The Power of Lightning"
     }
-  ],
-  "itemID": 16269
+  ]
 }

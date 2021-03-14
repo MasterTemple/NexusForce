@@ -1,9 +1,13 @@
 {
+  "itemID": 2641,
+  "name": "White Ninja Hood - Maelstrom Infused",
+  "displayName": "Maelstrom-Infused White Ninja Hood",
+  "description": "Pass Paradox Force Fields, Rocket to the Great Tree",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m30177_1.png",
   "table": [
     {
       "missionID": "689",
       "name": "Talk to Numb Chuck"
     }
-  ],
-  "itemID": 2641
+  ]
 }

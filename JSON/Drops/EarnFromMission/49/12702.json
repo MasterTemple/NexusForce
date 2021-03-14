@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12702
+  "itemID": 12702,
+  "name": "Wedding Dress",
+  "displayName": "Wedding Dress",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/torsos/torsos_weddingdress.png",
+  "table": []
 }

@@ -1,10 +1,14 @@
 {
+  "itemID": 13427,
+  "name": "Model Reward Samurai Statue",
+  "displayName": "Samurai Statue Model",
+  "description": "A model for your Property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/march2011content/ui/inventory/misc/rew_samuraistatue.png",
   "table": [
     {
       "missionID": "693",
       "name": "A Collector's Dream",
       "objective": "Complete 1000 collection Quick Builds."
     }
-  ],
-  "itemID": 13427
+  ]
 }

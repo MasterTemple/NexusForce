@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8450
+  "itemID": 8450,
+  "name": "Elite Pickaxe",
+  "displayName": "Elite Pickaxe",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m3841_199.png",
+  "table": []
 }

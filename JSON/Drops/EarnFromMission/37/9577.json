@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 9577
+  "itemID": 9577,
+  "name": "Model Reward Pod Model 1",
+  "displayName": "Pod 1 Model",
+  "description": "A model for your Property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_pod1.png",
+  "table": []
 }

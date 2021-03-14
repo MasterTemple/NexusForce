@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10816
+  "itemID": 10816,
+  "name": "LUP Model Reward DeckChair",
+  "displayName": "Deck Chair Model",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/lup_dh_deckchair.png",
+  "table": []
 }

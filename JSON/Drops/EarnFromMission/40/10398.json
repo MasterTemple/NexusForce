@@ -1,9 +1,13 @@
 {
+  "itemID": 10398,
+  "name": "House Model Pack 3",
+  "displayName": "House Model Pack 3",
+  "description": "Double-click to open this pack of models!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_green.png",
   "table": [
     {
       "missionID": "633",
       "name": "Infested!"
     }
-  ],
-  "itemID": 10398
+  ]
 }

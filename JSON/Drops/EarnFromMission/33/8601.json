@@ -1,10 +1,14 @@
 {
+  "itemID": 8601,
+  "name": "Lounge Lizard Shirt",
+  "displayName": "Lounge Lizard Shirt",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/reward/m73200_loungelizard.png",
   "table": [
     {
       "missionID": "282",
       "name": "Making More Friends",
       "objective": "Talk to the picnicking Robot, Cowboy, and Astronaut at the Avant Gardens Launch Area."
     }
-  ],
-  "itemID": 8601
+  ]
 }

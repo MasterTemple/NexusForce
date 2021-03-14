@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8036
+  "itemID": 8036,
+  "name": "Warlord Helm",
+  "displayName": "Warlord Helm",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m60751_192.png",
+  "table": []
 }

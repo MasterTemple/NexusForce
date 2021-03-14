@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8448
+  "itemID": 8448,
+  "name": "Super Hatchet",
+  "displayName": "Super Hatchet",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m3835_26.png",
+  "table": []
 }

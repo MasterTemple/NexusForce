@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7745
+  "itemID": 7745,
+  "name": "Baker Shirt",
+  "displayName": "Chef Jacket",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_111_1.png",
+  "table": []
 }

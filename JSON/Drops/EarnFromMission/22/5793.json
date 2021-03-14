@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 5793
+  "itemID": 5793,
+  "name": "Medium Blue Shirt 38",
+  "displayName": "Minifigure Shirt",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_45_102.png",
+  "table": []
 }

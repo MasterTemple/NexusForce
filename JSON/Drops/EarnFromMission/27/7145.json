@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7145
+  "itemID": 7145,
+  "name": "Test for Media team 2",
+  "displayName": null,
+  "description": "Test Model 2",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/media2.png",
+  "table": []
 }

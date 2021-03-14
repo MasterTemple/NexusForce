@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 2243
+  "itemID": 2243,
+  "name": "GM Only - Hammer of Doom",
+  "displayName": null,
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/uber_hammer.png",
+  "table": []
 }

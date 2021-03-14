@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 2855
+  "itemID": 2855,
+  "name": "Test Contest Board",
+  "displayName": null,
+  "description": null,
+  "iconURL": "https://github.com/MasterTemple/lu_bot/blob/master/src/unknown.png?raw=true",
+  "table": []
 }

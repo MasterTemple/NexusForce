@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 2627
+  "itemID": 2627,
+  "name": "Black Knit Cap",
+  "displayName": "Black Knit Cap",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m41334_26.png",
+  "table": []
 }

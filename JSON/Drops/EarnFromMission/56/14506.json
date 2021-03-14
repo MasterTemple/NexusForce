@@ -1,9 +1,13 @@
 {
+  "itemID": 14506,
+  "name": "Chilly Freezesteak",
+  "displayName": "Chilly Freezesteak",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/consumables/freezesteak.png",
   "table": [
     {
       "missionID": "1868",
       "name": "Jeet Yet?"
     }
-  ],
-  "itemID": 14506
+  ]
 }

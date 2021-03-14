@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7360
+  "itemID": 7360,
+  "name": "Knight Head 3",
+  "displayName": "Knight Helm 3",
+  "description": "Rank 3 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/faction%20kits/knight_helm_3.png",
+  "table": []
 }

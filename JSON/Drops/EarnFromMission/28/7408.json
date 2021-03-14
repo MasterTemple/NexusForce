@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7408
+  "itemID": 7408,
+  "name": "Sorcerer Offhand 3",
+  "displayName": "Sorcerer Orb 3",
+  "description": "Rank 3 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/faction%20kits/sorcerer_orb_3.png",
+  "table": []
 }

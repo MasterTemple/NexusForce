@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12758
+  "itemID": 12758,
+  "name": "Bone Suit Shirt",
+  "displayName": "Bone Suit Shirt",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/torsos/torsos_skeletonsuit.png",
+  "table": []
 }

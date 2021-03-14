@@ -1,9 +1,13 @@
 {
+  "itemID": 14801,
+  "name": "Purified Double Bone Dagger",
+  "displayName": "Purified Bone Dagger",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/hands/toothdagger.png",
   "table": [
     {
       "missionID": "2025",
       "name": "Maelstrom Weapons Part 2"
     }
-  ],
-  "itemID": 14801
+  ]
 }

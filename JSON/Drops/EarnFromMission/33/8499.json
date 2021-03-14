@@ -1,10 +1,14 @@
 {
+  "itemID": 8499,
+  "name": "Quality Shortsword",
+  "displayName": "Quality Shortsword",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m3847_199.png",
   "table": [
     {
       "missionID": "293",
       "name": "Paradox Protector 1",
       "objective": "Smash 25 Stromlings, 25 Stromling Mechs, and 25 Dark Spiderlings."
     }
-  ],
-  "itemID": 8499
+  ]
 }

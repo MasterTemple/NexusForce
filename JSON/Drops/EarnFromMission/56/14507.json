@@ -1,9 +1,13 @@
 {
+  "itemID": 14507,
+  "name": "Bento Blocks",
+  "displayName": "Bento Blocks",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/consumables/bento_blocks.png",
   "table": [
     {
       "missionID": "1871",
       "name": "Munchy Crunchy"
     }
-  ],
-  "itemID": 14507
+  ]
 }

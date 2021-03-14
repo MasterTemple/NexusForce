@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8528
+  "itemID": 8528,
+  "name": "Kite Shield 1",
+  "displayName": "Troll Shield",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m2586_skull.png",
+  "table": []
 }

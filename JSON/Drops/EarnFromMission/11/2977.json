@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 2977
+  "itemID": 2977,
+  "name": "NPC Yellow Mug",
+  "displayName": null,
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m3899.png",
+  "table": []
 }

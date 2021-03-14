@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8035
+  "itemID": 8035,
+  "name": "Nemesis Helm",
+  "displayName": "Nemesis Helm",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m48493_131.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 9640
+  "itemID": 9640,
+  "name": "Broken Pirate Nose Cone",
+  "displayName": "Broken Pirate Rocket Nose Cone",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rocket_pirate_nose_broken.png",
+  "table": []
 }

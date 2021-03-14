@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7505
+  "itemID": 7505,
+  "name": "Summoner Legs 1",
+  "displayName": "Summoner Pants 1",
+  "description": "Rank 1 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/legs/faction/summoner_01.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7749
+  "itemID": 7749,
+  "name": "Wizard shirt",
+  "displayName": "Wizard Tunic",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_108_102.png",
+  "table": []
 }

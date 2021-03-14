@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13293
+  "itemID": 13293,
+  "name": "TEST Adventurer Offhand Level 2",
+  "displayName": null,
+  "description": "Rank 2 Specialty Kit Item",
+  "iconURL": "https://github.com/MasterTemple/lu_bot/blob/master/src/unknown.png?raw=true",
+  "table": []
 }

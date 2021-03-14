@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10172
+  "itemID": 10172,
+  "name": "Pod 5 Captain Shirt",
+  "displayName": "Pod 5 Captain Shirt",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/pilot/captain_05.png",
+  "table": []
 }

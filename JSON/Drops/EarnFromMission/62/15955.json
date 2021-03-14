@@ -1,10 +1,14 @@
 {
+  "itemID": 15955,
+  "name": "Thought Blade",
+  "displayName": "Thought Blade",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/helms/purple_ninja_hood_katana.png",
   "table": [
     {
       "missionID": "2020",
       "name": "Tastes Like Genius!",
       "objective": "Craft 125 more of any of Johnny Umami's special recipes."
     }
-  ],
-  "itemID": 15955
+  ]
 }

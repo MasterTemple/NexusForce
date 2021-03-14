@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 16523
+  "itemID": 16523,
+  "name": "Model Reward Monastery Flag Banner",
+  "displayName": "Monastery Flag Banner Model",
+  "description": "A model for your Property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/models/rew_ninjagomonastery_flag_double.png",
+  "table": []
 }

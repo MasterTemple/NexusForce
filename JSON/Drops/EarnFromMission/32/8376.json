@@ -1,4 +1,9 @@
 {
+  "itemID": 8376,
+  "name": "Tough Buff Sauce",
+  "displayName": "Tough Buff Sauce",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/toughbuff_sauce.png",
   "table": [
     {
       "missionID": "769",
@@ -8,6 +13,5 @@
       "missionID": "1186",
       "name": "The Bone Collector"
     }
-  ],
-  "itemID": 8376
+  ]
 }

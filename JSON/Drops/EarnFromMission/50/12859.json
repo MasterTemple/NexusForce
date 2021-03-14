@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12859
+  "itemID": 12859,
+  "name": "Test - Do Not Delete - Type 1 - Right Elbow",
+  "displayName": "",
+  "description": "Modular Creature Type 1 Right Elbow",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/custom_flower_hat.png",
+  "table": []
 }

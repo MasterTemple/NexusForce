@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8489
+  "itemID": 8489,
+  "name": "Worthy Ice Saw",
+  "displayName": "Worthy Ice Saw",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m6117_194.png",
+  "table": []
 }

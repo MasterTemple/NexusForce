@@ -1,10 +1,14 @@
 {
+  "itemID": 12696,
+  "name": "Poncho",
+  "displayName": "Poncho",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/torsos/torsos_ponchoshirt.png",
   "table": [
     {
       "missionID": "1137",
       "name": "Crux Prime Pathfinder",
       "objective": "Quick Build 25 Venture League Bouncers on Crux Prime."
     }
-  ],
-  "itemID": 12696
+  ]
 }

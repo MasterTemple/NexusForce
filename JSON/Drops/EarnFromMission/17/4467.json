@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4467
+  "itemID": 4467,
+  "name": "Earth Blue Shirt 11",
+  "displayName": "Rumpled Jacket",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_77_140.png",
+  "table": []
 }

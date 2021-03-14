@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 15974
+  "itemID": 15974,
+  "name": "Turtle Pack",
+  "displayName": "Turtle Pack",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/shoulders/tortoise_pack.png",
+  "table": []
 }

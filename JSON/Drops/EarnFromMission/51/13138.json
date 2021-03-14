@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13138
+  "itemID": 13138,
+  "name": "Medium Red Imaginite Bag - Paradox",
+  "displayName": "Medium Bag of Red Imaginite",
+  "description": "Contains 10 Red Imaginite",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/bag_black_red.png",
+  "table": []
 }

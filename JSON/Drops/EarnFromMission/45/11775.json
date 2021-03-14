@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11775
+  "itemID": 11775,
+  "name": "Model Reward Micro City Van 2",
+  "displayName": "Micro City Van 2 Model",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_microscalecity_vehicle_van02.png",
+  "table": []
 }

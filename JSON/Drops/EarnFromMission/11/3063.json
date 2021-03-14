@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 3063
+  "itemID": 3063,
+  "name": "NPC Short Staff",
+  "displayName": null,
+  "description": "bad offset",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/png/m30374.png",
+  "table": []
 }

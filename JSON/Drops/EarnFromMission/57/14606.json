@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 14606
+  "itemID": 14606,
+  "name": "Master Fire Spinjitzu Left Hand Proxy",
+  "displayName": null,
+  "description": "NJ Master Fire Kit",
+  "iconURL": "https://github.com/MasterTemple/lu_bot/blob/master/src/unknown.png?raw=true",
+  "table": []
 }

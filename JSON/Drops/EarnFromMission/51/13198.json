@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13198
+  "itemID": 13198,
+  "name": "Model Reward Burger Model",
+  "displayName": "Burger Model",
+  "description": "This model contains behaviors!",
+  "iconURL": "https://github.com/MasterTemple/lu_bot/blob/master/src/unknown.png?raw=true",
+  "table": []
 }

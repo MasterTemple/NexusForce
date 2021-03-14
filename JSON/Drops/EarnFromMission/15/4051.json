@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4051
+  "itemID": 4051,
+  "name": "Bright Red Shirt 3",
+  "displayName": "Checkered Shirt",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_72_21.png",
+  "table": []
 }

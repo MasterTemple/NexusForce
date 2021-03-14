@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8366
+  "itemID": 8366,
+  "name": "Cloud Burst",
+  "displayName": "Cloud Burst",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/skills/skills_lightning_strike.png",
+  "table": []
 }

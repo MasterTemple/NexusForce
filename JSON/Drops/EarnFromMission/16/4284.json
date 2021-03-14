@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4284
+  "itemID": 4284,
+  "name": "Dark Stone Grey Shirt 32",
+  "displayName": "Starry Tank Top",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_40_199.png",
+  "table": []
 }

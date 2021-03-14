@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 3849
+  "itemID": 3849,
+  "name": "NPC Hazmat Backpack",
+  "displayName": null,
+  "description": null,
+  "iconURL": "https://github.com/MasterTemple/lu_bot/blob/master/src/unknown.png?raw=true",
+  "table": []
 }

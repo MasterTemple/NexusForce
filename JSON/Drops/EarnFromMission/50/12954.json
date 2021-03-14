@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12954
+  "itemID": 12954,
+  "name": "Buccaneer Chest 3 Color Variant",
+  "displayName": "Buccaneer Shirt 3",
+  "description": "Rank 3 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/faction%20kits/torsos_fackit_buccaneer3_var.png",
+  "table": []
 }

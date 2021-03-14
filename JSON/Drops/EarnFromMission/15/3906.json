@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 3906
+  "itemID": 3906,
+  "name": "Test Skunk Wrench",
+  "displayName": null,
+  "description": "Used in script for skunk to attach to head.  YR-SG",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m4006_26.png",
+  "table": []
 }

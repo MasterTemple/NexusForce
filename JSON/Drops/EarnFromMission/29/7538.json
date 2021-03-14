@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7538
+  "itemID": 7538,
+  "name": "Space Ranger Neck/Back 3",
+  "displayName": "Space Ranger Pack 3",
+  "description": "Rank 3 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/factionkits/spaceranger3_chest.png",
+  "table": []
 }

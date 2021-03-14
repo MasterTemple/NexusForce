@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11544
+  "itemID": 11544,
+  "name": "Model Reward Airport Cart 1",
+  "displayName": "Airport Cart Model 1",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_airport_cart1.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 5821
+  "itemID": 5821,
+  "name": "Sand Blue Shirt 36",
+  "displayName": "Mission Giver Shirt",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_46_135.png",
+  "table": []
 }

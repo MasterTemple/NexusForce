@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 16608
+  "itemID": 16608,
+  "name": "Lightning Spinjitzu Hood Jay's Hood of Storms",
+  "displayName": "Jay's Hood of Storms",
+  "description": "Wear this to look like Jay!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m30177_23.png",
+  "table": []
 }

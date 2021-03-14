@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8600
+  "itemID": 8600,
+  "name": "Old Skool Shirt",
+  "displayName": "Old Skool Shirt",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/reward/m73200_oldskool.png",
+  "table": []
 }

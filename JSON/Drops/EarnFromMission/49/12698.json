@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12698
+  "itemID": 12698,
+  "name": "Scale Mail Shirt",
+  "displayName": "Scale Mail Shirt",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/torsos/torsos_scalemailshirt.png",
+  "table": []
 }

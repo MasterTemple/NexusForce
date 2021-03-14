@@ -1,10 +1,14 @@
 {
+  "itemID": 10123,
+  "name": "Soccer Shirt 2",
+  "displayName": "Green Soccer Shirt",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/reward/m73200_footballer_green.png",
   "table": [
     {
       "missionID": "877",
       "name": "Nimbus Station Achiever 2",
       "objective": "Complete 10 more Missions or Achievements in Nimbus Station, for a total of 20."
     }
-  ],
-  "itemID": 10123
+  ]
 }

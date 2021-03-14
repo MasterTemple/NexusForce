@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7527
+  "itemID": 7527,
+  "name": "Inventor Weapon 2",
+  "displayName": "Inventor Improved Launcher 2",
+  "description": "Rank 2 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/factionkits/inventor2_gun.png",
+  "table": []
 }

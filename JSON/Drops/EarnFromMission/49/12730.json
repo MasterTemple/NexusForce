@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12730
+  "itemID": 12730,
+  "name": "Fantastic Pilum",
+  "displayName": "Fantastic Pilum",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/hands/props_pilum.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8676
+  "itemID": 8676,
+  "name": "Cadet Helm",
+  "displayName": "Cadet Helm",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m30325_199.png",
+  "table": []
 }

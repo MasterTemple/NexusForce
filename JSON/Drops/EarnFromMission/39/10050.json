@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10050
+  "itemID": 10050,
+  "name": "Behavior - Elevator",
+  "displayName": "Elevator Behavior",
+  "description": "Floats up and down",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/model_icon.png",
+  "table": []
 }

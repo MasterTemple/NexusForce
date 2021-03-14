@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10056
+  "itemID": 10056,
+  "name": "Behavior - Move Forward and Back",
+  "displayName": "Move Forward and Back Behavior",
+  "description": "Move Forward and Back",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/model_icon.png",
+  "table": []
 }

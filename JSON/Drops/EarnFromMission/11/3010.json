@@ -1,10 +1,14 @@
 {
+  "itemID": 3010,
+  "name": "LEGO Universe Shirt",
+  "displayName": "LEGO Universe Shirt",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/m73200_lego_universe.png",
   "table": [
     {
       "missionID": "261",
       "name": "Avant Gardens Achiever 3",
       "objective": "Complete 10 more Missions or Achievements in Avant Gardens, for a total of 30."
     }
-  ],
-  "itemID": 3010
+  ]
 }

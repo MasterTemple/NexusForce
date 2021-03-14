@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12779
+  "itemID": 12779,
+  "name": "Cowboy Hat of Line Dancing",
+  "displayName": "Dancin' Hat",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m3629_01.png",
+  "table": []
 }

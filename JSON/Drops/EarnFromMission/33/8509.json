@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8509
+  "itemID": 8509,
+  "name": "Improved Trident",
+  "displayName": "Improved Trident",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m87753_131.png",
+  "table": []
 }

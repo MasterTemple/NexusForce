@@ -1,10 +1,14 @@
 {
+  "itemID": 11929,
+  "name": "Rank 2 Inventor Book",
+  "displayName": null,
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/misc/book_assembly.png",
   "table": [
     {
       "missionID": "1478",
       "name": "The Inventor's Gear 1",
       "objective": "Equip all 4 pieces of the Rank 1 Inventor gear."
     }
-  ],
-  "itemID": 11929
+  ]
 }

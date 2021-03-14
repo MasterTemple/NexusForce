@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10038
+  "itemID": 10038,
+  "name": "Cup of Yo",
+  "displayName": "Cup of Yo",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m3899.png",
+  "table": []
 }

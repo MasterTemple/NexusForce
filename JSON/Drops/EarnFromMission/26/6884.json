@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 6884
+  "itemID": 6884,
+  "name": "Flash Bang",
+  "displayName": "Flash Bang",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/m3062_199.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11699
+  "itemID": 11699,
+  "name": "Model Reward Farm Chickencoop",
+  "displayName": "Farm Chicken Coop Model",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_farm_chickencoop.png",
+  "table": []
 }

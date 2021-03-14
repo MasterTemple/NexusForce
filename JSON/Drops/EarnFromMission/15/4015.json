@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4015
+  "itemID": 4015,
+  "name": "Test Contest Parachute",
+  "displayName": null,
+  "description": "Lupowski",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/tgas/tgas/minifig_accessory_jetpack.tga",
+  "table": []
 }

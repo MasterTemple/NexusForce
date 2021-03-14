@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7434
+  "itemID": 7434,
+  "name": "unused Story Tablet 2",
+  "displayName": "Story Tablet 2",
+  "description": "Mission Item - Unused",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/png/m3068.png",
+  "table": []
 }

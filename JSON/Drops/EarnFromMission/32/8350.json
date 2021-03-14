@@ -1,10 +1,14 @@
 {
+  "itemID": 8350,
+  "name": "Kung Fu Master Shirt",
+  "displayName": "Kung Fu Master Shirt",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/reward/m73200_kung_fu.png",
   "table": [
     {
       "missionID": "798",
       "name": "Ninja Warlord",
       "objective": "Smash 300 more Maelstrom Dragons."
     }
-  ],
-  "itemID": 8350
+  ]
 }

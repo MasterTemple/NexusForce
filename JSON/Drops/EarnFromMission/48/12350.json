@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12350
+  "itemID": 12350,
+  "name": "Model Reward Winter Bakery 2",
+  "displayName": "Winter Bakery Model 2",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_winterbakery2.png",
+  "table": []
 }

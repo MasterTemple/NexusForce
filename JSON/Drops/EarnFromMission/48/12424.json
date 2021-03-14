@@ -1,4 +1,9 @@
 {
+  "itemID": 12424,
+  "name": "Faction Token Bag - 15 tokens",
+  "displayName": "Very Large Bag of Faction Tokens",
+  "description": "Double-click to get 15 Faction Tokens!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/faction_bag_sm.png",
   "table": [
     {
       "missionID": "668",
@@ -75,6 +80,5 @@
       "name": "Fifty-Time Champion",
       "objective": "Win any 50 races. Minimum of 3 players per race."
     }
-  ],
-  "itemID": 12424
+  ]
 }

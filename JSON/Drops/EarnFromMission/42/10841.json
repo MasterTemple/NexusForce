@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10841
+  "itemID": 10841,
+  "name": "LUP Model Reward SunDial",
+  "displayName": "Sun Dial Model",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/lup_dk_sundial.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13312
+  "itemID": 13312,
+  "name": "NPC Doc Overbuild Armor",
+  "displayName": "NPC Doc Overbuild Armor",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/png/m2587.png",
+  "table": []
 }

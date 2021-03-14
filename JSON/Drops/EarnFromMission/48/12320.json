@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12320
+  "itemID": 12320,
+  "name": "Pilot's Property Warp",
+  "displayName": "Sherland Powers' Property Warp",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/misc/candy_cane.png",
+  "table": []
 }

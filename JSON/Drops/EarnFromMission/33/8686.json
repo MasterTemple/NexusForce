@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8686
+  "itemID": 8686,
+  "name": "Dragon Tooth",
+  "displayName": "Dragon's Tooth",
+  "description": "Return this to Numb Chuck!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/dragon_tooth.png",
+  "table": []
 }

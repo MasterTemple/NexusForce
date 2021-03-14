@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8374
+  "itemID": 8374,
+  "name": "Test Summon Scroll",
+  "displayName": null,
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/grenade.png",
+  "table": []
 }

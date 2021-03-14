@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8452
+  "itemID": 8452,
+  "name": "Super Shortsword",
+  "displayName": "Super Shortsword",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m3847_26.png",
+  "table": []
 }

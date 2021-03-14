@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8182
+  "itemID": 8182,
+  "name": "Test Nexus Force Faction Token",
+  "displayName": null,
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/missioncomics/genericicons/faction_nexusforce.png",
+  "table": []
 }

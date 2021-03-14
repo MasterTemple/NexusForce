@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8546
+  "itemID": 8546,
+  "name": "Space Headgear",
+  "displayName": "Space Headgear",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m87781_199.png",
+  "table": []
 }

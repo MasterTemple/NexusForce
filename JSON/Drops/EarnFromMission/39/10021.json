@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10021
+  "itemID": 10021,
+  "name": "Anti-Stink Potion",
+  "displayName": "Un-Stink Potion",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/antistink_potion.png",
+  "table": []
 }

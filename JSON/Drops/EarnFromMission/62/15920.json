@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 15920
+  "itemID": 15920,
+  "name": "Scholar's Travel Hat",
+  "displayName": "Scholar's Travel Hat",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/helms/rice_hat.png",
+  "table": []
 }

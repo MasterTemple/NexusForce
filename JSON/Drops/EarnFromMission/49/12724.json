@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12724
+  "itemID": 12724,
+  "name": "Super Morning Star",
+  "displayName": "Super Morning Star",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m59232_199.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12091
+  "itemID": 12091,
+  "name": "NPC Old Man Winter Hair",
+  "displayName": "",
+  "description": "NPC Old Man Winter Hair",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/custom_flower_hat.png",
+  "table": []
 }

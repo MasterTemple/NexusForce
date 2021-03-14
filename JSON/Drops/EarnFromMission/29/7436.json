@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7436
+  "itemID": 7436,
+  "name": "Hammer Piece 1",
+  "displayName": "Hammer Brick 1",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/misc/hammer_brick_01.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8664
+  "itemID": 8664,
+  "name": "Jodhpurs",
+  "displayName": "Jodhpurs",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/legs/m73200_283.png",
+  "table": []
 }

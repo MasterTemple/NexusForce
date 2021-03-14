@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7454
+  "itemID": 7454,
+  "name": "Inventor Head 1",
+  "displayName": "Inventor Goggles 1",
+  "description": "Rank 1 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/factionkits/inventor1_helmet.png",
+  "table": []
 }

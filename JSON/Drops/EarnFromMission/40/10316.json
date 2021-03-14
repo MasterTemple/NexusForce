@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10316
+  "itemID": 10316,
+  "name": "DVD Order Model Pack",
+  "displayName": "Surprise Model Pack",
+  "description": "Double-click to open this pack of models!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_gray.png",
+  "table": []
 }

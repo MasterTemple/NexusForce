@@ -1,4 +1,9 @@
 {
+  "itemID": 10012,
+  "name": "Faction Token Bag - 2 tokens",
+  "displayName": "Small Bag of Faction Tokens",
+  "description": "Double-click to get 2 Faction Tokens!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/faction_bag_xxsm.png",
   "table": [
     {
       "missionID": "1001",
@@ -16,6 +21,5 @@
       "missionID": "1291",
       "name": "Property Scanner"
     }
-  ],
-  "itemID": 10012
+  ]
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12968
+  "itemID": 12968,
+  "name": "Knight Weapon 3 Color Variant",
+  "displayName": "Knight Greatsword 3",
+  "description": "Rank 3 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/faction%20kits/knight_sword_3_variant.png",
+  "table": []
 }

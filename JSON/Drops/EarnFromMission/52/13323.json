@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13323
+  "itemID": 13323,
+  "name": "NPC Spaceman Gun Vendor",
+  "displayName": "NPC Spaceman Gun Vendor",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/faction%20kits/spacemaurader_blaster_3.png",
+  "table": []
 }

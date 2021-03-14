@@ -1,4 +1,9 @@
 {
+  "itemID": 10514,
+  "name": "Pirate Fort Model Pack 2",
+  "displayName": "Pirate Fort Model Pack 2",
+  "description": "Double-click to open this pack of models!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_blue.png",
   "table": [
     {
       "missionID": "434",
@@ -9,6 +14,5 @@
       "missionID": "772",
       "name": "Name Dropper"
     }
-  ],
-  "itemID": 10514
+  ]
 }

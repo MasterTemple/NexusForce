@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4561
+  "itemID": 4561,
+  "name": "Sand Blue Shirt 3",
+  "displayName": "Checkered Shirt",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_72_135.png",
+  "table": []
 }

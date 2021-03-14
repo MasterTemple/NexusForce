@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11892
+  "itemID": 11892,
+  "name": "Model Reward Winter Tree 1",
+  "displayName": "Winter Tree Model 1",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_winter_tree1.png",
+  "table": []
 }

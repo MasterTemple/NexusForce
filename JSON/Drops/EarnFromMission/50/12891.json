@@ -1,4 +1,9 @@
 {
+  "itemID": 12891,
+  "name": "Skeleton Rocket Engine Package",
+  "displayName": "Skeleton Rocket Engine Package",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_red.png",
   "table": [
     {
       "missionID": "993",
@@ -8,6 +13,5 @@
       "missionID": "1300",
       "name": "The Bone Builder"
     }
-  ],
-  "itemID": 12891
+  ]
 }

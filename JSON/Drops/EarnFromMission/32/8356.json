@@ -1,9 +1,13 @@
 {
+  "itemID": 8356,
+  "name": "Panda Style Gi Shirt",
+  "displayName": "Panda Style Gi",
+  "description": "Masters of Panda style Kung Fu do not use any weapons!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/reward/m73200_panda_gi.png",
   "table": [
     {
       "missionID": "496",
       "name": "The Ninja Masters"
     }
-  ],
-  "itemID": 8356
+  ]
 }

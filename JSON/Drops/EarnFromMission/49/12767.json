@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12767
+  "itemID": 12767,
+  "name": "Buff Out Armor Brush",
+  "displayName": "Buff Out Armor Brush",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/hands/armor_brush.png",
+  "table": []
 }

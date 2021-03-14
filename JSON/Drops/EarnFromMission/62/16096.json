@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 16096
+  "itemID": 16096,
+  "name": "Cole's First Gi Pants",
+  "displayName": "Cole's First Gi Pants",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/legs/minifig_blackninjagilegs.png",
+  "table": []
 }

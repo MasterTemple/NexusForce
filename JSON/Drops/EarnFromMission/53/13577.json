@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13577
+  "itemID": 13577,
+  "name": "Venture Faction Consumable 2",
+  "displayName": "Venture Vitality Vial 2",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/consumables/venture_faction_consumable_2.png",
+  "table": []
 }

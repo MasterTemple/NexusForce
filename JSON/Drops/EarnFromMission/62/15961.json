@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 15961
+  "itemID": 15961,
+  "name": "Think and Throw",
+  "displayName": "Think and Throw",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/helms/purple_ninja_hood_spear.png",
+  "table": []
 }

@@ -1,9 +1,13 @@
 {
+  "itemID": 6870,
+  "name": "Model Reward Ambient Snake",
+  "displayName": "Snake Model",
+  "description": "Place this animated creature model on your Property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/cre_snake.png",
   "table": [
     {
       "missionID": "944",
       "name": "Nate is Missing!"
     }
-  ],
-  "itemID": 6870
+  ]
 }

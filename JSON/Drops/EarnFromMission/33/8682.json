@@ -1,10 +1,14 @@
 {
+  "itemID": 8682,
+  "name": "Knapsack",
+  "displayName": "Knapsack",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/back_neck/m2524_05.png",
   "table": [
     {
       "missionID": "440",
       "name": "Toast!",
       "objective": "Get burnt by a campfire 25 times."
     }
-  ],
-  "itemID": 8682
+  ]
 }

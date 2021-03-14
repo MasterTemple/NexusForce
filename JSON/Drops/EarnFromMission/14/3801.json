@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 3801
+  "itemID": 3801,
+  "name": "NPC Brick 2X8",
+  "displayName": null,
+  "description": "Carried by Dwarf In scene 1",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/png/m3008.png",
+  "table": []
 }

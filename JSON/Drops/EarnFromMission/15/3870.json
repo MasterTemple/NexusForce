@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 3870
+  "itemID": 3870,
+  "name": "Improved Witch Broom",
+  "displayName": "Improved Witch Broom",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m4332_192.png",
+  "table": []
 }

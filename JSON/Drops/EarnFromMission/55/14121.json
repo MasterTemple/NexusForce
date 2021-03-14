@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 14121
+  "itemID": 14121,
+  "name": "Nexus Force Shield Mk I",
+  "displayName": "Nexus Force Shield MK I",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/hands/heatershield_3rdplace.png",
+  "table": []
 }

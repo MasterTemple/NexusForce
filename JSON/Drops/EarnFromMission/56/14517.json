@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 14517
+  "itemID": 14517,
+  "name": "Tail Bone",
+  "displayName": "Tail Bone",
+  "description": "Return this to Furious Urufu in the Ninjago Monastery.",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/misc/tail_bone.png",
+  "table": []
 }

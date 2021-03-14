@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 16619
+  "itemID": 16619,
+  "name": "NPC Blue Samurai Axe",
+  "displayName": "NPC Blue Samurai Axe",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/hammer_monkey.png",
+  "table": []
 }

@@ -1,10 +1,14 @@
 {
+  "itemID": 7785,
+  "name": "Flash Bulb",
+  "displayName": "Flash Bulb",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/30089_26.png",
   "table": [
     {
       "missionID": "934",
       "name": "Gem Collector 2",
       "objective": "Find 25 Pink Gems."
     }
-  ],
-  "itemID": 7785
+  ]
 }

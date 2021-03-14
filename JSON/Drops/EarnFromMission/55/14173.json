@@ -1,9 +1,13 @@
 {
+  "itemID": 14173,
+  "name": "Earth Spinjitzu Gi Gi of Quakes",
+  "displayName": "Gi of Quakes",
+  "description": "Wear this to look like a Ninja of Earth and rocket directly to the Ninjago Caves!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/torsos/torsos_earthbasekit.png",
   "table": [
     {
       "missionID": "1946",
       "name": "The Power of Earth"
     }
-  ],
-  "itemID": 14173
+  ]
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4162
+  "itemID": 4162,
+  "name": "Dark Green Shirt 12",
+  "displayName": "Casual Suit",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_78_28.png",
+  "table": []
 }

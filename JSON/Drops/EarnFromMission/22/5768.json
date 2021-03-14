@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 5768
+  "itemID": 5768,
+  "name": "Dark Stone Grey Shirt 37",
+  "displayName": "Raincloud Shirt",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_36_199.png",
+  "table": []
 }

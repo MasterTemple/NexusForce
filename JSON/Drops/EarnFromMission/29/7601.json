@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7601
+  "itemID": 7601,
+  "name": "Party Pants",
+  "displayName": "Party Pants",
+  "description": "Somewhere, a Minifigure is embarrassed.",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/legs/m73200_party.png",
+  "table": []
 }

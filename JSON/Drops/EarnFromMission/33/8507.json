@@ -1,10 +1,14 @@
 {
+  "itemID": 8507,
+  "name": "Superior Trident",
+  "displayName": "Superior Trident",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m87753_297.png",
   "table": [
     {
       "missionID": "360",
       "name": "Barnacle Blaster 1",
       "objective": "Hit 10 Sea Monsters in Cannon Cove Shooting Gallery."
     }
-  ],
-  "itemID": 8507
+  ]
 }

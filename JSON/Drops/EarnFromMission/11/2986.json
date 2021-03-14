@@ -1,10 +1,14 @@
 {
+  "itemID": 2986,
+  "name": "Funky Horn",
+  "displayName": "Funky Horn",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/horn.png",
   "table": [
     {
       "missionID": "254",
       "name": "Hidden Track",
       "objective": "Jam out on the secret platform at the Red Blocks concert in Nimbus Station."
     }
-  ],
-  "itemID": 2986
+  ]
 }

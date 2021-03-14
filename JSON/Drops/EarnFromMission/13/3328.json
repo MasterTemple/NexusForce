@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 3328
+  "itemID": 3328,
+  "name": "NPC Reporters Microphone",
+  "displayName": null,
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/misc/microphone.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8640
+  "itemID": 8640,
+  "name": "Bell Bottoms",
+  "displayName": "Bell Bottoms",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/legs/m73200_138.png",
+  "table": []
 }

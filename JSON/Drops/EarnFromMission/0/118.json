@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 118
+  "itemID": 118,
+  "name": "Rank 1 Sorcerer Book",
+  "displayName": null,
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/misc/book_paradox.png",
+  "table": []
 }

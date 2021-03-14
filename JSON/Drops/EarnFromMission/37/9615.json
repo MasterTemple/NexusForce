@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 9615
+  "itemID": 9615,
+  "name": "Black Aussie Hat",
+  "displayName": "Black Aussie Hat",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m30167_26.png",
+  "table": []
 }

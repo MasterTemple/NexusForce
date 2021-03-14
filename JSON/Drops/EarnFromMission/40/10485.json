@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10485
+  "itemID": 10485,
+  "name": "Proxy Panda Style - Left Hand Proxy",
+  "displayName": "Panda Style - Left Hand Proxy",
+  "description": "Used to fill the left hand with the Panda style shirt",
+  "iconURL": "https://xiphoseer.github.io/lu-res/",
+  "table": []
 }

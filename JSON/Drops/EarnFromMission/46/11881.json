@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11881
+  "itemID": 11881,
+  "name": "Model Reward Winter Penguin",
+  "displayName": "Winter Penguin Model",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_winter_penguin.png",
+  "table": []
 }

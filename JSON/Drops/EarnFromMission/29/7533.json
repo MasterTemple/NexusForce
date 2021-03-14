@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7533
+  "itemID": 7533,
+  "name": "Adventurer Crossbow 2",
+  "displayName": "Adventurer Crossbow 2",
+  "description": "Rank 2 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/factionkits/adventurer2_gun.png",
+  "table": []
 }

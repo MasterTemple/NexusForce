@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13664
+  "itemID": 13664,
+  "name": "Model Reward Zoo Fence Sloped Corner Outside ",
+  "displayName": "Zoo Sloped Outside Corner Fence Model",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_zoo_fence_sloped_corner_outside.png",
+  "table": []
 }

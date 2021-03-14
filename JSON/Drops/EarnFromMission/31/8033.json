@@ -1,9 +1,13 @@
 {
+  "itemID": 8033,
+  "name": "Rank 1 Summoner Kit Package",
+  "displayName": "Rank 1 Summoner Kit Package",
+  "description": "Double-click to get the Rank 1 Summoner Specialty Gear!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/kits/kit_assembly.png",
   "table": [
     {
       "missionID": "588",
       "name": "Get your Assembly Gear!"
     }
-  ],
-  "itemID": 8033
+  ]
 }

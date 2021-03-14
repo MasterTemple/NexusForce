@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8641
+  "itemID": 8641,
+  "name": "Steel Legs",
+  "displayName": "Steel Legs",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/legs/ag_metal_legs.png",
+  "table": []
 }

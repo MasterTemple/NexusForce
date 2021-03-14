@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12095
+  "itemID": 12095,
+  "name": "Crux Prime Armor",
+  "displayName": "Crux Prime Armor",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/back_neck/m85961_131.png",
+  "table": []
 }

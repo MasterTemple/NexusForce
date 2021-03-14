@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8623
+  "itemID": 8623,
+  "name": "Princess Shirt 2",
+  "displayName": "Dark Blue Princess Shirt",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/reward/m73200_princess_02.png",
+  "table": []
 }

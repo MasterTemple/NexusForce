@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 9736
+  "itemID": 9736,
+  "name": "TEST COP Medieval Village Stable",
+  "displayName": "",
+  "description": "Place this model on your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_medievalmarketvillagestable.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7447
+  "itemID": 7447,
+  "name": "Samurai Head 3",
+  "displayName": "Samurai Helm 3",
+  "description": "Rank 3 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/faction%20kits/samurai_helm_3.png",
+  "table": []
 }

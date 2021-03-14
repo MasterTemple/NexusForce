@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 9805
+  "itemID": 9805,
+  "name": "Test Astronaut Oxygen Pack",
+  "displayName": "Orange Oxygen Bottles",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/back_neck/m3838_01.png",
+  "table": []
 }

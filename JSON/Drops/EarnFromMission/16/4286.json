@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4286
+  "itemID": 4286,
+  "name": "Dark Stone Grey Shirt 34",
+  "displayName": "Red Flower Shirt",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_38_199.png",
+  "table": []
 }

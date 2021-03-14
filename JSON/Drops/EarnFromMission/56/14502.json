@@ -1,9 +1,13 @@
 {
+  "itemID": 14502,
+  "name": "Dirt Sandwich",
+  "displayName": "Dirt Sandwich",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/consumables/dirt_sandwich.png",
   "table": [
     {
       "missionID": "1827",
       "name": "Cooking Lessons"
     }
-  ],
-  "itemID": 14502
+  ]
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7469
+  "itemID": 7469,
+  "name": "Samurai Chest 1",
+  "displayName": "Samurai Breastplate 1",
+  "description": "Rank 1 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/faction/samurai_01.png",
+  "table": []
 }

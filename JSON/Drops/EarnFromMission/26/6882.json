@@ -1,10 +1,14 @@
 {
+  "itemID": 6882,
+  "name": "Compass",
+  "displayName": "Compass",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/misc/m4150_compass.png",
   "table": [
     {
       "missionID": "284",
       "name": "Gnarled Forest Explorer",
       "objective": "Discover all 7 points of interest in Gnarled Forest."
     }
-  ],
-  "itemID": 6882
+  ]
 }

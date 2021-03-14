@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 6864
+  "itemID": 6864,
+  "name": "Green Gem",
+  "displayName": "Green Gem",
+  "description": "A valuable gem that can be sold!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/m30153_48.png",
+  "table": []
 }

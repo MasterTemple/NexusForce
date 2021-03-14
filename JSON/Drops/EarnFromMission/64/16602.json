@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 16602
+  "itemID": 16602,
+  "name": "Rage",
+  "displayName": "Rage",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m43899_21.png",
+  "table": []
 }

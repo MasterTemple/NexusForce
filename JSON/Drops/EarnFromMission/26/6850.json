@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 6850
+  "itemID": 6850,
+  "name": "Blue Space Helmet",
+  "displayName": "Blue Space Helmet",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m30124_23.png",
+  "table": []
 }

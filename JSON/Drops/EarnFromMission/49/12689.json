@@ -1,10 +1,14 @@
 {
+  "itemID": 12689,
+  "name": "Dashiki Shirt",
+  "displayName": "Dashiki Shirt",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/torsos/torsos_dashikisuit.png",
   "table": [
     {
       "missionID": "1109",
       "name": "Crux Prime Exterminator 3",
       "objective": "Smash 125 more Dark Spiderling Invaders on Crux Prime."
     }
-  ],
-  "itemID": 12689
+  ]
 }

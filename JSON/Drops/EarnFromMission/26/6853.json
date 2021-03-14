@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 6853
+  "itemID": 6853,
+  "name": "Morion Helmet",
+  "displayName": "Morion Helmet",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m30048_26.png",
+  "table": []
 }

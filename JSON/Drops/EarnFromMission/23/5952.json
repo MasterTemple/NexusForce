@@ -1,10 +1,14 @@
 {
+  "itemID": 5952,
+  "name": "Superior Longsword of Stunning",
+  "displayName": "Superior Longsword of Stunning",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m44493_131.png",
   "table": [
     {
       "missionID": "294",
       "name": "Paradox Protector 2",
       "objective": "Smash 100 more Stromlings, 100 more Stromling Mechs, and 100 more Dark Spiderlings."
     }
-  ],
-  "itemID": 5952
+  ]
 }

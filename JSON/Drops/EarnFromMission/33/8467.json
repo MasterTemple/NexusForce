@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8467
+  "itemID": 8467,
+  "name": "Buccaneer Neck/Back 2",
+  "displayName": "Buccaneer Bandolier 2",
+  "description": "Rank 2 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/faction%20kits/buccaneer_shoulder_2.png",
+  "table": []
 }

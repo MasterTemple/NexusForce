@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12711
+  "itemID": 12711,
+  "name": "80's Block Graphics shirt",
+  "displayName": "Blocks Shirt",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/torsos/torsos_80sshirt.png",
+  "table": []
 }

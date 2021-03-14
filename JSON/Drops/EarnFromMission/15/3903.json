@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 3903
+  "itemID": 3903,
+  "name": "Pet Inventory Item",
+  "displayName": null,
+  "description": "Template object for all tamable pets",
+  "iconURL": "https://github.com/MasterTemple/lu_bot/blob/master/src/unknown.png?raw=true",
+  "table": []
 }

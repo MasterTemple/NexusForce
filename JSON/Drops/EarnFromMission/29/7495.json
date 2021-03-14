@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7495
+  "itemID": 7495,
+  "name": "Samurai Legs 3",
+  "displayName": "Samurai Leggings 3",
+  "description": "Rank 3 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/legs/faction/samurai_03.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4925
+  "itemID": 4925,
+  "name": "Test Horse Mount",
+  "displayName": null,
+  "description": "The Magical Mystery Horse",
+  "iconURL": "https://github.com/MasterTemple/lu_bot/blob/master/src/unknown.png?raw=true",
+  "table": []
 }

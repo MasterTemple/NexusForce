@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8359
+  "itemID": 8359,
+  "name": "Referee Shirt",
+  "displayName": "Referee Shirt",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/reward/m73200_referee.png",
+  "table": []
 }

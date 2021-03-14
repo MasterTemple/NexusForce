@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10326
+  "itemID": 10326,
+  "name": "Model Reward Classical Short Wall 5",
+  "displayName": "Classical Short Wall Model 5",
+  "description": "A model for your Property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_ancientwalls-wallshort5.png",
+  "table": []
 }

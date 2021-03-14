@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8218
+  "itemID": 8218,
+  "name": "Basic Pickaxe",
+  "displayName": "Basic Pickaxe",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m3841_199.png",
+  "table": []
 }

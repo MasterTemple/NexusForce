@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13692
+  "itemID": 13692,
+  "name": "Model Reward Zoo Courtyard Long",
+  "displayName": "Zoo Courtyard Model Long",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_zoo_courtyard_6x12.png",
+  "table": []
 }

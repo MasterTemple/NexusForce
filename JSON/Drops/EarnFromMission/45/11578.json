@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11578
+  "itemID": 11578,
+  "name": "Model Reward Airport Trashcan 2",
+  "displayName": "Airport Trashcan Model 2",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_airport_trashcan02.png",
+  "table": []
 }

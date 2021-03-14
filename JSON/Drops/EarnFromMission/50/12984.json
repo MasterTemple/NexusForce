@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12984
+  "itemID": 12984,
+  "name": "Sorcerer Weapon 3 Color Variant",
+  "displayName": "Sorcerer Wand 3",
+  "description": "Rank 3 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/faction%20kits/sorcerer_staff_3_variant.png",
+  "table": []
 }

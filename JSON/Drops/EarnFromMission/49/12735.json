@@ -1,10 +1,14 @@
 {
+  "itemID": 12735,
+  "name": "The Big One!",
+  "displayName": "The Big One!",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/misc/thebigone.png",
   "table": [
     {
       "missionID": "1127",
       "name": "Crux Prime Dragonslayer 2",
       "objective": "Smash 25 more Maelstrom Dragon Invaders on Crux Prime."
     }
-  ],
-  "itemID": 12735
+  ]
 }

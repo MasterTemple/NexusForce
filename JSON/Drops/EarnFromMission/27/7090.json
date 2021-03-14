@@ -1,9 +1,13 @@
 {
+  "itemID": 7090,
+  "name": "Venture Badge",
+  "displayName": "Venture League Approval",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/missions/faction_logos/venture.png",
   "table": [
     {
       "missionID": "482",
       "name": "A Thunderous Collection"
     }
-  ],
-  "itemID": 7090
+  ]
 }

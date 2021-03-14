@@ -1,9 +1,13 @@
 {
+  "itemID": 14691,
+  "name": "Purified Dark Blade",
+  "displayName": "Purified Dark Blade",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/hands/greydarksword.png",
   "table": [
     {
       "missionID": "2021",
       "name": "Maelstrom Weapons Part 5"
     }
-  ],
-  "itemID": 14691
+  ]
 }

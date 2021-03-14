@@ -1,10 +1,14 @@
 {
+  "itemID": 12599,
+  "name": "Crux Planet Shield",
+  "displayName": "Crux Planet Shield",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/scutumshield_cruxplanet.png",
   "table": [
     {
       "missionID": "1233",
       "name": "The Curse of Kinga Hurl",
       "objective": "Defeat Kinga Hurl in the Battle of Nimbus Station 100 more times."
     }
-  ],
-  "itemID": 12599
+  ]
 }

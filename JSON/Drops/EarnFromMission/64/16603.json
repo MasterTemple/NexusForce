@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 16603
+  "itemID": 16603,
+  "name": "Bento Box Mesh Effect",
+  "displayName": "Bento Box",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/consumables/bento_blocks.png",
+  "table": []
 }

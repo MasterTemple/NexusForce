@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10328
+  "itemID": 10328,
+  "name": "Model Reward Cottage Bathtub 1",
+  "displayName": "House Bathtub Model 1",
+  "description": "A model for your Property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_cottage_bathtub1.png",
+  "table": []
 }

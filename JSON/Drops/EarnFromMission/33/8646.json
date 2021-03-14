@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8646
+  "itemID": 8646,
+  "name": "Khakis",
+  "displayName": "Khakis",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/legs/m73200_138.png",
+  "table": []
 }

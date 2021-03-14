@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12725
+  "itemID": 12725,
+  "name": "Golden Battle Axe",
+  "displayName": "Golden Battle Axe",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/hands/goldenaxe.png",
+  "table": []
 }

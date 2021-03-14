@@ -1,10 +1,14 @@
 {
+  "itemID": 9700,
+  "name": "Anvil of Armor",
+  "displayName": "Anvil of Armor",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/missioncomics/wonderland/nimbus_station/task_icons/mission_863.png",
   "table": [
     {
       "missionID": "692",
       "name": "Tanks Very Much! 1",
       "objective": "Collect 1000 Armor power-ups."
     }
-  ],
-  "itemID": 9700
+  ]
 }

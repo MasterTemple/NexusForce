@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12128
+  "itemID": 12128,
+  "name": "NPC Toy Assember Hat",
+  "displayName": "",
+  "description": "NPC Toy Assember Hat",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/custom_flower_hat.png",
+  "table": []
 }

@@ -1,4 +1,9 @@
 {
+  "itemID": 8365,
+  "name": "Potion of Shielding",
+  "displayName": "Potion of Shielding",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/6932_151.png",
   "table": [
     {
       "missionID": "738",
@@ -9,6 +14,5 @@
       "name": "Forbidden Valley Firefighter",
       "objective": "Extinguish 100 candles in Forbidden Valley."
     }
-  ],
-  "itemID": 8365
+  ]
 }

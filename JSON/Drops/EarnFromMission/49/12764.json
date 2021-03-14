@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12764
+  "itemID": 12764,
+  "name": "Big Fountain Soda",
+  "displayName": "Big Fountain Soda",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/misc/gonzogulp.png",
+  "table": []
 }

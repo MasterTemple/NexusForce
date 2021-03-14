@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4939
+  "itemID": 4939,
+  "name": "Test Pulse Blaster",
+  "displayName": null,
+  "description": "test for pulse",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m2561_192.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 15918
+  "itemID": 15918,
+  "name": "Athlete's Shade",
+  "displayName": "Athlete's Shade",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/helms/rice_hat.png",
+  "table": []
 }

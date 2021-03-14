@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7225
+  "itemID": 7225,
+  "name": "6789",
+  "displayName": null,
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/",
+  "table": []
 }

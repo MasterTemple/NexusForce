@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12319
+  "itemID": 12319,
+  "name": "Doc in a Box",
+  "displayName": "Doc in a Box",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/misc/doc_in_a_box.png",
+  "table": []
 }

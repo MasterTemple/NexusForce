@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13337
+  "itemID": 13337,
+  "name": "NPCNurse Hair Vendor",
+  "displayName": "NPCNurse Hair Vendor",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/factionkits/adventurer3_hat.png",
+  "table": []
 }

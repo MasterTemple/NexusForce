@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7382
+  "itemID": 7382,
+  "name": "Engineer Legs 1",
+  "displayName": "Engineer Pants 1",
+  "description": "Rank 1 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/legs/faction/engineer_01.png",
+  "table": []
 }

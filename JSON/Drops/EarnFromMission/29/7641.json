@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7641
+  "itemID": 7641,
+  "name": "NPC Coalessa Staff",
+  "displayName": null,
+  "description": "Special NPC Left Hand Staff 2/3/3 Short Smashing",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/gf_tikitorch.png",
+  "table": []
 }

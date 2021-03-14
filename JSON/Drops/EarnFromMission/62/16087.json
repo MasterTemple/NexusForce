@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 16087
+  "itemID": 16087,
+  "name": "Classy Kimono",
+  "displayName": "Classy Kimono",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/torsos/minifig_whitekimono.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12990
+  "itemID": 12990,
+  "name": "Buccaneer Neck/Back 3 Color Variant",
+  "displayName": "Buccaneer Bandolier 3",
+  "description": "Rank 3 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/faction%20kits/buccaneer_vest_3_variant.png",
+  "table": []
 }

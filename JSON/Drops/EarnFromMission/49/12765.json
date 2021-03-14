@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12765
+  "itemID": 12765,
+  "name": "Energy Bar",
+  "displayName": "Energy Bar",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/misc/energybar.png",
+  "table": []
 }

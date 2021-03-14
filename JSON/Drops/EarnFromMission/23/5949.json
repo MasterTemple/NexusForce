@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 5949
+  "itemID": 5949,
+  "name": "Test Set ninja1 - Katana",
+  "displayName": null,
+  "description": "weapon for item set test",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m30173-194.png",
+  "table": []
 }

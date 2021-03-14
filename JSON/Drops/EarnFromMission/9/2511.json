@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 2511
+  "itemID": 2511,
+  "name": "Brick Yellow Pants",
+  "displayName": "Brick Yellow Pants",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/legs/m73200_5.png",
+  "table": []
 }

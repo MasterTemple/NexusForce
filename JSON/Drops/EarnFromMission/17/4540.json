@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4540
+  "itemID": 4540,
+  "name": "Brick Yellow Shirt 16",
+  "displayName": "Zipper Jacket",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_14_5.png",
+  "table": []
 }

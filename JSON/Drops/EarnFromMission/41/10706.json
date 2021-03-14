@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10706
+  "itemID": 10706,
+  "name": "E3 Model Block",
+  "displayName": "",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_asianplatform-small.png",
+  "table": []
 }

@@ -1,10 +1,14 @@
 {
+  "itemID": 6795,
+  "name": "Admiral Hat",
+  "displayName": "Admiral Hat",
+  "description": "Wear this in Nimbus Station to launch your rocket to the Pirate Camp",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m2528_admiral.png",
   "table": [
     {
       "missionID": "452",
       "name": "Gnarled Forest Achiever 5",
       "objective": "Complete 10 more Missions or Achievements in Gnarled Forest, for a total of 50."
     }
-  ],
-  "itemID": 6795
+  ]
 }

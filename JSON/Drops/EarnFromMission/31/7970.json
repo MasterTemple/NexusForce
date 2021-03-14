@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7970
+  "itemID": 7970,
+  "name": "Test UGC Model - Café Corner",
+  "displayName": null,
+  "description": "For testing only",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/model_icon.png",
+  "table": []
 }

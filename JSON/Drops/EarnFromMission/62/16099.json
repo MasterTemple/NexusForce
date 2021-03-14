@@ -1,10 +1,14 @@
 {
+  "itemID": 16099,
+  "name": "Zane's First Gi Pants",
+  "displayName": "Zane's First Gi Pants",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/legs/minifig_whiteninjagilegs.png",
   "table": [
     {
       "missionID": "1944",
       "name": "Smash Bonezai!",
       "objective": "Smash Bonezai in the Ice Shrine in the caves below the Monastery."
     }
-  ],
-  "itemID": 16099
+  ]
 }

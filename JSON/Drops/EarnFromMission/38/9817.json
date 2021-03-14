@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 9817
+  "itemID": 9817,
+  "name": "Buccaneer Offhand 3 - Proxy",
+  "displayName": null,
+  "description": "Rank 3 Specialty Kit Item. Tied to Buccaneer weapon 3",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/faction%20kits/buccaneer_pistolcutlass_3.png",
+  "table": []
 }

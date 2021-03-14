@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10057
+  "itemID": 10057,
+  "name": "Behavior - Patrol",
+  "displayName": "Patrol Behavior",
+  "description": "Model will patrol an area",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/model_icon.png",
+  "table": []
 }

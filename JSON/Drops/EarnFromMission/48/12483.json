@@ -1,9 +1,13 @@
 {
+  "itemID": 12483,
+  "name": "NT Pet Egg",
+  "displayName": "Sentinel Pet Egg",
+  "description": "Return this to Coalessa.",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/misc/petegg.png",
   "table": [
     {
       "missionID": "1184",
       "name": "Goodbye Griffy"
     }
-  ],
-  "itemID": 12483
+  ]
 }

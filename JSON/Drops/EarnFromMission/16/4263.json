@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4263
+  "itemID": 4263,
+  "name": "Dark Stone Grey Shirt 11",
+  "displayName": "Rumpled Jacket",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_77_199.png",
+  "table": []
 }

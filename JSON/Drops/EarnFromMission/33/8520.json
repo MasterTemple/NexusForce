@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8520
+  "itemID": 8520,
+  "name": "NPC Numbchuck Helmet",
+  "displayName": null,
+  "description": "NPC Numbchuck Helmet",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/custom_flower_hat.png",
+  "table": []
 }

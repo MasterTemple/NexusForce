@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 2588
+  "itemID": 2588,
+  "name": "Chef Hat",
+  "displayName": "Chef Hat",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m3898_01.png",
+  "table": []
 }

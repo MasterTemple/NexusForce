@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13243
+  "itemID": 13243,
+  "name": "TEST LUCAS",
+  "displayName": "TEST LUCAS",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/uber_hammer.png",
+  "table": []
 }

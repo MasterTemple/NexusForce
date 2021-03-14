@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10793
+  "itemID": 10793,
+  "name": "LUP Model Reward BrownDiningTable",
+  "displayName": "Brown Dining Table Model",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/lup_ajs_browndiningtable.png",
+  "table": []
 }

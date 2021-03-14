@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8533
+  "itemID": 8533,
+  "name": "Quiver",
+  "displayName": "Quiver",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/back_neck/m4498_192.png",
+  "table": []
 }

@@ -1,10 +1,14 @@
 {
+  "itemID": 12741,
+  "name": "Dragon Helm MK II",
+  "displayName": "Dragon Helm MK II",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/hats/dragonhelmmk2.png",
   "table": [
     {
       "missionID": "1125",
       "name": "Crux Prime Shogun 3",
       "objective": "Smash 125 more Maelstrom Horseman Invaders on Crux Prime."
     }
-  ],
-  "itemID": 12741
+  ]
 }

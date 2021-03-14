@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12693
+  "itemID": 12693,
+  "name": "Harlequin Shirt",
+  "displayName": "Harlequin Shirt",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/torsos/torsos_harlequinsuit.png",
+  "table": []
 }

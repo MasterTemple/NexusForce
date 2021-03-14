@@ -1,9 +1,13 @@
 {
+  "itemID": 6199,
+  "name": "Pith Helmet",
+  "displayName": "Pith Helmet",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m30172_199.png",
   "table": [
     {
       "missionID": "320",
       "name": "Check In with Sky Lane"
     }
-  ],
-  "itemID": 6199
+  ]
 }

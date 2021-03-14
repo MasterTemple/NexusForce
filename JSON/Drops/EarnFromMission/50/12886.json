@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12886
+  "itemID": 12886,
+  "name": "Cyborg Helmet",
+  "displayName": "Cyborg Helmet",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/hats/m48493_6.png",
+  "table": []
 }

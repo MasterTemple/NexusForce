@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12987
+  "itemID": 12987,
+  "name": "Space Marauder Gun 3 Color Variant",
+  "displayName": "Space Marauder Blaster 3",
+  "description": "Rank 3 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/faction%20kits/space_blaster_3_variant.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10049
+  "itemID": 10049,
+  "name": "Behavior - Play Sound",
+  "displayName": "Play Sound Behavior",
+  "description": "Plays a sound",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/model_icon.png",
+  "table": []
 }

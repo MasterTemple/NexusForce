@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10705
+  "itemID": 10705,
+  "name": "E3 Model Chicken",
+  "displayName": "Chicken Model",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/devilducky.png",
+  "table": []
 }

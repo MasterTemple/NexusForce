@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8674
+  "itemID": 8674,
+  "name": "Spanner",
+  "displayName": "Wrench",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m55299_26.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8285
+  "itemID": 8285,
+  "name": "NPC Rusty Steele Helmet",
+  "displayName": "NPC Rusty Steele Helmet",
+  "description": "NPC Rusty Steele Helmet",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/custom_flower_hat.png",
+  "table": []
 }

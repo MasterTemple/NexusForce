@@ -1,9 +1,13 @@
 {
+  "itemID": 16629,
+  "name": "2011 Championship Sparkler",
+  "displayName": "2011 Championship Sparkler",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m6124_21.png",
   "table": [
     {
       "missionID": "2077",
       "name": "Cheer for the Championships!"
     }
-  ],
-  "itemID": 16629
+  ]
 }

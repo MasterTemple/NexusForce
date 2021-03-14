@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13891
+  "itemID": 13891,
+  "name": "Assembly Crate Disguise",
+  "displayName": "Assembly Box Disguise",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/misc/assemblycratedisguise.png",
+  "table": []
 }

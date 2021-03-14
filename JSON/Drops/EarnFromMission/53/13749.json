@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13749
+  "itemID": 13749,
+  "name": "Skeleton Disguise Left Hand Proxy",
+  "displayName": "Skeleton Disguise Left Hand Proxy",
+  "description": "Used with the nexus tower mission chains",
+  "iconURL": "https://xiphoseer.github.io/lu-res/",
+  "table": []
 }

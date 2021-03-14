@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11712
+  "itemID": 11712,
+  "name": "Model Reward Farm Silo 2",
+  "displayName": "Farm Silo Model 2",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_farm_silo2.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13676
+  "itemID": 13676,
+  "name": "Model Reward Zoo Fence Electrified Gatehouse ",
+  "displayName": "Zoo Electrified Gatehouse Model",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_zoo_fence_electrified_gatehouse.png",
+  "table": []
 }

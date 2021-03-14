@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 16188
+  "itemID": 16188,
+  "name": "Space Marauder Cape Back/Neck",
+  "displayName": "Valiant Space Marauder's Cape",
+  "description": "Rank 3 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/icons/cape_paradox.png",
+  "table": []
 }

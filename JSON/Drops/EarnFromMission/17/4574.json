@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4574
+  "itemID": 4574,
+  "name": "Sand Blue Shirt 16",
+  "displayName": "Zipper Jacket",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_14_135.png",
+  "table": []
 }

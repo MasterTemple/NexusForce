@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12513
+  "itemID": 12513,
+  "name": "LEGO Dice Item",
+  "displayName": "LEGO Dice",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/misc/lego_die.png",
+  "table": []
 }

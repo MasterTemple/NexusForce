@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 6647
+  "itemID": 6647,
+  "name": "Test Pants of Uber Life - 4 pts",
+  "displayName": "Test 4 pts life pants",
+  "description": "Increases life point pool",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/legs/m73200_21.png",
+  "table": []
 }

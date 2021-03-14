@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12731
+  "itemID": 12731,
+  "name": "Spike Hammer",
+  "displayName": "Spike Hammer",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/hands/spike_hammer.png",
+  "table": []
 }

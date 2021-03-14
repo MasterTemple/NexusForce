@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11591
+  "itemID": 11591,
+  "name": "Model Reward Airport Windsock",
+  "displayName": "Airport Windsock Model",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_airport_windsock.png",
+  "table": []
 }

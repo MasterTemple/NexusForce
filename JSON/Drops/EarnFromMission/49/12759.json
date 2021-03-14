@@ -1,10 +1,14 @@
 {
+  "itemID": 12759,
+  "name": "Elite Basher",
+  "displayName": "Elite Basher",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/hands/props_basher.png",
   "table": [
     {
       "missionID": "1112",
       "name": "Crux Prime Avenger 3",
       "objective": "Smash 500 more Stromling Pirate Invaders on Crux Prime."
     }
-  ],
-  "itemID": 12759
+  ]
 }

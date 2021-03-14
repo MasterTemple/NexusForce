@@ -1,10 +1,14 @@
 {
+  "itemID": 12313,
+  "name": "Lucky Woodsman's Axe",
+  "displayName": "Lucky Woodsman's Axe",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m4438_26.png",
   "table": [
     {
       "missionID": "1081",
       "name": "Corrupted Sentry Destroyer 2",
       "objective": "Smash 125 more Corrupted Sentries on the Venture Explorer spaceship."
     }
-  ],
-  "itemID": 12313
+  ]
 }

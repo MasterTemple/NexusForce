@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12994
+  "itemID": 12994,
+  "name": "Daredevil Weapon 3 Color Variant",
+  "displayName": "Daredevil Flareguns 3",
+  "description": "Rank 3 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/faction%20kits/daredevil_gun_3_variant.png",
+  "table": []
 }

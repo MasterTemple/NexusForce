@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13612
+  "itemID": 13612,
+  "name": "Reward Dynamite Plunger",
+  "displayName": "Reward Dynamite Plunger",
+  "description": "A model with Behaviors for your property.",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_bvr_dynamiteplunger.png",
+  "table": []
 }

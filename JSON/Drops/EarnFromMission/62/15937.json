@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 15937
+  "itemID": 15937,
+  "name": "Ki Filled Hood",
+  "displayName": "Ki Filled Hood",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m30177_268.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 6194
+  "itemID": 6194,
+  "name": "Maelstrom Infected Brick",
+  "displayName": "Maelstrom-Infected Brick",
+  "description": "Return this to Paradox!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/misc/ag_infected_brick.png",
+  "table": []
 }

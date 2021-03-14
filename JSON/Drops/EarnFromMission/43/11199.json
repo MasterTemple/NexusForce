@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11199
+  "itemID": 11199,
+  "name": "Model Reward Shipwreck Hideout 3",
+  "displayName": "Shipwreck Hideout Model 3",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_shipwreckhideout3.png",
+  "table": []
 }

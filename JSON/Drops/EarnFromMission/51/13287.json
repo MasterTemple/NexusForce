@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13287
+  "itemID": 13287,
+  "name": "Summoner Valiant Weapon Proxy",
+  "displayName": "Summoner Valiant Weapon Proxy",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/faction%20kits/fackit_summonervaliant_master.png",
+  "table": []
 }

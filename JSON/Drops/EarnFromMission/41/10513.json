@@ -1,4 +1,9 @@
 {
+  "itemID": 10513,
+  "name": "Pirate Fort Model Pack 1",
+  "displayName": "Pirate Fort Model Pack 1",
+  "description": "Double-click to open this pack of models!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_blue.png",
   "table": [
     {
       "missionID": "434",
@@ -9,6 +14,5 @@
       "missionID": "746",
       "name": "Jack Knife's Treasure"
     }
-  ],
-  "itemID": 10513
+  ]
 }

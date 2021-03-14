@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10849
+  "itemID": 10849,
+  "name": "LUP Model Reward Dumpster",
+  "displayName": "Dumpster Model",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/lup_jh_dumpster.png",
+  "table": []
 }

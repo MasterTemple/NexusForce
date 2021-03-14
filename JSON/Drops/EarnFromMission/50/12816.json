@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12816
+  "itemID": 12816,
+  "name": "Sorcerer Valiant Weapon",
+  "displayName": "The Doomslicer",
+  "description": "Two-Handed Weapon",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/faction%20kits/fackit_sorcerervaliant_master.png",
+  "table": []
 }

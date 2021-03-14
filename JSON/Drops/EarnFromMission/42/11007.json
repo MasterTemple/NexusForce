@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11007
+  "itemID": 11007,
+  "name": "NS Property Pushback Model - Cage",
+  "displayName": "NS Property Pushback Model - Cage",
+  "description": "NS Property Pushback Model - Cage",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/golden_brick.png",
+  "table": []
 }

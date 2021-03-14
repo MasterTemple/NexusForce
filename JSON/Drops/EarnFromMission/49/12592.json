@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12592
+  "itemID": 12592,
+  "name": "TEST TAK's Movie Camera",
+  "displayName": "Test Tak Camera",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/30148_26.png",
+  "table": []
 }

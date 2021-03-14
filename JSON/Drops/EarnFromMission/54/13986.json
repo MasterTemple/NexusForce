@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13986
+  "itemID": 13986,
+  "name": "Test Rank 2 Shoulders",
+  "displayName": "Test Rank 2 Shoulders",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/back_neck/m2526_297.png",
+  "table": []
 }

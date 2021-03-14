@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10127
+  "itemID": 10127,
+  "name": "Winged Wrench Shirt",
+  "displayName": "Winged Wrench Shirt",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/reward/m73200_winged_wrench.png",
+  "table": []
 }

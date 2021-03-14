@@ -1,9 +1,13 @@
 {
+  "itemID": 16035,
+  "name": "Imaginite herbs",
+  "displayName": "Imaginite herbs",
+  "description": "Use this to Remove Maelstrom Poisoning",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/misc/imaginite_herbs.png",
   "table": [
     {
       "missionID": "1791",
       "name": "Rung Way"
     }
-  ],
-  "itemID": 16035
+  ]
 }

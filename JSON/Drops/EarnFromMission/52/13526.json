@@ -1,10 +1,14 @@
 {
+  "itemID": 13526,
+  "name": "Green Tiki Shirt",
+  "displayName": "Green Tiki Shirt",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/torsos/torsos_tikishirt2.png",
   "table": [
     {
       "missionID": "1446",
       "name": "Nexus Tower Builder 5",
       "objective": "Donate 2500 bricks to the Nexus Jawbox in Nimbus Station."
     }
-  ],
-  "itemID": 13526
+  ]
 }

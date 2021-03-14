@@ -1,10 +1,14 @@
 {
+  "itemID": 12760,
+  "name": "Elite Sword of Blocking",
+  "displayName": "Elite Sword of Blocking",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m44493_131.png",
   "table": [
     {
       "missionID": "1121",
       "name": "Crux Prime Guardian 2",
       "objective": "Smash 50 more Dark Ronin Invaders on Crux Prime."
     }
-  ],
-  "itemID": 12760
+  ]
 }

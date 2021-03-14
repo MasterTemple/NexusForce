@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10062
+  "itemID": 10062,
+  "name": "Behavior - Auto Elevator",
+  "displayName": "Auto Elevator Behavior",
+  "description": "Auto Elevator",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/model_icon.png",
+  "table": []
 }

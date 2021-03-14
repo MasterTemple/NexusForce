@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8490
+  "itemID": 8490,
+  "name": "Superior Halberd",
+  "displayName": "Superior Halberd",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m6123_297.png",
+  "table": []
 }

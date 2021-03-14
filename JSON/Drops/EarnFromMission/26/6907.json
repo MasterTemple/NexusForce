@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 6907
+  "itemID": 6907,
+  "name": "Test Faction Grunt Helmet Regular",
+  "displayName": "Test Faction Grunt Helmet Regular",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/png/m2420.png",
+  "table": []
 }

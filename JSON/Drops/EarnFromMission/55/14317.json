@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 14317
+  "itemID": 14317,
+  "name": "Sentinel Gear - Knight - Legs proxy",
+  "displayName": "Sentinel Gear - Knight - Legs proxy",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/legs/faction/knight_02.png",
+  "table": []
 }

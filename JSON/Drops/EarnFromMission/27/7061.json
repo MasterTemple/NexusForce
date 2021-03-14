@@ -1,10 +1,14 @@
 {
+  "itemID": 7061,
+  "name": "Model Reward Ambient Spider",
+  "displayName": "Spider Model",
+  "description": "Place this animated creature model on your Property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/cre_smallspider.png",
   "table": [
     {
       "missionID": "795",
       "name": "Ninja Initiate 3",
       "objective": "Smash 1000 more Maelstrom Horsemen."
     }
-  ],
-  "itemID": 7061
+  ]
 }

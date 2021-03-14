@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13347
+  "itemID": 13347,
+  "name": "NPC Crash Dummy  Hair Vendor",
+  "displayName": "NPC Crash Dummy  Hair Vendor",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/factionkits/adventurer3_hat.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13211
+  "itemID": 13211,
+  "name": "Model Reward Gooble Model",
+  "displayName": "Gooble Model",
+  "description": "This model contains behaviors!",
+  "iconURL": "https://github.com/MasterTemple/lu_bot/blob/master/src/unknown.png?raw=true",
+  "table": []
 }

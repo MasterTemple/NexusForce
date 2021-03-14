@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10020
+  "itemID": 10020,
+  "name": "Test Ryans Katana",
+  "displayName": "",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m30173_199.png",
+  "table": []
 }

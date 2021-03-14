@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 14093
+  "itemID": 14093,
+  "name": "Bronze Trophy Pants",
+  "displayName": "Zazzy Pants",
+  "description": "For Bronze Trophy Winners!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/legs/m73200_21.png",
+  "table": []
 }

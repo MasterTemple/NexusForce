@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 3872
+  "itemID": 3872,
+  "name": "Basic Shovel",
+  "displayName": "Basic Shovel",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m3837_194.png",
+  "table": []
 }

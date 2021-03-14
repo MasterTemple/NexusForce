@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13777
+  "itemID": 13777,
+  "name": "Activatable Duke Exetor Sword for mission",
+  "displayName": "Duke Exeter's Sword",
+  "description": "Interact with the blue X-marks on Crux Prime to call down Imagination Blasts.",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/hands/duke%20_exeter_sword.png",
+  "table": []
 }

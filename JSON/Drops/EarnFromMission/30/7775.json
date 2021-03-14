@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7775
+  "itemID": 7775,
+  "name": "Model Reward Bass Guitar",
+  "displayName": "Bass Guitar Model",
+  "description": "A model for your Property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/qb_bass-guitar.png",
+  "table": []
 }

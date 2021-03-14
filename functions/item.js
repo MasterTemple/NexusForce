@@ -7,6 +7,7 @@ module.exports = {
     execute(message, id) {
         const itemID = id
         const item = require(`./../json/Items/${Math.floor(itemID/256)}/${itemID}.json`);
+        const {emojis} = require('./../config.json');
 
         console.log(item)
 
@@ -54,9 +55,9 @@ module.exports = {
             )
         }
         embed.addFields(
-            { name: `<:armor:820200969861857280> Armor`, value: item.Armor, inline: true },
-            { name: '<:heart:820200969803268096> Health', value: item.Health, inline: true },
-            { name: '<:imagination:820200969789767690> Imagination', value: item.Imagination, inline: true },
+            { name: `${emojis.armor} Armor`, value: item.Armor, inline: true },
+            { name: `${emojis.heart} Health`, value: item.Health, inline: true },
+            { name: `${emojis.imagination} Imagination`, value: item.Imagination, inline: true },
         )
 
         if(item.isWeapon === true && item.projectileDamageInfo.projectileDamageCombo === ""){

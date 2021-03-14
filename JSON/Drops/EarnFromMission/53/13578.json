@@ -1,9 +1,13 @@
 {
+  "itemID": 13578,
+  "name": "Delivery Package",
+  "displayName": "Achilles' Shield",
+  "description": "Return this to Achilles Plutarch in Nexus Tower.",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/misc/paper-package.png",
   "table": [
     {
       "missionID": "1449",
       "name": "Meyer's Cap Collection"
     }
-  ],
-  "itemID": 13578
+  ]
 }

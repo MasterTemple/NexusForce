@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12927
+  "itemID": 12927,
+  "name": "Mosaic Wand",
+  "displayName": "Mosaic Wand",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/hands/prismaticwand.png",
+  "table": []
 }

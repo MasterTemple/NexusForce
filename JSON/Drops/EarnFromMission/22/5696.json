@@ -1,10 +1,14 @@
 {
+  "itemID": 5696,
+  "name": "Great Mattock",
+  "displayName": "Great Mattock",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m3841_26.png",
   "table": [
     {
       "missionID": "1242",
       "name": "Murgle Blotch Timesmash 2",
       "objective": "Defeat Murgle Blotch in the Battle of Nimbus Station in less than 3:10."
     }
-  ],
-  "itemID": 5696
+  ]
 }

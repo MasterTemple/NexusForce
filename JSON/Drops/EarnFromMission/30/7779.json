@@ -1,10 +1,14 @@
 {
+  "itemID": 7779,
+  "name": "Clod Chucking Shovel",
+  "displayName": "Clod Chucking Shovel",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m3837_clod.png",
   "table": [
     {
       "missionID": "521",
       "name": "Speed Tamer 1",
       "objective": "Tame a Pet in less than 14 seconds."
     }
-  ],
-  "itemID": 7779
+  ]
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4411
+  "itemID": 4411,
+  "name": "Medium Blue Shirt 23",
+  "displayName": "Girl's Medieval Vest",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_80_102.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4622
+  "itemID": 4622,
+  "name": "Sand Green Shirt 30",
+  "displayName": "Oxford Sweater",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_51_151.png",
+  "table": []
 }

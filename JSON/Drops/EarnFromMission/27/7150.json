@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7150
+  "itemID": 7150,
+  "name": "Test Breastplate of Gravity",
+  "displayName": null,
+  "description": "TEST Chest piece",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/png/m2587.png",
+  "table": []
 }

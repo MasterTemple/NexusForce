@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8495
+  "itemID": 8495,
+  "name": "Exceptional Force Blade",
+  "displayName": "Exceptional Force Blade",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m48495_131.png",
+  "table": []
 }

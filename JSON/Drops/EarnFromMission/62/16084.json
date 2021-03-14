@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 16084
+  "itemID": 16084,
+  "name": "Common Kosode",
+  "displayName": "Common Kosode",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/torsos/minifig_ninjagovillagers.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12318
+  "itemID": 12318,
+  "name": "Test NJ Scroll",
+  "displayName": "Test Ancient Scroll",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/misc/ninjago_scroll.png",
+  "table": []
 }

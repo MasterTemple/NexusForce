@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11571
+  "itemID": 11571,
+  "name": "Model Reward Airport Phone 2",
+  "displayName": "Airport Phone Model 2",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_airport_phone02.png",
+  "table": []
 }

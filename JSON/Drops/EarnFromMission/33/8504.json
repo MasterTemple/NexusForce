@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8504
+  "itemID": 8504,
+  "name": "Improved Longsword",
+  "displayName": "Improved Longsword",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m44493_23.png",
+  "table": []
 }

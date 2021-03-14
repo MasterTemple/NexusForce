@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4269
+  "itemID": 4269,
+  "name": "Dark Stone Grey Shirt 17",
+  "displayName": "Textured Polo Shirt",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_6_199.png",
+  "table": []
 }

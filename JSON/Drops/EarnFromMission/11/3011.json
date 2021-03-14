@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 3011
+  "itemID": 3011,
+  "name": "BBQ Blast Hot Dog",
+  "displayName": "BBQ Blast Hot Dog",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/ag_hotdog.png",
+  "table": []
 }

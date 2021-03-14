@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 16536
+  "itemID": 16536,
+  "name": "Model Reward Monastery Thin Wall Corner",
+  "displayName": "Monastery Thin Wall Corner Model",
+  "description": "A model for your Property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/models/rew_ninjagomonastery_wall_smallcorner.png",
+  "table": []
 }

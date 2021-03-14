@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 14240
+  "itemID": 14240,
+  "name": "Test Offhand of Testing",
+  "displayName": "Test offhand of Testing",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/gem_scepter.png",
+  "table": []
 }

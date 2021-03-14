@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7768
+  "itemID": 7768,
+  "name": "Model Reward Racer Fire Extinguisher",
+  "displayName": "Fire Extinguisher Model",
+  "description": "A model for your Property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_won_gnar_fire_extinguisher.png",
+  "table": []
 }

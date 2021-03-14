@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7546
+  "itemID": 7546,
+  "name": "Samurai Offhand 2",
+  "displayName": "Samurai Bow 2",
+  "description": "Rank 2 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/faction%20kits/samurai_bow_2.png",
+  "table": []
 }

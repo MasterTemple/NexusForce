@@ -1,9 +1,13 @@
 {
+  "itemID": 1879,
+  "name": "Great Katana",
+  "displayName": "Great Katana",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m30173-194.png",
   "table": [
     {
       "missionID": "497",
       "name": "The Cursed Cavalry"
     }
-  ],
-  "itemID": 1879
+  ]
 }

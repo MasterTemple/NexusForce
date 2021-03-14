@@ -1,10 +1,14 @@
 {
+  "itemID": 8678,
+  "name": "Dwarf Helmet",
+  "displayName": "Dwarf Helmet",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m60747_199.png",
   "table": [
     {
       "missionID": "1342",
       "name": "Combat Challenger",
       "objective": "Score 290 damage points at the Combat Challenge in Nexus Tower."
     }
-  ],
-  "itemID": 8678
+  ]
 }

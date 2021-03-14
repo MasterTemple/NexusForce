@@ -1,10 +1,14 @@
 {
+  "itemID": 6930,
+  "name": "Worthy Drumstick of Repulsion",
+  "displayName": "Worthy Drumstick of Repulsion",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/m33057_109.png",
   "table": [
     {
       "missionID": "252",
       "name": "Robo-Repair 2",
       "objective": "Quick Build 50 more smashed Stromling Mechs into turrets."
     }
-  ],
-  "itemID": 6930
+  ]
 }

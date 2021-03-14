@@ -1,9 +1,13 @@
 {
+  "itemID": 6886,
+  "name": "Tasty Fish",
+  "displayName": "Tasty Fish",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/fish_tasty.png",
   "table": [
     {
       "missionID": "382",
       "name": "Lily-Livered"
     }
-  ],
-  "itemID": 6886
+  ]
 }

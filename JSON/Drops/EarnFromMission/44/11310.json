@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11310
+  "itemID": 11310,
+  "name": "Sears Reward Pack",
+  "displayName": "Sears Reward Pack",
+  "description": "Double-click to open this pack of rewards!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_blue.png",
+  "table": []
 }

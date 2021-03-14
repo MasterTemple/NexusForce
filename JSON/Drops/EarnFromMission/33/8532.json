@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8532
+  "itemID": 8532,
+  "name": "Briefcase",
+  "displayName": "Briefcase",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m4449_192.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 2622
+  "itemID": 2622,
+  "name": "Improved Ladle",
+  "displayName": "Improved Ladle",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m4337_131.png",
+  "table": []
 }

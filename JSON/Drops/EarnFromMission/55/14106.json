@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 14106
+  "itemID": 14106,
+  "name": "Stromling Shirt",
+  "displayName": "Stromling Shirt",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/torsos/torsos_stromling.png",
+  "table": []
 }

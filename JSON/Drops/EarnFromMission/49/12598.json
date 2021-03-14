@@ -1,10 +1,14 @@
 {
+  "itemID": 12598,
+  "name": "Witch's Surf-Broom",
+  "displayName": "Witch's Surf-Broom",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/witchessurf-broom.png",
   "table": [
     {
       "missionID": "1245",
       "name": "The Four Riders Timesmash 2",
       "objective": "Defeat the Four Riders of the Maelstrom in the Battle of Nimbus Station in less than 18:00."
     }
-  ],
-  "itemID": 12598
+  ]
 }

@@ -1,10 +1,14 @@
 {
+  "itemID": 6839,
+  "name": "Model Reward Ambient Rat",
+  "displayName": "Rat Model",
+  "description": "Place this animated creature model on your Property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/amb_rat.png",
   "table": [
     {
       "missionID": "454",
       "name": "Pirate Legend 1",
       "objective": "Complete a number of 'Piratey' activities."
     }
-  ],
-  "itemID": 6839
+  ]
 }

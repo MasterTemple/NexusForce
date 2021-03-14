@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11837
+  "itemID": 11837,
+  "name": "Model Reward Spacefort Door Forcefield",
+  "displayName": "Space Fort Forcefield Door Model",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_spacefort_door_forcefield.png",
+  "table": []
 }

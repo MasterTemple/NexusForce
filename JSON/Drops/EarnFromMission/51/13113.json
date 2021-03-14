@@ -1,4 +1,9 @@
 {
+  "itemID": 13113,
+  "name": "FV Gem Surprise Pack",
+  "displayName": "Superior Gem Pack",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_red.png",
   "table": [
     {
       "missionID": "1156",
@@ -53,6 +58,5 @@
       "name": "Just a Fling",
       "objective": "Quick Build 75 more Catapults on the Ninjago Battlefield."
     }
-  ],
-  "itemID": 13113
+  ]
 }

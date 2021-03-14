@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13697
+  "itemID": 13697,
+  "name": "Model Reward Zoo Building Wall Corner ",
+  "displayName": "Zoo Building Wall Corner Model ",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_zoo_building_wall_corner.png",
+  "table": []
 }

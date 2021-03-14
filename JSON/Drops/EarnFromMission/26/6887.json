@@ -1,10 +1,14 @@
 {
+  "itemID": 6887,
+  "name": "Superior Tiki Staff",
+  "displayName": "Superior Tiki Staff",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/gf_tikitorch.png",
   "table": [
     {
       "missionID": "430",
       "name": "Boom Boxes 1",
       "objective": "Smash 25 explosive crates."
     }
-  ],
-  "itemID": 6887
+  ]
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7148
+  "itemID": 7148,
+  "name": "Test Breastplate of Taunting",
+  "displayName": null,
+  "description": "TEST Chest piece",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/png/m2587.png",
+  "table": []
 }

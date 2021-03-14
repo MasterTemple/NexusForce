@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11855
+  "itemID": 11855,
+  "name": "Model Reward Spacefort Wall Short Outside Corner With Radar",
+  "displayName": "Space Fort Short Outside Corner Wall Model",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_spacefort_wall_short_outsidecornerwithradar.png",
+  "table": []
 }

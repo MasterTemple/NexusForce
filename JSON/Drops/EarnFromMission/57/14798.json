@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 14798
+  "itemID": 14798,
+  "name": "Black Katana with Ninja Speed - Proxy",
+  "displayName": "",
+  "description": "offhand for dual wield katana with ninja speed",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m30173_26.png",
+  "table": []
 }

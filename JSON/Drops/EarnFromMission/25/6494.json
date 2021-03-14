@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 6494
+  "itemID": 6494,
+  "name": "NPC Sentinel Scout Spear",
+  "displayName": null,
+  "description": "Spear used by Sentinel Scout NPCs",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m4497_26.png",
+  "table": []
 }

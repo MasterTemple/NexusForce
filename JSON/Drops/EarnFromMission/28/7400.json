@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7400
+  "itemID": 7400,
+  "name": "Buccaneer Weapon 1",
+  "displayName": "Buccaneer Pistol & Cutlass 1",
+  "description": "Rank 1 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/faction%20kits/buccaneer_pistolcutlass_1.png",
+  "table": []
 }

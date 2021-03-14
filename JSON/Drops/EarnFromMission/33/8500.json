@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8500
+  "itemID": 8500,
+  "name": "Quality Woodsman's Axe",
+  "displayName": "Quality Woodsman's Axe",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m4438_26.png",
+  "table": []
 }

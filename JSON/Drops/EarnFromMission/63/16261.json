@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 16261
+  "itemID": 16261,
+  "name": "Lightning Nunchucks Left Hand Proxy",
+  "displayName": null,
+  "description": null,
+  "iconURL": "https://github.com/MasterTemple/lu_bot/blob/master/src/unknown.png?raw=true",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4347
+  "itemID": 4347,
+  "name": "Reddish Brown Shirt 27",
+  "displayName": "Girl's Tank Top",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_42_192.png",
+  "table": []
 }

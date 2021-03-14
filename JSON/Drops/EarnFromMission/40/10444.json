@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10444
+  "itemID": 10444,
+  "name": "Behavior - AG Property Pushback Platform - Touch",
+  "displayName": "AG Property Pushback Platform - Touch Behavior",
+  "description": "A platform that moves up, spins, smashes and rebuilds",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/widget_icon.png",
+  "table": []
 }

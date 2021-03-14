@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7284
+  "itemID": 7284,
+  "name": "Elite Blade of KnockDown",
+  "displayName": "Elite Blade of Knock Down",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m48495_297.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12619
+  "itemID": 12619,
+  "name": "TEST",
+  "displayName": null,
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m61856_sentinel.png",
+  "table": []
 }

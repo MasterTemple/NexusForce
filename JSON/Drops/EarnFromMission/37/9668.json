@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 9668
+  "itemID": 9668,
+  "name": "Model Reward Castle Wall Small 2",
+  "displayName": "Castle Small Wall Model 2",
+  "description": "A model for your Property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_modularcastle-wallsmall2.png",
+  "table": []
 }

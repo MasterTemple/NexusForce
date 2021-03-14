@@ -1,9 +1,13 @@
 {
+  "itemID": 6885,
+  "name": "Stinky Fish",
+  "displayName": "Stinky Fish",
+  "description": "Don't eat it!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/fish_stinky.png",
   "table": [
     {
       "missionID": "460",
       "name": "Fight the Admirals"
     }
-  ],
-  "itemID": 6885
+  ]
 }

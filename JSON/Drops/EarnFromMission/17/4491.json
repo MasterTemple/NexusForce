@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4491
+  "itemID": 4491,
+  "name": "Earth Green Shirt 1",
+  "displayName": "Long Sleeve Shirt",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_1_141.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11853
+  "itemID": 11853,
+  "name": "Model Reward Spacefort Wall Short Inside Corner With Turret",
+  "displayName": "Space Fort Short Inside Corner Wall Model",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_spacefort_wall_short_insidecornerwithturret.png",
+  "table": []
 }

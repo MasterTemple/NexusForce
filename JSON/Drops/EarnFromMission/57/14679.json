@@ -1,4 +1,9 @@
 {
+  "itemID": 14679,
+  "name": "Med Pack",
+  "displayName": "Med Pack",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_blue.png",
   "table": [
     {
       "missionID": "1742",
@@ -18,6 +23,5 @@
       "missionID": "1863",
       "name": "Web of Destruction"
     }
-  ],
-  "itemID": 14679
+  ]
 }

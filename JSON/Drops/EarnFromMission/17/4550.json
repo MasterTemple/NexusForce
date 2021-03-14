@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4550
+  "itemID": 4550,
+  "name": "Brick Yellow Shirt 26",
+  "displayName": "Boy's Tank Top",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_43_5.png",
+  "table": []
 }

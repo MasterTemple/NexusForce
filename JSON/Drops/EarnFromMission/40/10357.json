@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10357
+  "itemID": 10357,
+  "name": "Model Reward Cottage Wall Corner 2",
+  "displayName": "House Wall Corner Model 2",
+  "description": "A model for your Property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_cottage_wall_corner2.png",
+  "table": []
 }

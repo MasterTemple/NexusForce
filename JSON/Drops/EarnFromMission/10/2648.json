@@ -1,10 +1,14 @@
 {
+  "itemID": 2648,
+  "name": "Black Hood",
+  "displayName": "Black Hood",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m30381_26.png",
   "table": [
     {
       "missionID": "845",
       "name": "Preemptive Strike",
       "objective": "Smash 100 Stone Ronin Statues before they wake up."
     }
-  ],
-  "itemID": 2648
+  ]
 }

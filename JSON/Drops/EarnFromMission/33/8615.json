@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8615
+  "itemID": 8615,
+  "name": "EMT Shirt",
+  "displayName": "EMT Shirt",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/reward/m73200_emt.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8638
+  "itemID": 8638,
+  "name": "Powered Armor",
+  "displayName": "Powered Armor",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/back_neck/m30174_23.png",
+  "table": []
 }

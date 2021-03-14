@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 14193
+  "itemID": 14193,
+  "name": "Hatchling Mouse's Cheese - Light Gray",
+  "displayName": "Light Gray Mouse's Cheese",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/icons/rat-cheese.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7523
+  "itemID": 7523,
+  "name": "Shinobi Weapon 1",
+  "displayName": "Shinobi Katana 1",
+  "description": "Rank 1 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/factionkits/shinobi1_sword.png",
+  "table": []
 }

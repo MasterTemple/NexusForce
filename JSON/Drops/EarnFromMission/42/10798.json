@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10798
+  "itemID": 10798,
+  "name": "LUP Model Reward DeerHead",
+  "displayName": "Deer Head Model",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/lup_ajs_deerhead.png",
+  "table": []
 }

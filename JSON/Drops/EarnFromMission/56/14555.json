@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 14555
+  "itemID": 14555,
+  "name": "Rusty Steel Macguffin - fan",
+  "displayName": "Hamster Wheel",
+  "description": "Return this to Rusty Steele in Avant Gardens",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/icons/hamster_wheel.png",
+  "table": []
 }

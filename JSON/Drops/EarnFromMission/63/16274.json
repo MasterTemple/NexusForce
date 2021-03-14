@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 16274
+  "itemID": 16274,
+  "name": "Proxy Ice 1 Ninja Hood - Back/Neck Proxy",
+  "displayName": "Used to consume the back neck slot of the player when the ninja hood is equipped",
+  "description": "Used to consume the back neck slot of the player when the ninja hood is equipped",
+  "iconURL": "https://github.com/MasterTemple/lu_bot/blob/master/src/unknown.png?raw=true",
+  "table": []
 }

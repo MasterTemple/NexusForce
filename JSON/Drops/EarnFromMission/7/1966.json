@@ -1,4 +1,9 @@
 {
+  "itemID": 1966,
+  "name": "Health Banana 1",
+  "displayName": "Healing Banana",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/m330853_24.png",
   "table": [
     {
       "missionID": "228",
@@ -8,6 +13,5 @@
       "missionID": "313",
       "name": "Spider Fighter"
     }
-  ],
-  "itemID": 1966
+  ]
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 2520
+  "itemID": 2520,
+  "name": "Sand Blue Pants",
+  "displayName": "Sand Blue Pants",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/legs/m73200_135.png",
+  "table": []
 }

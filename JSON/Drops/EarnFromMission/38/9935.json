@@ -1,10 +1,14 @@
 {
+  "itemID": 9935,
+  "name": "Rank 2 Buccaneer Book",
+  "displayName": null,
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/misc/book_venture.png",
   "table": [
     {
       "missionID": "1490",
       "name": "The Buccaneer's Gear 1",
       "objective": "Equip all 4 pieces of the Rank 1 Buccaneer gear."
     }
-  ],
-  "itemID": 9935
+  ]
 }

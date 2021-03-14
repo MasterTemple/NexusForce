@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 3391
+  "itemID": 3391,
+  "name": "NPC Turkey Leg",
+  "displayName": null,
+  "description": null,
+  "iconURL": "https://github.com/MasterTemple/lu_bot/blob/master/src/unknown.png?raw=true",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11816
+  "itemID": 11816,
+  "name": "Model Reward Farm Shed Wall Short 3",
+  "displayName": "Farm Shed Wall Short Model 3",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_shed_wall_short_type3.png",
+  "table": []
 }

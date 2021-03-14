@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 16052
+  "itemID": 16052,
+  "name": "NPC Skeleton Head Chopov",
+  "displayName": "NPC Skeleton Head Chopov",
+  "description": "NPC Skeleton Head Chopov",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/png/m2587.png",
+  "table": []
 }

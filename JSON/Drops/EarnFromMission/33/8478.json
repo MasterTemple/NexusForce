@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8478
+  "itemID": 8478,
+  "name": "Elite Fang",
+  "displayName": "Elite Fang",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m59229_131.png",
+  "table": []
 }

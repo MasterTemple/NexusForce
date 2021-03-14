@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4445
+  "itemID": 4445,
+  "name": "Dark Red Shirt 23",
+  "displayName": "Girl's Medieval Vest",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_80_154.png",
+  "table": []
 }

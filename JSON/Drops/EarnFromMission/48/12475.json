@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12475
+  "itemID": 12475,
+  "name": "NT- sabertooth cat token",
+  "displayName": "Fossilized Pet Bone",
+  "description": "Return this to Dr. Overbuild.",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/misc/pq_sabercat.png",
+  "table": []
 }

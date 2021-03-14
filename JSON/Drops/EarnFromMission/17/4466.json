@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4466
+  "itemID": 4466,
+  "name": "Earth Blue Shirt 10",
+  "displayName": "Striped Zipper Jacket",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_28_140.png",
+  "table": []
 }

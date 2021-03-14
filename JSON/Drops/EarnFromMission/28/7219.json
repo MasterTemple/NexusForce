@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7219
+  "itemID": 7219,
+  "name": "NPC Banana Gun",
+  "displayName": null,
+  "description": "For use with treeMonkey",
+  "iconURL": "https://github.com/MasterTemple/lu_bot/blob/master/src/unknown.png?raw=true",
+  "table": []
 }

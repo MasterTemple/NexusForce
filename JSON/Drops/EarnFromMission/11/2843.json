@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 2843
+  "itemID": 2843,
+  "name": "Test Pink Wizard Hat",
+  "displayName": "Test Pink Wizard Hat",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m6131_24.png",
+  "table": []
 }

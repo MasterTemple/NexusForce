@@ -1,10 +1,14 @@
 {
+  "itemID": 7747,
+  "name": "Construction Shirt",
+  "displayName": "Overalls",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_112_106.png",
   "table": [
     {
       "missionID": "1367",
       "name": "Creative Flow 2",
       "objective": "Quick Build any of the Imagination pipes in Nexus Tower 20 more times."
     }
-  ],
-  "itemID": 7747
+  ]
 }

@@ -1,10 +1,14 @@
 {
+  "itemID": 2589,
+  "name": "Celebration Wand",
+  "displayName": "Celebration Wand",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m6124_44.png",
   "table": [
     {
       "missionID": "181",
       "name": "Monument Gold Medal",
       "objective": "Complete the Monument Obstacle Course in 60 seconds or less."
     }
-  ],
-  "itemID": 2589
+  ]
 }

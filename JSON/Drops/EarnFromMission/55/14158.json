@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 14158
+  "itemID": 14158,
+  "name": "NPC Maelstrom Bone",
+  "displayName": "NPC Maelstrom Bone",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m30173_199.png",
+  "table": []
 }

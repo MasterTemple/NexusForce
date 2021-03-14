@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8529
+  "itemID": 8529,
+  "name": "Kite Shield 2",
+  "displayName": "Scorpion Shield",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m2586_scorpion.png",
+  "table": []
 }

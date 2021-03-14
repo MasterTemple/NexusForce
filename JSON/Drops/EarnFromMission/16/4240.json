@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4240
+  "itemID": 4240,
+  "name": "Black Shirt 22",
+  "displayName": "Green Coveralls",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_79_26.png",
+  "table": []
 }

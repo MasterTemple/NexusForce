@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13389
+  "itemID": 13389,
+  "name": "NPC Vampire Hair Vendor",
+  "displayName": "NPC Vampire Hair Vendor",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/factionkits/adventurer3_hat.png",
+  "table": []
 }

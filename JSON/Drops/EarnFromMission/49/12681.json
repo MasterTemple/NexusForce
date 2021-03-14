@@ -1,10 +1,14 @@
 {
+  "itemID": 12681,
+  "name": "Ogre Scutum",
+  "displayName": "Ogre-Jaw Shield",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/hands/scutumshield_skull.png",
   "table": [
     {
       "missionID": "1130",
       "name": "Crux Prime Bonesmasher 2",
       "objective": "Smash 125 more Skeletons on Crux Prime."
     }
-  ],
-  "itemID": 12681
+  ]
 }

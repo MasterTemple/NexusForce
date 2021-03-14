@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12315
+  "itemID": 12315,
+  "name": "Great Crescent Wrench",
+  "displayName": "Great Crescent Wrench",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m4006_26.png",
+  "table": []
 }

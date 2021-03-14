@@ -1,10 +1,14 @@
 {
+  "itemID": 12094,
+  "name": "White Neckerchief",
+  "displayName": "White Neckerchief",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/back_neck/m30133_01.png",
   "table": [
     {
       "missionID": "1230",
       "name": "The Curse of Murgle Blotch 1",
       "objective": "Defeat Murgle Blotch in the Battle of Nimbus Station 50 times."
     }
-  ],
-  "itemID": 12094
+  ]
 }

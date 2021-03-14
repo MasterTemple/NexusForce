@@ -1,10 +1,14 @@
 {
+  "itemID": 15991,
+  "name": "Blue O-Yoroi",
+  "displayName": "Blue O-Yoroi",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/back_neck/m30174_23.png",
   "table": [
     {
       "missionID": "2019",
       "name": "Tastes Like Genius 3!",
       "objective": "Craft 50 more of any of Johnny Umami's special recipes."
     }
-  ],
-  "itemID": 15991
+  ]
 }

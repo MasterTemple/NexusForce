@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12776
+  "itemID": 12776,
+  "name": "Super Scimitar",
+  "displayName": "Super Scimitar",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m43887_21.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12956
+  "itemID": 12956,
+  "name": "Daredevil Chest 3 Color Variant",
+  "displayName": "Daredevil Jacket 3",
+  "description": "Rank 3 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/faction%20kits/torsos_fackit_daredevil3_var.png",
+  "table": []
 }

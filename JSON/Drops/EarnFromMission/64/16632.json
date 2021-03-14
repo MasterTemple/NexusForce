@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 16632
+  "itemID": 16632,
+  "name": "Maelstrom Dagger First mission",
+  "displayName": "Maelstrom Dagger",
+  "description": "The Skeletons forged this from pure Maelstrom!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/hands/maelstrombigdagger.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 1272
+  "itemID": 1272,
+  "name": "Test Chargeup Hammer",
+  "displayName": null,
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m4522_26.png",
+  "table": []
 }

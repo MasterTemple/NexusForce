@@ -1,9 +1,13 @@
 {
+  "itemID": 14736,
+  "name": "Purified Blacksmith's Hammer",
+  "displayName": "Purified Blacksmith's Hammer",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/hands/hammer.png",
   "table": [
     {
       "missionID": "2024",
       "name": "Maelstrom Weapons Part 1"
     }
-  ],
-  "itemID": 14736
+  ]
 }

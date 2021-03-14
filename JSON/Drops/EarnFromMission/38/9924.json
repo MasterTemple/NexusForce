@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 9924
+  "itemID": 9924,
+  "name": "Model Reward Fort Stable",
+  "displayName": "Fort Stable Model",
+  "description": "A model for your Property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_modularfort-wallstable.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12718
+  "itemID": 12718,
+  "name": "Elite Broadsword",
+  "displayName": "Elite Broadsword",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m48495_131.png",
+  "table": []
 }

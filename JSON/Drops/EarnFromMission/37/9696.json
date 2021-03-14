@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 9696
+  "itemID": 9696,
+  "name": "Nexus Astronaut Shirt",
+  "displayName": "Nexus Astronaut Shirt",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/m73200_nexus.png",
+  "table": []
 }

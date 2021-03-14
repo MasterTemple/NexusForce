@@ -1,9 +1,13 @@
 {
+  "itemID": 6086,
+  "name": "UGG - Thinking Hat",
+  "displayName": "Thinking Hat",
+  "description": "Wear this hat to start building!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/thinking_hat.png",
   "table": [
     {
       "missionID": "308",
       "name": "Not Enough Lifepods?"
     }
-  ],
-  "itemID": 6086
+  ]
 }

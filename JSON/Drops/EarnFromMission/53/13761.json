@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13761
+  "itemID": 13761,
+  "name": "Horseman Disguise Shirt Proxy",
+  "displayName": "Horseman Disguise Shirt Proxy",
+  "description": "Usedin Nexus Tower Mission Chains",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/torsos/torsos_ronindisguise.png",
+  "table": []
 }

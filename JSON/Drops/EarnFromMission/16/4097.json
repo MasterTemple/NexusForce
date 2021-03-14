@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4097
+  "itemID": 4097,
+  "name": "Bright Blue Shirt 15",
+  "displayName": "Shirt with Vest",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_8_23.png",
+  "table": []
 }

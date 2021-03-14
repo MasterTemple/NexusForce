@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12712
+  "itemID": 12712,
+  "name": "Biking Jersey",
+  "displayName": "Biking Jersey",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/torsos/torsos_bikerwomans.png",
+  "table": []
 }

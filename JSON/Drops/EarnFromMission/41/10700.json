@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10700
+  "itemID": 10700,
+  "name": "Brickmaster Model Pack",
+  "displayName": "Brickmaster Model Pack",
+  "description": "Double-click to open this pack of models!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_blue.png",
+  "table": []
 }

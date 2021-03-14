@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13719
+  "itemID": 13719,
+  "name": "Model Reward Safari Termite Mound ",
+  "displayName": "Safari Termite Mound Model ",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_safari-termitemound.png",
+  "table": []
 }

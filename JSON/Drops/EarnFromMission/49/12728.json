@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12728
+  "itemID": 12728,
+  "name": "Elite Javelin",
+  "displayName": "Elite Javelin",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/hands/javelin.png",
+  "table": []
 }

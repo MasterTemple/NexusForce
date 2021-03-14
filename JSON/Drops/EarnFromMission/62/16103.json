@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 16103
+  "itemID": 16103,
+  "name": "Midori Gi Pants",
+  "displayName": "Midori Gi Pants",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/legs/minifig_greenninjagilegs.png",
+  "table": []
 }

@@ -1,10 +1,14 @@
 {
+  "itemID": 9629,
+  "name": "Model Reward King Leo Castle",
+  "displayName": "King Leo's Castle Model",
+  "description": "A model for your Property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_kingleoscastle.png",
   "table": [
     {
       "missionID": "97",
       "name": "A Worthy Builder",
       "objective": "Complete 10,000 more Quick Builds."
     }
-  ],
-  "itemID": 9629
+  ]
 }

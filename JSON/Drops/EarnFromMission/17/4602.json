@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4602
+  "itemID": 4602,
+  "name": "Sand Green Shirt 10",
+  "displayName": "Striped Zipper Jacket",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_28_151.png",
+  "table": []
 }

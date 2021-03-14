@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4052
+  "itemID": 4052,
+  "name": "Bright Red Shirt 4",
+  "displayName": "Open Collar Shirt",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_3_21.png",
+  "table": []
 }

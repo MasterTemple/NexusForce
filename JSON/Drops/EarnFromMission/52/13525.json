@@ -1,10 +1,14 @@
 {
+  "itemID": 13525,
+  "name": "Scanning Helm",
+  "displayName": "Scanning Helm",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/hats/minerhelmwithvisor3.png",
   "table": [
     {
       "missionID": "1447",
       "name": "Nexus Tower Builder 6",
       "objective": "Donate 10,000 bricks to the Nexus Jawbox in Nimbus Station."
     }
-  ],
-  "itemID": 13525
+  ]
 }

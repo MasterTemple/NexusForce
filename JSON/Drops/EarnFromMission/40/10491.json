@@ -1,10 +1,14 @@
 {
+  "itemID": 10491,
+  "name": "Behavior - Damage",
+  "displayName": "Damage Behavior",
+  "description": "Drains the Life of a player every second while touching the model.",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/behaviors/causedamage.png",
   "table": [
     {
       "missionID": "883",
       "name": "Behaviors 4",
       "objective": "Claim a Property in Forbidden Valley."
     }
-  ],
-  "itemID": 10491
+  ]
 }

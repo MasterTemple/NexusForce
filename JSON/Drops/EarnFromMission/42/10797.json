@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10797
+  "itemID": 10797,
+  "name": "LUP Model Reward ChinaCabinet",
+  "displayName": "China Cabinet Model",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/lup_ajs_chinacabinet.png",
+  "table": []
 }

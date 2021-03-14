@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8522
+  "itemID": 8522,
+  "name": "NPC Coalessa Hair",
+  "displayName": null,
+  "description": "NPC Coalessa Hair",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/custom_flower_hat.png",
+  "table": []
 }

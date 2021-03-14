@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4623
+  "itemID": 4623,
+  "name": "Sand Green Shirt 31",
+  "displayName": "Number 5 Jersey",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_41_151.png",
+  "table": []
 }

@@ -1,9 +1,13 @@
 {
+  "itemID": 14837,
+  "name": "Purified Double-Axe",
+  "displayName": "Purified Double-Axe",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/hands/copperdoubleboneaxe.png",
   "table": [
     {
       "missionID": "2027",
       "name": "Maelstrom Weapons Part 4"
     }
-  ],
-  "itemID": 14837
+  ]
 }

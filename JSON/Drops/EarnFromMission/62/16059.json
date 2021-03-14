@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 16059
+  "itemID": 16059,
+  "name": "Exploding Ninjago Kunai",
+  "displayName": "Exploding Ninjago Kunai",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/misc/exploding_kunai.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 5628
+  "itemID": 5628,
+  "name": "Test Rangers Elite Long Bow",
+  "displayName": null,
+  "description": "bad offset",
+  "iconURL": "https://github.com/MasterTemple/lu_bot/blob/master/src/unknown.png?raw=true",
+  "table": []
 }

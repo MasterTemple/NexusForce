@@ -1,10 +1,14 @@
 {
+  "itemID": 6799,
+  "name": "First Mate's Shirt 2 - Bare Chest",
+  "displayName": "First Mate's Vest",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/m73200_firstmate_shirt_b.png",
   "table": [
     {
       "missionID": "435",
       "name": "For Pirates Only 1",
       "objective": "Use a 'Pirates Only' Quick Build 10 times."
     }
-  ],
-  "itemID": 6799
+  ]
 }

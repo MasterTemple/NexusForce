@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4379
+  "itemID": 4379,
+  "name": "White Shirt 25",
+  "displayName": "Medieval Rags",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_82_1.png",
+  "table": []
 }

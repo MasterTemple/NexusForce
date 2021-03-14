@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10701
+  "itemID": 10701,
+  "name": "Lego Club Proxy Pants",
+  "displayName": "LEGO Club Proxy Pants",
+  "description": "Pants object created dynamically by lot:9875",
+  "iconURL": "https://xiphoseer.github.io/lu-res/",
+  "table": []
 }

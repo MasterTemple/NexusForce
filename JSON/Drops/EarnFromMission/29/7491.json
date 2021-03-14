@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7491
+  "itemID": 7491,
+  "name": "Space Ranger Legs 2",
+  "displayName": "Space Ranger Pants 2",
+  "description": "Rank 2 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/factionkits/legs_spaceranger2.png",
+  "table": []
 }

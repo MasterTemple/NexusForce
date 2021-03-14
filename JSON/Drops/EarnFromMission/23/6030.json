@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 6030
+  "itemID": 6030,
+  "name": "Model Reward Mushroom 4",
+  "displayName": "Large Mushroom Model",
+  "description": "A model for your Property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_mushroom04.png",
+  "table": []
 }

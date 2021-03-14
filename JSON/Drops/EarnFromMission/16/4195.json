@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4195
+  "itemID": 4195,
+  "name": "Bright Orange Shirt 11",
+  "displayName": "Rumpled Jacket",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_77_106.png",
+  "table": []
 }

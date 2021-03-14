@@ -1,10 +1,14 @@
 {
+  "itemID": 9561,
+  "name": "Model Reward Ninja Gate",
+  "displayName": "Ninja Gate Model",
+  "description": "A model for your Property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_asiangateway.png",
   "table": [
     {
       "missionID": "18",
       "name": "Smashing Success",
       "objective": "Smash 10,000 more smashables."
     }
-  ],
-  "itemID": 9561
+  ]
 }

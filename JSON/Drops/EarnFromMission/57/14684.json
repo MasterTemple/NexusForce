@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 14684
+  "itemID": 14684,
+  "name": "Flowing Katana",
+  "displayName": "Flowing Katana",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m30173_23.png",
+  "table": []
 }

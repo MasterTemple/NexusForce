@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8531
+  "itemID": 8531,
+  "name": "Heater Shield",
+  "displayName": "Heater Shield",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m3846_dragon.png",
+  "table": []
 }

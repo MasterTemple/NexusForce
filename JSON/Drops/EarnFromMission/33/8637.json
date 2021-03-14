@@ -1,10 +1,14 @@
 {
+  "itemID": 8637,
+  "name": "Breastplate of Armored Inspiration",
+  "displayName": "Breastplate of Armored Inspiration",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/back_neck/m2587_154.png",
   "table": [
     {
       "missionID": "246",
       "name": "Avant Guardian",
       "objective": "Smash 5000 more Stromlings."
     }
-  ],
-  "itemID": 8637
+  ]
 }

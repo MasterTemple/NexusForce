@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 6851
+  "itemID": 6851,
+  "name": "Worthy Knife",
+  "displayName": "Worthy Knife",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m44658_131.png",
+  "table": []
 }

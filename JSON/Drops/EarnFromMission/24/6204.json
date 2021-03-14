@@ -1,10 +1,14 @@
 {
+  "itemID": 6204,
+  "name": "Great Scimitar of Rooting",
+  "displayName": "Great Scimitar of Rooting",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m43887_23.png",
   "table": [
     {
       "missionID": "854",
       "name": "Lead the Charge",
       "objective": "Lead 100 Maelstrom Horsemen to Brick Fury so he can smash them."
     }
-  ],
-  "itemID": 6204
+  ]
 }

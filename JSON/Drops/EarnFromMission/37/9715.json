@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 9715
+  "itemID": 9715,
+  "name": "Maelstrom Goo",
+  "displayName": "Maelstrom Goo",
+  "description": "Return this to Epsilon Starcracker!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/common/maelstrom_infected.png",
+  "table": []
 }

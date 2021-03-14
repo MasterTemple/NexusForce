@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10762
+  "itemID": 10762,
+  "name": "Model Reward Fortress Large Wall",
+  "displayName": "Fortress Large Wall Model",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_ninjafortress-largewall.png",
+  "table": []
 }

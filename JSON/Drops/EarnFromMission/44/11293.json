@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11293
+  "itemID": 11293,
+  "name": "NPC Grunt Armor Red",
+  "displayName": "",
+  "description": "NPC Grunt Armor Red",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m3833_24.png",
+  "table": []
 }

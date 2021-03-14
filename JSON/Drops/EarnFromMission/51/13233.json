@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13233
+  "itemID": 13233,
+  "name": "Model Reward Summoning Stone Model",
+  "displayName": "Summoning Stone Model",
+  "description": "This model contains behaviors!",
+  "iconURL": "https://github.com/MasterTemple/lu_bot/blob/master/src/unknown.png?raw=true",
+  "table": []
 }

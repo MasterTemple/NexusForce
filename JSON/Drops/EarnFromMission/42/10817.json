@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10817
+  "itemID": 10817,
+  "name": "LUP Model Reward Doghouse",
+  "displayName": "Dog House Model",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/lup_dh_doghouse.png",
+  "table": []
 }

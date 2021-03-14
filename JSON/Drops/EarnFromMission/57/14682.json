@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 14682
+  "itemID": 14682,
+  "name": "Shimmering Katana",
+  "displayName": "Shimmering Katana",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m30173_01.png",
+  "table": []
 }

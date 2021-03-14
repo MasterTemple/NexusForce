@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4570
+  "itemID": 4570,
+  "name": "Sand Blue Shirt 12",
+  "displayName": "Casual Suit",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_78_135.png",
+  "table": []
 }

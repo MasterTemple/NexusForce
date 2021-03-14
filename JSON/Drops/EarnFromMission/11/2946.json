@@ -1,10 +1,14 @@
 {
+  "itemID": 2946,
+  "name": "Rhymin and Buildin Boombox",
+  "displayName": "Boom Box",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/misc/beatbox.png",
   "table": [
     {
       "missionID": "256",
       "name": "Musical Repair 1",
       "objective": "Quick Build all 4 instruments at the Red Blocks concert in Nimbus Station."
     }
-  ],
-  "itemID": 2946
+  ]
 }

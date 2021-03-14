@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11010
+  "itemID": 11010,
+  "name": "BEHAVIOR - FV Property Pushback - Spike Platform",
+  "displayName": "BEHAVIOR - FV Property Pushback - Spike Platform",
+  "description": "Spike Platform Behavior - For ND use only.",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/golden_brick.png",
+  "table": []
 }

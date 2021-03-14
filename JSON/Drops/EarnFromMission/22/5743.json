@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 5743
+  "itemID": 5743,
+  "name": "Bright Yellow Shirt 36",
+  "displayName": "Mission Giver Shirt",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_46_24.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11537
+  "itemID": 11537,
+  "name": "Model Reward Airport Barrier 1",
+  "displayName": "Airport Barrier Model 1",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_airport_barrier01.png",
+  "table": []
 }

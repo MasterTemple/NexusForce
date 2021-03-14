@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4138
+  "itemID": 4138,
+  "name": "Bright Yellow Shirt 22",
+  "displayName": "Green Coveralls",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_79_24.png",
+  "table": []
 }

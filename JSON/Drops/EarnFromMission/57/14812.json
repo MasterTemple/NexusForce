@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 14812
+  "itemID": 14812,
+  "name": "Yellow Cape",
+  "displayName": "Yellow Cape",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/icons/cape_yellow.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10436
+  "itemID": 10436,
+  "name": "Improved Scythe",
+  "displayName": "Improved Scythe of Whirlwind",
+  "description": "Two-Handed Weapon",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/acc_scythe.png",
+  "table": []
 }

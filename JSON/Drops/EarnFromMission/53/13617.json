@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13617
+  "itemID": 13617,
+  "name": "Shard Armor",
+  "displayName": "Shard Armor",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/misc/shardarmor_master.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10873
+  "itemID": 10873,
+  "name": "LUP Model Reward SandCastle",
+  "displayName": "Sand Castle Model",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/lup_ld_sandcastle.png",
+  "table": []
 }

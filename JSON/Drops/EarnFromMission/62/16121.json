@@ -1,10 +1,14 @@
 {
+  "itemID": 16121,
+  "name": "Kuro Hakama",
+  "displayName": "Kuro Hakama",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/legs/minifig_blackhakamalegs.png",
   "table": [
     {
       "missionID": "1981",
       "name": "Skullcracker 2",
       "objective": "Smash 50 more Skeletons of any type in Ninjago."
     }
-  ],
-  "itemID": 16121
+  ]
 }

@@ -1,10 +1,14 @@
 {
+  "itemID": 13623,
+  "name": "Micro City Model Pack 1",
+  "displayName": "Micro City Model Pack 1",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_black.png",
   "table": [
     {
       "missionID": "1201",
       "name": "The Visitor 3",
       "objective": "Visit 150 more Properties that you have not previously visited, on any world."
     }
-  ],
-  "itemID": 13623
+  ]
 }

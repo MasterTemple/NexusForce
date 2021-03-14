@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10464
+  "itemID": 10464,
+  "name": "NPC Strombie Mace",
+  "displayName": "Strombie Mace",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/ag_spear.png",
+  "table": []
 }

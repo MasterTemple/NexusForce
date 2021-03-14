@@ -1,10 +1,14 @@
 {
+  "itemID": 6932,
+  "name": "Wizard's Hat of Whirlwind 1",
+  "displayName": "Wizard's Hat of Whirlwind",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m6131_23.png",
   "table": [
     {
       "missionID": "403",
       "name": "Pest Control",
       "objective": "Smash 100 Survival Spiders."
     }
-  ],
-  "itemID": 6932
+  ]
 }

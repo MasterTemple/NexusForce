@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11798
+  "itemID": 11798,
+  "name": "Model Rewared Office Stapler",
+  "displayName": "Office Stapler Model",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_office_stapler.png",
+  "table": []
 }

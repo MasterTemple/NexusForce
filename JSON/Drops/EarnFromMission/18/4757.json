@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4757
+  "itemID": 4757,
+  "name": "Test LEGO Factory Minifigure",
+  "displayName": null,
+  "description": "Used for a demo only",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/missioncomics/wonderland/avant_gardens/hud_icons/minifig_factory_icon.png",
+  "table": []
 }

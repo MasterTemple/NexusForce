@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4395
+  "itemID": 4395,
+  "name": "Medium Blue Shirt 7",
+  "displayName": "Coveralls",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_75_102.png",
+  "table": []
 }

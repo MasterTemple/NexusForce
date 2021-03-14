@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8456
+  "itemID": 8456,
+  "name": "Knight Neck/Back 2",
+  "displayName": "Knight Shoulderpads 2",
+  "description": "Rank 2 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/faction%20kits/knight_shoulder_2.png",
+  "table": []
 }

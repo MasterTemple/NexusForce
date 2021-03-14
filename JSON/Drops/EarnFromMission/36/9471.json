@@ -1,10 +1,14 @@
 {
+  "itemID": 9471,
+  "name": "Paragon Car 3 Package Green",
+  "displayName": "Paragon Warp Package",
+  "description": "Double-click to open this pack of car modules!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_green.png",
   "table": [
     {
       "missionID": "673",
       "name": "Vertigo Loop Racemaster",
       "objective": "Complete all 7 Vertigo Loop Racing Achievements."
     }
-  ],
-  "itemID": 9471
+  ]
 }

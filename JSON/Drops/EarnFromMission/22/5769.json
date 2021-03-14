@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 5769
+  "itemID": 5769,
+  "name": "Dark Stone Grey Shirt 38",
+  "displayName": "Minifigure Shirt",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_45_199.png",
+  "table": []
 }

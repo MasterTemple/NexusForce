@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11312
+  "itemID": 11312,
+  "name": "Amazon Reward Pack",
+  "displayName": "Amazon Reward Pack",
+  "description": "Double-click to open this pack of rewards!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_blue.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 16148
+  "itemID": 16148,
+  "name": "Maelstrom Bone Dagger",
+  "displayName": "Maelstrom Bone Dagger",
+  "description": "The Skeletons forged this from pure Maelstrom!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/hands/maelstromdoubledagger.png",
+  "table": []
 }

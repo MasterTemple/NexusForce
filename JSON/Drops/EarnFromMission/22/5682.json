@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 5682
+  "itemID": 5682,
+  "name": "Black Neck Scarf",
+  "displayName": "Black Neck Scarf",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/back_neck/m30133_26.png",
+  "table": []
 }

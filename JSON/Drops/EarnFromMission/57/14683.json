@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 14683
+  "itemID": 14683,
+  "name": "Fury Katana",
+  "displayName": "Fury Katana",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m30173_21.png",
+  "table": []
 }

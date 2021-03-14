@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7550
+  "itemID": 7550,
+  "name": "Space Marauder Offhand 3",
+  "displayName": "Space Marauder Launcher 3",
+  "description": "Rank 3 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/faction%20kits/spacemaurader_launcher_3.png",
+  "table": []
 }

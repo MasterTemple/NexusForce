@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7010
+  "itemID": 7010,
+  "name": "Test UGG - Thinking Hat Level 3",
+  "displayName": "Thinking Hat Level 3",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m3878_26.png",
+  "table": []
 }

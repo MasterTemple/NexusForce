@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 6301
+  "itemID": 6301,
+  "name": "Blue Chassis",
+  "displayName": "Blue Chassis",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_46_154.png",
+  "table": []
 }

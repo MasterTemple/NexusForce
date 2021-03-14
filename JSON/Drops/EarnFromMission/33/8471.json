@@ -1,10 +1,14 @@
 {
+  "itemID": 8471,
+  "name": "Great Katana of Freezing",
+  "displayName": "Great Katana of Freezing",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m30173_21.png",
   "table": [
     {
       "missionID": "796",
       "name": "Ninja Warlord 1",
       "objective": "Smash 3 Maelstrom Dragons."
     }
-  ],
-  "itemID": 8471
+  ]
 }

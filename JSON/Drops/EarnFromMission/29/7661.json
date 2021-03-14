@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7661
+  "itemID": 7661,
+  "name": "Test Yegge Banana",
+  "displayName": null,
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/missioncomics/wonderland/gnarled_forest/hud_icons/mission_386.png",
+  "table": []
 }

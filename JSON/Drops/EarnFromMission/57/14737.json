@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 14737
+  "itemID": 14737,
+  "name": "Heavy Spear Proxy",
+  "displayName": "Bone Axe Proxy",
+  "description": "Bone Axe Proxy",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/faction%20kits/summoner_vest_3_variant.png",
+  "table": []
 }

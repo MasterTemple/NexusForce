@@ -1,10 +1,14 @@
 {
+  "itemID": 5844,
+  "name": "Stromling Defeater Shirt",
+  "displayName": "Stromling Defeater Shirt",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/m73200_ag_darkling_defeater.png",
   "table": [
     {
       "missionID": "296",
       "name": "Paradox Protector",
       "objective": "Smash 1000 more Stromlings, 1000 more Stromling Mechs, and 1000 more Dark Spiderlings."
     }
-  ],
-  "itemID": 5844
+  ]
 }

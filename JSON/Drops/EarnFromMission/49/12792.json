@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12792
+  "itemID": 12792,
+  "name": "Harlequin Costume Legs",
+  "displayName": "Harlequin Costume Legs",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/legs/legs_harlequinsuit.png",
+  "table": []
 }

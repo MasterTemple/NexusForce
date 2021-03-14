@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12316
+  "itemID": 12316,
+  "name": "Cutlass of Blocking",
+  "displayName": "Cutlass of Blocking",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m2530_26.png",
+  "table": []
 }

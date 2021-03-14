@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8587
+  "itemID": 8587,
+  "name": "Pet Elephant Shirt",
+  "displayName": "Pet Elephant Shirt",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/pet/m73200_elephant.png",
+  "table": []
 }

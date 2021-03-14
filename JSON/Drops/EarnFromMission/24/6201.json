@@ -1,10 +1,14 @@
 {
+  "itemID": 6201,
+  "name": "Thirst Quencher Consumable",
+  "displayName": "Thirst Quencher",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/ag_imagination_drink.png",
   "table": [
     {
       "missionID": "286",
       "name": "Get Fit!",
       "objective": "Try the Monument Obstacle Course challenge!"
     }
-  ],
-  "itemID": 6201
+  ]
 }

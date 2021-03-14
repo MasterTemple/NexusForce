@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12608
+  "itemID": 12608,
+  "name": "NPC Paradox Scout Staff",
+  "displayName": "NPC Paradox Scout Staff",
+  "description": "Paradox ScoutStaff",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m2530_26.png",
+  "table": []
 }

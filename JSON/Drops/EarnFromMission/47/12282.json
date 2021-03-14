@@ -1,10 +1,14 @@
 {
+  "itemID": 12282,
+  "name": "Winter Model Giftbox",
+  "displayName": "Winter Model Giftbox",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_winter_02.png",
   "table": [
     {
       "missionID": "1041",
       "name": "Frostburgh Achiever 1",
       "objective": "Complete 10 non-daily missions or achievements in Frostburgh."
     }
-  ],
-  "itemID": 12282
+  ]
 }

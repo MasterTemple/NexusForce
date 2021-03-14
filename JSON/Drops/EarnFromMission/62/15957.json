@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 15957
+  "itemID": 15957,
+  "name": "Ninjago Spear on ninja hood Proxy",
+  "displayName": "Spear Proxy Ninjago",
+  "description": "Spear Proxy Ninjago",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/acc_javelin.png",
+  "table": []
 }

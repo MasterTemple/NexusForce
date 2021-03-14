@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12389
+  "itemID": 12389,
+  "name": "Sentry Translator",
+  "displayName": "",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/7850.png",
+  "table": []
 }

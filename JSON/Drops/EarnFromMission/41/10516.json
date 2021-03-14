@@ -1,10 +1,14 @@
 {
+  "itemID": 10516,
+  "name": "Pirate Fort Model Pack 4",
+  "displayName": "Pirate Fort Model Pack 4",
+  "description": "Double-click to open this pack of models!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_blue.png",
   "table": [
     {
       "missionID": "449",
       "name": "Gnarled Forest Achiever 2",
       "objective": "Complete 10 more Missions or Achievements in Gnarled Forest, for a total of 20."
     }
-  ],
-  "itemID": 10516
+  ]
 }

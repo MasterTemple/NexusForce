@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13666
+  "itemID": 13666,
+  "name": "Model Reward Zoo Fence Rock Straight 2 ",
+  "displayName": "Zoo Straight Rock Fence Model 2",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_zoo_fence_rock_straight_02.png",
+  "table": []
 }

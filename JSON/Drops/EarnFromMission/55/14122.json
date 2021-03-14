@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 14122
+  "itemID": 14122,
+  "name": "Skyme's Blunderbuss",
+  "displayName": "Skyme's Blunderbuss",
+  "description": "Requires Imagination to fire.",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m2561_26.png",
+  "table": []
 }

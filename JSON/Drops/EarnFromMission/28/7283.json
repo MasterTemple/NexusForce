@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7283
+  "itemID": 7283,
+  "name": "Elite Saw of Drowsiness",
+  "displayName": "Elite Saw of Drowsiness",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m6117_102.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 5828
+  "itemID": 5828,
+  "name": "Sand Green Shirt 37",
+  "displayName": "Raincloud Shirt",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_36_151.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8584
+  "itemID": 8584,
+  "name": "Pet Crab Shirt",
+  "displayName": "Pet Crab Shirt",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/pet/m73200_crab.png",
+  "table": []
 }

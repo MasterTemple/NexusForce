@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4527
+  "itemID": 4527,
+  "name": "Brick Yellow Shirt 3",
+  "displayName": "Checkered Shirt",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_72_5.png",
+  "table": []
 }

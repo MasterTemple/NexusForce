@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 16553
+  "itemID": 16553,
+  "name": "TEST OwlPack",
+  "displayName": null,
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/icons/owl_brown.png",
+  "table": []
 }

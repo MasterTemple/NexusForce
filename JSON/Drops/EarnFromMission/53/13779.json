@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13779
+  "itemID": 13779,
+  "name": "NPC Nexus Naomi Helmet",
+  "displayName": "NPC Nexus Naomi Helmet",
+  "description": "NPC Nexus Niaomi Helmet",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/squireshelm.png",
+  "table": []
 }

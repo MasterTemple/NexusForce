@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11622
+  "itemID": 11622,
+  "name": "Model Reward Construction Barricade 2",
+  "displayName": "Construction Barricade 2 Model",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_construction_barricade02.png",
+  "table": []
 }

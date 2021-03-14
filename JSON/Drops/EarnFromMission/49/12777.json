@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12777
+  "itemID": 12777,
+  "name": "Battle Bread",
+  "displayName": "Battle Bread",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/misc/battlebread.png",
+  "table": []
 }

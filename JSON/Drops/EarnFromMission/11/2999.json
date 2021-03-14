@@ -1,4 +1,9 @@
 {
+  "itemID": 2999,
+  "name": "Potion of Imagination 3",
+  "displayName": "Super Notion Potion",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/potion_red.png",
   "table": [
     {
       "missionID": "966",
@@ -9,6 +14,5 @@
       "name": "Creative Flow",
       "objective": "Quick Build any of the Imagination pipes in Nexus Tower 40 more times."
     }
-  ],
-  "itemID": 2999
+  ]
 }

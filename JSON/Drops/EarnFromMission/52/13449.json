@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13449
+  "itemID": 13449,
+  "name": "Charging Rhino Behavior",
+  "displayName": "Charging Rhino Behavior",
+  "description": "A behavior that causes a model to charge when a player gets close.",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_bvr_rhino.png",
+  "table": []
 }

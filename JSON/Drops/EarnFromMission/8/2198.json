@@ -1,4 +1,9 @@
 {
+  "itemID": 2198,
+  "name": "Potion of Imagination 1",
+  "displayName": "Notion Potion",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/potion_blue.png",
   "table": [
     {
       "missionID": "477",
@@ -8,6 +13,5 @@
       "missionID": "1007",
       "name": "A Series of Tubes"
     }
-  ],
-  "itemID": 2198
+  ]
 }

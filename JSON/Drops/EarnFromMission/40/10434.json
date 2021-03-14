@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10434
+  "itemID": 10434,
+  "name": "Elite Battle Axe",
+  "displayName": "Elite Battle Axe",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/acc_axe.png",
+  "table": []
 }

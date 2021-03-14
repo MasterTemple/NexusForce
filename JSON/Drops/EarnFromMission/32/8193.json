@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8193
+  "itemID": 8193,
+  "name": "Test Broken Item Components",
+  "displayName": null,
+  "description": "Test Samurai KIT Helmet",
+  "iconURL": "https://github.com/MasterTemple/lu_bot/blob/master/src/unknown.png?raw=true",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12923
+  "itemID": 12923,
+  "name": "Summoner Neck/Back 3 Color Variant",
+  "displayName": "Summoner Shoulderpads 3",
+  "description": "Rank 3 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/faction%20kits/summoner_vest_3_variant.png",
+  "table": []
 }

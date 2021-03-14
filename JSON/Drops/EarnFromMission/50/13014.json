@@ -1,9 +1,13 @@
 {
+  "itemID": 13014,
+  "name": "Soap Gun",
+  "displayName": "Soap Gun",
+  "description": "Clean up Nexus Tower with this!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/hands/soapgun.png",
   "table": [
     {
       "missionID": "1666",
       "name": "Potion Commotion"
     }
-  ],
-  "itemID": 13014
+  ]
 }

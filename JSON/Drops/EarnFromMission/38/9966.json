@@ -1,10 +1,14 @@
 {
+  "itemID": 9966,
+  "name": "Rank 2 Space Marauder Book",
+  "displayName": "",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/misc/book_paradox.png",
   "table": [
     {
       "missionID": "1484",
       "name": "The Space Marauder's Gear 1",
       "objective": "Equip all 4 pieces of the Rank 1 Space Marauder gear."
     }
-  ],
-  "itemID": 9966
+  ]
 }

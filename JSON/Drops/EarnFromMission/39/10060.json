@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10060
+  "itemID": 10060,
+  "name": "Behavior - Proximity Build",
+  "displayName": "Proximity Build Behavior",
+  "description": "Model will build when close, smash when far",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/model_icon.png",
+  "table": []
 }

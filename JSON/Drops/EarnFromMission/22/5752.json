@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 5752
+  "itemID": 5752,
+  "name": "Dark Green Shirt 39",
+  "displayName": "Space Jacket",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_37_28.png",
+  "table": []
 }

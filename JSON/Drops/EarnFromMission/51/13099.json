@@ -1,4 +1,9 @@
 {
+  "itemID": 13099,
+  "name": "AG_NS Loot Surprise Pack",
+  "displayName": "Surprise Pack",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/bag_purple_light_blue.png",
   "table": [
     {
       "missionID": "1319",
@@ -242,6 +247,5 @@
       "name": "Monument Maintenance",
       "objective": "Quick Build 100 more Bouncers, buttons or moving platforms on the Avant Gardens Monument."
     }
-  ],
-  "itemID": 13099
+  ]
 }

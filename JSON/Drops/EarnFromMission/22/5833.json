@@ -1,10 +1,14 @@
 {
+  "itemID": 5833,
+  "name": "Everlasting Hiccup Tablets",
+  "displayName": "Everlasting Hiccup Tablets",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/ag_everlast_antacid.png",
   "table": [
     {
       "missionID": "247",
       "name": "Quit Yer Bellyachin'",
       "objective": "Eat 25 more BBQ Blast Hot Dogs."
     }
-  ],
-  "itemID": 5833
+  ]
 }

@@ -1,10 +1,14 @@
 {
+  "itemID": 10446,
+  "name": "Behavior - Basic Smash",
+  "displayName": "Basic Smash Behavior",
+  "description": "When attacked, model will smash, wait 10 seconds, then rebuild.",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/achievements/smash.png",
   "table": [
     {
       "missionID": "880",
       "name": "Behaviors 1",
       "objective": "Complete the introductory Property Missions."
     }
-  ],
-  "itemID": 10446
+  ]
 }

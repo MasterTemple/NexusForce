@@ -1,10 +1,14 @@
 {
+  "itemID": 6796,
+  "name": "Ship Blueprint",
+  "displayName": "Ship Blueprint",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/misc/m3608_blueprint.png",
   "table": [
     {
       "missionID": "448",
       "name": "Gnarled Forest Achiever 1",
       "objective": "Complete 10 Missions or Achievements in Gnarled Forest."
     }
-  ],
-  "itemID": 6796
+  ]
 }

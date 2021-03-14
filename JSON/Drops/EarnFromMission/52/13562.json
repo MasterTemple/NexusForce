@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13562
+  "itemID": 13562,
+  "name": "Reward Gooble Enemy",
+  "displayName": "Reward Gooble Enemy",
+  "description": "A model with Behaviors for your property.",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_bvr_gooble.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 14829
+  "itemID": 14829,
+  "name": "Training Bo Stafff",
+  "displayName": "Training Bo Staff",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/hands/brownstaff.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8667
+  "itemID": 8667,
+  "name": "Clam Diggers",
+  "displayName": "Clam Diggers",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/legs/m73200_140.png",
+  "table": []
 }

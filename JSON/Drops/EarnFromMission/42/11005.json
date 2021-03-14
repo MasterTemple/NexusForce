@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11005
+  "itemID": 11005,
+  "name": "GF Property Pushback Model - Fire Beast",
+  "displayName": "GF Property Pushback Model - Fire Beast",
+  "description": "GF Property Pushback Model - Fire Beast",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/golden_brick.png",
+  "table": []
 }

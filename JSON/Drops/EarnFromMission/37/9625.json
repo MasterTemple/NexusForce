@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 9625
+  "itemID": 9625,
+  "name": "Paradox Faction Consumable 1",
+  "displayName": "Paradox Power Potion",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/misc/potion_paradox.png",
+  "table": []
 }

@@ -1,10 +1,14 @@
 {
+  "itemID": 12231,
+  "name": "Winter Model Surprise Giftbox",
+  "displayName": "Winter Model Surprise Giftbox",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_winter_01.png",
   "table": [
     {
       "missionID": "1035",
       "name": "Ice Cubes",
       "objective": "Smash 25 more Icy Rocks in Frostburgh."
     }
-  ],
-  "itemID": 12231
+  ]
 }

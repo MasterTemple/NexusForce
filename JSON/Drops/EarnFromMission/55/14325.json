@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 14325
+  "itemID": 14325,
+  "name": "Paradox Gear - Space Marauder - offhand proxy",
+  "displayName": "Paradox Gear - Space Marauder - offhand proxy",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/faction%20kits/spacemaurader_launcher_2.png",
+  "table": []
 }

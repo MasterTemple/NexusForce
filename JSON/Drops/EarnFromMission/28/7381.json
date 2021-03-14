@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7381
+  "itemID": 7381,
+  "name": "Knight Legs 3",
+  "displayName": "Knight Leggings 3",
+  "description": "Rank 3 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/legs/faction/knight_03.png",
+  "table": []
 }

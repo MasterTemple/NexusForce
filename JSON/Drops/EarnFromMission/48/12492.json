@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12492
+  "itemID": 12492,
+  "name": "NT Maelstrom Sample",
+  "displayName": "Maelstrom Sample",
+  "description": "Return this to Rutger Hemoglobin.",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/misc/leakymaelstrombucket.png",
+  "table": []
 }

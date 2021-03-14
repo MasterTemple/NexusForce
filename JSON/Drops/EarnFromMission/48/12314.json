@@ -1,9 +1,13 @@
 {
+  "itemID": 12314,
+  "name": "Javelin of Lightning",
+  "displayName": "Javelin of Lightning",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/javelinoflightning.png",
   "table": [
     {
       "missionID": "1220",
       "name": "Do You Speak Chaos?"
     }
-  ],
-  "itemID": 12314
+  ]
 }

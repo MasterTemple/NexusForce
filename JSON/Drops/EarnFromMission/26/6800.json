@@ -1,10 +1,14 @@
 {
+  "itemID": 6800,
+  "name": "First Mate's Shirt 3 - Striped Shirt",
+  "displayName": "Brown First Mate's Shirt",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/m73200_firstmate_shirt_c.png",
   "table": [
     {
       "missionID": "410",
       "name": "That's Appealing 1",
       "objective": "Collect 25 bananas."
     }
-  ],
-  "itemID": 6800
+  ]
 }

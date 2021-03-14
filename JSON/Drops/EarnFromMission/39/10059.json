@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10059
+  "itemID": 10059,
+  "name": "Behavior - Proximity Alarm",
+  "displayName": "Proximity Alarm Behavior",
+  "description": "Alarm sounds when close",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/model_icon.png",
+  "table": []
 }

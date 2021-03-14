@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12798
+  "itemID": 12798,
+  "name": "Bone Suit Pants",
+  "displayName": "Bone Suit Pants",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/legs/legs_skeletonsuit.png",
+  "table": []
 }

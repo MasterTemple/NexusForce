@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 130
+  "itemID": 130,
+  "name": "Rank 1 Engineer Book",
+  "displayName": null,
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/misc/book_assembly.png",
+  "table": []
 }

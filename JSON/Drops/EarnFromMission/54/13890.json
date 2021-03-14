@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13890
+  "itemID": 13890,
+  "name": "Test consumable of Testing",
+  "displayName": "Test consumable of Testing",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/misc/potion_venture.png",
+  "table": []
 }

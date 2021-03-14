@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 15917
+  "itemID": 15917,
+  "name": "Practice Kabuto",
+  "displayName": "Practice Kabuto",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m30175_194.png",
+  "table": []
 }

@@ -1,9 +1,13 @@
 {
+  "itemID": 16551,
+  "name": "Wu's Imagination Staff",
+  "displayName": "Wu's Imagination Staff",
+  "description": "Charge up to release a Spinjitzu attack!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/hands/imaginationstaff.png",
   "table": [
     {
       "missionID": "2071",
       "name": "In the Hood"
     }
-  ],
-  "itemID": 16551
+  ]
 }

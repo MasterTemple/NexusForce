@@ -1,9 +1,13 @@
 {
+  "itemID": 3015,
+  "name": "Dragon Hammer 3",
+  "displayName": "Dragon Style Maelstrom Hammer",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/hammer_dragon.png",
   "table": [
     {
       "missionID": "509",
       "name": "Bell Buster"
     }
-  ],
-  "itemID": 3015
+  ]
 }

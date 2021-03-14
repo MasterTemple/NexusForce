@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11029
+  "itemID": 11029,
+  "name": "NS Property Pushback - Platform",
+  "displayName": "NS Property Pushback - Platform",
+  "description": "NS Property Pushback - Platform",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/golden_brick.png",
+  "table": []
 }

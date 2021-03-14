@@ -1,9 +1,13 @@
 {
+  "itemID": 13716,
+  "name": "Model Reward Toaster 1 ",
+  "displayName": "Toaster Model 1",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_toaster1.png",
   "table": [
     {
       "missionID": "1203",
       "name": "Vault Account"
     }
-  ],
-  "itemID": 13716
+  ]
 }

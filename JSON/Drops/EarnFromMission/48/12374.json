@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12374
+  "itemID": 12374,
+  "name": "Parka Jacket",
+  "displayName": "Parka Jacket",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/furryparka.png",
+  "table": []
 }

@@ -1,10 +1,14 @@
 {
+  "itemID": 12281,
+  "name": "Snow Storm",
+  "displayName": "Snow Storm",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/snowstormemote.png",
   "table": [
     {
       "missionID": "1032",
       "name": "Frostburgh Observer",
       "objective": "Use all 3 of the Binoculars in Frostburgh."
     }
-  ],
-  "itemID": 12281
+  ]
 }

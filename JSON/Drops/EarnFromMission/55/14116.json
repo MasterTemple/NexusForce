@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 14116
+  "itemID": 14116,
+  "name": "4 Riders Shirt",
+  "displayName": "4 Riders Shirt",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/torsos/torsos_4riders.png",
+  "table": []
 }

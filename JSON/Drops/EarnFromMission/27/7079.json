@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7079
+  "itemID": 7079,
+  "name": "Worthy Javelin",
+  "displayName": "Worthy Javelin",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/acc_javelin3.png",
+  "table": []
 }

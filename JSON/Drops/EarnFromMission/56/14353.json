@@ -1,4 +1,9 @@
 {
+  "itemID": 14353,
+  "name": "Assembly Gear - Summoner",
+  "displayName": "Trial Assembly Gear",
+  "description": "The Summoner wields a Gnarled Staff and summons a Thwok creature to aid in battle!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/icons/summoner_kit.png",
   "table": [
     {
       "missionID": "377",
@@ -8,6 +13,5 @@
       "missionID": "1852",
       "name": "Agent Foxtrot"
     }
-  ],
-  "itemID": 14353
+  ]
 }

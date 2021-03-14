@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11664
+  "itemID": 11664,
+  "name": "Model Reward Construction Truck 7",
+  "displayName": "Construction Truck 7 Model",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_construction_truck07.png",
+  "table": []
 }

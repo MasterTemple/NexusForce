@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 16634
+  "itemID": 16634,
+  "name": "Fire Spinjitzu Gi Kai's DX Gi of Flames",
+  "displayName": "Kai's DX Gi of Flames",
+  "description": "Wear this to look like Kai DX!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/torsos/torsos_dxfire.png",
+  "table": []
 }

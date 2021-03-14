@@ -1,10 +1,14 @@
 {
+  "itemID": 8598,
+  "name": "Zippered Leather Jacket",
+  "displayName": "Zippered Leather Jacket",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/reward/m73200_zipper_vest.png",
   "table": [
     {
       "missionID": "538",
       "name": "Smash 'Em All",
       "objective": "Smash 10,000 more enemies."
     }
-  ],
-  "itemID": 8598
+  ]
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13910
+  "itemID": 13910,
+  "name": "Test Gimble Test",
+  "displayName": "Test Gimble Test",
+  "description": "Test Gimble Test",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m43899_21.png",
+  "table": []
 }

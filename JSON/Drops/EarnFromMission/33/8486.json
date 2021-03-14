@@ -1,10 +1,14 @@
 {
+  "itemID": 8486,
+  "name": "Quality Spear",
+  "displayName": "Quality Spear",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m4497_194.png",
   "table": [
     {
       "missionID": "102",
       "name": "Hearty Score 1",
       "objective": "Score 50,000 points in one game in Cannon Cove Shooting Gallery."
     }
-  ],
-  "itemID": 8486
+  ]
 }

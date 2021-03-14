@@ -1,4 +1,9 @@
 {
+  "itemID": 10515,
+  "name": "Pirate Fort Model Pack 3",
+  "displayName": "Pirate Fort Model Pack 3",
+  "description": "Double-click to open this pack of models!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_blue.png",
   "table": [
     {
       "missionID": "434",
@@ -10,6 +15,5 @@
       "name": "Pirate Legend 2",
       "objective": "Complete more 'Piratey' activities."
     }
-  ],
-  "itemID": 10515
+  ]
 }

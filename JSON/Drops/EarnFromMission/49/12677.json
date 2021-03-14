@@ -1,10 +1,14 @@
 {
+  "itemID": 12677,
+  "name": "Wolf Shield",
+  "displayName": "Wolf Shield",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/hands/heatershield_wolf.png",
   "table": [
     {
       "missionID": "520",
       "name": "Beast Master",
       "objective": "Tame 19 different Pets."
     }
-  ],
-  "itemID": 12677
+  ]
 }

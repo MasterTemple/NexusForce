@@ -1,10 +1,14 @@
 {
+  "itemID": 13423,
+  "name": "Exceptional Pea Shooter MKII",
+  "displayName": "Exceptional Pea Shooter MKII",
+  "description": "Requires Imagination to fire.",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/march2011content/ui/inventory/hands/props_peashooter2.png",
   "table": [
     {
       "missionID": "1354",
       "name": "Like Clockwork",
       "objective": "Complete 1000 Daily Missions."
     }
-  ],
-  "itemID": 13423
+  ]
 }

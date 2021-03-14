@@ -1,10 +1,14 @@
 {
+  "itemID": 12801,
+  "name": "Mosaic Pants",
+  "displayName": "Mosaic Pants",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/legs/legs_prismaticsuit.png",
   "table": [
     {
       "missionID": "1105",
       "name": "Crux Prime Hacker 2",
       "objective": "Smash 150 more Stromling Mech Invaders on Crux Prime."
     }
-  ],
-  "itemID": 12801
+  ]
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10999
+  "itemID": 10999,
+  "name": "GF Property Pushback Model - Ice Barrier",
+  "displayName": "GF Property Pushback Model - Ice Barrier",
+  "description": "GF Property Pushback Model - Ice Barrier",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/golden_brick.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 6855
+  "itemID": 6855,
+  "name": "Shoulder Parrot Yellow",
+  "displayName": "Yellow Shoulder Parrot",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/m2546_24.png",
+  "table": []
 }

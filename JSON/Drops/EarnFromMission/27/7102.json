@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7102
+  "itemID": 7102,
+  "name": "Test Whirlwind 2",
+  "displayName": null,
+  "description": "Test Whirlwind Asset",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_46_154.png",
+  "table": []
 }

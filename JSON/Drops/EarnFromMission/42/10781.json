@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10781
+  "itemID": 10781,
+  "name": "Model Reward Toolchest 1",
+  "displayName": "Toolchest Model 1",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_toolchest1.png",
+  "table": []
 }

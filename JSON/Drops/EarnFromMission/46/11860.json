@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11860
+  "itemID": 11860,
+  "name": "Model Reward Treehouse Elevator Platform",
+  "displayName": "Treehouse Elevator Platform Model",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_treehouse_elevatorplatform.png",
+  "table": []
 }

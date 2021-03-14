@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11608
+  "itemID": 11608,
+  "name": "Model Reward Farm Barn Side Short",
+  "displayName": "Farm Barn Side Short Model",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_barn_side_short.png",
+  "table": []
 }

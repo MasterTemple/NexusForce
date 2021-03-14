@@ -1,10 +1,14 @@
 {
+  "itemID": 7792,
+  "name": "Fish Hat",
+  "displayName": "Fish Hat",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/fish_hat.png",
   "table": [
     {
       "missionID": "522",
       "name": "Speed Tamer",
       "objective": "Tame a Pet in less than 6 seconds."
     }
-  ],
-  "itemID": 7792
+  ]
 }

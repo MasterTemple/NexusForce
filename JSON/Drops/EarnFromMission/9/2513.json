@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 2513
+  "itemID": 2513,
+  "name": "Medium Blue Pants",
+  "displayName": "Medium Blue Pants",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/legs/m73200_102.png",
+  "table": []
 }

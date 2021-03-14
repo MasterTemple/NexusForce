@@ -1,10 +1,14 @@
 {
+  "itemID": 7788,
+  "name": "Fountain of Imagination",
+  "displayName": "Fountain of Imagination",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/lup_wrm_birdbath.png",
   "table": [
     {
       "missionID": "691",
       "name": "Imagine That! 1",
       "objective": "Collect 1000 Imagination power-ups."
     }
-  ],
-  "itemID": 7788
+  ]
 }

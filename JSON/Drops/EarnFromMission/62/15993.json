@@ -1,9 +1,13 @@
 {
+  "itemID": 15993,
+  "name": "Scale Mail",
+  "displayName": "Scale Mail",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/back_neck/m30174_28.png",
   "table": [
     {
       "missionID": "1806",
       "name": "Down They Fall"
     }
-  ],
-  "itemID": 15993
+  ]
 }

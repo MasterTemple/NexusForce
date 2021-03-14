@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13989
+  "itemID": 13989,
+  "name": "Test Rank 3 Pants",
+  "displayName": "Test Rank 3 Pants",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/legs/ag_metal_legs.png",
+  "table": []
 }

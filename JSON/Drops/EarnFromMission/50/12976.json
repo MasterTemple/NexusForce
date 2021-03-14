@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12976
+  "itemID": 12976,
+  "name": "Samurai Head 3 Color Variant",
+  "displayName": "Samurai Helm 3",
+  "description": "Rank 3 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/faction%20kits/samurai_hat_3_variant.png",
+  "table": []
 }

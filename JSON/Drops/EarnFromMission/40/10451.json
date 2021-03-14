@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10451
+  "itemID": 10451,
+  "name": "Behavior - Remote Detonator",
+  "displayName": "Remote Detonator Behavior",
+  "description": "A remote detonator for dynamite. This behavior requires the Dynamite Behavior to be placed on a model.",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/env_nim_ag_battlefield-outpost.png",
+  "table": []
 }

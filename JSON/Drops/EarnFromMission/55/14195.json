@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 14195
+  "itemID": 14195,
+  "name": "Game Card Reward Pack",
+  "displayName": "Game Card Reward Pack",
+  "description": "Double-click to open!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/bag_green_brown_extralarge.png",
+  "table": []
 }

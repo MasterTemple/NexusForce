@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4601
+  "itemID": 4601,
+  "name": "Sand Green Shirt 9",
+  "displayName": "Business Suit",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_10_151.png",
+  "table": []
 }

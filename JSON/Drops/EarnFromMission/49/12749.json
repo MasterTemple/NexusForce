@@ -1,10 +1,14 @@
 {
+  "itemID": 12749,
+  "name": "Cow Skull Shirt",
+  "displayName": "Cow Skull Shirt",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/torsos/torsos_cowskullshirt.png",
   "table": [
     {
       "missionID": "1093",
       "name": "Bone to Pick 3",
       "objective": "Smash 250 more pieces of Skeleton equipment on Crux Prime."
     }
-  ],
-  "itemID": 12749
+  ]
 }

@@ -1,10 +1,14 @@
 {
+  "itemID": 16067,
+  "name": "Haiiro Gi",
+  "displayName": "Haiiro Gi",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/torsos/minifig_darkgreyninjagi.png",
   "table": [
     {
       "missionID": "1943",
       "name": "Smash Chopov!",
       "objective": "Smash Chopov in the Earth Shrine in the caves below the Monastery."
     }
-  ],
-  "itemID": 16067
+  ]
 }

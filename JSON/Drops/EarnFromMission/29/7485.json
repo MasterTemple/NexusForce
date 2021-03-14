@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7485
+  "itemID": 7485,
+  "name": "Adventurer Chest 2",
+  "displayName": "Adventurer Coat 2",
+  "description": "Rank 2 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/factionkits/torsos_adventurer2.png",
+  "table": []
 }

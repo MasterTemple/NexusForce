@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13575
+  "itemID": 13575,
+  "name": "Assembly Faction Consumable 2",
+  "displayName": "Assembly Awesome-Ade 2",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/consumables/assembly_faction_consumable_2.png",
+  "table": []
 }

@@ -1,10 +1,14 @@
 {
+  "itemID": 7060,
+  "name": "Model Reward Ambient Starfish",
+  "displayName": "Starfish Model",
+  "description": "Place this animated creature model on your Property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/cre_starfish.png",
   "table": [
     {
       "missionID": "83",
       "name": "Pirate Sharpshooter 1",
       "objective": "Score a cumulative total of 1,000,000 points in Cannon Cove Shooting Gallery."
     }
-  ],
-  "itemID": 7060
+  ]
 }

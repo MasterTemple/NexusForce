@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8651
+  "itemID": 8651,
+  "name": "Hammer Pants",
+  "displayName": "Hammer Pants",
+  "description": "",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/legs/m73200_297.png",
+  "table": []
 }

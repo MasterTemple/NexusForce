@@ -1,10 +1,14 @@
 {
+  "itemID": 8541,
+  "name": "Lockjaw Helm",
+  "displayName": "Lockjaw Helm",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m62697_26.png",
   "table": [
     {
       "missionID": "184",
       "name": "Smash 'Em All 1",
       "objective": "Smash 100 enemies."
     }
-  ],
-  "itemID": 8541
+  ]
 }

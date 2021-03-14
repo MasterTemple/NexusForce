@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 8675
+  "itemID": 8675,
+  "name": "Reinforced Pith Helmet",
+  "displayName": "Reinforced Pith Helmet",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m30172_05.png",
+  "table": []
 }

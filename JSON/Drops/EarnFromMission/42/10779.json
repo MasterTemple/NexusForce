@@ -1,10 +1,14 @@
 {
+  "itemID": 10779,
+  "name": "Model Reward Fortress Zen Garden 8",
+  "displayName": "Fortress Zen Garden Model 8",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_ninjafortress-zengarden8.png",
   "table": [
     {
       "missionID": "795",
       "name": "Ninja Initiate 3",
       "objective": "Smash 1000 more Maelstrom Horsemen."
     }
-  ],
-  "itemID": 10779
+  ]
 }

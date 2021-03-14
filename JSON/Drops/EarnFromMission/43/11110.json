@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 11110
+  "itemID": 11110,
+  "name": "BEHAVIOR - NS Property Pushback - Blocker",
+  "displayName": "BEHAVIOR - NS Property Pushback - Blocker",
+  "description": "NS Property Pushback - Blocker",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/widget_icon.png",
+  "table": []
 }

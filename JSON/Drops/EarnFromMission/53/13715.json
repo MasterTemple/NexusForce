@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 13715
+  "itemID": 13715,
+  "name": "Model Reward Toaster 2 ",
+  "displayName": "Toaster Model 2",
+  "description": "A model for your property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_toaster2.png",
+  "table": []
 }

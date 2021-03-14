@@ -1,9 +1,13 @@
 {
+  "itemID": 2996,
+  "name": "Armor Polish 2",
+  "displayName": "Armor Shine",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/4_pound_hammer.png",
   "table": [
     {
       "missionID": "1010",
       "name": "Put Up Your Dukes"
     }
-  ],
-  "itemID": 2996
+  ]
 }

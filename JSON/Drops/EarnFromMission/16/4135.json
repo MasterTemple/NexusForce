@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4135
+  "itemID": 4135,
+  "name": "Bright Yellow Shirt 19",
+  "displayName": "Polo Shirt",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_5_24.png",
+  "table": []
 }

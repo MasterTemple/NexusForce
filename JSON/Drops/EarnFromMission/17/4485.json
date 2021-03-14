@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 4485
+  "itemID": 4485,
+  "name": "Earth Blue Shirt 29",
+  "displayName": "Corduroy Jacket",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_44_140.png",
+  "table": []
 }

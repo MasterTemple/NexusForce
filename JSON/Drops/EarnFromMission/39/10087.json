@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 10087
+  "itemID": 10087,
+  "name": "Model Reward Pirate Small Wall ",
+  "displayName": "Pirate Small Wall Model",
+  "description": "A model for your Property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_pirates_wallsmall.png",
+  "table": []
 }

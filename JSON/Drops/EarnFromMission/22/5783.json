@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 5783
+  "itemID": 5783,
+  "name": "Reddish Brown Shirt 40",
+  "displayName": "Striped Shirt",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_47_192.png",
+  "table": []
 }

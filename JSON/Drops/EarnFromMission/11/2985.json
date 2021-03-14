@@ -1,10 +1,14 @@
 {
+  "itemID": 2985,
+  "name": "Bubble Blower",
+  "displayName": "Bubble Blower",
+  "description": "Double-click to use!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/ag_bubble_blower.png",
   "table": [
     {
       "missionID": "535",
       "name": "Avant Gardens Pet Tamer",
       "objective": "Tame the Doberman, Triceratops, and Buffalo Pets."
     }
-  ],
-  "itemID": 2985
+  ]
 }

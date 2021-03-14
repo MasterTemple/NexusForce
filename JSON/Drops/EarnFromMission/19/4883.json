@@ -1,9 +1,13 @@
 {
+  "itemID": 4883,
+  "name": "Basic Hammer",
+  "displayName": "Basic Hammer",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m4522_26.png",
   "table": [
     {
       "missionID": "311",
       "name": "Get Help!"
     }
-  ],
-  "itemID": 4883
+  ]
 }

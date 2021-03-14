@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 9950
+  "itemID": 9950,
+  "name": "NPC Grunt Helmet Purple",
+  "displayName": "",
+  "description": "NPC Grunt Helmet Purple",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/custom_flower_hat.png",
+  "table": []
 }

@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 6973
+  "itemID": 6973,
+  "name": "Superior Fish on a Stick",
+  "displayName": "Superior Fish on a Stick",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/fish_stick.png",
+  "table": []
 }

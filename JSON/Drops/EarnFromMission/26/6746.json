@@ -1,9 +1,13 @@
 {
+  "itemID": 6746,
+  "name": "Blue Pirate Scarf",
+  "displayName": "Blue Pirate Scarf",
+  "description": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m2543_23.png",
   "table": [
     {
       "missionID": "383",
       "name": "Siren Song"
     }
-  ],
-  "itemID": 6746
+  ]
 }

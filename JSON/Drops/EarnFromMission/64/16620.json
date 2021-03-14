@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 16620
+  "itemID": 16620,
+  "name": "NPC Black Samurai Armor",
+  "displayName": "NPC Black Samurai Armor",
+  "description": "NPC Red Samurai Armor",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/back_neck/m30174_26.png",
+  "table": []
 }

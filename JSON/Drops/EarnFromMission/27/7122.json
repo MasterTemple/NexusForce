@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 7122
+  "itemID": 7122,
+  "name": "Model Reward Candle Holder",
+  "displayName": "Candle Holder Model",
+  "description": "A model for your Property!",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_gf_sg_pirate-candle-holder.png",
+  "table": []
 }

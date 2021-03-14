@@ -1,4 +1,8 @@
 {
-  "table": [],
-  "itemID": 12977
+  "itemID": 12977,
+  "name": "Samurai Weapon 3 Color Variant",
+  "displayName": "Samurai Katana 3",
+  "description": "Rank 3 Specialty Kit Item",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/faction%20kits/samurai_sword_3_variant.png",
+  "table": []
 }
