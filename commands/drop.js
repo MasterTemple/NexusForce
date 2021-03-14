@@ -15,6 +15,8 @@ module.exports = {
                 console.error(error);
             }
         }
+        let msgEmbed = require(`./../functions/embedTemplate.js`)
+
         if(args.length > 1 || isNaN(args[0])){
             let findOne = require(`./../functions/findOneObject`)
             var objectID = findOne.execute(args)
@@ -26,20 +28,26 @@ module.exports = {
         }else{
             var objectID = args[0]
         }
-        var dropFile = require(`./../json/Drops/Drops 2.0/${Math.floor(objectID/256)}/${objectID}.json`)
-        let msgEmbed = require(`./../functions/embedTemplate.js`)
 
-        let embed = msgEmbed.execute(dropFile.displayName, undefined,`https://lu-explorer.web.app/objects/${dropFile.id}`, dropFile.iconURL)
+        try{
+            var dropFile = require(`./../json/Drops/Drops 2.0/${Math.floor(objectID / 256)}/${objectID}.json`)
 
-        console.log(dropFile)
-        for(var e=0;e<dropFile.dropStuff.length;e++){
-            //embed.addField(`${dropFile.dropStuff[e].percent}% Chance to Drop`, `${dropFile.dropStuff[e].destructibleComponents[0].displayName}[${dropFile.dropStuff[e].destructibleComponents[0].objectID}]`,true)
+            var embed = msgEmbed.execute(dropFile.displayName, undefined, `https://lu-explorer.web.app/objects/${dropFile.id}`, dropFile.iconURL)
 
-            if(dropFile.dropStuff[e].minToDrop === dropFile.dropStuff[e].maxToDrop){
-                embed.addField(`${dropFile.dropStuff[e].destructibleComponents[0].displayName}`, `Has a ${dropFile.dropStuff[e].percent}% chance to drop ${dropFile.dropStuff[e].minToDrop} of ${dropFile.dropStuff[e].differentItemsToDropRange} different items.`, false)
-            }else{
-                embed.addField(`${dropFile.dropStuff[e].destructibleComponents[0].displayName}`, `Has a ${dropFile.dropStuff[e].percent}% chance to drop between ${dropFile.dropStuff[e].minToDrop} and ${dropFile.dropStuff[e].maxToDrop} of ${dropFile.dropStuff[e].differentItemsToDropRange} different items.`,false)
+            console.log(dropFile)
+            for (var e = 0; e < dropFile.dropStuff.length; e++) {
+                //embed.addField(`${dropFile.dropStuff[e].percent}% Chance to Drop`, `${dropFile.dropStuff[e].destructibleComponents[0].displayName}[${dropFile.dropStuff[e].destructibleComponents[0].objectID}]`,true)
+
+                if (dropFile.dropStuff[e].minToDrop === dropFile.dropStuff[e].maxToDrop) {
+                    embed.addField(`${dropFile.dropStuff[e].destructibleComponents[0].displayName}`, `Has a ${dropFile.dropStuff[e].percent}% chance to drop ${dropFile.dropStuff[e].minToDrop} of ${dropFile.dropStuff[e].differentItemsToDropRange} different items.`, false)
+                } else {
+                    embed.addField(`${dropFile.dropStuff[e].destructibleComponents[0].displayName}`, `Has a ${dropFile.dropStuff[e].percent}% chance to drop between ${dropFile.dropStuff[e].minToDrop} and ${dropFile.dropStuff[e].maxToDrop} of ${dropFile.dropStuff[e].differentItemsToDropRange} different items.`, false)
+                }
             }
+        }catch{
+            var itemFile = require(`./../json/Items/${Math.floor(objectID / 256)}/${objectID}.json`)
+            var embed = msgEmbed.execute(itemFile.displayName, undefined, `https://lu-explorer.web.app/objects/${itemFile.itemID}`, itemFile.iconURL)
+            embed.addField(`This Item Is Not Dropped!`, "Try **!buy** or **!earn** to see how to unlock this item!", false)
         }
 
 

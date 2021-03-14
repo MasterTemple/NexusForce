@@ -27,10 +27,53 @@ module.exports = {
             var objectID = args[0]
         }
         var buyFile = require(`./../json/Buy/${Math.floor(objectID/256)}/${objectID}.json`)
-        if(buyFile)
             console.log(buyFile)
-        message.channel.send(`\`\`\`json\n${JSON.stringify(buyFile,null, 2)}\`\`\``)
 
+        let msgEmbed = require(`./../functions/embedTemplate.js`)
+
+        let embed = msgEmbed.execute(buyFile.displayName, undefined,`https://lu-explorer.web.app/objects/${buyFile.objectID}`, buyFile.iconURL)
+
+        if(buyFile.factionTokens !== null){
+            embed.addFields(
+                {name: "Cost", value: buyFile.price, inline: true},
+                {name: "Faction Token Cost", value: buyFile.factionTokens, inline: true},
+                {name: "Level Requirement", value: buyFile.levelRequirement, inline: true},
+            )
+        }else if(buyFile.commendationCost !== null){
+            embed.addFields(
+                {name: "Cost", value: buyFile.price, inline: true},
+                {name: "Commendation Cost", value: `${buyFile.commendationCost} Faction Tokens`, inline: true},
+                {name: "Level Requirement", value: buyFile.levelRequirement, inline: true},
+            )
+        }else if(buyFile.commendationCost === null){
+            embed.addFields(
+                {name: "Cost", value: buyFile.price, inline: true},
+                {name: "Stack Size", value: buyFile.stackSize, inline: true},
+                {name: "Level Requirement", value: buyFile.levelRequirement, inline: true},
+            )
+        }
+        var vendorInfo = ``
+
+        for(var e=0;e<buyFile.vendors.length;e++){
+
+            vendorInfo = `${vendorInfo}**${buyFile.vendors[e].vendorDisplayName}** [**${buyFile.vendors[e].vendorID}**]\n`
+
+        }
+
+        if(buyFile.vendors.length === 1){
+            embed.addField(`Vendor:`, vendorInfo, false)
+        }else if(buyFile.vendors.length > 1){
+            embed.addField(`Vendors:`, vendorInfo, false)
+        }else if(buyFile.commendationVendor.length === 1 && buyFile.commendationCost !== null){
+            embed.addField(`Vendor:`, `**Honor Accolade - Commendation Vendor** [**13806**]`, false)
+        }else{
+            embed.addField(`This Item Is Not Sold!`, "Try **!earn** or **!drop** to see how to unlock this item!", false)
+        }
+
+
+        //message.channel.send(`\`\`\`json\n${JSON.stringify(buyFile,null, 2)}\`\`\``)
+
+        message.channel.send(embed)
 
 
     }

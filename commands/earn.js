@@ -26,14 +26,27 @@ module.exports = {
         }else{
             var objectID = args[0]
         }
+        let msgEmbed = require(`./../functions/embedTemplate.js`)
         var earnFile = require(`./../json/Drops/EarnFromMission/${Math.floor(objectID/256)}/${objectID}.json`)
+
+        let embed = msgEmbed.execute(earnFile.displayName, undefined,`https://lu-explorer.web.app/objects/${earnFile.itemID}`, earnFile.iconURL)
+
+
         if(earnFile.table.length !== 0){
             console.log(earnFile)
-            message.channel.send(`\`\`\`json\n${JSON.stringify(earnFile,null, 2)}\`\`\``)
+            for(var k=0;k<earnFile.table.length;k++){
+                embed.addField(earnFile.table[k].name, earnFile.table[k].objective, false)
+            }
+
+            //message.channel.send(`\`\`\`json\n${JSON.stringify(earnFile,null, 2)}\`\`\``)
+
         }else{
             //console.log(`You cannot earn this item. Try !buy to see where you can buy this item or !drop to see where this item drops.`)
-            message.channel.send(`>>> You cannot earn this item.\nTry one of the following:\n!buy to see where you can buy this item\n!drop to see where this item drops.`)
+            //message.channel.send(`>>> You cannot earn this item.\nTry one of the following:\n!buy to see where you can buy this item\n!drop to see where this item drops.`)
+            embed.addField(`This Item Is Not Earned!`, "Try **!buy** or **!drop** to see how to unlock this item!", false)
+
         }
+        message.channel.send(embed)
 
 
 
