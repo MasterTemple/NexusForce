@@ -53,11 +53,10 @@ module.exports = {
                 // { name: item.abilityName, value: item.localeDescription, inline: true },
             )
         }
-
         embed.addFields(
-            { name: `Armor`, value: item.Armor, inline: true },
-            { name: 'Health', value: item.Health, inline: true },
-            { name: 'Imagination', value: item.Imagination, inline: true },
+            { name: `<:armor:820200969861857280> Armor`, value: item.Armor, inline: true },
+            { name: '<:heart:820200969803268096> Health', value: item.Health, inline: true },
+            { name: '<:imagination:820200969789767690> Imagination', value: item.Imagination, inline: true },
         )
 
         if(item.isWeapon === true && item.projectileDamageInfo.projectileDamageCombo === ""){
