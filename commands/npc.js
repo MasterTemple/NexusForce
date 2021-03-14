@@ -1,6 +1,6 @@
 module.exports = {
     name: ['npc'],
-    description: 'See where to npc an item',
+    description: 'Get information on an NPC',
     args: true,
     use: `npc [id]`,
     example: [`npc 7570`],
@@ -27,9 +27,27 @@ module.exports = {
             var objectID = args[0]
         }
         var npcFile = require(`./../json/NPC/${Math.floor(objectID/256)}/${objectID}.json`)
-        if(npcFile)
-            console.log(npcFile)
-        message.channel.send(`\`\`\`json\n${JSON.stringify(npcFile,null, 2)}\`\`\``)
+        let msgEmbed = require(`./../functions/embedTemplate.js`)
+        console.log(npcFile)
+
+        let embed = msgEmbed.execute(npcFile.displayName, undefined,`https://lu-explorer.web.app/objects/${npcFile.objectID}`, npcFile.iconURL)
+
+        if(npcFile.isMissionGiver){
+            var missions = ``
+            for(var e=0;e<npcFile.missionInfo.length;e++){
+                missions = `${missions}${npcFile.missionInfo[e].missionName} [**${npcFile.missionInfo[e].missionID}**]\n`
+            }
+            embed.addField(`Missions:`, missions, false)
+        }
+        if(npcFile.isVendor){
+            var soldItems = ``
+            for(var e=0;e<npcFile.soldItems.length;e++){
+                soldItems = `${soldItems}${npcFile.soldItems[e].soldItemIDName} [**${npcFile.soldItems[e].soldItemID}**]\n`
+            }
+            embed.addField(`Sells:`, soldItems, false)
+        }
+
+        message.channel.send(embed)
 
 
 
