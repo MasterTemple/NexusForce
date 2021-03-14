@@ -1,0 +1,9 @@
+{
+  "id": 351,
+  "name": "m3961",
+  "displayName": "Dish 8x8 Inverted",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3961.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

@@ -1,0 +1,9 @@
+{
+  "id": 5201,
+  "name": "m30048",
+  "displayName": "Morion Helmet",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30048.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

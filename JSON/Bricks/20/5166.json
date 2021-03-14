@@ -1,0 +1,9 @@
+{
+  "id": 5166,
+  "name": "m6123",
+  "displayName": "Halberd",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m6123.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

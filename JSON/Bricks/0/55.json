@@ -1,0 +1,9 @@
+{
+  "id": 55,
+  "name": "m3069",
+  "displayName": "Tile 1x2",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3069.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

@@ -1,0 +1,9 @@
+{
+  "id": 5103,
+  "name": "m3856",
+  "displayName": "Shutter 2x3",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3856.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

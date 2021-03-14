@@ -1,0 +1,9 @@
+{
+  "id": 5161,
+  "name": "m6090",
+  "displayName": "Frogman Visor",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m6090.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

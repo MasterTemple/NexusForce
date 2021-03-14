@@ -1,0 +1,9 @@
+{
+  "id": 8926,
+  "name": "m30092",
+  "displayName": "Underwater scooter",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30092.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

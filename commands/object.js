@@ -63,7 +63,7 @@ module.exports = {
                     const func = require(`./brick.js`);
                     //func.execute()
                     try {
-                        func.execute(message, objectID);
+                        func.execute(message, [objectID]);
                     } catch (error) {
                         console.error(error);
                     }

@@ -1,0 +1,9 @@
+{
+  "id": 9027,
+  "name": "m45708",
+  "displayName": "Train Buffer with Plough",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m45708.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

@@ -1,0 +1,9 @@
+{
+  "id": 5224,
+  "name": "m30154",
+  "displayName": "Sextant",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30154.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

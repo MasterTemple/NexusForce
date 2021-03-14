@@ -1,0 +1,9 @@
+{
+  "id": 5225,
+  "name": "m30158",
+  "displayName": "Rucksack, Opening",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30158.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

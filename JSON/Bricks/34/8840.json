@@ -1,0 +1,9 @@
+{
+  "id": 8840,
+  "name": "m3629",
+  "displayName": "Cowboy Hat",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3629.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

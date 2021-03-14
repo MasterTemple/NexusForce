@@ -1,0 +1,9 @@
+{
+  "id": 829,
+  "name": "m2489",
+  "displayName": "Barrel 2x2",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m2489.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

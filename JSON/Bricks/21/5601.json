@@ -1,0 +1,9 @@
+{
+  "id": 5601,
+  "name": "m70973",
+  "displayName": "Bucket",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m70973.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

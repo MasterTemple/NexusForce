@@ -1,0 +1,9 @@
+{
+  "id": 5112,
+  "name": "m4025",
+  "displayName": "Train Bogie Plate 4x6",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m4025.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

@@ -1,0 +1,9 @@
+{
+  "id": 8904,
+  "name": "m6253",
+  "displayName": "Tile 2x2 with Parasol Stand",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m6253.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

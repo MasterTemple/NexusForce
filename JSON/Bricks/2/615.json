@@ -1,0 +1,9 @@
+{
+  "id": 615,
+  "name": "m32064",
+  "displayName": "Technic Brick 1x2 with Cross Axle Hole",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m32064.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

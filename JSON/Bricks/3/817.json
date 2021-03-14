@@ -1,0 +1,9 @@
+{
+  "id": 817,
+  "name": "m2454",
+  "displayName": "Brick 1x2x5",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m2454.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

@@ -1,0 +1,9 @@
+{
+  "id": 5156,
+  "name": "m6075",
+  "displayName": "Surfboard 10M",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m6075.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

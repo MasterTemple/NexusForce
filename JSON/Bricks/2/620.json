@@ -1,0 +1,9 @@
+{
+  "id": 620,
+  "name": "m32530",
+  "displayName": "Tile 1x2 with Technic Beam",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m32530.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

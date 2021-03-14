@@ -1,0 +1,9 @@
+{
+  "id": 393,
+  "name": "m4495",
+  "displayName": "Streamer",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m4495.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

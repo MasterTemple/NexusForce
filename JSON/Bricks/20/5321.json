@@ -1,0 +1,9 @@
+{
+  "id": 5321,
+  "name": "m33125",
+  "displayName": "Croissant",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m33125.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

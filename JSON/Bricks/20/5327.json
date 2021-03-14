@@ -1,0 +1,9 @@
+{
+  "id": 5327,
+  "name": "m40232",
+  "displayName": "Snowy Owl",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m40232.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

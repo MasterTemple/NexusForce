@@ -1,0 +1,9 @@
+{
+  "id": 5514,
+  "name": "m60115",
+  "displayName": "Skeleton Body Type 2",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m60115.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

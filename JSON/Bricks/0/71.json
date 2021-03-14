@@ -1,0 +1,9 @@
+{
+  "id": 71,
+  "name": "m4176",
+  "displayName": "Panel 1x2x3",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m4176.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

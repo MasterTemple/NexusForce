@@ -1,0 +1,9 @@
+{
+  "id": 395,
+  "name": "m4510",
+  "displayName": "Plate 1x8 with Slide",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m4510.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

@@ -1,0 +1,9 @@
+{
+  "id": 8810,
+  "name": "m2583",
+  "displayName": "Gate 1x8x3",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m2583.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

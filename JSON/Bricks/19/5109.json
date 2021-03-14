@@ -1,0 +1,9 @@
+{
+  "id": 5109,
+  "name": "m3962",
+  "displayName": "Handheld Radio",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3962.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

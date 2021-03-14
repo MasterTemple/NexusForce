@@ -1,0 +1,9 @@
+{
+  "id": 16330,
+  "name": "m2850",
+  "displayName": "Plastic Motor, Cylinder",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m2850.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

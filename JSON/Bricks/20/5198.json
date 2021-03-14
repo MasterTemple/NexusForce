@@ -1,0 +1,9 @@
+{
+  "id": 5198,
+  "name": "m30035",
+  "displayName": "Hand-Held Scanner",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30035.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

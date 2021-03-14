@@ -1,0 +1,9 @@
+{
+  "id": 9221,
+  "name": "m87695",
+  "displayName": "Animal Horns",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m87695.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

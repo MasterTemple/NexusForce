@@ -1,0 +1,9 @@
+{
+  "id": 8868,
+  "name": "m6021",
+  "displayName": "Canoe",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m6021.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

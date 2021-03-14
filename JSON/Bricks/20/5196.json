@@ -1,0 +1,9 @@
+{
+  "id": 5196,
+  "name": "m23318",
+  "displayName": "Astronaut Visor",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m23318.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

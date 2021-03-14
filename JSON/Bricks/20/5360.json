@@ -1,0 +1,9 @@
+{
+  "id": 5360,
+  "name": "m42511",
+  "displayName": "Skateboard 1",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m42511.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

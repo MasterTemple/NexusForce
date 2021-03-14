@@ -1,0 +1,9 @@
+{
+  "id": 9100,
+  "name": "m61070",
+  "displayName": "Technic Panel 4x7x4 Right",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m61070.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

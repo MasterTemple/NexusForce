@@ -1,0 +1,9 @@
+{
+  "id": 468,
+  "name": "m6135",
+  "displayName": "Palm Stem Element",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m6135.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

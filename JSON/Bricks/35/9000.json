@@ -1,0 +1,9 @@
+{
+  "id": 9000,
+  "name": "m40396",
+  "displayName": "Tail Base Short",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m40396.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

@@ -1,0 +1,9 @@
+{
+  "id": 569,
+  "name": "m30358",
+  "displayName": "Thruster with Grill on 2x2-Tile",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30358.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

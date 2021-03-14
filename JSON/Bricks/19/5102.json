@@ -1,0 +1,9 @@
+{
+  "id": 5102,
+  "name": "m3852",
+  "displayName": "Hair Brush",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3852.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

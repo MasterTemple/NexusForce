@@ -1,0 +1,9 @@
+{
+  "id": 5261,
+  "name": "m30284",
+  "displayName": "Snowshoe",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30284.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

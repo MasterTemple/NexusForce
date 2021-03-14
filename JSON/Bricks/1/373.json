@@ -1,0 +1,9 @@
+{
+  "id": 373,
+  "name": "m4216",
+  "displayName": "Brick 1x2 with Groove",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m4216.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

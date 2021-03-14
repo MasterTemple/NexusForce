@@ -53,6 +53,7 @@ module.exports = {
                 {name: "Level Requirement", value: buyFile.levelRequirement, inline: true},
             )
         }
+
         var vendorInfo = ``
 
         for(var e=0;e<buyFile.vendors.length;e++){

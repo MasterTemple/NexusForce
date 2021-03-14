@@ -1,0 +1,9 @@
+{
+  "id": 5250,
+  "name": "m30228",
+  "displayName": "Pneumatic Hammer",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30228.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

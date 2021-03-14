@@ -1,0 +1,9 @@
+{
+  "id": 5244,
+  "name": "m30213",
+  "displayName": "Energy Element",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30213.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

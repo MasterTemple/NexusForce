@@ -1,0 +1,9 @@
+{
+  "id": 430,
+  "name": "m4869",
+  "displayName": "Blades for Jet Turbine",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m4869.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

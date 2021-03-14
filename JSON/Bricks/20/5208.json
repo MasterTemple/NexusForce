@@ -1,0 +1,9 @@
+{
+  "id": 5208,
+  "name": "m30104",
+  "displayName": "Chain 16M",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30104.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

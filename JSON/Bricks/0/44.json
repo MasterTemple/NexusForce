@@ -1,0 +1,9 @@
+{
+  "id": 44,
+  "name": "m3031",
+  "displayName": "Plate 4x4",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3031.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

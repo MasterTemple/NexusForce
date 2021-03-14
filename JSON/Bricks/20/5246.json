@@ -1,0 +1,9 @@
+{
+  "id": 5246,
+  "name": "m30218",
+  "displayName": "Shell",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30218.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

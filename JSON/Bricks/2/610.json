@@ -1,0 +1,9 @@
+{
+  "id": 610,
+  "name": "m32000",
+  "displayName": "Technic Brick 1x2 with 2 Pin Holes",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m32000.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

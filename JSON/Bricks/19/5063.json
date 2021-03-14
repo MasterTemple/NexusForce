@@ -1,0 +1,9 @@
+{
+  "id": 5063,
+  "name": "m2614",
+  "displayName": "Fishing Rod",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m2614.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

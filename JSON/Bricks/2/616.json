@@ -1,0 +1,9 @@
+{
+  "id": 616,
+  "name": "m32086",
+  "displayName": "Windscreen 6x8x3",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m32086.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

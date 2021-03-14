@@ -1,0 +1,9 @@
+{
+  "id": 8942,
+  "name": "m30210",
+  "displayName": "Sensor Dish with Bent Stem",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30210.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

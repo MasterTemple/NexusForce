@@ -1,0 +1,9 @@
+{
+  "id": 123,
+  "name": "m32531",
+  "displayName": "Technic Brick Framing 4x6",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m32531.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

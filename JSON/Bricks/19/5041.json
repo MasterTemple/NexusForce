@@ -1,0 +1,9 @@
+{
+  "id": 5041,
+  "name": "m2530",
+  "displayName": "Sabre",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m2530.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

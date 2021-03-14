@@ -1,0 +1,9 @@
+{
+  "id": 5485,
+  "name": "m57909",
+  "displayName": "Brick 2x2 Ball Joint",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m57909.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

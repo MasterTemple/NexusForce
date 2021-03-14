@@ -1,0 +1,9 @@
+{
+  "id": 8890,
+  "name": "m6119",
+  "displayName": "Visor with Antenna",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m6119.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

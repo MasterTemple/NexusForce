@@ -1,0 +1,9 @@
+{
+  "id": 479,
+  "name": "m6187",
+  "displayName": "Tile 1x2 with Handle 1x4x2",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m6187.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

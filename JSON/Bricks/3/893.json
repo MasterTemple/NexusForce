@@ -1,0 +1,9 @@
+{
+  "id": 893,
+  "name": "m3300",
+  "displayName": "Slope Brick 25° Ridged 2x2",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3300.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

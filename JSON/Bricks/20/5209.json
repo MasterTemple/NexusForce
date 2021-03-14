@@ -1,0 +1,9 @@
+{
+  "id": 5209,
+  "name": "m30105",
+  "displayName": "Bat Helmet",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30105.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

@@ -1,0 +1,9 @@
+{
+  "id": 431,
+  "name": "m4870",
+  "displayName": "Plate 2x2 with Landing Gear",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m4870.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

@@ -1,0 +1,9 @@
+{
+  "id": 501,
+  "name": "m6576",
+  "displayName": "Tile 4x8 with 12 Studs",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m6576.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

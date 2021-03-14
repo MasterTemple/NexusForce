@@ -1,0 +1,9 @@
+{
+  "id": 462,
+  "name": "m6106",
+  "displayName": "Corner Plate 6x6x45°",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m6106.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

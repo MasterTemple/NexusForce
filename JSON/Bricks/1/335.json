@@ -1,0 +1,9 @@
+{
+  "id": 335,
+  "name": "m3839",
+  "displayName": "Plate 1x2 with Handles",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3839.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

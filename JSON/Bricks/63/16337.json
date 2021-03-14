@@ -1,0 +1,9 @@
+{
+  "id": 16337,
+  "name": "m2950",
+  "displayName": "Trencher, Shovel",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m2950.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

@@ -1,0 +1,9 @@
+{
+  "id": 5215,
+  "name": "m30132",
+  "displayName": "Revolver",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30132.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

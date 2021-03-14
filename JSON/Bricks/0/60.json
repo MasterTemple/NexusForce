@@ -1,0 +1,9 @@
+{
+  "id": 60,
+  "name": "m3623",
+  "displayName": "Plate 1x3",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3623.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

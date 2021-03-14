@@ -1,0 +1,9 @@
+{
+  "id": 879,
+  "name": "m3185",
+  "displayName": "Fence 1x4x2",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3185.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

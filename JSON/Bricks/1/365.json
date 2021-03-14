@@ -1,0 +1,9 @@
+{
+  "id": 365,
+  "name": "m4162",
+  "displayName": "Tile 1x8",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m4162.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

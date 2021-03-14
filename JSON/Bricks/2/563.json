@@ -1,0 +1,9 @@
+{
+  "id": 563,
+  "name": "m30338",
+  "displayName": "Tile 4x4 with Palm Stem",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30338.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

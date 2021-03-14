@@ -1,0 +1,9 @@
+{
+  "id": 8903,
+  "name": "m6252",
+  "displayName": "Parasol",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m6252.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

@@ -1,0 +1,9 @@
+{
+  "id": 121,
+  "name": "m30414",
+  "displayName": "Brick 1x4 with Studs on Side",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30414.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

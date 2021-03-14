@@ -1,0 +1,9 @@
+{
+  "id": 5167,
+  "name": "m6124",
+  "displayName": "Magic Wand",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m6124.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

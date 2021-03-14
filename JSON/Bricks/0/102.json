@@ -1,0 +1,9 @@
+{
+  "id": 102,
+  "name": "m47720",
+  "displayName": "Plate 2x2 with Bilateral Wheel Bearings",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m47720.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

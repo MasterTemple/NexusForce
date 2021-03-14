@@ -1,0 +1,9 @@
+{
+  "id": 780,
+  "name": "m76040",
+  "displayName": "Trike Chassis",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m76040.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

@@ -48,7 +48,7 @@ module.exports = {
         }else{
             var description = `**Equip Locations:** ${item.equipLocationNames.join(`, `)}`
         }
-        let embed = msgEmbed.execute(item.displayName, description, `https://lu-explorer.web.app/objects/${item.itemID}`, item.iconURL)
+        let embed = msgEmbed.execute(`${item.displayName} [${item.itemID}]`, description, `https://lu-explorer.web.app/objects/${item.itemID}`, item.iconURL)
 
         embed.addFields(
             { name: 'Name', value: item.name, inline: true },
@@ -57,7 +57,7 @@ module.exports = {
         )
 
 
-        if(item.isWeapon === false && item.abilityName !== undefined && item.equipLocation[0] !== "chest" && item.equipLocation[0] !== "legs"){
+        if(item.isWeapon === false && item.abilityName !== undefined && item.equipLocation[0] !== "chest" && item.equipLocation[0] !== "legs" && item.localeDescription !== undefined){
             embed.addFields(
                 {name: item.abilityName, value: item.localeDescription, inline: false},
                 // { name: item.abilityName, value: item.localeDescription, inline: true },

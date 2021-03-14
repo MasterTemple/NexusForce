@@ -1,0 +1,9 @@
+{
+  "id": 380,
+  "name": "m4284",
+  "displayName": "Windscreen 2x4x2 Inverted",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m4284.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

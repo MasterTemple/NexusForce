@@ -1,0 +1,9 @@
+{
+  "id": 503,
+  "name": "m6636",
+  "displayName": "Tile 1x6",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m6636.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

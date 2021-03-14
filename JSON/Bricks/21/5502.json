@@ -1,0 +1,9 @@
+{
+  "id": 5502,
+  "name": "m59229",
+  "displayName": "Scythe Blade",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m59229.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

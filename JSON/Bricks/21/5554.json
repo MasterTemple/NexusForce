@@ -1,0 +1,9 @@
+{
+  "id": 5554,
+  "name": "m60800",
+  "displayName": "Shutter 1x2x3 with Shaft",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m60800.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

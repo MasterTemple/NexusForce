@@ -1,0 +1,9 @@
+{
+  "id": 593,
+  "name": "m30505",
+  "displayName": "Corner Brick 45° 3x3",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30505.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

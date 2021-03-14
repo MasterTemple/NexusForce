@@ -1,0 +1,9 @@
+{
+  "id": 404,
+  "name": "m4595",
+  "displayName": "Camera Brick 1x2x2/3",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m4595.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

@@ -1,0 +1,9 @@
+{
+  "id": 8849,
+  "name": "m4003",
+  "displayName": "Wheelbarrow",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m4003.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

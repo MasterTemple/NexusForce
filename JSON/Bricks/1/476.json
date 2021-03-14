@@ -1,0 +1,9 @@
+{
+  "id": 476,
+  "name": "m6180",
+  "displayName": "Tile 4x6 with 12 Studs",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m6180.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

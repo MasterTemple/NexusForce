@@ -1,0 +1,9 @@
+{
+  "id": 371,
+  "name": "m4212",
+  "displayName": "Car Chassis Plate 4x10",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m4212.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

@@ -1,0 +1,9 @@
+{
+  "id": 45,
+  "name": "m3032",
+  "displayName": "Plate 4x6",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3032.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

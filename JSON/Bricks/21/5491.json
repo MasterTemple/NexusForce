@@ -1,0 +1,9 @@
+{
+  "id": 5491,
+  "name": "m58380",
+  "displayName": "Door 1x3x4 Right",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m58380.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

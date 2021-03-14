@@ -1,0 +1,9 @@
+{
+  "id": 8932,
+  "name": "m30124",
+  "displayName": "Crash Helmet",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30124.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

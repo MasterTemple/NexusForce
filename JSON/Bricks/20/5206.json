@@ -1,0 +1,9 @@
+{
+  "id": 5206,
+  "name": "m30091",
+  "displayName": "Oxygen Bottle with Tube",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30091.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

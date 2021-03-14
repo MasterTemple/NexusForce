@@ -1,0 +1,9 @@
+{
+  "id": 9110,
+  "name": "m61506",
+  "displayName": "Fedora Hat",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m61506.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

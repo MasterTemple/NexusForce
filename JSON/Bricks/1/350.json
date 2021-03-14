@@ -1,0 +1,9 @@
+{
+  "id": 350,
+  "name": "m3960",
+  "displayName": "Dish 4x4 Inverted",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3960.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}

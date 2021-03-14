@@ -1,0 +1,9 @@
+{
+  "id": 16360,
+  "name": "m4221",
+  "displayName": "Grab for Link",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m4221.png",
+  "stackSize": 999,
+  "price": 10,
+  "isSoldByVendor": true
+}
