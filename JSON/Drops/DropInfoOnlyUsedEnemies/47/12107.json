@@ -286,6 +286,21 @@
       "soldByVendor": 0
     },
     {
+      "percent": 100,
+      "minToDrop": "3",
+      "maxToDrop": "4",
+      "id": "2978",
+      "differentItemsToDropRange": 10,
+      "destructibleComponents": [
+        {
+          "name": "AM - Skeleton Miner NAMED",
+          "objectID": 12001,
+          "displayName": "Hardhead - Skeleton Miner"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
       "percent": 1,
       "minToDrop": "1",
       "maxToDrop": "1",
@@ -301,6 +316,21 @@
       "soldByVendor": 0
     },
     {
+      "percent": 25,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2988",
+      "differentItemsToDropRange": 10,
+      "destructibleComponents": [
+        {
+          "name": "AM - Skeleton Patroller NAMED Nuckal",
+          "objectID": 12005,
+          "displayName": "Nuckal - Skeleton Lightning General"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
       "percent": 1,
       "minToDrop": "1",
       "maxToDrop": "1",
@@ -311,6 +341,21 @@
           "name": "AM - Skeleton Engineer",
           "objectID": 12002,
           "displayName": "Skeleton Engineer"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 100,
+      "minToDrop": "3",
+      "maxToDrop": "5",
+      "id": "2998",
+      "differentItemsToDropRange": 10,
+      "destructibleComponents": [
+        {
+          "name": "AM - Skeleton Engineer NAMED",
+          "objectID": 12003,
+          "displayName": "Blackmarrow - Skeleton Engineer"
         }
       ],
       "soldByVendor": 0

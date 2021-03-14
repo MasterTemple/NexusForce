@@ -21,7 +21,28 @@
       "maxToDrop": "1",
       "id": "2169",
       "differentItemsToDropRange": 1,
-      "destructibleComponents": [],
+      "destructibleComponents": [
+        {
+          "name": "AM - Skeleton Patroller NAMED Nuckal",
+          "objectID": 12005,
+          "displayName": "Nuckal - Skeleton Lightning General"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 20,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2169",
+      "differentItemsToDropRange": 1,
+      "destructibleComponents": [
+        {
+          "name": "AM - Skeleton Patroller NAMED Nuckal",
+          "objectID": 12005,
+          "displayName": "Nuckal - Skeleton Lightning General"
+        }
+      ],
       "soldByVendor": 0
     }
   ]

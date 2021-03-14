@@ -21,7 +21,7 @@ module.exports = {
             .setTimestamp()
             .setFooter(footer, iconURL);
 
-        if(description !== undefined){
+        if(description !== undefined ){
             embed.setDescription(description)
         }
 

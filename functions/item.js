@@ -31,6 +31,15 @@ module.exports = {
         if(item.levelRequirement === null){
             item.levelRequirement = "None"
         }
+        if(item.name === null){
+            item.name = "None"
+        }
+        if(item.description === null || item.description === `` || item.description === undefined){
+            item.description = "None"
+        }
+        if(item.internalNotes === null){
+            item.internalNotes = "None"
+        }
 
 
         let msgEmbed = require(`./embedTemplate.js`)
@@ -40,6 +49,7 @@ module.exports = {
             var description = `**Equip Locations:** ${item.equipLocationNames.join(`, `)}`
         }
         let embed = msgEmbed.execute(item.displayName, description, `https://lu-explorer.web.app/objects/${item.itemID}`, item.iconURL)
+
         embed.addFields(
             { name: 'Name', value: item.name, inline: true },
             { name: 'Description', value: item.description, inline: true },

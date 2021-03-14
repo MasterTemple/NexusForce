@@ -86,6 +86,16 @@
           "name": "AG - Dark Spiderling",
           "objectID": 6359,
           "displayName": "Dark Spiderling"
+        },
+        {
+          "name": "AG - Dark Spiderling - Spider Cave only",
+          "objectID": 14572,
+          "displayName": "Dark Spiderling"
+        },
+        {
+          "name": "AG - Dark Spiderling (Spider Boss Version)",
+          "objectID": 16197,
+          "displayName": "Dark Spiderling"
         }
       ],
       "soldByVendor": 1
@@ -406,6 +416,21 @@
       "soldByVendor": 0
     },
     {
+      "percent": 100,
+      "minToDrop": "2",
+      "maxToDrop": "3",
+      "id": "3398",
+      "differentItemsToDropRange": 1,
+      "destructibleComponents": [
+        {
+          "name": "AM - Skeleton Miner NAMED",
+          "objectID": 12001,
+          "displayName": "Hardhead - Skeleton Miner"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
       "percent": 50,
       "minToDrop": "1",
       "maxToDrop": "1",
@@ -421,6 +446,21 @@
       "soldByVendor": 0
     },
     {
+      "percent": 100,
+      "minToDrop": "2",
+      "maxToDrop": "3",
+      "id": "3406",
+      "differentItemsToDropRange": 1,
+      "destructibleComponents": [
+        {
+          "name": "AM - Skeleton Patroller NAMED Nuckal",
+          "objectID": 12005,
+          "displayName": "Nuckal - Skeleton Lightning General"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
       "percent": 40,
       "minToDrop": "1",
       "maxToDrop": "1",
@@ -431,6 +471,21 @@
           "name": "AM - Skeleton Engineer",
           "objectID": 12002,
           "displayName": "Skeleton Engineer"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 100,
+      "minToDrop": "2",
+      "maxToDrop": "5",
+      "id": "3414",
+      "differentItemsToDropRange": 1,
+      "destructibleComponents": [
+        {
+          "name": "AM - Skeleton Engineer NAMED",
+          "objectID": 12003,
+          "displayName": "Blackmarrow - Skeleton Engineer"
         }
       ],
       "soldByVendor": 0
@@ -541,6 +596,26 @@
       "soldByVendor": 1
     },
     {
+      "percent": 50,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4096",
+      "differentItemsToDropRange": 1,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Bone Wolf",
+          "objectID": 13995,
+          "displayName": "Bone Wolf"
+        },
+        {
+          "name": "NJD - Bone Wolf - Frakjaw instance",
+          "objectID": 16191,
+          "displayName": "Bone Wolf"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
       "percent": 100,
       "minToDrop": "1",
       "maxToDrop": "1",
@@ -608,9 +683,29 @@
       "differentItemsToDropRange": 1,
       "destructibleComponents": [
         {
+          "name": "NJD - Skeleton Blacksmith - Frakjaw instance",
+          "objectID": 14007,
+          "displayName": "Skeleton Blacksmith"
+        },
+        {
+          "name": "NJD - Skeleton Marksman - Frakjaw instance",
+          "objectID": 14008,
+          "displayName": "Skeleton Marksman"
+        },
+        {
+          "name": "NJD - Skeleton Commando - Frakjaw instance",
+          "objectID": 14009,
+          "displayName": "Skeleton Commando"
+        },
+        {
           "name": "NJ - Skeleton Blacksmith",
           "objectID": 14024,
           "displayName": "Skeleton Blacksmith"
+        },
+        {
+          "name": "NJD - Skeleton Mad Scientist - Frakjaw instance",
+          "objectID": 16511,
+          "displayName": "Skeleton Mad Scientist"
         }
       ],
       "soldByVendor": 1

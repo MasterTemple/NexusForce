@@ -424,6 +424,21 @@
       "soldByVendor": 0
     },
     {
+      "percent": 100,
+      "minToDrop": "3",
+      "maxToDrop": "4",
+      "id": "2978",
+      "differentItemsToDropRange": 10,
+      "destructibleComponents": [
+        {
+          "name": "AM - Skeleton Miner NAMED",
+          "objectID": 12001,
+          "displayName": "Hardhead - Skeleton Miner"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
       "percent": 1,
       "minToDrop": "1",
       "maxToDrop": "1",
@@ -439,6 +454,21 @@
       "soldByVendor": 0
     },
     {
+      "percent": 25,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2988",
+      "differentItemsToDropRange": 10,
+      "destructibleComponents": [
+        {
+          "name": "AM - Skeleton Patroller NAMED Nuckal",
+          "objectID": 12005,
+          "displayName": "Nuckal - Skeleton Lightning General"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
       "percent": 1,
       "minToDrop": "1",
       "maxToDrop": "1",
@@ -449,6 +479,21 @@
           "name": "AM - Skeleton Engineer",
           "objectID": 12002,
           "displayName": "Skeleton Engineer"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 100,
+      "minToDrop": "3",
+      "maxToDrop": "5",
+      "id": "2998",
+      "differentItemsToDropRange": 10,
+      "destructibleComponents": [
+        {
+          "name": "AM - Skeleton Engineer NAMED",
+          "objectID": 12003,
+          "displayName": "Blackmarrow - Skeleton Engineer"
         }
       ],
       "soldByVendor": 0
@@ -490,6 +535,11 @@
           "name": "VE Instance - Stromling Hammerling Ranged",
           "objectID": 8238,
           "displayName": "Hammerhurl Stromling"
+        },
+        {
+          "name": "VE Instance - Stromling Hammerling Melee",
+          "objectID": 12542,
+          "displayName": "Hammer Stromling"
         }
       ],
       "soldByVendor": 0
@@ -546,6 +596,26 @@
           "name": "NJ - Skeleton Trooper",
           "objectID": 14491,
           "displayName": "Skeleton Trooper"
+        }
+      ],
+      "soldByVendor": 1
+    },
+    {
+      "percent": 1.5,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "4944",
+      "differentItemsToDropRange": 26,
+      "destructibleComponents": [
+        {
+          "name": "NJ - Bone Wolf",
+          "objectID": 13995,
+          "displayName": "Bone Wolf"
+        },
+        {
+          "name": "NJD - Bone Wolf - Frakjaw instance",
+          "objectID": 16191,
+          "displayName": "Bone Wolf"
         }
       ],
       "soldByVendor": 1
@@ -618,9 +688,29 @@
       "differentItemsToDropRange": 26,
       "destructibleComponents": [
         {
+          "name": "NJD - Skeleton Blacksmith - Frakjaw instance",
+          "objectID": 14007,
+          "displayName": "Skeleton Blacksmith"
+        },
+        {
+          "name": "NJD - Skeleton Marksman - Frakjaw instance",
+          "objectID": 14008,
+          "displayName": "Skeleton Marksman"
+        },
+        {
+          "name": "NJD - Skeleton Commando - Frakjaw instance",
+          "objectID": 14009,
+          "displayName": "Skeleton Commando"
+        },
+        {
           "name": "NJ - Skeleton Blacksmith",
           "objectID": 14024,
           "displayName": "Skeleton Blacksmith"
+        },
+        {
+          "name": "NJD - Skeleton Mad Scientist - Frakjaw instance",
+          "objectID": 16511,
+          "displayName": "Skeleton Mad Scientist"
         }
       ],
       "soldByVendor": 1

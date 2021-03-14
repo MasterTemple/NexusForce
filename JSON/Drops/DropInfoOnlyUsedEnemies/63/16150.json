@@ -8,9 +8,29 @@
       "differentItemsToDropRange": 1,
       "destructibleComponents": [
         {
+          "name": "NJD - Skeleton Blacksmith - Frakjaw instance",
+          "objectID": 14007,
+          "displayName": "Skeleton Blacksmith"
+        },
+        {
+          "name": "NJD - Skeleton Marksman - Frakjaw instance",
+          "objectID": 14008,
+          "displayName": "Skeleton Marksman"
+        },
+        {
+          "name": "NJD - Skeleton Commando - Frakjaw instance",
+          "objectID": 14009,
+          "displayName": "Skeleton Commando"
+        },
+        {
           "name": "NJ - Skeleton Blacksmith",
           "objectID": 14024,
           "displayName": "Skeleton Blacksmith"
+        },
+        {
+          "name": "NJD - Skeleton Mad Scientist - Frakjaw instance",
+          "objectID": 16511,
+          "displayName": "Skeleton Mad Scientist"
         }
       ],
       "soldByVendor": 1
@@ -23,9 +43,29 @@
       "differentItemsToDropRange": 1,
       "destructibleComponents": [
         {
+          "name": "NJD - Skeleton Blacksmith - Frakjaw instance",
+          "objectID": 14007,
+          "displayName": "Skeleton Blacksmith"
+        },
+        {
+          "name": "NJD - Skeleton Marksman - Frakjaw instance",
+          "objectID": 14008,
+          "displayName": "Skeleton Marksman"
+        },
+        {
+          "name": "NJD - Skeleton Commando - Frakjaw instance",
+          "objectID": 14009,
+          "displayName": "Skeleton Commando"
+        },
+        {
           "name": "NJ - Skeleton Blacksmith",
           "objectID": 14024,
           "displayName": "Skeleton Blacksmith"
+        },
+        {
+          "name": "NJD - Skeleton Mad Scientist - Frakjaw instance",
+          "objectID": 16511,
+          "displayName": "Skeleton Mad Scientist"
         }
       ],
       "soldByVendor": 1

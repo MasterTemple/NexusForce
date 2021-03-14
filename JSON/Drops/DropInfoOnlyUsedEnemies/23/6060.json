@@ -112,6 +112,16 @@
           "name": "AG - Dark Spiderling",
           "objectID": 6359,
           "displayName": "Dark Spiderling"
+        },
+        {
+          "name": "AG - Dark Spiderling - Spider Cave only",
+          "objectID": 14572,
+          "displayName": "Dark Spiderling"
+        },
+        {
+          "name": "AG - Dark Spiderling (Spider Boss Version)",
+          "objectID": 16197,
+          "displayName": "Dark Spiderling"
         }
       ],
       "soldByVendor": 1

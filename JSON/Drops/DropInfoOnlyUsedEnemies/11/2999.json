@@ -160,6 +160,11 @@
           "name": "VE Instance - Stromling Hammerling Ranged",
           "objectID": 8238,
           "displayName": "Hammerhurl Stromling"
+        },
+        {
+          "name": "VE Instance - Stromling Hammerling Melee",
+          "objectID": 12542,
+          "displayName": "Hammer Stromling"
         }
       ],
       "soldByVendor": 0

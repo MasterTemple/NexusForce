@@ -21,7 +21,28 @@
       "maxToDrop": "1",
       "id": "2174",
       "differentItemsToDropRange": 1,
-      "destructibleComponents": [],
+      "destructibleComponents": [
+        {
+          "name": "AM - Skeleton Miner NAMED",
+          "objectID": 12001,
+          "displayName": "Hardhead - Skeleton Miner"
+        }
+      ],
+      "soldByVendor": 0
+    },
+    {
+      "percent": 25,
+      "minToDrop": "1",
+      "maxToDrop": "1",
+      "id": "2174",
+      "differentItemsToDropRange": 1,
+      "destructibleComponents": [
+        {
+          "name": "AM - Skeleton Miner NAMED",
+          "objectID": 12001,
+          "displayName": "Hardhead - Skeleton Miner"
+        }
+      ],
       "soldByVendor": 0
     }
   ]
