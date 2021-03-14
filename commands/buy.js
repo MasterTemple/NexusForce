@@ -31,7 +31,8 @@ module.exports = {
 
         let msgEmbed = require(`./../functions/embedTemplate.js`)
 
-        let embed = msgEmbed.execute(buyFile.displayName, undefined,`https://lu-explorer.web.app/objects/${buyFile.objectID}`, buyFile.iconURL)
+        //let embed = msgEmbed.execute(buyFile.displayName, undefined,`https://lu-explorer.web.app/objects/${buyFile.objectID}`, buyFile.iconURL)
+        let embed = msgEmbed.execute(`${buyFile.displayName} [${objectID}]`, undefined,`https://lu-explorer.web.app/objects/${buyFile.objectID}`, buyFile.iconURL)
 
         if(buyFile.factionTokens !== null){
             embed.addFields(

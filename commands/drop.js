@@ -32,21 +32,32 @@ module.exports = {
         try{
             var dropFile = require(`./../json/Drops/Drops 2.0/${Math.floor(objectID / 256)}/${objectID}.json`)
 
-            var embed = msgEmbed.execute(dropFile.displayName, undefined, `https://lu-explorer.web.app/objects/${dropFile.id}`, dropFile.iconURL)
+            if(dropFile.dropStuff.length !== 0){
+                //var embed = msgEmbed.execute(dropFile.displayName, undefined, `https://lu-explorer.web.app/objects/${dropFile.id}`, dropFile.iconURL)
+                var embed = msgEmbed.execute(`${dropFile.displayName} [${objectID}]`, undefined, `https://lu-explorer.web.app/objects/${dropFile.id}`, dropFile.iconURL)
 
-            console.log(dropFile)
-            for (var e = 0; e < dropFile.dropStuff.length; e++) {
-                //embed.addField(`${dropFile.dropStuff[e].percent}% Chance to Drop`, `${dropFile.dropStuff[e].destructibleComponents[0].displayName}[${dropFile.dropStuff[e].destructibleComponents[0].objectID}]`,true)
+                console.log(dropFile)
+                for (var e = 0; e < dropFile.dropStuff.length; e++) {
+                    //embed.addField(`${dropFile.dropStuff[e].percent}% Chance to Drop`, `${dropFile.dropStuff[e].destructibleComponents[0].displayName}[${dropFile.dropStuff[e].destructibleComponents[0].objectID}]`,true)
 
-                if (dropFile.dropStuff[e].minToDrop === dropFile.dropStuff[e].maxToDrop) {
-                    embed.addField(`${dropFile.dropStuff[e].destructibleComponents[0].displayName}`, `Has a ${dropFile.dropStuff[e].percent}% chance to drop ${dropFile.dropStuff[e].minToDrop} of ${dropFile.dropStuff[e].differentItemsToDropRange} different items.`, false)
-                } else {
-                    embed.addField(`${dropFile.dropStuff[e].destructibleComponents[0].displayName}`, `Has a ${dropFile.dropStuff[e].percent}% chance to drop between ${dropFile.dropStuff[e].minToDrop} and ${dropFile.dropStuff[e].maxToDrop} of ${dropFile.dropStuff[e].differentItemsToDropRange} different items.`, false)
+                    if (dropFile.dropStuff[e].minToDrop === dropFile.dropStuff[e].maxToDrop) {
+                        embed.addField(`${dropFile.dropStuff[e].destructibleComponents[0].displayName}`, `Has a ${dropFile.dropStuff[e].percent}% chance to drop ${dropFile.dropStuff[e].minToDrop} of ${dropFile.dropStuff[e].differentItemsToDropRange} different items.`, false)
+                    } else {
+                        embed.addField(`${dropFile.dropStuff[e].destructibleComponents[0].displayName}`, `Has a ${dropFile.dropStuff[e].percent}% chance to drop between ${dropFile.dropStuff[e].minToDrop} and ${dropFile.dropStuff[e].maxToDrop} of ${dropFile.dropStuff[e].differentItemsToDropRange} different items.`, false)
+                    }
                 }
+            }else{
+                var itemFile = require(`./../json/Items/${Math.floor(objectID / 256)}/${objectID}.json`)
+                //var embed = msgEmbed.execute(itemFile.displayName, undefined, `https://lu-explorer.web.app/objects/${itemFile.itemID}`, itemFile.iconURL)
+                var embed = msgEmbed.execute(`${itemFile.displayName} [${objectID}]`, undefined, `https://lu-explorer.web.app/objects/${itemFile.id}`, itemFile.iconURL)
+                embed.addField(`This Item Is Not Dropped!`, "Try **!buy** or **!earn** to see how to unlock this item!", false)
             }
+
         }catch{
             var itemFile = require(`./../json/Items/${Math.floor(objectID / 256)}/${objectID}.json`)
-            var embed = msgEmbed.execute(itemFile.displayName, undefined, `https://lu-explorer.web.app/objects/${itemFile.itemID}`, itemFile.iconURL)
+            //var embed = msgEmbed.execute(itemFile.displayName, undefined, `https://lu-explorer.web.app/objects/${itemFile.itemID}`, itemFile.iconURL)
+            var embed = msgEmbed.execute(`${itemFile.displayName} [${objectID}]`, undefined, `https://lu-explorer.web.app/objects/${itemFile.id}`, itemFile.iconURL)
+
             embed.addField(`This Item Is Not Dropped!`, "Try **!buy** or **!earn** to see how to unlock this item!", false)
         }
 

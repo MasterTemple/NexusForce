@@ -5,6 +5,7 @@ module.exports = {
     use: `npc [id]`,
     example: [`npc 7570`],
     execute(message, args) {
+        console.log(args)
         function err() {
             try {
                 const help = require(`./help.js`);
@@ -30,7 +31,8 @@ module.exports = {
         let msgEmbed = require(`./../functions/embedTemplate.js`)
         console.log(npcFile)
 
-        let embed = msgEmbed.execute(npcFile.displayName, undefined,`https://lu-explorer.web.app/objects/${npcFile.objectID}`, npcFile.iconURL)
+        //let embed = msgEmbed.execute(npcFile.displayName, undefined,`https://lu-explorer.web.app/objects/${npcFile.objectID}`, npcFile.iconURL)
+        let embed = msgEmbed.execute(`${npcFile.displayName} [${npcFile.objectID}]`, undefined,`https://lu-explorer.web.app/objects/${npcFile.objectID}`, npcFile.iconURL)
 
         if(npcFile.isMissionGiver){
             var missions = ``

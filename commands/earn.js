@@ -29,7 +29,8 @@ module.exports = {
         let msgEmbed = require(`./../functions/embedTemplate.js`)
         var earnFile = require(`./../json/Drops/EarnFromMission/${Math.floor(objectID/256)}/${objectID}.json`)
 
-        let embed = msgEmbed.execute(earnFile.displayName, undefined,`https://lu-explorer.web.app/objects/${earnFile.itemID}`, earnFile.iconURL)
+        //let embed = msgEmbed.execute(earnFile.displayName, undefined,`https://lu-explorer.web.app/objects/${earnFile.itemID}`, earnFile.iconURL)
+        let embed = msgEmbed.execute(`${earnFile.displayName} [${earnFile.itemID}]`, undefined,`https://lu-explorer.web.app/objects/${earnFile.itemID}`, earnFile.iconURL)
 
 
         if(earnFile.table.length !== 0){

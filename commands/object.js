@@ -30,14 +30,14 @@ module.exports = {
         console.log(objectID)
 
             try {
-                let objectInformationFile = require(`./../json/Reference/objects.json`)
-                let type = objectInformationFile.table.find(a => a.id === objectID).type
+                let objectInformationFile = require(`./../json/Types/${Math.floor(objectID/256)}/${objectID}.json`)
+                let type = objectInformationFile.type
                 //return
 
                 if (type == (`NPC`) || type == (`UserGeneratedNPCs`)) {
                     const func = require(`./npc.js`);
                     try {
-                        func.execute(message, args);
+                        func.execute(message, [objectID]);
                     } catch (error) {
                         console.error(error);
                     }
@@ -63,7 +63,7 @@ module.exports = {
                     const func = require(`./brick.js`);
                     //func.execute()
                     try {
-                        func.execute(message, args);
+                        func.execute(message, objectID);
                     } catch (error) {
                         console.error(error);
                     }
