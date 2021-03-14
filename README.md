@@ -37,32 +37,32 @@ Installation
 
 4. Run index.js through your IDE or by typing `node index.js`
 
-#Two Types of Commands:
+# Two Types of Commands:
 1. Normal (Accessible by all users)\
 Visible with !help command
    
 2. Mythran (Accessible by only mythrans)\
 Visible with !mythran command
    
-#Issues:
+# Issues:
 For emojis to work you will need to update their location or ask me for the token so you can use this bot.
 I am aware the weapon combos with some weapons are messed up (the charge up ones that do no damage)
 
-#Some screenshots:
-#!drop
+# Some screenshots:
+# !drop
 ![img_7.png](img_7.png)\
-#!obj
+# !obj
 ![img_4.png](img_4.png)\
-#!earn
+# !earn
 ![img_5.png](img_5.png)\
-#!buy
+# !buy
 ![img_6.png](img_6.png)\
-#!mission
+# !mission
 ![img_1.png](img_1.png)\
-#!level
+# !level
 ![img.png](img.png)\
-#!brick
+# !brick
 ![img_2.png](img_2.png)\
-#!npc
+# !npc
 ![img_3.png](img_3.png)\
 
