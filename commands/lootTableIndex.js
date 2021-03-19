@@ -32,9 +32,9 @@ module.exports = {
 
             var LootTableIndexFile = require(`./../json/LootTableIndex/${objectID}.json`)
             if(LootTableIndexFile.items.length === 1){
-                var embed = msgEmbed.execute(`LootTableIndex: ${LootTableIndexFile.LootTableIndex} - ${LootTableIndexFile.items.length} item`, undefined, `https://github.com/MasterTemple/NexusForce/tree/main/JSON/LootTableIndex/${objectID}`, iconURL)
+                var embed = msgEmbed.execute(`LTI: ${LootTableIndexFile.LootTableIndex} - ${LootTableIndexFile.items.length} item (${LootTableIndexFile.type})`, undefined, `https://github.com/MasterTemple/NexusForce/tree/main/JSON/LootTableIndex/${objectID}`, iconURL)
             }else{
-                var embed = msgEmbed.execute(`LootTableIndex: ${LootTableIndexFile.LootTableIndex} - ${LootTableIndexFile.items.length} items`, undefined, `https://github.com/MasterTemple/NexusForce/tree/main/JSON/LootTableIndex/${objectID}`, iconURL)
+                var embed = msgEmbed.execute(`LTI: ${LootTableIndexFile.LootTableIndex} - ${LootTableIndexFile.items.length} items (${LootTableIndexFile.type})`, undefined, `https://github.com/MasterTemple/NexusForce/tree/main/JSON/LootTableIndex/${objectID}`, iconURL)
             }
             if(LootTableIndexFile.items.length !== 0){
                 //var embed = msgEmbed.execute(LootTableIndexFile.displayName, undefined, `https://lu-explorer.web.app/objects/${LootTableIndexFile.id}`, LootTableIndexFile.iconURL)
