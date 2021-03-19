@@ -1,0 +1,235 @@
+{
+  "LootTableIndex": 490,
+  "items": [
+    {
+      "itemID": 11621,
+      "displayName": "Construction Barricade 1 Model",
+      "name": "Model Reward Construction Barricade 1"
+    },
+    {
+      "itemID": 11622,
+      "displayName": "Construction Barricade 2 Model",
+      "name": "Model Reward Construction Barricade 2"
+    },
+    {
+      "itemID": 11623,
+      "displayName": "Construction Barricade 3 Model",
+      "name": "Model Reward Construction Barricade 3"
+    },
+    {
+      "itemID": 11624,
+      "displayName": "Construction Compactor Model",
+      "name": "Model Reward Construction Compactor"
+    },
+    {
+      "itemID": 11625,
+      "displayName": "Construction Cone Model",
+      "name": "Model Reward Construction Cone"
+    },
+    {
+      "itemID": 11626,
+      "displayName": "Construction Closed Container Model",
+      "name": "Model Reward Construction Container Closed 1"
+    },
+    {
+      "itemID": 11627,
+      "displayName": "Construction Closed Container 2 Model",
+      "name": "Model Reward Construction Container Closed 2"
+    },
+    {
+      "itemID": 11628,
+      "displayName": "Construction Closed Container 3 Model",
+      "name": "Model Reward Construction Container Closed 3"
+    },
+    {
+      "itemID": 11629,
+      "displayName": "Construction Open Container 1 Model",
+      "name": "Model Reward Construction Container Open 1"
+    },
+    {
+      "itemID": 11630,
+      "displayName": "Construction Open Container 2 Model",
+      "name": "Model Reward Construction Container Open 2"
+    },
+    {
+      "itemID": 11631,
+      "displayName": "Construction Open Container 3 Model",
+      "name": "Model Reward Construction Container Open 3"
+    },
+    {
+      "itemID": 11632,
+      "displayName": "Construction Crane 1 Model",
+      "name": "Model Reward Construction Crane 1"
+    },
+    {
+      "itemID": 11633,
+      "displayName": "Construction Crane 2 Model",
+      "name": "Model Reward Construction Crane 2"
+    },
+    {
+      "itemID": 11634,
+      "displayName": "Construction Fence 1 Model",
+      "name": "Model Reward Construction Fence 1"
+    },
+    {
+      "itemID": 11635,
+      "displayName": "Construction Fence 2 Model",
+      "name": "Model Reward Construction Fence 2"
+    },
+    {
+      "itemID": 11636,
+      "displayName": "Construction Fence 3 Model",
+      "name": "Model Reward Construction Fence 3"
+    },
+    {
+      "itemID": 11637,
+      "displayName": "Construction Generator Model",
+      "name": "Model Reward Construction Generator"
+    },
+    {
+      "itemID": 11638,
+      "displayName": "Construction Lift 1 Model",
+      "name": "Model Reward Construction Lift 1"
+    },
+    {
+      "itemID": 11639,
+      "displayName": "Construction Lift 2 Model",
+      "name": "Model Reward Construction Lift 2"
+    },
+    {
+      "itemID": 11640,
+      "displayName": "Construction Lift 3 Model",
+      "name": "Model Reward Construction Lift 3"
+    },
+    {
+      "itemID": 11641,
+      "displayName": "Construction Lift 4 Model",
+      "name": "Model Reward Construction Lift 4"
+    },
+    {
+      "itemID": 11642,
+      "displayName": "Construction Light Trailer Model",
+      "name": "Model Reward Construction Light Trailer"
+    },
+    {
+      "itemID": 11643,
+      "displayName": "Construction Loader 1 Model",
+      "name": "Model Reward Construction Loader 1"
+    },
+    {
+      "itemID": 11644,
+      "displayName": "Construction Loader 2 Model",
+      "name": "Model Reward Construction Loader 2"
+    },
+    {
+      "itemID": 11645,
+      "displayName": "Construction Rock Model",
+      "name": "Model Reward Construction Rock"
+    },
+    {
+      "itemID": 11646,
+      "displayName": "Construction Scaffold 1 Model",
+      "name": "Model Reward Construction Scaffold 1"
+    },
+    {
+      "itemID": 11647,
+      "displayName": "Construction Scaffold 2 Model",
+      "name": "Model Reward Construction Scaffold 2"
+    },
+    {
+      "itemID": 11648,
+      "displayName": "Construction Scaffold 3 Model",
+      "name": "Model Reward Construction Scaffold 3"
+    },
+    {
+      "itemID": 11649,
+      "displayName": "Construction Shovel Model",
+      "name": "Model Reward Construction Shovel"
+    },
+    {
+      "itemID": 11650,
+      "displayName": "Construction Sign 1 Model",
+      "name": "Model Reward Construction Sign 1"
+    },
+    {
+      "itemID": 11651,
+      "displayName": "Construction Sign 2 Model",
+      "name": "Model Reward Construction Sign 2"
+    },
+    {
+      "itemID": 11652,
+      "displayName": "Construction Stairs 1 Model",
+      "name": "Model Reward Construction Stairs 1"
+    },
+    {
+      "itemID": 11653,
+      "displayName": "Construction Steamroller Model",
+      "name": "Model Reward Construction Steamroller"
+    },
+    {
+      "itemID": 11654,
+      "displayName": "Construction Supplies 1 Model",
+      "name": "Model Reward Construction Supplies 1"
+    },
+    {
+      "itemID": 11655,
+      "displayName": "Construction Supplies 2 Model",
+      "name": "Model Reward Construction Supplies 2"
+    },
+    {
+      "itemID": 11656,
+      "displayName": "Construction Trailer 1 Model",
+      "name": "Model Reward Construction Trailer 1"
+    },
+    {
+      "itemID": 11657,
+      "displayName": "Construction Trailer 2 Model",
+      "name": "Model Reward Construction Trailer 2"
+    },
+    {
+      "itemID": 11658,
+      "displayName": "Construction Truck 1 Model",
+      "name": "Model Reward Construction Truck 1"
+    },
+    {
+      "itemID": 11659,
+      "displayName": "Construction Truck 2 Model",
+      "name": "Model Reward Construction Truck 2"
+    },
+    {
+      "itemID": 11660,
+      "displayName": "Construction Truck 3 Model",
+      "name": "Model Reward Construction Truck 3"
+    },
+    {
+      "itemID": 11661,
+      "displayName": "Construction Truck 4 Model",
+      "name": "Model Reward Construction Truck 4"
+    },
+    {
+      "itemID": 11662,
+      "displayName": "Construction Truck 5 Model",
+      "name": "Model Reward Construction Truck 5"
+    },
+    {
+      "itemID": 11663,
+      "displayName": "Construction Truck 6 Model",
+      "name": "Model Reward Construction Truck 6"
+    },
+    {
+      "itemID": 11664,
+      "displayName": "Construction Truck 7 Model",
+      "name": "Model Reward Construction Truck 7"
+    },
+    {
+      "itemID": 11665,
+      "displayName": "Construction Truck 8 Model",
+      "name": "Model Reward Construction Truck 8"
+    },
+    {
+      "itemID": 11666,
+      "displayName": "Construction Truck 9 Model",
+      "name": "Model Reward Construction Truck 9"
+    }
+  ]
+}

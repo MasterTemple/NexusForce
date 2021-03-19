@@ -1,0 +1,180 @@
+{
+  "LootTableIndex": 112,
+  "items": [
+    {
+      "itemID": 20,
+      "displayName": null,
+      "name": "Rank 1 Buccaneer Book"
+    },
+    {
+      "itemID": 21,
+      "displayName": null,
+      "name": "Rank 1 Daredevil Book"
+    },
+    {
+      "itemID": 8465,
+      "displayName": "Adventurer Backpack 2",
+      "name": "Adventurer Neck/Back 2"
+    },
+    {
+      "itemID": 8466,
+      "displayName": "Daredevil Shoulderpads 2",
+      "name": "Daredevil Neck/Back 2"
+    },
+    {
+      "itemID": 8467,
+      "displayName": "Buccaneer Bandolier 2",
+      "name": "Buccaneer Neck/Back 2"
+    },
+    {
+      "itemID": 9626,
+      "displayName": "Venture Vitality Vial",
+      "name": "Venture Faction Consumable 1"
+    },
+    {
+      "itemID": 11458,
+      "displayName": "Adventurer Whip 2",
+      "name": "Adventurer Whip 2"
+    },
+    {
+      "itemID": 11923,
+      "displayName": null,
+      "name": "Rank 1 Adventurer Book"
+    },
+    {
+      "itemID": 13135,
+      "displayName": "Large Bag of Green Imaginite",
+      "name": "Large Green Imaginite Bag - Venture"
+    },
+    {
+      "itemID": 13140,
+      "displayName": "Medium Bag of Red Imaginite",
+      "name": "Medium Red Imaginite Bag - Venture"
+    },
+    {
+      "itemID": 13145,
+      "displayName": "Small Bag of Blue Imaginite",
+      "name": "Small Blue Imaginite Bag - Venture"
+    },
+    {
+      "itemID": 7358,
+      "displayName": "Buccaneer Scarf 1",
+      "name": "Buccaneer Head 1"
+    },
+    {
+      "itemID": 7365,
+      "displayName": "Buccaneer Scarf 2",
+      "name": "Buccaneer Head 2"
+    },
+    {
+      "itemID": 7376,
+      "displayName": "Buccaneer Shirt 1",
+      "name": "Buccaneer Chest 1"
+    },
+    {
+      "itemID": 7377,
+      "displayName": "Buccaneer Shirt 2",
+      "name": "Buccaneer Chest 2"
+    },
+    {
+      "itemID": 7388,
+      "displayName": "Buccaneer Pantaloons 1",
+      "name": "Buccaneer Legs 1"
+    },
+    {
+      "itemID": 7389,
+      "displayName": "Buccaneer Pantaloons 2",
+      "name": "Buccaneer Legs 2"
+    },
+    {
+      "itemID": 7400,
+      "displayName": "Buccaneer Pistol & Cutlass 1",
+      "name": "Buccaneer Weapon 1"
+    },
+    {
+      "itemID": 7401,
+      "displayName": "Buccaneer Pistol & Cutlass 2",
+      "name": "Buccaneer Weapon 2"
+    },
+    {
+      "itemID": 7460,
+      "displayName": "Adventurer Hat 1",
+      "name": "Adventurer Head 1"
+    },
+    {
+      "itemID": 7461,
+      "displayName": "Adventurer Hat 2",
+      "name": "Adventurer Head 2"
+    },
+    {
+      "itemID": 7463,
+      "displayName": "Daredevil Helmet 1",
+      "name": "Daredevil Head 1"
+    },
+    {
+      "itemID": 7464,
+      "displayName": "Daredevil Helmet 2",
+      "name": "Daredevil Head 2"
+    },
+    {
+      "itemID": 7484,
+      "displayName": "Adventurer Coat 1",
+      "name": "Adventurer Chest 1"
+    },
+    {
+      "itemID": 7485,
+      "displayName": "Adventurer Coat 2",
+      "name": "Adventurer Chest 2"
+    },
+    {
+      "itemID": 7487,
+      "displayName": "Daredevil Jacket 1",
+      "name": "Daredevil Chest 1"
+    },
+    {
+      "itemID": 7488,
+      "displayName": "Daredevil Jacket 2",
+      "name": "Daredevil Chest 2"
+    },
+    {
+      "itemID": 7508,
+      "displayName": "Adventurer Pants 1",
+      "name": "Adventurer Legs 1"
+    },
+    {
+      "itemID": 7509,
+      "displayName": "Adventurer Pants 2",
+      "name": "Adventurer Legs 2"
+    },
+    {
+      "itemID": 7511,
+      "displayName": "Daredevil Pants 1",
+      "name": "Daredevil Legs 1"
+    },
+    {
+      "itemID": 7512,
+      "displayName": "Daredevil Pants 2",
+      "name": "Daredevil Legs 2"
+    },
+    {
+      "itemID": 7532,
+      "displayName": "Adventurer Crossbow 1",
+      "name": "Adventurer Crossbow 1"
+    },
+    {
+      "itemID": 7533,
+      "displayName": "Adventurer Crossbow 2",
+      "name": "Adventurer Crossbow 2"
+    },
+    {
+      "itemID": 7535,
+      "displayName": "Daredevil Flareguns 1",
+      "name": "Daredevil Weapon 1"
+    },
+    {
+      "itemID": 7536,
+      "displayName": "Daredevil Flareguns 2",
+      "name": "Daredevil Weapon 2"
+    }
+  ]
+}

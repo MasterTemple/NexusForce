@@ -1,0 +1,75 @@
+{
+  "LootTableIndex": 354,
+  "items": [
+    {
+      "itemID": 9623,
+      "displayName": "Sentinel Super Soda",
+      "name": "Sentinel Faction Consumable 1"
+    },
+    {
+      "itemID": 9624,
+      "displayName": "Assembly Awesome-Ade",
+      "name": "Assembly Faction Consumable 1"
+    },
+    {
+      "itemID": 9625,
+      "displayName": "Paradox Power Potion",
+      "name": "Paradox Faction Consumable 1"
+    },
+    {
+      "itemID": 9626,
+      "displayName": "Venture Vitality Vial",
+      "name": "Venture Faction Consumable 1"
+    },
+    {
+      "itemID": 12474,
+      "displayName": "Cherry Blast",
+      "name": "Cherry Blast"
+    },
+    {
+      "itemID": 12549,
+      "displayName": "Exceptional Pea Shooter",
+      "name": "Exceptional Pea Shooter"
+    },
+    {
+      "itemID": 12762,
+      "displayName": "Battle Croissant",
+      "name": "Battle Croissant"
+    },
+    {
+      "itemID": 12763,
+      "displayName": "BBQ Drumstick",
+      "name": "BBQ Drumstick"
+    },
+    {
+      "itemID": 12764,
+      "displayName": "Big Fountain Soda",
+      "name": "Big Fountain Soda"
+    },
+    {
+      "itemID": 12765,
+      "displayName": "Energy Bar",
+      "name": "Energy Bar"
+    },
+    {
+      "itemID": 12766,
+      "displayName": "Xpresso",
+      "name": "Xpresso"
+    },
+    {
+      "itemID": 12772,
+      "displayName": "Banana-Wrang",
+      "name": "Banana-Wrang"
+    },
+    {
+      "itemID": 12777,
+      "displayName": "Battle Bread",
+      "name": "Battle Bread"
+    },
+    {
+      "itemID": 12778,
+      "displayName": "Carrot of Courage",
+      "name": "Carrot of Courage"
+    }
+  ]
+}

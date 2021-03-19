@@ -1,0 +1,140 @@
+{
+  "LootTableIndex": 202,
+  "items": [
+    {
+      "itemID": 8331,
+      "displayName": "Exceptional Katana",
+      "name": "Exceptional Katana"
+    },
+    {
+      "itemID": 8447,
+      "displayName": "Elite Oar",
+      "name": "Elite Oar"
+    },
+    {
+      "itemID": 8448,
+      "displayName": "Super Hatchet",
+      "name": "Super Hatchet"
+    },
+    {
+      "itemID": 8449,
+      "displayName": "Super Shovel",
+      "name": "Super Shovel"
+    },
+    {
+      "itemID": 8450,
+      "displayName": "Elite Pickaxe",
+      "name": "Elite Pickaxe"
+    },
+    {
+      "itemID": 8452,
+      "displayName": "Super Shortsword",
+      "name": "Super Shortsword"
+    },
+    {
+      "itemID": 8453,
+      "displayName": "Elite Shortsword",
+      "name": "Elite Shortsword"
+    },
+    {
+      "itemID": 8454,
+      "displayName": "Super Hairbrush",
+      "name": "Super Hairbrush"
+    },
+    {
+      "itemID": 8455,
+      "displayName": "Great Crescent Wrench",
+      "name": "Great Crescent Wrench"
+    },
+    {
+      "itemID": 8468,
+      "displayName": "Super Spear",
+      "name": "Super Spear"
+    },
+    {
+      "itemID": 8469,
+      "displayName": "Elite Ice Saw",
+      "name": "Elite Ice Saw"
+    },
+    {
+      "itemID": 8470,
+      "displayName": "Elite Halberd",
+      "name": "Elite Halberd"
+    },
+    {
+      "itemID": 8472,
+      "displayName": "Elite Katana",
+      "name": "Elite Katana"
+    },
+    {
+      "itemID": 8473,
+      "displayName": "Elite Scimitar",
+      "name": "Elite Scimitar"
+    },
+    {
+      "itemID": 8474,
+      "displayName": "Great Corseque",
+      "name": "Great Corseque"
+    },
+    {
+      "itemID": 8475,
+      "displayName": "Super Corseque",
+      "name": "Super Corseque"
+    },
+    {
+      "itemID": 8477,
+      "displayName": "Super Dirk",
+      "name": "Super Dirk"
+    },
+    {
+      "itemID": 8478,
+      "displayName": "Elite Fang",
+      "name": "Elite Fang"
+    },
+    {
+      "itemID": 9258,
+      "displayName": "Super Composite Axe",
+      "name": "Super Composite Axe"
+    },
+    {
+      "itemID": 10434,
+      "displayName": "Elite Battle Axe",
+      "name": "Elite Battle Axe"
+    },
+    {
+      "itemID": 2586,
+      "displayName": "Great Longsword of Lightning",
+      "name": "Great Longsword of Lightning"
+    },
+    {
+      "itemID": 3855,
+      "displayName": "Super Bobbejaan Spanner",
+      "name": "Super Bobbejaan Spanner"
+    },
+    {
+      "itemID": 5696,
+      "displayName": "Great Mattock",
+      "name": "Great Mattock"
+    },
+    {
+      "itemID": 6852,
+      "displayName": "Great Composite Axe",
+      "name": "Great Composite Axe"
+    },
+    {
+      "itemID": 7069,
+      "displayName": "Great Fang",
+      "name": "Great Fang"
+    },
+    {
+      "itemID": 7283,
+      "displayName": "Elite Saw of Drowsiness",
+      "name": "Elite Saw of Drowsiness"
+    },
+    {
+      "itemID": 7284,
+      "displayName": "Elite Blade of Knock Down",
+      "name": "Elite Blade of KnockDown"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "LootTableIndex": 181,
+  "items": [
+    {
+      "itemID": 8528,
+      "displayName": "Troll Shield",
+      "name": "Kite Shield 1"
+    },
+    {
+      "itemID": 8543,
+      "displayName": "Key of Imagination",
+      "name": "Key of Imagination"
+    },
+    {
+      "itemID": 8584,
+      "displayName": "Pet Crab Shirt",
+      "name": "Pet Crab Shirt"
+    },
+    {
+      "itemID": 8585,
+      "displayName": "Pet Crocodile Shirt",
+      "name": "Pet Crocodile Shirt"
+    },
+    {
+      "itemID": 8586,
+      "displayName": "Pet Red Dragon Shirt",
+      "name": "Pet Red Dragon Shirt"
+    },
+    {
+      "itemID": 8587,
+      "displayName": "Pet Elephant Shirt",
+      "name": "Pet Elephant Shirt"
+    },
+    {
+      "itemID": 8588,
+      "displayName": "Pet Goat Shirt",
+      "name": "Pet Goat Shirt"
+    },
+    {
+      "itemID": 8589,
+      "displayName": "Pet Green Dragon Shirt",
+      "name": "Pet Green Dragon Shirt"
+    },
+    {
+      "itemID": 8590,
+      "displayName": "Pet Lion Shirt",
+      "name": "Pet Lion Shirt"
+    },
+    {
+      "itemID": 8591,
+      "displayName": "Pet Mantis Shirt",
+      "name": "Pet Mantis Shirt"
+    },
+    {
+      "itemID": 8592,
+      "displayName": "Pet Panda Shirt",
+      "name": "Pet Panda Shirt"
+    },
+    {
+      "itemID": 8593,
+      "displayName": "Pet Robot Dog Shirt",
+      "name": "Pet Robot Dog Shirt"
+    },
+    {
+      "itemID": 8594,
+      "displayName": "Pet Skunk Shirt",
+      "name": "Pet Skunk Shirt"
+    },
+    {
+      "itemID": 8595,
+      "displayName": "Pet Tortoise Shirt",
+      "name": "Pet Tortoise Shirt"
+    },
+    {
+      "itemID": 8596,
+      "displayName": "Pet Warthog Shirt",
+      "name": "Pet Warthog Shirt"
+    },
+    {
+      "itemID": 8599,
+      "displayName": "New Western Shirt",
+      "name": "New Western Shirt"
+    },
+    {
+      "itemID": 8602,
+      "displayName": "Blue Uniform",
+      "name": "Blue Uniform"
+    },
+    {
+      "itemID": 8622,
+      "displayName": "Light Blue Princess Shirt",
+      "name": "Princess Shirt 1"
+    },
+    {
+      "itemID": 8639,
+      "displayName": "Obsidian Armor",
+      "name": "Obsidian Armor"
+    },
+    {
+      "itemID": 8684,
+      "displayName": "Epaulets of Extravagance",
+      "name": "Epaulets of Extravagance"
+    },
+    {
+      "itemID": 9875,
+      "displayName": "LEGO Club Jumpsuit",
+      "name": "LEGO Club Jumpsuit"
+    },
+    {
+      "itemID": 2999,
+      "displayName": "Super Notion Potion",
+      "name": "Potion of Imagination 3"
+    },
+    {
+      "itemID": 3039,
+      "displayName": "Green Imaginite",
+      "name": "Green Imaginite"
+    },
+    {
+      "itemID": 3040,
+      "displayName": "Red Imaginite",
+      "name": "Red Imaginite"
+    },
+    {
+      "itemID": 6262,
+      "displayName": "Pet Triceratops Shirt",
+      "name": "Pet Triceratops Shirt"
+    },
+    {
+      "itemID": 6263,
+      "displayName": "Pet Doberman Shirt",
+      "name": "Pet Doberman Shirt"
+    },
+    {
+      "itemID": 6264,
+      "displayName": "Pet Buffalo Shirt",
+      "name": "Pet Buffalo Shirt"
+    },
+    {
+      "itemID": 14698,
+      "displayName": "LEGO Club Rocket Nose Cone",
+      "name": "MOD Rocket LEGO Club Nose Cone"
+    },
+    {
+      "itemID": 14699,
+      "displayName": "LEGO Club Rocket Cockpit",
+      "name": "MOD Rocket LEGO Club Cockpit"
+    },
+    {
+      "itemID": 14700,
+      "displayName": "LEGO Club Rocket Engine",
+      "name": "MOD Rocket LEGO Club Engine"
+    },
+    {
+      "itemID": 14759,
+      "displayName": "LEGO Club Front Bumper",
+      "name": "MOD Car LEGO Club Car Front Bumper"
+    },
+    {
+      "itemID": 14760,
+      "displayName": "LEGO Club Engine Panel",
+      "name": "MOD Car LEGO Club Car Engine Panel"
+    },
+    {
+      "itemID": 14761,
+      "displayName": "LEGO Club Side Panels",
+      "name": "MOD Car LEGO Club Car Side Panels"
+    },
+    {
+      "itemID": 14762,
+      "displayName": "LEGO Club Rear Panel",
+      "name": "MOD Car LEGO Club Car Rear Panel"
+    },
+    {
+      "itemID": 14763,
+      "displayName": "LEGO Club Rear Bumper",
+      "name": "MOD Car LEGO Club Car Rear Bumper"
+    },
+    {
+      "itemID": 7735,
+      "displayName": "Pet Bunny Shirt",
+      "name": "Pet Bunny Shirt"
+    },
+    {
+      "itemID": 7736,
+      "displayName": "Pet Terrier Shirt",
+      "name": "Pet Terrier Shirt"
+    },
+    {
+      "itemID": 7737,
+      "displayName": "Pet Cat Shirt",
+      "name": "Pet Cat Shirt"
+    },
+    {
+      "itemID": 7834,
+      "displayName": "Pharaoh's Hat",
+      "name": "Egyptian Headdress"
+    }
+  ]
+}

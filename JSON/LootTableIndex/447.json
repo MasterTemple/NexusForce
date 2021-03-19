@@ -1,0 +1,210 @@
+{
+  "LootTableIndex": 360,
+  "items": [
+    {
+      "itemID": 9450,
+      "displayName": "Red Rim Wheels",
+      "name": "CarModule_Wheels_r"
+    },
+    {
+      "itemID": 3039,
+      "displayName": "Green Imaginite",
+      "name": "Green Imaginite"
+    },
+    {
+      "itemID": 11505,
+      "displayName": "Choo-Choo Charger Engine Panel",
+      "name": "CarH2_EnginePanel1"
+    },
+    {
+      "itemID": 11507,
+      "displayName": "Choo-Choo Charger Front Bumper",
+      "name": "CarH2_FrontBumper1"
+    },
+    {
+      "itemID": 11508,
+      "displayName": "Choo-Choo Charger Rear Bumper",
+      "name": "CarH2_RearBumper1"
+    },
+    {
+      "itemID": 11509,
+      "displayName": "Choo-Choo Charger Rear Panel",
+      "name": "CarH2_RearPanel1"
+    },
+    {
+      "itemID": 11510,
+      "displayName": "Choo-Choo Charger Side Panels",
+      "name": "CarH2_SidePanels1"
+    },
+    {
+      "itemID": 11873,
+      "displayName": "Winter Fireplace Model",
+      "name": "Model Reward Winter Fireplace"
+    },
+    {
+      "itemID": 11874,
+      "displayName": "Winter Gingerbread House Door Model 1",
+      "name": "Model Reward Winter Gingerbread House Door 1"
+    },
+    {
+      "itemID": 11875,
+      "displayName": "Winter Gingerbread House Door Model 2",
+      "name": "Model Reward Winter Gingerbread House Door 2"
+    },
+    {
+      "itemID": 11876,
+      "displayName": "Winter Gingerbread House End Model 1",
+      "name": "Model Reward Winter Gingerbread House End 1"
+    },
+    {
+      "itemID": 11877,
+      "displayName": "Winter Gingerbread House End Model 2",
+      "name": "Model Reward Winter Gingerbread House End 2"
+    },
+    {
+      "itemID": 11878,
+      "displayName": "Winter Gingerbread House Side Model 1",
+      "name": "Model Reward Winter Gingerbread House Side 1"
+    },
+    {
+      "itemID": 11879,
+      "displayName": "Winter Gingerbread House Window Model 1",
+      "name": "Model Reward Winter Gingerbread House Window 1"
+    },
+    {
+      "itemID": 11880,
+      "displayName": "Winter Northpole Model",
+      "name": "Model Reward Winter Northpole"
+    },
+    {
+      "itemID": 11881,
+      "displayName": "Winter Penguin Model",
+      "name": "Model Reward Winter Penguin"
+    },
+    {
+      "itemID": 11882,
+      "displayName": "Winter Present Model 1",
+      "name": "Model Reward Winter Present 1"
+    },
+    {
+      "itemID": 11883,
+      "displayName": "Winter Present Model 2",
+      "name": "Model Reward Winter Present 2"
+    },
+    {
+      "itemID": 11884,
+      "displayName": "Winter Present Model 3",
+      "name": "Model Reward Winter Present 3"
+    },
+    {
+      "itemID": 11889,
+      "displayName": "Winter Train Car Model",
+      "name": "Model Reward Winter Train Car"
+    },
+    {
+      "itemID": 11890,
+      "displayName": "Winter Train Engine Model",
+      "name": "Model Reward Winter Train Engine"
+    },
+    {
+      "itemID": 11891,
+      "displayName": "Winter Train Tender Model",
+      "name": "Model Reward Winter Train Tender"
+    },
+    {
+      "itemID": 11892,
+      "displayName": "Winter Tree Model 1",
+      "name": "Model Reward Winter Tree 1"
+    },
+    {
+      "itemID": 11893,
+      "displayName": "Winter Tree Model 2",
+      "name": "Model Reward Winter Tree 2"
+    },
+    {
+      "itemID": 12240,
+      "displayName": "Gingerbread Cookie",
+      "name": "Gingerbread Cookie"
+    },
+    {
+      "itemID": 12241,
+      "displayName": "Hot Cocoa",
+      "name": "Hot Cocoa"
+    },
+    {
+      "itemID": 12242,
+      "displayName": "Warm Cap",
+      "name": "Warm Cap"
+    },
+    {
+      "itemID": 12291,
+      "displayName": "Flannel Pants",
+      "name": "Flannel Pants"
+    },
+    {
+      "itemID": 12296,
+      "displayName": "Present Shield",
+      "name": "Present Shield"
+    },
+    {
+      "itemID": 12299,
+      "displayName": "Flannel Shirt",
+      "name": "Flannel Shirt"
+    },
+    {
+      "itemID": 12349,
+      "displayName": "Winter Bakery Model 1",
+      "name": "Model Reward Winter Bakery 1"
+    },
+    {
+      "itemID": 12352,
+      "displayName": "Winter Toy Shop Bench Model",
+      "name": "Model Reward Winter Toy Shop Bench"
+    },
+    {
+      "itemID": 12353,
+      "displayName": "Winter Toy Shop Building Model",
+      "name": "Model Reward Winter Toy Shop Building"
+    },
+    {
+      "itemID": 12356,
+      "displayName": "Winter Toy Shop Lamp Post Model",
+      "name": "Model Reward Winter Toy Shop Lamp Post"
+    },
+    {
+      "itemID": 12933,
+      "displayName": "Mint Condition Front Bumper",
+      "name": "CarH3_FrontBumper"
+    },
+    {
+      "itemID": 12934,
+      "displayName": "Mint Condition Engine Panel",
+      "name": "CarH3_FrontPanel"
+    },
+    {
+      "itemID": 12935,
+      "displayName": "Mint Condition Rear Bumper",
+      "name": "CarH3_RearBumper"
+    },
+    {
+      "itemID": 12936,
+      "displayName": "Mint Condition Rear Panel",
+      "name": "CarH3_RearPanel"
+    },
+    {
+      "itemID": 12937,
+      "displayName": "Mint Condition Side Panels",
+      "name": "CarH3_SidePanels"
+    },
+    {
+      "itemID": 8129,
+      "displayName": "Car Chassis",
+      "name": "Car Module - Chassis"
+    },
+    {
+      "itemID": 8130,
+      "displayName": "Steel Rim Wheels",
+      "name": "CarModule_Wheels_gr"
+    }
+  ]
+}

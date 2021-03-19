@@ -1,0 +1,185 @@
+{
+  "LootTableIndex": 603,
+  "items": [
+    {
+      "itemID": 11822,
+      "displayName": "Space Fort Bunk Model",
+      "name": "Model Reward Spacefort Accessory Bunk"
+    },
+    {
+      "itemID": 11823,
+      "displayName": "Space Fort Computer Model",
+      "name": "Model Reward Spacefort Accessory Computer"
+    },
+    {
+      "itemID": 11824,
+      "displayName": "Space Fort Crate Stack Model",
+      "name": "Model Reward Spacefort Accessory Crate Stack"
+    },
+    {
+      "itemID": 11825,
+      "displayName": "Space Fort Footlocker  Model",
+      "name": "Model Reward Spacefort Accessory Footlocker "
+    },
+    {
+      "itemID": 11826,
+      "displayName": "Space Fort Generator  Model",
+      "name": "Model Reward Spacefort Accessory Generator "
+    },
+    {
+      "itemID": 11827,
+      "displayName": "Space Fort Gun Rack Model 1",
+      "name": "Model Reward Spacefort Accessory Gunrack 1"
+    },
+    {
+      "itemID": 11828,
+      "displayName": "Space Fort Gun Rack Model 2",
+      "name": "Model Reward Spacefort Accessory Gunrack 2"
+    },
+    {
+      "itemID": 11829,
+      "displayName": "Space Fort Locker Model 1",
+      "name": "Model Reward Spacefort Accessory Locker 1"
+    },
+    {
+      "itemID": 11830,
+      "displayName": "Space Fort Locker Model 2",
+      "name": "Model Reward Spacefort Accessory Locker 2"
+    },
+    {
+      "itemID": 11831,
+      "displayName": "Space Fort Medical Stretcher Model 1",
+      "name": "Model Reward Spacefort Accessory Medical Stretcher 1"
+    },
+    {
+      "itemID": 11832,
+      "displayName": "Space Fort Table Model 1",
+      "name": "Model Reward Spacefort Accessory Table 1"
+    },
+    {
+      "itemID": 11833,
+      "displayName": "Space Fort Tool Rack Model 1",
+      "name": "Model Reward Spacefort Accessory Toolrack 1"
+    },
+    {
+      "itemID": 11834,
+      "displayName": "Space Fort Tool Rack Model 2",
+      "name": "Model Reward Spacefort Accessory Toolrack 2"
+    },
+    {
+      "itemID": 11835,
+      "displayName": "Space Fort Tool Rack Model 3",
+      "name": "Model Reward Spacefort Accessory Toolrack 3"
+    },
+    {
+      "itemID": 11836,
+      "displayName": "Space Fort Barricade Door Model",
+      "name": "Model Reward Spacefort Door Barred"
+    },
+    {
+      "itemID": 11837,
+      "displayName": "Space Fort Forcefield Door Model",
+      "name": "Model Reward Spacefort Door Forcefield"
+    },
+    {
+      "itemID": 11838,
+      "displayName": "Space Fort Slotted Door Model",
+      "name": "Model Reward Spacefort Door Slotted"
+    },
+    {
+      "itemID": 11839,
+      "displayName": "Space Fort Camera Model",
+      "name": "Model Reward Spacefort Camera"
+    },
+    {
+      "itemID": 11840,
+      "displayName": "Space Fort Cannon Model",
+      "name": "Model Reward Spacefort Cannon"
+    },
+    {
+      "itemID": 11841,
+      "displayName": "Space Fort Flak Model",
+      "name": "Model Reward Spacefort Flak"
+    },
+    {
+      "itemID": 11842,
+      "displayName": "Space Fort Lightning Model",
+      "name": "Model Reward Spacefort Lightning"
+    },
+    {
+      "itemID": 11843,
+      "displayName": "Space Fort Missiles Model",
+      "name": "Model Reward Spacefort Missles"
+    },
+    {
+      "itemID": 11844,
+      "displayName": "Space Fort Searchlight Defender Model",
+      "name": "Model Reward Spacefort Gun and Searchlight"
+    },
+    {
+      "itemID": 11845,
+      "displayName": "Space Fort Invader Model",
+      "name": "Model Reward Spacefort Spiderling Bug Thing"
+    },
+    {
+      "itemID": 11846,
+      "displayName": "Space Fort Wide Wall Gate Model",
+      "name": "Model Reward Spacefort Wall Gate Wide"
+    },
+    {
+      "itemID": 11847,
+      "displayName": "Space Fort Medium Wall Model",
+      "name": "Model Reward Spacefort Wall Medium"
+    },
+    {
+      "itemID": 11848,
+      "displayName": "Space Fort Short Wall Model",
+      "name": "Model Reward Spacefort Wall Short"
+    },
+    {
+      "itemID": 11849,
+      "displayName": "Space Fort Short Armored Wall Model",
+      "name": "Model Reward Spacefort Wall Short Armored Viewport"
+    },
+    {
+      "itemID": 11850,
+      "displayName": "Space Fort Short Wall with Bulletholes Model",
+      "name": "Model Reward Spacefort Wall Short Bulletholes"
+    },
+    {
+      "itemID": 11851,
+      "displayName": "Space Fort Battle-Damaged Short Wall Model",
+      "name": "Model Reward Spacefort Wall Short Bulletholes Broken"
+    },
+    {
+      "itemID": 11852,
+      "displayName": "Space Fort Short Gunport Wall Model",
+      "name": "Model Reward Spacefort Wall Short Gunport"
+    },
+    {
+      "itemID": 11853,
+      "displayName": "Space Fort Short Inside Corner Wall Model",
+      "name": "Model Reward Spacefort Wall Short Inside Corner With Turret"
+    },
+    {
+      "itemID": 11854,
+      "displayName": "Space Fort Short Opening Wall Model",
+      "name": "Model Reward Spacefort Wall Short Opening"
+    },
+    {
+      "itemID": 11855,
+      "displayName": "Space Fort Short Outside Corner Wall Model",
+      "name": "Model Reward Spacefort Wall Short Outside Corner With Radar"
+    },
+    {
+      "itemID": 11856,
+      "displayName": "Space Fort Tall Wall Model",
+      "name": "Model Reward Spacefort Wall Tall"
+    },
+    {
+      "itemID": 11857,
+      "displayName": "Space Fort Tall Wall with Bulletholes Model",
+      "name": "Model Reward Spacefort Wall Tall Bulletholes"
+    }
+  ]
+}

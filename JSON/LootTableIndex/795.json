@@ -1,0 +1,20 @@
+{
+  "LootTableIndex": 599,
+  "items": [
+    {
+      "itemID": 16185,
+      "displayName": "Valiant Daredevil's Cape",
+      "name": "Daredevil Cape Back/Neck"
+    },
+    {
+      "itemID": 16186,
+      "displayName": "Valiant Buccaneer's Cape",
+      "name": "Buccaneer Cape Back/Neck"
+    },
+    {
+      "itemID": 16187,
+      "displayName": "Valiant Adventurer's Cape",
+      "name": "Adventurer Cape Back/Neck"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "LootTableIndex": 24,
+  "items": [
+    {
+      "itemID": 4713,
+      "displayName": "Classic Rocket Nose Cone",
+      "name": "MOD Rocket Classic Nose Cone"
+    },
+    {
+      "itemID": 14444,
+      "displayName": "Classic Blue Rocket Nose Cone",
+      "name": "MOD Rocket Classic Blue Nose Cone"
+    },
+    {
+      "itemID": 14451,
+      "displayName": "Classic Pink Rocket Nose Cone",
+      "name": "MOD Rocket Classic Pink Nose Cone"
+    },
+    {
+      "itemID": 14454,
+      "displayName": "Classic Yellow Rocket Nose Cone",
+      "name": "MOD Rocket Classic Yellow Nose Cone"
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "LootTableIndex": 473,
+  "items": [
+    {
+      "itemID": 8217,
+      "displayName": "Basic Dagger",
+      "name": "Basic Dagger"
+    },
+    {
+      "itemID": 8218,
+      "displayName": "Basic Pickaxe",
+      "name": "Basic Pickaxe"
+    },
+    {
+      "itemID": 8219,
+      "displayName": "Basic Javelin",
+      "name": "Basic Javelin"
+    },
+    {
+      "itemID": 8497,
+      "displayName": "Quality Cutlass",
+      "name": "Quality Cutlass"
+    },
+    {
+      "itemID": 8498,
+      "displayName": "Improved Hatchet",
+      "name": "Improved Hatchet"
+    },
+    {
+      "itemID": 8500,
+      "displayName": "Quality Woodsman's Axe",
+      "name": "Quality Woodsman's Axe"
+    },
+    {
+      "itemID": 8501,
+      "displayName": "Improved Ice Saw",
+      "name": "Improved Ice Saw"
+    },
+    {
+      "itemID": 8502,
+      "displayName": "Improved Scimitar",
+      "name": "Improved Scimitar"
+    },
+    {
+      "itemID": 8503,
+      "displayName": "Quality Corseque",
+      "name": "Quality Corseque"
+    },
+    {
+      "itemID": 8504,
+      "displayName": "Improved Longsword",
+      "name": "Improved Longsword"
+    },
+    {
+      "itemID": 8505,
+      "displayName": "Basic Force Blade",
+      "name": "Basic Force Blade"
+    },
+    {
+      "itemID": 8506,
+      "displayName": "Quality Dirk",
+      "name": "Quality Dirk"
+    },
+    {
+      "itemID": 8509,
+      "displayName": "Improved Trident",
+      "name": "Improved Trident"
+    },
+    {
+      "itemID": 8546,
+      "displayName": "Space Headgear",
+      "name": "Space Headgear"
+    },
+    {
+      "itemID": 8604,
+      "displayName": "Black Soccer Shirt",
+      "name": "Soccer Shirt 1"
+    },
+    {
+      "itemID": 8615,
+      "displayName": "EMT Shirt",
+      "name": "EMT Shirt"
+    },
+    {
+      "itemID": 8618,
+      "displayName": "Female Pirate Shirt",
+      "name": "Female Pirate Shirt"
+    },
+    {
+      "itemID": 8623,
+      "displayName": "Dark Blue Princess Shirt",
+      "name": "Princess Shirt 2"
+    },
+    {
+      "itemID": 8625,
+      "displayName": "Mail Shirt with Belt",
+      "name": "Mail Shirt with Belt"
+    },
+    {
+      "itemID": 8646,
+      "displayName": "Khakis",
+      "name": "Khakis"
+    },
+    {
+      "itemID": 8647,
+      "displayName": "Cargo Pants",
+      "name": "Cargo Pants"
+    },
+    {
+      "itemID": 8648,
+      "displayName": "Jeans",
+      "name": "Jeans"
+    },
+    {
+      "itemID": 8664,
+      "displayName": "Jodhpurs",
+      "name": "Jodhpurs"
+    },
+    {
+      "itemID": 8666,
+      "displayName": "Sweat Pants",
+      "name": "Sweat Pants"
+    },
+    {
+      "itemID": 8667,
+      "displayName": "Clam Diggers",
+      "name": "Clam Diggers"
+    },
+    {
+      "itemID": 8675,
+      "displayName": "Reinforced Pith Helmet",
+      "name": "Reinforced Pith Helmet"
+    },
+    {
+      "itemID": 8676,
+      "displayName": "Cadet Helm",
+      "name": "Cadet Helm"
+    },
+    {
+      "itemID": 9259,
+      "displayName": "Garden Shovel",
+      "name": "Garden Shovel"
+    },
+    {
+      "itemID": 9263,
+      "displayName": "Improved Crescent Wrench",
+      "name": "Improved Crescent Wrench"
+    },
+    {
+      "itemID": 10038,
+      "displayName": "Cup of Yo",
+      "name": "Cup of Yo"
+    },
+    {
+      "itemID": 1883,
+      "displayName": "Hot Chocolate",
+      "name": "Hot Chocolate"
+    },
+    {
+      "itemID": 1966,
+      "displayName": "Healing Banana",
+      "name": "Health Banana 1"
+    },
+    {
+      "itemID": 2198,
+      "displayName": "Notion Potion",
+      "name": "Potion of Imagination 1"
+    },
+    {
+      "itemID": 10431,
+      "displayName": "Basic Shortsword",
+      "name": "Basic Shortsword"
+    },
+    {
+      "itemID": 10432,
+      "displayName": "Basic Spear",
+      "name": "Basic Spear"
+    },
+    {
+      "itemID": 10433,
+      "displayName": "Basic Hammer",
+      "name": "Basic Hammer"
+    },
+    {
+      "itemID": 2588,
+      "displayName": "Chef Hat",
+      "name": "Chef Hat"
+    },
+    {
+      "itemID": 2615,
+      "displayName": "Worthy Large Axe",
+      "name": "Worthy Large Axe"
+    },
+    {
+      "itemID": 2617,
+      "displayName": "Bullhorn",
+      "name": "Bullhorn"
+    },
+    {
+      "itemID": 2620,
+      "displayName": "Quicksicle",
+      "name": "Quicksicle"
+    },
+    {
+      "itemID": 2622,
+      "displayName": "Improved Ladle",
+      "name": "Improved Ladle"
+    },
+    {
+      "itemID": 2623,
+      "displayName": "Wizard Hat",
+      "name": "Wizard Hat"
+    },
+    {
+      "itemID": 2993,
+      "displayName": "Armor Polish",
+      "name": "Armor Polish 1"
+    },
+    {
+      "itemID": 2994,
+      "displayName": "Healing Cherry",
+      "name": "Health Cherry 2"
+    },
+    {
+      "itemID": 2996,
+      "displayName": "Armor Shine",
+      "name": "Armor Polish 2"
+    },
+    {
+      "itemID": 2998,
+      "displayName": "Strong Notion Potion",
+      "name": "Potion of Imagination 2"
+    },
+    {
+      "itemID": 3039,
+      "displayName": "Green Imaginite",
+      "name": "Green Imaginite"
+    },
+    {
+      "itemID": 3040,
+      "displayName": "Red Imaginite",
+      "name": "Red Imaginite"
+    },
+    {
+      "itemID": 3077,
+      "displayName": "Improved Crescent Wrench",
+      "name": "Improved Crescent Wrench"
+    },
+    {
+      "itemID": 11299,
+      "displayName": "Handsome Mug",
+      "name": "Handsome Mug"
+    },
+    {
+      "itemID": 3121,
+      "displayName": "Superior Composite Mace",
+      "name": "Superior Composite Mace"
+    },
+    {
+      "itemID": 11432,
+      "displayName": "Improved Revolver",
+      "name": "Improved Revolver"
+    },
+    {
+      "itemID": 3853,
+      "displayName": "Witch Hat",
+      "name": "Witch Hat"
+    },
+    {
+      "itemID": 3858,
+      "displayName": "Flower Hat",
+      "name": "Flower Hat"
+    },
+    {
+      "itemID": 3859,
+      "displayName": "Police Hat",
+      "name": "Police Hat"
+    },
+    {
+      "itemID": 3860,
+      "displayName": "Hard Hat",
+      "name": "Hard Hat"
+    },
+    {
+      "itemID": 3868,
+      "displayName": "Black Baseball Cap",
+      "name": "Black Baseball Cap"
+    },
+    {
+      "itemID": 3869,
+      "displayName": "Orange Baseball Cap",
+      "name": "Orange Baseball Cap"
+    },
+    {
+      "itemID": 3870,
+      "displayName": "Improved Witch Broom",
+      "name": "Improved Witch Broom"
+    },
+    {
+      "itemID": 3872,
+      "displayName": "Basic Shovel",
+      "name": "Basic Shovel"
+    },
+    {
+      "itemID": 4824,
+      "displayName": "Improved Firefighter Axe",
+      "name": "Improved Firefighter Axe"
+    },
+    {
+      "itemID": 5682,
+      "displayName": "Black Neck Scarf",
+      "name": "Black Neck Scarf"
+    },
+    {
+      "itemID": 5948,
+      "displayName": "Basic Shortsword of Knockback",
+      "name": "Basic Shortsword of Knockback"
+    },
+    {
+      "itemID": 6203,
+      "displayName": "Basic Spear of Stunning",
+      "name": "Basic Spear of Stunning"
+    },
+    {
+      "itemID": 6742,
+      "displayName": "Improved Fishing Pole",
+      "name": "Improved Fishing Pole"
+    },
+    {
+      "itemID": 6790,
+      "displayName": "Hardtack Biscuit",
+      "name": "Hardtack"
+    },
+    {
+      "itemID": 6803,
+      "displayName": "Blue Baseball Cap",
+      "name": "Blue Baseball Cap"
+    },
+    {
+      "itemID": 6849,
+      "displayName": "Buckler Shield",
+      "name": "Buckler"
+    },
+    {
+      "itemID": 6850,
+      "displayName": "Blue Space Helmet",
+      "name": "Blue Space Helmet"
+    },
+    {
+      "itemID": 6851,
+      "displayName": "Worthy Knife",
+      "name": "Worthy Knife"
+    },
+    {
+      "itemID": 6853,
+      "displayName": "Morion Helmet",
+      "name": "Morion Helmet"
+    },
+    {
+      "itemID": 6881,
+      "displayName": "Improved Composite Axe",
+      "name": "Improved Composite Axe"
+    },
+    {
+      "itemID": 6884,
+      "displayName": "Flash Bang",
+      "name": "Flash Bang"
+    },
+    {
+      "itemID": 6886,
+      "displayName": "Tasty Fish",
+      "name": "Tasty Fish"
+    },
+    {
+      "itemID": 7070,
+      "displayName": "Superior Lance",
+      "name": "Superior Lance"
+    },
+    {
+      "itemID": 7084,
+      "displayName": "Boom Trap Kit",
+      "name": "Boom Trap Kit"
+    },
+    {
+      "itemID": 7728,
+      "displayName": "Skater Helmet",
+      "name": "Skater Helmet"
+    },
+    {
+      "itemID": 7729,
+      "displayName": "Viking Helm",
+      "name": "Viking Helm"
+    },
+    {
+      "itemID": 7731,
+      "displayName": "Aussie Hat",
+      "name": "Aussie Hat"
+    },
+    {
+      "itemID": 7732,
+      "displayName": "Walkie Talkie",
+      "name": "Walkie Talkie"
+    },
+    {
+      "itemID": 7733,
+      "displayName": "Improved Frying Pan",
+      "name": "Improved Frying Pan"
+    },
+    {
+      "itemID": 7734,
+      "displayName": "Improved Push Broom",
+      "name": "Improved Push Broom"
+    },
+    {
+      "itemID": 7793,
+      "displayName": "Grey Kepi Hat",
+      "name": "Grey Kepi Hat"
+    },
+    {
+      "itemID": 7990,
+      "displayName": "Blue Kepi Hat",
+      "name": "Blue Kepi Hat"
+    },
+    {
+      "itemID": 8085,
+      "displayName": "Red Shako Hat",
+      "name": "Red Shako Hat"
+    }
+  ]
+}

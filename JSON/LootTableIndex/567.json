@@ -1,0 +1,20 @@
+{
+  "LootTableIndex": 466,
+  "items": [
+    {
+      "itemID": 12838,
+      "displayName": "Morbid Orbit Rocket Nose Cone",
+      "name": "MOD Rocket Skeleton Nose Cone 1"
+    },
+    {
+      "itemID": 12848,
+      "displayName": "Starskull Rocket Nose Cone",
+      "name": "MOD Rocket Skeleton Nose Cone 2"
+    },
+    {
+      "itemID": 12851,
+      "displayName": "Terror Comet Rocket Nose Cone",
+      "name": "MOD Rocket Skeleton Nose Cone 3"
+    }
+  ]
+}

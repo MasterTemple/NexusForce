@@ -1,0 +1,55 @@
+{
+  "LootTableIndex": 296,
+  "items": [
+    {
+      "itemID": 832,
+      "displayName": "Gun Carriage 2x4x1 1/3",
+      "name": "m2527"
+    },
+    {
+      "itemID": 842,
+      "displayName": "Anchor",
+      "name": "m2564"
+    },
+    {
+      "itemID": 10206,
+      "displayName": "Cannon",
+      "name": "m84943"
+    },
+    {
+      "itemID": 5048,
+      "displayName": "Three-Cornered Hat",
+      "name": "m2544"
+    },
+    {
+      "itemID": 5105,
+      "displayName": "Cylinder Hat",
+      "name": "m3878"
+    },
+    {
+      "itemID": 5165,
+      "displayName": "Dragon-Knight Helmet",
+      "name": "m6122"
+    },
+    {
+      "itemID": 5234,
+      "displayName": "Ninja Headgear",
+      "name": "m30177"
+    },
+    {
+      "itemID": 5358,
+      "displayName": "Wolf's Head",
+      "name": "m42443"
+    },
+    {
+      "itemID": 5388,
+      "displayName": "Skull 3x3 with 2 Pins",
+      "name": "m47990"
+    },
+    {
+      "itemID": 5602,
+      "displayName": "Crown Helmet",
+      "name": "m71015"
+    }
+  ]
+}

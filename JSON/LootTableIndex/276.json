@@ -1,0 +1,135 @@
+{
+  "LootTableIndex": 199,
+  "items": [
+    {
+      "itemID": 8357,
+      "displayName": "Gothic Paradox Shirt",
+      "name": "Gothic Paradox Shirt"
+    },
+    {
+      "itemID": 8358,
+      "displayName": "Pink Kimono",
+      "name": "Pink Kimono"
+    },
+    {
+      "itemID": 8360,
+      "displayName": "Sensei Shirt",
+      "name": "Sensei Shirt"
+    },
+    {
+      "itemID": 8361,
+      "displayName": "Belted Ninja Shirt",
+      "name": "Belted Ninja Shirt"
+    },
+    {
+      "itemID": 8529,
+      "displayName": "Scorpion Shield",
+      "name": "Kite Shield 2"
+    },
+    {
+      "itemID": 8536,
+      "displayName": "Dox Shoulderpads",
+      "name": "Dox Shoulderpads"
+    },
+    {
+      "itemID": 8537,
+      "displayName": "Tech Armor",
+      "name": "Tech Armor"
+    },
+    {
+      "itemID": 8538,
+      "displayName": "Scutum Shield",
+      "name": "Scutum Shield"
+    },
+    {
+      "itemID": 8539,
+      "displayName": "Messenger Bag",
+      "name": "Messenger Bag"
+    },
+    {
+      "itemID": 8544,
+      "displayName": "King's Crown",
+      "name": "King's Crown"
+    },
+    {
+      "itemID": 8606,
+      "displayName": "Shabby Ninja Shirt",
+      "name": "Shabby Ninja Shirt"
+    },
+    {
+      "itemID": 8607,
+      "displayName": "Ruffled and Striped Shirt",
+      "name": "Ruffled and Striped Shirt"
+    },
+    {
+      "itemID": 8620,
+      "displayName": "Viking Barbarian Shirt",
+      "name": "Viking Barbarian Shirt"
+    },
+    {
+      "itemID": 8621,
+      "displayName": "Mail Shirt with Gorget",
+      "name": "Mail Shirt with Gorget"
+    },
+    {
+      "itemID": 8630,
+      "displayName": "Union Shirt",
+      "name": "Blue Cavalry Shirt"
+    },
+    {
+      "itemID": 8636,
+      "displayName": "Squire's Helm",
+      "name": "Squire's Helm"
+    },
+    {
+      "itemID": 8638,
+      "displayName": "Powered Armor",
+      "name": "Powered Armor"
+    },
+    {
+      "itemID": 8640,
+      "displayName": "Bell Bottoms",
+      "name": "Bell Bottoms"
+    },
+    {
+      "itemID": 8644,
+      "displayName": "Gauchos",
+      "name": "Gauchos"
+    },
+    {
+      "itemID": 8645,
+      "displayName": "Iron Legs",
+      "name": "Iron Legs"
+    },
+    {
+      "itemID": 8651,
+      "displayName": "Hammer Pants",
+      "name": "Hammer Pants"
+    },
+    {
+      "itemID": 8674,
+      "displayName": "Wrench",
+      "name": "Spanner"
+    },
+    {
+      "itemID": 8680,
+      "displayName": "Grease Can",
+      "name": "Grease Can"
+    },
+    {
+      "itemID": 10125,
+      "displayName": "Queen Shirt",
+      "name": "Queen Shirt"
+    },
+    {
+      "itemID": 2959,
+      "displayName": "Throwing Star Shirt",
+      "name": "Throwing Star Shirt"
+    },
+    {
+      "itemID": 7780,
+      "displayName": "Hat of Sprouting Imagination",
+      "name": "Hat of Sprouting Imagination"
+    }
+  ]
+}

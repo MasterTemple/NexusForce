@@ -1,0 +1,50 @@
+{
+  "LootTableIndex": 50,
+  "items": [
+    {
+      "itemID": 1966,
+      "displayName": "Healing Banana",
+      "name": "Health Banana 1"
+    },
+    {
+      "itemID": 2620,
+      "displayName": "Quicksicle",
+      "name": "Quicksicle"
+    },
+    {
+      "itemID": 2993,
+      "displayName": "Armor Polish",
+      "name": "Armor Polish 1"
+    },
+    {
+      "itemID": 2994,
+      "displayName": "Healing Cherry",
+      "name": "Health Cherry 2"
+    },
+    {
+      "itemID": 2995,
+      "displayName": "Healing Apple",
+      "name": "Health Apple 3"
+    },
+    {
+      "itemID": 2996,
+      "displayName": "Armor Shine",
+      "name": "Armor Polish 2"
+    },
+    {
+      "itemID": 2997,
+      "displayName": "Armor Gleam",
+      "name": "Armor Polish 3"
+    },
+    {
+      "itemID": 2998,
+      "displayName": "Strong Notion Potion",
+      "name": "Potion of Imagination 2"
+    },
+    {
+      "itemID": 3011,
+      "displayName": "BBQ Blast Hot Dog",
+      "name": "BBQ Blast Hot Dog"
+    }
+  ]
+}

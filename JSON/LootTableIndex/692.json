@@ -1,0 +1,175 @@
+{
+  "LootTableIndex": 534,
+  "items": [
+    {
+      "itemID": 12638,
+      "displayName": "The Broadsider",
+      "name": "Buccaneer Valiant Weapon"
+    },
+    {
+      "itemID": 12647,
+      "displayName": "The Rutcarver",
+      "name": "Daredevil Valiant Weapon"
+    },
+    {
+      "itemID": 12954,
+      "displayName": "Buccaneer Shirt 3",
+      "name": "Buccaneer Chest 3 Color Variant"
+    },
+    {
+      "itemID": 12955,
+      "displayName": "Buccaneer Pantaloons 3",
+      "name": "Buccaneer Legs 3 Color Variant"
+    },
+    {
+      "itemID": 12956,
+      "displayName": "Daredevil Jacket 3",
+      "name": "Daredevil Chest 3 Color Variant"
+    },
+    {
+      "itemID": 12957,
+      "displayName": "Daredevil Pants 3",
+      "name": "Daredevil Legs 3 Color Variant"
+    },
+    {
+      "itemID": 12981,
+      "displayName": "Buccaneer Hat 3",
+      "name": "Buccaneer Head 3 Color Variant"
+    },
+    {
+      "itemID": 12982,
+      "displayName": "Buccaneer Pistol & Cutlass 3",
+      "name": "Buccaneer Weapon 3 Color Variant"
+    },
+    {
+      "itemID": 12990,
+      "displayName": "Buccaneer Bandolier 3",
+      "name": "Buccaneer Neck/Back 3 Color Variant"
+    },
+    {
+      "itemID": 12993,
+      "displayName": "Daredevil Helmet 3",
+      "name": "Daredevil Head 3 Color Variant"
+    },
+    {
+      "itemID": 12994,
+      "displayName": "Daredevil Flareguns 3",
+      "name": "Daredevil Weapon 3 Color Variant"
+    },
+    {
+      "itemID": 12995,
+      "displayName": "Daredevil Shoulderpads 3",
+      "name": "Daredevil Neck/Back 3 Color Variant"
+    },
+    {
+      "itemID": 13135,
+      "displayName": "Large Bag of Green Imaginite",
+      "name": "Large Green Imaginite Bag - Venture"
+    },
+    {
+      "itemID": 13140,
+      "displayName": "Medium Bag of Red Imaginite",
+      "name": "Medium Red Imaginite Bag - Venture"
+    },
+    {
+      "itemID": 13145,
+      "displayName": "Small Bag of Blue Imaginite",
+      "name": "Small Blue Imaginite Bag - Venture"
+    },
+    {
+      "itemID": 13264,
+      "displayName": "Venture League Astroscout Rocket Nose Cone",
+      "name": "MOD Venture Rockets Nose Cone"
+    },
+    {
+      "itemID": 13265,
+      "displayName": "Venture League Astroscout Rocket Cockpit",
+      "name": "MOD Venture Rockets Cockpit"
+    },
+    {
+      "itemID": 13266,
+      "displayName": "Venture League Astroscout Rocket Engine",
+      "name": "MOD Venture Rockets Engine"
+    },
+    {
+      "itemID": 13517,
+      "displayName": "Venture League Hinterlander Front Bumper",
+      "name": "CarVE_FrontBumper_"
+    },
+    {
+      "itemID": 13518,
+      "displayName": "Venture League Hinterlander Engine Panel",
+      "name": "CarVE_EnginePanel_"
+    },
+    {
+      "itemID": 13519,
+      "displayName": "Venture League Hinterlander Side Panels",
+      "name": "CarVE_SidePanels_"
+    },
+    {
+      "itemID": 13520,
+      "displayName": "Venture League Hinterlander Rear Panel",
+      "name": "CarVE_RearPanel_"
+    },
+    {
+      "itemID": 13521,
+      "displayName": "Venture League Hinterlander Rear Bumper",
+      "name": "CarVE_RearBumper_"
+    },
+    {
+      "itemID": 13577,
+      "displayName": "Venture Vitality Vial 2",
+      "name": "Venture Faction Consumable 2"
+    },
+    {
+      "itemID": 7366,
+      "displayName": "Buccaneer Hat 3",
+      "name": "Buccaneer Head 3"
+    },
+    {
+      "itemID": 7378,
+      "displayName": "Buccaneer Shirt 3",
+      "name": "Buccaneer Chest 3"
+    },
+    {
+      "itemID": 7390,
+      "displayName": "Buccaneer Pantaloons 3",
+      "name": "Buccaneer Legs 3"
+    },
+    {
+      "itemID": 7402,
+      "displayName": "Buccaneer Pistol & Cutlass 3",
+      "name": "Buccaneer Weapon 3"
+    },
+    {
+      "itemID": 7416,
+      "displayName": "Buccaneer Bandolier 3",
+      "name": "Buccaneer Neck/Back 3"
+    },
+    {
+      "itemID": 7465,
+      "displayName": "Daredevil Helmet 3",
+      "name": "Daredevil Head 3"
+    },
+    {
+      "itemID": 7489,
+      "displayName": "Daredevil Jacket 3",
+      "name": "Daredevil Chest 3"
+    },
+    {
+      "itemID": 7513,
+      "displayName": "Daredevil Pants 3",
+      "name": "Daredevil Legs 3"
+    },
+    {
+      "itemID": 7537,
+      "displayName": "Daredevil Flareguns 3",
+      "name": "Daredevil Weapon 3"
+    },
+    {
+      "itemID": 7543,
+      "displayName": "Daredevil Shoulderpads 3",
+      "name": "Daredevil Neck/Back 3"
+    }
+  ]
+}

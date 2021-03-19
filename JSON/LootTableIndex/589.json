@@ -1,0 +1,20 @@
+{
+  "LootTableIndex": 478,
+  "items": [
+    {
+      "itemID": 6862,
+      "displayName": "Dark Red Gem",
+      "name": "Dark Red Gem"
+    },
+    {
+      "itemID": 6863,
+      "displayName": "Yellow Gem",
+      "name": "Yellow Gem"
+    },
+    {
+      "itemID": 6864,
+      "displayName": "Green Gem",
+      "name": "Green Gem"
+    }
+  ]
+}

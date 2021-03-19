@@ -1,0 +1,145 @@
+{
+  "LootTableIndex": 605,
+  "items": [
+    {
+      "itemID": 9535,
+      "displayName": "Pagoda Model",
+      "name": "Model Reward Pagoda"
+    },
+    {
+      "itemID": 9538,
+      "displayName": "Small Arch Model",
+      "name": "Model Reward Small Arch"
+    },
+    {
+      "itemID": 9545,
+      "displayName": "Fish Statue Model",
+      "name": "Model Reward Fish Statue"
+    },
+    {
+      "itemID": 9546,
+      "displayName": "Red Ninja Fence Model",
+      "name": "Model Reward Ninja Fence Red"
+    },
+    {
+      "itemID": 9547,
+      "displayName": "Yellow Ninja Fence Model",
+      "name": "Model Reward Ninja Fence Yellow"
+    },
+    {
+      "itemID": 9548,
+      "displayName": "Blue Ninja Fence Model",
+      "name": "Model Reward Ninja Fence Blue"
+    },
+    {
+      "itemID": 9550,
+      "displayName": "Temple Model 1",
+      "name": "Model Reward Temple 1"
+    },
+    {
+      "itemID": 9553,
+      "displayName": "Zen Bamboo Medium Model",
+      "name": "Model Reward Zen Bamboo Medium"
+    },
+    {
+      "itemID": 9554,
+      "displayName": "Zen Bamboo Small Model",
+      "name": "Model Reward Zen Bamboo Small"
+    },
+    {
+      "itemID": 9555,
+      "displayName": "Big Door Model",
+      "name": "Model Reward big door"
+    },
+    {
+      "itemID": 9567,
+      "displayName": "Pipestack Model",
+      "name": "Model Reward Pipestack"
+    },
+    {
+      "itemID": 9590,
+      "displayName": "Anvil Model",
+      "name": "Model Reward Anvil"
+    },
+    {
+      "itemID": 10753,
+      "displayName": "Fortress Cart Model",
+      "name": "Model Reward Fortress Cart"
+    },
+    {
+      "itemID": 10757,
+      "displayName": "Fortress Elevator Model",
+      "name": "Model Reward Fortress Elevator"
+    },
+    {
+      "itemID": 10758,
+      "displayName": "Fortress Gong Model",
+      "name": "Model Reward Fortress Gong"
+    },
+    {
+      "itemID": 10759,
+      "displayName": "Fortress Inside Corner Model",
+      "name": "Model Reward Fortress Inside Corner"
+    },
+    {
+      "itemID": 10760,
+      "displayName": "Fortress Lantern Model",
+      "name": "Model Reward Fortress Lantern"
+    },
+    {
+      "itemID": 10761,
+      "displayName": "Fortress Large Outside Corner Model",
+      "name": "Model Reward Fortress Large Outside Corner"
+    },
+    {
+      "itemID": 10762,
+      "displayName": "Fortress Large Wall Model",
+      "name": "Model Reward Fortress Large Wall"
+    },
+    {
+      "itemID": 10764,
+      "displayName": "Fortress Pond Model",
+      "name": "Model Reward Fortress Pond"
+    },
+    {
+      "itemID": 10765,
+      "displayName": "Fortress Ramp Model",
+      "name": "Model Reward Fortress Ramp"
+    },
+    {
+      "itemID": 10766,
+      "displayName": "Fortress Small Outside Corner Model",
+      "name": "Model Reward Fortress Small Outside Corner"
+    },
+    {
+      "itemID": 10767,
+      "displayName": "Fortress Small Wall Model",
+      "name": "Model Reward Fortress Small Wall"
+    },
+    {
+      "itemID": 10769,
+      "displayName": "Fortress Wall Gate Model",
+      "name": "Model Reward Fortress Wall Gate"
+    },
+    {
+      "itemID": 10770,
+      "displayName": "Fortress Wall Gate Sliding Door Model",
+      "name": "Model Reward Fortress Wall Gate Sliding Door"
+    },
+    {
+      "itemID": 10771,
+      "displayName": "Fortress Watch Tower Model",
+      "name": "Model Reward Fortress Watch Tower"
+    },
+    {
+      "itemID": 8049,
+      "displayName": "Lantern Model",
+      "name": "Model Reward Lantern"
+    },
+    {
+      "itemID": 8050,
+      "displayName": "Small Shrine Model",
+      "name": "Model Reward Shrine"
+    }
+  ]
+}

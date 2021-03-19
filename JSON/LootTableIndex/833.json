@@ -1,0 +1,130 @@
+{
+  "LootTableIndex": 632,
+  "items": [
+    {
+      "itemID": 11777,
+      "displayName": "Office Chair 1 Model",
+      "name": "Model Reward Office Chair 1"
+    },
+    {
+      "itemID": 11778,
+      "displayName": "Office Chair 2 Model",
+      "name": "Model Reward Office Chair 2"
+    },
+    {
+      "itemID": 11779,
+      "displayName": "Office Copier Model",
+      "name": "Model Reward Office Copier"
+    },
+    {
+      "itemID": 11780,
+      "displayName": "Office Credenza 1 Model",
+      "name": "Model Reward Office Credenza 1"
+    },
+    {
+      "itemID": 11781,
+      "displayName": "Office Credenza 2 Model",
+      "name": "Model Reward Office Credenza 2"
+    },
+    {
+      "itemID": 11782,
+      "displayName": "Office Desk 1 Model",
+      "name": "Model Reward Office Desk 1"
+    },
+    {
+      "itemID": 11783,
+      "displayName": "Office Desk 2 Model",
+      "name": "Model Reward Office Desk 2"
+    },
+    {
+      "itemID": 11784,
+      "displayName": "Office Desk 3 Model",
+      "name": "Model Reward Office Desk 3"
+    },
+    {
+      "itemID": 11785,
+      "displayName": "Office Desk 4 Model",
+      "name": "Model Reward Office Desk 4"
+    },
+    {
+      "itemID": 11786,
+      "displayName": "Office Desk 5 Model",
+      "name": "Model Reward Office Desk 5"
+    },
+    {
+      "itemID": 11787,
+      "displayName": "Office Desk 6 Model",
+      "name": "Model Reward Office Desk 6"
+    },
+    {
+      "itemID": 11788,
+      "displayName": "Office File Cabinet 1 Model",
+      "name": "Model Reward Office FileCabinet 1"
+    },
+    {
+      "itemID": 11789,
+      "displayName": "Office File Cabinet 2 Model",
+      "name": "Model Reward Office FileCabinet 2"
+    },
+    {
+      "itemID": 11790,
+      "displayName": "Office Partition 1 Model",
+      "name": "Model Reward Office Partition 1"
+    },
+    {
+      "itemID": 11791,
+      "displayName": "Office Partition 2 Model",
+      "name": "Model Reward Office Partition 2"
+    },
+    {
+      "itemID": 11792,
+      "displayName": "Office Plant 1 Model",
+      "name": "Model Reward Office Plant1"
+    },
+    {
+      "itemID": 11793,
+      "displayName": "Office Plant 2 Model",
+      "name": "Model Reward Office Plant2"
+    },
+    {
+      "itemID": 11794,
+      "displayName": "Office Plant 3 Model",
+      "name": "Model Reward Office Plant3"
+    },
+    {
+      "itemID": 11795,
+      "displayName": "Office Shelf 1 Model",
+      "name": "Model Rewared Office Shelf1"
+    },
+    {
+      "itemID": 11796,
+      "displayName": "Office Shelf 2 Model",
+      "name": "Model Rewared Office Shelf 2"
+    },
+    {
+      "itemID": 11797,
+      "displayName": "Office Shelf 3 Model",
+      "name": "Model Rewared Office Shelf 3"
+    },
+    {
+      "itemID": 11798,
+      "displayName": "Office Stapler Model",
+      "name": "Model Rewared Office Stapler"
+    },
+    {
+      "itemID": 11799,
+      "displayName": "Office Table 1 Model",
+      "name": "Model Rewared Office Table 1"
+    },
+    {
+      "itemID": 11800,
+      "displayName": "Office Table 2 Model",
+      "name": "Model Rewared Office Table 2"
+    },
+    {
+      "itemID": 11801,
+      "displayName": "Office Water Cooler Model",
+      "name": "Model Rewared Office Water Cooler"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "LootTableIndex": 38,
+  "items": [
+    {
+      "itemID": 8479,
+      "displayName": "Superior Shortsword",
+      "name": "Superior Shortsword"
+    },
+    {
+      "itemID": 8480,
+      "displayName": "Exceptional Axe",
+      "name": "Exceptional Axe"
+    },
+    {
+      "itemID": 8481,
+      "displayName": "Worthy Wrench",
+      "name": "Worthy Wrench"
+    },
+    {
+      "itemID": 8482,
+      "displayName": "Exceptional Pipe Wrench",
+      "name": "Exceptional Pipe Wrench"
+    },
+    {
+      "itemID": 8483,
+      "displayName": "Exceptional  Ladle",
+      "name": "Exceptional Ladle"
+    },
+    {
+      "itemID": 8484,
+      "displayName": "Worthy Butterfly Net",
+      "name": "Worthy Butterfly Net"
+    },
+    {
+      "itemID": 8485,
+      "displayName": "Superior Huge Axe",
+      "name": "Superior Huge Axe"
+    },
+    {
+      "itemID": 8487,
+      "displayName": "Exceptional Spear",
+      "name": "Exceptional Spear"
+    },
+    {
+      "itemID": 8488,
+      "displayName": "Superior Hammer",
+      "name": "Superior Hammer"
+    },
+    {
+      "itemID": 8489,
+      "displayName": "Worthy Ice Saw",
+      "name": "Worthy Ice Saw"
+    },
+    {
+      "itemID": 8490,
+      "displayName": "Superior Halberd",
+      "name": "Superior Halberd"
+    },
+    {
+      "itemID": 8491,
+      "displayName": "Wand of Knockback",
+      "name": "Wand of Knockback"
+    },
+    {
+      "itemID": 8492,
+      "displayName": "Wand of Sleep",
+      "name": "Wand of Sleep"
+    },
+    {
+      "itemID": 8493,
+      "displayName": "Superior Katana",
+      "name": "Superior Katana"
+    },
+    {
+      "itemID": 8494,
+      "displayName": "Exceptional Dagger",
+      "name": "Exceptional Dagger"
+    },
+    {
+      "itemID": 8495,
+      "displayName": "Exceptional Force Blade",
+      "name": "Exceptional Force Blade"
+    },
+    {
+      "itemID": 8496,
+      "displayName": "Worthy Morning Star",
+      "name": "Worthy Morning Star"
+    },
+    {
+      "itemID": 2643,
+      "displayName": "Exceptional Hatchet",
+      "name": "Exceptional Hatchet"
+    },
+    {
+      "itemID": 2644,
+      "displayName": "Worthy Corseque",
+      "name": "Worthy Corseque"
+    },
+    {
+      "itemID": 3067,
+      "displayName": "Worthy Shovel",
+      "name": "Worthy Shovel"
+    },
+    {
+      "itemID": 6973,
+      "displayName": "Superior Fish on a Stick",
+      "name": "Superior Fish on a Stick"
+    },
+    {
+      "itemID": 7068,
+      "displayName": "Worthy Force Blade",
+      "name": "Worthy Force Blade"
+    },
+    {
+      "itemID": 7070,
+      "displayName": "Superior Lance",
+      "name": "Superior Lance"
+    },
+    {
+      "itemID": 7079,
+      "displayName": "Worthy Javelin",
+      "name": "Worthy Javelin"
+    }
+  ]
+}

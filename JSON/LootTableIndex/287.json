@@ -1,0 +1,45 @@
+{
+  "LootTableIndex": 210,
+  "items": [
+    {
+      "itemID": 8546,
+      "displayName": "Space Headgear",
+      "name": "Space Headgear"
+    },
+    {
+      "itemID": 8647,
+      "displayName": "Cargo Pants",
+      "name": "Cargo Pants"
+    },
+    {
+      "itemID": 8664,
+      "displayName": "Jodhpurs",
+      "name": "Jodhpurs"
+    },
+    {
+      "itemID": 8666,
+      "displayName": "Sweat Pants",
+      "name": "Sweat Pants"
+    },
+    {
+      "itemID": 8667,
+      "displayName": "Clam Diggers",
+      "name": "Clam Diggers"
+    },
+    {
+      "itemID": 8675,
+      "displayName": "Reinforced Pith Helmet",
+      "name": "Reinforced Pith Helmet"
+    },
+    {
+      "itemID": 8676,
+      "displayName": "Cadet Helm",
+      "name": "Cadet Helm"
+    },
+    {
+      "itemID": 6803,
+      "displayName": "Blue Baseball Cap",
+      "name": "Blue Baseball Cap"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "LootTableIndex": 468,
+  "items": [
+    {
+      "itemID": 12840,
+      "displayName": "Morbid Orbit Rocket Engine",
+      "name": "MOD Rocket Skeleton Engine 1"
+    },
+    {
+      "itemID": 12850,
+      "displayName": "Starskull Rocket Engine",
+      "name": "MOD Rocket Skeleton Engine 2"
+    },
+    {
+      "itemID": 12853,
+      "displayName": "Terror Comet Rocket Engine",
+      "name": "MOD Rocket Skeleton Engine 3"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "LootTableIndex": 598,
+  "items": [
+    {
+      "itemID": 16182,
+      "displayName": "Valiant Engineer's Cape",
+      "name": "Engineer Cape Back/Neck"
+    },
+    {
+      "itemID": 16183,
+      "displayName": "Valiant Summoner's Cape",
+      "name": "Summoner Cape Back/Neck"
+    },
+    {
+      "itemID": 16184,
+      "displayName": "Valiant Inventor's Cape",
+      "name": "Inventor Cape Back/Neck"
+    }
+  ]
+}

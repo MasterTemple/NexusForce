@@ -1,0 +1,20 @@
+{
+  "LootTableIndex": 578,
+  "items": [
+    {
+      "itemID": 2993,
+      "displayName": "Armor Polish",
+      "name": "Armor Polish 1"
+    },
+    {
+      "itemID": 2996,
+      "displayName": "Armor Shine",
+      "name": "Armor Polish 2"
+    },
+    {
+      "itemID": 12767,
+      "displayName": "Buff Out Armor Brush",
+      "name": "Buff Out Armor Brush"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "LootTableIndex": 358,
+  "items": [
+    {
+      "itemID": 12107,
+      "displayName": "Massive Firecracker",
+      "name": "Massive Firecracker"
+    },
+    {
+      "itemID": 12319,
+      "displayName": "Doc in a Box",
+      "name": "Doc in a Box"
+    },
+    {
+      "itemID": 12762,
+      "displayName": "Battle Croissant",
+      "name": "Battle Croissant"
+    },
+    {
+      "itemID": 12763,
+      "displayName": "BBQ Drumstick",
+      "name": "BBQ Drumstick"
+    },
+    {
+      "itemID": 12764,
+      "displayName": "Big Fountain Soda",
+      "name": "Big Fountain Soda"
+    },
+    {
+      "itemID": 12765,
+      "displayName": "Energy Bar",
+      "name": "Energy Bar"
+    },
+    {
+      "itemID": 12766,
+      "displayName": "Xpresso",
+      "name": "Xpresso"
+    },
+    {
+      "itemID": 12767,
+      "displayName": "Buff Out Armor Brush",
+      "name": "Buff Out Armor Brush"
+    },
+    {
+      "itemID": 14679,
+      "displayName": "Med Pack",
+      "name": "Med Pack"
+    },
+    {
+      "itemID": 14680,
+      "displayName": "Armor Repair Kit",
+      "name": "Armor Repair Kit"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "LootTableIndex": 109,
+  "items": [
+    {
+      "itemID": 130,
+      "displayName": null,
+      "name": "Rank 1 Engineer Book"
+    },
+    {
+      "itemID": 131,
+      "displayName": null,
+      "name": "Rank 1 Summoner Book"
+    },
+    {
+      "itemID": 8462,
+      "displayName": "Engineer Vest 2",
+      "name": "Engineer Neck/Back 2"
+    },
+    {
+      "itemID": 8463,
+      "displayName": "Inventor Shoulderpads 2",
+      "name": "Inventor Neck/Back 2"
+    },
+    {
+      "itemID": 8464,
+      "displayName": "Summoner Shoulderpads 2",
+      "name": "Summoner Neck/Back 2"
+    },
+    {
+      "itemID": 9624,
+      "displayName": "Assembly Awesome-Ade",
+      "name": "Assembly Faction Consumable 1"
+    },
+    {
+      "itemID": 11925,
+      "displayName": null,
+      "name": "Rank 1 Inventor Book"
+    },
+    {
+      "itemID": 13134,
+      "displayName": "Large Bag of Green Imaginite",
+      "name": "Large Green Imaginite Bag - Assembly"
+    },
+    {
+      "itemID": 13139,
+      "displayName": "Medium Bag of Red Imaginite",
+      "name": "Medium Red Imaginite Bag - Assembly"
+    },
+    {
+      "itemID": 13144,
+      "displayName": "Small Bag of Blue Imaginite",
+      "name": "Small Blue Imaginite Bag - Assembly"
+    },
+    {
+      "itemID": 7356,
+      "displayName": "Engineer Helmet 1",
+      "name": "Engineer Head 1"
+    },
+    {
+      "itemID": 7363,
+      "displayName": "Engineer Helmet 2",
+      "name": "Engineer Head 2"
+    },
+    {
+      "itemID": 7370,
+      "displayName": "Engineer Shirt 1",
+      "name": "Engineer Chest 1"
+    },
+    {
+      "itemID": 7371,
+      "displayName": "Engineer Shirt 2",
+      "name": "Engineer Chest 2"
+    },
+    {
+      "itemID": 7382,
+      "displayName": "Engineer Pants 1",
+      "name": "Engineer Legs 1"
+    },
+    {
+      "itemID": 7383,
+      "displayName": "Engineer Pants 2",
+      "name": "Engineer Legs 2"
+    },
+    {
+      "itemID": 7394,
+      "displayName": "Engineer Wrench 1",
+      "name": "Engineer Weapon 1"
+    },
+    {
+      "itemID": 7395,
+      "displayName": "Engineer Wrench 2",
+      "name": "Engineer Weapon 2"
+    },
+    {
+      "itemID": 7405,
+      "displayName": "Engineer Controller 2",
+      "name": "Engineer Offhand 2"
+    },
+    {
+      "itemID": 7454,
+      "displayName": "Inventor Goggles 1",
+      "name": "Inventor Head 1"
+    },
+    {
+      "itemID": 7455,
+      "displayName": "Inventor Goggles 2",
+      "name": "Inventor Head 2"
+    },
+    {
+      "itemID": 7457,
+      "displayName": "Summoner Hat 1",
+      "name": "Summoner Head 1"
+    },
+    {
+      "itemID": 7458,
+      "displayName": "Summoner Hat 2",
+      "name": "Summoner Head 2"
+    },
+    {
+      "itemID": 7478,
+      "displayName": "Inventor Armor 1",
+      "name": "Inventor Chest 1"
+    },
+    {
+      "itemID": 7479,
+      "displayName": "Inventor Armor 2",
+      "name": "Inventor Chest 2"
+    },
+    {
+      "itemID": 7481,
+      "displayName": "Summoner Robe 1",
+      "name": "Summoner Chest 1"
+    },
+    {
+      "itemID": 7482,
+      "displayName": "Summoner Robe 2",
+      "name": "Summoner Chest 2"
+    },
+    {
+      "itemID": 7502,
+      "displayName": "Inventor Pants 1",
+      "name": "Inventor Legs 1"
+    },
+    {
+      "itemID": 7503,
+      "displayName": "Inventor Pants 2",
+      "name": "Inventor Legs 2"
+    },
+    {
+      "itemID": 7505,
+      "displayName": "Summoner Pants 1",
+      "name": "Summoner Legs 1"
+    },
+    {
+      "itemID": 7506,
+      "displayName": "Summoner Pants 2",
+      "name": "Summoner Legs 2"
+    },
+    {
+      "itemID": 7526,
+      "displayName": "Inventor Improved Launcher 1",
+      "name": "Inventor Weapon 1"
+    },
+    {
+      "itemID": 7527,
+      "displayName": "Inventor Improved Launcher 2",
+      "name": "Inventor Weapon 2"
+    },
+    {
+      "itemID": 7529,
+      "displayName": "Summoner Staff 1",
+      "name": "Summoner Weapon 1"
+    },
+    {
+      "itemID": 7530,
+      "displayName": "Summoner Staff 2",
+      "name": "Summoner Weapon 2"
+    },
+    {
+      "itemID": 7556,
+      "displayName": "Summoner Orb 2",
+      "name": "Summoner Offhand 2"
+    }
+  ]
+}

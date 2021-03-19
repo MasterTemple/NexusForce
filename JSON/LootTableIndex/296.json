@@ -1,0 +1,40 @@
+{
+  "LootTableIndex": 218,
+  "items": [
+    {
+      "itemID": 9604,
+      "displayName": "Radar Truck Model",
+      "name": "Model Reward Radar Truck"
+    },
+    {
+      "itemID": 9605,
+      "displayName": "Mini Car Model",
+      "name": "Model Reward Mini Car"
+    },
+    {
+      "itemID": 9606,
+      "displayName": "Tractor Model",
+      "name": "Model Reward Tractor"
+    },
+    {
+      "itemID": 9607,
+      "displayName": "Jet Ski Model",
+      "name": "Model Reward Jet Ski"
+    },
+    {
+      "itemID": 9608,
+      "displayName": "Life Guard Tower Model",
+      "name": "Model Reward Life Guard Tower"
+    },
+    {
+      "itemID": 9646,
+      "displayName": "Rover Model 1",
+      "name": "Model Reward Rover 1"
+    },
+    {
+      "itemID": 9647,
+      "displayName": "Rover Model 2",
+      "name": "Model Reward Rover 2"
+    }
+  ]
+}

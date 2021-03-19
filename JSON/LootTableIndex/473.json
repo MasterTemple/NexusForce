@@ -1,0 +1,10 @@
+{
+  "LootTableIndex": 380,
+  "items": [
+    {
+      "itemID": 12030,
+      "displayName": "Mach Lava Front Bumper",
+      "name": "CarFV2_FrontBumper_p"
+    }
+  ]
+}

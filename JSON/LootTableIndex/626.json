@@ -1,0 +1,35 @@
+{
+  "LootTableIndex": 494,
+  "items": [
+    {
+      "itemID": 11459,
+      "displayName": "Adventurer Whip 3",
+      "name": "Adventurer Whip 3"
+    },
+    {
+      "itemID": 7462,
+      "displayName": "Adventurer Hat 3",
+      "name": "Adventurer Head 3"
+    },
+    {
+      "itemID": 7486,
+      "displayName": "Adventurer Coat 3",
+      "name": "Adventurer Chest 3"
+    },
+    {
+      "itemID": 7510,
+      "displayName": "Adventurer Pants 3",
+      "name": "Adventurer Legs 3"
+    },
+    {
+      "itemID": 7534,
+      "displayName": "Adventurer Crossbow 3",
+      "name": "Adventurer Crossbow 3"
+    },
+    {
+      "itemID": 7558,
+      "displayName": "Adventurer Backpack 3",
+      "name": "Adventurer Neck/Back 3"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "LootTableIndex": 474,
+  "items": [
+    {
+      "itemID": 13062,
+      "displayName": "Fright Speed Front Bumper",
+      "name": "CarAM_FrontBumper"
+    },
+    {
+      "itemID": 13063,
+      "displayName": "Fright Speed Engine Panel",
+      "name": "CarAM_FrontPanel"
+    },
+    {
+      "itemID": 13064,
+      "displayName": "Fright Speed Rear Bumper",
+      "name": "CarAM_RearBumper"
+    },
+    {
+      "itemID": 13065,
+      "displayName": "Fright Speed Rear Panel",
+      "name": "CarAM_RearPanel"
+    },
+    {
+      "itemID": 13066,
+      "displayName": "Fright Speed Side Panels",
+      "name": "CarAM_SidePanels"
+    }
+  ]
+}

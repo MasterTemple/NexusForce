@@ -1,0 +1,20 @@
+{
+  "LootTableIndex": 577,
+  "items": [
+    {
+      "itemID": 8375,
+      "displayName": "Sushi",
+      "name": "Sushi"
+    },
+    {
+      "itemID": 1966,
+      "displayName": "Healing Banana",
+      "name": "Health Banana 1"
+    },
+    {
+      "itemID": 2994,
+      "displayName": "Healing Cherry",
+      "name": "Health Cherry 2"
+    }
+  ]
+}

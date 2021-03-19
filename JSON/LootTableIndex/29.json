@@ -1,0 +1,125 @@
+{
+  "LootTableIndex": 4,
+  "items": [
+    {
+      "itemID": 8357,
+      "displayName": "Gothic Paradox Shirt",
+      "name": "Gothic Paradox Shirt"
+    },
+    {
+      "itemID": 8363,
+      "displayName": null,
+      "name": "Bag of Glitter"
+    },
+    {
+      "itemID": 8375,
+      "displayName": "Sushi",
+      "name": "Sushi"
+    },
+    {
+      "itemID": 8376,
+      "displayName": "Tough Buff Sauce",
+      "name": "Tough Buff Sauce"
+    },
+    {
+      "itemID": 8454,
+      "displayName": "Super Hairbrush",
+      "name": "Super Hairbrush"
+    },
+    {
+      "itemID": 8468,
+      "displayName": "Super Spear",
+      "name": "Super Spear"
+    },
+    {
+      "itemID": 8529,
+      "displayName": "Scorpion Shield",
+      "name": "Kite Shield 2"
+    },
+    {
+      "itemID": 8536,
+      "displayName": "Dox Shoulderpads",
+      "name": "Dox Shoulderpads"
+    },
+    {
+      "itemID": 8620,
+      "displayName": "Viking Barbarian Shirt",
+      "name": "Viking Barbarian Shirt"
+    },
+    {
+      "itemID": 8655,
+      "displayName": "Pirate-Sized Ninja Clothes",
+      "name": "Ninja Clothes - Pirate Sized"
+    },
+    {
+      "itemID": 9258,
+      "displayName": "Super Composite Axe",
+      "name": "Super Composite Axe"
+    },
+    {
+      "itemID": 9748,
+      "displayName": "Ninja Dragon Rocket Engine",
+      "name": "MOD Rocket Ninja Dragon Engine"
+    },
+    {
+      "itemID": 2620,
+      "displayName": "Quicksicle",
+      "name": "Quicksicle"
+    },
+    {
+      "itemID": 2993,
+      "displayName": "Armor Polish",
+      "name": "Armor Polish 1"
+    },
+    {
+      "itemID": 2994,
+      "displayName": "Healing Cherry",
+      "name": "Health Cherry 2"
+    },
+    {
+      "itemID": 2996,
+      "displayName": "Armor Shine",
+      "name": "Armor Polish 2"
+    },
+    {
+      "itemID": 2998,
+      "displayName": "Strong Notion Potion",
+      "name": "Potion of Imagination 2"
+    },
+    {
+      "itemID": 3039,
+      "displayName": "Green Imaginite",
+      "name": "Green Imaginite"
+    },
+    {
+      "itemID": 3040,
+      "displayName": "Red Imaginite",
+      "name": "Red Imaginite"
+    },
+    {
+      "itemID": 12513,
+      "displayName": "LEGO Dice",
+      "name": "LEGO Dice Item"
+    },
+    {
+      "itemID": 14817,
+      "displayName": "White Shoulder Owl",
+      "name": "Shoulder Owl White"
+    },
+    {
+      "itemID": 6884,
+      "displayName": "Flash Bang",
+      "name": "Flash Bang"
+    },
+    {
+      "itemID": 7724,
+      "displayName": "Buttery Croissant",
+      "name": "Buttery Croissant"
+    },
+    {
+      "itemID": 7725,
+      "displayName": "Healing Drumstick",
+      "name": "Healing Drumstick"
+    }
+  ]
+}

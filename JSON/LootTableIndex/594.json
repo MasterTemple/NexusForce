@@ -1,0 +1,15 @@
+{
+  "LootTableIndex": 483,
+  "items": [
+    {
+      "itemID": 12507,
+      "displayName": "Skeleton Gate Model",
+      "name": "Model Reward Skeleton Gate"
+    },
+    {
+      "itemID": 12508,
+      "displayName": "Skeleton Elevator Model",
+      "name": "Model Reward Skeleton Elevator"
+    }
+  ]
+}

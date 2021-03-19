@@ -1,0 +1,35 @@
+{
+  "LootTableIndex": 601,
+  "items": [
+    {
+      "itemID": 9856,
+      "displayName": "Nexus Force Cape",
+      "name": "Gray Cape with Nexus Force Logo"
+    },
+    {
+      "itemID": 14805,
+      "displayName": "Red Cape",
+      "name": "Red Cape"
+    },
+    {
+      "itemID": 14806,
+      "displayName": "Blue Cape",
+      "name": "Blue Cape"
+    },
+    {
+      "itemID": 14809,
+      "displayName": "Pink Cape",
+      "name": "Pink Cape"
+    },
+    {
+      "itemID": 14810,
+      "displayName": "Green Cape",
+      "name": "Green Cape"
+    },
+    {
+      "itemID": 14814,
+      "displayName": "Purple Cape",
+      "name": "Purple Cape"
+    }
+  ]
+}

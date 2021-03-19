@@ -1,0 +1,20 @@
+{
+  "LootTableIndex": 35,
+  "items": [
+    {
+      "itemID": 4715,
+      "displayName": "Classic Rocket Engine",
+      "name": "MOD Rocket Classic Engine"
+    },
+    {
+      "itemID": 4718,
+      "displayName": "Steampunk Rocket Engine",
+      "name": "MOD Rocket Steampunk Engine"
+    },
+    {
+      "itemID": 4721,
+      "displayName": "Pod Rocket Engine",
+      "name": "MOD Rocket Pod Engine"
+    }
+  ]
+}

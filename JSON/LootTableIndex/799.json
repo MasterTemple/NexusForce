@@ -1,0 +1,15 @@
+{
+  "LootTableIndex": 602,
+  "items": [
+    {
+      "itemID": 14812,
+      "displayName": "Yellow Cape",
+      "name": "Yellow Cape"
+    },
+    {
+      "itemID": 14813,
+      "displayName": "Orange Cape",
+      "name": "Orange Cape"
+    }
+  ]
+}

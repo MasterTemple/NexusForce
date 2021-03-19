@@ -1,0 +1,85 @@
+{
+  "LootTableIndex": 642,
+  "items": [
+    {
+      "itemID": 16595,
+      "displayName": "Disciple's Katana",
+      "name": "Disciple's Katana"
+    },
+    {
+      "itemID": 16596,
+      "displayName": "Student's Katana",
+      "name": "Student's Katana"
+    },
+    {
+      "itemID": 16597,
+      "displayName": "Forged Katana",
+      "name": "Forged Katana"
+    },
+    {
+      "itemID": 16598,
+      "displayName": "Crimson Yari",
+      "name": "Crimson Yari"
+    },
+    {
+      "itemID": 16599,
+      "displayName": "Wave Spike",
+      "name": "Wave Spike"
+    },
+    {
+      "itemID": 16600,
+      "displayName": "Shimmering Yari",
+      "name": "Shimmering Yari"
+    },
+    {
+      "itemID": 16601,
+      "displayName": "Bright Lance",
+      "name": "Bright Lance"
+    },
+    {
+      "itemID": 16602,
+      "displayName": "Rage",
+      "name": "Rage"
+    },
+    {
+      "itemID": 14682,
+      "displayName": "Shimmering Katana",
+      "name": "Shimmering Katana"
+    },
+    {
+      "itemID": 14684,
+      "displayName": "Flowing Katana",
+      "name": "Flowing Katana"
+    },
+    {
+      "itemID": 14713,
+      "displayName": "Training Yari",
+      "name": "Training Yari"
+    },
+    {
+      "itemID": 14780,
+      "displayName": "Kai's Training Dagger",
+      "name": "Kai's Training Dagger"
+    },
+    {
+      "itemID": 14829,
+      "displayName": "Training Bo Staff",
+      "name": "Training Bo Stafff"
+    },
+    {
+      "itemID": 14840,
+      "displayName": "Spinning Yari",
+      "name": "Spinning Yari"
+    },
+    {
+      "itemID": 15909,
+      "displayName": "Stinger",
+      "name": "Stinger"
+    },
+    {
+      "itemID": 15911,
+      "displayName": "Sharp Kunai",
+      "name": "Sharp Kunai"
+    }
+  ]
+}

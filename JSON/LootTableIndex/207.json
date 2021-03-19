@@ -1,0 +1,10 @@
+{
+  "LootTableIndex": 135,
+  "items": [
+    {
+      "itemID": 9329,
+      "displayName": "Hyperstarter Engine Panel",
+      "name": "Car1_EnginePanel1_y"
+    }
+  ]
+}

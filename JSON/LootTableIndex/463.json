@@ -1,0 +1,45 @@
+{
+  "LootTableIndex": 375,
+  "items": [
+    {
+      "itemID": 11873,
+      "displayName": "Winter Fireplace Model",
+      "name": "Model Reward Winter Fireplace"
+    },
+    {
+      "itemID": 11874,
+      "displayName": "Winter Gingerbread House Door Model 1",
+      "name": "Model Reward Winter Gingerbread House Door 1"
+    },
+    {
+      "itemID": 11875,
+      "displayName": "Winter Gingerbread House Door Model 2",
+      "name": "Model Reward Winter Gingerbread House Door 2"
+    },
+    {
+      "itemID": 11879,
+      "displayName": "Winter Gingerbread House Window Model 1",
+      "name": "Model Reward Winter Gingerbread House Window 1"
+    },
+    {
+      "itemID": 11885,
+      "displayName": "Winter Reindeer Model",
+      "name": "Model Reward Winter Reindeer"
+    },
+    {
+      "itemID": 11888,
+      "displayName": "Winter Snowmobile Model",
+      "name": "Model Reward Winter Snowmobile"
+    },
+    {
+      "itemID": 11892,
+      "displayName": "Winter Tree Model 1",
+      "name": "Model Reward Winter Tree 1"
+    },
+    {
+      "itemID": 11893,
+      "displayName": "Winter Tree Model 2",
+      "name": "Model Reward Winter Tree 2"
+    }
+  ]
+}

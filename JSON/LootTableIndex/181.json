@@ -1,0 +1,390 @@
+{
+  "LootTableIndex": 113,
+  "items": [
+    {
+      "itemID": 8234,
+      "displayName": "Thrust Bucket Rear Panel",
+      "name": "Car Module - Car 2 Rear Panel 1 Yellow"
+    },
+    {
+      "itemID": 8235,
+      "displayName": "Chase Cutter Side Panels 1",
+      "name": "Car Module - Car 1 Side Panels 2 Yellow"
+    },
+    {
+      "itemID": 8236,
+      "displayName": "Paragon Warp Front Bumper 1",
+      "name": "Car Module - Car 3 Front Bumper 1 Yellow"
+    },
+    {
+      "itemID": 9318,
+      "displayName": "Hyperstarter Front Bumper",
+      "name": "Car1_FrontBumper1_r"
+    },
+    {
+      "itemID": 9319,
+      "displayName": "Hyperstarter Front Bumper",
+      "name": "Car1_FrontBumper1_y"
+    },
+    {
+      "itemID": 9320,
+      "displayName": "Hyperstarter Front Bumper",
+      "name": "Car1_FrontBumper1_b"
+    },
+    {
+      "itemID": 9321,
+      "displayName": "Chase Cutter Front Bumper 1",
+      "name": "Car1_FrontBumper2_y"
+    },
+    {
+      "itemID": 9322,
+      "displayName": "Chase Cutter Front Bumper 1",
+      "name": "Car1_FrontBumper2_b"
+    },
+    {
+      "itemID": 9323,
+      "displayName": "Chase Cutter Front Bumper 2",
+      "name": "Car1_FrontBumper3_r"
+    },
+    {
+      "itemID": 9324,
+      "displayName": "Chase Cutter Front Bumper 2",
+      "name": "Car1_FrontBumper3_y"
+    },
+    {
+      "itemID": 9325,
+      "displayName": "Chase Cutter Front Bumper 2",
+      "name": "Car1_FrontBumper3_b"
+    },
+    {
+      "itemID": 9326,
+      "displayName": "Chase Cutter Front Bumper 3",
+      "name": "Car1_FrontBumper4_r"
+    },
+    {
+      "itemID": 9327,
+      "displayName": "Chase Cutter Front Bumper 3",
+      "name": "Car1_FrontBumper4_w"
+    },
+    {
+      "itemID": 9328,
+      "displayName": "Chase Cutter Front Bumper 3",
+      "name": "Car1_FrontBumper4_bk"
+    },
+    {
+      "itemID": 9329,
+      "displayName": "Hyperstarter Engine Panel",
+      "name": "Car1_EnginePanel1_y"
+    },
+    {
+      "itemID": 9330,
+      "displayName": "Hyperstarter Engine Panel",
+      "name": "Car1_EnginePanel1_b"
+    },
+    {
+      "itemID": 9331,
+      "displayName": "Hyperstarter Engine Panel",
+      "name": "Car1_EnginePanel1_w"
+    },
+    {
+      "itemID": 9333,
+      "displayName": "Chase Cutter Engine Panel 1",
+      "name": "Car1_EnginePanel2_r"
+    },
+    {
+      "itemID": 9334,
+      "displayName": "Chase Cutter Engine Panel 1",
+      "name": "Car1_EnginePanel2_y"
+    },
+    {
+      "itemID": 9335,
+      "displayName": "Chase Cutter Engine Panel 1",
+      "name": "Car1_EnginePanel2_b"
+    },
+    {
+      "itemID": 9336,
+      "displayName": "Chase Cutter Engine Panel 2",
+      "name": "Car1_EnginePanel3_r"
+    },
+    {
+      "itemID": 9337,
+      "displayName": "Chase Cutter Engine Panel 2",
+      "name": "Car1_EnginePanel3_y"
+    },
+    {
+      "itemID": 9338,
+      "displayName": "Chase Cutter Engine Panel 2",
+      "name": "Car1_EnginePanel3_b"
+    },
+    {
+      "itemID": 9341,
+      "displayName": "Chase Cutter Engine Panel 3",
+      "name": "Car1_EnginePanel4_r"
+    },
+    {
+      "itemID": 9343,
+      "displayName": "Hyperstarter Side Panels",
+      "name": "Car1_SidePanels1_r"
+    },
+    {
+      "itemID": 9344,
+      "displayName": "Hyperstarter Side Panels",
+      "name": "Car1_SidePanels1_y"
+    },
+    {
+      "itemID": 9345,
+      "displayName": "Hyperstarter Side Panels",
+      "name": "Car1_SidePanels1_b"
+    },
+    {
+      "itemID": 9346,
+      "displayName": "Hyperstarter Side Panels",
+      "name": "Car1_SidePanels1_w"
+    },
+    {
+      "itemID": 9348,
+      "displayName": "Chase Cutter Side Panels 1",
+      "name": "Car1_SidePanels2_r"
+    },
+    {
+      "itemID": 9349,
+      "displayName": "Chase Cutter Side Panels 1",
+      "name": "Car1_SidePanels2_b"
+    },
+    {
+      "itemID": 9352,
+      "displayName": "Chase Cutter Side Panels 2",
+      "name": "Car1_SidePanels3_bk"
+    },
+    {
+      "itemID": 9353,
+      "displayName": "Hyperstarter Rear Panel",
+      "name": "Car1_RearPanel1_r"
+    },
+    {
+      "itemID": 9354,
+      "displayName": "Hyperstarter Rear Panel",
+      "name": "Car1_RearPanel1_y"
+    },
+    {
+      "itemID": 9355,
+      "displayName": "Hyperstarter Rear Panel",
+      "name": "Car1_RearPanel1_b"
+    },
+    {
+      "itemID": 9356,
+      "displayName": "Chase Cutter Rear Panel 1",
+      "name": "Car1_RearPanel2_r"
+    },
+    {
+      "itemID": 9357,
+      "displayName": "Chase Cutter Rear Panel 1",
+      "name": "Car1_RearPanel2_y"
+    },
+    {
+      "itemID": 9358,
+      "displayName": "Chase Cutter Rear Panel 1",
+      "name": "Car1_RearPanel2_b"
+    },
+    {
+      "itemID": 9359,
+      "displayName": "Chase Cutter Rear Panel 2",
+      "name": "Car1_RearPanel3_w"
+    },
+    {
+      "itemID": 9360,
+      "displayName": "Chase Cutter Rear Panel 2",
+      "name": "Car1_RearPanel3_bk"
+    },
+    {
+      "itemID": 9363,
+      "displayName": "Hyperstarter Rear Bumper",
+      "name": "Car1_RearBumper1_r"
+    },
+    {
+      "itemID": 9364,
+      "displayName": "Hyperstarter Rear Bumper",
+      "name": "Car1_RearBumper1_y"
+    },
+    {
+      "itemID": 9365,
+      "displayName": "Hyperstarter Rear Bumper",
+      "name": "Car1_RearBumper1_b"
+    },
+    {
+      "itemID": 9367,
+      "displayName": "Hyperstarter Rear Bumper",
+      "name": "Car1_RearBumper1_bk"
+    },
+    {
+      "itemID": 9373,
+      "displayName": "Thrust Bucket Front Bumper 1",
+      "name": "Car2_FrontBumper1_gr"
+    },
+    {
+      "itemID": 9377,
+      "displayName": "Thrust Bucket Engine Panel 1",
+      "name": "Car2_EnginePanel1_r"
+    },
+    {
+      "itemID": 9378,
+      "displayName": "Thrust Bucket Engine Panel 1",
+      "name": "Car2_EnginePanel1_y"
+    },
+    {
+      "itemID": 9379,
+      "displayName": "Thrust Bucket Engine Panel 1",
+      "name": "Car2_EnginePanel1_b"
+    },
+    {
+      "itemID": 9381,
+      "displayName": "Bolt Ox Engine Panel 1",
+      "name": "Car2_EnginePanel3_w"
+    },
+    {
+      "itemID": 9384,
+      "displayName": "Bolt Ox Engine Panel 2",
+      "name": "Car2_EnginePanel4_b"
+    },
+    {
+      "itemID": 9386,
+      "displayName": "Thrust Bucket Side Panels",
+      "name": "Car2_SidePanels1_r"
+    },
+    {
+      "itemID": 9387,
+      "displayName": "Thrust Bucket Side Panels",
+      "name": "Car2_SidePanels1_y"
+    },
+    {
+      "itemID": 9388,
+      "displayName": "Thrust Bucket Side Panels",
+      "name": "Car2_SidePanels1_b"
+    },
+    {
+      "itemID": 9391,
+      "displayName": "Bolt Ox Side Panels 1",
+      "name": "Car2_SidePanels2_r"
+    },
+    {
+      "itemID": 9392,
+      "displayName": "Bolt Ox Side Panels 1",
+      "name": "Car2_SidePanels2_y"
+    },
+    {
+      "itemID": 9393,
+      "displayName": "Bolt Ox Side Panels 1",
+      "name": "Car2_SidePanels2_b"
+    },
+    {
+      "itemID": 9396,
+      "displayName": "Thrust Bucket Rear Panel",
+      "name": "Car2_RearPanel1_b"
+    },
+    {
+      "itemID": 9397,
+      "displayName": "Thrust Bucket Rear Panel",
+      "name": "Car2_RearPanel1_w"
+    },
+    {
+      "itemID": 9398,
+      "displayName": "Bolt Ox Rear Panel",
+      "name": "Car2_RearPanel2_r"
+    },
+    {
+      "itemID": 9399,
+      "displayName": "Bolt Ox Rear Panel",
+      "name": "Car2_RearPanel2_y"
+    },
+    {
+      "itemID": 9403,
+      "displayName": "Bolt Ox Rear Bumper 2",
+      "name": "Car2_RearBumper3_gr"
+    },
+    {
+      "itemID": 9450,
+      "displayName": "Red Rim Wheels",
+      "name": "CarModule_Wheels_r"
+    },
+    {
+      "itemID": 9451,
+      "displayName": "Yellow Rim Wheels",
+      "name": "CarModule_Wheels_y"
+    },
+    {
+      "itemID": 3039,
+      "displayName": "Green Imaginite",
+      "name": "Green Imaginite"
+    },
+    {
+      "itemID": 7730,
+      "displayName": "Red Racing Helmet",
+      "name": "Red Racing Helmet"
+    },
+    {
+      "itemID": 7766,
+      "displayName": "Workbench with Toolbox Model",
+      "name": "Model Reward Racer Work Bench 2"
+    },
+    {
+      "itemID": 7767,
+      "displayName": "Welder Model",
+      "name": "Model Reward Racer Welding Tool"
+    },
+    {
+      "itemID": 7768,
+      "displayName": "Fire Extinguisher Model",
+      "name": "Model Reward Racer Fire Extinguisher"
+    },
+    {
+      "itemID": 7769,
+      "displayName": "Computer Model",
+      "name": "Model Reward Racer Computer"
+    },
+    {
+      "itemID": 7992,
+      "displayName": "Blue Racing Helmet",
+      "name": "Blue Racing Helmet"
+    },
+    {
+      "itemID": 8037,
+      "displayName": "Green Racing Helmet",
+      "name": "Green Racing Helmet"
+    },
+    {
+      "itemID": 8038,
+      "displayName": "White Racing Helmet",
+      "name": "White Racing Helmet"
+    },
+    {
+      "itemID": 8039,
+      "displayName": "Yellow Racing Helmet",
+      "name": "Yellow Racing Helmet"
+    },
+    {
+      "itemID": 8129,
+      "displayName": "Car Chassis",
+      "name": "Car Module - Chassis"
+    },
+    {
+      "itemID": 8130,
+      "displayName": "Steel Rim Wheels",
+      "name": "CarModule_Wheels_gr"
+    },
+    {
+      "itemID": 8131,
+      "displayName": "Hyperstarter Engine Panel",
+      "name": "Car Module - Car 1 Engine Panel 1 Red"
+    },
+    {
+      "itemID": 8132,
+      "displayName": "Chase Cutter Rear Panel 2",
+      "name": "Car Module - Car 1 Rear Panel 3 Red"
+    },
+    {
+      "itemID": 8134,
+      "displayName": "Chase Cutter Front Bumper 1",
+      "name": "Car Module - Car 1 Front Bumper 2 Red"
+    }
+  ]
+}

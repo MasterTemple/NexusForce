@@ -1,0 +1,1430 @@
+{
+  "LootTableIndex": 166,
+  "items": [
+    {
+      "itemID": 16384,
+      "displayName": "Outer Cable 256mm",
+      "name": "m57274"
+    },
+    {
+      "itemID": 16385,
+      "displayName": "Sprocket, Ø40.7",
+      "name": "m57519"
+    },
+    {
+      "itemID": 3,
+      "displayName": "Technic Brick 1x4",
+      "name": "m3701"
+    },
+    {
+      "itemID": 16394,
+      "displayName": "Differential 3M Z 28",
+      "name": "m62821"
+    },
+    {
+      "itemID": 16395,
+      "displayName": "Cross Block 3x2",
+      "name": "m63869"
+    },
+    {
+      "itemID": 16396,
+      "displayName": "Beam R. Frame 5x11 Ø4.85",
+      "name": "m64178"
+    },
+    {
+      "itemID": 16397,
+      "displayName": "Beam Frame 5x7 Ø 4.85",
+      "name": "m64179"
+    },
+    {
+      "itemID": 16398,
+      "displayName": "Beam 2 with Ball Ø 10.2",
+      "name": "m64276"
+    },
+    {
+      "itemID": 16400,
+      "displayName": "7M Double Ball Shell with Cross Hinge",
+      "name": "m64311"
+    },
+    {
+      "itemID": 16401,
+      "displayName": "Rack 13 M",
+      "name": "m64781"
+    },
+    {
+      "itemID": 16402,
+      "displayName": "Rack with Ball",
+      "name": "m6574"
+    },
+    {
+      "itemID": 16403,
+      "displayName": "Toothed Bar 10M",
+      "name": "m6592"
+    },
+    {
+      "itemID": 16404,
+      "displayName": "Technic Toothed Bar 8M",
+      "name": "m6630"
+    },
+    {
+      "itemID": 16406,
+      "displayName": "Outercable 80mm",
+      "name": "m76302"
+    },
+    {
+      "itemID": 16407,
+      "displayName": "Cone Wheel Z20 Ø4.85",
+      "name": "m87407"
+    },
+    {
+      "itemID": 16408,
+      "displayName": "Beam 3M Ø4.85 with Fork",
+      "name": "m87408"
+    },
+    {
+      "itemID": 16411,
+      "displayName": "Rack 7 M",
+      "name": "m87761"
+    },
+    {
+      "itemID": 16413,
+      "displayName": "Catapult Arm 1x4",
+      "name": "m88289"
+    },
+    {
+      "itemID": 16422,
+      "displayName": "Ball Cup Double Ø10.2, 5M",
+      "name": "m89650"
+    },
+    {
+      "itemID": 16424,
+      "displayName": "Beam A 7M Ball/Cup Ø10.2",
+      "name": "m90607"
+    },
+    {
+      "itemID": 16425,
+      "displayName": "Beam A 6M Ball/Cup Ø10.2",
+      "name": "m90608"
+    },
+    {
+      "itemID": 16426,
+      "displayName": "Beam A 5M Ball/Cup Ø10.2",
+      "name": "m90609"
+    },
+    {
+      "itemID": 16427,
+      "displayName": "Beam A 4M Ball/Cup Ø10.2",
+      "name": "m90611"
+    },
+    {
+      "itemID": 16428,
+      "displayName": "Beam B 6M Ball/Cup Ø10.2",
+      "name": "m90616"
+    },
+    {
+      "itemID": 16429,
+      "displayName": "Beam B 5M Ball/Cup Ø10.2",
+      "name": "m90617"
+    },
+    {
+      "itemID": 16430,
+      "displayName": "Beam C 5M Cup/Cup Ø10.2",
+      "name": "m90622"
+    },
+    {
+      "itemID": 16431,
+      "displayName": "Beam Torso 9x9 Ball Ø10.2",
+      "name": "m90625"
+    },
+    {
+      "itemID": 16432,
+      "displayName": "Beam Torso 7x9 Ball Ø10.2",
+      "name": "m90626"
+    },
+    {
+      "itemID": 16433,
+      "displayName": "Beam 3M Snap/Ball Ø10.2",
+      "name": "m90630"
+    },
+    {
+      "itemID": 16447,
+      "displayName": "Cross Block/Form 2x2x2",
+      "name": "m92907"
+    },
+    {
+      "itemID": 63,
+      "displayName": "Technic Pin",
+      "name": "m3673"
+    },
+    {
+      "itemID": 64,
+      "displayName": "Technic Brick 1x2",
+      "name": "m3700"
+    },
+    {
+      "itemID": 65,
+      "displayName": "Technic Brick 1x8",
+      "name": "m3702"
+    },
+    {
+      "itemID": 72,
+      "displayName": "Technic Pin 0.5",
+      "name": "m4274"
+    },
+    {
+      "itemID": 16467,
+      "displayName": "Hand 2x3x2 Ball Cup Ø10.2",
+      "name": "m93575"
+    },
+    {
+      "itemID": 85,
+      "displayName": "Brick 2x2 with Pin",
+      "name": "m6232"
+    },
+    {
+      "itemID": 117,
+      "displayName": "Rim Ø8",
+      "name": "m4624"
+    },
+    {
+      "itemID": 123,
+      "displayName": "Technic Brick Framing 4x6",
+      "name": "m32531"
+    },
+    {
+      "itemID": 341,
+      "displayName": "Technic Brick 1x6",
+      "name": "m3894"
+    },
+    {
+      "itemID": 342,
+      "displayName": "Technic Brick 1x12",
+      "name": "m3895"
+    },
+    {
+      "itemID": 359,
+      "displayName": "Bar 6 with Stop",
+      "name": "m4095"
+    },
+    {
+      "itemID": 378,
+      "displayName": "Technic Hub 30x20",
+      "name": "m4266"
+    },
+    {
+      "itemID": 486,
+      "displayName": "Technic Brick 4x4 Round",
+      "name": "m6222"
+    },
+    {
+      "itemID": 610,
+      "displayName": "Technic Brick 1x2 with 2 Pin Holes",
+      "name": "m32000"
+    },
+    {
+      "itemID": 611,
+      "displayName": "Technic Plate 2x6",
+      "name": "m32001"
+    },
+    {
+      "itemID": 612,
+      "displayName": "Technic Brick 1x14",
+      "name": "m32018"
+    },
+    {
+      "itemID": 615,
+      "displayName": "Technic Brick 1x2 with Cross Axle Hole",
+      "name": "m32064"
+    },
+    {
+      "itemID": 617,
+      "displayName": "Technic Rotor 3 Blades",
+      "name": "m32125"
+    },
+    {
+      "itemID": 618,
+      "displayName": "Technic Brick Framing 4x4",
+      "name": "m32324"
+    },
+    {
+      "itemID": 619,
+      "displayName": "Plate 1x2 with Technic Beam",
+      "name": "m32529"
+    },
+    {
+      "itemID": 620,
+      "displayName": "Tile 1x2 with Technic Beam",
+      "name": "m32530"
+    },
+    {
+      "itemID": 621,
+      "displayName": "Technic Brick Framing 6x8",
+      "name": "m32532"
+    },
+    {
+      "itemID": 622,
+      "displayName": "Technic Brick Corner 5x5",
+      "name": "m32555"
+    },
+    {
+      "itemID": 626,
+      "displayName": "2/3 Brick 1x1 Round with Flanges",
+      "name": "m33286"
+    },
+    {
+      "itemID": 627,
+      "displayName": "Plate 1x1 Round with Flanges",
+      "name": "m33291"
+    },
+    {
+      "itemID": 8819,
+      "displayName": "Belt for Technic Wedge-Belt Wheel ",
+      "name": "m2815"
+    },
+    {
+      "itemID": 8820,
+      "displayName": "Technic Fork",
+      "name": "m2823"
+    },
+    {
+      "itemID": 8821,
+      "displayName": "Technic Crank",
+      "name": "m2854"
+    },
+    {
+      "itemID": 631,
+      "displayName": "Technic Column for Spiral Staircase",
+      "name": "m40244"
+    },
+    {
+      "itemID": 8823,
+      "displayName": "Technic Triangle Half Beam 5x3",
+      "name": "m2905"
+    },
+    {
+      "itemID": 8824,
+      "displayName": "Coupling Lever",
+      "name": "m2920"
+    },
+    {
+      "itemID": 636,
+      "displayName": "Technic 4x4 Connector Ring",
+      "name": "m41531"
+    },
+    {
+      "itemID": 637,
+      "displayName": "1x3 with Pin and Vertical Stub",
+      "name": "m41532"
+    },
+    {
+      "itemID": 638,
+      "displayName": "Technic Brick 2x2x2 with Click Joint Opening",
+      "name": "m41533"
+    },
+    {
+      "itemID": 8837,
+      "displayName": "Shutter for Window",
+      "name": "m3582"
+    },
+    {
+      "itemID": 8842,
+      "displayName": "Technic Gear Wheel 40",
+      "name": "m3649"
+    },
+    {
+      "itemID": 8843,
+      "displayName": "Technic Brick 1x16",
+      "name": "m3703"
+    },
+    {
+      "itemID": 8853,
+      "displayName": "Technic Wedge-Belt Wheel Ø24",
+      "name": "m4185"
+    },
+    {
+      "itemID": 8862,
+      "displayName": "Technic Worm Screw",
+      "name": "m4716"
+    },
+    {
+      "itemID": 697,
+      "displayName": "Technic Brick 2x3 with Ball Cup Vertical and Cylinder",
+      "name": "m47432"
+    },
+    {
+      "itemID": 698,
+      "displayName": "Technic Brick 2x2 with Click Joint and Cylinder Joint",
+      "name": "m47452"
+    },
+    {
+      "itemID": 699,
+      "displayName": "Technic Brick 2x3 with Click Joint and Cylinder Joint",
+      "name": "m47454"
+    },
+    {
+      "itemID": 712,
+      "displayName": "Brick 4x8 1/2-Circle",
+      "name": "m47974"
+    },
+    {
+      "itemID": 8905,
+      "displayName": "Technic Driving Ring",
+      "name": "m6539"
+    },
+    {
+      "itemID": 8906,
+      "displayName": "Technic Gear Wheel 16 with Pin Hole",
+      "name": "m6542"
+    },
+    {
+      "itemID": 8907,
+      "displayName": "Technic Axle 1.5 with Cross Axle Connection Bush",
+      "name": "m6553"
+    },
+    {
+      "itemID": 8908,
+      "displayName": "Technic Cam Disc",
+      "name": "m6575"
+    },
+    {
+      "itemID": 718,
+      "displayName": "Technic Brick 2x2 with Cylinder",
+      "name": "m48169"
+    },
+    {
+      "itemID": 8910,
+      "displayName": "Technic Wheel Z12",
+      "name": "m6589"
+    },
+    {
+      "itemID": 719,
+      "displayName": "Technic Brick 2x2 with Ball Cup Horizontal Snap",
+      "name": "m48170"
+    },
+    {
+      "itemID": 8911,
+      "displayName": "Technic Angular Beam 45° 4x6",
+      "name": "m6629"
+    },
+    {
+      "itemID": 720,
+      "displayName": "Technic Brick 2x2 with Ball Cup Vertical",
+      "name": "m48171"
+    },
+    {
+      "itemID": 8912,
+      "displayName": "Technic Change-Over Catch",
+      "name": "m6641"
+    },
+    {
+      "itemID": 721,
+      "displayName": "Technic Brick 2x2 with 2 Cylinders",
+      "name": "m48172"
+    },
+    {
+      "itemID": 8953,
+      "displayName": "Connecting Rod 6P",
+      "name": "m32005"
+    },
+    {
+      "itemID": 8954,
+      "displayName": "Flipper with Stud",
+      "name": "m32008"
+    },
+    {
+      "itemID": 8955,
+      "displayName": "Technic Angular Beam 3x7 45°/90° ",
+      "name": "m32009"
+    },
+    {
+      "itemID": 8956,
+      "displayName": "Technic Angle Connector 0°",
+      "name": "m32013"
+    },
+    {
+      "itemID": 8959,
+      "displayName": "Technic Angle Connector 180°",
+      "name": "m32034"
+    },
+    {
+      "itemID": 8960,
+      "displayName": "Technic Bush with Cross Axle Connection Bush",
+      "name": "m32039"
+    },
+    {
+      "itemID": 8961,
+      "displayName": "Technic Angular Half-beam 90° 3x3",
+      "name": "m32056"
+    },
+    {
+      "itemID": 8963,
+      "displayName": "Technic Angular Beam 4x2 90°",
+      "name": "m32140"
+    },
+    {
+      "itemID": 8964,
+      "displayName": "Technic Beam 7, Special",
+      "name": "m32177"
+    },
+    {
+      "itemID": 8965,
+      "displayName": "Technic Transmission Ring",
+      "name": "m32187"
+    },
+    {
+      "itemID": 8966,
+      "displayName": "Technic Bevel Gear Z20",
+      "name": "m32198"
+    },
+    {
+      "itemID": 8967,
+      "displayName": "Technic Flex Rod 11",
+      "name": "m32199"
+    },
+    {
+      "itemID": 8968,
+      "displayName": "Technic Flex Rod 12",
+      "name": "m32200"
+    },
+    {
+      "itemID": 8969,
+      "displayName": "Technic Casing for Worm Screw",
+      "name": "m6588"
+    },
+    {
+      "itemID": 8970,
+      "displayName": "Technic Half Beam 3x3 with Curve",
+      "name": "m32249"
+    },
+    {
+      "itemID": 8971,
+      "displayName": "Technic Half Beam 5x7 with Curve",
+      "name": "m32251"
+    },
+    {
+      "itemID": 8972,
+      "displayName": "Technic Cross-Joiner Double 2x1",
+      "name": "m32291"
+    },
+    {
+      "itemID": 8973,
+      "displayName": "Technic Steering Link",
+      "name": "m32293"
+    },
+    {
+      "itemID": 8974,
+      "displayName": "Technic Suspension Arm",
+      "name": "m32294"
+    },
+    {
+      "itemID": 8975,
+      "displayName": "BIONICLE Head",
+      "name": "m32310"
+    },
+    {
+      "itemID": 8976,
+      "displayName": "Technic Beam 5",
+      "name": "m32316"
+    },
+    {
+      "itemID": 8977,
+      "displayName": "BIONICLE Foot",
+      "name": "m32475"
+    },
+    {
+      "itemID": 8978,
+      "displayName": "BIONICLE Arm",
+      "name": "m32476"
+    },
+    {
+      "itemID": 8979,
+      "displayName": "Technic Double Conical Wheel Z36",
+      "name": "m32498"
+    },
+    {
+      "itemID": 8980,
+      "displayName": "Technic Beam 3",
+      "name": "m32523"
+    },
+    {
+      "itemID": 8981,
+      "displayName": "Technic Angular Beam 3x5 90°",
+      "name": "m32526"
+    },
+    {
+      "itemID": 8982,
+      "displayName": "Technic Panel 5M-5 Right",
+      "name": "m32527"
+    },
+    {
+      "itemID": 8983,
+      "displayName": "Technic Panel 5M-6 Left",
+      "name": "m32528"
+    },
+    {
+      "itemID": 8984,
+      "displayName": "Technic Panel 10M-7 Right",
+      "name": "m32534"
+    },
+    {
+      "itemID": 8985,
+      "displayName": "Technic Panel 10M-8",
+      "name": "m32535"
+    },
+    {
+      "itemID": 8993,
+      "displayName": "Technic Steering Knuckle Arm",
+      "name": "m33299"
+    },
+    {
+      "itemID": 9001,
+      "displayName": "Technic Beam 9",
+      "name": "m40490"
+    },
+    {
+      "itemID": 9003,
+      "displayName": "Technic Cross-Joiner Double 2x1 with 2 Half-Beams",
+      "name": "m41678"
+    },
+    {
+      "itemID": 9006,
+      "displayName": "Technic Beam 3 with Lateral Cross Axle Hole",
+      "name": "m42003"
+    },
+    {
+      "itemID": 9008,
+      "displayName": "BIONICLE Tooth",
+      "name": "m42074"
+    },
+    {
+      "itemID": 9016,
+      "displayName": "Technic Panel 7M No.22 Right",
+      "name": "m44352"
+    },
+    {
+      "itemID": 9017,
+      "displayName": "Technic Panel 7M No.23 Left",
+      "name": "m44353"
+    },
+    {
+      "itemID": 9020,
+      "displayName": "Technic Beam 2x2 90° Angle",
+      "name": "m44809"
+    },
+    {
+      "itemID": 9026,
+      "displayName": "Technic Flexible Double Bush",
+      "name": "m45590"
+    },
+    {
+      "itemID": 9037,
+      "displayName": "Technic Cross Axle 32",
+      "name": "m50450"
+    },
+    {
+      "itemID": 9039,
+      "displayName": "Technic Beam 2 with Ball",
+      "name": "m50923"
+    },
+    {
+      "itemID": 9044,
+      "displayName": "Technic Brick Casing 4x12x3",
+      "name": "m52041"
+    },
+    {
+      "itemID": 9046,
+      "displayName": "Technic Shell 3x5x2",
+      "name": "m53543"
+    },
+    {
+      "itemID": 9047,
+      "displayName": "BIONICLE Ball magazine",
+      "name": "m53550"
+    },
+    {
+      "itemID": 9048,
+      "displayName": "Technic Lift Arm, Cylinder",
+      "name": "m53586"
+    },
+    {
+      "itemID": 857,
+      "displayName": "Technic Brick 1x10",
+      "name": "m2730"
+    },
+    {
+      "itemID": 9049,
+      "displayName": "BIONICLE Turbine Wheel",
+      "name": "m53983"
+    },
+    {
+      "itemID": 858,
+      "displayName": "Technic Brick 1x4 with Wing",
+      "name": "m2743"
+    },
+    {
+      "itemID": 859,
+      "displayName": "Technic Brick 1x6 Sloped",
+      "name": "m2744"
+    },
+    {
+      "itemID": 860,
+      "displayName": "Technic Bearing Plate 2x2 with 2 Pin Holes",
+      "name": "m2817"
+    },
+    {
+      "itemID": 9058,
+      "displayName": "BIONICLE Shooter",
+      "name": "m54271"
+    },
+    {
+      "itemID": 9072,
+      "displayName": "Flex Hose 19M with Sticks",
+      "name": "m57539"
+    },
+    {
+      "itemID": 9079,
+      "displayName": "Telescopic Arm 2x1 1/3x16",
+      "name": "m57779"
+    },
+    {
+      "itemID": 9082,
+      "displayName": "Technic Horseshoe with Cross Axle",
+      "name": "m58177"
+    },
+    {
+      "itemID": 9083,
+      "displayName": "Foam Dart 014.5 - 66mm",
+      "name": "m58842"
+    },
+    {
+      "itemID": 9085,
+      "displayName": "BIONICLE Toothed Wheel",
+      "name": "m59521"
+    },
+    {
+      "itemID": 9090,
+      "displayName": "Technic Ball Cup",
+      "name": "m60176"
+    },
+    {
+      "itemID": 9092,
+      "displayName": "Technic T-Beam 3x3",
+      "name": "m60484"
+    },
+    {
+      "itemID": 9093,
+      "displayName": "Technic Cross Axle 9",
+      "name": "m60485"
+    },
+    {
+      "itemID": 9099,
+      "displayName": "Technic Ball Cup Double 7M",
+      "name": "m61054"
+    },
+    {
+      "itemID": 922,
+      "displayName": "Technic Plate 2x4",
+      "name": "m3709"
+    },
+    {
+      "itemID": 9115,
+      "displayName": "Technic Connection Element for Hydraulic Cylinder",
+      "name": "m61904"
+    },
+    {
+      "itemID": 923,
+      "displayName": "Technic Plate 2x8",
+      "name": "m3738"
+    },
+    {
+      "itemID": 9116,
+      "displayName": "Technic Connection Block 3x2x3",
+      "name": "m61905"
+    },
+    {
+      "itemID": 926,
+      "displayName": "Technic Gear Plate 1x4",
+      "name": "m3743"
+    },
+    {
+      "itemID": 9136,
+      "displayName": "Technic Panel 3x7 Right",
+      "name": "m64391"
+    },
+    {
+      "itemID": 9137,
+      "displayName": "Technic Panel 5x11 Left",
+      "name": "m64392"
+    },
+    {
+      "itemID": 9138,
+      "displayName": "Technic Panel 3x11 Right",
+      "name": "m64393"
+    },
+    {
+      "itemID": 9142,
+      "displayName": "Technic Angle Beam 4x6",
+      "name": "m64451"
+    },
+    {
+      "itemID": 9144,
+      "displayName": "Technic Rotor 6 Blades with Connecting Beams and Vertical Clips",
+      "name": "m64566"
+    },
+    {
+      "itemID": 9147,
+      "displayName": "Technic Panel 3x11 Left",
+      "name": "m64681"
+    },
+    {
+      "itemID": 9148,
+      "displayName": "Technic Panel 5x11 Right",
+      "name": "m64682"
+    },
+    {
+      "itemID": 9149,
+      "displayName": "Technic Panel 3x7 Left",
+      "name": "m64683"
+    },
+    {
+      "itemID": 9166,
+      "displayName": "Corrugated Pipe 112mm",
+      "name": "m71923"
+    },
+    {
+      "itemID": 9167,
+      "displayName": "Corrugated Pipe 88mm",
+      "name": "m71986"
+    },
+    {
+      "itemID": 9176,
+      "displayName": "V-Belt Ø33 Yellow",
+      "name": "m85546"
+    },
+    {
+      "itemID": 9177,
+      "displayName": "Technic Beam 1x2 with Haft",
+      "name": "m85940"
+    },
+    {
+      "itemID": 9180,
+      "displayName": "Technic Brick 1x2 with Bars",
+      "name": "m85943"
+    },
+    {
+      "itemID": 9198,
+      "displayName": "Technic Pin 1.5 with Hole",
+      "name": "m87082"
+    },
+    {
+      "itemID": 9199,
+      "displayName": "Technic Cross Axle 4 with End Stop",
+      "name": "m87083"
+    },
+    {
+      "itemID": 9200,
+      "displayName": "Technic Panel 3x5 Right",
+      "name": "m87086"
+    },
+    {
+      "itemID": 9209,
+      "displayName": "Liftarm Cylinder with Heft",
+      "name": "m87617"
+    },
+    {
+      "itemID": 9210,
+      "displayName": "Liftarm Rod with Heft",
+      "name": "m87618"
+    },
+    {
+      "itemID": 1228,
+      "displayName": "Cyborg Arm with Pin Hole",
+      "name": "m57588"
+    },
+    {
+      "itemID": 1237,
+      "displayName": "Technic Ridge Profile with 2 Pins",
+      "name": "m47501"
+    },
+    {
+      "itemID": 1238,
+      "displayName": "Technic Pin with Friction",
+      "name": "m2780"
+    },
+    {
+      "itemID": 1239,
+      "displayName": "Technic Cross Axle 4",
+      "name": "m3705"
+    },
+    {
+      "itemID": 1240,
+      "displayName": "Technic Cross Axle 6",
+      "name": "m3706"
+    },
+    {
+      "itemID": 1241,
+      "displayName": "Technic Cross Axle 8",
+      "name": "m3707"
+    },
+    {
+      "itemID": 1242,
+      "displayName": "Technic Cross Axle 12",
+      "name": "m3708"
+    },
+    {
+      "itemID": 1243,
+      "displayName": "Technic Cross Axle 10",
+      "name": "m3737"
+    },
+    {
+      "itemID": 1244,
+      "displayName": "Technic Cross Axle 3",
+      "name": "m4519"
+    },
+    {
+      "itemID": 1245,
+      "displayName": "Technic Cross Axle Extension, Rippled",
+      "name": "m6538"
+    },
+    {
+      "itemID": 1246,
+      "displayName": "Technic Pin 1.5 with Friction",
+      "name": "m6558"
+    },
+    {
+      "itemID": 1247,
+      "displayName": "Technic Pin with Cross Axle",
+      "name": "m6562"
+    },
+    {
+      "itemID": 1248,
+      "displayName": "Technic Cross Axle 3 with Stud",
+      "name": "m6587"
+    },
+    {
+      "itemID": 1249,
+      "displayName": "Technic Bush",
+      "name": "m6590"
+    },
+    {
+      "itemID": 1250,
+      "displayName": "Technic Pin 0.75",
+      "name": "m32002"
+    },
+    {
+      "itemID": 1251,
+      "displayName": "Technic Friction Pin 1.5 with Cross Axle Hole",
+      "name": "m32054"
+    },
+    {
+      "itemID": 1252,
+      "displayName": "Technic Axle 2 with Grooves",
+      "name": "m32062"
+    },
+    {
+      "itemID": 1253,
+      "displayName": "Technic Cross Axle 5",
+      "name": "m32073"
+    },
+    {
+      "itemID": 1254,
+      "displayName": "1/2 Bush",
+      "name": "m32123"
+    },
+    {
+      "itemID": 1255,
+      "displayName": "Technic Pin Double 1.5 with Cross Axle",
+      "name": "m32138"
+    },
+    {
+      "itemID": 1256,
+      "displayName": "Technic Beam 3 with 2 Lateral Cross Axle Holes",
+      "name": "m32184"
+    },
+    {
+      "itemID": 1257,
+      "displayName": "Technic Pin 1.5",
+      "name": "m32556"
+    },
+    {
+      "itemID": 1258,
+      "displayName": "Technic Pin with Friction and Cross Axle",
+      "name": "m43093"
+    },
+    {
+      "itemID": 1259,
+      "displayName": "Technic Cross Axle 7",
+      "name": "m44294"
+    },
+    {
+      "itemID": 1260,
+      "displayName": "Technic Click Joint with Pin",
+      "name": "m47455"
+    },
+    {
+      "itemID": 1261,
+      "displayName": "Technic 1x3 Flange with Stub on top and 2 Pins",
+      "name": "m47973"
+    },
+    {
+      "itemID": 1262,
+      "displayName": "Technic 1x3 Flange with Hinge and 2 Pins",
+      "name": "m47994"
+    },
+    {
+      "itemID": 1263,
+      "displayName": "Technic Bracket Beam with 4 Pins",
+      "name": "m55615"
+    },
+    {
+      "itemID": 1264,
+      "displayName": "Technic Tube 2",
+      "name": "m75535"
+    },
+    {
+      "itemID": 10176,
+      "displayName": "Technic Turntable",
+      "name": "m50163"
+    },
+    {
+      "itemID": 10177,
+      "displayName": "Technic Arrow Gun 6x2x2",
+      "name": "m57796"
+    },
+    {
+      "itemID": 10181,
+      "displayName": "Technic Universal Joint",
+      "name": "m61903"
+    },
+    {
+      "itemID": 10182,
+      "displayName": "Mindstorms Linear Actuator 10-15 M",
+      "name": "m61927"
+    },
+    {
+      "itemID": 10201,
+      "displayName": "Tabletop Soccer Minifigure Socket ",
+      "name": "m76407"
+    },
+    {
+      "itemID": 10203,
+      "displayName": "Technic Shock Absorber, Extra Hard",
+      "name": "m76537"
+    },
+    {
+      "itemID": 11039,
+      "displayName": "Technic 15M Beam",
+      "name": "m32278"
+    },
+    {
+      "itemID": 5064,
+      "displayName": "Technic Hub Ø30",
+      "name": "m2695"
+    },
+    {
+      "itemID": 5067,
+      "displayName": "Technic Dish Ø24",
+      "name": "m2723"
+    },
+    {
+      "itemID": 5068,
+      "displayName": "Technic Axle 2 with Ball",
+      "name": "m2736"
+    },
+    {
+      "itemID": 5075,
+      "displayName": "Straight Rail",
+      "name": "m3228"
+    },
+    {
+      "itemID": 5082,
+      "displayName": "Technic Gear Wheel 8",
+      "name": "m3647"
+    },
+    {
+      "itemID": 5083,
+      "displayName": "Technic Gear Wheel 24",
+      "name": "m3648"
+    },
+    {
+      "itemID": 5084,
+      "displayName": "Technic Crown Gear 24",
+      "name": "m3650"
+    },
+    {
+      "itemID": 5111,
+      "displayName": "Technic Gear Wheel 16",
+      "name": "m4019"
+    },
+    {
+      "itemID": 5191,
+      "displayName": "Technic Beam 2 with Lateral Cross Axle Hole",
+      "name": "m6536"
+    },
+    {
+      "itemID": 5193,
+      "displayName": "Technic Pin with Ball",
+      "name": "m6628"
+    },
+    {
+      "itemID": 5194,
+      "displayName": "Technic Half Beam 3",
+      "name": "m6632"
+    },
+    {
+      "itemID": 5278,
+      "displayName": "Technic Brick 1x2 with 2 Pins",
+      "name": "m30526"
+    },
+    {
+      "itemID": 5284,
+      "displayName": "Technic Half Beam 4 with Cuff",
+      "name": "m32006"
+    },
+    {
+      "itemID": 5287,
+      "displayName": "Technic Angle Connector 90°",
+      "name": "m32014"
+    },
+    {
+      "itemID": 5288,
+      "displayName": "Technic Angle Connector 112.5°",
+      "name": "m32015"
+    },
+    {
+      "itemID": 5289,
+      "displayName": "Technic Angle Connector 157.5°",
+      "name": "m32016"
+    },
+    {
+      "itemID": 5290,
+      "displayName": "Technic Half Beam 5",
+      "name": "m32017"
+    },
+    {
+      "itemID": 5291,
+      "displayName": "Technic Half Beam 6",
+      "name": "m32063"
+    },
+    {
+      "itemID": 5292,
+      "displayName": "Technic Half Beam 7",
+      "name": "m32065"
+    },
+    {
+      "itemID": 5293,
+      "displayName": "Technic Angular Wheel",
+      "name": "m32072"
+    },
+    {
+      "itemID": 5295,
+      "displayName": "Technic Rotor 2 Blades",
+      "name": "m32124"
+    },
+    {
+      "itemID": 5296,
+      "displayName": "Technic Bush with Pin Collar",
+      "name": "m32126"
+    },
+    {
+      "itemID": 5297,
+      "displayName": "Technic Wheel Hard-Plastic 30.4x14",
+      "name": "m32146"
+    },
+    {
+      "itemID": 5298,
+      "displayName": "Technic Angle Connector 135°",
+      "name": "m32192"
+    },
+    {
+      "itemID": 5299,
+      "displayName": "Technic Half Beam 3x5 with Curve",
+      "name": "m32250"
+    },
+    {
+      "itemID": 5300,
+      "displayName": "Technic Double Conical Wheel Z20",
+      "name": "m32269"
+    },
+    {
+      "itemID": 5301,
+      "displayName": "Technic Double Conical Wheel Z12",
+      "name": "m32270"
+    },
+    {
+      "itemID": 5302,
+      "displayName": "Technic Angular Beam 45° 3x7",
+      "name": "m32271"
+    },
+    {
+      "itemID": 5303,
+      "displayName": "Technic 1x5x2 2/3 Support Block",
+      "name": "m32333"
+    },
+    {
+      "itemID": 5304,
+      "displayName": "Technic Angular Beam 45° 4x4",
+      "name": "m32348"
+    },
+    {
+      "itemID": 5305,
+      "displayName": "Technic Half Beam 1x4",
+      "name": "m32449"
+    },
+    {
+      "itemID": 5306,
+      "displayName": "Technic Ball Joint",
+      "name": "m32474"
+    },
+    {
+      "itemID": 5307,
+      "displayName": "Technic Beam 7",
+      "name": "m32524"
+    },
+    {
+      "itemID": 5308,
+      "displayName": "Technic Beam 11",
+      "name": "m32525"
+    },
+    {
+      "itemID": 5309,
+      "displayName": "Technic Cross-Joiner Double 2x1 with Bar 2",
+      "name": "m32557"
+    },
+    {
+      "itemID": 5310,
+      "displayName": "Technic Flex Rod 7",
+      "name": "m32580"
+    },
+    {
+      "itemID": 5350,
+      "displayName": "Technic Beam 13",
+      "name": "m41239"
+    },
+    {
+      "itemID": 5352,
+      "displayName": "BIONICLE Eye",
+      "name": "m41669"
+    },
+    {
+      "itemID": 5353,
+      "displayName": "Technic Half Beam 2",
+      "name": "m41677"
+    },
+    {
+      "itemID": 5365,
+      "displayName": "Technic Beam 2",
+      "name": "m43857"
+    },
+    {
+      "itemID": 5367,
+      "displayName": "Technic Pivot Joint",
+      "name": "m43889"
+    },
+    {
+      "itemID": 5403,
+      "displayName": "Technic Beam 3 with 4 Pins",
+      "name": "m48989"
+    },
+    {
+      "itemID": 5404,
+      "displayName": "Train Wheel Ø8.2/14.6",
+      "name": "m50254"
+    },
+    {
+      "itemID": 5405,
+      "displayName": "BIONICLE Claw 4x12",
+      "name": "m50914"
+    },
+    {
+      "itemID": 5406,
+      "displayName": "Rim Ø11.2",
+      "name": "m50944"
+    },
+    {
+      "itemID": 5421,
+      "displayName": "Technic Fork 3 with Pin",
+      "name": "m53533"
+    },
+    {
+      "itemID": 5441,
+      "displayName": "Technic Cross Axle 8 with End Stop",
+      "name": "m55013"
+    },
+    {
+      "itemID": 5452,
+      "displayName": "Train Wheel with Cross Axle",
+      "name": "m55423"
+    },
+    {
+      "itemID": 5483,
+      "displayName": "Technic 3-Branch Cross Axle",
+      "name": "m57585"
+    },
+    {
+      "itemID": 5484,
+      "displayName": "Brick 2x2 with 2 Ball Joints",
+      "name": "m57908"
+    },
+    {
+      "itemID": 5485,
+      "displayName": "Brick 2x2 Ball Joint",
+      "name": "m57909"
+    },
+    {
+      "itemID": 5509,
+      "displayName": "Technic Cross Axle 5.5 with Stop",
+      "name": "m59426"
+    },
+    {
+      "itemID": 5510,
+      "displayName": "Technic Cross Axle Extension, Smooth",
+      "name": "m59443"
+    },
+    {
+      "itemID": 5515,
+      "displayName": "Technic Hub Ø31.37",
+      "name": "m60208"
+    },
+    {
+      "itemID": 5525,
+      "displayName": "Technic Beam 2 with Cross Axle Hole",
+      "name": "m74695"
+    },
+    {
+      "itemID": 5560,
+      "displayName": "Technic Pin 0.5 with Shaft",
+      "name": "m61184"
+    },
+    {
+      "itemID": 5563,
+      "displayName": "Airplane Landing Gear with Pin",
+      "name": "m61483"
+    },
+    {
+      "itemID": 5577,
+      "displayName": "Technic Tube 2 Straight with Slot",
+      "name": "m62462"
+    },
+    {
+      "itemID": 5588,
+      "displayName": "Brick 2x2 with Cup for Ball",
+      "name": "m62712"
+    },
+    {
+      "itemID": 5595,
+      "displayName": "Bar 6 with Stop",
+      "name": "m63965"
+    },
+    {
+      "itemID": 5609,
+      "displayName": "Corrugated Pipe 16mm",
+      "name": "m72504"
+    },
+    {
+      "itemID": 5619,
+      "displayName": "V-Belt Ø15 White",
+      "name": "m85543"
+    },
+    {
+      "itemID": 5620,
+      "displayName": "V-Belt Ø24 Red",
+      "name": "m85544"
+    },
+    {
+      "itemID": 5621,
+      "displayName": "V-Belt Ø26 Blue",
+      "name": "m85545"
+    },
+    {
+      "itemID": 16317,
+      "displayName": "Telescope, Lever",
+      "name": "m2351"
+    },
+    {
+      "itemID": 16329,
+      "displayName": "Technic Steering Wheel",
+      "name": "m2741"
+    },
+    {
+      "itemID": 16330,
+      "displayName": "Plastic Motor, Cylinder",
+      "name": "m2850"
+    },
+    {
+      "itemID": 16331,
+      "displayName": "Plastic Motor, Piston",
+      "name": "m2851"
+    },
+    {
+      "itemID": 16332,
+      "displayName": "Plastic Motor, Main Pin",
+      "name": "m2852"
+    },
+    {
+      "itemID": 16333,
+      "displayName": "Plastic Motor, Crank/Cross",
+      "name": "m2853"
+    },
+    {
+      "itemID": 16335,
+      "displayName": "Rim Ø61.6 x 13.6",
+      "name": "m2903"
+    },
+    {
+      "itemID": 16336,
+      "displayName": "Front Fork",
+      "name": "m2904"
+    },
+    {
+      "itemID": 16337,
+      "displayName": "Trencher, Shovel",
+      "name": "m2950"
+    },
+    {
+      "itemID": 16347,
+      "displayName": "Flex Tube 12 M",
+      "name": "m30527"
+    },
+    {
+      "itemID": 16351,
+      "displayName": "Technic Steering-Gear 3M",
+      "name": "m32068"
+    },
+    {
+      "itemID": 16352,
+      "displayName": "Technic Steering Gear, Bearing 2M",
+      "name": "m32069"
+    },
+    {
+      "itemID": 16353,
+      "displayName": "Flex Rod 14M",
+      "name": "m32201"
+    },
+    {
+      "itemID": 16354,
+      "displayName": "Flex Rod 16M",
+      "name": "m32202"
+    },
+    {
+      "itemID": 16356,
+      "displayName": "Steering Wheel/Crank",
+      "name": "m3736"
+    },
+    {
+      "itemID": 16362,
+      "displayName": "Plate 2x4 with Snap 4xØ4.85",
+      "name": "m42608"
+    },
+    {
+      "itemID": 16379,
+      "displayName": "Puck Ø16 x 2/3",
+      "name": "m47576"
+    },
+    {
+      "itemID": 16383,
+      "displayName": "Outercable 64mm",
+      "name": "m55668"
+    }
+  ]
+}

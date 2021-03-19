@@ -1,0 +1,85 @@
+{
+  "LootTableIndex": 497,
+  "items": [
+    {
+      "itemID": 12116,
+      "displayName": "Juggling Bag",
+      "name": "Juggling Bag"
+    },
+    {
+      "itemID": 12669,
+      "displayName": "Sapphire Scepter",
+      "name": "Blue Gem Scepter"
+    },
+    {
+      "itemID": 12675,
+      "displayName": "Fleur-de-Lis Shield",
+      "name": "Fleur-di-lis Shield"
+    },
+    {
+      "itemID": 12723,
+      "displayName": "Wand of Repulsion",
+      "name": "Wand of Repulsion"
+    },
+    {
+      "itemID": 12761,
+      "displayName": "Double Blaster",
+      "name": "Double Blaster"
+    },
+    {
+      "itemID": 13579,
+      "displayName": "Oil Can",
+      "name": "Oil Can"
+    },
+    {
+      "itemID": 13580,
+      "displayName": "Foreman Radio",
+      "name": "Foreman Radio"
+    },
+    {
+      "itemID": 13581,
+      "displayName": "Skeleton Key",
+      "name": "Skeleton Key"
+    },
+    {
+      "itemID": 13582,
+      "displayName": "Mole Whacker",
+      "name": "Mole Whacker"
+    },
+    {
+      "itemID": 13583,
+      "displayName": "Gem Hammer",
+      "name": "Gem Hammer"
+    },
+    {
+      "itemID": 13584,
+      "displayName": "Overcharged Blaster",
+      "name": "Overcharged Blaster"
+    },
+    {
+      "itemID": 13585,
+      "displayName": "Gat Gun Sprayer",
+      "name": "Gat Gun Sprayer"
+    },
+    {
+      "itemID": 13586,
+      "displayName": "Launcher",
+      "name": "Launcher"
+    },
+    {
+      "itemID": 13617,
+      "displayName": "Shard Armor",
+      "name": "Shard Armor"
+    },
+    {
+      "itemID": 14807,
+      "displayName": "White Cape",
+      "name": "White Cape"
+    },
+    {
+      "itemID": 14808,
+      "displayName": "Black Cape",
+      "name": "Black Cape"
+    }
+  ]
+}

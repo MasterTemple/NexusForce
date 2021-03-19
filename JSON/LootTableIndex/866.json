@@ -1,0 +1,210 @@
+{
+  "LootTableIndex": 661,
+  "items": [
+    {
+      "itemID": 14682,
+      "displayName": "Shimmering Katana",
+      "name": "Shimmering Katana"
+    },
+    {
+      "itemID": 14683,
+      "displayName": "Fury Katana",
+      "name": "Fury Katana"
+    },
+    {
+      "itemID": 14684,
+      "displayName": "Flowing Katana",
+      "name": "Flowing Katana"
+    },
+    {
+      "itemID": 14713,
+      "displayName": "Training Yari",
+      "name": "Training Yari"
+    },
+    {
+      "itemID": 14714,
+      "displayName": "Sankaku Yari",
+      "name": "Sankaku Yari"
+    },
+    {
+      "itemID": 14780,
+      "displayName": "Kai's Training Dagger",
+      "name": "Kai's Training Dagger"
+    },
+    {
+      "itemID": 14829,
+      "displayName": "Training Bo Staff",
+      "name": "Training Bo Stafff"
+    },
+    {
+      "itemID": 14840,
+      "displayName": "Spinning Yari",
+      "name": "Spinning Yari"
+    },
+    {
+      "itemID": 15843,
+      "displayName": "Kai's First Gi",
+      "name": "Kai's First Gi"
+    },
+    {
+      "itemID": 15907,
+      "displayName": "Scorpion Whip",
+      "name": "Scorpion Whip"
+    },
+    {
+      "itemID": 15909,
+      "displayName": "Stinger",
+      "name": "Stinger"
+    },
+    {
+      "itemID": 15911,
+      "displayName": "Sharp Kunai",
+      "name": "Sharp Kunai"
+    },
+    {
+      "itemID": 15914,
+      "displayName": "Crimson Kabuto",
+      "name": "Crimson Kabuto"
+    },
+    {
+      "itemID": 15916,
+      "displayName": "Tarnished Kabuto",
+      "name": "Tarnished Kabuto"
+    },
+    {
+      "itemID": 15917,
+      "displayName": "Practice Kabuto",
+      "name": "Practice Kabuto"
+    },
+    {
+      "itemID": 15920,
+      "displayName": "Scholar's Travel Hat",
+      "name": "Scholar's Travel Hat"
+    },
+    {
+      "itemID": 15935,
+      "displayName": "Apothecary's Hood",
+      "name": "Apothecary's Hood"
+    },
+    {
+      "itemID": 15937,
+      "displayName": "Ki Filled Hood",
+      "name": "Ki Filled Hood"
+    },
+    {
+      "itemID": 15947,
+      "displayName": "Kiro Swordsman's Hood",
+      "name": "Kiro Swordsman's Hood"
+    },
+    {
+      "itemID": 15954,
+      "displayName": "Slash and Stitch",
+      "name": "Slash and Stitch"
+    },
+    {
+      "itemID": 15959,
+      "displayName": "Spearman's Healing Hood",
+      "name": "Spearman's Healing Hood"
+    },
+    {
+      "itemID": 15961,
+      "displayName": "Think and Throw",
+      "name": "Think and Throw"
+    },
+    {
+      "itemID": 15975,
+      "displayName": "Imaginite Pack",
+      "name": "Imaginite Pack"
+    },
+    {
+      "itemID": 15992,
+      "displayName": "Dark Defense",
+      "name": "Dark Defense"
+    },
+    {
+      "itemID": 15994,
+      "displayName": "Shimmering O-Yoroi",
+      "name": "Shimmering O-Yoroi"
+    },
+    {
+      "itemID": 16035,
+      "displayName": "Imaginite herbs",
+      "name": "Imaginite herbs"
+    },
+    {
+      "itemID": 16059,
+      "displayName": "Exploding Ninjago Kunai",
+      "name": "Exploding Ninjago Kunai"
+    },
+    {
+      "itemID": 16063,
+      "displayName": "Jay's First Gi",
+      "name": "Jay's First Gi"
+    },
+    {
+      "itemID": 16066,
+      "displayName": "Faded Gi",
+      "name": "Faded Gi"
+    },
+    {
+      "itemID": 16068,
+      "displayName": "Midori Gi",
+      "name": "Midori Gi"
+    },
+    {
+      "itemID": 16070,
+      "displayName": "Worn Gi",
+      "name": "Worn Gi"
+    },
+    {
+      "itemID": 16082,
+      "displayName": "Faded Kosode",
+      "name": "Faded Kosode"
+    },
+    {
+      "itemID": 16083,
+      "displayName": "Dark Kosode",
+      "name": "Dark Kosode"
+    },
+    {
+      "itemID": 16084,
+      "displayName": "Common Kosode",
+      "name": "Common Kosode"
+    },
+    {
+      "itemID": 16085,
+      "displayName": "Sakura's Festival Kimono",
+      "name": "Sakura's Festival Kimono"
+    },
+    {
+      "itemID": 16087,
+      "displayName": "Classy Kimono",
+      "name": "Classy Kimono"
+    },
+    {
+      "itemID": 16096,
+      "displayName": "Cole's First Gi Pants",
+      "name": "Cole's First Gi Pants"
+    },
+    {
+      "itemID": 16100,
+      "displayName": "Murasaki Pants",
+      "name": "Murasaki Pants"
+    },
+    {
+      "itemID": 16102,
+      "displayName": "Haiiro Gi Pants",
+      "name": "Haiiro Gi Pants"
+    },
+    {
+      "itemID": 16103,
+      "displayName": "Midori Gi Pants",
+      "name": "Midori Gi Pants"
+    },
+    {
+      "itemID": 16105,
+      "displayName": "Daidaiiro Gi Pants",
+      "name": "Daidaiiro Gi Pants"
+    }
+  ]
+}

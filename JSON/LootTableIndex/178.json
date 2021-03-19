@@ -1,0 +1,190 @@
+{
+  "LootTableIndex": 110,
+  "items": [
+    {
+      "itemID": 80,
+      "displayName": null,
+      "name": "Rank 1 Knight Book"
+    },
+    {
+      "itemID": 89,
+      "displayName": null,
+      "name": "Rank 1 Samurai Book"
+    },
+    {
+      "itemID": 8456,
+      "displayName": "Knight Shoulderpads 2",
+      "name": "Knight Neck/Back 2"
+    },
+    {
+      "itemID": 8457,
+      "displayName": "Space Ranger Pack 2",
+      "name": "Space Ranger Neck/Back 2"
+    },
+    {
+      "itemID": 8458,
+      "displayName": "Samurai Shoulderpads 2",
+      "name": "Samurai Neck/Back 2"
+    },
+    {
+      "itemID": 9623,
+      "displayName": "Sentinel Super Soda",
+      "name": "Sentinel Faction Consumable 1"
+    },
+    {
+      "itemID": 11924,
+      "displayName": null,
+      "name": "Rank 1 Space Ranger Book"
+    },
+    {
+      "itemID": 13136,
+      "displayName": "Large Bag of Green Imaginite",
+      "name": "Large Green Imaginite Bag - Sentinel"
+    },
+    {
+      "itemID": 13141,
+      "displayName": "Medium Bag of Red Imaginite",
+      "name": "Medium Red Imaginite Bag - Sentinel"
+    },
+    {
+      "itemID": 13143,
+      "displayName": "Small Bag of Blue Imaginite",
+      "name": "Small Blue Imaginite Bag - Sentinel"
+    },
+    {
+      "itemID": 7355,
+      "displayName": "Knight Helm 1",
+      "name": "Knight Head 1"
+    },
+    {
+      "itemID": 7359,
+      "displayName": "Knight Helm 2",
+      "name": "Knight Head 2"
+    },
+    {
+      "itemID": 7367,
+      "displayName": "Knight Breastplate 1",
+      "name": "Knight Chest 1"
+    },
+    {
+      "itemID": 7368,
+      "displayName": "Knight Breastplate 2",
+      "name": "Knight Chest 2"
+    },
+    {
+      "itemID": 7379,
+      "displayName": "Knight Leggings 1",
+      "name": "Knight Legs 1"
+    },
+    {
+      "itemID": 7380,
+      "displayName": "Knight Leggings 2",
+      "name": "Knight Legs 2"
+    },
+    {
+      "itemID": 7391,
+      "displayName": "Knight Greatsword 1",
+      "name": "Knight Weapon 1"
+    },
+    {
+      "itemID": 7392,
+      "displayName": "Knight Greatsword 2",
+      "name": "Knight Weapon 2"
+    },
+    {
+      "itemID": 7403,
+      "displayName": "Knight Shield 2",
+      "name": "Knight Shield 2"
+    },
+    {
+      "itemID": 7442,
+      "displayName": "Space Ranger Helmet 1",
+      "name": "Space Ranger Head 1"
+    },
+    {
+      "itemID": 7443,
+      "displayName": "Space Ranger Helmet 2",
+      "name": "Space Ranger Head 2"
+    },
+    {
+      "itemID": 7445,
+      "displayName": "Samurai Helm 1",
+      "name": "Samurai Head 1"
+    },
+    {
+      "itemID": 7446,
+      "displayName": "Samurai Helm 2",
+      "name": "Samurai Head 2"
+    },
+    {
+      "itemID": 7466,
+      "displayName": "Space Ranger Armor 1",
+      "name": "Space Ranger Chest 1"
+    },
+    {
+      "itemID": 7467,
+      "displayName": "Space Ranger Armor 2",
+      "name": "Space Ranger Chest 2"
+    },
+    {
+      "itemID": 7469,
+      "displayName": "Samurai Breastplate 1",
+      "name": "Samurai Chest 1"
+    },
+    {
+      "itemID": 7470,
+      "displayName": "Samurai Breastplate 2",
+      "name": "Samurai Chest 2"
+    },
+    {
+      "itemID": 7490,
+      "displayName": "Space Ranger Pants 1",
+      "name": "Space Ranger Legs 1"
+    },
+    {
+      "itemID": 7491,
+      "displayName": "Space Ranger Pants 2",
+      "name": "Space Ranger Legs 2"
+    },
+    {
+      "itemID": 7493,
+      "displayName": "Samurai Leggings 1",
+      "name": "Samurai Legs 1"
+    },
+    {
+      "itemID": 7494,
+      "displayName": "Samurai Leggings 2",
+      "name": "Samurai Legs 2"
+    },
+    {
+      "itemID": 7514,
+      "displayName": "Space Ranger Zipgun 1",
+      "name": "Space Ranger Gun 1"
+    },
+    {
+      "itemID": 7515,
+      "displayName": "Space Ranger Zipgun 2",
+      "name": "Space Ranger Gun 2"
+    },
+    {
+      "itemID": 7517,
+      "displayName": "Samurai Katana 1",
+      "name": "Samurai Weapon 1"
+    },
+    {
+      "itemID": 7518,
+      "displayName": "Samurai Katana 2",
+      "name": "Samurai Weapon 2"
+    },
+    {
+      "itemID": 7544,
+      "displayName": "Space Ranger Launcher 2",
+      "name": "Space Ranger Offhand 2"
+    },
+    {
+      "itemID": 7546,
+      "displayName": "Samurai Bow 2",
+      "name": "Samurai Offhand 2"
+    }
+  ]
+}

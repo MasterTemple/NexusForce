@@ -1,0 +1,115 @@
+{
+  "LootTableIndex": 18,
+  "items": [
+    {
+      "itemID": 8217,
+      "displayName": "Basic Dagger",
+      "name": "Basic Dagger"
+    },
+    {
+      "itemID": 8218,
+      "displayName": "Basic Pickaxe",
+      "name": "Basic Pickaxe"
+    },
+    {
+      "itemID": 8219,
+      "displayName": "Basic Javelin",
+      "name": "Basic Javelin"
+    },
+    {
+      "itemID": 8497,
+      "displayName": "Quality Cutlass",
+      "name": "Quality Cutlass"
+    },
+    {
+      "itemID": 8498,
+      "displayName": "Improved Hatchet",
+      "name": "Improved Hatchet"
+    },
+    {
+      "itemID": 8500,
+      "displayName": "Quality Woodsman's Axe",
+      "name": "Quality Woodsman's Axe"
+    },
+    {
+      "itemID": 8501,
+      "displayName": "Improved Ice Saw",
+      "name": "Improved Ice Saw"
+    },
+    {
+      "itemID": 8502,
+      "displayName": "Improved Scimitar",
+      "name": "Improved Scimitar"
+    },
+    {
+      "itemID": 8503,
+      "displayName": "Quality Corseque",
+      "name": "Quality Corseque"
+    },
+    {
+      "itemID": 8504,
+      "displayName": "Improved Longsword",
+      "name": "Improved Longsword"
+    },
+    {
+      "itemID": 8505,
+      "displayName": "Basic Force Blade",
+      "name": "Basic Force Blade"
+    },
+    {
+      "itemID": 8506,
+      "displayName": "Quality Dirk",
+      "name": "Quality Dirk"
+    },
+    {
+      "itemID": 8509,
+      "displayName": "Improved Trident",
+      "name": "Improved Trident"
+    },
+    {
+      "itemID": 10431,
+      "displayName": "Basic Shortsword",
+      "name": "Basic Shortsword"
+    },
+    {
+      "itemID": 10432,
+      "displayName": "Basic Spear",
+      "name": "Basic Spear"
+    },
+    {
+      "itemID": 10433,
+      "displayName": "Basic Hammer",
+      "name": "Basic Hammer"
+    },
+    {
+      "itemID": 3077,
+      "displayName": "Improved Crescent Wrench",
+      "name": "Improved Crescent Wrench"
+    },
+    {
+      "itemID": 3872,
+      "displayName": "Basic Shovel",
+      "name": "Basic Shovel"
+    },
+    {
+      "itemID": 5948,
+      "displayName": "Basic Shortsword of Knockback",
+      "name": "Basic Shortsword of Knockback"
+    },
+    {
+      "itemID": 6203,
+      "displayName": "Basic Spear of Stunning",
+      "name": "Basic Spear of Stunning"
+    },
+    {
+      "itemID": 6742,
+      "displayName": "Improved Fishing Pole",
+      "name": "Improved Fishing Pole"
+    },
+    {
+      "itemID": 6881,
+      "displayName": "Improved Composite Axe",
+      "name": "Improved Composite Axe"
+    }
+  ]
+}

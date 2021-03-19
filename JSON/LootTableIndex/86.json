@@ -1,0 +1,25 @@
+{
+  "LootTableIndex": 26,
+  "items": [
+    {
+      "itemID": 4714,
+      "displayName": "Classic Rocket Cockpit",
+      "name": "MOD Rocket Classic Cockpit"
+    },
+    {
+      "itemID": 14445,
+      "displayName": "Classic Blue Rocket Cockpit",
+      "name": "MOD Rocket Classic Blue Cockpit"
+    },
+    {
+      "itemID": 14452,
+      "displayName": "Classic Pink Rocket Cockpit",
+      "name": "MOD Rocket Classic Pink Cockpit"
+    },
+    {
+      "itemID": 14455,
+      "displayName": "Classic Yellow Rocket Cockpit",
+      "name": "MOD Rocket Classic Yellow Cockpit"
+    }
+  ]
+}

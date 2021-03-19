@@ -1,0 +1,20 @@
+{
+  "LootTableIndex": 12,
+  "items": [
+    {
+      "itemID": 3038,
+      "displayName": "Blue Imaginite",
+      "name": "Blue Imaginite"
+    },
+    {
+      "itemID": 3039,
+      "displayName": "Green Imaginite",
+      "name": "Green Imaginite"
+    },
+    {
+      "itemID": 3040,
+      "displayName": "Red Imaginite",
+      "name": "Red Imaginite"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "LootTableIndex": 40,
+  "items": [
+    {
+      "itemID": 8333,
+      "displayName": "Shield of Blocking",
+      "name": "Shield of Blocking"
+    },
+    {
+      "itemID": 8531,
+      "displayName": "Heater Shield",
+      "name": "Heater Shield"
+    },
+    {
+      "itemID": 8532,
+      "displayName": "Briefcase",
+      "name": "Briefcase"
+    },
+    {
+      "itemID": 8533,
+      "displayName": "Quiver",
+      "name": "Quiver"
+    },
+    {
+      "itemID": 8534,
+      "displayName": "Utility Harness",
+      "name": "Utility Harness"
+    },
+    {
+      "itemID": 8547,
+      "displayName": "Scoundrel Cap",
+      "name": "Scoundrel Cap"
+    },
+    {
+      "itemID": 8603,
+      "displayName": "Red Uniform",
+      "name": "Red Uniform"
+    },
+    {
+      "itemID": 8612,
+      "displayName": "Aviator Shirt",
+      "name": "Aviator Shirt"
+    },
+    {
+      "itemID": 8613,
+      "displayName": "Cattle Rustler Shirt",
+      "name": "Cattle Rustler Shirt"
+    },
+    {
+      "itemID": 8616,
+      "displayName": "Inmate Shirt",
+      "name": "Inmate Shirt"
+    },
+    {
+      "itemID": 8617,
+      "displayName": "Retro Daredevil Shirt",
+      "name": "Retro Daredevil Shirt"
+    },
+    {
+      "itemID": 8626,
+      "displayName": "Pirate Princess Dress",
+      "name": "Pirate Princess Dress"
+    },
+    {
+      "itemID": 8631,
+      "displayName": "Confederate Shirt",
+      "name": "Grey Cavalry Shirt"
+    },
+    {
+      "itemID": 8641,
+      "displayName": "Steel Legs",
+      "name": "Steel Legs"
+    },
+    {
+      "itemID": 8643,
+      "displayName": "Capris",
+      "name": "Capris"
+    },
+    {
+      "itemID": 8649,
+      "displayName": "Chaps",
+      "name": "Chaps"
+    },
+    {
+      "itemID": 8650,
+      "displayName": "Tights",
+      "name": "Tights"
+    },
+    {
+      "itemID": 8673,
+      "displayName": "Kettle Helmet",
+      "name": "Kettle Helmet"
+    },
+    {
+      "itemID": 8683,
+      "displayName": "Epaulets of Authority",
+      "name": "Epaulets of Authority"
+    },
+    {
+      "itemID": 8685,
+      "displayName": "Sailor Hat",
+      "name": "Sailor Hat"
+    },
+    {
+      "itemID": 9615,
+      "displayName": "Black Aussie Hat",
+      "name": "Black Aussie Hat"
+    },
+    {
+      "itemID": 2634,
+      "displayName": "Binoculars",
+      "name": "Binoculars"
+    },
+    {
+      "itemID": 2954,
+      "displayName": "Black Pirate Ship Shirt",
+      "name": "Black Ship Shirt"
+    },
+    {
+      "itemID": 6853,
+      "displayName": "Morion Helmet",
+      "name": "Morion Helmet"
+    },
+    {
+      "itemID": 6854,
+      "displayName": "Green Shoulder Parrot",
+      "name": "Shoulder Parrot Green"
+    },
+    {
+      "itemID": 6855,
+      "displayName": "Yellow Shoulder Parrot",
+      "name": "Shoulder Parrot Yellow"
+    },
+    {
+      "itemID": 6856,
+      "displayName": "Orange Shoulder Parrot",
+      "name": "Shoulder Parrot Orange"
+    },
+    {
+      "itemID": 6880,
+      "displayName": "Armored Viking Helmet",
+      "name": "Armored Viking Helmet"
+    },
+    {
+      "itemID": 7570,
+      "displayName": "Red Shoulder Parrot",
+      "name": "Shoulder Parrot Red"
+    },
+    {
+      "itemID": 8085,
+      "displayName": "Red Shako Hat",
+      "name": "Red Shako Hat"
+    },
+    {
+      "itemID": 8087,
+      "displayName": "Blue Imperial Shirt",
+      "name": "Blue Imperial Shirt"
+    }
+  ]
+}

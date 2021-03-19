@@ -1,0 +1,55 @@
+{
+  "LootTableIndex": 212,
+  "items": [
+    {
+      "itemID": 9565,
+      "displayName": "Submarine Model",
+      "name": "Model Reward Submarine"
+    },
+    {
+      "itemID": 6031,
+      "displayName": "Tiny Crate Model",
+      "name": "Model Reward Tiny Crate"
+    },
+    {
+      "itemID": 6032,
+      "displayName": "Small Crate Model",
+      "name": "Model Reward Small Crate"
+    },
+    {
+      "itemID": 6037,
+      "displayName": "Desk Model",
+      "name": "Model Reward Desk"
+    },
+    {
+      "itemID": 6056,
+      "displayName": "Weapon Rack Model",
+      "name": "Model Reward Weaponrack"
+    },
+    {
+      "itemID": 6065,
+      "displayName": "Cart Model",
+      "name": "Model Reward Cart"
+    },
+    {
+      "itemID": 6068,
+      "displayName": "Raft with Sails Model",
+      "name": "Model Reward Raft"
+    },
+    {
+      "itemID": 6519,
+      "displayName": "Lookout Post Model",
+      "name": "Model Reward Lookout"
+    },
+    {
+      "itemID": 7127,
+      "displayName": "Treasure Chest Model",
+      "name": "Model Reward Treasure Chest"
+    },
+    {
+      "itemID": 7134,
+      "displayName": "Cabinet Model",
+      "name": "Model Reward Cabinet"
+    }
+  ]
+}

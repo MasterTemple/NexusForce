@@ -1,0 +1,20 @@
+{
+  "LootTableIndex": 482,
+  "items": [
+    {
+      "itemID": 12503,
+      "displayName": "Skeleton Repair Facility Model",
+      "name": "Model Reward Skeleton Repair Facility"
+    },
+    {
+      "itemID": 12504,
+      "displayName": "Skeleton Wall Pillars Model",
+      "name": "Model Reward Skeleton Wall Pillars"
+    },
+    {
+      "itemID": 12505,
+      "displayName": "Skeleton Mobile Drilling Rig Model",
+      "name": "Model Reward Skeleton Mobile Drill"
+    }
+  ]
+}

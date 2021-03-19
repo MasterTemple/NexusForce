@@ -1,0 +1,20 @@
+{
+  "LootTableIndex": 25,
+  "items": [
+    {
+      "itemID": 4715,
+      "displayName": "Classic Rocket Engine",
+      "name": "MOD Rocket Classic Engine"
+    },
+    {
+      "itemID": 14446,
+      "displayName": "Classic Blue Rocket Engine",
+      "name": "MOD Rocket Classic Blue Engine"
+    },
+    {
+      "itemID": 14453,
+      "displayName": "Classic Pink Rocket Engine",
+      "name": "MOD Rocket Classic Pink Engine"
+    }
+  ]
+}

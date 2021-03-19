@@ -1,0 +1,20 @@
+{
+  "LootTableIndex": 665,
+  "items": [
+    {
+      "itemID": 15918,
+      "displayName": "Athlete's Shade",
+      "name": "Athlete's Shade"
+    },
+    {
+      "itemID": 15990,
+      "displayName": "Crimson Guard",
+      "name": "Crimson Guard"
+    },
+    {
+      "itemID": 16123,
+      "displayName": "Murasaki Hakama",
+      "name": "Murasaki Hakama"
+    }
+  ]
+}

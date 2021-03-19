@@ -1,0 +1,185 @@
+{
+  "LootTableIndex": 111,
+  "items": [
+    {
+      "itemID": 118,
+      "displayName": null,
+      "name": "Rank 1 Sorcerer Book"
+    },
+    {
+      "itemID": 125,
+      "displayName": null,
+      "name": "Rank 1 Space Marauder Book"
+    },
+    {
+      "itemID": 8459,
+      "displayName": "Sorcerer Shoulderpads 2",
+      "name": "Sorcerer Neck/Back 2"
+    },
+    {
+      "itemID": 8460,
+      "displayName": "Space Marauder Shoulderpads 2",
+      "name": "Space Marauder Neck/Back 2"
+    },
+    {
+      "itemID": 8461,
+      "displayName": "Shinobi Shoulderpads 2",
+      "name": "Shinobi Neck/Back 2"
+    },
+    {
+      "itemID": 9625,
+      "displayName": "Paradox Power Potion",
+      "name": "Paradox Faction Consumable 1"
+    },
+    {
+      "itemID": 11922,
+      "displayName": null,
+      "name": "Rank 1 Shinobi Book"
+    },
+    {
+      "itemID": 13137,
+      "displayName": "Large Bag of Green Imaginite",
+      "name": "Large Green Imaginite Bag - Paradox"
+    },
+    {
+      "itemID": 13138,
+      "displayName": "Medium Bag of Red Imaginite",
+      "name": "Medium Red Imaginite Bag - Paradox"
+    },
+    {
+      "itemID": 13146,
+      "displayName": "Small Bag of Blue Imaginite",
+      "name": "Small Blue Imaginite Bag - Paradox"
+    },
+    {
+      "itemID": 7357,
+      "displayName": "Sorcerer Hat 1",
+      "name": "Sorcerer Head 1"
+    },
+    {
+      "itemID": 7361,
+      "displayName": "Sorcerer Hat 2",
+      "name": "Sorcerer Head 2"
+    },
+    {
+      "itemID": 7373,
+      "displayName": "Sorcerer Breastplate 1",
+      "name": "Sorcerer Chest 1"
+    },
+    {
+      "itemID": 7374,
+      "displayName": "Sorcerer Breastplate 2",
+      "name": "Sorcerer Chest 2"
+    },
+    {
+      "itemID": 7385,
+      "displayName": "Sorcerer Pants 1",
+      "name": "Sorcerer Legs 1"
+    },
+    {
+      "itemID": 7386,
+      "displayName": "Sorcerer Pants 2",
+      "name": "Sorcerer Legs 2"
+    },
+    {
+      "itemID": 7397,
+      "displayName": "Sorcerer Wand 1",
+      "name": "Sorcerer Weapon 1"
+    },
+    {
+      "itemID": 7398,
+      "displayName": "Sorcerer Wand 2",
+      "name": "Sorcerer Weapon 2"
+    },
+    {
+      "itemID": 7407,
+      "displayName": "Sorcerer Orb 2",
+      "name": "Sorcerer Offhand 2"
+    },
+    {
+      "itemID": 7448,
+      "displayName": "Space Marauder Helm 1",
+      "name": "Space Marauder Head 1"
+    },
+    {
+      "itemID": 7449,
+      "displayName": "Space Marauder Helm 2",
+      "name": "Space Marauder Head 2"
+    },
+    {
+      "itemID": 7451,
+      "displayName": "Shinobi Hood 1",
+      "name": "Shinobi Head 1"
+    },
+    {
+      "itemID": 7452,
+      "displayName": "Shinobi Hood 2",
+      "name": "Shinobi Head 2"
+    },
+    {
+      "itemID": 7472,
+      "displayName": "Space Marauder Jacket 1",
+      "name": "Space Marauder Chest 1"
+    },
+    {
+      "itemID": 7473,
+      "displayName": "Space Marauder Jacket 2",
+      "name": "Space Marauder Chest 2"
+    },
+    {
+      "itemID": 7475,
+      "displayName": "Shinobi Gi 1",
+      "name": "Shinobi Chest 1"
+    },
+    {
+      "itemID": 7476,
+      "displayName": "Shinobi Gi 2",
+      "name": "Shinobi Chest 2"
+    },
+    {
+      "itemID": 7496,
+      "displayName": "Space Marauder Pants 1",
+      "name": "Space Marauder Legs 1"
+    },
+    {
+      "itemID": 7497,
+      "displayName": "Space Marauder Pants 2",
+      "name": "Space Marauder Legs 2"
+    },
+    {
+      "itemID": 7499,
+      "displayName": "Shinobi Leggings 1",
+      "name": "Shinobi Legs 1"
+    },
+    {
+      "itemID": 7500,
+      "displayName": "Shinobi Leggings 2",
+      "name": "Shinobi Legs 2"
+    },
+    {
+      "itemID": 7520,
+      "displayName": "Space Marauder Blaster 1",
+      "name": "Space Marauder Gun 1"
+    },
+    {
+      "itemID": 7521,
+      "displayName": "Space Marauder Blaster 2",
+      "name": "Space Marauder Gun 2"
+    },
+    {
+      "itemID": 7523,
+      "displayName": "Shinobi Katana 1",
+      "name": "Shinobi Weapon 1"
+    },
+    {
+      "itemID": 7524,
+      "displayName": "Shinobi Katana 2",
+      "name": "Shinobi Weapon 2"
+    },
+    {
+      "itemID": 7548,
+      "displayName": "Space Marauder Launcher 2",
+      "name": "Space Marauder Offhand 2"
+    }
+  ]
+}

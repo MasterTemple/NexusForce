@@ -1,0 +1,210 @@
+{
+  "LootTableIndex": 533,
+  "items": [
+    {
+      "itemID": 12809,
+      "displayName": "The Wormholer",
+      "name": "Space Marauder Valiant Weapon"
+    },
+    {
+      "itemID": 12816,
+      "displayName": "The Doomslicer",
+      "name": "Sorcerer Valiant Weapon"
+    },
+    {
+      "itemID": 12958,
+      "displayName": "Sorcerer Breastplate 3",
+      "name": "Sorcerer Chest 3 Color Variant"
+    },
+    {
+      "itemID": 12959,
+      "displayName": "Sorcerer Pants 3",
+      "name": "Sorcerer Legs 3 Color Variant"
+    },
+    {
+      "itemID": 12960,
+      "displayName": "Space Marauder Jacket 3",
+      "name": "Space Marauder Chest 3 Color Variant"
+    },
+    {
+      "itemID": 12961,
+      "displayName": "Space Marauder Pants 3",
+      "name": "Space Marauder Legs 3 Color Variant"
+    },
+    {
+      "itemID": 12983,
+      "displayName": "Sorcerer Hat 3",
+      "name": "Sorcerer Head 3 Color Variant"
+    },
+    {
+      "itemID": 12984,
+      "displayName": "Sorcerer Wand 3",
+      "name": "Sorcerer Weapon 3 Color Variant"
+    },
+    {
+      "itemID": 12985,
+      "displayName": "Sorcerer Orb 3",
+      "name": "Sorcerer Offhand 3 Color Variant"
+    },
+    {
+      "itemID": 12986,
+      "displayName": "Space Marauder Helm 3",
+      "name": "Space Marauder Head 3 Color Variant"
+    },
+    {
+      "itemID": 12987,
+      "displayName": "Space Marauder Blaster 3",
+      "name": "Space Marauder Gun 3 Color Variant"
+    },
+    {
+      "itemID": 12988,
+      "displayName": "Space Marauder Launcher 3",
+      "name": "Space Marauder Offhand 3 Color Variant"
+    },
+    {
+      "itemID": 12989,
+      "displayName": "Sorcerer Shoulderpads 3",
+      "name": "Sorcerer Neck/Back 3 Color Variant"
+    },
+    {
+      "itemID": 12991,
+      "displayName": "Space Marauder Shoulderpads 3",
+      "name": "Space Marauder Neck/Back 3 Color Variant"
+    },
+    {
+      "itemID": 13137,
+      "displayName": "Large Bag of Green Imaginite",
+      "name": "Large Green Imaginite Bag - Paradox"
+    },
+    {
+      "itemID": 13138,
+      "displayName": "Medium Bag of Red Imaginite",
+      "name": "Medium Red Imaginite Bag - Paradox"
+    },
+    {
+      "itemID": 13146,
+      "displayName": "Small Bag of Blue Imaginite",
+      "name": "Small Blue Imaginite Bag - Paradox"
+    },
+    {
+      "itemID": 13258,
+      "displayName": "Paradox Darkwarp Rocket Nose Cone",
+      "name": "MOD Paradox Rocket Nose Cone"
+    },
+    {
+      "itemID": 13259,
+      "displayName": "Paradox Darkwarp Rocket Cockpit",
+      "name": "MOD Paradox Rocket Cockpit"
+    },
+    {
+      "itemID": 13260,
+      "displayName": "Paradox Darkwarp Rocket Engine",
+      "name": "MOD Paradox Rocket Engine"
+    },
+    {
+      "itemID": 13500,
+      "displayName": "Paradox Blindsider Front Bumper",
+      "name": "CarCarPA_FrontBumper_"
+    },
+    {
+      "itemID": 13501,
+      "displayName": "Paradox Blindsider Engine Panel",
+      "name": "CarCarPA_EnginePanel_"
+    },
+    {
+      "itemID": 13502,
+      "displayName": "Paradox Blindsider Side Panels",
+      "name": "CarCarPA_SidePanels_"
+    },
+    {
+      "itemID": 13503,
+      "displayName": "Paradox Blindsider Rear Panel",
+      "name": "CarCarPA_RearPanel_"
+    },
+    {
+      "itemID": 13504,
+      "displayName": "Paradox Blindsider Rear Bumper",
+      "name": "CarCarPA_RearBumper_"
+    },
+    {
+      "itemID": 13548,
+      "displayName": "Sentinel Box Disguise",
+      "name": "Sentinel Crate Disguise"
+    },
+    {
+      "itemID": 13576,
+      "displayName": "Paradox Power Potion 2",
+      "name": "Paradox Faction Consumable 2"
+    },
+    {
+      "itemID": 13891,
+      "displayName": "Assembly Box Disguise",
+      "name": "Assembly Crate Disguise"
+    },
+    {
+      "itemID": 13892,
+      "displayName": "Venture League Box Disguise",
+      "name": "Venture Crate Disguise"
+    },
+    {
+      "itemID": 7362,
+      "displayName": "Sorcerer Hat 3",
+      "name": "Sorcerer Head 3"
+    },
+    {
+      "itemID": 7375,
+      "displayName": "Sorcerer Breastplate 3",
+      "name": "Sorcerer Chest 3"
+    },
+    {
+      "itemID": 7387,
+      "displayName": "Sorcerer Pants 3",
+      "name": "Sorcerer Legs 3"
+    },
+    {
+      "itemID": 7399,
+      "displayName": "Sorcerer Wand 3",
+      "name": "Sorcerer Weapon 3"
+    },
+    {
+      "itemID": 7408,
+      "displayName": "Sorcerer Orb 3",
+      "name": "Sorcerer Offhand 3"
+    },
+    {
+      "itemID": 7415,
+      "displayName": "Sorcerer Shoulderpads 3",
+      "name": "Sorcerer Neck/Back 3"
+    },
+    {
+      "itemID": 7450,
+      "displayName": "Space Marauder Helm 3",
+      "name": "Space Marauder Head 3"
+    },
+    {
+      "itemID": 7474,
+      "displayName": "Space Marauder Jacket 3",
+      "name": "Space Marauder Chest 3"
+    },
+    {
+      "itemID": 7498,
+      "displayName": "Space Marauder Pants 3",
+      "name": "Space Marauder Legs 3"
+    },
+    {
+      "itemID": 7522,
+      "displayName": "Space Marauder Blaster 3",
+      "name": "Space Marauder Gun 3"
+    },
+    {
+      "itemID": 7540,
+      "displayName": "Space Marauder Shoulderpads 3",
+      "name": "Space Marauder Neck/Back 3"
+    },
+    {
+      "itemID": 7550,
+      "displayName": "Space Marauder Launcher 3",
+      "name": "Space Marauder Offhand 3"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "LootTableIndex": 15,
+  "items": [
+    {
+      "itemID": 10021,
+      "displayName": "Un-Stink Potion",
+      "name": "Anti-Stink Potion"
+    },
+    {
+      "itemID": 1966,
+      "displayName": "Healing Banana",
+      "name": "Health Banana 1"
+    },
+    {
+      "itemID": 2198,
+      "displayName": "Notion Potion",
+      "name": "Potion of Imagination 1"
+    },
+    {
+      "itemID": 2620,
+      "displayName": "Quicksicle",
+      "name": "Quicksicle"
+    },
+    {
+      "itemID": 2993,
+      "displayName": "Armor Polish",
+      "name": "Armor Polish 1"
+    },
+    {
+      "itemID": 2994,
+      "displayName": "Healing Cherry",
+      "name": "Health Cherry 2"
+    },
+    {
+      "itemID": 2996,
+      "displayName": "Armor Shine",
+      "name": "Armor Polish 2"
+    },
+    {
+      "itemID": 2998,
+      "displayName": "Strong Notion Potion",
+      "name": "Potion of Imagination 2"
+    },
+    {
+      "itemID": 3011,
+      "displayName": "BBQ Blast Hot Dog",
+      "name": "BBQ Blast Hot Dog"
+    },
+    {
+      "itemID": 3040,
+      "displayName": "Red Imaginite",
+      "name": "Red Imaginite"
+    },
+    {
+      "itemID": 5832,
+      "displayName": "Hiccup Tablets",
+      "name": "Hiccup Tablets"
+    },
+    {
+      "itemID": 6201,
+      "displayName": "Thirst Quencher",
+      "name": "Thirst Quencher Consumable"
+    },
+    {
+      "itemID": 6885,
+      "displayName": "Stinky Fish",
+      "name": "Stinky Fish"
+    },
+    {
+      "itemID": 7724,
+      "displayName": "Buttery Croissant",
+      "name": "Buttery Croissant"
+    },
+    {
+      "itemID": 7725,
+      "displayName": "Healing Drumstick",
+      "name": "Healing Drumstick"
+    },
+    {
+      "itemID": 7778,
+      "displayName": "Firecracker",
+      "name": "Firecracker"
+    }
+  ]
+}

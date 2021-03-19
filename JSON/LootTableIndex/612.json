@@ -1,0 +1,65 @@
+{
+  "LootTableIndex": 491,
+  "items": [
+    {
+      "itemID": 13590,
+      "displayName": "Nexus Dropship Rocket Nose Cone",
+      "name": "MOD Dropship Rocket Nose Cone"
+    },
+    {
+      "itemID": 13591,
+      "displayName": "Nexus Dropship Rocket Cockpit",
+      "name": "MOD Dropship Rocket Cockpit"
+    },
+    {
+      "itemID": 13592,
+      "displayName": "Nexus Dropship Rocket Engine",
+      "name": "MOD Dropship Rocket Engine"
+    },
+    {
+      "itemID": 13593,
+      "displayName": "Nexus Tower Rocket Nose Cone",
+      "name": "MOD Nexus Tower Rocket Nose Cone"
+    },
+    {
+      "itemID": 13594,
+      "displayName": "Nexus Tower Rocket Cockpit",
+      "name": "MOD Nexus Tower Rocket Cockpit"
+    },
+    {
+      "itemID": 13595,
+      "displayName": "Nexus Tower Rocket Engine",
+      "name": "MOD Nexus Tower Rocket Engine"
+    },
+    {
+      "itemID": 13596,
+      "displayName": "Venture Koi Rocket Nose Cone",
+      "name": "MOD Koi Rocket Nose Cone"
+    },
+    {
+      "itemID": 13597,
+      "displayName": "Venture Koi Rocket Cockpit",
+      "name": "MOD Koi Rocket Cockpit"
+    },
+    {
+      "itemID": 13598,
+      "displayName": "Venture Koi Rocket Engine",
+      "name": "MOD Koi Rocket Engine"
+    },
+    {
+      "itemID": 14310,
+      "displayName": "Musclenaut GT Rocket Nose Cone",
+      "name": "MOD Rocket Muscle Car Nose Cone"
+    },
+    {
+      "itemID": 14311,
+      "displayName": "Musclenaut GT Rocket Cockpit",
+      "name": "MOD Rocket Muscle Car Cockpit"
+    },
+    {
+      "itemID": 14312,
+      "displayName": "Musclenaut GT Rocket Engine",
+      "name": "MOD Rocket Muscle Car Engine"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "LootTableIndex": 120,
+  "items": [
+    {
+      "itemID": 8217,
+      "displayName": "Basic Dagger",
+      "name": "Basic Dagger"
+    },
+    {
+      "itemID": 8218,
+      "displayName": "Basic Pickaxe",
+      "name": "Basic Pickaxe"
+    },
+    {
+      "itemID": 8219,
+      "displayName": "Basic Javelin",
+      "name": "Basic Javelin"
+    },
+    {
+      "itemID": 8503,
+      "displayName": "Quality Corseque",
+      "name": "Quality Corseque"
+    },
+    {
+      "itemID": 8504,
+      "displayName": "Improved Longsword",
+      "name": "Improved Longsword"
+    },
+    {
+      "itemID": 8509,
+      "displayName": "Improved Trident",
+      "name": "Improved Trident"
+    },
+    {
+      "itemID": 2198,
+      "displayName": "Notion Potion",
+      "name": "Potion of Imagination 1"
+    },
+    {
+      "itemID": 10431,
+      "displayName": "Basic Shortsword",
+      "name": "Basic Shortsword"
+    },
+    {
+      "itemID": 10432,
+      "displayName": "Basic Spear",
+      "name": "Basic Spear"
+    },
+    {
+      "itemID": 10433,
+      "displayName": "Basic Hammer",
+      "name": "Basic Hammer"
+    },
+    {
+      "itemID": 10436,
+      "displayName": "Improved Scythe of Whirlwind",
+      "name": "Improved Scythe"
+    },
+    {
+      "itemID": 2620,
+      "displayName": "Quicksicle",
+      "name": "Quicksicle"
+    },
+    {
+      "itemID": 2993,
+      "displayName": "Armor Polish",
+      "name": "Armor Polish 1"
+    },
+    {
+      "itemID": 3039,
+      "displayName": "Green Imaginite",
+      "name": "Green Imaginite"
+    },
+    {
+      "itemID": 11272,
+      "displayName": "Sentinel Shield",
+      "name": "Sentinel Shield"
+    },
+    {
+      "itemID": 5948,
+      "displayName": "Basic Shortsword of Knockback",
+      "name": "Basic Shortsword of Knockback"
+    },
+    {
+      "itemID": 6207,
+      "displayName": "Nexus Force Healing Kit",
+      "name": "Nexus Force Healing Kit"
+    },
+    {
+      "itemID": 6742,
+      "displayName": "Improved Fishing Pole",
+      "name": "Improved Fishing Pole"
+    },
+    {
+      "itemID": 16251,
+      "displayName": "Quality Longsword",
+      "name": "Quality Longsword"
+    }
+  ]
+}

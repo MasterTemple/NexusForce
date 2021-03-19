@@ -1,0 +1,90 @@
+{
+  "LootTableIndex": 118,
+  "items": [
+    {
+      "itemID": 7758,
+      "displayName": "Picnic Table Model",
+      "name": "Model Reward Picnic Table"
+    },
+    {
+      "itemID": 7759,
+      "displayName": "Double Trash Can Model",
+      "name": "Model Reward Double Trash Can"
+    },
+    {
+      "itemID": 7761,
+      "displayName": "Trash Can Model",
+      "name": "Model Reward Small trash can"
+    },
+    {
+      "itemID": 7770,
+      "displayName": "Bench Model",
+      "name": "Model Reward Park bench"
+    },
+    {
+      "itemID": 7771,
+      "displayName": "Cooler Model",
+      "name": "Model Reward Concert Cooler"
+    },
+    {
+      "itemID": 7773,
+      "displayName": "Piano Model",
+      "name": "Model Reward Keyboards"
+    },
+    {
+      "itemID": 7774,
+      "displayName": "Guitar Model",
+      "name": "Model Reward Guitar"
+    },
+    {
+      "itemID": 7775,
+      "displayName": "Bass Guitar Model",
+      "name": "Model Reward Bass Guitar"
+    },
+    {
+      "itemID": 7818,
+      "displayName": "Cash Register Model",
+      "name": "Model Reward Table with Register"
+    },
+    {
+      "itemID": 7822,
+      "displayName": "DJ Table Model",
+      "name": "Model Reward DJ Mixer"
+    },
+    {
+      "itemID": 7825,
+      "displayName": "Tank Pallet Model",
+      "name": "Model Reward Tank Pallet"
+    },
+    {
+      "itemID": 7826,
+      "displayName": "Oil Drum Model",
+      "name": "Model Reward Barrel"
+    },
+    {
+      "itemID": 7827,
+      "displayName": "Dolly Model",
+      "name": "Model Reward Dolly"
+    },
+    {
+      "itemID": 7828,
+      "displayName": "Torch Cart Model",
+      "name": "Model Reward Torch Cart"
+    },
+    {
+      "itemID": 7829,
+      "displayName": "Engine Model",
+      "name": "Model Reward Engine"
+    },
+    {
+      "itemID": 7830,
+      "displayName": "Pallet Model",
+      "name": "Model Reward Pallet"
+    },
+    {
+      "itemID": 7832,
+      "displayName": "Vendor Rack Model",
+      "name": "Model Reward Vendor Gear Rack"
+    }
+  ]
+}

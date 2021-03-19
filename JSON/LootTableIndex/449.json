@@ -1,0 +1,140 @@
+{
+  "LootTableIndex": 362,
+  "items": [
+    {
+      "itemID": 11873,
+      "displayName": "Winter Fireplace Model",
+      "name": "Model Reward Winter Fireplace"
+    },
+    {
+      "itemID": 11874,
+      "displayName": "Winter Gingerbread House Door Model 1",
+      "name": "Model Reward Winter Gingerbread House Door 1"
+    },
+    {
+      "itemID": 11875,
+      "displayName": "Winter Gingerbread House Door Model 2",
+      "name": "Model Reward Winter Gingerbread House Door 2"
+    },
+    {
+      "itemID": 11876,
+      "displayName": "Winter Gingerbread House End Model 1",
+      "name": "Model Reward Winter Gingerbread House End 1"
+    },
+    {
+      "itemID": 11877,
+      "displayName": "Winter Gingerbread House End Model 2",
+      "name": "Model Reward Winter Gingerbread House End 2"
+    },
+    {
+      "itemID": 11878,
+      "displayName": "Winter Gingerbread House Side Model 1",
+      "name": "Model Reward Winter Gingerbread House Side 1"
+    },
+    {
+      "itemID": 11879,
+      "displayName": "Winter Gingerbread House Window Model 1",
+      "name": "Model Reward Winter Gingerbread House Window 1"
+    },
+    {
+      "itemID": 11880,
+      "displayName": "Winter Northpole Model",
+      "name": "Model Reward Winter Northpole"
+    },
+    {
+      "itemID": 11881,
+      "displayName": "Winter Penguin Model",
+      "name": "Model Reward Winter Penguin"
+    },
+    {
+      "itemID": 11882,
+      "displayName": "Winter Present Model 1",
+      "name": "Model Reward Winter Present 1"
+    },
+    {
+      "itemID": 11883,
+      "displayName": "Winter Present Model 2",
+      "name": "Model Reward Winter Present 2"
+    },
+    {
+      "itemID": 11884,
+      "displayName": "Winter Present Model 3",
+      "name": "Model Reward Winter Present 3"
+    },
+    {
+      "itemID": 11885,
+      "displayName": "Winter Reindeer Model",
+      "name": "Model Reward Winter Reindeer"
+    },
+    {
+      "itemID": 11886,
+      "displayName": "Winter Sleigh Model",
+      "name": "Model Reward Winter Sleigh"
+    },
+    {
+      "itemID": 11887,
+      "displayName": "Winter Snowman Model",
+      "name": "Model Reward Winter Snowman"
+    },
+    {
+      "itemID": 11888,
+      "displayName": "Winter Snowmobile Model",
+      "name": "Model Reward Winter Snowmobile"
+    },
+    {
+      "itemID": 11889,
+      "displayName": "Winter Train Car Model",
+      "name": "Model Reward Winter Train Car"
+    },
+    {
+      "itemID": 11890,
+      "displayName": "Winter Train Engine Model",
+      "name": "Model Reward Winter Train Engine"
+    },
+    {
+      "itemID": 11891,
+      "displayName": "Winter Train Tender Model",
+      "name": "Model Reward Winter Train Tender"
+    },
+    {
+      "itemID": 11892,
+      "displayName": "Winter Tree Model 1",
+      "name": "Model Reward Winter Tree 1"
+    },
+    {
+      "itemID": 11893,
+      "displayName": "Winter Tree Model 2",
+      "name": "Model Reward Winter Tree 2"
+    },
+    {
+      "itemID": 12348,
+      "displayName": "Blue and Yellow Present Model",
+      "name": "Model Reward Blue and Yellow Present"
+    },
+    {
+      "itemID": 12350,
+      "displayName": "Winter Bakery Model 2",
+      "name": "Model Reward Winter Bakery 2"
+    },
+    {
+      "itemID": 12351,
+      "displayName": "Winter Bakery Model 3",
+      "name": "Model Reward Winter Bakery 3"
+    },
+    {
+      "itemID": 12354,
+      "displayName": "Winter Toy Shop Jack-in-the-Box Model",
+      "name": "Model Reward Winter Toy Shop Jack-in-the-Box"
+    },
+    {
+      "itemID": 12355,
+      "displayName": "Winter Toy Shop Ladder Model",
+      "name": "Model Reward Winter Toy Shop Ladder"
+    },
+    {
+      "itemID": 12357,
+      "displayName": "Winter Toy Shop Teddybear Model",
+      "name": "Model Reward Winter Toy Shop Teddybear"
+    }
+  ]
+}

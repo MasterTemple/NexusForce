@@ -1,0 +1,65 @@
+{
+  "LootTableIndex": 279,
+  "items": [
+    {
+      "itemID": 8530,
+      "displayName": "Imagination Tanks",
+      "name": "Imagination Tanks"
+    },
+    {
+      "itemID": 8533,
+      "displayName": "Quiver",
+      "name": "Quiver"
+    },
+    {
+      "itemID": 8534,
+      "displayName": "Utility Harness",
+      "name": "Utility Harness"
+    },
+    {
+      "itemID": 8535,
+      "displayName": "Explorer Air Tank",
+      "name": "Explorer Air Tank"
+    },
+    {
+      "itemID": 8539,
+      "displayName": "Messenger Bag",
+      "name": "Messenger Bag"
+    },
+    {
+      "itemID": 8682,
+      "displayName": "Knapsack",
+      "name": "Knapsack"
+    },
+    {
+      "itemID": 8683,
+      "displayName": "Epaulets of Authority",
+      "name": "Epaulets of Authority"
+    },
+    {
+      "itemID": 6792,
+      "displayName": "Blue Shoulder Parrot",
+      "name": "Shoulder Parrot Blue"
+    },
+    {
+      "itemID": 6854,
+      "displayName": "Green Shoulder Parrot",
+      "name": "Shoulder Parrot Green"
+    },
+    {
+      "itemID": 6855,
+      "displayName": "Yellow Shoulder Parrot",
+      "name": "Shoulder Parrot Yellow"
+    },
+    {
+      "itemID": 6856,
+      "displayName": "Orange Shoulder Parrot",
+      "name": "Shoulder Parrot Orange"
+    },
+    {
+      "itemID": 7570,
+      "displayName": "Red Shoulder Parrot",
+      "name": "Shoulder Parrot Red"
+    }
+  ]
+}

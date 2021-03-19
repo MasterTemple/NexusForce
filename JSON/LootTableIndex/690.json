@@ -1,0 +1,195 @@
+{
+  "LootTableIndex": 532,
+  "items": [
+    {
+      "itemID": 12636,
+      "displayName": "The Serratorizer",
+      "name": "Engineer Valiant Weapon"
+    },
+    {
+      "itemID": 12817,
+      "displayName": "The Wingreaper",
+      "name": "Summoner Valiant Weapon"
+    },
+    {
+      "itemID": 12921,
+      "displayName": "Summoner Staff 3",
+      "name": "Summoner Weapon 3 Color Variant"
+    },
+    {
+      "itemID": 12922,
+      "displayName": "Summoner Orb 3",
+      "name": "Summoner Offhand 3 Color Variant"
+    },
+    {
+      "itemID": 12923,
+      "displayName": "Summoner Shoulderpads 3",
+      "name": "Summoner Neck/Back 3 Color Variant"
+    },
+    {
+      "itemID": 12924,
+      "displayName": "Summoner Hat 3",
+      "name": "Summoner Head 3 Color Variant"
+    },
+    {
+      "itemID": 12945,
+      "displayName": "Summoner Robe 3",
+      "name": "Summoner Chest 3 Color Variant"
+    },
+    {
+      "itemID": 12946,
+      "displayName": "Summoner Pants 3",
+      "name": "Summoner Legs 3 Color Variant"
+    },
+    {
+      "itemID": 12947,
+      "displayName": "Engineer Shirt 3",
+      "name": "Engineer Chest 3 Color Variant"
+    },
+    {
+      "itemID": 12949,
+      "displayName": "Engineer Pants 3",
+      "name": "Engineer Legs 3 Color Variant"
+    },
+    {
+      "itemID": 12962,
+      "displayName": "Engineer Helmet 3",
+      "name": "Engineer Head 3 Color Variant"
+    },
+    {
+      "itemID": 12963,
+      "displayName": "Engineer Vest 3",
+      "name": "Engineer Neck/Back 3 Color Variant"
+    },
+    {
+      "itemID": 12964,
+      "displayName": "Engineer Wrench 3",
+      "name": "Engineer Weapon 3 Color Variant"
+    },
+    {
+      "itemID": 12965,
+      "displayName": "Engineer Controller 3",
+      "name": "Engineer Offhand 3 Color Variant"
+    },
+    {
+      "itemID": 13134,
+      "displayName": "Large Bag of Green Imaginite",
+      "name": "Large Green Imaginite Bag - Assembly"
+    },
+    {
+      "itemID": 13139,
+      "displayName": "Medium Bag of Red Imaginite",
+      "name": "Medium Red Imaginite Bag - Assembly"
+    },
+    {
+      "itemID": 13144,
+      "displayName": "Small Bag of Blue Imaginite",
+      "name": "Small Blue Imaginite Bag - Assembly"
+    },
+    {
+      "itemID": 13255,
+      "displayName": "Assembly Solarblast Rocket Nose Cone",
+      "name": "MOD Assembly Rocket Nose Cone"
+    },
+    {
+      "itemID": 13256,
+      "displayName": "Assembly Solarblast Rocket Cockpit",
+      "name": "MOD Assembly Rocket Cockpit"
+    },
+    {
+      "itemID": 13257,
+      "displayName": "Assembly Solarblast Rocket Engine",
+      "name": "MOD Assembly Rocket Engine"
+    },
+    {
+      "itemID": 13512,
+      "displayName": "Assembly Blockader Front Bumper",
+      "name": "CarAS_FrontBumper_"
+    },
+    {
+      "itemID": 13513,
+      "displayName": "Assembly Blockader Engine Panel",
+      "name": "CarAS_EnginePanel_"
+    },
+    {
+      "itemID": 13514,
+      "displayName": "Assembly Blockader Side Panels",
+      "name": "CarAS_SidePanels_"
+    },
+    {
+      "itemID": 13515,
+      "displayName": "Assembly Blockader Rear Panel",
+      "name": "CarAS_RearPanel_"
+    },
+    {
+      "itemID": 13516,
+      "displayName": "Assembly Blockader Rear Bumper",
+      "name": "CarAS_RearBumper_"
+    },
+    {
+      "itemID": 13575,
+      "displayName": "Assembly Awesome-Ade 2",
+      "name": "Assembly Faction Consumable 2"
+    },
+    {
+      "itemID": 7364,
+      "displayName": "Engineer Helmet 3",
+      "name": "Engineer Head 3"
+    },
+    {
+      "itemID": 7372,
+      "displayName": "Engineer Shirt 3",
+      "name": "Engineer Chest 3"
+    },
+    {
+      "itemID": 7384,
+      "displayName": "Engineer Pants 3",
+      "name": "Engineer Legs 3"
+    },
+    {
+      "itemID": 7396,
+      "displayName": "Engineer Wrench 3",
+      "name": "Engineer Weapon 3"
+    },
+    {
+      "itemID": 7406,
+      "displayName": "Engineer Controller 3",
+      "name": "Engineer Offhand 3"
+    },
+    {
+      "itemID": 7417,
+      "displayName": "Engineer Vest 3",
+      "name": "Engineer Neck/Back 3"
+    },
+    {
+      "itemID": 7459,
+      "displayName": "Summoner Hat 3",
+      "name": "Summoner Head 3"
+    },
+    {
+      "itemID": 7483,
+      "displayName": "Summoner Robe 3",
+      "name": "Summoner Chest 3"
+    },
+    {
+      "itemID": 7507,
+      "displayName": "Summoner Pants 3",
+      "name": "Summoner Legs 3"
+    },
+    {
+      "itemID": 7531,
+      "displayName": "Summoner Staff 3",
+      "name": "Summoner Weapon 3"
+    },
+    {
+      "itemID": 7555,
+      "displayName": "Summoner Shoulderpads 3",
+      "name": "Summoner Neck/Back 3"
+    },
+    {
+      "itemID": 7557,
+      "displayName": "Summoner Orb 3",
+      "name": "Summoner Offhand 3"
+    }
+  ]
+}

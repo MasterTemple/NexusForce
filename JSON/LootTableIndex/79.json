@@ -1,0 +1,10 @@
+{
+  "LootTableIndex": 20,
+  "items": [
+    {
+      "itemID": 12219,
+      "displayName": "Test Item with Precondition for Vendor",
+      "name": "Test Item with Precondition for Vendor"
+    }
+  ]
+}

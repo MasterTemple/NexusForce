@@ -1,0 +1,25 @@
+{
+  "LootTableIndex": 53,
+  "items": [
+    {
+      "itemID": 1966,
+      "displayName": "Healing Banana",
+      "name": "Health Banana 1"
+    },
+    {
+      "itemID": 2620,
+      "displayName": "Quicksicle",
+      "name": "Quicksicle"
+    },
+    {
+      "itemID": 2999,
+      "displayName": "Super Notion Potion",
+      "name": "Potion of Imagination 3"
+    },
+    {
+      "itemID": 7084,
+      "displayName": "Boom Trap Kit",
+      "name": "Boom Trap Kit"
+    }
+  ]
+}

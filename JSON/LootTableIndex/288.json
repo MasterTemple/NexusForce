@@ -1,0 +1,60 @@
+{
+  "LootTableIndex": 211,
+  "items": [
+    {
+      "itemID": 6039,
+      "displayName": "Water Cooler Model",
+      "name": "Model Reward Water Cooler"
+    },
+    {
+      "itemID": 6064,
+      "displayName": "Coffee Table Model",
+      "name": "Model Reward Table"
+    },
+    {
+      "itemID": 6066,
+      "displayName": "Cot Model",
+      "name": "Model Reward Cot"
+    },
+    {
+      "itemID": 6521,
+      "displayName": "Mini Raft Model",
+      "name": "Model Reward Mini Raft"
+    },
+    {
+      "itemID": 6522,
+      "displayName": "Volley Gun Model",
+      "name": "Model Reward Volley Gun"
+    },
+    {
+      "itemID": 6524,
+      "displayName": "Island Plant Model",
+      "name": "Model Reward Island Plant"
+    },
+    {
+      "itemID": 6526,
+      "displayName": "Large Cannon Model",
+      "name": "Model Reward Large Cannon"
+    },
+    {
+      "itemID": 6776,
+      "displayName": "Small Cannon Model",
+      "name": "Model Reward Small Cannon"
+    },
+    {
+      "itemID": 7122,
+      "displayName": "Candle Holder Model",
+      "name": "Model Reward Candle Holder"
+    },
+    {
+      "itemID": 7135,
+      "displayName": "Antique Chair Model",
+      "name": "Model Reward Chair"
+    },
+    {
+      "itemID": 8051,
+      "displayName": "Armchair Model",
+      "name": "Model Reward Chair 2"
+    }
+  ]
+}

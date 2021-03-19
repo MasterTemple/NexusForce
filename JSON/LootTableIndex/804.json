@@ -1,0 +1,80 @@
+{
+  "LootTableIndex": 607,
+  "items": [
+    {
+      "itemID": 11858,
+      "displayName": "Treehouse No Bridge Corner Model",
+      "name": "Model Reward Treehouse Corner No Bridges"
+    },
+    {
+      "itemID": 11859,
+      "displayName": "Treehouse Two Bridges Corner Model",
+      "name": "Model Reward Treehouse Corner Two Bridges"
+    },
+    {
+      "itemID": 11860,
+      "displayName": "Treehouse Elevator Platform Model",
+      "name": "Model Reward Treehouse Elevator Platform"
+    },
+    {
+      "itemID": 11861,
+      "displayName": "Treehouse Elevator Tree Model",
+      "name": "Model Reward Treehouse Elevator Tree"
+    },
+    {
+      "itemID": 11862,
+      "displayName": "Treehouse No Bridges Four Way Model",
+      "name": "Model Reward Treehouse Four Way No Bridges"
+    },
+    {
+      "itemID": 11863,
+      "displayName": "Treehouse Ground Rock Pool Model",
+      "name": "Model Reward Treehouse Ground Rock Pool"
+    },
+    {
+      "itemID": 11864,
+      "displayName": "Treehouse Rocks Model 1",
+      "name": "Model Reward Treehouse Ground Rocks 1"
+    },
+    {
+      "itemID": 11865,
+      "displayName": "Treehouse Rocks Model 2",
+      "name": "Model Reward Treehouse Ground Rocks 2"
+    },
+    {
+      "itemID": 11866,
+      "displayName": "Treehouse Rocks Model 3",
+      "name": "Model Reward Treehouse Ground Rocks 3"
+    },
+    {
+      "itemID": 11867,
+      "displayName": "Treehouse Hut Model",
+      "name": "Model Reward Treehouse Hut"
+    },
+    {
+      "itemID": 11868,
+      "displayName": "Treehouse Observation Platform Model",
+      "name": "Model Reward Treehouse Observation Platform"
+    },
+    {
+      "itemID": 11869,
+      "displayName": "Treehouse Straight Bridge Model",
+      "name": "Model Reward Treehouse Straight One Bridge"
+    },
+    {
+      "itemID": 11870,
+      "displayName": "Treehouse Large Tree Model",
+      "name": "Model Reward Treehouse Tree Large"
+    },
+    {
+      "itemID": 11871,
+      "displayName": "Treehouse Medium Tree Model",
+      "name": "Model Reward Treehouse Tree Medium"
+    },
+    {
+      "itemID": 11872,
+      "displayName": "Treehouse Small Tree Model",
+      "name": "Model Reward Treehouse Tree Small"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "LootTableIndex": 492,
+  "items": [
+    {
+      "itemID": 2999,
+      "displayName": "Super Notion Potion",
+      "name": "Potion of Imagination 3"
+    },
+    {
+      "itemID": 12102,
+      "displayName": "Sunflower Seed",
+      "name": "Sunflower Seed"
+    },
+    {
+      "itemID": 12103,
+      "displayName": "Maneater Seeds",
+      "name": "Maneater Seeds"
+    },
+    {
+      "itemID": 12108,
+      "displayName": "Balloon Animals",
+      "name": "Balloon Animals"
+    },
+    {
+      "itemID": 12110,
+      "displayName": "Spring Shoes",
+      "name": "Spring Shoes"
+    },
+    {
+      "itemID": 14169,
+      "displayName": "Treasure Finder",
+      "name": "Treasure Finder"
+    }
+  ]
+}

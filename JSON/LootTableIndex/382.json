@@ -1,0 +1,890 @@
+{
+  "LootTableIndex": 298,
+  "items": [
+    {
+      "itemID": 16414,
+      "displayName": "Camel",
+      "name": "m88291"
+    },
+    {
+      "itemID": 16420,
+      "displayName": "Ostrich ",
+      "name": "m88618"
+    },
+    {
+      "itemID": 16436,
+      "displayName": "Owl",
+      "name": "m92084"
+    },
+    {
+      "itemID": 16439,
+      "displayName": "Dog with Knob",
+      "name": "m92586"
+    },
+    {
+      "itemID": 16452,
+      "displayName": "Skeleton Torso",
+      "name": "m93060"
+    },
+    {
+      "itemID": 16453,
+      "displayName": "Skeleton Arm",
+      "name": "m93061"
+    },
+    {
+      "itemID": 16454,
+      "displayName": "Skeleton Leg",
+      "name": "m93062"
+    },
+    {
+      "itemID": 16455,
+      "displayName": "General Skeleton Head",
+      "name": "m93064"
+    },
+    {
+      "itemID": 16456,
+      "displayName": "Skeletonhead with Knob",
+      "name": "m93066"
+    },
+    {
+      "itemID": 16457,
+      "displayName": "Head with Underjaw with Ø3.2 Shaft",
+      "name": "m93067"
+    },
+    {
+      "itemID": 16458,
+      "displayName": "Headtop with Ø3.2 Grip",
+      "name": "m93068"
+    },
+    {
+      "itemID": 16460,
+      "displayName": "Dragon Head",
+      "name": "m93070"
+    },
+    {
+      "itemID": 16468,
+      "displayName": "Skeleton Arm",
+      "name": "m93609"
+    },
+    {
+      "itemID": 8900,
+      "displayName": "Dolphin",
+      "name": "m6228"
+    },
+    {
+      "itemID": 8918,
+      "displayName": "Foal",
+      "name": "m30032"
+    },
+    {
+      "itemID": 8924,
+      "displayName": "Manta Ray",
+      "name": "m30084"
+    },
+    {
+      "itemID": 8925,
+      "displayName": "Sawfish Head",
+      "name": "m30085"
+    },
+    {
+      "itemID": 8951,
+      "displayName": "Pterodactyl",
+      "name": "m30478"
+    },
+    {
+      "itemID": 8990,
+      "displayName": "Rabbit",
+      "name": "m33207"
+    },
+    {
+      "itemID": 8995,
+      "displayName": "Tail Middle Part",
+      "name": "m40378"
+    },
+    {
+      "itemID": 8996,
+      "displayName": "Mosasaur Top Jaw",
+      "name": "m40387"
+    },
+    {
+      "itemID": 8997,
+      "displayName": "Ceratops Head 5x10x4",
+      "name": "m40389"
+    },
+    {
+      "itemID": 8998,
+      "displayName": "Carnosaur Head 3x6x3",
+      "name": "m40390"
+    },
+    {
+      "itemID": 8999,
+      "displayName": "Tail Base Long",
+      "name": "m40395"
+    },
+    {
+      "itemID": 9000,
+      "displayName": "Tail Base Short",
+      "name": "m40396"
+    },
+    {
+      "itemID": 9012,
+      "displayName": "Snake Tail Piece",
+      "name": "m43750"
+    },
+    {
+      "itemID": 9038,
+      "displayName": "Sitting Rat",
+      "name": "m50687"
+    },
+    {
+      "itemID": 9057,
+      "displayName": "Compy Dinosaur",
+      "name": "m54125"
+    },
+    {
+      "itemID": 9063,
+      "displayName": "Technic Dragon Wing 8x10",
+      "name": "m55706"
+    },
+    {
+      "itemID": 9073,
+      "displayName": "Technic Shell 4x5x3",
+      "name": "m57557"
+    },
+    {
+      "itemID": 9075,
+      "displayName": "BIONICLE Blade",
+      "name": "m57563"
+    },
+    {
+      "itemID": 9076,
+      "displayName": "Flexible Tentacle",
+      "name": "m57564"
+    },
+    {
+      "itemID": 9077,
+      "displayName": "BIONICLE Blades",
+      "name": "m57568"
+    },
+    {
+      "itemID": 9096,
+      "displayName": "Troll",
+      "name": "m60671"
+    },
+    {
+      "itemID": 9112,
+      "displayName": "BIONICLE Blade",
+      "name": "m61795"
+    },
+    {
+      "itemID": 9113,
+      "displayName": "Technic Wing",
+      "name": "m61800"
+    },
+    {
+      "itemID": 9121,
+      "displayName": "Hind Leg with Claws, Right",
+      "name": "m62436"
+    },
+    {
+      "itemID": 9122,
+      "displayName": "Hind Leg with Claws, Left",
+      "name": "m62438"
+    },
+    {
+      "itemID": 9125,
+      "displayName": "Ant",
+      "name": "m62575"
+    },
+    {
+      "itemID": 9126,
+      "displayName": "Foreleg, Right",
+      "name": "m62577"
+    },
+    {
+      "itemID": 9127,
+      "displayName": "Foreleg, Left",
+      "name": "m62578"
+    },
+    {
+      "itemID": 9134,
+      "displayName": "Technic Beam 2 with Robot Arm",
+      "name": "m64275"
+    },
+    {
+      "itemID": 9135,
+      "displayName": "Technic Aqua-Fin 5x9x4",
+      "name": "m64296"
+    },
+    {
+      "itemID": 9146,
+      "displayName": "Stockfish",
+      "name": "m64648"
+    },
+    {
+      "itemID": 9158,
+      "displayName": "Cow Horn",
+      "name": "m64847"
+    },
+    {
+      "itemID": 9183,
+      "displayName": "Frenzy Head",
+      "name": "m85946"
+    },
+    {
+      "itemID": 9214,
+      "displayName": "Ladybird",
+      "name": "m87688"
+    },
+    {
+      "itemID": 9215,
+      "displayName": "Butterfly",
+      "name": "m87689"
+    },
+    {
+      "itemID": 9223,
+      "displayName": "Technic Tube Curved with Fin",
+      "name": "m87745"
+    },
+    {
+      "itemID": 9224,
+      "displayName": "Fang with Shaft",
+      "name": "m87747"
+    },
+    {
+      "itemID": 9225,
+      "displayName": "Squid Bottom Body",
+      "name": "m87749"
+    },
+    {
+      "itemID": 9231,
+      "displayName": "Shark Head for Minifigure",
+      "name": "m87756"
+    },
+    {
+      "itemID": 9233,
+      "displayName": "Stingray Helmet",
+      "name": "m87758"
+    },
+    {
+      "itemID": 1201,
+      "displayName": "Skeleton Leg",
+      "name": "m6266"
+    },
+    {
+      "itemID": 1202,
+      "displayName": "Robot Torso",
+      "name": "m30375"
+    },
+    {
+      "itemID": 1203,
+      "displayName": "Robot Arm",
+      "name": "m30377"
+    },
+    {
+      "itemID": 1205,
+      "displayName": "Robot Leg 1x2 with Clip",
+      "name": "m53984"
+    },
+    {
+      "itemID": 1206,
+      "displayName": "Robot Arm with Clip",
+      "name": "m53989"
+    },
+    {
+      "itemID": 1207,
+      "displayName": "Robot Torso with Shaft",
+      "name": "m54275"
+    },
+    {
+      "itemID": 1208,
+      "displayName": "Robot Arm with Angled Hand",
+      "name": "m59230"
+    },
+    {
+      "itemID": 1230,
+      "displayName": "Tip of the Tail Ø6",
+      "name": "m40379"
+    },
+    {
+      "itemID": 1231,
+      "displayName": "Dragon's Wing",
+      "name": "m6133"
+    },
+    {
+      "itemID": 10178,
+      "displayName": "Snake Tail Piece",
+      "name": "m59225"
+    },
+    {
+      "itemID": 10179,
+      "displayName": "Dragon's Head",
+      "name": "m59226"
+    },
+    {
+      "itemID": 10180,
+      "displayName": "Armored Dragon's Head",
+      "name": "m61639"
+    },
+    {
+      "itemID": 10183,
+      "displayName": "Shark 8x16",
+      "name": "m62606"
+    },
+    {
+      "itemID": 10187,
+      "displayName": "Cow",
+      "name": "m64452"
+    },
+    {
+      "itemID": 10188,
+      "displayName": "Mini Rock Monster 1",
+      "name": "m64786"
+    },
+    {
+      "itemID": 10196,
+      "displayName": "Monkey",
+      "name": "m74499"
+    },
+    {
+      "itemID": 10198,
+      "displayName": "Horse",
+      "name": "m75998"
+    },
+    {
+      "itemID": 10199,
+      "displayName": "Polar Bear",
+      "name": "m76147"
+    },
+    {
+      "itemID": 10207,
+      "displayName": "Rock Monster 1, Medium Large",
+      "name": "m85049"
+    },
+    {
+      "itemID": 10208,
+      "displayName": "Mini Rock Monster 2",
+      "name": "m87958"
+    },
+    {
+      "itemID": 10209,
+      "displayName": "Rock Monster 2, Medium Large",
+      "name": "m87959"
+    },
+    {
+      "itemID": 10236,
+      "displayName": "Crocodile, Body",
+      "name": "m6026"
+    },
+    {
+      "itemID": 10237,
+      "displayName": "Crocodile/Dragon Top Jaw",
+      "name": "m6027"
+    },
+    {
+      "itemID": 10238,
+      "displayName": "Crocodile/Dragon Tail",
+      "name": "m6028"
+    },
+    {
+      "itemID": 10241,
+      "displayName": "Dinosaurus Tail",
+      "name": "m30456"
+    },
+    {
+      "itemID": 10243,
+      "displayName": "Tyrannosaurus Rex Top Jaw",
+      "name": "m30459"
+    },
+    {
+      "itemID": 10244,
+      "displayName": "Triceratops Top Jaw",
+      "name": "m30460"
+    },
+    {
+      "itemID": 10245,
+      "displayName": "Body 5x2x4, Left",
+      "name": "m40373"
+    },
+    {
+      "itemID": 10246,
+      "displayName": "Body 5x2x4 with Pins, Right",
+      "name": "m40374"
+    },
+    {
+      "itemID": 10247,
+      "displayName": "Neck - Tail Rotary Joint",
+      "name": "m40375"
+    },
+    {
+      "itemID": 10248,
+      "displayName": "Baby Dino Head",
+      "name": "m40384"
+    },
+    {
+      "itemID": 10249,
+      "displayName": "Leg 4x8x5 2/3",
+      "name": "m40397"
+    },
+    {
+      "itemID": 10250,
+      "displayName": "Dragon's Head 2",
+      "name": "m43900"
+    },
+    {
+      "itemID": 10251,
+      "displayName": "Dragon's Tail",
+      "name": "m45106"
+    },
+    {
+      "itemID": 10252,
+      "displayName": "Leg 5x8x7 2/3 without Decoration",
+      "name": "m45165"
+    },
+    {
+      "itemID": 10254,
+      "displayName": "Horn with Shaft",
+      "name": "m53451"
+    },
+    {
+      "itemID": 10255,
+      "displayName": "Technic Shell 3x5x3",
+      "name": "m57558"
+    },
+    {
+      "itemID": 10256,
+      "displayName": "Animal Body 4x12x5 ",
+      "name": "m59224"
+    },
+    {
+      "itemID": 10257,
+      "displayName": "Dragon's Head, Jaw",
+      "name": "m59227"
+    },
+    {
+      "itemID": 10260,
+      "displayName": "Troll, Right Hand",
+      "name": "m60640"
+    },
+    {
+      "itemID": 10261,
+      "displayName": "Troll, Left Hand",
+      "name": "m60641"
+    },
+    {
+      "itemID": 10262,
+      "displayName": "Troll, Right Arm, Assembled",
+      "name": "m60672"
+    },
+    {
+      "itemID": 10263,
+      "displayName": "Troll, Left Arm, Assembled",
+      "name": "m60673"
+    },
+    {
+      "itemID": 10265,
+      "displayName": "BIONICLE Claw",
+      "name": "m61804"
+    },
+    {
+      "itemID": 10266,
+      "displayName": "Dragon",
+      "name": "m75174"
+    },
+    {
+      "itemID": 10267,
+      "displayName": "Tyrannosaurus Rex Body 4x12x8",
+      "name": "m76409"
+    },
+    {
+      "itemID": 10268,
+      "displayName": "Triceratops Body 4x11x5",
+      "name": "m76442"
+    },
+    {
+      "itemID": 10269,
+      "displayName": "Stegosaurus Body 4x12x6",
+      "name": "m76443"
+    },
+    {
+      "itemID": 10272,
+      "displayName": "Left Arm for Rock Monster 2, Medium Large",
+      "name": "m89669"
+    },
+    {
+      "itemID": 10273,
+      "displayName": "Right Arm for Rock Monster 2, Medium Large",
+      "name": "m89670"
+    },
+    {
+      "itemID": 5035,
+      "displayName": "Warhorse Caparison",
+      "name": "m2490"
+    },
+    {
+      "itemID": 5050,
+      "displayName": "Parrot",
+      "name": "m2546"
+    },
+    {
+      "itemID": 5051,
+      "displayName": "Shark Body",
+      "name": "m2547"
+    },
+    {
+      "itemID": 5052,
+      "displayName": "Shark Jaw",
+      "name": "m2548"
+    },
+    {
+      "itemID": 5160,
+      "displayName": "Octopus",
+      "name": "m6086"
+    },
+    {
+      "itemID": 5170,
+      "displayName": "Dragon's Arm, Right",
+      "name": "m6127"
+    },
+    {
+      "itemID": 5171,
+      "displayName": "Dragon's Arm, Left",
+      "name": "m6128"
+    },
+    {
+      "itemID": 5186,
+      "displayName": "Kitten",
+      "name": "m6251"
+    },
+    {
+      "itemID": 5189,
+      "displayName": "Skeleton Body Type 1",
+      "name": "m6260"
+    },
+    {
+      "itemID": 5190,
+      "displayName": "Skeleton Arm Type 1",
+      "name": "m6265"
+    },
+    {
+      "itemID": 5207,
+      "displayName": "Bat",
+      "name": "m30103"
+    },
+    {
+      "itemID": 5211,
+      "displayName": "Snake",
+      "name": "m30115"
+    },
+    {
+      "itemID": 5228,
+      "displayName": "Scorpion",
+      "name": "m30169"
+    },
+    {
+      "itemID": 5248,
+      "displayName": "Fish Ornament with Stick",
+      "name": "m30224"
+    },
+    {
+      "itemID": 5252,
+      "displayName": "Spider",
+      "name": "m30238"
+    },
+    {
+      "itemID": 5268,
+      "displayName": "Robot Legs",
+      "name": "m30376"
+    },
+    {
+      "itemID": 5275,
+      "displayName": "Dino Cub",
+      "name": "m30464"
+    },
+    {
+      "itemID": 5279,
+      "displayName": "Martian Head with Clip",
+      "name": "m30529"
+    },
+    {
+      "itemID": 5280,
+      "displayName": "Martian Legs with Clip",
+      "name": "m30530"
+    },
+    {
+      "itemID": 5319,
+      "displayName": "Crab",
+      "name": "m33121"
+    },
+    {
+      "itemID": 5320,
+      "displayName": "Starfish",
+      "name": "m33122"
+    },
+    {
+      "itemID": 5326,
+      "displayName": "Frog",
+      "name": "m33320"
+    },
+    {
+      "itemID": 5327,
+      "displayName": "Snowy Owl",
+      "name": "m40232"
+    },
+    {
+      "itemID": 5328,
+      "displayName": "Rat",
+      "name": "m40234"
+    },
+    {
+      "itemID": 5341,
+      "displayName": "Dinosaur Back Fin 8x2x5",
+      "name": "m40385"
+    },
+    {
+      "itemID": 5342,
+      "displayName": "Flipper with Pin",
+      "name": "m40386"
+    },
+    {
+      "itemID": 5343,
+      "displayName": "Mosasaur Bottom Jaw",
+      "name": "m40388"
+    },
+    {
+      "itemID": 5345,
+      "displayName": "Dino Foot 2x4x2/3",
+      "name": "m40393"
+    },
+    {
+      "itemID": 5363,
+      "displayName": "Snake Head with Pin",
+      "name": "m43746"
+    },
+    {
+      "itemID": 5368,
+      "displayName": "Elephant Ear",
+      "name": "m43891"
+    },
+    {
+      "itemID": 5369,
+      "displayName": "Elephant Tail/Trunk",
+      "name": "m43892"
+    },
+    {
+      "itemID": 5374,
+      "displayName": "Technic Skate",
+      "name": "m44032"
+    },
+    {
+      "itemID": 5396,
+      "displayName": "Horse Head Armor with Clip",
+      "name": "m48492"
+    },
+    {
+      "itemID": 5402,
+      "displayName": "Dog/Wolf",
+      "name": "m48812"
+    },
+    {
+      "itemID": 5409,
+      "displayName": "Technic Dragon Wing with 2 Pin Holes",
+      "name": "m51342"
+    },
+    {
+      "itemID": 5416,
+      "displayName": "Tail with Jagged Fins and Shaft",
+      "name": "m51874"
+    },
+    {
+      "itemID": 5420,
+      "displayName": "BIONICLE Wolf's Head",
+      "name": "m53457"
+    },
+    {
+      "itemID": 5422,
+      "displayName": "Mini-Head Toa No. 1",
+      "name": "m53590"
+    },
+    {
+      "itemID": 5423,
+      "displayName": "Mini-Head Piraka No. 2",
+      "name": "m53591"
+    },
+    {
+      "itemID": 5424,
+      "displayName": "Mini-Head Toa No. 2",
+      "name": "m53592"
+    },
+    {
+      "itemID": 5425,
+      "displayName": "Mini-Head Piraka No. 3",
+      "name": "m53593"
+    },
+    {
+      "itemID": 5426,
+      "displayName": "Mini-Head Toa No. 3",
+      "name": "m53594"
+    },
+    {
+      "itemID": 5427,
+      "displayName": "Mini-Head Piraka No. 4",
+      "name": "m53595"
+    },
+    {
+      "itemID": 5428,
+      "displayName": "Mini-Head Toa No. 4",
+      "name": "m53596"
+    },
+    {
+      "itemID": 5429,
+      "displayName": "Mini-Head Piraka No. 5",
+      "name": "m53597"
+    },
+    {
+      "itemID": 5430,
+      "displayName": "Mini-Head Toa No. 5",
+      "name": "m53598"
+    },
+    {
+      "itemID": 5431,
+      "displayName": "Mini-Head Piraka No. 6",
+      "name": "m53599"
+    },
+    {
+      "itemID": 5435,
+      "displayName": "Robot Torso",
+      "name": "m53988"
+    },
+    {
+      "itemID": 5439,
+      "displayName": "Mini-Head Toa No. 6",
+      "name": "m54274"
+    },
+    {
+      "itemID": 5440,
+      "displayName": "Mini Robot Legs with Stud",
+      "name": "m54276"
+    },
+    {
+      "itemID": 5444,
+      "displayName": "Spiked Tentacle",
+      "name": "m55236"
+    },
+    {
+      "itemID": 5445,
+      "displayName": "Mini-Head Piraka No. 1",
+      "name": "m55240"
+    },
+    {
+      "itemID": 5456,
+      "displayName": "BIONICLE Tool 1/12",
+      "name": "m56246"
+    },
+    {
+      "itemID": 5457,
+      "displayName": "BIONICLE Tool 2/12",
+      "name": "m56247"
+    },
+    {
+      "itemID": 5458,
+      "displayName": "BIONICLE Tool 3/12",
+      "name": "m56248"
+    },
+    {
+      "itemID": 5459,
+      "displayName": "BIONICLE Tool 4/12",
+      "name": "m56249"
+    },
+    {
+      "itemID": 5460,
+      "displayName": "BIONICLE Tool 5/12",
+      "name": "m56250"
+    },
+    {
+      "itemID": 5461,
+      "displayName": "BIONICLE Tool 6/12",
+      "name": "m56251"
+    },
+    {
+      "itemID": 5462,
+      "displayName": "BIONICLE Tool 7/12",
+      "name": "m56252"
+    },
+    {
+      "itemID": 5463,
+      "displayName": "BIONICLE Tool 8/12",
+      "name": "m56253"
+    },
+    {
+      "itemID": 5464,
+      "displayName": "BIONICLE Tool 9/12",
+      "name": "m56254"
+    },
+    {
+      "itemID": 5465,
+      "displayName": "BIONICLE Tool 10/12",
+      "name": "m56255"
+    },
+    {
+      "itemID": 5466,
+      "displayName": "BIONICLE Tool 11/12",
+      "name": "m56256"
+    },
+    {
+      "itemID": 5467,
+      "displayName": "BIONICLE Tool 12/12",
+      "name": "m56257"
+    },
+    {
+      "itemID": 5476,
+      "displayName": "BIONICLE Blade",
+      "name": "m57565"
+    },
+    {
+      "itemID": 5477,
+      "displayName": "Mini-Head Bad Monster 8",
+      "name": "m57576"
+    },
+    {
+      "itemID": 5478,
+      "displayName": "Mini-Head Bad Monster 9",
+      "name": "m57577"
+    },
+    {
+      "itemID": 5479,
+      "displayName": "Mini-Head Good Monster 8",
+      "name": "m57578"
+    },
+    {
+      "itemID": 5480,
+      "displayName": "Mini-Head Good Monster 9",
+      "name": "m57579"
+    },
+    {
+      "itemID": 5481,
+      "displayName": "Mini-Head Bad Monster 7",
+      "name": "m57582"
+    },
+    {
+      "itemID": 5482,
+      "displayName": "Mini-Head Good Monster 7",
+      "name": "m57583"
+    },
+    {
+      "itemID": 5501,
+      "displayName": "Skeleton Horse",
+      "name": "m59228"
+    },
+    {
+      "itemID": 5514,
+      "displayName": "Skeleton Body Type 2",
+      "name": "m60115"
+    },
+    {
+      "itemID": 16357,
+      "displayName": "Mini Dragon",
+      "name": "m41535"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "LootTableIndex": 481,
+  "items": [
+    {
+      "itemID": 12499,
+      "displayName": "Skeleton T-Wall Model",
+      "name": "Model Reward Skeleton T Wall"
+    },
+    {
+      "itemID": 12500,
+      "displayName": "Skeleton Skull Tower Model",
+      "name": "Model Reward Skeleton Skull Tower"
+    },
+    {
+      "itemID": 12501,
+      "displayName": "Skeleton Short Wall Model",
+      "name": "Model Reward Skeleton Short Wall"
+    },
+    {
+      "itemID": 12502,
+      "displayName": "Skeleton Ribcage Bridge Model",
+      "name": "Model Reward Skeleton Ribcage Bridge"
+    }
+  ]
+}

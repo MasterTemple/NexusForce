@@ -1,0 +1,375 @@
+{
+  "LootTableIndex": 608,
+  "items": [
+    {
+      "itemID": 9914,
+      "displayName": "Fort Gate Model",
+      "name": "Model Reward Fort Gate"
+    },
+    {
+      "itemID": 9915,
+      "displayName": "Fort Jail Model",
+      "name": "Model Reward Fort Jail"
+    },
+    {
+      "itemID": 9916,
+      "displayName": "Fort Stairs Model",
+      "name": "Model Reward Fort Stairs"
+    },
+    {
+      "itemID": 9917,
+      "displayName": "Fort Tower Model",
+      "name": "Model Reward Fort Tower"
+    },
+    {
+      "itemID": 9918,
+      "displayName": "Fort Walkway Model",
+      "name": "Model Reward Fort Walkway"
+    },
+    {
+      "itemID": 9919,
+      "displayName": "Fort Corner Model",
+      "name": "Model Reward Fort Corner"
+    },
+    {
+      "itemID": 9920,
+      "displayName": "Fort Guardshack Model",
+      "name": "Model Reward Fort Guardshack"
+    },
+    {
+      "itemID": 9921,
+      "displayName": "Fort Wall Rock Model",
+      "name": "Model Reward Fort Wall Rock"
+    },
+    {
+      "itemID": 9922,
+      "displayName": "Fort Small Wall Model 1",
+      "name": "Model Reward Fort Wall Small 1"
+    },
+    {
+      "itemID": 9923,
+      "displayName": "Fort Small Wall Model 2",
+      "name": "Model Reward Fort Wall Small 2"
+    },
+    {
+      "itemID": 9924,
+      "displayName": "Fort Stable Model",
+      "name": "Model Reward Fort Stable"
+    },
+    {
+      "itemID": 11592,
+      "displayName": "Farm Barn Door Model 1",
+      "name": "Model Reward Farm Barn Door 1"
+    },
+    {
+      "itemID": 11593,
+      "displayName": "Farm Barn Door Model 2",
+      "name": "Model Reward Farm Barn Door 2"
+    },
+    {
+      "itemID": 11594,
+      "displayName": "Farm Barn Door Model 3",
+      "name": "Model Reward Farm Barn Door 3"
+    },
+    {
+      "itemID": 11595,
+      "displayName": "Farm Barn Door Model 4",
+      "name": "Model Reward Farm Barn Door 4"
+    },
+    {
+      "itemID": 11596,
+      "displayName": "Farm Barn Door Model 5",
+      "name": "Model Reward Farm Barn Door 5"
+    },
+    {
+      "itemID": 11597,
+      "displayName": "Farm Barn Door Model 6",
+      "name": "Model Reward Farm Barn Door 6"
+    },
+    {
+      "itemID": 11598,
+      "displayName": "Farm Barn Door Model 7",
+      "name": "Model Reward Farm Barn Door 7"
+    },
+    {
+      "itemID": 11599,
+      "displayName": "Farm Barn Door Model 8",
+      "name": "Model Reward Farm Barn Door 8"
+    },
+    {
+      "itemID": 11600,
+      "displayName": "Farm Barn Short End Model",
+      "name": "Model Reward Farm Barn End Short"
+    },
+    {
+      "itemID": 11601,
+      "displayName": "Farm Barn Tall End Model",
+      "name": "Model Reward Farm Barn End Tall"
+    },
+    {
+      "itemID": 11602,
+      "displayName": "Farm Barn Porch Model",
+      "name": "Model Reward Farm Barn Porch"
+    },
+    {
+      "itemID": 11603,
+      "displayName": "Farm Barn Porch Corner Model",
+      "name": "Model Reward Farm Barn Porch Corner"
+    },
+    {
+      "itemID": 11604,
+      "displayName": "Farm Barn Shed End Model",
+      "name": "Model Reward Farm Barn Shed End"
+    },
+    {
+      "itemID": 11605,
+      "displayName": "Farm Barn Shed End Left Model",
+      "name": "Model Reward Farm Barn Shed End Left"
+    },
+    {
+      "itemID": 11606,
+      "displayName": "Farm Barn Shed End Right Model",
+      "name": "Model Reward Farm Barn Shed End Right"
+    },
+    {
+      "itemID": 11607,
+      "displayName": "Farm Barn Shed Side Model",
+      "name": "Model Reward Farm Barn Shed Side"
+    },
+    {
+      "itemID": 11608,
+      "displayName": "Farm Barn Side Short Model",
+      "name": "Model Reward Farm Barn Side Short"
+    },
+    {
+      "itemID": 11609,
+      "displayName": "Farm Barn Side Tall Model",
+      "name": "Model Reward Farm Barn Side Tall"
+    },
+    {
+      "itemID": 11610,
+      "displayName": "Farm Barn Side Tall Window Model",
+      "name": "Model Reward Farm Barn Side Tall Window"
+    },
+    {
+      "itemID": 11611,
+      "displayName": "Farm Barn Wall Arch Model",
+      "name": "Model Reward Farm Barn Wall Arch"
+    },
+    {
+      "itemID": 11612,
+      "displayName": "Farm Barn Window Model 1",
+      "name": "Model Reward Farm Barn Window 1"
+    },
+    {
+      "itemID": 11613,
+      "displayName": "Farm Barn Window Model 2",
+      "name": "Model Reward Farm Barn Window 2"
+    },
+    {
+      "itemID": 11614,
+      "displayName": "Farm Barn Window Model 3",
+      "name": "Model Reward Farm Barn Window 3"
+    },
+    {
+      "itemID": 11615,
+      "displayName": "Farm Barn Window Model 4",
+      "name": "Model Reward Farm Barn Window 4"
+    },
+    {
+      "itemID": 11616,
+      "displayName": "Farm Barn Window Model 5",
+      "name": "Model Reward Farm Barn Window 5"
+    },
+    {
+      "itemID": 11617,
+      "displayName": "Farm Barn Window Model 6",
+      "name": "Model Reward Farm Barn Window 6"
+    },
+    {
+      "itemID": 11618,
+      "displayName": "Farm Barn Window Model 7",
+      "name": "Model Reward Farm Barn Window 7"
+    },
+    {
+      "itemID": 11619,
+      "displayName": "Farm Barn Window Model 8",
+      "name": "Model Reward Farm Barn Window 8"
+    },
+    {
+      "itemID": 11620,
+      "displayName": "Farm Barn Window Model 9",
+      "name": "Model Reward Farm Barn Window 9"
+    },
+    {
+      "itemID": 11695,
+      "displayName": "Farm Barn Back Model",
+      "name": "Model Reward Farm Barn Back"
+    },
+    {
+      "itemID": 11696,
+      "displayName": "Farm Barn Front Model",
+      "name": "Model Reward Farm Barn Front"
+    },
+    {
+      "itemID": 11697,
+      "displayName": "Farm Barn Middle Model",
+      "name": "Model Reward Farm Barn Middle"
+    },
+    {
+      "itemID": 11698,
+      "displayName": "Farm Chicken Model",
+      "name": "Model Reward Farm Chicken"
+    },
+    {
+      "itemID": 11699,
+      "displayName": "Farm Chicken Coop Model",
+      "name": "Model Reward Farm Chickencoop"
+    },
+    {
+      "itemID": 11701,
+      "displayName": "Farm Clothesline Model",
+      "name": "Model Reward Farm Clothesline"
+    },
+    {
+      "itemID": 11704,
+      "displayName": "Farm 4WD Model",
+      "name": "Model Reward Farm Four-wheel-drive"
+    },
+    {
+      "itemID": 11707,
+      "displayName": "Farm Harvest Wagon Model",
+      "name": "Model Reward Farm Harvestwagon"
+    },
+    {
+      "itemID": 11708,
+      "displayName": "Farm Horse Trailer Model",
+      "name": "Model Reward Farm Horsetrailer"
+    },
+    {
+      "itemID": 11709,
+      "displayName": "Farm Pickup Model",
+      "name": "Model Reward Farm Pickup"
+    },
+    {
+      "itemID": 11710,
+      "displayName": "Farm Sheep Model",
+      "name": "Model Reward Farm Sheep"
+    },
+    {
+      "itemID": 11717,
+      "displayName": "Farm Fence Gate Model",
+      "name": "Model Reward Farm Fence Gate"
+    },
+    {
+      "itemID": 11718,
+      "displayName": "Farm Fence Short Model",
+      "name": "Model Reward Farm Fence Short"
+    },
+    {
+      "itemID": 11719,
+      "displayName": "Farm Fence Tall Model",
+      "name": "Model Reward Farm Fence Tall"
+    },
+    {
+      "itemID": 11802,
+      "displayName": "Farm Shed Door Model 1",
+      "name": "Model Reward Farm Shed Door 1"
+    },
+    {
+      "itemID": 11803,
+      "displayName": "Farm Shed Door Model 2",
+      "name": "Model Reward Farm Shed Door 2"
+    },
+    {
+      "itemID": 11804,
+      "displayName": "Farm Shed Door Model 3",
+      "name": "Model Reward Farm Shed Door 3"
+    },
+    {
+      "itemID": 11805,
+      "displayName": "Farm Shed Door Model 4",
+      "name": "Model Reward Farm Shed Door 4"
+    },
+    {
+      "itemID": 11806,
+      "displayName": "Farm Shed Door Model 5",
+      "name": "Model Reward Farm Shed Door 5"
+    },
+    {
+      "itemID": 11807,
+      "displayName": "Farm Shed End Left Double Model",
+      "name": "Model Reward Farm Shed End Left Double"
+    },
+    {
+      "itemID": 11808,
+      "displayName": "Farm Shed End Left Single Model",
+      "name": "Model Reward Farm Shed End Left Single"
+    },
+    {
+      "itemID": 11809,
+      "displayName": "Farm Shed End Right Double Model",
+      "name": "Model Reward Farm Shed End Right Double"
+    },
+    {
+      "itemID": 11810,
+      "displayName": "Farm Shed End Right Model",
+      "name": "Model Reward Farm Shed End Right"
+    },
+    {
+      "itemID": 11811,
+      "displayName": "Farm Shed End Narrow Model",
+      "name": "Model Reward Farm Shed End Narrow"
+    },
+    {
+      "itemID": 11812,
+      "displayName": "Farm Shed End Wide Model",
+      "name": "Model Reward Farm Shed End  Wide"
+    },
+    {
+      "itemID": 11813,
+      "displayName": "Farm Shed End Model",
+      "name": "Model Reward Farm Shed End"
+    },
+    {
+      "itemID": 11814,
+      "displayName": "Farm Shed Wall Short Model 1",
+      "name": "Model Reward Farm Shed Wall Short 1"
+    },
+    {
+      "itemID": 11815,
+      "displayName": "Farm Shed Wall Short Model 2",
+      "name": "Model Reward Farm Shed Wall Short 2"
+    },
+    {
+      "itemID": 11816,
+      "displayName": "Farm Shed Wall Short Model 3",
+      "name": "Model Reward Farm Shed Wall Short 3"
+    },
+    {
+      "itemID": 11817,
+      "displayName": "Farm Shed Window Model 1",
+      "name": "Model Reward Farm Shed Window 1"
+    },
+    {
+      "itemID": 11818,
+      "displayName": "Farm Shed Window Model 2",
+      "name": "Model Reward Farm Shed Window 2"
+    },
+    {
+      "itemID": 11819,
+      "displayName": "Farm Shed Window Model 3",
+      "name": "Model Reward Farm Shed Window 3"
+    },
+    {
+      "itemID": 11820,
+      "displayName": "Farm Shed Window Model 4",
+      "name": "Model Reward Farm Shed Window 4"
+    },
+    {
+      "itemID": 11821,
+      "displayName": "Farm Shed Window Model 5",
+      "name": "Model Reward Farm Shed Window 5"
+    }
+  ]
+}

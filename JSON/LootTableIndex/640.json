@@ -1,0 +1,30 @@
+{
+  "LootTableIndex": 496,
+  "items": [
+    {
+      "itemID": 7456,
+      "displayName": "Inventor Goggles 3",
+      "name": "Inventor Head 3"
+    },
+    {
+      "itemID": 7480,
+      "displayName": "Inventor Armor 3",
+      "name": "Inventor Chest 3"
+    },
+    {
+      "itemID": 7504,
+      "displayName": "Inventor Pants 3",
+      "name": "Inventor Legs 3"
+    },
+    {
+      "itemID": 7528,
+      "displayName": "Inventor Improved Launcher 3",
+      "name": "Inventor Weapon 3"
+    },
+    {
+      "itemID": 7542,
+      "displayName": "Inventor Shoulderpads 3",
+      "name": "Inventor Neck/Back 3"
+    }
+  ]
+}

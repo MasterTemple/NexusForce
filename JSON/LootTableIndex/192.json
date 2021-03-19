@@ -1,0 +1,85 @@
+{
+  "LootTableIndex": 122,
+  "items": [
+    {
+      "itemID": 2508,
+      "displayName": "Bright Red Pants",
+      "name": "Bright Red Pants"
+    },
+    {
+      "itemID": 2509,
+      "displayName": "Bright Orange Pants",
+      "name": "Bright Orange Pants"
+    },
+    {
+      "itemID": 2511,
+      "displayName": "Brick Yellow Pants",
+      "name": "Brick Yellow Pants"
+    },
+    {
+      "itemID": 2513,
+      "displayName": "Medium Blue Pants",
+      "name": "Medium Blue Pants"
+    },
+    {
+      "itemID": 2514,
+      "displayName": "Sand Green Pants",
+      "name": "Sand Green Pants"
+    },
+    {
+      "itemID": 2515,
+      "displayName": "Dark Green Pants",
+      "name": "Dark Green Pants"
+    },
+    {
+      "itemID": 2516,
+      "displayName": "Earth Green Pants",
+      "name": "Earth Green Pants"
+    },
+    {
+      "itemID": 2517,
+      "displayName": "Earth Blue Pants",
+      "name": "Earth Blue Pants"
+    },
+    {
+      "itemID": 2519,
+      "displayName": "Bright Blue Pants",
+      "name": "Bright Blue Pants"
+    },
+    {
+      "itemID": 2520,
+      "displayName": "Sand Blue Pants",
+      "name": "Sand Blue Pants"
+    },
+    {
+      "itemID": 2521,
+      "displayName": "Dark Stone Grey Pants",
+      "name": "Dark Stone Grey Pants"
+    },
+    {
+      "itemID": 2522,
+      "displayName": "Medium Stone Grey Pants",
+      "name": "Medium Stone Grey Pants"
+    },
+    {
+      "itemID": 2523,
+      "displayName": "White Pants",
+      "name": "White Pants"
+    },
+    {
+      "itemID": 2524,
+      "displayName": "Black Pants",
+      "name": "Black Pants"
+    },
+    {
+      "itemID": 2526,
+      "displayName": "Reddish Brown Pants",
+      "name": "Reddish Brown Pants"
+    },
+    {
+      "itemID": 2527,
+      "displayName": "Dark Red Pants",
+      "name": "Dark Red Pants"
+    }
+  ]
+}

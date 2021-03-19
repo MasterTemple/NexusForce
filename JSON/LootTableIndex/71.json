@@ -1,0 +1,125 @@
+{
+  "LootTableIndex": 17,
+  "items": [
+    {
+      "itemID": 8618,
+      "displayName": "Female Pirate Shirt",
+      "name": "Female Pirate Shirt"
+    },
+    {
+      "itemID": 8646,
+      "displayName": "Khakis",
+      "name": "Khakis"
+    },
+    {
+      "itemID": 10038,
+      "displayName": "Cup of Yo",
+      "name": "Cup of Yo"
+    },
+    {
+      "itemID": 1883,
+      "displayName": "Hot Chocolate",
+      "name": "Hot Chocolate"
+    },
+    {
+      "itemID": 2615,
+      "displayName": "Worthy Large Axe",
+      "name": "Worthy Large Axe"
+    },
+    {
+      "itemID": 2620,
+      "displayName": "Quicksicle",
+      "name": "Quicksicle"
+    },
+    {
+      "itemID": 2993,
+      "displayName": "Armor Polish",
+      "name": "Armor Polish 1"
+    },
+    {
+      "itemID": 2994,
+      "displayName": "Healing Cherry",
+      "name": "Health Cherry 2"
+    },
+    {
+      "itemID": 2996,
+      "displayName": "Armor Shine",
+      "name": "Armor Polish 2"
+    },
+    {
+      "itemID": 2998,
+      "displayName": "Strong Notion Potion",
+      "name": "Potion of Imagination 2"
+    },
+    {
+      "itemID": 3039,
+      "displayName": "Green Imaginite",
+      "name": "Green Imaginite"
+    },
+    {
+      "itemID": 3121,
+      "displayName": "Superior Composite Mace",
+      "name": "Superior Composite Mace"
+    },
+    {
+      "itemID": 11432,
+      "displayName": "Improved Revolver",
+      "name": "Improved Revolver"
+    },
+    {
+      "itemID": 5682,
+      "displayName": "Black Neck Scarf",
+      "name": "Black Neck Scarf"
+    },
+    {
+      "itemID": 6790,
+      "displayName": "Hardtack Biscuit",
+      "name": "Hardtack"
+    },
+    {
+      "itemID": 6849,
+      "displayName": "Buckler Shield",
+      "name": "Buckler"
+    },
+    {
+      "itemID": 6850,
+      "displayName": "Blue Space Helmet",
+      "name": "Blue Space Helmet"
+    },
+    {
+      "itemID": 6851,
+      "displayName": "Worthy Knife",
+      "name": "Worthy Knife"
+    },
+    {
+      "itemID": 6853,
+      "displayName": "Morion Helmet",
+      "name": "Morion Helmet"
+    },
+    {
+      "itemID": 6884,
+      "displayName": "Flash Bang",
+      "name": "Flash Bang"
+    },
+    {
+      "itemID": 6886,
+      "displayName": "Tasty Fish",
+      "name": "Tasty Fish"
+    },
+    {
+      "itemID": 7070,
+      "displayName": "Superior Lance",
+      "name": "Superior Lance"
+    },
+    {
+      "itemID": 7084,
+      "displayName": "Boom Trap Kit",
+      "name": "Boom Trap Kit"
+    },
+    {
+      "itemID": 8085,
+      "displayName": "Red Shako Hat",
+      "name": "Red Shako Hat"
+    }
+  ]
+}

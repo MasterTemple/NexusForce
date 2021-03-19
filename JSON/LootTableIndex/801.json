@@ -1,0 +1,65 @@
+{
+  "LootTableIndex": 604,
+  "items": [
+    {
+      "itemID": 11720,
+      "displayName": "Mech Bay Ball-Bot Model",
+      "name": "Model Reward Mechbay Ball Bot"
+    },
+    {
+      "itemID": 11721,
+      "displayName": "Mech Bay Ball-Bot Base Corner Model",
+      "name": "Model Reward Mechbay Ball Bot Base Corner"
+    },
+    {
+      "itemID": 11722,
+      "displayName": "Mech Bay Ball-Bot Base Elevator Model",
+      "name": "Model Reward Mechbay Ball Bot Base Elevator"
+    },
+    {
+      "itemID": 11723,
+      "displayName": "Mech Bay Ball-Bot Base Energy Fence Model",
+      "name": "Model Reward Mechbay Ball Bot Base Energy Fence"
+    },
+    {
+      "itemID": 11724,
+      "displayName": "Mech Bay Ball-Bot Base Gate Model",
+      "name": "Model Reward Mechbay Ball Bot Base Gate"
+    },
+    {
+      "itemID": 11725,
+      "displayName": "Mech Bay Ball-Bot Base Power Generator Model",
+      "name": "Model Reward Mechbay Ball Bot Base Power Generator"
+    },
+    {
+      "itemID": 11726,
+      "displayName": "Mech Bay Ball-Bot Base Sensor Tower Model",
+      "name": "Model Reward Mechbay Ball Bot Base Sensor Tower"
+    },
+    {
+      "itemID": 11727,
+      "displayName": "Mech Bay Ball-Bot Base Spare Part Model",
+      "name": "Model Reward Mechbay Ball Bot Base Spare Part"
+    },
+    {
+      "itemID": 11728,
+      "displayName": "Mech Bay Ball-Bot Base Tall Corner Model",
+      "name": "Model Reward Mechbay Ball Bot Base Tall Corner"
+    },
+    {
+      "itemID": 11729,
+      "displayName": "Mech Bay Ball-Bot Bay Model",
+      "name": "Model Reward Mechbay Ball Bot Bay"
+    },
+    {
+      "itemID": 11730,
+      "displayName": "Mech Bay Ball-Bot Boss Model",
+      "name": "Model Reward Mechbay Ball Bot Boss"
+    },
+    {
+      "itemID": 11731,
+      "displayName": "Mech Bay Service Ball-Bot Model",
+      "name": "Model Reward Mechbay Service Ball Bot"
+    }
+  ]
+}

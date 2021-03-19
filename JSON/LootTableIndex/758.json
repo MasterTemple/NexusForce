@@ -1,0 +1,220 @@
+{
+  "LootTableIndex": 564,
+  "items": [
+    {
+      "itemID": 16488,
+      "displayName": "Purified Dagger",
+      "name": "Purified Dagger"
+    },
+    {
+      "itemID": 16551,
+      "displayName": "Wu's Imagination Staff",
+      "name": "Wu's Imagination Staff"
+    },
+    {
+      "itemID": 16595,
+      "displayName": "Disciple's Katana",
+      "name": "Disciple's Katana"
+    },
+    {
+      "itemID": 16596,
+      "displayName": "Student's Katana",
+      "name": "Student's Katana"
+    },
+    {
+      "itemID": 16598,
+      "displayName": "Crimson Yari",
+      "name": "Crimson Yari"
+    },
+    {
+      "itemID": 16601,
+      "displayName": "Bright Lance",
+      "name": "Bright Lance"
+    },
+    {
+      "itemID": 16605,
+      "displayName": "Cole's Hood of Quakes",
+      "name": "Earth Spinjitzu Hood Cole's Hood of Quakes"
+    },
+    {
+      "itemID": 16606,
+      "displayName": "Cole's Gi of Quakes",
+      "name": "Earth Spinjitzu Gi Cole's Gi of Quakes"
+    },
+    {
+      "itemID": 16607,
+      "displayName": "Cole's Pants of Quakes",
+      "name": "Earth Spinjitzu Pants Cole's Pants of Quakes"
+    },
+    {
+      "itemID": 16608,
+      "displayName": "Jay's Hood of Storms",
+      "name": "Lightning Spinjitzu Hood Jay's Hood of Storms"
+    },
+    {
+      "itemID": 16609,
+      "displayName": "Jay's Gi of Storms",
+      "name": "Lightning Spinjitzu Gi Jay's Gi of Storms"
+    },
+    {
+      "itemID": 16610,
+      "displayName": "Jay's Pants of Storms",
+      "name": "Lightning Spinjitzu Pants Jay's Pants of Storms"
+    },
+    {
+      "itemID": 16611,
+      "displayName": "Zane's Hood of Frost",
+      "name": "Ice Spinjitzu Hood Zane's Hood of Frost"
+    },
+    {
+      "itemID": 16612,
+      "displayName": "Zane's Gi of Frost",
+      "name": "Ice Spinjitzu Gi Zane's Gi of Frost"
+    },
+    {
+      "itemID": 16613,
+      "displayName": "Zane's Pants of Frost",
+      "name": "Ice Spinjitzu Pants Zane's Pants of Frost"
+    },
+    {
+      "itemID": 16614,
+      "displayName": "Kai's Hood of Flames",
+      "name": "Fire Spinjitzu Hood Kai's Hood of Flames"
+    },
+    {
+      "itemID": 16615,
+      "displayName": "Kai's Gi of Flames",
+      "name": "Fire Spinjitzu Gi Kai's Gi of Flames"
+    },
+    {
+      "itemID": 16616,
+      "displayName": "Kai's Pants of Flames",
+      "name": "Fire Spinjitzu Pants Kai's Pants of Flames"
+    },
+    {
+      "itemID": 12656,
+      "displayName": "The Scythe of Quakes",
+      "name": "Earth Spinjitzu Scythe The Scythe of Quakes"
+    },
+    {
+      "itemID": 12657,
+      "displayName": "The Sword of Fire",
+      "name": "Fire Spinjitzu The Sword of Fire"
+    },
+    {
+      "itemID": 12658,
+      "displayName": "The Nunchuks of Lightning",
+      "name": "Lightning Spinjitzu The Nunchuks of Lightning"
+    },
+    {
+      "itemID": 12659,
+      "displayName": "The Shurikens of Ice",
+      "name": "Ice Spinjitzu The Shurikens of Ice"
+    },
+    {
+      "itemID": 14136,
+      "displayName": "Hood of Quakes",
+      "name": "Earth Spinjitzu Hood Hood of Quakes"
+    },
+    {
+      "itemID": 14172,
+      "displayName": "Pants of Quakes",
+      "name": "Earth Spinjitzu Pants Pants of Quakes"
+    },
+    {
+      "itemID": 14173,
+      "displayName": "Gi of Quakes",
+      "name": "Earth Spinjitzu Gi Gi of Quakes"
+    },
+    {
+      "itemID": 14691,
+      "displayName": "Purified Dark Blade",
+      "name": "Purified Dark Blade"
+    },
+    {
+      "itemID": 14713,
+      "displayName": "Training Yari",
+      "name": "Training Yari"
+    },
+    {
+      "itemID": 14731,
+      "displayName": "Purified Bone",
+      "name": "Purified Bone"
+    },
+    {
+      "itemID": 14736,
+      "displayName": "Purified Blacksmith's Hammer",
+      "name": "Purified Blacksmith's Hammer"
+    },
+    {
+      "itemID": 14764,
+      "displayName": "Purified Axe",
+      "name": "Purified Bone Axe"
+    },
+    {
+      "itemID": 14801,
+      "displayName": "Purified Bone Dagger",
+      "name": "Purified Double Bone Dagger"
+    },
+    {
+      "itemID": 14837,
+      "displayName": "Purified Double-Axe",
+      "name": "Purified Double-Axe"
+    },
+    {
+      "itemID": 15911,
+      "displayName": "Sharp Kunai",
+      "name": "Sharp Kunai"
+    },
+    {
+      "itemID": 16151,
+      "displayName": "Purified Battle Mace",
+      "name": "Purified Mace"
+    },
+    {
+      "itemID": 16266,
+      "displayName": "Gi of Storms",
+      "name": "Lightning Spinjitzu Gi Gi of Storms"
+    },
+    {
+      "itemID": 16267,
+      "displayName": "Gi of Frost",
+      "name": "Ice Spinjitzu Gi Gi of Frost"
+    },
+    {
+      "itemID": 16268,
+      "displayName": "Gi of Flames",
+      "name": "Fire Spinjitzu Gi Gi of Flames"
+    },
+    {
+      "itemID": 16269,
+      "displayName": "Pants of Storms",
+      "name": "Lightning Spinjitzu Pants Pants of Storms"
+    },
+    {
+      "itemID": 16270,
+      "displayName": "Pants of Frost",
+      "name": "Ice Spinjitzu Pants Pants of Frost"
+    },
+    {
+      "itemID": 16271,
+      "displayName": "Pants of Flames",
+      "name": "Fire Spinjitzu Pants Pants of Flames"
+    },
+    {
+      "itemID": 16272,
+      "displayName": "Hood of Storms",
+      "name": "Lightning Spinjitzu Hood Hood of Storms"
+    },
+    {
+      "itemID": 16276,
+      "displayName": "Hood of Frost",
+      "name": "Ice Spinjitzu Hood Hood of Frost"
+    },
+    {
+      "itemID": 16277,
+      "displayName": "Hood of Flames",
+      "name": "Fire Spinjitzu Hood Hood of Flames"
+    }
+  ]
+}

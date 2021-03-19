@@ -1,0 +1,110 @@
+{
+  "LootTableIndex": 379,
+  "items": [
+    {
+      "itemID": 9450,
+      "displayName": "Red Rim Wheels",
+      "name": "CarModule_Wheels_r"
+    },
+    {
+      "itemID": 9451,
+      "displayName": "Yellow Rim Wheels",
+      "name": "CarModule_Wheels_y"
+    },
+    {
+      "itemID": 9452,
+      "displayName": "White Rim Wheels",
+      "name": "CarModule_Wheels_w"
+    },
+    {
+      "itemID": 9453,
+      "displayName": "Black Rim Wheels",
+      "name": "CarModule_Wheels_bk"
+    },
+    {
+      "itemID": 3039,
+      "displayName": "Green Imaginite",
+      "name": "Green Imaginite"
+    },
+    {
+      "itemID": 12021,
+      "displayName": "Fire Brawl Front Bumper",
+      "name": "CarFV1_FrontBumper_r"
+    },
+    {
+      "itemID": 12023,
+      "displayName": "Fire Brawl Engine Panel",
+      "name": "CarFV1_FrontPanel_r"
+    },
+    {
+      "itemID": 12025,
+      "displayName": "Fire Brawl Rear Bumper",
+      "name": "CarFV1_RearBumper_r"
+    },
+    {
+      "itemID": 12027,
+      "displayName": "Fire Brawl Rear Panel",
+      "name": "CarFV1_RearPanel_r"
+    },
+    {
+      "itemID": 12029,
+      "displayName": "Fire Brawl Side Panels",
+      "name": "CarFV1_SidePanels_r"
+    },
+    {
+      "itemID": 12031,
+      "displayName": "Mach Lava Front Bumper",
+      "name": "CarFV2_FrontBumper_y"
+    },
+    {
+      "itemID": 12033,
+      "displayName": "Mach Lava Engine Panel",
+      "name": "CarFV2_FrontPanel_y"
+    },
+    {
+      "itemID": 12035,
+      "displayName": "Mach Lava Rear Bumper",
+      "name": "CarFV2_RearBumper_y"
+    },
+    {
+      "itemID": 12037,
+      "displayName": "Mach Lava Rear Panel",
+      "name": "CarFV2_RearPanel_y"
+    },
+    {
+      "itemID": 12039,
+      "displayName": "Mach Lava Side Panels",
+      "name": "CarFV2_SidePanels_y"
+    },
+    {
+      "itemID": 7730,
+      "displayName": "Red Racing Helmet",
+      "name": "Red Racing Helmet"
+    },
+    {
+      "itemID": 7991,
+      "displayName": "Black Racing Helmet",
+      "name": "Black Racing Helmet"
+    },
+    {
+      "itemID": 7992,
+      "displayName": "Blue Racing Helmet",
+      "name": "Blue Racing Helmet"
+    },
+    {
+      "itemID": 8037,
+      "displayName": "Green Racing Helmet",
+      "name": "Green Racing Helmet"
+    },
+    {
+      "itemID": 8129,
+      "displayName": "Car Chassis",
+      "name": "Car Module - Chassis"
+    },
+    {
+      "itemID": 8130,
+      "displayName": "Steel Rim Wheels",
+      "name": "CarModule_Wheels_gr"
+    }
+  ]
+}
