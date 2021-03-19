@@ -50,9 +50,13 @@ module.exports = {
                     // embed.addField(`${enemyInfoFile.LootTable[e].percent}% For ${enemyInfoFile.LootTable[e].minToDrop}-${enemyInfoFile.LootTable[e].maxToDrop}`, `LootTableIndex: ${enemyInfoFile.LootTable[e].LootTableIndex}`, true)
 
                     if (enemyInfoFile.LootTable[e].minToDrop === enemyInfoFile.LootTable[e].maxToDrop) {
-                        embed.addField(`${enemyInfoFile.LootTable[e].percent}% For ${enemyInfoFile.LootTable[e].minToDrop}`, `LootTableIndex: ${enemyInfoFile.LootTable[e].LootTableIndex}\nType: ${enemyInfoFile.LootTable[e].type}`, true)
+                    //    embed.addField(`${enemyInfoFile.LootTable[e].percent}% For ${enemyInfoFile.LootTable[e].minToDrop}`, `LootTableIndex: ${enemyInfoFile.LootTable[e].LootTableIndex}\nType: ${enemyInfoFile.LootTable[e].type}`, true)
+                        embed.addField(`${enemyInfoFile.LootTable[e].type}: Drops ${enemyInfoFile.LootTable[e].minToDrop}`, `${enemyInfoFile.LootTable[e].percent}% Chance for LootTableIndex: ${enemyInfoFile.LootTable[e].LootTableIndex}`, true)
+
                     } else {
-                        embed.addField(`${enemyInfoFile.LootTable[e].percent}% For ${enemyInfoFile.LootTable[e].minToDrop}-${enemyInfoFile.LootTable[e].maxToDrop}`, `LootTableIndex: ${enemyInfoFile.LootTable[e].LootTableIndex}\nType: ${enemyInfoFile.LootTable[e].type}`, true)
+                    //    embed.addField(`${enemyInfoFile.LootTable[e].percent}% For ${enemyInfoFile.LootTable[e].minToDrop}-${enemyInfoFile.LootTable[e].maxToDrop}`, `LootTableIndex: ${enemyInfoFile.LootTable[e].LootTableIndex}\nType: ${enemyInfoFile.LootTable[e].type}`, true)
+                        embed.addField(`${enemyInfoFile.LootTable[e].type}: Drops ${enemyInfoFile.LootTable[e].minToDrop}-${enemyInfoFile.LootTable[e].maxToDrop}`, `${enemyInfoFile.LootTable[e].percent}% Chance for LootTableIndex: ${enemyInfoFile.LootTable[e].LootTableIndex}`, true)
+
                     }
 
 
