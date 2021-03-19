@@ -1,5 +1,6 @@
 {
   "LootTableIndex": 2,
+  "type": "Powerup",
   "items": [
     {
       "itemID": 177,

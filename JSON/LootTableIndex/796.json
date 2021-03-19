@@ -1,5 +1,6 @@
 {
   "LootTableIndex": 600,
+  "type": "Loot",
   "items": [
     {
       "itemID": 16188,
