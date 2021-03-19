@@ -18,7 +18,7 @@ module.exports = {
         let msgEmbed = require(`./../functions/embedTemplate.js`)
 
         if(args.length > 1 || isNaN(args[0])){
-            let findOne = require(`./../functions/findOneObject`)
+            let findOne = require(`./../functions/findOneEnemy.js`)
             var objectID = findOne.execute(args)
             if(objectID===undefined){
                 message.channel.send("An object with this DisplayName or Name does not exist.")
@@ -33,26 +33,26 @@ module.exports = {
             var enemyInfoFile = require(`./../json/groupEnemies/EnemyInfo/${objectID}.json`)
             var embed = msgEmbed.execute(`${enemyInfoFile.displayName} [${objectID}]`, undefined, `https://lu-explorer.web.app/objects/${objectID}`, enemyInfoFile.iconURL)
 
-            var enemyDropFile = require(`./../json/groupEnemies/EnemyLootItems/${objectID}.json`)
+            //var enemyInfoFile = require(`./../json/groupEnemies/EnemyLootItems/${objectID}.json`)
 
-            if(enemyDropFile.LootTable.length !== 0){
+            if(enemyInfoFile.LootTable.length !== 0){
                 //var embed = msgEmbed.execute(enemyInfoFile.displayName, undefined, `https://lu-explorer.web.app/objects/${enemyInfoFile.id}`, enemyInfoFile.iconURL)
 
                 //console.log(enemyInfoFile)
 
-                for (var e = 0; e < enemyDropFile.LootTable.length; e++) {
+                for (var e = 0; e < enemyInfoFile.LootTable.length; e++) {
                     //embed.addField(`${enemyInfoFile.dropStuff[e].percent}% Chance to Drop`, `${enemyInfoFile.dropStuff[e].destructibleComponents[0].displayName}[${enemyInfoFile.dropStuff[e].destructibleComponents[0].objectID}]`,true)
 
-                    // for(var c=0;c<enemyDropFile.LootTable[e].items.length;c++){
-                    //     //embed.addField(`${enemyDropFile.LootTable[e].percent}% For ${enemyDropFile.LootTable[e].minToDrop}-${enemyDropFile.LootTable[e].maxToDrop}`, `${enemyDropFile.LootTable[e].items[c].displayName}[${enemyDropFile.LootTable[e].items[c].itemID}]`, true)
-                    //     console.log((enemyDropFile.LootTable[e].items))
+                    // for(var c=0;c<enemyInfoFile.LootTable[e].items.length;c++){
+                    //     //embed.addField(`${enemyInfoFile.LootTable[e].percent}% For ${enemyInfoFile.LootTable[e].minToDrop}-${enemyInfoFile.LootTable[e].maxToDrop}`, `${enemyInfoFile.LootTable[e].items[c].displayName}[${enemyInfoFile.LootTable[e].items[c].itemID}]`, true)
+                    //     console.log((enemyInfoFile.LootTable[e].items))
                     // }
-                    // embed.addField(`${enemyDropFile.LootTable[e].percent}% For ${enemyDropFile.LootTable[e].minToDrop}-${enemyDropFile.LootTable[e].maxToDrop}`, `LootTableIndex: ${enemyDropFile.LootTable[e].LootTableIndex}`, true)
+                    // embed.addField(`${enemyInfoFile.LootTable[e].percent}% For ${enemyInfoFile.LootTable[e].minToDrop}-${enemyInfoFile.LootTable[e].maxToDrop}`, `LootTableIndex: ${enemyInfoFile.LootTable[e].LootTableIndex}`, true)
 
-                    if (enemyDropFile.LootTable[e].minToDrop === enemyDropFile.LootTable[e].maxToDrop) {
-                        embed.addField(`${enemyDropFile.LootTable[e].percent}% For ${enemyDropFile.LootTable[e].minToDrop}`, `LootTableIndex: ${enemyDropFile.LootTable[e].LootTableIndex}`, true)
+                    if (enemyInfoFile.LootTable[e].minToDrop === enemyInfoFile.LootTable[e].maxToDrop) {
+                        embed.addField(`${enemyInfoFile.LootTable[e].percent}% For ${enemyInfoFile.LootTable[e].minToDrop}`, `LootTableIndex: ${enemyInfoFile.LootTable[e].LootTableIndex}\nType: ${enemyInfoFile.LootTable[e].type}`, true)
                     } else {
-                        embed.addField(`${enemyDropFile.LootTable[e].percent}% For ${enemyDropFile.LootTable[e].minToDrop}-${enemyDropFile.LootTable[e].maxToDrop}`, `LootTableIndex: ${enemyDropFile.LootTable[e].LootTableIndex}`, true)
+                        embed.addField(`${enemyInfoFile.LootTable[e].percent}% For ${enemyInfoFile.LootTable[e].minToDrop}-${enemyInfoFile.LootTable[e].maxToDrop}`, `LootTableIndex: ${enemyInfoFile.LootTable[e].LootTableIndex}\nType: ${enemyInfoFile.LootTable[e].type}`, true)
                     }
 
 

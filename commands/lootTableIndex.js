@@ -1,6 +1,6 @@
 module.exports = {
     name: ['loottableindex', 'lti'],
-    description: 'See what enemies drop an item',
+    description: 'See all items in a LootTableIndex',
     args: true,
     use: `lti [id]`,
     example: [`lti 670`],
@@ -48,7 +48,11 @@ module.exports = {
                     //     //embed.addField(`${LootTableIndexFile.items[e].percent}% For ${LootTableIndexFile.items[e].minToDrop}-${LootTableIndexFile.items[e].maxToDrop}`, `${LootTableIndexFile.items[e].items[c].displayName}[${LootTableIndexFile.items[e].items[c].itemID}]`, true)
                     //     console.log((LootTableIndexFile.items[e].items))
                     // }
-                    embed.addField(LootTableIndexFile.items[e].displayName, `${LootTableIndexFile.items[e].name} [${LootTableIndexFile.items[e].itemID}]`, true)
+                    if(LootTableIndexFile.items[e].displayName !== ``) {
+                        embed.addField(LootTableIndexFile.items[e].displayName, `${LootTableIndexFile.items[e].name} [${LootTableIndexFile.items[e].itemID}]`, true)
+                    }else{
+                        embed.addField(LootTableIndexFile.items[e].name, `${LootTableIndexFile.items[e].name} [${LootTableIndexFile.items[e].itemID}]`, true)
+                    }
 
 
                     // if (LootTableIndexFile.dropStuff[e].minToDrop === LootTableIndexFile.dropStuff[e].maxToDrop) {
@@ -65,7 +69,7 @@ module.exports = {
             }
 
         }catch(error){
-            var LootTableIndexFile = require(`./../json/groupEnemies/EnemyInfo/${objectID}.json`)
+            var LootTableIndexFile = require(`./../json/LootTableIndex/${objectID}.json`)
             var embed = msgEmbed.execute(`${LootTableIndexFile.displayName} [${objectID}]`, undefined, `https://lu-explorer.web.app/objects/${objectID}`, LootTableIndexFile.iconURL)
             //message.channel.send(embed)
             console.log(error)
