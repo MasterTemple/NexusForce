@@ -28,30 +28,33 @@ module.exports = {
         }
 
         try{
-            var enemyInfoFile = require(`./../json/groupEnemies/EnemyInfo/${objectID}.json`)
-            var embed = msgEmbed.execute(`${enemyInfoFile.displayName} [${objectID}]`, undefined, `https://lu-explorer.web.app/objects/${objectID}`, enemyInfoFile.iconURL)
+            var iconURL = `https://static.wikia.nocookie.net/legomessageboards/images/c/ce/LU2.png/revision/latest?cb=20121121213649`
 
-            var enemyDropFile = require(`./../json/groupEnemies/EnemyLootItems/${objectID}.json`)
+            var LootTableIndexFile = require(`./../json/LootTableIndex/${objectID}.json`)
+            if(LootTableIndexFile.items.length === 1){
+                var embed = msgEmbed.execute(`LootTableIndex: ${LootTableIndexFile.LootTableIndex} - ${LootTableIndexFile.items.length} item`, undefined, `https://github.com/MasterTemple/NexusForce/tree/main/JSON/LootTableIndex/${objectID}`, iconURL)
+            }else{
+                var embed = msgEmbed.execute(`LootTableIndex: ${LootTableIndexFile.LootTableIndex} - ${LootTableIndexFile.items.length} items`, undefined, `https://github.com/MasterTemple/NexusForce/tree/main/JSON/LootTableIndex/${objectID}`, iconURL)
+            }
+            if(LootTableIndexFile.items.length !== 0){
+                //var embed = msgEmbed.execute(LootTableIndexFile.displayName, undefined, `https://lu-explorer.web.app/objects/${LootTableIndexFile.id}`, LootTableIndexFile.iconURL)
 
-            if(enemyDropFile.LootTable.length !== 0){
-                //var embed = msgEmbed.execute(enemyInfoFile.displayName, undefined, `https://lu-explorer.web.app/objects/${enemyInfoFile.id}`, enemyInfoFile.iconURL)
+                //console.log(LootTableIndexFile)
 
-                //console.log(enemyInfoFile)
+                for (var e = 0; e < LootTableIndexFile.items.length; e++) {
+                    //embed.addField(`${LootTableIndexFile.dropStuff[e].percent}% Chance to Drop`, `${LootTableIndexFile.dropStuff[e].destructibleComponents[0].displayName}[${LootTableIndexFile.dropStuff[e].destructibleComponents[0].objectID}]`,true)
 
-                for (var e = 0; e < enemyDropFile.LootTable.length; e++) {
-                    //embed.addField(`${enemyInfoFile.dropStuff[e].percent}% Chance to Drop`, `${enemyInfoFile.dropStuff[e].destructibleComponents[0].displayName}[${enemyInfoFile.dropStuff[e].destructibleComponents[0].objectID}]`,true)
-
-                    // for(var c=0;c<enemyDropFile.LootTable[e].items.length;c++){
-                    //     //embed.addField(`${enemyDropFile.LootTable[e].percent}% For ${enemyDropFile.LootTable[e].minToDrop}-${enemyDropFile.LootTable[e].maxToDrop}`, `${enemyDropFile.LootTable[e].items[c].displayName}[${enemyDropFile.LootTable[e].items[c].itemID}]`, true)
-                    //     console.log((enemyDropFile.LootTable[e].items))
+                    // for(var c=0;c<LootTableIndexFile.items[e].items.length;c++){
+                    //     //embed.addField(`${LootTableIndexFile.items[e].percent}% For ${LootTableIndexFile.items[e].minToDrop}-${LootTableIndexFile.items[e].maxToDrop}`, `${LootTableIndexFile.items[e].items[c].displayName}[${LootTableIndexFile.items[e].items[c].itemID}]`, true)
+                    //     console.log((LootTableIndexFile.items[e].items))
                     // }
-                    embed.addField(`${enemyDropFile.LootTable[e].percent}% For ${enemyDropFile.LootTable[e].minToDrop}-${enemyDropFile.LootTable[e].maxToDrop}`, `LootTableIndex: ${enemyDropFile.LootTable[e].LootTableIndex}`, true)
+                    embed.addField(LootTableIndexFile.items[e].displayName, `${LootTableIndexFile.items[e].name} [${LootTableIndexFile.items[e].itemID}]`, true)
 
 
-                    // if (enemyInfoFile.dropStuff[e].minToDrop === enemyInfoFile.dropStuff[e].maxToDrop) {
-                    //     embed.addField(`${enemyInfoFile.dropStuff[e].destructibleComponents[0].displayName}`, `Has a ${enemyInfoFile.dropStuff[e].percent}% chance to drop ${enemyInfoFile.dropStuff[e].minToDrop} of ${enemyInfoFile.dropStuff[e].differentItemsToDropRange} different items.`, false)
+                    // if (LootTableIndexFile.dropStuff[e].minToDrop === LootTableIndexFile.dropStuff[e].maxToDrop) {
+                    //     embed.addField(`${LootTableIndexFile.dropStuff[e].destructibleComponents[0].displayName}`, `Has a ${LootTableIndexFile.dropStuff[e].percent}% chance to drop ${LootTableIndexFile.dropStuff[e].minToDrop} of ${LootTableIndexFile.dropStuff[e].differentItemsToDropRange} different items.`, false)
                     // } else {
-                    //     embed.addField(`${enemyInfoFile.dropStuff[e].destructibleComponents[0].displayName}`, `Has a ${enemyInfoFile.dropStuff[e].percent}% chance to drop between ${enemyInfoFile.dropStuff[e].minToDrop} and ${enemyInfoFile.dropStuff[e].maxToDrop} of ${enemyInfoFile.dropStuff[e].differentItemsToDropRange} different items.`, false)
+                    //     embed.addField(`${LootTableIndexFile.dropStuff[e].destructibleComponents[0].displayName}`, `Has a ${LootTableIndexFile.dropStuff[e].percent}% chance to drop between ${LootTableIndexFile.dropStuff[e].minToDrop} and ${LootTableIndexFile.dropStuff[e].maxToDrop} of ${LootTableIndexFile.dropStuff[e].differentItemsToDropRange} different items.`, false)
                     // }
                 }
             }else{
@@ -62,8 +65,8 @@ module.exports = {
             }
 
         }catch(error){
-            var enemyInfoFile = require(`./../json/groupEnemies/EnemyInfo/${objectID}.json`)
-            var embed = msgEmbed.execute(`${enemyInfoFile.displayName} [${objectID}]`, undefined, `https://lu-explorer.web.app/objects/${objectID}`, enemyInfoFile.iconURL)
+            var LootTableIndexFile = require(`./../json/groupEnemies/EnemyInfo/${objectID}.json`)
+            var embed = msgEmbed.execute(`${LootTableIndexFile.displayName} [${objectID}]`, undefined, `https://lu-explorer.web.app/objects/${objectID}`, LootTableIndexFile.iconURL)
             //message.channel.send(embed)
             console.log(error)
             embed.addField(`This is not a valid LootTableIndex!`, "Maybe this is just an error, idk...", false)
@@ -71,7 +74,7 @@ module.exports = {
         }
 
 
-        //message.channel.send(`\`\`\`json\n${JSON.stringify(enemyInfoFile,null, 2)}\`\`\``)
+        //message.channel.send(`\`\`\`json\n${JSON.stringify(LootTableIndexFile,null, 2)}\`\`\``)
         message.channel.send(embed)
 
 
