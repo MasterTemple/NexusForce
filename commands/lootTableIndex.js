@@ -31,11 +31,13 @@ module.exports = {
             var iconURL = `https://static.wikia.nocookie.net/legomessageboards/images/c/ce/LU2.png/revision/latest?cb=20121121213649`
 
             var LootTableIndexFile = require(`./../json/LootTableIndex/${objectID}.json`)
+
             if(LootTableIndexFile.items.length === 1){
                 var embed = msgEmbed.execute(`LTI: ${LootTableIndexFile.LootTableIndex} - ${LootTableIndexFile.items.length} item (${LootTableIndexFile.type})`, undefined, `https://github.com/MasterTemple/NexusForce/tree/main/JSON/LootTableIndex/${objectID}`, iconURL)
             }else{
                 var embed = msgEmbed.execute(`LTI: ${LootTableIndexFile.LootTableIndex} - ${LootTableIndexFile.items.length} items (${LootTableIndexFile.type})`, undefined, `https://github.com/MasterTemple/NexusForce/tree/main/JSON/LootTableIndex/${objectID}`, iconURL)
             }
+            console.log(LootTableIndexFile.items.length)
             if(LootTableIndexFile.items.length !== 0){
                 //var embed = msgEmbed.execute(LootTableIndexFile.displayName, undefined, `https://lu-explorer.web.app/objects/${LootTableIndexFile.id}`, LootTableIndexFile.iconURL)
 
@@ -52,6 +54,9 @@ module.exports = {
                         embed.addField(LootTableIndexFile.items[e].displayName, `${LootTableIndexFile.items[e].name} [${LootTableIndexFile.items[e].itemID}]`, true)
                     }else{
                         embed.addField(LootTableIndexFile.items[e].name, `${LootTableIndexFile.items[e].name} [${LootTableIndexFile.items[e].itemID}]`, true)
+                    }
+                    if(e===25){
+                        break
                     }
 
 

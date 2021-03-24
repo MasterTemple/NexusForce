@@ -27,6 +27,7 @@ module.exports = {
             var objectID = args[0]
         }
         var buyFile = require(`./../json/Buy/${Math.floor(objectID/256)}/${objectID}.json`)
+
             console.log(buyFile)
 
         let msgEmbed = require(`./../functions/embedTemplate.js`)
