@@ -1,0 +1,163 @@
+module.exports = {
+    name: ['b'],
+    description: 'Info about an item in LEGO Universe',
+    args: true,
+    use: `item [id]`,
+    example: [`item 7415`],
+    execute(message, args) {
+        function err() {
+            try {
+                //const help = require(`./help.js`);
+                //help.execute(message, module.exports.name)
+                console.log(`fail`)
+                return
+            } catch (error) {
+                console.error(error);
+            }
+        }
+        if(args.length > 1 || isNaN(args[0])){
+            let findOne = require(`./../functions/findOneObject.js`)
+            var itemID = findOne.execute(args)
+            if(itemID===undefined){
+                message.channel.send("An object with this DisplayName or Name does not exist.")
+                err()
+                return
+            }
+        }else{
+            var itemID = args[0]
+        }
+        //const itemID = id
+        const item = require(`./../json/Items/${Math.floor(itemID/256)}/${itemID}.json`);
+        const {emojis} = require('./../config.json');
+
+        console.log(item)
+
+        // message.channel.send(`\`\`\`${JSON.stringify(item,null,2)}\`\`\``)
+
+        if(item.Armor === undefined){
+            item.Armor = 0
+        }
+        if(item.Health === undefined){
+            item.Health = 0
+        }
+        if(item.Imagination === undefined){
+            item.Imagination = 0
+        }
+        if(item.description === null){
+            item.description = "None"
+        }
+        if(item.internalNotes === null){
+            item.internalNotes = "None"
+        }
+        if(item.levelRequirement === null){
+            item.levelRequirement = "None"
+        }
+        if(item.name === null){
+            item.name = "None"
+        }
+        if(item.description === null || item.description === `` || item.description === undefined){
+            item.description = "None"
+        }
+        if(item.internalNotes === null){
+            item.internalNotes = "None"
+        }
+
+
+        let msgEmbed = require(`./../functions/embedTemplate.js`)
+        if(item.equipLocationNames.length === 1){
+            //var description = `**Equip Location:** ${item.equipLocationNames[0]}`
+        }else{
+            var description = `**Equip Locations:** ${item.equipLocationNames.join(`, `)}`
+        }
+        let embed = msgEmbed.execute(`${item.displayName} [${item.itemID}]`, description, `https://lu-explorer.web.app/objects/${item.itemID}`, item.iconURL)
+
+        embed.addFields(
+            { name: 'Name', value: item.name, inline: true },
+            { name: 'Description', value: item.description, inline: true },
+            { name: 'Internal Notes', value: item.internalNotes, inline: true },
+        )
+
+
+        if(item.isWeapon === false && item.abilityName !== undefined && item.equipLocation[0] !== "chest" && item.equipLocation[0] !== "legs" && item.localeDescription !== undefined){
+            embed.addFields(
+                {name: item.abilityName, value: item.localeDescription, inline: false},
+                // { name: item.abilityName, value: item.localeDescription, inline: true },
+                // { name: item.abilityName, value: item.localeDescription, inline: true },
+            )
+        }
+        embed.addFields(
+            { name: `${emojis.armor} Armor`, value: item.Armor, inline: true },
+            { name: `${emojis.heart} Health`, value: item.Health, inline: true },
+            { name: `${emojis.imagination} Imagination`, value: item.Imagination, inline: true },
+        )
+
+        if(item.isWeapon === true && item.projectileDamageInfo.projectileDamageCombo === ""){
+            embed.addFields(
+                {name: "Damage Combo", value: item.meleeDamageInfo.damageCombo, inline: true},
+                {name: "Singe Jump Smash", value: item.meleeDamageInfo.singleJumpSmash, inline: true},
+                {name: "Double Jump Smash", value: item.meleeDamageInfo.doubleJumpSmash, inline: true},
+            )
+        }else if(item.isWeapon === true && item.projectileDamageInfo.projectileDamageCombo !== ""){
+            embed.addFields(
+                {name: "Damage Combo", value: item.projectileDamageInfo.projectileDamageCombo, inline: true},
+                {name: "Singe Jump Smash", value: item.meleeDamageInfo.singleJumpSmash, inline: true},
+                {name: "Double Jump Smash", value: item.meleeDamageInfo.doubleJumpSmash, inline: true},
+            )
+        }
+
+        if(item.isWeapon && item.meleeDamageInfo.chargeUpDamage !== undefined && item.projectileDamageInfo.chargeUpIsProjectile === false){
+            embed.addFields(
+                {name: "Charge Up Ability", value: item.chargeUpDescription, inline: true},
+                {name: "Charge Up Damage", value: item.meleeDamageInfo.chargeUpDamage, inline: true},
+                {name: "Charge Up Cost", value: `${item.meleeDamageInfo.chargeUpImaginationCost} Imagination`, inline: true},
+            )
+        }else if(item.isWeapon && item.meleeDamageInfo.chargeUpDamage !== undefined && item.projectileDamageInfo.chargeUpIsProjectile){
+            embed.addFields(
+                {name: "Charge Up Ability", value: item.chargeUpDescription, inline: true},
+                {name: "Charge Up Damage", value: item.projectileDamageInfo.chargeUpDamage, inline: true},
+                {name: "Charge Up Cost", value: `${item.meleeDamageInfo.chargeUpImaginationCost} Imagination`, inline: true},
+            )
+        }
+
+
+
+        if(item.isWeapon && item.allItems.length !== 1){
+            embed.addFields(
+                {name: "Imagination Cost", value: item.abilityImaginationCost, inline: true},
+                {name: "Cooldown Time", value: `${item.cooldownTime} Seconds`, inline: true},
+                {name: "Cooldown Group", value: item.cooldowngroup, inline: true},
+            )
+        }
+
+        if(item.isWeapon === false && item.abilityImaginationCost !== undefined && item.cooldownTime !== undefined && item.cooldowngroup !== undefined){
+            embed.addFields(
+                {name: "Imagination Cost", value: item.abilityImaginationCost, inline: true},
+                {name: "Cooldown Time", value: `${item.cooldownTime} Seconds`, inline: true},
+                {name: "Cooldown Group", value: item.cooldowngroup, inline: true},
+            )
+        }
+
+        if(item.factionTokens !== null){
+            embed.addFields(
+                {name: "Cost", value: item.price, inline: true},
+                {name: "Faction Token Cost", value: item.factionTokens, inline: true},
+                {name: "Level Requirement", value: item.levelRequirement, inline: true},
+            )
+        }else if(item.commendationCost !== null){
+            embed.addFields(
+                {name: "Cost", value: item.price, inline: true},
+                {name: "Commendation Cost", value: `${item.commendationCost} Faction Tokens`, inline: true},
+                {name: "Level Requirement", value: item.levelRequirement, inline: true},
+            )
+        }else if(item.commendationCost === null){
+            embed.addFields(
+                {name: "Cost", value: item.price, inline: true},
+                {name: "Stack Size", value: item.stackSize, inline: true},
+                {name: "Level Requirement", value: item.levelRequirement, inline: true},
+            )
+        }
+
+        message.channel.send(embed)
+
+    }
+}
