@@ -43,10 +43,10 @@ module.exports = {
 
 
         let msgEmbed = require(`./embedTemplate.js`)
-        if(item.equipLocationNames.length === 1){
+        if(item?.equipLocationNames?.length === 1){
             //var description = `**Equip Location:** ${item.equipLocationNames[0]}`
         }else{
-            var description = `**Equip Locations:** ${item.equipLocationNames.join(`, `)}`
+            var description = `**Equip Locations:** ${item?.equipLocationNames?.join(`, `)}`
         }
         let embed = msgEmbed.execute(`${item.displayName} [${item.itemID}]`, description, `https://lu-explorer.web.app/objects/${item.itemID}`, item.iconURL)
 

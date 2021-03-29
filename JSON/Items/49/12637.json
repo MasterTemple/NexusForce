@@ -62,5 +62,6 @@
   "price": 175000,
   "commendationCost": null,
   "factionTokens": 500,
-  "levelRequirement": "35"
+  "levelRequirement": "35",
+  "Health": 0
 }
