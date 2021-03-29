@@ -1,0 +1,61 @@
+{
+  "displayName": "House Model Pack 5",
+  "name": "House Model Pack 5",
+  "description": "Double-click to open this pack of models!",
+  "internalNotes": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_green.png",
+  "table": [
+    {
+      "LootTableIndex": 305,
+      "maxToDrop": 2,
+      "minToDrop": 2,
+      "percent": 100,
+      "items": [
+        {
+          "itemID": 10354,
+          "itemName": "Model Reward Cottage Wall Blank 2",
+          "itemDisplayName": "House Wall Blank Model 2"
+        }
+      ]
+    },
+    {
+      "LootTableIndex": 307,
+      "maxToDrop": 2,
+      "minToDrop": 2,
+      "percent": 100,
+      "items": [
+        {
+          "itemID": 10356,
+          "itemName": "Model Reward Cottage Wall Corner 1",
+          "itemDisplayName": "House Wall Corner Model 1"
+        }
+      ]
+    },
+    {
+      "LootTableIndex": 310,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 100,
+      "items": [
+        {
+          "itemID": 10335,
+          "itemName": "Model Reward Cottage Door 3 open",
+          "itemDisplayName": "House Open Door Model 3"
+        }
+      ]
+    },
+    {
+      "LootTableIndex": 311,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 100,
+      "items": [
+        {
+          "itemID": 10334,
+          "itemName": "Model Reward Cottage Door 3 closed",
+          "itemDisplayName": "House Closed Door Model 3"
+        }
+      ]
+    }
+  ]
+}

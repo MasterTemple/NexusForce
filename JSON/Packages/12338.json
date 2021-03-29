@@ -1,0 +1,22 @@
+{
+  "displayName": "Small Candy Cane Giftbox",
+  "name": "Winter Candycane Giftbox 5",
+  "description": "Double-click to use!",
+  "internalNotes": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_winter_02.png",
+  "table": [
+    {
+      "LootTableIndex": 458,
+      "maxToDrop": 5,
+      "minToDrop": 5,
+      "percent": 100,
+      "items": [
+        {
+          "itemID": 12237,
+          "itemName": "Candy Cane",
+          "itemDisplayName": "Candy Cane"
+        }
+      ]
+    }
+  ]
+}

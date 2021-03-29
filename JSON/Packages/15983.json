@@ -1,0 +1,35 @@
+{
+  "displayName": "Subscription Reward Pack",
+  "name": "Subscription Reward Pack",
+  "description": "Double-click to open!",
+  "internalNotes": "Marketing Reward - Week 41-43 conversion",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/bag_green_brown_large.png",
+  "table": [
+    {
+      "LootTableIndex": 830,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 100,
+      "items": [
+        {
+          "itemID": 14126,
+          "itemName": "Faction Token Bag - 100 tokens",
+          "itemDisplayName": "Ultra Bag of Faction Tokens"
+        }
+      ]
+    },
+    {
+      "LootTableIndex": 832,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 100,
+      "items": [
+        {
+          "itemID": 14571,
+          "itemName": "Hatchling Scorpion's Stinger - Red",
+          "itemDisplayName": "Red Scorpion's Stinger"
+        }
+      ]
+    }
+  ]
+}

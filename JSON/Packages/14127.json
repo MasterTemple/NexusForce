@@ -1,0 +1,22 @@
+{
+  "displayName": "Ultra-Mega Bag of Faction Tokens",
+  "name": "Faction Token Bag - 200 tokens",
+  "description": "Double-click to get 200 Faction Tokens!",
+  "internalNotes": "Community Reward - Contains 200 Faction Tokens",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/faction_bag_lg.png",
+  "table": [
+    {
+      "LootTableIndex": 670,
+      "maxToDrop": 200,
+      "minToDrop": 200,
+      "percent": 100,
+      "items": [
+        {
+          "itemID": 13763,
+          "itemName": "Faction Token Proxy",
+          "itemDisplayName": "Faction Token Proxy"
+        }
+      ]
+    }
+  ]
+}

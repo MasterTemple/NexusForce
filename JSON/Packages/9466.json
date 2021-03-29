@@ -1,0 +1,87 @@
+{
+  "displayName": "Red Hyperstarter Package",
+  "name": "Tyro Car 1 Package Red",
+  "description": "Double-click to get the red Hyperstarter Car modules!",
+  "internalNotes": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_red.png",
+  "table": [
+    {
+      "LootTableIndex": 200,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 100,
+      "items": [
+        {
+          "itemID": 8130,
+          "itemName": "CarModule_Wheels_gr",
+          "itemDisplayName": "Steel Rim Wheels"
+        }
+      ]
+    },
+    {
+      "LootTableIndex": 201,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 100,
+      "items": [
+        {
+          "itemID": 9318,
+          "itemName": "Car1_FrontBumper1_r",
+          "itemDisplayName": "Hyperstarter Front Bumper"
+        }
+      ]
+    },
+    {
+      "LootTableIndex": 202,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 100,
+      "items": [
+        {
+          "itemID": 8131,
+          "itemName": "Car Module - Car 1 Engine Panel 1 Red",
+          "itemDisplayName": "Hyperstarter Engine Panel"
+        }
+      ]
+    },
+    {
+      "LootTableIndex": 203,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 100,
+      "items": [
+        {
+          "itemID": 9343,
+          "itemName": "Car1_SidePanels1_r",
+          "itemDisplayName": "Hyperstarter Side Panels"
+        }
+      ]
+    },
+    {
+      "LootTableIndex": 204,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 100,
+      "items": [
+        {
+          "itemID": 9353,
+          "itemName": "Car1_RearPanel1_r",
+          "itemDisplayName": "Hyperstarter Rear Panel"
+        }
+      ]
+    },
+    {
+      "LootTableIndex": 205,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 100,
+      "items": [
+        {
+          "itemID": 9363,
+          "itemName": "Car1_RearBumper1_r",
+          "itemDisplayName": "Hyperstarter Rear Bumper"
+        }
+      ]
+    }
+  ]
+}

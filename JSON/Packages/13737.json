@@ -1,0 +1,112 @@
+{
+  "displayName": "Pirate's Picnic Basket",
+  "name": "Pirate Picnic Basket",
+  "description": "Double-click to open!",
+  "internalNotes": "+Random consumables",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/ag_picnic_basket.png",
+  "table": [
+    {
+      "LootTableIndex": 667,
+      "maxToDrop": 3,
+      "minToDrop": 1,
+      "percent": 100,
+      "items": [
+        {
+          "itemID": 8363,
+          "itemName": "Bag of Glitter",
+          "itemDisplayName": null
+        },
+        {
+          "itemID": 8365,
+          "itemName": "Potion of Shielding",
+          "itemDisplayName": "Potion of Shielding"
+        },
+        {
+          "itemID": 8376,
+          "itemName": "Tough Buff Sauce",
+          "itemDisplayName": "Tough Buff Sauce"
+        },
+        {
+          "itemID": 1966,
+          "itemName": "Health Banana 1",
+          "itemDisplayName": "Healing Banana"
+        },
+        {
+          "itemID": 2198,
+          "itemName": "Potion of Imagination 1",
+          "itemDisplayName": "Notion Potion"
+        },
+        {
+          "itemID": 2620,
+          "itemName": "Quicksicle",
+          "itemDisplayName": "Quicksicle"
+        },
+        {
+          "itemID": 2993,
+          "itemName": "Armor Polish 1",
+          "itemDisplayName": "Armor Polish"
+        },
+        {
+          "itemID": 2994,
+          "itemName": "Health Cherry 2",
+          "itemDisplayName": "Healing Cherry"
+        },
+        {
+          "itemID": 2995,
+          "itemName": "Health Apple 3",
+          "itemDisplayName": "Healing Apple"
+        },
+        {
+          "itemID": 2996,
+          "itemName": "Armor Polish 2",
+          "itemDisplayName": "Armor Shine"
+        },
+        {
+          "itemID": 2997,
+          "itemName": "Armor Polish 3",
+          "itemDisplayName": "Armor Gleam"
+        },
+        {
+          "itemID": 2998,
+          "itemName": "Potion of Imagination 2",
+          "itemDisplayName": "Strong Notion Potion"
+        },
+        {
+          "itemID": 2999,
+          "itemName": "Potion of Imagination 3",
+          "itemDisplayName": "Super Notion Potion"
+        },
+        {
+          "itemID": 12240,
+          "itemName": "Gingerbread Cookie",
+          "itemDisplayName": "Gingerbread Cookie"
+        },
+        {
+          "itemID": 12763,
+          "itemName": "BBQ Drumstick",
+          "itemDisplayName": "BBQ Drumstick"
+        },
+        {
+          "itemID": 6201,
+          "itemName": "Thirst Quencher Consumable",
+          "itemDisplayName": "Thirst Quencher"
+        },
+        {
+          "itemID": 6790,
+          "itemName": "Hardtack",
+          "itemDisplayName": "Hardtack Biscuit"
+        },
+        {
+          "itemID": 7724,
+          "itemName": "Buttery Croissant",
+          "itemDisplayName": "Buttery Croissant"
+        },
+        {
+          "itemID": 7725,
+          "itemName": "Healing Drumstick",
+          "itemDisplayName": "Healing Drumstick"
+        }
+      ]
+    }
+  ]
+}

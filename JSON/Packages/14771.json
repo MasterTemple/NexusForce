@@ -1,0 +1,35 @@
+{
+  "displayName": "Game Card Reward Pack",
+  "name": "Game Card Reward Pack",
+  "description": "Double-click to open!",
+  "internalNotes": "Marketing Reward - Retailer 2 Month 3",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/bag_green_brown_extralarge.png",
+  "table": [
+    {
+      "LootTableIndex": 697,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 100,
+      "items": [
+        {
+          "itemID": 14125,
+          "itemName": "Faction Token Bag - 50 tokens",
+          "itemDisplayName": "Mega Bag of Faction Tokens"
+        }
+      ]
+    },
+    {
+      "LootTableIndex": 785,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 100,
+      "items": [
+        {
+          "itemID": 14568,
+          "itemName": "Hatchling Dog's Bone - Dark Gray",
+          "itemDisplayName": "Dark Gray Dog's Bone"
+        }
+      ]
+    }
+  ]
+}

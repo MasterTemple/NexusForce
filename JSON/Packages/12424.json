@@ -1,0 +1,22 @@
+{
+  "displayName": "Very Large Bag of Faction Tokens",
+  "name": "Faction Token Bag - 15 tokens",
+  "description": "Double-click to get 15 Faction Tokens!",
+  "internalNotes": "Contains 15 Faction Tokens",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/faction_bag_sm.png",
+  "table": [
+    {
+      "LootTableIndex": 670,
+      "maxToDrop": 15,
+      "minToDrop": 15,
+      "percent": 100,
+      "items": [
+        {
+          "itemID": 13763,
+          "itemName": "Faction Token Proxy",
+          "itemDisplayName": "Faction Token Proxy"
+        }
+      ]
+    }
+  ]
+}

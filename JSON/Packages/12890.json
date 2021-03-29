@@ -1,0 +1,32 @@
+{
+  "displayName": "Skeleton Rocket Cockpit Package",
+  "name": "Skeleton Rocket Cockpit Package",
+  "description": "Double-click to use!",
+  "internalNotes": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_green.png",
+  "table": [
+    {
+      "LootTableIndex": 568,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 100,
+      "items": [
+        {
+          "itemID": 12839,
+          "itemName": "MOD Rocket Skeleton Cockpit 1",
+          "itemDisplayName": "Morbid Orbit Rocket Cockpit"
+        },
+        {
+          "itemID": 12849,
+          "itemName": "MOD Rocket Skeleton Cockpit 2",
+          "itemDisplayName": "Starskull Rocket Cockpit"
+        },
+        {
+          "itemID": 12852,
+          "itemName": "MOD Rocket Skeleton Cockpit 3",
+          "itemDisplayName": "Terror Comet Rocket Cockpit"
+        }
+      ]
+    }
+  ]
+}

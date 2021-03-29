@@ -1,0 +1,35 @@
+{
+  "displayName": "",
+  "name": "Pod Captain 6 Pack",
+  "description": "Double-click to open this pack of rewards!",
+  "internalNotes": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_orange.png",
+  "table": [
+    {
+      "LootTableIndex": 437,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 100,
+      "items": [
+        {
+          "itemID": 10173,
+          "itemName": "Pod 6 Captain Shirt",
+          "itemDisplayName": "Pod 6 Captain Shirt"
+        }
+      ]
+    },
+    {
+      "LootTableIndex": 438,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 100,
+      "items": [
+        {
+          "itemID": 9582,
+          "itemName": "Model Reward Pod Model 6",
+          "itemDisplayName": "Pod 6 Model"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "displayName": "Premium Gem Pack",
+  "name": "CP Gem Surprise Pack",
+  "description": "Double-click to use!",
+  "internalNotes": "Mission reward that pulls from loot table - idea is to trade/sell to other players",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_black.png",
+  "table": [
+    {
+      "LootTableIndex": 588,
+      "maxToDrop": 5,
+      "minToDrop": 3,
+      "percent": 100,
+      "items": [
+        {
+          "itemID": 3100,
+          "itemName": "Amber Gem",
+          "itemDisplayName": "Amber Gem"
+        },
+        {
+          "itemID": 6865,
+          "itemName": "Light Blue Gem",
+          "itemDisplayName": "Light Blue Gem"
+        },
+        {
+          "itemID": 6866,
+          "itemName": "Pink Gem",
+          "itemDisplayName": "Pink Gem"
+        }
+      ]
+    },
+    {
+      "LootTableIndex": 589,
+      "maxToDrop": 3,
+      "minToDrop": 1,
+      "percent": 30,
+      "items": [
+        {
+          "itemID": 6862,
+          "itemName": "Dark Red Gem",
+          "itemDisplayName": "Dark Red Gem"
+        },
+        {
+          "itemID": 6863,
+          "itemName": "Yellow Gem",
+          "itemDisplayName": "Yellow Gem"
+        },
+        {
+          "itemID": 6864,
+          "itemName": "Green Gem",
+          "itemDisplayName": "Green Gem"
+        }
+      ]
+    },
+    {
+      "LootTableIndex": 590,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 0.01,
+      "items": [
+        {
+          "itemID": 6860,
+          "itemName": "Clear Gem",
+          "itemDisplayName": "Clear Gem"
+        },
+        {
+          "itemID": 6861,
+          "itemName": "Dark Blue Gem",
+          "itemDisplayName": "Dark Blue Gem"
+        }
+      ]
+    }
+  ]
+}

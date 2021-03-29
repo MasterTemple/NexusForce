@@ -1,0 +1,74 @@
+{
+  "displayName": "Rank 1 Engineer Kit Package",
+  "name": "Rank 1 Engineer Kit Package",
+  "description": "Double-click to get the Rank 1 Engineer Specialty Gear!",
+  "internalNotes": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/kits/kit_assembly.png",
+  "table": [
+    {
+      "LootTableIndex": 131,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 100,
+      "items": [
+        {
+          "itemID": 7382,
+          "itemName": "Engineer Legs 1",
+          "itemDisplayName": "Engineer Pants 1"
+        }
+      ]
+    },
+    {
+      "LootTableIndex": 132,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 100,
+      "items": [
+        {
+          "itemID": 7370,
+          "itemName": "Engineer Chest 1",
+          "itemDisplayName": "Engineer Shirt 1"
+        }
+      ]
+    },
+    {
+      "LootTableIndex": 133,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 100,
+      "items": [
+        {
+          "itemID": 7356,
+          "itemName": "Engineer Head 1",
+          "itemDisplayName": "Engineer Helmet 1"
+        }
+      ]
+    },
+    {
+      "LootTableIndex": 148,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 100,
+      "items": [
+        {
+          "itemID": 7394,
+          "itemName": "Engineer Weapon 1",
+          "itemDisplayName": "Engineer Wrench 1"
+        }
+      ]
+    },
+    {
+      "LootTableIndex": 376,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 100,
+      "items": [
+        {
+          "itemID": 130,
+          "itemName": "Rank 1 Engineer Book",
+          "itemDisplayName": null
+        }
+      ]
+    }
+  ]
+}

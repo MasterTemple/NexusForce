@@ -1,0 +1,32 @@
+{
+  "displayName": "Skeleton Rocket Nose Cone Package",
+  "name": "Skeleton Rocket Nosecone Package",
+  "description": "Double-click to use!",
+  "internalNotes": null,
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_blue.png",
+  "table": [
+    {
+      "LootTableIndex": 567,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 100,
+      "items": [
+        {
+          "itemID": 12838,
+          "itemName": "MOD Rocket Skeleton Nose Cone 1",
+          "itemDisplayName": "Morbid Orbit Rocket Nose Cone"
+        },
+        {
+          "itemID": 12848,
+          "itemName": "MOD Rocket Skeleton Nose Cone 2",
+          "itemDisplayName": "Starskull Rocket Nose Cone"
+        },
+        {
+          "itemID": 12851,
+          "itemName": "MOD Rocket Skeleton Nose Cone 3",
+          "itemDisplayName": "Terror Comet Rocket Nose Cone"
+        }
+      ]
+    }
+  ]
+}

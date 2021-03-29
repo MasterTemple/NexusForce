@@ -1,0 +1,22 @@
+{
+  "displayName": "Large Bag of Green Imaginite",
+  "name": "Large Green Imaginite Bag - Sentinel",
+  "description": "Contains 50 Green Imaginite",
+  "internalNotes": "Sold at Sentinel vendors",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/bag_blue_green.png",
+  "table": [
+    {
+      "LootTableIndex": 599,
+      "maxToDrop": 50,
+      "minToDrop": 50,
+      "percent": 100,
+      "items": [
+        {
+          "itemID": 3039,
+          "itemName": "Green Imaginite",
+          "itemDisplayName": "Green Imaginite"
+        }
+      ]
+    }
+  ]
+}

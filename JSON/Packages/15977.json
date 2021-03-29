@@ -1,0 +1,48 @@
+{
+  "displayName": "Shark Rocket Reward Pack",
+  "name": "Shark Rocket Reward Pack",
+  "description": "Double-click to open!",
+  "internalNotes": "Community Reward - 09 2011",
+  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_gray.png",
+  "table": [
+    {
+      "LootTableIndex": 816,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 100,
+      "items": [
+        {
+          "itemID": 14692,
+          "itemName": "MOD Rocket Shark Nose Cone",
+          "itemDisplayName": "Shark Rocket Nose Cone"
+        }
+      ]
+    },
+    {
+      "LootTableIndex": 817,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 100,
+      "items": [
+        {
+          "itemID": 14693,
+          "itemName": "MOD Rocket Shark Cockpit",
+          "itemDisplayName": "Shark Rocket Cockpit"
+        }
+      ]
+    },
+    {
+      "LootTableIndex": 818,
+      "maxToDrop": 1,
+      "minToDrop": 1,
+      "percent": 100,
+      "items": [
+        {
+          "itemID": 14694,
+          "itemName": "MOD Rocket Shark Engine",
+          "itemDisplayName": "Shark Rocket Engine"
+        }
+      ]
+    }
+  ]
+}
