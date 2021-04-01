@@ -20,7 +20,7 @@ module.exports = {
         let msgEmbed = require(`./../functions/embedTemplate.js`)
 
         if(args.length > 1 || isNaN(args[0])){
-            let findOne = require(`./../functions/findOneEnemy.js`)
+            let findOne = require(`./../functions/findOnePackage.js`)
             var objectID = findOne.execute(args)
             if(objectID===undefined){
                 message.channel.send("An object with this DisplayName or Name does not exist.")
@@ -46,6 +46,7 @@ module.exports = {
                 //var embed = msgEmbed.execute(packageFile.displayName, undefined, `https://lu-explorer.web.app/objects/${packageFile.id}`, packageFile.iconURL)
 
                 //console.log(packageFile)
+                var ltiNameFile = require(`./../json/Reference/LootTableIndexNames.json`)
 
                 for (var e = 0; e < packageFile.table.length; e++) {
                     //embed.addField(`${packageFile.dropStuff[e].percent}% Chance to Drop`, `${packageFile.dropStuff[e].destructibleComponents[0].displayName}[${packageFile.dropStuff[e].destructibleComponents[0].objectID}]`,true)
@@ -55,15 +56,22 @@ module.exports = {
                     //     console.log((packageFile.table[e].items))
                     // }
                     // embed.addField(`${packageFile.table[e].percent}% For ${packageFile.table[e].minToDrop}-${packageFile.table[e].maxToDrop}`, `LootTableIndex: ${packageFile.table[e].LootTableIndex}`, true)
+                    let ltiName;
+                    let lti = packageFile.table[e].LootTableIndex
+                    if(ltiNameFile.data[lti].Name !== undefined){
+                        ltiName = ltiNameFile.data[lti].Name
+                    }else{
+                        ltiName = ltiNameFile.data[lti].AlternateName
 
+                    }
                     if (packageFile.table[e].minToDrop === packageFile.table[e].maxToDrop) {
-                        //    embed.addField(`${packageFile.table[e].percent}% For ${packageFile.table[e].minToDrop}`, `LootTableIndex: ${packageFile.table[e].LootTableIndex}\nType: ${packageFile.table[e].type}`, true)
-                        embed.addField(`Drops ${packageFile.table[e].minToDrop}`, `${packageFile.table[e].percent}% Chance for LootTableIndex: ${packageFile.table[e].LootTableIndex}`, true)
-
+                        //    embed.addField(`${packageFile.table[e].percent}% For ${packageFile.table[e].minToDrop}`, `LootTableIndex: ${packageFile.table[e].LootTableIndex}\nType: Loot`, true)
+                        //embed.addField(`Drops ${packageFile.table[e].minToDrop}`, `${packageFile.table[e].percent}% Chance for LootTableIndex: ${packageFile.table[e].LootTableIndex}`, true)
+                        embed.addField(`${packageFile.table[e].minToDrop} Loot: ${packageFile.table[e].percent}%`, `${ltiName} [${lti}]`, true)
                     } else {
-                        //    embed.addField(`${packageFile.table[e].percent}% For ${packageFile.table[e].minToDrop}-${packageFile.table[e].maxToDrop}`, `LootTableIndex: ${packageFile.table[e].LootTableIndex}\nType: ${packageFile.table[e].type}`, true)
-                        embed.addField(`Drops ${packageFile.table[e].minToDrop}-${packageFile.table[e].maxToDrop}`, `${packageFile.table[e].percent}% Chance for LootTableIndex: ${packageFile.table[e].LootTableIndex}`, true)
-
+                        //    embed.addField(`${packageFile.table[e].percent}% For ${packageFile.table[e].minToDrop}-${packageFile.table[e].maxToDrop}`, `LootTableIndex: ${packageFile.table[e].LootTableIndex}\nType: Loot`, true)
+                        //embed.addField(`Drops ${packageFile.table[e].minToDrop}-${packageFile.table[e].maxToDrop}`, `${packageFile.table[e].percent}% Chance for LootTableIndex: ${packageFile.table[e].LootTableIndex}`, true)
+                        embed.addField(`${packageFile.table[e].minToDrop}-${packageFile.table[e].maxToDrop} Loot: ${packageFile.table[e].percent}%`, `${ltiName} [${lti}]`, true)
                     }
 
 

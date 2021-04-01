@@ -15,7 +15,7 @@ module.exports = {
                 console.error(error);
             }
         }
-        if(args.length > 1 || isNaN(args[0])){
+        if(args?.length > 1 || isNaN(args[0])){
             let findOne = require(`./../functions/findOneObject.js`)
             var itemID = findOne.execute(args)
             if(itemID===undefined){
@@ -64,7 +64,7 @@ module.exports = {
 
 
         let msgEmbed = require(`./../functions/embedTemplate.js`)
-        if(item.equipLocationNames.length === 1){
+        if(item.equipLocationNames?.length === 1){
             //var description = `**Equip Location:** ${item.equipLocationNames[0]}`
         }else{
             var description = `**Equip Locations:** ${item.equipLocationNames.join(`, `)}`
@@ -121,7 +121,7 @@ module.exports = {
 
 
 
-        if(item.isWeapon && item.allItems.length !== 1){
+        if(item.isWeapon && item.allItems?.length !== 1){
             embed.addFields(
                 {name: "Imagination Cost", value: item.abilityImaginationCost, inline: true},
                 {name: "Cooldown Time", value: `${item.cooldownTime} Seconds`, inline: true},

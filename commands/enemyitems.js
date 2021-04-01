@@ -28,6 +28,7 @@ module.exports = {
         }else{
             var objectID = args[0]
         }
+        var ltiNameFile = require(`./../json/Reference/LootTableIndexNames.json`)
 
         try{
             var enemyInfoFile = require(`./../json/groupEnemies/EnemyInfo/${objectID}.json`)
@@ -48,14 +49,26 @@ module.exports = {
                     //     console.log((enemyInfoFile.LootTable[e].items))
                     // }
                     // embed.addField(`${enemyInfoFile.LootTable[e].percent}% For ${enemyInfoFile.LootTable[e].minToDrop}-${enemyInfoFile.LootTable[e].maxToDrop}`, `LootTableIndex: ${enemyInfoFile.LootTable[e].LootTableIndex}`, true)
+                    let ltiName;
+                    let lti = enemyInfoFile.LootTable[e].LootTableIndex
+                    if(ltiNameFile.data[lti].Name !== undefined){
+                        ltiName = ltiNameFile.data[lti].Name
+                    }else{
+                        ltiName = ltiNameFile.data[lti].AlternateName
+
+                    }
 
                     if (enemyInfoFile.LootTable[e].minToDrop === enemyInfoFile.LootTable[e].maxToDrop) {
                     //    embed.addField(`${enemyInfoFile.LootTable[e].percent}% For ${enemyInfoFile.LootTable[e].minToDrop}`, `LootTableIndex: ${enemyInfoFile.LootTable[e].LootTableIndex}\nType: ${enemyInfoFile.LootTable[e].type}`, true)
-                        embed.addField(`${enemyInfoFile.LootTable[e].type}: Drops ${enemyInfoFile.LootTable[e].minToDrop}`, `${enemyInfoFile.LootTable[e].percent}% Chance for LootTableIndex: ${enemyInfoFile.LootTable[e].LootTableIndex}`, true)
+                    //     embed.addField(`${enemyInfoFile.LootTable[e].type}: Drops ${enemyInfoFile.LootTable[e].minToDrop}`, `${enemyInfoFile.LootTable[e].percent}% Chance for LootTableIndex: ${enemyInfoFile.LootTable[e].LootTableIndex}`, true)
+                        //embed.addField(`${enemyInfoFile.LootTable[e].type}: Drops ${enemyInfoFile.LootTable[e].minToDrop}`, `${enemyInfoFile.LootTable[e].percent}% Chance for: ${ltiName}`, true)
+                        embed.addField(`${enemyInfoFile.LootTable[e].minToDrop} ${enemyInfoFile.LootTable[e].type}: ${enemyInfoFile.LootTable[e].percent}%`, `${ltiName} [${lti}]`, true)
 
                     } else {
                     //    embed.addField(`${enemyInfoFile.LootTable[e].percent}% For ${enemyInfoFile.LootTable[e].minToDrop}-${enemyInfoFile.LootTable[e].maxToDrop}`, `LootTableIndex: ${enemyInfoFile.LootTable[e].LootTableIndex}\nType: ${enemyInfoFile.LootTable[e].type}`, true)
-                        embed.addField(`${enemyInfoFile.LootTable[e].type}: Drops ${enemyInfoFile.LootTable[e].minToDrop}-${enemyInfoFile.LootTable[e].maxToDrop}`, `${enemyInfoFile.LootTable[e].percent}% Chance for LootTableIndex: ${enemyInfoFile.LootTable[e].LootTableIndex}`, true)
+                    //     embed.addField(`${enemyInfoFile.LootTable[e].type}: Drops ${enemyInfoFile.LootTable[e].minToDrop}-${enemyInfoFile.LootTable[e].maxToDrop}`, `${enemyInfoFile.LootTable[e].percent}% Chance for LootTableIndex: ${enemyInfoFile.LootTable[e].LootTableIndex}`, true)
+                        //embed.addField(`${enemyInfoFile.LootTable[e].type}: Drops ${enemyInfoFile.LootTable[e].minToDrop}-${enemyInfoFile.LootTable[e].maxToDrop}`, `${enemyInfoFile.LootTable[e].percent}% Chance for: ${ltiName}`, true)
+                        embed.addField(`${enemyInfoFile.LootTable[e].minToDrop}-${enemyInfoFile.LootTable[e].maxToDrop} ${enemyInfoFile.LootTable[e].type}: ${enemyInfoFile.LootTable[e].percent}%`, `${ltiName} [${lti}]`, true)
 
                     }
 
