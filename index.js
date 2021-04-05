@@ -3,10 +3,12 @@ const fs = require('fs');
 const client = new Discord.Client();
 client.commands = new Discord.Collection();
 client.mythranCommands = new Discord.Collection();
+client.contributorCommands = new Discord.Collection();
 const commandFiles = fs.readdirSync('./commands').filter(file => file.endsWith('.js'));
 const mythranCommandFiles = fs.readdirSync('./mythranCommands').filter(file => file.endsWith('.js'));
+const contributorCommandFiles = fs.readdirSync('./contributorCommands').filter(file => file.endsWith('.js'));
 
-const {prefix, token, startupStatus, botInfo, mythran} = require('./config.json');
+const {prefix, token, startupStatus, botInfo, mythran, contributor} = require('./config.json');
 
 for (const file of commandFiles) {
     const command = require(`./commands/${file}`);
@@ -18,6 +20,13 @@ for (const file of mythranCommandFiles) {
     const mythranCommand = require(`./mythranCommands/${file}`);
     for(var i=0; i < mythranCommand.name.length; i++) {
         client.mythranCommands.set(mythranCommand.name[i], mythranCommand);
+    }
+}
+
+for (const file of contributorCommandFiles) {
+    const contributorCommand = require(`./contributorCommands/${file}`);
+    for(var i=0; i < contributorCommand.name.length; i++) {
+        client.contributorCommands.set(contributorCommand.name[i], contributorCommand);
     }
 }
 
@@ -48,6 +57,22 @@ client.on('message', message => {
         }
     }else if(client.mythranCommands.has(commandName)){
         message.reply("You're not a Mythran! Get back to smashing the Maelstrom!")
+    }
+
+    if (client.contributorCommands.has(commandName) && contributor.includes(message.author.id)){
+        const command = client.contributorCommands.get(commandName);
+        try {
+            command.execute(message);
+        } catch (error) {
+            try {
+                command.execute(message, args);
+            } catch (error) {
+                console.error(error);
+                message.reply('There was an issue executing that command! 😭');
+            }
+        }
+    }else if(client.contributorCommands.has(commandName)){
+        message.reply("You're not a contributor! Get back to smashing the Maelstrom!")
     }
 
 

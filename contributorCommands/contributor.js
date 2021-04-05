@@ -1,6 +1,6 @@
 module.exports = {
-    name: ['mythran'],
-    description: 'Displays mythran commands and what each one does',
+    name: ['contributor'],
+    description: 'Displays contributor commands and what each one does',
     args: true,
     use: `help optional:[commandName]`,
     example:[`help`, `help type`],
@@ -18,7 +18,7 @@ module.exports = {
 
         const helpEmbed = new Discord.MessageEmbed()
 
-        const commandFiles = fs.readdirSync('./mythranCommands').filter(file => file.endsWith('.js'));
+        const commandFiles = fs.readdirSync('./contributorCommands').filter(file => file.endsWith('.js'));
         var desc = ``
         //const exclude = ["help", "items", "setpfp", "status", "play"]
 
@@ -53,7 +53,7 @@ module.exports = {
                 var command
                 dance:
                     for (const file of commandFiles) {
-                        command = require(`./../mythranCommands/${file}`);
+                        command = require(`./../contributorCommands/${file}`);
                         for(var i=0; i < command.name.length; i++) {
                             if(command.name[i]==args[0]){
                                 break dance
@@ -86,14 +86,14 @@ module.exports = {
                 for (const file of commandFiles) {
                     const command = require(`./${file}`);
                     //if (!exclude.includes(command.name)) {
-                        desc = (`${desc}**`)
+                    desc = (`${desc}**`)
 
-                        for (var i = 0; i < command.name.length; i++) {
-                            desc = (`${desc}${prefix}${command.name[i]} `)
-                        }
-                        //if(i == command.name.length) {
-                        desc = (`${desc}**${command.description}\n`)
-                        //}
+                    for (var i = 0; i < command.name.length; i++) {
+                        desc = (`${desc}${prefix}${command.name[i]} `)
+                    }
+                    //if(i == command.name.length) {
+                    desc = (`${desc}**${command.description}\n`)
+                    //}
 
                     //}
                 }
