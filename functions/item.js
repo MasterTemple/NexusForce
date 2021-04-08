@@ -40,7 +40,7 @@ module.exports = {
         if(item.internalNotes === null){
             item.internalNotes = "None"
         }
-        if(item?.itemComponent?.buyPrice){
+        if(item?.itemComponent?.buyPrice == null){
             item.itemComponent.buyPrice = 0
         }
 
@@ -51,7 +51,7 @@ module.exports = {
         }else{
             var description = `**Equip Locations:** ${item?.itemComponent?.equipLocationNames?.join(`, `)}`
         }
-        let embed = msgEmbed.execute(`${item.displayName} [${item.itemID}]`, description, `https://lu-explorer.web.app/objects/${item.itemID}`, item.iconURL)
+        let embed = msgEmbed.execute(`${item.itemInfo.displayName} [${item.objectID}]`, description, `https://lu-explorer.web.app/objects/${item.objectID}`, item.iconURL)
 
         embed.addFields(
             { name: 'Name', value: item?.itemInfo?.name, inline: true },
@@ -126,19 +126,20 @@ module.exports = {
             )
         }
 
-        if(item.factionTokens !== null){
+
+        if(item.itemComponent.altCurrencyCost !== null){
             embed.addFields(
                 {name: "Cost", value: item.itemComponent.buyPrice, inline: true},
-                {name: "Faction Token Cost", value: item.factionTokens, inline: true},
+                {name: `${item.itemComponent.altCurrencyDisplayName} Cost`, value: item.itemComponent.altCurrencyCost, inline: true},
                 {name: "Level Requirement", value: item.itemComponent.levelRequirement, inline: true},
             )
-        }else if(item.commendationCost !== null){
+        }else if(item.itemComponent.commendationCurrencyCost !== null){
             embed.addFields(
                 {name: "Cost", value: item.itemComponent.buyPrice, inline: true},
-                {name: "Commendation Cost", value: `${item.commendationCost} Faction Tokens`, inline: true},
+                {name: `${item.itemComponent.commendationCurrencyDisplayName} Cost`, value: item.itemComponent.commendationCurrencyCost, inline: true},
                 {name: "Level Requirement", value: item.itemComponent.levelRequirement, inline: true},
             )
-        }else if(item.commendationCost === null){
+        }else if(item.itemComponent.commendationCurrencyCost === null){
             embed.addFields(
                 {name: "Cost", value: item.itemComponent.buyPrice, inline: true},
                 {name: "Stack Size", value: item.itemComponent.stackSize, inline: true},

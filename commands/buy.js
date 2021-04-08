@@ -38,29 +38,23 @@ module.exports = {
         //let embed = msgEmbed.execute(buyFile.displayName, undefined,`https://lu-explorer.web.app/objects/${buyFile.objectID}`, buyFile.iconURL)
         let embed = msgEmbed.execute(`${buyFile.itemInfo.displayName} [${buyFile.objectID}]`, undefined,`https://lu-explorer.web.app/objects/${buyFile.objectID}`, buyFile.iconURL)
 
-        if(buyFile.factionTokens !== null && buyFile.factionTokens !== undefined){
+        if(buyFile.itemComponent.altCurrencyCost !== null){
             embed.addFields(
-                {name: "Cost", value: buyFile.price, inline: true},
-                {name: "Faction Token Cost", value: buyFile.factionTokens, inline: true},
+                {name: "Cost", value: buyFile.itemComponent.buyPrice, inline: true},
+                {name: `${buyFile.itemComponent.altCurrencyDisplayName} Cost`, value: buyFile.itemComponent.altCurrencyCost, inline: true},
                 {name: "Level Requirement", value: buyFile.itemComponent.levelRequirement, inline: true},
             )
-        }else if(buyFile.commendationCost !== null && buyFile.commendationCost !== undefined){
+        }else if(buyFile.itemComponent.commendationCurrencyCost !== null){
             embed.addFields(
-                {name: "Cost", value: buyFile.price, inline: true},
-                {name: "Commendation Cost", value: `${buyFile.commendationCost} Faction Tokens`, inline: true},
-                {name: "Level Requirement", value: buyFile.levelRequirement, inline: true},
+                {name: "Cost", value: buyFile.itemComponent.buyPrice, inline: true},
+                {name: `${buyFile.itemComponent.commendationCurrencyDisplayName} Cost`, value: buyFile.itemComponent.commendationCurrencyCost, inline: true},
+                {name: "Level Requirement", value: buyFile.itemComponent.levelRequirement, inline: true},
             )
-        }else if(buyFile.commendationCost === null){
+        }else if(buyFile.itemComponent.commendationCurrencyCost === null){
             embed.addFields(
-                {name: "Cost", value: buyFile.price, inline: true},
-                {name: "Stack Size", value: buyFile.stackSize, inline: true},
-                {name: "Level Requirement", value: buyFile.levelRequirement, inline: true},
-            )
-        }else if(buyFile.type === "LEGO brick"){
-            embed.addFields(
-                {name: "Cost", value: buyFile.price, inline: true},
-                {name: "Stack Size", value: buyFile.stackSize, inline: true},
-                {name: "Level Requirement", value: buyFile.levelRequirement, inline: true},
+                {name: "Cost", value: buyFile.itemComponent.buyPrice, inline: true},
+                {name: "Stack Size", value: buyFile.itemComponent.stackSize, inline: true},
+                {name: "Level Requirement", value: buyFile.itemComponent.levelRequirement, inline: true},
             )
         }
 
@@ -72,9 +66,9 @@ module.exports = {
             buyFile.commendationVendor = []
         }
         for(var e=0;e<buyFile.buyAndDrop.Vendors.length;e++){
-
-            vendorInfo = `${vendorInfo}${buyFile.buyAndDrop.Vendors[e].displayName} [${buyFile.buyAndDrop.Vendors[e].id}]\n`
-
+            if(buyFile.buyAndDrop.Vendors[e].displayName !== null) {
+                vendorInfo = `${vendorInfo}${buyFile.buyAndDrop.Vendors[e].displayName} [${buyFile.buyAndDrop.Vendors[e].id}]\n`
+            }
         }
 
         if(buyFile.buyAndDrop.Vendors.length === 1){
