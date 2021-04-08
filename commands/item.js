@@ -1,11 +1,32 @@
 module.exports = {
-    name: ['item'],
+    name: ['item', 'loot'],
     description: 'Info about an item in LEGO Universe',
     args: true,
     use: `item [id]`,
     example: [`item 7415`],
-    execute(message, id) {
-        const itemID = id
+    execute(message, args) {
+        function err() {
+            try {
+                //const help = require(`./help.js`);
+                //help.execute(message, module.exports.name)
+                console.log(`fail`)
+                return
+            } catch (error) {
+                console.error(error);
+            }
+        }
+        if(args.length > 1 || isNaN(args[0])){
+            let findOne = require(`./../functions/findOneItem.js`)
+            var itemID = findOne.execute(args)
+            if(itemID===undefined){
+                message.channel.send("An object with this DisplayName or Name does not exist.")
+                err()
+                return
+            }
+        }else{
+            var itemID = args[0]
+        }
+        // const itemID = id
         const item = require(`./../output/objects/${Math.floor(itemID/256)}/${itemID}.json`);
         const {emojis} = require('./../config.json');
 
@@ -65,13 +86,13 @@ module.exports = {
             }
         }
 
-        let msgEmbed = require(`./embedTemplate.js`)
+        let msgEmbed = require(`./../functions/embedTemplate.js`)
         if(item?.equipLocationNames?.length === 1){
             //var description = `**Equip Location:** ${item.equipLocationNames[0]}`
         }else{
             var description = `**Equip Locations:** ${item?.itemComponent?.equipLocationNames?.join(`, `)}`
         }
-        let embed = msgEmbed.execute(`${item.itemInfo.displayName} [${item.objectID}]`, description, `https://lu-explorer.web.app/objects/${item.objectID}`, item.iconURL)
+        let embed = msgEmbed.execute(`${item.itemInfo.displayName} [${item.objectID}]`, description, `https://lu-explorer.web.app/objects/${item.itemID}`, item.iconURL)
 
         embed.addFields(
             { name: 'Name', value: item.itemInfo.name, inline: true },
@@ -88,7 +109,7 @@ module.exports = {
                     {name: item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.info?.name, value: item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.info?.Description, inline: false},
                 )
                 embed.addFields(
-                    {name: "Imagination Cost", value: item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.imaginationcost, inline: true},
+                    {name: "Ability Cost", value: `${item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.imaginationcost} Imagination`, inline: true},
                     {name: "Cooldown", value: `${item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.cooldown} Seconds`, inline: true},
                     {name: "Cooldown Group", value: item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.cooldowngroup, inline: true},
                 )
@@ -101,14 +122,38 @@ module.exports = {
                     {name: item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.info?.name, value: item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.info?.rawDescription, inline: false},
                 )
                 embed.addFields(
-                    {name: "Imagination Cost", value: item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.imaginationcost, inline: true},
+                    {name: "Ability Cost", value: `${item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.imaginationcost} Imagination`, inline: true},
                     {name: "Cooldown", value: `${item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.cooldown} Seconds`, inline: true},
                     {name: "Cooldown Group", value: item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.cooldowngroup, inline: true},
                 )
             }
             if(item.itemComponent.equipLocation[0] === 'special_r' && item['objectSkills'][Object.keys(item.objectSkills)[skill]]['castOnType'] === 0){
                 //console.log(item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']])
-                if(item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.damageComboArray) {
+                if(item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.projectileDamageComboArray) {
+                    let projectileArray = item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.projectileDamageComboArray
+                    if(item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.hasChargeUp && (item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.chargeUpArmorRestore.length !== 0 || item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.chargeUpImaginationRestore.length !== 0) && item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.projectileChargeUpDamage > 0){
+                        projectileArray.unshift(item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.projectileChargeUpDamage)
+                    }
+
+                    embed.addFields(
+                        {
+                            name: item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.info?.name,
+                            value: projectileArray.join('+'),
+                            inline: true
+                        },
+                        {
+                            name: "Single Jump Smash",
+                            value: `${item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.singleJumpSmash} Damage`,
+                            inline: true
+                        },
+                        {
+                            name: "Double Jump Smash",
+                            value: `${item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.doubleJumpSmash} Damage`,
+                            inline: true
+                        },
+                    )
+                }
+                else if(item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.damageComboArray) {
                     embed.addFields(
                         {
                             name: item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.info?.name,
@@ -117,18 +162,19 @@ module.exports = {
                         },
                         {
                             name: "Single Jump Smash",
-                            value: item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.singleJumpSmash,
+                            value: `${item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.singleJumpSmash} Damage`,
                             inline: true
                         },
                         {
                             name: "Double Jump Smash",
-                            value: item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.doubleJumpSmash,
+                            value: `${item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.doubleJumpSmash} Damage`,
                             inline: true
                         },
                     )
                 }
 
-                if(item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.hasChargeUp) {
+
+                if(item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.hasChargeUp && item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.chargeUpArmorRestore.length === 0 && item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.chargeUpImaginationRestore.length === 0) {
                     embed.addFields(
                         {
                             name: "Charge Up",
@@ -137,12 +183,50 @@ module.exports = {
                         },
                         {
                             name: "Charge Up Cost",
-                            value: Math.abs(item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.chargeUpCost),
+                            value: `${Math.abs(item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.chargeUpCost)} Imagination`,
                             inline: true
                         },
                         {
-                            name: "Extra",
+                            name: "Charge Up Damage",
                             value: item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.chargeUpCombo,
+                            inline: true
+                        },
+                    )
+                }
+                if(item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.hasChargeUp && item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.chargeUpArmorRestore.length === 0 && item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.chargeUpImaginationRestore.length !== 0) {
+                    embed.addFields(
+                        {
+                            name: "Charge Up",
+                            value: item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.info?.ChargeUp,
+                            inline: true
+                        },
+                        {
+                            name: "Charge Up Cost",
+                            value: `0 Imagination`,
+                            inline: true
+                        },
+                        {
+                            name: "Imagination Restored",
+                            value: item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.chargeUpImaginationRestore.join(` -> `),
+                            inline: true
+                        },
+                    )
+                }
+                if(item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.hasChargeUp && item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.chargeUpArmorRestore.length !== 0 && item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.chargeUpImaginationRestore.length === 0) {
+                    embed.addFields(
+                        {
+                            name: "Charge Up",
+                            value: item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.info?.ChargeUp,
+                            inline: true
+                        },
+                        {
+                            name: "Charge Up Cost",
+                            value: `0 Imagination`,
+                            inline: true
+                        },
+                        {
+                            name: "Armor Restored",
+                            value: item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.chargeUpArmorRestore.join(` -> `),
                             inline: true
                         },
                     )
@@ -161,7 +245,7 @@ module.exports = {
                     {name: item['proxySkills'][Object.keys(item.proxySkills)[skill]]?.info?.name, value: item['proxySkills'][Object.keys(item.proxySkills)[skill]]?.info?.Description, inline: false},
                 )
                 embed.addFields(
-                    {name: "Imagination Cost", value: item['proxySkills'][Object.keys(item.proxySkills)[skill]]?.imaginationcost, inline: true},
+                    {name: "Ability Cost", value: `${item['proxySkills'][Object.keys(item.proxySkills)[skill]]?.imaginationcost} Imagination`, inline: true},
                     {name: "Cooldown", value: `${item['proxySkills'][Object.keys(item.proxySkills)[skill]]?.cooldown} Seconds`, inline: true},
                     {name: "Cooldown Group", value: item['proxySkills'][Object.keys(item.proxySkills)[skill]]?.cooldowngroup, inline: true},
                 )
@@ -174,7 +258,7 @@ module.exports = {
                     {name: item['proxySkills'][Object.keys(item.proxySkills)[skill]]?.info?.name, value: item['proxySkills'][Object.keys(item.proxySkills)[skill]]?.info?.rawDescription, inline: false},
                 )
                 embed.addFields(
-                    {name: "Imagination Cost", value: item['proxySkills'][Object.keys(item.proxySkills)[skill]]?.imaginationcost, inline: true},
+                    {name: "Ability Cost", value: `${item['proxySkills'][Object.keys(item.proxySkills)[skill]]?.imaginationcost} Imagination`, inline: true},
                     {name: "Cooldown", value: `${item['proxySkills'][Object.keys(item.proxySkills)[skill]]?.cooldown} Seconds`, inline: true},
                     {name: "Cooldown Group", value: item['proxySkills'][Object.keys(item.proxySkills)[skill]]?.cooldowngroup, inline: true},
                 )
@@ -232,7 +316,7 @@ module.exports = {
 
 
 
-            if(item.isWeapon && item.allItems.length !== 1){
+        if(item.isWeapon && item.allItems.length !== 1){
             embed.addFields(
                 {name: "Imagination Cost", value: item.abilityImaginationCost, inline: true},
                 {name: "Cooldown Time", value: `${item.cooldownTime} Seconds`, inline: true},
