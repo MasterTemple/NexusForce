@@ -16,7 +16,7 @@ module.exports = {
             }
         }
         if(args.length > 1 || isNaN(args[0])){
-            let findOne = require(`./../functions/findOneObject.js`)
+            let findOne = require(`./old_functions/findOneObject.js`)
             var objectID = findOne.execute(args)
             if(objectID===undefined){
                 message.channel.send("An object with this DisplayName or Name does not exist.")
@@ -26,7 +26,7 @@ module.exports = {
         }else{
             var objectID = args[0]
         }
-        let msgEmbed = require(`./../functions/embedTemplate.js`)
+        let msgEmbed = require(`./old_functions/embedTemplate.js`)
         var earnFile = require(`./../json/Drops/EarnFromMission/${Math.floor(objectID/256)}/${objectID}.json`)
 
         //let embed = msgEmbed.execute(earnFile.displayName, undefined,`https://lu-explorer.web.app/objects/${earnFile.itemID}`, earnFile.iconURL)

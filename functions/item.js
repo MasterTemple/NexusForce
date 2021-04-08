@@ -6,30 +6,30 @@ module.exports = {
     example: [`item 7415`],
     execute(message, id) {
         const itemID = id
-        const item = require(`./../json/Items/${Math.floor(itemID/256)}/${itemID}.json`);
+        const item = require(`./../output/objects/${Math.floor(itemID/256)}/${itemID}.json`);
         const {emojis} = require('./../config.json');
 
         console.log(item)
 
         // message.channel.send(`\`\`\`${JSON.stringify(item,null,2)}\`\`\``)
 
-        if(item.Armor === undefined){
-            item.Armor = 0
+        if(item?.stats?.lifeBonusUI === undefined){
+            item.stats.lifeBonusUI = 0
         }
-        if(item.Health === undefined){
-            item.Health = 0
+        if(item?.stats?.armorBonusUI === undefined){
+            item.stats.armorBonusUI = 0
         }
-        if(item.Imagination === undefined){
-            item.Imagination = 0
+        if(item?.stats?.imBonusUI === undefined){
+            item.stats.imBonusUI = 0
         }
-        if(item.description === null){
-            item.description = "None"
+        if(item?.itemInfo?.description === null){
+            item.itemInfo.description = "None"
         }
-        if(item.internalNotes === null){
-            item.internalNotes = "None"
+        if(item?.itemInfo?.internalNotes === null){
+            item.itemInfo.internalNotes = "None"
         }
-        if(item.levelRequirement === null){
-            item.levelRequirement = "None"
+        if(item?.itemComponent?.levelRequriement === null){
+            item.itemComponent.levelRequirement = 0
         }
         if(item.name === null){
             item.name = "None"
@@ -40,20 +40,23 @@ module.exports = {
         if(item.internalNotes === null){
             item.internalNotes = "None"
         }
+        if(item?.itemComponent?.buyPrice){
+            item.itemComponent.buyPrice = 0
+        }
 
 
         let msgEmbed = require(`./embedTemplate.js`)
         if(item?.equipLocationNames?.length === 1){
             //var description = `**Equip Location:** ${item.equipLocationNames[0]}`
         }else{
-            var description = `**Equip Locations:** ${item?.equipLocationNames?.join(`, `)}`
+            var description = `**Equip Locations:** ${item?.itemComponent?.equipLocationNames?.join(`, `)}`
         }
         let embed = msgEmbed.execute(`${item.displayName} [${item.itemID}]`, description, `https://lu-explorer.web.app/objects/${item.itemID}`, item.iconURL)
 
         embed.addFields(
-            { name: 'Name', value: item.name, inline: true },
-            { name: 'Description', value: item.description, inline: true },
-            { name: 'Internal Notes', value: item.internalNotes, inline: true },
+            { name: 'Name', value: item?.itemInfo?.name, inline: true },
+            { name: 'Description', value: item?.itemInfo?.description, inline: true },
+            { name: 'Internal Notes', value: item?.itemInfo?.internalNotes, inline: true },
         )
 
 
@@ -64,19 +67,26 @@ module.exports = {
                 // { name: item.abilityName, value: item.localeDescription, inline: true },
             )
         }
+        if(item.isWeapon === false && item.abilityName !== undefined && item.equipLocation[0] !== "chest" && item.equipLocation[0] !== "legs" && item.localeDescription !== undefined){
+            embed.addFields(
+                {name: item.abilityName, value: item.localeDescription, inline: false},
+                // { name: item.abilityName, value: item.localeDescription, inline: true },
+                // { name: item.abilityName, value: item.localeDescription, inline: true },
+            )
+        }
         embed.addFields(
-            { name: `${emojis.armor} Armor`, value: item.Armor, inline: true },
-            { name: `${emojis.heart} Health`, value: item.Health, inline: true },
-            { name: `${emojis.imagination} Imagination`, value: item.Imagination, inline: true },
+            { name: `${emojis.armor} Armor`, value: item?.stats?.lifeBonusUI, inline: true },
+            { name: `${emojis.heart} Health`, value: item?.stats?.armorBonusUI, inline: true },
+            { name: `${emojis.imagination} Imagination`, value: item?.stats?.imBonusUI, inline: true },
         )
 
-        if(item.isWeapon === true && item.projectileDamageInfo.projectileDamageCombo === ""){
+        if(item.overview.length == 1  === true && item.projectileDamageInfo.projectileDamageCombo === ""){
             embed.addFields(
                 {name: "Damage Combo", value: item.meleeDamageInfo.damageCombo, inline: true},
                 {name: "Singe Jump Smash", value: item.meleeDamageInfo.singleJumpSmash, inline: true},
                 {name: "Double Jump Smash", value: item.meleeDamageInfo.doubleJumpSmash, inline: true},
             )
-        }else if(item.isWeapon === true && item.projectileDamageInfo.projectileDamageCombo !== ""){
+        }else if(item.overview.length == 1  && item.projectileDamageInfo.projectileDamageCombo !== ""){
             embed.addFields(
                 {name: "Damage Combo", value: item.projectileDamageInfo.projectileDamageCombo, inline: true},
                 {name: "Singe Jump Smash", value: item.meleeDamageInfo.singleJumpSmash, inline: true},
@@ -84,13 +94,13 @@ module.exports = {
             )
         }
 
-        if(item.isWeapon && item.meleeDamageInfo.chargeUpDamage !== undefined && item.projectileDamageInfo.chargeUpIsProjectile === false){
+        if(item.overview.length == 1 && item.meleeDamageInfo.chargeUpDamage !== undefined && item.projectileDamageInfo.chargeUpIsProjectile === false){
             embed.addFields(
                 {name: "Charge Up Ability", value: item.chargeUpDescription, inline: true},
                 {name: "Charge Up Damage", value: item.meleeDamageInfo.chargeUpDamage, inline: true},
                 {name: "Charge Up Cost", value: `${item.meleeDamageInfo.chargeUpImaginationCost} Imagination`, inline: true},
             )
-        }else if(item.isWeapon && item.meleeDamageInfo.chargeUpDamage !== undefined && item.projectileDamageInfo.chargeUpIsProjectile){
+        }else if(item.overview.length == 1  && item.meleeDamageInfo.chargeUpDamage !== undefined && item.projectileDamageInfo.chargeUpIsProjectile){
             embed.addFields(
                 {name: "Charge Up Ability", value: item.chargeUpDescription, inline: true},
                 {name: "Charge Up Damage", value: item.projectileDamageInfo.chargeUpDamage, inline: true},
@@ -118,21 +128,21 @@ module.exports = {
 
         if(item.factionTokens !== null){
             embed.addFields(
-                {name: "Cost", value: item.price, inline: true},
+                {name: "Cost", value: item.itemComponent.buyPrice, inline: true},
                 {name: "Faction Token Cost", value: item.factionTokens, inline: true},
-                {name: "Level Requirement", value: item.levelRequirement, inline: true},
+                {name: "Level Requirement", value: item.itemComponent.levelRequirement, inline: true},
             )
         }else if(item.commendationCost !== null){
             embed.addFields(
-                {name: "Cost", value: item.price, inline: true},
+                {name: "Cost", value: item.itemComponent.buyPrice, inline: true},
                 {name: "Commendation Cost", value: `${item.commendationCost} Faction Tokens`, inline: true},
-                {name: "Level Requirement", value: item.levelRequirement, inline: true},
+                {name: "Level Requirement", value: item.itemComponent.levelRequirement, inline: true},
             )
         }else if(item.commendationCost === null){
             embed.addFields(
-                {name: "Cost", value: item.price, inline: true},
-                {name: "Stack Size", value: item.stackSize, inline: true},
-                {name: "Level Requirement", value: item.levelRequirement, inline: true},
+                {name: "Cost", value: item.itemComponent.buyPrice, inline: true},
+                {name: "Stack Size", value: item.itemComponent.stackSize, inline: true},
+                {name: "Level Requirement", value: item.itemComponent.levelRequirement, inline: true},
             )
         }
 

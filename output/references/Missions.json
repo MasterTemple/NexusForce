@@ -4,77 +4,77 @@
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Discover the Cave of Black Echoes",
-        "description": "Unavailable"
+        "description": "Discover the Cave of Black Echoes."
     },
     {
         "id": 2049,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Discover the Cave of White Whispers",
-        "description": "Unavailable"
+        "description": "Discover the Cave of White Whispers."
     },
     {
         "id": 2050,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Discover the Ice Shrine",
-        "description": "Unavailable"
+        "description": "Discover the Ice Shrine in the caves below the Ninjago Monastery."
     },
     {
         "id": 2051,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Discover the Lightning Shrine",
-        "description": "Unavailable"
+        "description": "Discover the Lightning Shrine in the caves below the Ninjago Monastery."
     },
     {
         "id": 2052,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Discover the Fire Shrine",
-        "description": "Unavailable"
+        "description": "Discover the Fire Shrine in the caves below the Ninjago Monastery."
     },
     {
         "id": 2053,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Secrets of Earth Spinjitzu",
-        "description": "Unavailable"
+        "description": "Learn to use Earth Spinjitzu Lanterns and burrow into the earth!"
     },
     {
         "id": 2054,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Secrets of Lightning Spinjitzu",
-        "description": "Unavailable"
+        "description": "Learn to use Lightning Spinjitzu Lanterns and zap across sheer drops!"
     },
     {
         "id": 2055,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Secrets of Ice Spinjitzu",
-        "description": "Unavailable"
+        "description": "Learn to use Ice Spinjitzu Lanterns and smash boulders of ice!"
     },
     {
         "id": 2056,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Secrets of Fire Spinjitzu",
-        "description": "Unavailable"
+        "description": "Learn to use Fire Spinjitzu Lanterns and blast up into the air!"
     },
     {
         "id": 12,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Pirate Flag Hunter",
-        "description": "Unavailable"
+        "description": "Collect 10 Heart Flags in Gnarled Forest."
     },
     {
         "id": 13,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "Ninja Flag Hunter",
-        "description": "Unavailable"
+        "description": "Collect 10 Heart Flags in Forbidden Valley."
     },
     {
         "id": 2061,
@@ -88,7 +88,7 @@
         "defined_type": "Battle",
         "defined_subtype": "General",
         "name": "Smashing Success 1",
-        "description": "Unavailable"
+        "description": "Smash 25 smashables."
     },
     {
         "id": 2062,
@@ -109,7 +109,7 @@
         "defined_type": "Battle",
         "defined_subtype": "General",
         "name": "Smashing Success 2",
-        "description": "Unavailable"
+        "description": "Smash 100 more smashables."
     },
     {
         "id": 2064,
@@ -123,7 +123,7 @@
         "defined_type": "Battle",
         "defined_subtype": "General",
         "name": "Smashing Success 3",
-        "description": "Unavailable"
+        "description": "Smash 1000 more Smashables."
     },
     {
         "id": 2065,
@@ -137,7 +137,7 @@
         "defined_type": "Battle",
         "defined_subtype": "General",
         "name": "Smashing Success",
-        "description": "Unavailable"
+        "description": "Smash 10,000 more smashables."
     },
     {
         "id": 2066,
@@ -158,21 +158,21 @@
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Fight in the Shade 1",
-        "description": "Unavailable"
+        "description": "Quick Build 5 Archery Targets on the Ninjago Battlefield."
     },
     {
         "id": 2069,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Fight in the Shade 2",
-        "description": "Unavailable"
+        "description": "Quick Build 25 more Archery Targets on the Ninjago Battlefield."
     },
     {
         "id": 2070,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Just a Fling 1",
-        "description": "Unavailable"
+        "description": "Quick Build 5 Catapults on the Ninjago Battlefield."
     },
     {
         "id": 2071,
@@ -193,7 +193,7 @@
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Just a Fling 2",
-        "description": "Unavailable"
+        "description": "Quick Build 25 more Catapults on the Ninjago Battlefield."
     },
     {
         "id": 2074,
@@ -228,70 +228,70 @@
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "A Creative Opportunity",
-        "description": "Unavailable"
+        "description": "Collect the Imagination Brick in Nimbus Station."
     },
     {
         "id": 81,
         "defined_type": "Build",
         "defined_subtype": null,
         "name": "A Worthy Builder 1",
-        "description": "Unavailable"
+        "description": "Complete any 10 Quick Builds."
     },
     {
         "id": 82,
         "defined_type": "Build",
         "defined_subtype": null,
         "name": "A Worthy Builder 2",
-        "description": "Unavailable"
+        "description": "Complete 100 more Quick Builds."
     },
     {
         "id": 83,
         "defined_type": "Play",
         "defined_subtype": "Shooting Galleries",
         "name": "Pirate Sharpshooter 1",
-        "description": "Unavailable"
+        "description": "Score a cumulative total of 1,000,000 points in Cannon Cove Shooting Gallery."
     },
     {
         "id": 84,
         "defined_type": "Build",
         "defined_subtype": null,
         "name": "A Worthy Builder 3",
-        "description": "Unavailable"
+        "description": "Complete 1000 more Quick Builds."
     },
     {
         "id": 95,
         "defined_type": "Play",
         "defined_subtype": "Shooting Galleries",
         "name": "Pirate Sharpshooter 2",
-        "description": "Unavailable"
+        "description": "Score a cumulative total of 10,000,000 more points in Cannon Cove Shooting Gallery."
     },
     {
         "id": 96,
         "defined_type": "Play",
         "defined_subtype": "Shooting Galleries",
         "name": "Pirate Sharpshooter 3",
-        "description": "Unavailable"
+        "description": "Score a cumulative total of 100,000,000 more points in Cannon Cove Shooting Gallery."
     },
     {
         "id": 97,
         "defined_type": "Build",
         "defined_subtype": null,
         "name": "A Worthy Builder",
-        "description": "Unavailable"
+        "description": "Complete 10,000 more Quick Builds."
     },
     {
         "id": 102,
         "defined_type": "Play",
         "defined_subtype": "Shooting Galleries",
         "name": "Hearty Score 1",
-        "description": "Unavailable"
+        "description": "Score 50,000 points in one game in Cannon Cove Shooting Gallery."
     },
     {
         "id": 103,
         "defined_type": "Play",
         "defined_subtype": "Shooting Galleries",
         "name": "Crack Shot 1",
-        "description": "Unavailable"
+        "description": "Hit 10 targets in a row in Cannon Cove Shooting Gallery with regular cannon shots."
     },
     {
         "id": 110,
@@ -312,35 +312,35 @@
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Nimbus Station Flag Hunter",
-        "description": "Unavailable"
+        "description": "Collect 10 Backpack Flags in Nimbus Station."
     },
     {
         "id": 143,
         "defined_type": "Play",
         "defined_subtype": "General",
         "name": "Green Thumb 1",
-        "description": "Unavailable"
+        "description": "Grow 10 flowers."
     },
     {
         "id": 152,
         "defined_type": "Play",
         "defined_subtype": "General",
         "name": "Green Thumb 2",
-        "description": "Unavailable"
+        "description": "Grow 100 more flowers."
     },
     {
         "id": 153,
         "defined_type": "Play",
         "defined_subtype": "General",
         "name": "Green Thumb",
-        "description": "Unavailable"
+        "description": "Grow 1000 more flowers."
     },
     {
         "id": 172,
         "defined_type": "Location",
         "defined_subtype": "Pet Cove",
         "name": "Pet Cove Treasure Hunter",
-        "description": "Unavailable"
+        "description": "Collect 5 Golden Dog Tags in Pet Cove."
     },
     {
         "id": 173,
@@ -368,84 +368,84 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Monument Bronze Medal",
-        "description": "Unavailable"
+        "description": "Complete the Monument Obstacle Course in 150 seconds or less."
     },
     {
         "id": 180,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Monument Silver Medal",
-        "description": "Unavailable"
+        "description": "Complete the Monument Obstacle Course in 100 seconds or less."
     },
     {
         "id": 181,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Monument Gold Medal",
-        "description": "Unavailable"
+        "description": "Complete the Monument Obstacle Course in 60 seconds or less."
     },
     {
         "id": 184,
         "defined_type": "Battle",
         "defined_subtype": "General",
         "name": "Smash 'Em All 1",
-        "description": "Unavailable"
+        "description": "Smash 100 enemies."
     },
     {
         "id": 185,
         "defined_type": "Battle",
         "defined_subtype": "General",
         "name": "Smash 'Em All 2",
-        "description": "Unavailable"
+        "description": "Smash 250 more enemies."
     },
     {
         "id": 186,
         "defined_type": "Battle",
         "defined_subtype": "General",
         "name": "Smash 'Em All 3",
-        "description": "Unavailable"
+        "description": "Smash 500 more enemies."
     },
     {
         "id": 187,
         "defined_type": "Battle",
         "defined_subtype": "General",
         "name": "Smash 'Em All 4",
-        "description": "Unavailable"
+        "description": "Smash 1000 more enemies."
     },
     {
         "id": 205,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "A Creative Opportunity",
-        "description": "Unavailable"
+        "description": "Collect the Imagination Brick in Gnarled Forest."
     },
     {
         "id": 206,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "A Creative Opportunity",
-        "description": "Unavailable"
+        "description": "Collect the Imagination Brick in Forbidden Valley."
     },
     {
         "id": 207,
         "defined_type": "Location",
         "defined_subtype": "Pet Cove",
         "name": "A Creative Opportunity",
-        "description": "Unavailable"
+        "description": "Collect the Imagination Brick in Pet Cove."
     },
     {
         "id": 208,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "A Creative Opportunity",
-        "description": "Unavailable"
+        "description": "Collect the Imagination Brick in Avant Gardens."
     },
     {
         "id": 209,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "A Feat of Imagination",
-        "description": "Unavailable"
+        "description": "Collect any 5 Imagination Bricks."
     },
     {
         "id": 220,
@@ -480,7 +480,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Avant Gardens Flag Hunter",
-        "description": "Unavailable"
+        "description": "Collect 10 Heart Flags in Avant Gardens."
     },
     {
         "id": 236,
@@ -494,196 +494,196 @@
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Quit Yer Bellyachin' 1",
-        "description": "Unavailable"
+        "description": "Eat 5 BBQ Blast Hot Dogs."
     },
     {
         "id": 244,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Avant Guardian 2",
-        "description": "Unavailable"
+        "description": "Smash 100 more Stromlings."
     },
     {
         "id": 245,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Avant Guardian 3",
-        "description": "Unavailable"
+        "description": "Smash 1000 more Stromlings."
     },
     {
         "id": 246,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Avant Guardian",
-        "description": "Unavailable"
+        "description": "Smash 5000 more Stromlings."
     },
     {
         "id": 247,
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Quit Yer Bellyachin'",
-        "description": "Unavailable"
+        "description": "Eat 25 more BBQ Blast Hot Dogs."
     },
     {
         "id": 250,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Making Friends",
-        "description": "Unavailable"
+        "description": "Talk to the picnicking Ninja, Pirate, and Monkey at the Avant Gardens Launch Area."
     },
     {
         "id": 251,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Robo-Repair 1",
-        "description": "Unavailable"
+        "description": "Quick Build 10 smashed Stromling Mechs into turrets."
     },
     {
         "id": 252,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Robo-Repair 2",
-        "description": "Unavailable"
+        "description": "Quick Build 50 more smashed Stromling Mechs into turrets."
     },
     {
         "id": 254,
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Hidden Track",
-        "description": "Unavailable"
+        "description": "Jam out on the secret platform at the Red Blocks concert in Nimbus Station."
     },
     {
         "id": 256,
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Musical Repair 1",
-        "description": "Unavailable"
+        "description": "Quick Build all 4 instruments at the Red Blocks concert in Nimbus Station."
     },
     {
         "id": 259,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Avant Gardens Achiever 1",
-        "description": "Unavailable"
+        "description": "Complete 10 Missions or Achievements in Avant Gardens."
     },
     {
         "id": 260,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Avant Gardens Achiever 2",
-        "description": "Unavailable"
+        "description": "Complete 10 more Missions or Achievements in Avant Gardens, for a total of 20."
     },
     {
         "id": 261,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Avant Gardens Achiever 3",
-        "description": "Unavailable"
+        "description": "Complete 10 more Missions or Achievements in Avant Gardens, for a total of 30."
     },
     {
         "id": 263,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Robo-Repair",
-        "description": "Unavailable"
+        "description": "Quick Build 100 more smashed Stromling Mechs into turrets."
     },
     {
         "id": 268,
         "defined_type": "Build",
         "defined_subtype": null,
         "name": "Reputation 1",
-        "description": "Unavailable"
+        "description": "Earn 100 Reputation."
     },
     {
         "id": 270,
         "defined_type": "Build",
         "defined_subtype": null,
         "name": "Reputation 2",
-        "description": "Unavailable"
+        "description": "Earn 1000 more Reputation."
     },
     {
         "id": 271,
         "defined_type": "Build",
         "defined_subtype": null,
         "name": "Reputation 3",
-        "description": "Unavailable"
+        "description": "Earn 10,000 more Reputation."
     },
     {
         "id": 272,
         "defined_type": "Build",
         "defined_subtype": null,
         "name": "Reputation 4",
-        "description": "Unavailable"
+        "description": "Earn 100,000 more Reputation."
     },
     {
         "id": 273,
         "defined_type": "Build",
         "defined_subtype": null,
         "name": "Reputation",
-        "description": "Unavailable"
+        "description": "Earn 1,000,000 more Reputation."
     },
     {
         "id": 282,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Making More Friends",
-        "description": "Unavailable"
+        "description": "Talk to the picnicking Robot, Cowboy, and Astronaut at the Avant Gardens Launch Area."
     },
     {
         "id": 283,
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Stagecraft",
-        "description": "Unavailable"
+        "description": "Quick Build all 4 of the effects at the Red Blocks concert in Nimbus Station."
     },
     {
         "id": 284,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Gnarled Forest Explorer",
-        "description": "Unavailable"
+        "description": "Discover all 7 points of interest in Gnarled Forest."
     },
     {
         "id": 286,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Get Fit!",
-        "description": "Unavailable"
+        "description": "Try the Monument Obstacle Course challenge!"
     },
     {
         "id": 287,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Avant Guardian 1",
-        "description": "Unavailable"
+        "description": "Smash 50 Stromlings."
     },
     {
         "id": 293,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Paradox Protector 1",
-        "description": "Unavailable"
+        "description": "Smash 25 Stromlings, 25 Stromling Mechs, and 25 Dark Spiderlings."
     },
     {
         "id": 294,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Paradox Protector 2",
-        "description": "Unavailable"
+        "description": "Smash 100 more Stromlings, 100 more Stromling Mechs, and 100 more Dark Spiderlings."
     },
     {
         "id": 295,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Paradox Protector 3",
-        "description": "Unavailable"
+        "description": "Smash 500 more Stromlings, 500 more Stromling Mechs, and 500 more Dark Spiderlings."
     },
     {
         "id": 296,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Paradox Protector",
-        "description": "Unavailable"
+        "description": "Smash 1000 more Stromlings, 1000 more Stromling Mechs, and 1000 more Dark Spiderlings."
     },
     {
         "id": 301,
@@ -697,7 +697,7 @@
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Solo Artist 1",
-        "description": "Unavailable"
+        "description": "Play any instrument at the Red Blocks concert for at least 20 seconds."
     },
     {
         "id": 308,
@@ -816,112 +816,112 @@
         "defined_type": "Play",
         "defined_subtype": "Shooting Galleries",
         "name": "Hearty Score 2",
-        "description": "Unavailable"
+        "description": "Score 125,000 points in one game in Cannon Cove Shooting Gallery."
     },
     {
         "id": 339,
         "defined_type": "Play",
         "defined_subtype": "Shooting Galleries",
         "name": "Hearty Score 3",
-        "description": "Unavailable"
+        "description": "Score 250,000 points in one game in Cannon Cove Shooting Gallery."
     },
     {
         "id": 340,
         "defined_type": "Play",
         "defined_subtype": "Shooting Galleries",
         "name": "Hearty Score 4",
-        "description": "Unavailable"
+        "description": "Score 500,000 points in one game in Cannon Cove Shooting Gallery."
     },
     {
         "id": 342,
         "defined_type": "Play",
         "defined_subtype": "Shooting Galleries",
         "name": "Crack Shot 2",
-        "description": "Unavailable"
+        "description": "Hit 15 more targets in a row in Cannon Cove Shooting Gallery with regular cannon shots."
     },
     {
         "id": 343,
         "defined_type": "Play",
         "defined_subtype": "Shooting Galleries",
         "name": "Crack Shot 3",
-        "description": "Unavailable"
+        "description": "Hit 20 more targets in a row in Cannon Cove Shooting Gallery with regular cannon shots."
     },
     {
         "id": 344,
         "defined_type": "Play",
         "defined_subtype": "Shooting Galleries",
         "name": "Crack Shot 4",
-        "description": "Unavailable"
+        "description": "Hit 25 more targets in a row in Cannon Cove Shooting Gallery with regular cannon shots."
     },
     {
         "id": 345,
         "defined_type": "Play",
         "defined_subtype": "Shooting Galleries",
         "name": "Crack Shot 5",
-        "description": "Unavailable"
+        "description": "Hit 30 more targets in a row in Cannon Cove Shooting Gallery with regular cannon shots."
     },
     {
         "id": 346,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Discover the Green Path",
-        "description": "Unavailable"
+        "description": "Discover the Monument's Green Path."
     },
     {
         "id": 347,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Discover the Yellow Path",
-        "description": "Unavailable"
+        "description": "Discover the Monument's Yellow Path."
     },
     {
         "id": 348,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Discover the Orange Path",
-        "description": "Unavailable"
+        "description": "Discover the Monument's Orange Path."
     },
     {
         "id": 349,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Speedy Scout",
-        "description": "Unavailable"
+        "description": "Discover all 3 paths up the Monument."
     },
     {
         "id": 353,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Steam Punk",
-        "description": "Unavailable"
+        "description": "Find all 3 Steampunk Rocket modules."
     },
     {
         "id": 354,
         "defined_type": "Location",
         "defined_subtype": "Venture Explorer",
         "name": "Classic Rocketeer",
-        "description": "Unavailable"
+        "description": "Find all 3 white rocket modules on the Venture Explorer spaceship."
     },
     {
         "id": 355,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Pod Person",
-        "description": "Unavailable"
+        "description": "Find all 3 Pod rocket modules."
     },
     {
         "id": 356,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Rocket Roundup",
-        "description": "Unavailable"
+        "description": "Collect all of the modules for the Steampunk and Pod rockets."
     },
     {
         "id": 360,
         "defined_type": "Play",
         "defined_subtype": "Shooting Galleries",
         "name": "Barnacle Blaster 1",
-        "description": "Unavailable"
+        "description": "Hit 10 Sea Monsters in Cannon Cove Shooting Gallery."
     },
     {
         "id": 377,
@@ -1005,406 +1005,406 @@
         "defined_type": "Battle",
         "defined_subtype": "Survival Games",
         "name": "Outwit",
-        "description": "Unavailable"
+        "description": "Survive as a team for 1 minute in the Avant Gardens Survival game."
     },
     {
         "id": 393,
         "defined_type": "Battle",
         "defined_subtype": "Survival Games",
         "name": "Outplay",
-        "description": "Unavailable"
+        "description": "Survive as a team for 3 minutes in the Avant Gardens Survival game."
     },
     {
         "id": 394,
         "defined_type": "Battle",
         "defined_subtype": "Survival Games",
         "name": "Outlast",
-        "description": "Unavailable"
+        "description": "Survive as a team for 5 minutes in the Avant Gardens Survival game."
     },
     {
         "id": 395,
         "defined_type": "Battle",
         "defined_subtype": "Survival Games",
         "name": "Survivalist",
-        "description": "Unavailable"
+        "description": "Survive as a team for 7 minutes in the Avant Gardens Survival game."
     },
     {
         "id": 396,
         "defined_type": "Battle",
         "defined_subtype": "Survival Games",
         "name": "Be Prepared!",
-        "description": "Unavailable"
+        "description": "Survive as a team for 8 minutes in the Avant Gardens Survival game."
     },
     {
         "id": 397,
         "defined_type": "Battle",
         "defined_subtype": "Survival Games",
         "name": "Send More Paramedics!",
-        "description": "Unavailable"
+        "description": "Survive as a team for 9 minutes in the Avant Gardens Survival game."
     },
     {
         "id": 398,
         "defined_type": "Battle",
         "defined_subtype": "Survival Games",
         "name": "Unstoppable!",
-        "description": "Unavailable"
+        "description": "Survive as a team for 10 minutes in the Avant Gardens Survival game."
     },
     {
         "id": 399,
         "defined_type": "Battle",
         "defined_subtype": "Survival Games",
         "name": "Nothing Left for Dead 1",
-        "description": "Unavailable"
+        "description": "Smash 100 Survival enemies."
     },
     {
         "id": 400,
         "defined_type": "Battle",
         "defined_subtype": "Survival Games",
         "name": "Nothing Left for Dead 2",
-        "description": "Unavailable"
+        "description": "Smash 1000 more Survival enemies."
     },
     {
         "id": 401,
         "defined_type": "Battle",
         "defined_subtype": "Survival Games",
         "name": "Nothing Left for Dead",
-        "description": "Unavailable"
+        "description": "Smash 10,000 more Survival enemies."
     },
     {
         "id": 402,
         "defined_type": "Battle",
         "defined_subtype": "Survival Games",
         "name": "Brains!",
-        "description": "Unavailable"
+        "description": "Smash 100 Survival Stromlings."
     },
     {
         "id": 403,
         "defined_type": "Battle",
         "defined_subtype": "Survival Games",
         "name": "Pest Control",
-        "description": "Unavailable"
+        "description": "Smash 100 Survival Spiders."
     },
     {
         "id": 404,
         "defined_type": "Battle",
         "defined_subtype": "Survival Games",
         "name": "Crush the Uprising",
-        "description": "Unavailable"
+        "description": "Smash 100 Survival Mechs."
     },
     {
         "id": 405,
         "defined_type": "Battle",
         "defined_subtype": "Survival Games",
         "name": "Battle Booster",
-        "description": "Unavailable"
+        "description": "Build the Survival Buff Station 100 times."
     },
     {
         "id": 408,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Gunner's Mate 1",
-        "description": "Unavailable"
+        "description": "Collect 25 cannonballs."
     },
     {
         "id": 409,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Gunner's Mate",
-        "description": "Unavailable"
+        "description": "Collect 100 more cannonballs."
     },
     {
         "id": 410,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "That's Appealing 1",
-        "description": "Unavailable"
+        "description": "Collect 25 bananas."
     },
     {
         "id": 411,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "That's Appealing",
-        "description": "Unavailable"
+        "description": "Collect 100 more bananas."
     },
     {
         "id": 412,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Don't Look Down!",
-        "description": "Unavailable"
+        "description": "Discover the Ravine in Gnarled Forest."
     },
     {
         "id": 413,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "The Lockup",
-        "description": "Unavailable"
+        "description": "Discover Brig Rock in Gnarled Forest."
     },
     {
         "id": 414,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "A wretched hive",
-        "description": "Unavailable"
+        "description": "Discover the Pirate Camp in Gnarled Forest."
     },
     {
         "id": 415,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Turtles on the half-shelf",
-        "description": "Unavailable"
+        "description": "Discover Tortoise Terrace in Gnarled Forest."
     },
     {
         "id": 416,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "My, what a big nose you have!",
-        "description": "Unavailable"
+        "description": "Discover Elephant Escarpment in Gnarled Forest."
     },
     {
         "id": 417,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Tick-Tock",
-        "description": "Unavailable"
+        "description": "Discover Crocodile Corner in Gnarled Forest."
     },
     {
         "id": 419,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "What an Incredible Trench you've Discovered",
-        "description": "Unavailable"
+        "description": "Discover the Maelstrom Trench in Gnarled Forest."
     },
     {
         "id": 420,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Gnarled Forest Observer",
-        "description": "Unavailable"
+        "description": "Use all 9 of the Binoculars in Gnarled Forest."
     },
     {
         "id": 421,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Venture League Privateer 1",
-        "description": "Unavailable"
+        "description": "Smash 25 Stromling Pirates."
     },
     {
         "id": 422,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Venture League Privateer 2",
-        "description": "Unavailable"
+        "description": "Smash 100 more Stromling Pirates."
     },
     {
         "id": 423,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Venture League Privateer 3",
-        "description": "Unavailable"
+        "description": "Smash 1000 more Stromling Pirates."
     },
     {
         "id": 424,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Pirate Duelist 1",
-        "description": "Unavailable"
+        "description": "Smash 10 Stromling Admirals."
     },
     {
         "id": 425,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Pirate Duelist 2",
-        "description": "Unavailable"
+        "description": "Smash 50 more Stromling Admirals."
     },
     {
         "id": 426,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Pirate Duelist 3",
-        "description": "Unavailable"
+        "description": "Smash 500 more Stromling Admirals."
     },
     {
         "id": 427,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Pirate Swashbuckler 1",
-        "description": "Unavailable"
+        "description": "Smash 5 Stromling Apes."
     },
     {
         "id": 428,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Pirate Swashbuckler 2",
-        "description": "Unavailable"
+        "description": "Smash 25 more Stromling Apes."
     },
     {
         "id": 429,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Pirate Swashbuckler 3",
-        "description": "Unavailable"
+        "description": "Smash 75 more Stromling Apes."
     },
     {
         "id": 430,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Boom Boxes 1",
-        "description": "Unavailable"
+        "description": "Smash 25 explosive crates."
     },
     {
         "id": 431,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Boom Boxes 2",
-        "description": "Unavailable"
+        "description": "Smash 100 more explosive crates."
     },
     {
         "id": 432,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Boom Boxes",
-        "description": "Unavailable"
+        "description": "Smash 1000 more explosive crates."
     },
     {
         "id": 433,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Everybody's chum, Chief Brody 1",
-        "description": "Unavailable"
+        "description": "Smash 25 sharks."
     },
     {
         "id": 434,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Everybody's chum, Chief Brody",
-        "description": "Unavailable"
+        "description": "Smash 100 more sharks."
     },
     {
         "id": 435,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "For Pirates Only 1",
-        "description": "Unavailable"
+        "description": "Use a 'Pirates Only' Quick Build 10 times."
     },
     {
         "id": 436,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "For Pirates Only",
-        "description": "Unavailable"
+        "description": "Use a 'Pirates Only' Quick Build 100 more times."
     },
     {
         "id": 439,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "A New Parable",
-        "description": "Unavailable"
+        "description": "Tame the Tortoise and Warthog Pets."
     },
     {
         "id": 440,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Toast!",
-        "description": "Unavailable"
+        "description": "Get burnt by a campfire 25 times."
     },
     {
         "id": 445,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Shark Bite 1",
-        "description": "Unavailable"
+        "description": "Get eaten by a shark."
     },
     {
         "id": 446,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Shark Bite 2",
-        "description": "Unavailable"
+        "description": "Get eaten by a shark 10 more times."
     },
     {
         "id": 447,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Shark Bite",
-        "description": "Unavailable"
+        "description": "Get eaten by a shark 100 more times."
     },
     {
         "id": 448,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Gnarled Forest Achiever 1",
-        "description": "Unavailable"
+        "description": "Complete 10 Missions or Achievements in Gnarled Forest."
     },
     {
         "id": 449,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Gnarled Forest Achiever 2",
-        "description": "Unavailable"
+        "description": "Complete 10 more Missions or Achievements in Gnarled Forest, for a total of 20."
     },
     {
         "id": 450,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Gnarled Forest Achiever 3",
-        "description": "Unavailable"
+        "description": "Complete 10 more Missions or Achievements in Gnarled Forest, for a total of 30."
     },
     {
         "id": 451,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Gnarled Forest Achiever 4",
-        "description": "Unavailable"
+        "description": "Complete 10 more Missions or Achievements in Gnarled Forest, for a total of 40."
     },
     {
         "id": 452,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Gnarled Forest Achiever 5",
-        "description": "Unavailable"
+        "description": "Complete 10 more Missions or Achievements in Gnarled Forest, for a total of 50."
     },
     {
         "id": 453,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Gnarled Forest Achiever 6",
-        "description": "Unavailable"
+        "description": "Complete 10 more Missions or Achievements in Gnarled Forest, for a total of 60."
     },
     {
         "id": 454,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Pirate Legend 1",
-        "description": "Unavailable"
+        "description": "Complete a number of 'Piratey' activities."
     },
     {
         "id": 455,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Pirate Legend 2",
-        "description": "Unavailable"
+        "description": "Complete more 'Piratey' activities."
     },
     {
         "id": 456,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Pirate Legend 3",
-        "description": "Unavailable"
+        "description": "Complete even more 'Piratey' activities."
     },
     {
         "id": 457,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Pirate Legend 4",
-        "description": "Unavailable"
+        "description": "Complete still more 'Piratey' activities."
     },
     {
         "id": 458,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Pirate Legend",
-        "description": "Unavailable"
+        "description": "Complete a lot more 'Piratey' activities."
     },
     {
         "id": 460,
@@ -1425,28 +1425,28 @@
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Pirate Arch-itect 1",
-        "description": "Unavailable"
+        "description": "Quick Build the Pirate Archway in Gnarled Forest."
     },
     {
         "id": 463,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Pirate Arch-itect",
-        "description": "Unavailable"
+        "description": "Quick Build the Pirate Archway in Gnarled Forest 25 more times."
     },
     {
         "id": 467,
         "defined_type": "Battle",
         "defined_subtype": "Survival Games",
         "name": "Survivor",
-        "description": "Unavailable"
+        "description": "Stay alive for 5 minutes as a solo player in a Survival game."
     },
     {
         "id": 468,
         "defined_type": "Battle",
         "defined_subtype": "Survival Games",
         "name": "Ultimate Survivor",
-        "description": "Unavailable"
+        "description": "Stay alive for 10 minutes as a solo player in a Survival game."
     },
     {
         "id": 470,
@@ -1460,7 +1460,7 @@
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Pirate Firefighter",
-        "description": "Unavailable"
+        "description": "Put out 10 tiki torches with the Water Sprayer or other water spraying device!"
     },
     {
         "id": 474,
@@ -1523,14 +1523,14 @@
         "defined_type": "Location",
         "defined_subtype": "Venture Explorer",
         "name": "Spaceship Observer",
-        "description": "Unavailable"
+        "description": "Use all 5 of the binoculars in the Venture Explorer spaceship."
     },
     {
         "id": 489,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Avant Gardens Observer",
-        "description": "Unavailable"
+        "description": "Use all 9 of the binoculars in Avant Gardens."
     },
     {
         "id": 490,
@@ -1579,14 +1579,14 @@
         "defined_type": "Location",
         "defined_subtype": "Pet Cove",
         "name": "Pet Cove Explorer",
-        "description": "Unavailable"
+        "description": "Discover all points of interest in Pet Cove."
     },
     {
         "id": 505,
         "defined_type": "Location",
         "defined_subtype": "Pet Cove",
         "name": "Pet Excavator",
-        "description": "Unavailable"
+        "description": "Dig up 6 different Pet Digs in Pet Cove."
     },
     {
         "id": 506,
@@ -1607,14 +1607,14 @@
         "defined_type": "Location",
         "defined_subtype": "Pet Cove",
         "name": "Pet Cove Observer",
-        "description": "Unavailable"
+        "description": "Use all 4 of the binoculars in Pet Cove."
     },
     {
         "id": 511,
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Nimbus Station Observer",
-        "description": "Unavailable"
+        "description": "Use all 10 of the binoculars in Nimbus Station."
     },
     {
         "id": 513,
@@ -1635,126 +1635,126 @@
         "defined_type": "Play",
         "defined_subtype": "General",
         "name": "Beast Master 1",
-        "description": "Unavailable"
+        "description": "Tame 5 different Pets."
     },
     {
         "id": 518,
         "defined_type": "Play",
         "defined_subtype": "General",
         "name": "Beast Master 2",
-        "description": "Unavailable"
+        "description": "Tame 10 different Pets."
     },
     {
         "id": 519,
         "defined_type": "Play",
         "defined_subtype": "General",
         "name": "Beast Master 3",
-        "description": "Unavailable"
+        "description": "Tame 15 different Pets."
     },
     {
         "id": 520,
         "defined_type": "Play",
         "defined_subtype": "General",
         "name": "Beast Master",
-        "description": "Unavailable"
+        "description": "Tame 19 different Pets."
     },
     {
         "id": 521,
         "defined_type": "Play",
         "defined_subtype": "General",
         "name": "Speed Tamer 1",
-        "description": "Unavailable"
+        "description": "Tame a Pet in less than 14 seconds."
     },
     {
         "id": 522,
         "defined_type": "Play",
         "defined_subtype": "General",
         "name": "Speed Tamer",
-        "description": "Unavailable"
+        "description": "Tame a Pet in less than 6 seconds."
     },
     {
         "id": 525,
         "defined_type": "Battle",
         "defined_subtype": "General",
         "name": "Defeat the Maelstrom 1",
-        "description": "Unavailable"
+        "description": "Smash 10 elite enemies."
     },
     {
         "id": 526,
         "defined_type": "Battle",
         "defined_subtype": "General",
         "name": "Defeat the Maelstrom 2",
-        "description": "Unavailable"
+        "description": "Smash 50 more elite enemies."
     },
     {
         "id": 527,
         "defined_type": "Battle",
         "defined_subtype": "General",
         "name": "Defeat the Maelstrom 3",
-        "description": "Unavailable"
+        "description": "Smash 500 more elite enemies."
     },
     {
         "id": 528,
         "defined_type": "Battle",
         "defined_subtype": "General",
         "name": "Defeat the Maelstrom 4",
-        "description": "Unavailable"
+        "description": "Smash 5000 more elite enemies."
     },
     {
         "id": 529,
         "defined_type": "Battle",
         "defined_subtype": "General",
         "name": "Not the Boss of Me 1",
-        "description": "Unavailable"
+        "description": "Smash 5 mini-bosses."
     },
     {
         "id": 530,
         "defined_type": "Battle",
         "defined_subtype": "General",
         "name": "Not the Boss of Me 2",
-        "description": "Unavailable"
+        "description": "Smash 25 more mini-bosses."
     },
     {
         "id": 531,
         "defined_type": "Battle",
         "defined_subtype": "General",
         "name": "Not the Boss of Me 3",
-        "description": "Unavailable"
+        "description": "Smash 100 more mini-bosses."
     },
     {
         "id": 532,
         "defined_type": "Battle",
         "defined_subtype": "General",
         "name": "Not the Boss of Me 4",
-        "description": "Unavailable"
+        "description": "Smash 1000 more mini-bosses."
     },
     {
         "id": 535,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Avant Gardens Pet Tamer",
-        "description": "Unavailable"
+        "description": "Tame the Doberman, Triceratops, and Buffalo Pets."
     },
     {
         "id": 536,
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Nimbus Station Pet Tamer",
-        "description": "Unavailable"
+        "description": "Tame the Skunk and Robot Dog Pets."
     },
     {
         "id": 537,
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "A Real Roadie",
-        "description": "Unavailable"
+        "description": "Quick Build all of the instruments and effects at the Red Blocks concert."
     },
     {
         "id": 538,
         "defined_type": "Battle",
         "defined_subtype": "General",
         "name": "Smash 'Em All",
-        "description": "Unavailable"
+        "description": "Smash 10,000 more enemies."
     },
     {
         "id": 541,
@@ -1768,14 +1768,14 @@
         "defined_type": "Play",
         "defined_subtype": "Shooting Galleries",
         "name": "Uncanny Cannoneer 1",
-        "description": "Unavailable"
+        "description": "Hit 1000 Maelstrom-infected ships in Cannon Cove Shooting Gallery."
     },
     {
         "id": 543,
         "defined_type": "Play",
         "defined_subtype": "Shooting Galleries",
         "name": "Duck for Cover 1",
-        "description": "Unavailable"
+        "description": "Hit 25 ducks in Cannon Cove Shooting Gallery."
     },
     {
         "id": 544,
@@ -1789,63 +1789,63 @@
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Join Assembly!",
-        "description": "Unavailable"
+        "description": "Join the Assembly Faction."
     },
     {
         "id": 546,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Assembly Engineer 1",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 1 Engineer Gear."
     },
     {
         "id": 547,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Assembly Engineer 2",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 2 Engineer Gear."
     },
     {
         "id": 548,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Assembly Engineer",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 3 Engineer Gear."
     },
     {
         "id": 550,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Assembly Inventor 2",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 2 Inventor Gear."
     },
     {
         "id": 551,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Assembly Inventor",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 3 Inventor Gear."
     },
     {
         "id": 552,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Assembly Summoner 1",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 1 Summoner Gear."
     },
     {
         "id": 553,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Assembly Summoner 2",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 2 Summoner Gear."
     },
     {
         "id": 554,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Assembly Summoner",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 3 Summoner Gear."
     },
     {
         "id": 555,
@@ -1859,63 +1859,63 @@
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Join Venture League!",
-        "description": "Unavailable"
+        "description": "Join the Venture League Faction."
     },
     {
         "id": 557,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Venture League Buccaneer 1",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 1 Buccaneer Gear."
     },
     {
         "id": 558,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Venture League Buccaneer 2",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 2 Buccaneer Gear."
     },
     {
         "id": 559,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Venture League Buccaneer",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 3 Buccaneer Gear."
     },
     {
         "id": 561,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Venture League Adventurer 2",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 2 Adventurer Gear."
     },
     {
         "id": 562,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Venture League Adventurer",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 3 Adventurer Gear."
     },
     {
         "id": 563,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Venture League Daredevil 1",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 1 Daredevil Gear."
     },
     {
         "id": 564,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Venture League Daredevil 2",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 2 Daredevil Gear."
     },
     {
         "id": 565,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Venture League Daredevil",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 3 Daredevil Gear."
     },
     {
         "id": 566,
@@ -1929,63 +1929,63 @@
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Join The Sentinels!",
-        "description": "Unavailable"
+        "description": "Join the Sentinel Faction."
     },
     {
         "id": 568,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Sentinel Knight 1",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 1 Knight Gear."
     },
     {
         "id": 569,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Sentinel Knight 2",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 2 Knight Gear."
     },
     {
         "id": 570,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Sentinel Knight",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 3 Knight Gear."
     },
     {
         "id": 572,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Sentinel Space Ranger 2",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 2 Space Ranger Gear."
     },
     {
         "id": 573,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Sentinel Space Ranger",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 3 Space Ranger Gear."
     },
     {
         "id": 574,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Sentinel Samurai 1",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 1 Samurai Gear."
     },
     {
         "id": 575,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Sentinel Samurai 2",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 2 Samurai Gear."
     },
     {
         "id": 576,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Sentinel Samurai",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 3 Samurai Gear."
     },
     {
         "id": 577,
@@ -1999,63 +1999,63 @@
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Join Paradox!",
-        "description": "Unavailable"
+        "description": "Join the Paradox Faction."
     },
     {
         "id": 579,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Paradox Sorcerer 1",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 1 Sorcerer Gear."
     },
     {
         "id": 580,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Paradox Sorcerer 2",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 2 Sorcerer Gear."
     },
     {
         "id": 581,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Paradox Sorcerer",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 3 Sorcerer Gear."
     },
     {
         "id": 582,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Paradox Space Marauder 1",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 1 Space Marauder Gear."
     },
     {
         "id": 583,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Paradox Space Marauder 2",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 2 Space Marauder Gear."
     },
     {
         "id": 584,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Paradox Space Marauder",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 3 Space Marauder Gear."
     },
     {
         "id": 586,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Paradox Shinobi 2",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 2 Shinobi Gear."
     },
     {
         "id": 587,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Paradox Shinobi",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 3 Shinobi Gear."
     },
     {
         "id": 588,
@@ -2090,14 +2090,14 @@
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Musical Repair",
-        "description": "Unavailable"
+        "description": "Quick Build all 4 instruments at the Red Blocks concert 10 more times each."
     },
     {
         "id": 593,
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Nimbus Station Explorer",
-        "description": "Unavailable"
+        "description": "Discover all 4 points of interest in Nimbus Station."
     },
     {
         "id": 594,
@@ -2111,91 +2111,91 @@
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Boogie Down",
-        "description": "Unavailable"
+        "description": "Dance with 3 different fans at the Red Blocks concert."
     },
     {
         "id": 597,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Rattle the Bones",
-        "description": "Unavailable"
+        "description": "Spin the skeleton in the cage 25 times."
     },
     {
         "id": 598,
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "A Licensed Technician",
-        "description": "Unavailable"
+        "description": "Quick Build all 4 of the Red Blocks concert effects into the same type at the same time."
     },
     {
         "id": 599,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Dizzy Tikis",
-        "description": "Unavailable"
+        "description": "Spin the tiki torches 25 times."
     },
     {
         "id": 600,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "The Phantom",
-        "description": "Unavailable"
+        "description": "Play the pirate organ 25 times."
     },
     {
         "id": 601,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "6 Pound Barrage",
-        "description": "Unavailable"
+        "description": "Fire Captain Jack's cannon 25 times."
     },
     {
         "id": 602,
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Solo Artist",
-        "description": "Unavailable"
+        "description": "Play each of the Red Blocks concert instruments for at least 30 seconds."
     },
     {
         "id": 616,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Nexus Force Collector",
-        "description": "Unavailable"
+        "description": "Collect Flags in Avant Gardens, Nimbus Station, Gnarled Forest, and Forbidden Valley."
     },
     {
         "id": 617,
         "defined_type": "Play",
         "defined_subtype": "General",
         "name": "Nexus Force Commendation 1",
-        "description": "Unavailable"
+        "description": "Complete 50 Missions."
     },
     {
         "id": 618,
         "defined_type": "Play",
         "defined_subtype": "General",
         "name": "Nexus Force Commendation 2",
-        "description": "Unavailable"
+        "description": "Complete 50 more Missions, for a total of 100."
     },
     {
         "id": 619,
         "defined_type": "Play",
         "defined_subtype": "General",
         "name": "LEGO Universe Commendation 1",
-        "description": "Unavailable"
+        "description": "Complete 50 Achievements."
     },
     {
         "id": 620,
         "defined_type": "Play",
         "defined_subtype": "General",
         "name": "LEGO Universe Commendation 2",
-        "description": "Unavailable"
+        "description": "Complete 50 more Achievements, for a total of 100."
     },
     {
         "id": 621,
         "defined_type": "Play",
         "defined_subtype": "General",
         "name": "LEGO Universe Commendation 3",
-        "description": "Unavailable"
+        "description": "Complete 100 more Achievements, for a total of 200."
     },
     {
         "id": 622,
@@ -2307,154 +2307,154 @@
         "defined_type": "Racing",
         "defined_subtype": "Nimbus Station",
         "name": "Vertigo Loop Winners' Circle",
-        "description": "Unavailable"
+        "description": "Place in the top 3 at the Vertigo Loop racetrack. Minimum of 3 players in the race."
     },
     {
         "id": 639,
         "defined_type": "Racing",
         "defined_subtype": "Nimbus Station",
         "name": "Vertigo Loop Champion",
-        "description": "Unavailable"
+        "description": "Win a race at the Vertigo Loop racetrack. Minimum of 3 players in the race."
     },
     {
         "id": 640,
         "defined_type": "Racing",
         "defined_subtype": "Gnarled Forest",
         "name": "Keelhaul Canyon Winners' Circle",
-        "description": "Unavailable"
+        "description": "Place in the top 3 at the Keelhaul Canyon racetrack. Minimum of 3 players in the race."
     },
     {
         "id": 641,
         "defined_type": "Racing",
         "defined_subtype": "Gnarled Forest",
         "name": "Keelhaul Canyon Champion",
-        "description": "Unavailable"
+        "description": "Win a race at the Keelhaul Canyon racetrack. Minimum of 3 players in the race."
     },
     {
         "id": 642,
         "defined_type": "Racing",
         "defined_subtype": "Nimbus Station",
         "name": "Vertigo Loop Pacesetter",
-        "description": "Unavailable"
+        "description": "Achieve a 1:05 lap time or better at the Vertigo Loop racetrack."
     },
     {
         "id": 643,
         "defined_type": "Racing",
         "defined_subtype": "Nimbus Station",
         "name": "Vertigo Loop Speed Demon",
-        "description": "Unavailable"
+        "description": "Achieve a 3:10 total time or better at the Vertigo Loop racetrack."
     },
     {
         "id": 644,
         "defined_type": "Racing",
         "defined_subtype": "Gnarled Forest",
         "name": "Keelhaul Canyon Pacesetter",
-        "description": "Unavailable"
+        "description": "Achieve a 1:30 lap time or better at the Keelhaul Canyon racetrack."
     },
     {
         "id": 645,
         "defined_type": "Racing",
         "defined_subtype": "Gnarled Forest",
         "name": "Keelhaul Canyon Speed Demon",
-        "description": "Unavailable"
+        "description": "Achieve a 4:45 total time or better at the Keelhaul Canyon racetrack."
     },
     {
         "id": 646,
         "defined_type": "Racing",
         "defined_subtype": "Nimbus Station",
         "name": "Vertigo Loop Safe Driver",
-        "description": "Unavailable"
+        "description": "Complete a race at the Vertigo Loop racetrack without wrecking."
     },
     {
         "id": 647,
         "defined_type": "Racing",
         "defined_subtype": "Gnarled Forest",
         "name": "Keelhaul Canyon Safe Driver",
-        "description": "Unavailable"
+        "description": "Complete a race at the Keelhaul Canyon racetrack without wrecking."
     },
     {
         "id": 648,
         "defined_type": "Racing",
         "defined_subtype": "General",
         "name": "Low Deductible 1",
-        "description": "Unavailable"
+        "description": "Complete 10 races without wrecking."
     },
     {
         "id": 649,
         "defined_type": "Racing",
         "defined_subtype": "General",
         "name": "Low Deductible 2",
-        "description": "Unavailable"
+        "description": "Complete 25 more races without wrecking."
     },
     {
         "id": 650,
         "defined_type": "Racing",
         "defined_subtype": "General",
         "name": "Low Deductible 3",
-        "description": "Unavailable"
+        "description": "Complete 50 more races without wrecking."
     },
     {
         "id": 651,
         "defined_type": "Racing",
         "defined_subtype": "General",
         "name": "Street Sweeper 1",
-        "description": "Unavailable"
+        "description": "Smash 100 smashables in any number of races."
     },
     {
         "id": 652,
         "defined_type": "Racing",
         "defined_subtype": "General",
         "name": "Street Sweeper 2",
-        "description": "Unavailable"
+        "description": "Smash 250 more Smashables in any number of races."
     },
     {
         "id": 653,
         "defined_type": "Racing",
         "defined_subtype": "General",
         "name": "Street Sweeper 3",
-        "description": "Unavailable"
+        "description": "Smash 500 more Smashables in any number of races."
     },
     {
         "id": 654,
         "defined_type": "Racing",
         "defined_subtype": "General",
         "name": "Drive-Thru Dreamer 1",
-        "description": "Unavailable"
+        "description": "Collect 100 Imagination orbs in any number of races."
     },
     {
         "id": 655,
         "defined_type": "Racing",
         "defined_subtype": "General",
         "name": "Drive-Thru Dreamer 2",
-        "description": "Unavailable"
+        "description": "Collect 500 more Imagination orbs in any number of races."
     },
     {
         "id": 656,
         "defined_type": "Racing",
         "defined_subtype": "General",
         "name": "Drive-Thru Dreamer 3",
-        "description": "Unavailable"
+        "description": "Collect 1000 more Imagination orbs in any number of races."
     },
     {
         "id": 657,
         "defined_type": "Racing",
         "defined_subtype": "General",
         "name": "Racing Fanatic 1",
-        "description": "Unavailable"
+        "description": "Compete in 25 races."
     },
     {
         "id": 658,
         "defined_type": "Racing",
         "defined_subtype": "General",
         "name": "Racing Fanatic 2",
-        "description": "Unavailable"
+        "description": "Compete in 25 more races, for a total of 50."
     },
     {
         "id": 659,
         "defined_type": "Racing",
         "defined_subtype": "General",
         "name": "Racing Fanatic 3",
-        "description": "Unavailable"
+        "description": "Compete in 50 more races, for a total of 100."
     },
     {
         "id": 660,
@@ -2468,49 +2468,49 @@
         "defined_type": "Racing",
         "defined_subtype": "General",
         "name": "Five-Time Champion",
-        "description": "Unavailable"
+        "description": "Win any 5 races. Minimum of 3 players per race."
     },
     {
         "id": 662,
         "defined_type": "Racing",
         "defined_subtype": "General",
         "name": "Ten-Time Champion",
-        "description": "Unavailable"
+        "description": "Win any 10 races. Minimum of 3 players per race."
     },
     {
         "id": 663,
         "defined_type": "Racing",
         "defined_subtype": "General",
         "name": "Twenty-Time Champion",
-        "description": "Unavailable"
+        "description": "Win any 20 races. Minimum of 3 players per race."
     },
     {
         "id": 664,
         "defined_type": "Location",
         "defined_subtype": "Venture Explorer",
         "name": "Unlock Your Imagination",
-        "description": "Unavailable"
+        "description": "Complete Bob's Mission to unlock your Imagination."
     },
     {
         "id": 665,
         "defined_type": "Racing",
         "defined_subtype": "Nimbus Station",
         "name": "Vertigo Loop Super Champ",
-        "description": "Unavailable"
+        "description": "Win 10 races at the Vertigo Loop racetrack. Minimum of 3 players per race."
     },
     {
         "id": 666,
         "defined_type": "Racing",
         "defined_subtype": "Gnarled Forest",
         "name": "Keelhaul Canyon Super Champ",
-        "description": "Unavailable"
+        "description": "Win 10 races at the Keelhaul Canyon racetrack. Minimum of 3 players per race."
     },
     {
         "id": 667,
         "defined_type": "Racing",
         "defined_subtype": "General",
         "name": "Try, Try Again",
-        "description": "Unavailable"
+        "description": "Finish in last place in any 10 races."
     },
     {
         "id": 668,
@@ -2524,98 +2524,98 @@
         "defined_type": "Racing",
         "defined_subtype": "General",
         "name": "Complete Overhaul",
-        "description": "Unavailable"
+        "description": "Swap out every module on your car during a Car Build session."
     },
     {
         "id": 673,
         "defined_type": "Racing",
         "defined_subtype": "Nimbus Station",
         "name": "Vertigo Loop Racemaster",
-        "description": "Unavailable"
+        "description": "Complete all 7 Vertigo Loop Racing Achievements."
     },
     {
         "id": 674,
         "defined_type": "Racing",
         "defined_subtype": "Gnarled Forest",
         "name": "Keelhaul Canyon Racemaster",
-        "description": "Unavailable"
+        "description": "Complete all 7 Keelhaul Canyon Racing Achievements."
     },
     {
         "id": 675,
         "defined_type": "Racing",
         "defined_subtype": "General",
         "name": "Go Outside and Play 1",
-        "description": "Unavailable"
+        "description": "Complete 10 Racing Achievements."
     },
     {
         "id": 676,
         "defined_type": "Racing",
         "defined_subtype": "General",
         "name": "Go Outside and Play 2",
-        "description": "Unavailable"
+        "description": "Complete 10 more Racing Achievements, for a total of 20."
     },
     {
         "id": 677,
         "defined_type": "Racing",
         "defined_subtype": "General",
         "name": "Go Outside and Play 3",
-        "description": "Unavailable"
+        "description": "Complete 10 more Racing Achievements, for a total of 30."
     },
     {
         "id": 678,
         "defined_type": "Racing",
         "defined_subtype": "General",
         "name": "Go Outside and Play",
-        "description": "Unavailable"
+        "description": "Complete 6 more Racing Achievements, for a total of 36."
     },
     {
         "id": 680,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Avant Gardens Achiever",
-        "description": "Unavailable"
+        "description": "Complete 10 more Missions or Achievements in Avant Gardens, for a total of 40."
     },
     {
         "id": 681,
         "defined_type": "Location",
         "defined_subtype": "Pet Cove",
         "name": "Pet Cove Pet Tamer",
-        "description": "Unavailable"
+        "description": "Tame the Terrier, Bunny, and Cat Pets."
     },
     {
         "id": 683,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "A Real Zoologist",
-        "description": "Unavailable"
+        "description": "Tame the Crab, Elephant, and Crocodile Pets."
     },
     {
         "id": 684,
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "In the Round",
-        "description": "Unavailable"
+        "description": "Discover Nimbus Plaza in Nimbus Station."
     },
     {
         "id": 685,
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Front Row Seats",
-        "description": "Unavailable"
+        "description": "Discover Red Blocks in Nimbus Station."
     },
     {
         "id": 686,
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Building to Last",
-        "description": "Unavailable"
+        "description": "Discover Brick Annex in Nimbus Station."
     },
     {
         "id": 687,
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Race Place",
-        "description": "Unavailable"
+        "description": "Discover Race Place in Nimbus Station."
     },
     {
         "id": 688,
@@ -2636,35 +2636,35 @@
         "defined_type": "Battle",
         "defined_subtype": "General",
         "name": "Medic! 1",
-        "description": "Unavailable"
+        "description": "Collect 1000 Life power-ups."
     },
     {
         "id": 691,
         "defined_type": "Battle",
         "defined_subtype": "General",
         "name": "Imagine That! 1",
-        "description": "Unavailable"
+        "description": "Collect 1000 Imagination power-ups."
     },
     {
         "id": 692,
         "defined_type": "Battle",
         "defined_subtype": "General",
         "name": "Tanks Very Much! 1",
-        "description": "Unavailable"
+        "description": "Collect 1000 Armor power-ups."
     },
     {
         "id": 693,
         "defined_type": "Build",
         "defined_subtype": null,
         "name": "A Collector's Dream",
-        "description": "Unavailable"
+        "description": "Complete 1000 collection Quick Builds."
     },
     {
         "id": 695,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "Forbidden Valley Observer",
-        "description": "Unavailable"
+        "description": "Use all 10 of the Binoculars in Forbidden Valley."
     },
     {
         "id": 696,
@@ -2741,28 +2741,28 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Weird Science",
-        "description": "Unavailable"
+        "description": "Discover the Paradox Research Facility in Avant Gardens."
     },
     {
         "id": 707,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Safe Haven",
-        "description": "Unavailable"
+        "description": "Discover the Sentinel Faction Base Camp in Avant Gardens."
     },
     {
         "id": 708,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "It's Monumental!",
-        "description": "Unavailable"
+        "description": "Discover the Monument in Avant Gardens."
     },
     {
         "id": 709,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "3-2-1 Liftoff!",
-        "description": "Unavailable"
+        "description": "Discover the Launch Area in Avant Gardens."
     },
     {
         "id": 733,
@@ -2853,56 +2853,56 @@
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "Fear of Heights",
-        "description": "Unavailable"
+        "description": "Discover the Perilous Path in Forbidden Valley."
     },
     {
         "id": 748,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "Insect Music",
-        "description": "Unavailable"
+        "description": "Discover Mantis Rock in Forbidden Valley."
     },
     {
         "id": 749,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "What Tree?",
-        "description": "Unavailable"
+        "description": "Discover the Great Tree in Forbidden Valley."
     },
     {
         "id": 750,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "Crypt Keepers",
-        "description": "Unavailable"
+        "description": "Discover Cavalry Hill in Forbidden Valley."
     },
     {
         "id": 751,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "No Trespassing!",
-        "description": "Unavailable"
+        "description": "Discover the Forbidden Passage in Forbidden Valley."
     },
     {
         "id": 752,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "Weird Science II",
-        "description": "Unavailable"
+        "description": "Discover the Paradox Refinery in Forbidden Valley."
     },
     {
         "id": 753,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "Pyrophobia",
-        "description": "Unavailable"
+        "description": "Discover the Dragon's Den in Forbidden Valley."
     },
     {
         "id": 754,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "Forbidden Valley Explorer",
-        "description": "Unavailable"
+        "description": "Discover all 7 points of interest in Forbidden Valley."
     },
     {
         "id": 755,
@@ -2916,49 +2916,49 @@
         "defined_type": "Play",
         "defined_subtype": "General",
         "name": "It's Truly Random!",
-        "description": "Unavailable"
+        "description": "Roll a 6 on the LEGO die 100 times."
     },
     {
         "id": 757,
         "defined_type": "Location",
         "defined_subtype": "Venture Explorer",
         "name": "The Venture Explorer Story",
-        "description": "Unavailable"
+        "description": "Read all of the Story Plaques in the Venture Explorer spaceship."
     },
     {
         "id": 758,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "The Avant Gardens Story",
-        "description": "Unavailable"
+        "description": "Read all of the Story Plaques in Avant Gardens."
     },
     {
         "id": 759,
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "The Nimbus Station Story",
-        "description": "Unavailable"
+        "description": "Read all of the Story Plaques in Nimbus Station."
     },
     {
         "id": 760,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "The Gnarled Forest Story",
-        "description": "Unavailable"
+        "description": "Read all of the Story Plaques in Gnarled Forest."
     },
     {
         "id": 761,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "The Forbidden Valley Story",
-        "description": "Unavailable"
+        "description": "Read all of the Story Plaques in Forbidden Valley."
     },
     {
         "id": 762,
         "defined_type": "Location",
         "defined_subtype": "Pet Cove",
         "name": "The Pet Cove Story",
-        "description": "Unavailable"
+        "description": "Read both of the Story Plaques in Pet Cove."
     },
     {
         "id": 763,
@@ -3056,7 +3056,7 @@
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Join a Faction",
-        "description": "Unavailable"
+        "description": "Go to Nimbus Station and join a Faction!"
     },
     {
         "id": 779,
@@ -3084,7 +3084,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Cobwebs",
-        "description": "Unavailable"
+        "description": "Find the Maelstrom Spider's lair."
     },
     {
         "id": 786,
@@ -3098,119 +3098,119 @@
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "Dragon Tamer",
-        "description": "Unavailable"
+        "description": "Tame the Red Dragon and Green Dragon Pets."
     },
     {
         "id": 789,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "Zen Tamer",
-        "description": "Unavailable"
+        "description": "Tame the Mantis, Panda, and Goat Pets."
     },
     {
         "id": 790,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "Ninja Acolyte 1",
-        "description": "Unavailable"
+        "description": "Smash 25 Dark Ronin."
     },
     {
         "id": 791,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "Ninja Acolyte 2",
-        "description": "Unavailable"
+        "description": "Smash 100 more Dark Ronin."
     },
     {
         "id": 792,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "Ninja Acolyte 3",
-        "description": "Unavailable"
+        "description": "Smash 1000 more Dark Ronin."
     },
     {
         "id": 793,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "Ninja Initiate 1",
-        "description": "Unavailable"
+        "description": "Smash 10 Maelstrom Horsemen."
     },
     {
         "id": 794,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "Ninja Initiate 2",
-        "description": "Unavailable"
+        "description": "Smash 100 more Maelstrom Horsemen."
     },
     {
         "id": 795,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "Ninja Initiate 3",
-        "description": "Unavailable"
+        "description": "Smash 1000 more Maelstrom Horsemen."
     },
     {
         "id": 796,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "Ninja Warlord 1",
-        "description": "Unavailable"
+        "description": "Smash 3 Maelstrom Dragons."
     },
     {
         "id": 797,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "Ninja Warlord 2",
-        "description": "Unavailable"
+        "description": "Smash 30 more Maelstrom Dragons."
     },
     {
         "id": 798,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "Ninja Warlord",
-        "description": "Unavailable"
+        "description": "Smash 300 more Maelstrom Dragons."
     },
     {
         "id": 799,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "Forbidden Valley Achiever 1",
-        "description": "Unavailable"
+        "description": "Complete 10 Missions or Achievements in Forbidden Valley."
     },
     {
         "id": 800,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "Forbidden Valley Achiever 2",
-        "description": "Unavailable"
+        "description": "Complete 10 more Missions or Achievements in Forbidden Valley, for a total of 20."
     },
     {
         "id": 801,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "Forbidden Valley Achiever 3",
-        "description": "Unavailable"
+        "description": "Complete 10 more Missions or Achievements in Forbidden Valley, for a total of 30."
     },
     {
         "id": 802,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "Forbidden Valley Achiever 4",
-        "description": "Unavailable"
+        "description": "Complete 10 more Missions or Achievements in Forbidden Valley, for a total of 40."
     },
     {
         "id": 803,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "Forbidden Valley Achiever",
-        "description": "Unavailable"
+        "description": "Complete 10 more Missions or Achievements in Forbidden Valley, for a total of 50."
     },
     {
         "id": 806,
         "defined_type": "Racing",
         "defined_subtype": "Gnarled Forest",
         "name": "Keelhaul Canyon Flag Racer",
-        "description": "Unavailable"
+        "description": "Collect 10 Flags on the Keelhaul Canyon racetrack."
     },
     {
         "id": 809,
@@ -3371,63 +3371,63 @@
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "Preemptive Strike",
-        "description": "Unavailable"
+        "description": "Smash 100 Stone Ronin Statues before they wake up."
     },
     {
         "id": 847,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "Bang a Gong",
-        "description": "Unavailable"
+        "description": "Smash 100 Dragon Gongs."
     },
     {
         "id": 848,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "Friend of the Ninja",
-        "description": "Unavailable"
+        "description": "Pass through the Ravencloud Gate in Forbidden Valley."
     },
     {
         "id": 849,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "Gate Crasher",
-        "description": "Unavailable"
+        "description": "Find both ways around the Ravencloud Gate in Forbidden Valley."
     },
     {
         "id": 850,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "Forbidden Valley Firefighter",
-        "description": "Unavailable"
+        "description": "Extinguish 100 candles in Forbidden Valley."
     },
     {
         "id": 851,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "The Way of the Hammer",
-        "description": "Unavailable"
+        "description": "Smash 25 glowing anvils, 25 Dragon statues, 25 Horse statues, and 25 Mantis statues."
     },
     {
         "id": 852,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "Tree Climber",
-        "description": "Unavailable"
+        "description": "Discover Numb Chuck's location in Forbidden Valley."
     },
     {
         "id": 854,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "Lead the Charge",
-        "description": "Unavailable"
+        "description": "Lead 100 Maelstrom Horsemen to Brick Fury so he can smash them."
     },
     {
         "id": 855,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "Lights Out",
-        "description": "Unavailable"
+        "description": "Smash 100 ninja lanterns in Forbidden Valley."
     },
     {
         "id": 856,
@@ -3469,7 +3469,7 @@
         "defined_type": "Racing",
         "defined_subtype": "Nimbus Station",
         "name": "Vertigo Loop Flag Racer",
-        "description": "Unavailable"
+        "description": "Collect 10 Flags on the Vertigo Loop racetrack."
     },
     {
         "id": 863,
@@ -3546,70 +3546,70 @@
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Beta Tester",
-        "description": "Unavailable"
+        "description": "Awarded for participation in the LEGO Universe Beta Test."
     },
     {
         "id": 876,
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Nimbus Station Achiever 1",
-        "description": "Unavailable"
+        "description": "Complete 10 Missions or Achievements in Nimbus Station."
     },
     {
         "id": 877,
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Nimbus Station Achiever 2",
-        "description": "Unavailable"
+        "description": "Complete 10 more Missions or Achievements in Nimbus Station, for a total of 20."
     },
     {
         "id": 878,
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Nimbus Station Achiever 3",
-        "description": "Unavailable"
+        "description": "Complete 10 more Missions or Achievements in Nimbus Station, for a total of 30."
     },
     {
         "id": 879,
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Nimbus Station Achiever 4",
-        "description": "Unavailable"
+        "description": "Complete 10 more Missions or Achievements in Nimbus Station, for a total of 40."
     },
     {
         "id": 880,
         "defined_type": "Build",
         "defined_subtype": null,
         "name": "Behaviors 1",
-        "description": "Unavailable"
+        "description": "Complete the introductory Property Missions."
     },
     {
         "id": 881,
         "defined_type": "Build",
         "defined_subtype": null,
         "name": "Behaviors 2",
-        "description": "Unavailable"
+        "description": "Claim a Property on Nimbus Station."
     },
     {
         "id": 882,
         "defined_type": "Build",
         "defined_subtype": null,
         "name": "Behaviors 3",
-        "description": "Unavailable"
+        "description": "Claim a Property in Gnarled Forest."
     },
     {
         "id": 883,
         "defined_type": "Build",
         "defined_subtype": null,
         "name": "Behaviors 4",
-        "description": "Unavailable"
+        "description": "Claim a Property in Forbidden Valley."
     },
     {
         "id": 885,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Friend of Bradford Rant",
-        "description": "Unavailable"
+        "description": "Help the Bradford Rant Institute of Cosmic Kinesis uncover the secret of the Pods!"
     },
     {
         "id": 889,
@@ -3630,49 +3630,49 @@
         "defined_type": "LUPs",
         "defined_subtype": null,
         "name": "Starbase 3001 Flag Hunter",
-        "description": "Unavailable"
+        "description": "Collect 5 Backpack Flags in Starbase 3001."
     },
     {
         "id": 893,
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "LEGO Club Flag Hunter",
-        "description": "Unavailable"
+        "description": "Collect 5 Backpack Flags in LEGO Club."
     },
     {
         "id": 894,
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Unavailable",
-        "description": "Unavailable"
+        "description": "Alerts the player that he can rank up in his specialty gear by purchasing a Secrets book."
     },
     {
         "id": 895,
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Unavailable",
-        "description": "Unavailable"
+        "description": "Alerts the player that he can rank up in his specialty gear by purchasing a Secrets book."
     },
     {
         "id": 896,
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Unavailable",
-        "description": "Unavailable"
+        "description": "Alerts the player that he can rank up in his specialty gear by purchasing a Secrets book."
     },
     {
         "id": 897,
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Unavailable",
-        "description": "Unavailable"
+        "description": "Alerts the player that he can rank up in his specialty gear by purchasing a Secrets book."
     },
     {
         "id": 898,
         "defined_type": "LUPs",
         "defined_subtype": null,
         "name": "Starbase 3001 Observer",
-        "description": "Unavailable"
+        "description": "Use both of the Binoculars in Starbase 3001."
     },
     {
         "id": 899,
@@ -3756,42 +3756,42 @@
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Gem Collector 1",
-        "description": "Unavailable"
+        "description": "Find 25 Amber Gems."
     },
     {
         "id": 934,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Gem Collector 2",
-        "description": "Unavailable"
+        "description": "Find 25 Pink Gems."
     },
     {
         "id": 935,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Gem Collector 3",
-        "description": "Unavailable"
+        "description": "Find 20 Light Blue Gems."
     },
     {
         "id": 936,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Gem Collector 4",
-        "description": "Unavailable"
+        "description": "Find 10 Green Gems."
     },
     {
         "id": 937,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Nexus Force Explorer",
-        "description": "Unavailable"
+        "description": "Discover all locations in the Nimbus System."
     },
     {
         "id": 938,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Avant Gardens Explorer",
-        "description": "Unavailable"
+        "description": "Discover all 5 points of interest in Avant Gardens."
     },
     {
         "id": 939,
@@ -3882,28 +3882,28 @@
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Venture League Adventurer 1",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 1 Adventurer Gear."
     },
     {
         "id": 953,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Paradox Shinobi 1",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 1 Shinobi Gear."
     },
     {
         "id": 954,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Sentinel Space Ranger 1",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 1 Space Ranger Gear."
     },
     {
         "id": 955,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Assembly Inventor 1",
-        "description": "Unavailable"
+        "description": "Learn the secret to wearing Rank 1 Inventor Gear."
     },
     {
         "id": 956,
@@ -3924,14 +3924,14 @@
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Flag Hunter",
-        "description": "Unavailable"
+        "description": "Collect 16 Heart Flags on Crux Prime."
     },
     {
         "id": 960,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "A Creative Opportunity",
-        "description": "Unavailable"
+        "description": "Collect the Imagination Brick on Crux Prime."
     },
     {
         "id": 961,
@@ -4099,7 +4099,7 @@
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Smash Talli Reeko!",
-        "description": "Smash the Stromling named Talli Reeko on Crux Prime."
+        "description": "Smash Talli Reeko on Crux Prime!"
     },
     {
         "id": 999,
@@ -4134,7 +4134,7 @@
         "defined_type": "Events",
         "defined_subtype": "Winter",
         "name": "Frostburgh Flag Hunter",
-        "description": "Unavailable"
+        "description": "Collect 5 Backpack Flags in Frostburgh."
     },
     {
         "id": 1006,
@@ -4176,63 +4176,63 @@
         "defined_type": "Events",
         "defined_subtype": "Winter",
         "name": "Frostburgh Explorer",
-        "description": "Unavailable"
+        "description": "Discover all 3 points of interest in Frostburgh."
     },
     {
         "id": 1032,
         "defined_type": "Events",
         "defined_subtype": "Winter",
         "name": "Frostburgh Observer",
-        "description": "Unavailable"
+        "description": "Use all 3 of the Binoculars in Frostburgh."
     },
     {
         "id": 1034,
         "defined_type": "Events",
         "defined_subtype": "Winter",
         "name": "Ice Cubes 1",
-        "description": "Unavailable"
+        "description": "Smash 25 Icy Rocks in Frostburgh."
     },
     {
         "id": 1035,
         "defined_type": "Events",
         "defined_subtype": "Winter",
         "name": "Ice Cubes",
-        "description": "Unavailable"
+        "description": "Smash 25 more Icy Rocks in Frostburgh."
     },
     {
         "id": 1038,
         "defined_type": "Events",
         "defined_subtype": "Winter",
         "name": "A Frosty Builder 1",
-        "description": "Unavailable"
+        "description": "Quick Build 10 snowmen in Frostburgh."
     },
     {
         "id": 1039,
         "defined_type": "Events",
         "defined_subtype": "Winter",
         "name": "A Frosty Builder",
-        "description": "Unavailable"
+        "description": "Quick Build 25 more snowmen in Frostburgh."
     },
     {
         "id": 1040,
         "defined_type": "Events",
         "defined_subtype": "Winter",
         "name": "Reindeer Tamer",
-        "description": "Unavailable"
+        "description": "Tame a Reindeer Pet."
     },
     {
         "id": 1041,
         "defined_type": "Events",
         "defined_subtype": "Winter",
         "name": "Frostburgh Achiever 1",
-        "description": "Unavailable"
+        "description": "Complete 10 non-daily missions or achievements in Frostburgh."
     },
     {
         "id": 1042,
         "defined_type": "Events",
         "defined_subtype": "Winter",
         "name": "Frostburgh Achiever",
-        "description": "Unavailable"
+        "description": "Complete 10 more non-daily missions or achievements in Frostburgh, for a total of 20."
     },
     {
         "id": 1047,
@@ -4246,63 +4246,63 @@
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Observer",
-        "description": "Unavailable"
+        "description": "Use all 10 of the Binoculars on Crux Prime."
     },
     {
         "id": 1053,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "The Crux Prime Story",
-        "description": "Unavailable"
+        "description": "Read all of the message plaques on Crux Prime."
     },
     {
         "id": 1054,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Discover Sentinel Point Zeta",
-        "description": "Unavailable"
+        "description": "Discover Sentinel Point Zeta on Crux Prime."
     },
     {
         "id": 1055,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Discover Caldera Mar",
-        "description": "Unavailable"
+        "description": "Discover Caldera Mar on Crux Prime."
     },
     {
         "id": 1056,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Discover the Maelstrom Quarry",
-        "description": "Unavailable"
+        "description": "Discover the Maelstrom Quarry on Crux Prime."
     },
     {
         "id": 1057,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Discover the Ninjago Ruins",
-        "description": "Unavailable"
+        "description": "Discover the Ninjago Ruins on Crux Prime."
     },
     {
         "id": 1058,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Discover Aura Mar",
-        "description": "Unavailable"
+        "description": "Discover Aura Mar on Crux Prime."
     },
     {
         "id": 1059,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Discover Rivendark Canyon",
-        "description": "Unavailable"
+        "description": "Discover Rivendark Canyon on Crux Prime."
     },
     {
         "id": 1060,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Explorer",
-        "description": "Unavailable"
+        "description": "Discover all 6 points of interest on Crux Prime."
     },
     {
         "id": 1071,
@@ -4316,350 +4316,350 @@
         "defined_type": "Battle",
         "defined_subtype": "Venture Instance",
         "name": "Hammer Down 1",
-        "description": "Unavailable"
+        "description": "Smash 50 Hammer Stromlings on the Venture Explorer spaceship."
     },
     {
         "id": 1079,
         "defined_type": "Battle",
         "defined_subtype": "Venture Instance",
         "name": "Hammer Down 2",
-        "description": "Unavailable"
+        "description": "Smash 250 more Hammer Stromlings on the Venture Explorer spaceship."
     },
     {
         "id": 1080,
         "defined_type": "Battle",
         "defined_subtype": "Venture Instance",
         "name": "Corrupted Sentry Destroyer 1",
-        "description": "Unavailable"
+        "description": "Smash 25 Corrupted Sentries on the Venture Explorer spaceship."
     },
     {
         "id": 1081,
         "defined_type": "Battle",
         "defined_subtype": "Venture Instance",
         "name": "Corrupted Sentry Destroyer 2",
-        "description": "Unavailable"
+        "description": "Smash 125 more Corrupted Sentries on the Venture Explorer spaceship."
     },
     {
         "id": 1082,
         "defined_type": "Battle",
         "defined_subtype": "Venture Instance",
         "name": "Elite Spiderling Destroyer 1",
-        "description": "Unavailable"
+        "description": "Smash 10 Elite Dark Spiderlings on the Venture Explorer spaceship."
     },
     {
         "id": 1083,
         "defined_type": "Battle",
         "defined_subtype": "Venture Instance",
         "name": "Elite Spiderling Destroyer 2",
-        "description": "Unavailable"
+        "description": "Smash 50 more Elite Dark Spiderlings on the Venture Explorer spaceship."
     },
     {
         "id": 1085,
         "defined_type": "Events",
         "defined_subtype": "Winter",
         "name": "Snow Day 1",
-        "description": "Unavailable"
+        "description": "Complete 20 Daily Winter Missions."
     },
     {
         "id": 1086,
         "defined_type": "Events",
         "defined_subtype": "Winter",
         "name": "Snow Day 2",
-        "description": "Unavailable"
+        "description": "Complete 20 more Daily Winter Missions."
     },
     {
         "id": 1087,
         "defined_type": "Events",
         "defined_subtype": "Winter",
         "name": "Snow Day",
-        "description": "Unavailable"
+        "description": "Complete 20 more Daily Winter Missions."
     },
     {
         "id": 1088,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Space Debris 1",
-        "description": "Unavailable"
+        "description": "Smash 10 pieces of Venture Koi debris on Crux Prime."
     },
     {
         "id": 1089,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Space Debris 2",
-        "description": "Unavailable"
+        "description": "Smash 50 more pieces of Venture Koi debris on Crux Prime."
     },
     {
         "id": 1090,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Space Debris 3",
-        "description": "Unavailable"
+        "description": "Smash 100 more pieces of Venture Koi debris on Crux Prime."
     },
     {
         "id": 1091,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Bone to Pick 1",
-        "description": "Unavailable"
+        "description": "Smash 25 pieces of Skeleton equipment on Crux Prime."
     },
     {
         "id": 1092,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Bone to Pick 2",
-        "description": "Unavailable"
+        "description": "Smash 100 more pieces of Skeleton equipment on Crux Prime."
     },
     {
         "id": 1093,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Bone to Pick 3",
-        "description": "Unavailable"
+        "description": "Smash 250 more pieces of Skeleton equipment on Crux Prime."
     },
     {
         "id": 1094,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Shield Builder 1",
-        "description": "Unavailable"
+        "description": "Quick Build 10 Shield Zones on Crux Prime."
     },
     {
         "id": 1095,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Shield Builder 2",
-        "description": "Unavailable"
+        "description": "Quick Build 50 more Shield Zones on Crux Prime."
     },
     {
         "id": 1096,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Shield Builder 3",
-        "description": "Unavailable"
+        "description": "Quick Build 100 more Shield Zones on Crux Prime."
     },
     {
         "id": 1100,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Defender 1",
-        "description": "Unavailable"
+        "description": "Smash 50 Stromling Invaders on Crux Prime."
     },
     {
         "id": 1101,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Defender 2",
-        "description": "Unavailable"
+        "description": "Smash 100 more Stromling Invaders on Crux Prime."
     },
     {
         "id": 1102,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Defender 3",
-        "description": "Unavailable"
+        "description": "Smash 500 more Stromling Invaders on Crux Prime."
     },
     {
         "id": 1103,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Defender",
-        "description": "Unavailable"
+        "description": "Smash 1000 more Stromling Invaders on Crux Prime."
     },
     {
         "id": 1104,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Hacker 1",
-        "description": "Unavailable"
+        "description": "Smash 50 Stromling Mech Invaders on Crux Prime."
     },
     {
         "id": 1105,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Hacker 2",
-        "description": "Unavailable"
+        "description": "Smash 150 more Stromling Mech Invaders on Crux Prime."
     },
     {
         "id": 1106,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Hacker 3",
-        "description": "Unavailable"
+        "description": "Smash 300 more Stromling Mech Invaders on Crux Prime."
     },
     {
         "id": 1107,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Exterminator 1",
-        "description": "Unavailable"
+        "description": "Smash 25 Dark Spiderling Invaders on Crux Prime."
     },
     {
         "id": 1108,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Exterminator 2",
-        "description": "Unavailable"
+        "description": "Smash 50 more Dark Spiderling Invaders on Crux Prime."
     },
     {
         "id": 1109,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Exterminator 3",
-        "description": "Unavailable"
+        "description": "Smash 125 more Dark Spiderling Invaders on Crux Prime."
     },
     {
         "id": 1110,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Avenger 1",
-        "description": "Unavailable"
+        "description": "Smash 50 Stromling Pirate Invaders on Crux Prime."
     },
     {
         "id": 1111,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Avenger 2",
-        "description": "Unavailable"
+        "description": "Smash 100 more Stromling Pirate Invaders on Crux Prime."
     },
     {
         "id": 1112,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Avenger 3",
-        "description": "Unavailable"
+        "description": "Smash 500 more Stromling Pirate Invaders on Crux Prime."
     },
     {
         "id": 1113,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Avenger",
-        "description": "Unavailable"
+        "description": "Smash 1000 more Stromling Pirate Invaders on Crux Prime."
     },
     {
         "id": 1114,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Mutineer 1",
-        "description": "Unavailable"
+        "description": "Smash 25 Stromling Admiral Invaders on Crux Prime."
     },
     {
         "id": 1115,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Mutineer 2",
-        "description": "Unavailable"
+        "description": "Smash 50 more Stromling Admiral Invaders on Crux Prime."
     },
     {
         "id": 1116,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Mutineer 3",
-        "description": "Unavailable"
+        "description": "Smash 125 more Stromling Admiral Invaders on Crux Prime."
     },
     {
         "id": 1117,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Ape Whisperer 1",
-        "description": "Unavailable"
+        "description": "Smash 10 Stromling Ape Invaders on Crux Prime."
     },
     {
         "id": 1118,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Ape Whisperer 2",
-        "description": "Unavailable"
+        "description": "Smash 50 more Stromling Ape Invaders on Crux Prime."
     },
     {
         "id": 1119,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Ape Whisperer 3",
-        "description": "Unavailable"
+        "description": "Smash 125 more Stromling Ape Invaders on Crux Prime."
     },
     {
         "id": 1120,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Guardian 1",
-        "description": "Unavailable"
+        "description": "Smash 25 Dark Ronin Invaders on Crux Prime."
     },
     {
         "id": 1121,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Guardian 2",
-        "description": "Unavailable"
+        "description": "Smash 50 more Dark Ronin Invaders on Crux Prime."
     },
     {
         "id": 1122,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Guardian 3",
-        "description": "Unavailable"
+        "description": "Smash 125 more Dark Ronin Invaders on Crux Prime."
     },
     {
         "id": 1123,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Shogun 1",
-        "description": "Unavailable"
+        "description": "Smash 25 Maelstrom Horseman Invaders on Crux Prime."
     },
     {
         "id": 1124,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Shogun 2",
-        "description": "Unavailable"
+        "description": "Smash 50 more Maelstrom Horseman Invaders on Crux Prime."
     },
     {
         "id": 1125,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Shogun 3",
-        "description": "Unavailable"
+        "description": "Smash 125 more Maelstrom Horseman Invaders on Crux Prime."
     },
     {
         "id": 1126,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Dragonslayer 1",
-        "description": "Unavailable"
+        "description": "Smash 5 Maelstrom Dragon Invaders on Crux Prime."
     },
     {
         "id": 1127,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Dragonslayer 2",
-        "description": "Unavailable"
+        "description": "Smash 25 more Maelstrom Dragon Invaders on Crux Prime."
     },
     {
         "id": 1128,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Dragonslayer 3",
-        "description": "Unavailable"
+        "description": "Smash 50 more Maelstrom Dragon Invaders on Crux Prime."
     },
     {
         "id": 1129,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Bonesmasher 1",
-        "description": "Unavailable"
+        "description": "Smash 50 Skeletons on Crux Prime."
     },
     {
         "id": 1130,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Bonesmasher 2",
-        "description": "Unavailable"
+        "description": "Smash 125 more Skeletons on Crux Prime."
     },
     {
         "id": 1131,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Bonesmasher 3",
-        "description": "Unavailable"
+        "description": "Smash 500 more Skeletons on Crux Prime."
     },
     {
         "id": 1132,
@@ -4673,112 +4673,112 @@
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Champion 1",
-        "description": "Unavailable"
+        "description": "Smash any named Maelstrom enemy on Crux Prime."
     },
     {
         "id": 1134,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Champion 2",
-        "description": "Unavailable"
+        "description": "Smash 5  more named Maelstrom enemies on Crux Prime."
     },
     {
         "id": 1135,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Champion 3",
-        "description": "Unavailable"
+        "description": "Smash 10 more named Maelstrom enemies on Crux Prime."
     },
     {
         "id": 1136,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Gardener",
-        "description": "Unavailable"
+        "description": "Water 100 Aura Blossom flowers on Crux Prime."
     },
     {
         "id": 1137,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Pathfinder",
-        "description": "Unavailable"
+        "description": "Quick Build 25 Venture League Bouncers on Crux Prime."
     },
     {
         "id": 1138,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Turn Off That Noise!",
-        "description": "Unavailable"
+        "description": "Quick Build 25 Skeleton Growlspeakers on Crux Prime."
     },
     {
         "id": 1139,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Spinjitzu Initiate 1",
-        "description": "Unavailable"
+        "description": "Use Imagination Spinjitzu to destroy 25 enemies on Crux Prime."
     },
     {
         "id": 1140,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Spinjitzu Initiate",
-        "description": "Unavailable"
+        "description": "Use Imagination Spinjitzu to destroy 100 more enemies on Crux Prime."
     },
     {
         "id": 1141,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Achiever 1",
-        "description": "Unavailable"
+        "description": "Complete 15 Missions or Achievements on Crux Prime."
     },
     {
         "id": 1142,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Achiever 2",
-        "description": "Unavailable"
+        "description": "Complete 15 more Missions or Achievements on Crux Prime, for a total of 30."
     },
     {
         "id": 1143,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Achiever 3",
-        "description": "Unavailable"
+        "description": "Complete 15 more Missions or Achievements on Crux Prime, for a total of 45."
     },
     {
         "id": 1144,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Achiever 4",
-        "description": "Unavailable"
+        "description": "Complete 15 more Missions or Achievements on Crux Prime, for a total of 60."
     },
     {
         "id": 1145,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Achiever",
-        "description": "Unavailable"
+        "description": "Complete 15 more Missions or Achievements on Crux Prime, for a total of 75."
     },
     {
         "id": 1146,
         "defined_type": "Events",
         "defined_subtype": "Winter",
         "name": "Discover Sneezy's Chateau",
-        "description": "Unavailable"
+        "description": "Discover Sneezy's Chateau in Frostburgh."
     },
     {
         "id": 1147,
         "defined_type": "Events",
         "defined_subtype": "Winter",
         "name": "Discover the Frostburgh Race Place",
-        "description": "Unavailable"
+        "description": "Discover the Race Place in Frostburgh."
     },
     {
         "id": 1148,
         "defined_type": "Events",
         "defined_subtype": "Winter",
         "name": "Discover Fritz's Workshop",
-        "description": "Unavailable"
+        "description": "Discover Fritz's Workshop in Frostburgh."
     },
     {
         "id": 1150,
@@ -4813,28 +4813,28 @@
         "defined_type": "General",
         "defined_subtype": "",
         "name": "Collector of Corruption 1",
-        "description": "Unavailable"
+        "description": "Collect 100 Maelstrom-infected bricks."
     },
     {
         "id": 1155,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Collector of Corruption 2",
-        "description": "Unavailable"
+        "description": "Collect 250 Maelstrom-infected bricks."
     },
     {
         "id": 1156,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Collector of Corruption 3",
-        "description": "Unavailable"
+        "description": "Collect 500 Maelstrom-infected bricks."
     },
     {
         "id": 1157,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Collector of Corruption",
-        "description": "Unavailable"
+        "description": "Collect 1000 Maelstrom-infected bricks."
     },
     {
         "id": 1158,
@@ -4883,7 +4883,7 @@
         "defined_type": "Racing",
         "defined_subtype": "Forbidden Valley",
         "name": "Dragonmaw Chasm Super Champ",
-        "description": "Unavailable"
+        "description": "Win 10 races at the Dragonmaw Chasm racetrack. Minimum of 3 players per race."
     },
     {
         "id": 1165,
@@ -4897,21 +4897,21 @@
         "defined_type": "Racing",
         "defined_subtype": "Forbidden Valley",
         "name": "Dragonmaw Chasm Flag Racer",
-        "description": "Unavailable"
+        "description": "Collect 10 Flags at the Dragonmaw Chasm racetrack."
     },
     {
         "id": 1167,
         "defined_type": "Racing",
         "defined_subtype": "Forbidden Valley",
         "name": "Terror of Dragonmaw Chasm",
-        "description": "Unavailable"
+        "description": "Smash 200 Dragon Eggs at the Dragonmaw Chasm racetrack."
     },
     {
         "id": 1168,
         "defined_type": "Events",
         "defined_subtype": "Winter",
         "name": "Space Blizzard Super Champ",
-        "description": "Unavailable"
+        "description": "Win 10 races at the Space Blizzard racetrack. Minimum 3 players in the race."
     },
     {
         "id": 1170,
@@ -4953,7 +4953,7 @@
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Nexus Tower Flag Hunter",
-        "description": "Unavailable"
+        "description": "Collect 15 Backpack Flags in Nexus Tower."
     },
     {
         "id": 1180,
@@ -5002,7 +5002,7 @@
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Nexus Tower Observer",
-        "description": "Unavailable"
+        "description": "Use all 8 of the binoculars in Nexus Tower."
     },
     {
         "id": 1188,
@@ -5023,7 +5023,7 @@
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "A Creative Opportunity",
-        "description": "Unavailable"
+        "description": "Collect the Imagination Brick in Nexus Tower."
     },
     {
         "id": 1194,
@@ -5065,28 +5065,28 @@
         "defined_type": "Build",
         "defined_subtype": "",
         "name": "The Visitor 1",
-        "description": "Unavailable"
+        "description": "Visit 25 Properties that you have not previously visited, on any world."
     },
     {
         "id": 1200,
         "defined_type": "Build",
         "defined_subtype": null,
         "name": "The Visitor 2",
-        "description": "Unavailable"
+        "description": "Visit 75 more Properties that you have not previously visited, on any world."
     },
     {
         "id": 1201,
         "defined_type": "Build",
         "defined_subtype": null,
         "name": "The Visitor 3",
-        "description": "Unavailable"
+        "description": "Visit 150 more Properties that you have not previously visited, on any world."
     },
     {
         "id": 1202,
         "defined_type": "Build",
         "defined_subtype": null,
         "name": "The Visitor 4",
-        "description": "Unavailable"
+        "description": "Visit 250 more Properties that you have not previously visited, on any world."
     },
     {
         "id": 1203,
@@ -5100,56 +5100,56 @@
         "defined_type": "Build",
         "defined_subtype": "",
         "name": "Model Mover 1",
-        "description": "Unavailable"
+        "description": "Place 25 models on any of your Properties."
     },
     {
         "id": 1205,
         "defined_type": "Build",
         "defined_subtype": null,
         "name": "Model Mover 2",
-        "description": "Unavailable"
+        "description": "Place 75 more models on any of your Properties."
     },
     {
         "id": 1206,
         "defined_type": "Build",
         "defined_subtype": null,
         "name": "Model Mover 3",
-        "description": "Unavailable"
+        "description": "Place 150 more models on any of your Properties."
     },
     {
         "id": 1207,
         "defined_type": "Build",
         "defined_subtype": null,
         "name": "Model Mover",
-        "description": "Unavailable"
+        "description": "Place 250 more models on any of your Properties."
     },
     {
         "id": 1208,
         "defined_type": "Build",
         "defined_subtype": null,
         "name": "Ain't Misbehavin' 1",
-        "description": "Unavailable"
+        "description": "Add 5 Behaviors to any of your models."
     },
     {
         "id": 1209,
         "defined_type": "Build",
         "defined_subtype": null,
         "name": "Ain't Misbehavin' 2",
-        "description": "Unavailable"
+        "description": "Add 25 more Behaviors to any of your models."
     },
     {
         "id": 1210,
         "defined_type": "Build",
         "defined_subtype": null,
         "name": "Ain't Misbehavin' 3",
-        "description": "Unavailable"
+        "description": "Add 50 more Behaviors to any of your models."
     },
     {
         "id": 1211,
         "defined_type": "Build",
         "defined_subtype": null,
         "name": "Ain't Misbehavin'",
-        "description": "Unavailable"
+        "description": "Add 75 more Behaviors to any of your models."
     },
     {
         "id": 1213,
@@ -5240,140 +5240,140 @@
         "defined_type": "Battle",
         "defined_subtype": "Nimbus Instance",
         "name": "Murgle Blotch Timesmash 1",
-        "description": "Unavailable"
+        "description": "Defeat Murgle Blotch in the Battle of Nimbus Station in less than 4:00."
     },
     {
         "id": 1227,
         "defined_type": "Battle",
         "defined_subtype": "Nimbus Instance",
         "name": "Kinga Hurl Timesmash 1",
-        "description": "Unavailable"
+        "description": "Defeat Kinga Hurl in the Battle of Nimbus Station in less than 10:00."
     },
     {
         "id": 1228,
         "defined_type": "Battle",
         "defined_subtype": "Nimbus Instance",
         "name": "Whack Bliddo Timesmash 1",
-        "description": "Unavailable"
+        "description": "Defeat Whack Bliddo in the Battle of Nimbus Station in less than 14:00."
     },
     {
         "id": 1229,
         "defined_type": "Battle",
         "defined_subtype": "Nimbus Instance",
         "name": "The Four Riders Timesmash 1",
-        "description": "Unavailable"
+        "description": "Defeat the Four Riders of the Maelstrom in the Battle of Nimbus Station in less than 20:00."
     },
     {
         "id": 1230,
         "defined_type": "Battle",
         "defined_subtype": "Nimbus Instance",
         "name": "The Curse of Murgle Blotch 1",
-        "description": "Unavailable"
+        "description": "Defeat Murgle Blotch in the Battle of Nimbus Station 50 times."
     },
     {
         "id": 1231,
         "defined_type": "Battle",
         "defined_subtype": "Nimbus Instance",
         "name": "The Curse of Murgle Blotch",
-        "description": "Unavailable"
+        "description": "Defeat Murgle Blotch in the Battle of Nimbus Station 150 more times."
     },
     {
         "id": 1232,
         "defined_type": "Battle",
         "defined_subtype": "Nimbus Instance",
         "name": "The Curse of Kinga Hurl 1",
-        "description": "Unavailable"
+        "description": "Defeat Kinga Hurl in the Battle of Nimbus Station 25 times."
     },
     {
         "id": 1233,
         "defined_type": "Battle",
         "defined_subtype": "Nimbus Instance",
         "name": "The Curse of Kinga Hurl",
-        "description": "Unavailable"
+        "description": "Defeat Kinga Hurl in the Battle of Nimbus Station 100 more times."
     },
     {
         "id": 1234,
         "defined_type": "Battle",
         "defined_subtype": "Nimbus Instance",
         "name": "The Curse of Whack Bliddo 1",
-        "description": "Unavailable"
+        "description": "Defeat Whack Bliddo in the Battle of Nimbus Station 10 times."
     },
     {
         "id": 1235,
         "defined_type": "Battle",
         "defined_subtype": "Nimbus Instance",
         "name": "The Curse of Whack Bliddo",
-        "description": "Unavailable"
+        "description": "Defeat Whack Bliddo in the Battle of Nimbus Station 50 more times."
     },
     {
         "id": 1236,
         "defined_type": "Battle",
         "defined_subtype": "Nimbus Instance",
         "name": "The Four Riders of the Maelstrom 1",
-        "description": "Unavailable"
+        "description": "Defeat the Four Riders of the Maelstrom in the Battle of Nimbus Station 5 times."
     },
     {
         "id": 1237,
         "defined_type": "Battle",
         "defined_subtype": "Nimbus Instance",
         "name": "The Four Riders of the Maelstrom",
-        "description": "Unavailable"
+        "description": "Defeat the Four Riders of the Maelstrom in the Battle of Nimbus Station 25 more times."
     },
     {
         "id": 1238,
         "defined_type": "Battle",
         "defined_subtype": "Nimbus Instance",
         "name": "Resistance Force 1",
-        "description": "Unavailable"
+        "description": "Smash 250 enemies in the Battle of Nimbus Station."
     },
     {
         "id": 1239,
         "defined_type": "Battle",
         "defined_subtype": "Nimbus Instance",
         "name": "Resistance Force 2",
-        "description": "Unavailable"
+        "description": "Smash 500 more enemies in the Battle of Nimbus Station."
     },
     {
         "id": 1240,
         "defined_type": "Battle",
         "defined_subtype": "Nimbus Instance",
         "name": "Resistance Force 3",
-        "description": "Unavailable"
+        "description": "Smash 1000 more enemies in the Battle of Nimbus Station."
     },
     {
         "id": 1241,
         "defined_type": "Battle",
         "defined_subtype": "Nimbus Instance",
         "name": "Resistance Force 4",
-        "description": "Unavailable"
+        "description": "Smash 2500 more enemies in the Battle of Nimbus Station."
     },
     {
         "id": 1242,
         "defined_type": "Battle",
         "defined_subtype": "Nimbus Instance",
         "name": "Murgle Blotch Timesmash 2",
-        "description": "Unavailable"
+        "description": "Defeat Murgle Blotch in the Battle of Nimbus Station in less than 3:10."
     },
     {
         "id": 1243,
         "defined_type": "Battle",
         "defined_subtype": "Nimbus Instance",
         "name": "Kinga Hurl Timesmash 2",
-        "description": "Unavailable"
+        "description": "Defeat Kinga Hurl in the Battle of Nimbus Station in less than 7:30."
     },
     {
         "id": 1244,
         "defined_type": "Battle",
         "defined_subtype": "Nimbus Instance",
         "name": "Whack Bliddo Timesmash 2",
-        "description": "Unavailable"
+        "description": "Defeat Whack Bliddo in the Battle of Nimbus Station in less than 12:00."
     },
     {
         "id": 1245,
         "defined_type": "Battle",
         "defined_subtype": "Nimbus Instance",
         "name": "The Four Riders Timesmash 2",
-        "description": "Unavailable"
+        "description": "Defeat the Four Riders of the Maelstrom in the Battle of Nimbus Station in less than 18:00."
     },
     {
         "id": 1246,
@@ -5506,56 +5506,56 @@
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Smash ED-902!",
-        "description": "Smash ED-902 on Crux Prime."
+        "description": "Smash ED-902 on Crux Prime!"
     },
     {
         "id": 1268,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Smash Muffet Bane!",
-        "description": "Smash Muffet Bane on Crux Prime."
+        "description": "Smash Muffet Bane on Crux Prime!"
     },
     {
         "id": 1269,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Smash Gull Rawstew!",
-        "description": "Smash Gull Rawstew on Crux Prime."
+        "description": "Smash Gull Rawstew on Crux Prime!"
     },
     {
         "id": 1270,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Smash Admiral Flogmore!",
-        "description": "Smash Admiral Flogmore on Crux Prime."
+        "description": "Smash Admiral Flogmore on Crux Prime!"
     },
     {
         "id": 1271,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Smash Roo Morgg!",
-        "description": "Smash Roo Morgg on Crux Prime."
+        "description": "Smash Roo Morgg on Crux Prime!"
     },
     {
         "id": 1272,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Smash Grim Daisho!",
-        "description": "Smash Grim Daisho on Crux Prime."
+        "description": "Smash Grim Daisho on Crux Prime!"
     },
     {
         "id": 1273,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Smash Vargas the Tormented!",
-        "description": "Smash Vargas the Tormented on Crux Prime."
+        "description": "Smash Vargas the Tormented on Crux Prime!"
     },
     {
         "id": 1274,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Smash Butterscorch!",
-        "description": "Smash Butterscorch on Crux Prime."
+        "description": "Smash Butterscorch on Crux Prime!"
     },
     {
         "id": 1275,
@@ -5604,7 +5604,7 @@
         "defined_type": "Events",
         "defined_subtype": "Winter",
         "name": "Against the Posts",
-        "description": "Unavailable"
+        "description": "Smash 5 lamp posts in Frostburgh."
     },
     {
         "id": 1291,
@@ -5751,56 +5751,56 @@
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Fright Speed Body Work",
-        "description": "Unavailable"
+        "description": "Collect the Fright Speed Car front and rear bumpers and side panels."
     },
     {
         "id": 1312,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Fright Speed Engine Work",
-        "description": "Unavailable"
+        "description": "Find a Fright Speed Car Engine Panel and Rear Panel."
     },
     {
         "id": 1313,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Morbid Orbit Collector",
-        "description": "Unavailable"
+        "description": "Collect all three Morbid Orbit rocket parts."
     },
     {
         "id": 1314,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Starskull Collector",
-        "description": "Unavailable"
+        "description": "Collect all three Starskull Rocket parts."
     },
     {
         "id": 1315,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Terror Comet Collector",
-        "description": "Unavailable"
+        "description": "Collect all three Terror Comet Rocket parts."
     },
     {
         "id": 1316,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Skeleton Rocket Collector",
-        "description": "Unavailable"
+        "description": "Collect all 9 Skeleton Rocket parts."
     },
     {
         "id": 1317,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Fright Speed Mechanic",
-        "description": "Unavailable"
+        "description": "Collect all five Fright Speed car parts."
     },
     {
         "id": 1318,
         "defined_type": "Play",
         "defined_subtype": "General",
         "name": "The Prideful Pet Tamer",
-        "description": "Unavailable"
+        "description": "Tame a Lion Pet."
     },
     {
         "id": 1319,
@@ -5849,70 +5849,70 @@
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Picky Shopper 1",
-        "description": "Unavailable"
+        "description": "Interact with 3 of the vendors in Nexus Tower."
     },
     {
         "id": 1326,
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Picky Shopper 2",
-        "description": "Unavailable"
+        "description": "Interact with 4 more vendors in Nexus Tower."
     },
     {
         "id": 1327,
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Picky Shopper 3",
-        "description": "Unavailable"
+        "description": "Interact with 6 more vendors in Nexus Tower."
     },
     {
         "id": 1328,
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Picky Shopper",
-        "description": "Unavailable"
+        "description": "Interact with 4 more vendors in Nexus Tower."
     },
     {
         "id": 1329,
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Thirsty Traveler",
-        "description": "Unavailable"
+        "description": "Interact with the water fountains in Nexus Tower 25 times."
     },
     {
         "id": 1330,
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Speedy Traveler 1",
-        "description": "Unavailable"
+        "description": "Use any of the shortcuts in Nexus Tower 20 times."
     },
     {
         "id": 1331,
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Speedy Traveler 2",
-        "description": "Unavailable"
+        "description": "Use any of the shortcuts in Nexus Tower 20 more times."
     },
     {
         "id": 1332,
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Speedy Traveler",
-        "description": "Unavailable"
+        "description": "Use any of the shortcuts in Nexus Tower 40 more times."
     },
     {
         "id": 1333,
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Mr. Clean",
-        "description": "Unavailable"
+        "description": "Use the Soap Gun to clean up 24 dirt clouds in Nexus Tower."
     },
     {
         "id": 1334,
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Faction Pet Tamer",
-        "description": "Unavailable"
+        "description": "Tame your Faction pet in Nexus Tower."
     },
     {
         "id": 1335,
@@ -5926,42 +5926,42 @@
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "You Got Bank",
-        "description": "Unavailable"
+        "description": "Expand 120 slots in your Vault account."
     },
     {
         "id": 1340,
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Combat Challenger 1",
-        "description": "Unavailable"
+        "description": "Score 100 damage points at the Combat Challenge in Nexus Tower."
     },
     {
         "id": 1341,
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Combat Challenger 2",
-        "description": "Unavailable"
+        "description": "Score 240 damage points at the Combat Challenge in Nexus Tower."
     },
     {
         "id": 1342,
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Combat Challenger",
-        "description": "Unavailable"
+        "description": "Score 290 damage points at the Combat Challenge in Nexus Tower."
     },
     {
         "id": 1344,
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Gaze Into the Abyss",
-        "description": "Unavailable"
+        "description": "Look into the Maelstrom Orb in Nexus Tower 15 times."
     },
     {
         "id": 1346,
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Sleeping On The Job",
-        "description": "Unavailable"
+        "description": "Use an Action Emote to wake up the Sentinel Checkpoint Guard in Nexus Tower."
     },
     {
         "id": 1348,
@@ -5982,35 +5982,35 @@
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Like Clockwork 1",
-        "description": "Unavailable"
+        "description": "Complete 25 Daily Missions."
     },
     {
         "id": 1351,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Like Clockwork 2",
-        "description": "Unavailable"
+        "description": "Complete 100 Daily Missions."
     },
     {
         "id": 1352,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Like Clockwork 3",
-        "description": "Unavailable"
+        "description": "Complete 250 Daily Missions."
     },
     {
         "id": 1353,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Like Clockwork 4",
-        "description": "Unavailable"
+        "description": "Complete 500 Daily Missions."
     },
     {
         "id": 1354,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "Like Clockwork",
-        "description": "Unavailable"
+        "description": "Complete 1000 Daily Missions."
     },
     {
         "id": 1355,
@@ -6080,70 +6080,70 @@
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Back-Alley Buyer",
-        "description": "Unavailable"
+        "description": "Buy any 3 items from Mr. Ree, the Shady Vendor in Nexus Tower."
     },
     {
         "id": 1366,
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Creative Flow 1",
-        "description": "Unavailable"
+        "description": "Quick Build any of the Imagination pipes in Nexus Tower 10 times."
     },
     {
         "id": 1367,
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Creative Flow 2",
-        "description": "Unavailable"
+        "description": "Quick Build any of the Imagination pipes in Nexus Tower 20 more times."
     },
     {
         "id": 1368,
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Creative Flow",
-        "description": "Unavailable"
+        "description": "Quick Build any of the Imagination pipes in Nexus Tower 40 more times."
     },
     {
         "id": 1369,
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Nexus Tower Achiever 1",
-        "description": "Unavailable"
+        "description": "Complete 10 Missions or Achievements in Nexus Tower."
     },
     {
         "id": 1370,
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Nexus Tower Achiever 2",
-        "description": "Unavailable"
+        "description": "Complete 10 more Missions or Achievements in Nexus Tower, for a total of 20."
     },
     {
         "id": 1371,
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Nexus Tower Achiever 3",
-        "description": "Unavailable"
+        "description": "Complete 20 more Missions or Achievements in Nexus Tower, for a total of 40."
     },
     {
         "id": 1372,
         "defined_type": "General",
         "defined_subtype": "",
         "name": "The Knight's Gear 1",
-        "description": "Unavailable"
+        "description": "Equip all 4 pieces of the Rank 1 Knight gear."
     },
     {
         "id": 1373,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Knight's Gear 2",
-        "description": "Unavailable"
+        "description": "Equip all 6 pieces of the Rank 2 Knight gear."
     },
     {
         "id": 1374,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Knight's Gear 3",
-        "description": "Unavailable"
+        "description": "Equip all 6 pieces of the Rank 3 Knight gear."
     },
     {
         "id": 1377,
@@ -6220,7 +6220,7 @@
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "The Nexus Tower Story",
-        "description": "Unavailable"
+        "description": "Read all of the Story Plaques in Nexus Tower."
     },
     {
         "id": 1389,
@@ -6507,42 +6507,42 @@
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Nexus Tower Builder 1",
-        "description": "Unavailable"
+        "description": "Donate 50 bricks to the Nexus Jawbox in Nimbus Station."
     },
     {
         "id": 1442,
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Nexus Tower Builder 2",
-        "description": "Unavailable"
+        "description": "Donate 250 bricks to the Nexus Jawbox in Nimbus Station."
     },
     {
         "id": 1443,
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Nexus Tower Builder 3",
-        "description": "Unavailable"
+        "description": "Donate 500 bricks to the Nexus Jawbox in Nimbus Station."
     },
     {
         "id": 1445,
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Nexus Tower Builder 4",
-        "description": "Unavailable"
+        "description": "Donate 1000 bricks to the Nexus Jawbox in Nimbus Station."
     },
     {
         "id": 1446,
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Nexus Tower Builder 5",
-        "description": "Unavailable"
+        "description": "Donate 2500 bricks to the Nexus Jawbox in Nimbus Station."
     },
     {
         "id": 1447,
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Nexus Tower Builder 6",
-        "description": "Unavailable"
+        "description": "Donate 10,000 bricks to the Nexus Jawbox in Nimbus Station."
     },
     {
         "id": 1448,
@@ -6605,231 +6605,231 @@
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Samurai's Gear 1",
-        "description": "Unavailable"
+        "description": "Equip all 4 pieces of the Rank 1 Samurai gear."
     },
     {
         "id": 1467,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Samurai's Gear 2",
-        "description": "Unavailable"
+        "description": "Equip all 6 pieces of the Rank 2 Samurai gear."
     },
     {
         "id": 1468,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Samurai's Gear 3",
-        "description": "Unavailable"
+        "description": "Equip all 6 pieces of the Rank 3 Samurai gear."
     },
     {
         "id": 1469,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Space Ranger's Gear 1",
-        "description": "Unavailable"
+        "description": "Equip all 4 pieces of the Rank 1 Space Ranger gear."
     },
     {
         "id": 1470,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Space Ranger's Gear 2",
-        "description": "Unavailable"
+        "description": "Equip all 6 pieces of the Rank 2 Space Ranger gear."
     },
     {
         "id": 1471,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Space Ranger's Gear 3",
-        "description": "Unavailable"
+        "description": "Equip all 6 pieces of the Rank 3 Space Ranger gear."
     },
     {
         "id": 1472,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Engineer's Gear 1",
-        "description": "Unavailable"
+        "description": "Equip all 4 pieces of the Rank 1 Engineer gear."
     },
     {
         "id": 1473,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Engineer's Gear 2",
-        "description": "Unavailable"
+        "description": "Equip all 6 pieces of the Rank 2 Engineer gear."
     },
     {
         "id": 1474,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Engineer's Gear 3",
-        "description": "Unavailable"
+        "description": "Equip all 6 pieces of the Rank 3 Engineer gear."
     },
     {
         "id": 1475,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Summoner's Gear 1",
-        "description": "Unavailable"
+        "description": "Equip all 4 pieces of the Rank 1 Summoner gear."
     },
     {
         "id": 1476,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Summoner's Gear 2",
-        "description": "Unavailable"
+        "description": "Equip all 6 pieces of the Rank 2 Summoner gear."
     },
     {
         "id": 1477,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Summoner's Gear 3",
-        "description": "Unavailable"
+        "description": "Equip all 6 pieces of the Rank 3 Summoner gear."
     },
     {
         "id": 1478,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Inventor's Gear 1",
-        "description": "Unavailable"
+        "description": "Equip all 4 pieces of the Rank 1 Inventor gear."
     },
     {
         "id": 1479,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Inventor's Gear 2",
-        "description": "Unavailable"
+        "description": "Equip all 6 pieces of the Rank 2 Inventor gear."
     },
     {
         "id": 1480,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Inventor's Gear 3",
-        "description": "Unavailable"
+        "description": "Equip all 6 pieces of the Rank 3 Inventor gear."
     },
     {
         "id": 1481,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Sorcerer's Gear 1",
-        "description": "Unavailable"
+        "description": "Equip all 4 pieces of the Rank 1 Sorcerer gear."
     },
     {
         "id": 1482,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Sorcerer's Gear 2",
-        "description": "Unavailable"
+        "description": "Equip all 6 pieces of the Rank 2 Sorcerer gear."
     },
     {
         "id": 1483,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Sorcerer's Gear 3",
-        "description": "Unavailable"
+        "description": "Equip all 6 pieces of the Rank 3 Sorcerer gear."
     },
     {
         "id": 1484,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Space Marauder's Gear 1",
-        "description": "Unavailable"
+        "description": "Equip all 4 pieces of the Rank 1 Space Marauder gear."
     },
     {
         "id": 1485,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Space Marauder's Gear 2",
-        "description": "Unavailable"
+        "description": "Equip all 6 pieces of the Rank 2 Space Marauder gear."
     },
     {
         "id": 1486,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Space Marauder's Gear 3",
-        "description": "Unavailable"
+        "description": "Equip all 6 pieces of the Rank 3 Space Marauder gear."
     },
     {
         "id": 1487,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Shinobi's Gear 1",
-        "description": "Unavailable"
+        "description": "Equip all 4 pieces of the Rank 1 Shinobi gear."
     },
     {
         "id": 1488,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Shinobi's Gear 2",
-        "description": "Unavailable"
+        "description": "Equip all 6 pieces of the Rank 2 Shinobi gear."
     },
     {
         "id": 1489,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Shinobi's Gear 3",
-        "description": "Unavailable"
+        "description": "Equip all 6 pieces of the Rank 3 Shinobi gear."
     },
     {
         "id": 1490,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Buccaneer's Gear 1",
-        "description": "Unavailable"
+        "description": "Equip all 4 pieces of the Rank 1 Buccaneer gear."
     },
     {
         "id": 1491,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Buccaneer's Gear 2",
-        "description": "Unavailable"
+        "description": "Equip all 6 pieces of the Rank 2 Buccaneer gear."
     },
     {
         "id": 1492,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Buccaneer's Gear 3",
-        "description": "Unavailable"
+        "description": "Equip all 6 pieces of the Rank 3 Buccaneer gear."
     },
     {
         "id": 1493,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Daredevil's Gear 1",
-        "description": "Unavailable"
+        "description": "Equip all 4 pieces of the Rank 1 Daredevil gear."
     },
     {
         "id": 1494,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Daredevil's Gear 2",
-        "description": "Unavailable"
+        "description": "Equip all 6 pieces of the Rank 2 Daredevil gear."
     },
     {
         "id": 1495,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Daredevil's Gear 3",
-        "description": "Unavailable"
+        "description": "Equip all 6 pieces of the Rank 3 Daredevil gear."
     },
     {
         "id": 1496,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Adventurer's Gear 1",
-        "description": "Unavailable"
+        "description": "Equip all 4 pieces of the Rank 1 Adventurer gear."
     },
     {
         "id": 1497,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Adventurer's Gear 2",
-        "description": "Unavailable"
+        "description": "Equip all 6 pieces of the Rank 2 Adventurer gear."
     },
     {
         "id": 1498,
         "defined_type": "General",
         "defined_subtype": null,
         "name": "The Adventurer's Gear 3",
-        "description": "Unavailable"
+        "description": "Equip all 6 pieces of the Rank 3 Adventurer gear."
     },
     {
         "id": 1499,
@@ -7900,168 +7900,168 @@
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Explore the Tower 1",
-        "description": "Unavailable"
+        "description": "Discover 2 Venture League areas in Nexus Tower."
     },
     {
         "id": 1695,
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Explore the Tower 2",
-        "description": "Unavailable"
+        "description": "Discover 3 Assembly areas in Nexus Tower."
     },
     {
         "id": 1696,
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Explore the Tower 3",
-        "description": "Unavailable"
+        "description": "Discover 3 Paradox areas in Nexus Tower."
     },
     {
         "id": 1697,
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Explore the Tower 4",
-        "description": "Unavailable"
+        "description": "Discover 3 Sentinel areas in Nexus Tower."
     },
     {
         "id": 1698,
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Explore the Tower 5",
-        "description": "Unavailable"
+        "description": "Discover 4 utility areas in Nexus Tower."
     },
     {
         "id": 1699,
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Discover the Venture League Map Room",
-        "description": "Unavailable"
+        "description": "Discover the Venture League Map Room in Nexus Tower."
     },
     {
         "id": 1700,
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Discover the Venture League Observatory",
-        "description": "Unavailable"
+        "description": "Discover the Venture League Observatory in Nexus Tower."
     },
     {
         "id": 1701,
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Discover the Assembly Workshop",
-        "description": "Unavailable"
+        "description": "Discover the Assembly Workshop in Nexus Tower."
     },
     {
         "id": 1702,
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Discover the Assembly Storerooms 1",
-        "description": "Unavailable"
+        "description": "Discover the Assembly Storerooms 1 in Nexus Tower."
     },
     {
         "id": 1703,
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Discover the Assembly Storerooms 2",
-        "description": "Unavailable"
+        "description": "Discover the Assembly Storerooms 2 in Nexus Tower"
     },
     {
         "id": 1704,
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Discover the Paradox Laboratory",
-        "description": "Unavailable"
+        "description": "Discover the Paradox Laboratory in Nexus Tower."
     },
     {
         "id": 1705,
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Discover the Paradox Vendor Area 1",
-        "description": "Unavailable"
+        "description": "Discover the Paradox Vendor Area 1 in Nexus Tower."
     },
     {
         "id": 1706,
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Discover the Paradox Vendor Area 2",
-        "description": "Unavailable"
+        "description": "Discover the Paradox Vendor Area 2 in Nexus Tower."
     },
     {
         "id": 1707,
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Discover the Sentinel Command Center",
-        "description": "Unavailable"
+        "description": "Discover the Sentinel Command Center in Nexus Tower."
     },
     {
         "id": 1708,
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Discover the Sentinel Armory",
-        "description": "Unavailable"
+        "description": "Discover the Sentinel Armory in Nexus Tower."
     },
     {
         "id": 1709,
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Discover the Sentinel War Room",
-        "description": "Unavailable"
+        "description": "Discover the Sentinel War Room in Nexus Tower."
     },
     {
         "id": 1710,
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Discover the Crux Prime Launch Bay",
-        "description": "Unavailable"
+        "description": "Discover the Crux Prime Launch Bay in Nexus Tower."
     },
     {
         "id": 1711,
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Discover the Nexus Force Vault",
-        "description": "Unavailable"
+        "description": "Discover the Nexus Force Vault in Nexus Tower."
     },
     {
         "id": 1712,
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Discover the Imagination Nexus",
-        "description": "Unavailable"
+        "description": "Discover the Imagination Nexus in Nexus Tower."
     },
     {
         "id": 1713,
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Discover the Starbase 3001 Portal",
-        "description": "Unavailable"
+        "description": "Discover the Starbase 3001 Portal in Nexus Tower."
     },
     {
         "id": 1714,
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Nexus Tower Achiever 4",
-        "description": "Unavailable"
+        "description": "Complete 20 more Missions or Achievements in Nexus Tower, for a total of 60."
     },
     {
         "id": 1715,
         "defined_type": "Location",
         "defined_subtype": "Nexus Tower",
         "name": "Nexus Tower Achiever",
-        "description": "Unavailable"
+        "description": "Complete 20 more Missions or Achievements in Nexus Tower, for a total of 80."
     },
     {
         "id": 1716,
         "defined_type": "Play",
         "defined_subtype": "General",
         "name": "Nexus Force Commendation 3",
-        "description": "Unavailable"
+        "description": "Complete 100 more Missions, for a total of 200."
     },
     {
         "id": 1717,
         "defined_type": "Play",
         "defined_subtype": "General",
         "name": "LEGO Universe Commendation 4",
-        "description": "Unavailable"
+        "description": "Complete 100 more Achievements, for a total of 300."
     },
     {
         "id": 1718,
@@ -8096,7 +8096,7 @@
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Nexus Tower Founder",
-        "description": "Unavailable"
+        "description": "Subscribe to LEGO Universe during the Nexus Tower launch."
     },
     {
         "id": 1723,
@@ -8173,322 +8173,322 @@
         "defined_type": "Battle",
         "defined_subtype": "General",
         "name": "Defeat the Maelstrom",
-        "description": "Unavailable"
+        "description": "Smash 10,000 more elite enemies."
     },
     {
         "id": 1734,
         "defined_type": "Battle",
         "defined_subtype": "General",
         "name": "Not the Boss of Me",
-        "description": "Unavailable"
+        "description": "Smash 5000 more mini-bosses."
     },
     {
         "id": 1735,
         "defined_type": "Battle",
         "defined_subtype": "General",
         "name": "Medic!",
-        "description": "Unavailable"
+        "description": "Collect 2500 more Life power-ups."
     },
     {
         "id": 1736,
         "defined_type": "Battle",
         "defined_subtype": "General",
         "name": "Imagine That!",
-        "description": "Unavailable"
+        "description": "Collect 2500 more Imagination power-ups."
     },
     {
         "id": 1737,
         "defined_type": "Battle",
         "defined_subtype": "General",
         "name": "Tanks Very Much!",
-        "description": "Unavailable"
+        "description": "Collect 2500 more Armor power-ups."
     },
     {
         "id": 1738,
         "defined_type": "Battle",
         "defined_subtype": "Nimbus Instance",
         "name": "Resistance Force",
-        "description": "Unavailable"
+        "description": "Smash 5000 more enemies in the Battle of Nimbus Station."
     },
     {
         "id": 1739,
         "defined_type": "Build",
         "defined_subtype": null,
         "name": "The Visitor",
-        "description": "Unavailable"
+        "description": "Visit 500 more Properties that you have not previously visited, on any world."
     },
     {
         "id": 1740,
         "defined_type": "Play",
         "defined_subtype": "Shooting Galleries",
         "name": "Pirate Sharpshooter",
-        "description": "Unavailable"
+        "description": "Score a cumulative total of 500,000,000 more points in Cannon Cove Shooting Gallery."
     },
     {
         "id": 1741,
         "defined_type": "Play",
         "defined_subtype": "Shooting Galleries",
         "name": "Uncanny Cannoneer",
-        "description": "Unavailable"
+        "description": "Hit 2500 more Maelstrom-infected ships in Cannon Cove Shooting Gallery."
     },
     {
         "id": 1742,
         "defined_type": "Play",
         "defined_subtype": "Shooting Galleries",
         "name": "Duck for Cover",
-        "description": "Unavailable"
+        "description": "Hit 100 more ducks in Cannon Cove Shooting Gallery."
     },
     {
         "id": 1743,
         "defined_type": "Play",
         "defined_subtype": "Shooting Galleries",
         "name": "Barnacle Blaster",
-        "description": "Unavailable"
+        "description": "Hit 50 more Sea Monsters in Cannon Cove Shooting Gallery."
     },
     {
         "id": 1744,
         "defined_type": "Play",
         "defined_subtype": "General",
         "name": "Nexus Force Commendation 4",
-        "description": "Unavailable"
+        "description": "Complete 100 more Missions, for a total of 300."
     },
     {
         "id": 1745,
         "defined_type": "Play",
         "defined_subtype": "General",
         "name": "Nexus Force Commendation",
-        "description": "Unavailable"
+        "description": "Complete 100 more Missions, for a total of 400."
     },
     {
         "id": 1746,
         "defined_type": "Play",
         "defined_subtype": "General",
         "name": "LEGO Universe Commendation 5",
-        "description": "Unavailable"
+        "description": "Complete 100 more Achievements, for a total of 400."
     },
     {
         "id": 1747,
         "defined_type": "Play",
         "defined_subtype": "General",
         "name": "LEGO Universe Commendation",
-        "description": "Unavailable"
+        "description": "Complete 100 more Achievements, for a total of 500."
     },
     {
         "id": 1748,
         "defined_type": "Location",
         "defined_subtype": "Venture Explorer",
         "name": "Rainbow Rocketeer",
-        "description": "Unavailable"
+        "description": "Collect all of the modules for the white, blue, yellow and pink rockets."
     },
     {
         "id": 1750,
         "defined_type": "Location",
         "defined_subtype": "Venture Explorer",
         "name": "Blue Rocketeer",
-        "description": "Unavailable"
+        "description": "Find all 3 blue rocket modules on the Venture Explorer spaceship."
     },
     {
         "id": 1751,
         "defined_type": "Location",
         "defined_subtype": "Venture Explorer",
         "name": "Yellow Rocketeer",
-        "description": "Unavailable"
+        "description": "Find all 3 yellow rocket modules on the Venture Explorer spaceship."
     },
     {
         "id": 1752,
         "defined_type": "Location",
         "defined_subtype": "Venture Explorer",
         "name": "Pink Rocketeer",
-        "description": "Unavailable"
+        "description": "Find all 3 pink rocket modules on the Venture Explorer spaceship."
     },
     {
         "id": 1753,
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Nimbus Station Achiever",
-        "description": "Unavailable"
+        "description": "Complete 10 more Missions or Achievements in Nimbus Station, for a total of 50."
     },
     {
         "id": 1754,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Gnarled Forest Achiever",
-        "description": "Unavailable"
+        "description": "Complete 10 more Missions or Achievements in Gnarled Forest, for a total of 70."
     },
     {
         "id": 1755,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Venture League Privateer",
-        "description": "Unavailable"
+        "description": "Smash 2500 more Stromling Pirates."
     },
     {
         "id": 1756,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Pirate Duelist",
-        "description": "Unavailable"
+        "description": "Smash 1000 more Stromling Admirals."
     },
     {
         "id": 1757,
         "defined_type": "Location",
         "defined_subtype": "Gnarled Forest",
         "name": "Pirate Swashbuckler",
-        "description": "Unavailable"
+        "description": "Smash 150 more Stromling Apes."
     },
     {
         "id": 1758,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "Ninja Acolyte",
-        "description": "Unavailable"
+        "description": "Smash 2000 more Dark Ronin."
     },
     {
         "id": 1759,
         "defined_type": "Location",
         "defined_subtype": "Forbidden Valley",
         "name": "Ninja Initiate",
-        "description": "Unavailable"
+        "description": "Smash 2000 more Maelstrom Horsemen."
     },
     {
         "id": 1760,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Space Debris",
-        "description": "Unavailable"
+        "description": "Smash 250 more pieces of Venture Koi debris on Crux Prime."
     },
     {
         "id": 1761,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Bone to Pick",
-        "description": "Unavailable"
+        "description": "Smash 500 more pieces of Skeleton equipment on Crux Prime."
     },
     {
         "id": 1762,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Shield Builder",
-        "description": "Unavailable"
+        "description": "Quick Build 150 more Shield Zones on Crux Prime."
     },
     {
         "id": 1763,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Hacker",
-        "description": "Unavailable"
+        "description": "Smash 500 more Stromling Mech Invaders on Crux Prime."
     },
     {
         "id": 1764,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Exterminator",
-        "description": "Unavailable"
+        "description": "Smash 250 more Dark Spiderling Invaders on Crux Prime."
     },
     {
         "id": 1765,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Mutineer",
-        "description": "Unavailable"
+        "description": "Smash 250 more Stromling Admiral Invaders on Crux Prime."
     },
     {
         "id": 1766,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Ape Whisperer",
-        "description": "Unavailable"
+        "description": "Smash 250 more Stromling Ape Invaders on Crux Prime."
     },
     {
         "id": 1767,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Guardian",
-        "description": "Unavailable"
+        "description": "Smash 250 more Dark Ronin Invaders on Crux Prime."
     },
     {
         "id": 1768,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Shogun",
-        "description": "Unavailable"
+        "description": "Smash 250 more Maelstrom Horseman Invaders on Crux Prime."
     },
     {
         "id": 1769,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Dragonslayer",
-        "description": "Unavailable"
+        "description": "Smash 100 more Maelstrom Dragon Invaders on Crux Prime."
     },
     {
         "id": 1770,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Bonesmasher",
-        "description": "Unavailable"
+        "description": "Smash 1000 more Skeletons on Crux Prime."
     },
     {
         "id": 1771,
         "defined_type": "Location",
         "defined_subtype": "Crux Prime",
         "name": "Crux Prime Champion",
-        "description": "Unavailable"
+        "description": "Smash 25 more named Maelstrom enemies on Crux Prime."
     },
     {
         "id": 1772,
         "defined_type": "Racing",
         "defined_subtype": "General",
         "name": "Low Deductible",
-        "description": "Unavailable"
+        "description": "Complete 100 more races without wrecking."
     },
     {
         "id": 1773,
         "defined_type": "Racing",
         "defined_subtype": "General",
         "name": "Racing Fanatic",
-        "description": "Unavailable"
+        "description": "Compete in 100 more races, for a total of 200."
     },
     {
         "id": 1774,
         "defined_type": "Racing",
         "defined_subtype": "General",
         "name": "Fifty-Time Champion",
-        "description": "Unavailable"
+        "description": "Win any 50 races. Minimum of 3 players per race."
     },
     {
         "id": 1775,
         "defined_type": "Racing",
         "defined_subtype": "General",
         "name": "Street Sweeper",
-        "description": "Unavailable"
+        "description": "Smash 1000 more Smashables in any number of races."
     },
     {
         "id": 1776,
         "defined_type": "Racing",
         "defined_subtype": "General",
         "name": "Drive-Thru Dreamer",
-        "description": "Unavailable"
+        "description": "Collect 1,500 more Imagination orbs in any number of races."
     },
     {
         "id": 1777,
         "defined_type": "Battle",
         "defined_subtype": "Venture Instance",
         "name": "Hammer Down",
-        "description": "Unavailable"
+        "description": "Smash 500 more Hammer Stromlings on the Venture Explorer spaceship."
     },
     {
         "id": 1778,
         "defined_type": "Battle",
         "defined_subtype": "Venture Instance",
         "name": "Corrupted Sentry Destroyer",
-        "description": "Unavailable"
+        "description": "Smash 250 more Corrupted Sentries on the Venture Explorer spaceship."
     },
     {
         "id": 1779,
         "defined_type": "Battle",
         "defined_subtype": "Venture Instance",
         "name": "Elite Spiderling Destroyer",
-        "description": "Unavailable"
+        "description": "Smash 100 more Elite Dark Spiderlings on the Venture Explorer spaceship."
     },
     {
         "id": 1780,
@@ -8810,63 +8810,63 @@
         "defined_type": "Battle",
         "defined_subtype": "General",
         "name": "Smashing Success 4",
-        "description": "Unavailable"
+        "description": "Smash 5000 more Smashables."
     },
     {
         "id": 1839,
         "defined_type": "Battle",
         "defined_subtype": "General",
         "name": "Smash 'Em All 5",
-        "description": "Unavailable"
+        "description": "Smash 5000 more enemies."
     },
     {
         "id": 1840,
         "defined_type": "Battle",
         "defined_subtype": "Survival Games",
         "name": "Nothing Left for Dead 3",
-        "description": "Unavailable"
+        "description": "Smash 5000 more Survival enemies."
     },
     {
         "id": 1841,
         "defined_type": "Build",
         "defined_subtype": null,
         "name": "A Worthy Builder 4",
-        "description": "Unavailable"
+        "description": "Complete 5000 more Quick Builds."
     },
     {
         "id": 1842,
         "defined_type": "Build",
         "defined_subtype": null,
         "name": "A Collector's Dream 1",
-        "description": "Unavailable"
+        "description": "Complete 10 collection Quick Builds."
     },
     {
         "id": 1843,
         "defined_type": "Build",
         "defined_subtype": null,
         "name": "A Collector's Dream 2",
-        "description": "Unavailable"
+        "description": "Complete 100 collection Quick Builds."
     },
     {
         "id": 1844,
         "defined_type": "Build",
         "defined_subtype": null,
         "name": "A Collector's Dream 3",
-        "description": "Unavailable"
+        "description": "Complete 500 collection Quick Builds."
     },
     {
         "id": 1845,
         "defined_type": "Play",
         "defined_subtype": "General",
         "name": "Green Thumb 3",
-        "description": "Unavailable"
+        "description": "Grow 500 more flowers."
     },
     {
         "id": 1846,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Avant Guardian 4",
-        "description": "Unavailable"
+        "description": "Smash 2500 more Stromlings."
     },
     {
         "id": 1847,
@@ -9132,28 +9132,28 @@
         "defined_type": "Battle",
         "defined_subtype": "Nimbus Instance",
         "name": "Solo Blotch",
-        "description": "Unavailable"
+        "description": "As a solo player, defeat Murgle Blotch in the Battle of Nimbus Station."
     },
     {
         "id": 1886,
         "defined_type": "Battle",
         "defined_subtype": "Nimbus Instance",
         "name": "Solo Hurl",
-        "description": "Unavailable"
+        "description": "As a solo player, defeat Kinga Hurl in the Battle of Nimbus Station."
     },
     {
         "id": 1887,
         "defined_type": "Battle",
         "defined_subtype": "Nimbus Instance",
         "name": "Solo Bliddo",
-        "description": "Unavailable"
+        "description": "As a solo player, defeat Whack Bliddo in the Battle of Nimbus Station."
     },
     {
         "id": 1888,
         "defined_type": "Battle",
         "defined_subtype": "Nimbus Instance",
         "name": "Solo Riders",
-        "description": "Unavailable"
+        "description": "As a solo player, defeat the 4 Riders in the Battle of Nimbus Station."
     },
     {
         "id": 1889,
@@ -9195,14 +9195,14 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Monument Maintenance 1",
-        "description": "Unavailable"
+        "description": "Quick Build 25 Bouncers, buttons or moving platforms on the Avant Gardens Monument."
     },
     {
         "id": 1895,
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Monument Maintenance",
-        "description": "Unavailable"
+        "description": "Quick Build 100 more Bouncers, buttons or moving platforms on the Avant Gardens Monument."
     },
     {
         "id": 1896,
@@ -9328,14 +9328,14 @@
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Ninjago Flag Hunter 1",
-        "description": "Unavailable"
+        "description": "Collect 15 Backpack Flags in Ninjago."
     },
     {
         "id": 1934,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Ninjago Flag Hunter 2",
-        "description": "Unavailable"
+        "description": "Collect 15 Heart Flags in Ninjago."
     },
     {
         "id": 1935,
@@ -9384,35 +9384,35 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "I Can Do It On My Own!",
-        "description": "Unavailable"
+        "description": "Return to the Spider Queen's lair and smash her a second time."
     },
     {
         "id": 1942,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Smash Frakjaw!",
-        "description": "Unavailable"
+        "description": "Smash Frakjaw in the Fire Shrine in the caves below the Monastery."
     },
     {
         "id": 1943,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Smash Chopov!",
-        "description": "Unavailable"
+        "description": "Smash Chopov in the Earth Shrine in the caves below the Monastery."
     },
     {
         "id": 1944,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Smash Bonezai!",
-        "description": "Unavailable"
+        "description": "Smash Bonezai in the Ice Shrine in the caves below the Monastery."
     },
     {
         "id": 1945,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Smash Krazi!",
-        "description": "Unavailable"
+        "description": "Smash Krazi in the Lightning Shrine in the caves below the Monastery."
     },
     {
         "id": 1946,
@@ -9545,259 +9545,259 @@
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Ninjago Observer",
-        "description": "Unavailable"
+        "description": "Use all 9 of the binoculars around Ninjago."
     },
     {
         "id": 1968,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "The Ninjago Story",
-        "description": "Unavailable"
+        "description": "Read all 7 of the Story Plaques around Ninjago."
     },
     {
         "id": 1969,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "What's in the Box?!! 1",
-        "description": "Unavailable"
+        "description": "Quick Build 5 Dragon-in-a-Boxes on the Ninjago Battlefield."
     },
     {
         "id": 1970,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "What's in the Box?!! 2",
-        "description": "Unavailable"
+        "description": "Quick Build 25 more Dragon-in-a-Boxes on the Ninjago Battlefield."
     },
     {
         "id": 1971,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "What's in the Box?!!",
-        "description": "Unavailable"
+        "description": "Quick Build 75 more Dragon-in-a-Boxes on the Ninjago Battlefield."
     },
     {
         "id": 1972,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Bone Up 1",
-        "description": "Unavailable"
+        "description": "Quick Build 5 Skeleton Bouncers on the Ninjago Battlefield."
     },
     {
         "id": 1973,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Bone Up 2",
-        "description": "Unavailable"
+        "description": "Quick Build 25 more Skeleton Bouncers on the Ninjago Battlefield."
     },
     {
         "id": 1974,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Bone Up",
-        "description": "Unavailable"
+        "description": "Quick Build 75 more Skeleton Bouncers on the Ninjago Battlefield."
     },
     {
         "id": 1975,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Fight in the Shade",
-        "description": "Unavailable"
+        "description": "Quick Build 75 more Archery Targets on the Ninjago Battlefield."
     },
     {
         "id": 1976,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Just a Fling",
-        "description": "Unavailable"
+        "description": "Quick Build 75 more Catapults on the Ninjago Battlefield."
     },
     {
         "id": 1977,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Coffin Fit 1",
-        "description": "Unavailable"
+        "description": "Smash 15 Skeleton Coffins on the Ninjago Battlefield or in the Ninjago Caves."
     },
     {
         "id": 1978,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Coffin Fit 2",
-        "description": "Unavailable"
+        "description": "Smash 35 more Skeleton Coffins on the Ninjago Battlefield or in the Ninjago Caves."
     },
     {
         "id": 1979,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Coffin Fit",
-        "description": "Unavailable"
+        "description": "Smash 100 more Skeleton Coffins on the Ninjago Battlefield or in the Ninjago Caves."
     },
     {
         "id": 1980,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Skullcracker 1",
-        "description": "Unavailable"
+        "description": "Smash 10 Skeletons of any type in Ninjago."
     },
     {
         "id": 1981,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Skullcracker 2",
-        "description": "Unavailable"
+        "description": "Smash 50 more Skeletons of any type in Ninjago."
     },
     {
         "id": 1982,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Skullcracker 3",
-        "description": "Unavailable"
+        "description": "Smash 100 more Skeletons of any type in Ninjago."
     },
     {
         "id": 1983,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Skullcracker",
-        "description": "Unavailable"
+        "description": "Smash 200 more Skeletons of any type in Ninjago."
     },
     {
         "id": 1984,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Heel, Boy! 1",
-        "description": "Unavailable"
+        "description": "Smash 10 Bone Wolves in the Ninjago Caves."
     },
     {
         "id": 1985,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Heel, Boy! 2",
-        "description": "Unavailable"
+        "description": "Smash 50 more Bone Wolves in the Ninjago Caves."
     },
     {
         "id": 1986,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Heel, Boy!",
-        "description": "Unavailable"
+        "description": "Smash 100 more Bone Wolves in the Ninjago Caves."
     },
     {
         "id": 2003,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Discover the Ninjago Battlefield",
-        "description": "Unavailable"
+        "description": "Discover the Ninjago Battlefield."
     },
     {
         "id": 2004,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Discover the Ninjago Caves",
-        "description": "Unavailable"
+        "description": "Discover the Ninjago Caves."
     },
     {
         "id": 2005,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Discover the Earth Shrine",
-        "description": "Unavailable"
+        "description": "Discover the Earth Shrine in the caves below the Ninjago Monastery."
     },
     {
         "id": 2006,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Hero of Ninjago",
-        "description": "Unavailable"
+        "description": "Recover the 4 Weapons of Spinjitzu."
     },
     {
         "id": 2007,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Earth Tamer",
-        "description": "Unavailable"
+        "description": "Tame the Earth Dragon pet."
     },
     {
         "id": 2008,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "The Bloom is Off 1",
-        "description": "Unavailable"
+        "description": "Smash 25 Elemental Flowers around the Ninjago Monastery."
     },
     {
         "id": 2009,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "The Bloom is Off 2",
-        "description": "Unavailable"
+        "description": "Smash 75 more Elemental Flowers around the Ninjago Monastery."
     },
     {
         "id": 2010,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "The Bloom is Off 3",
-        "description": "Unavailable"
+        "description": "Smash 150 more Elemental Flowers around the Ninjago Monastery."
     },
     {
         "id": 2011,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "The Bloom is Off",
-        "description": "Unavailable"
+        "description": "Smash 250 more Elemental Flowers around the Ninjago Monastery."
     },
     {
         "id": 2012,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Sad Panda 1",
-        "description": "Unavailable"
+        "description": "Smash 25 Bamboo Stalks around the Ninjago Monastery."
     },
     {
         "id": 2013,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Sad Panda 2",
-        "description": "Unavailable"
+        "description": "Smash 75 more Bamboo Stalks around the Ninjago Monastery."
     },
     {
         "id": 2014,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Sad Panda 3",
-        "description": "Unavailable"
+        "description": "Smash 150 more Bamboo Stalks around the Ninjago Monastery."
     },
     {
         "id": 2015,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Sad Panda",
-        "description": "Unavailable"
+        "description": "Smash 250 more Bamboo Stalks around the Ninjago Monastery."
     },
     {
         "id": 2017,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Tastes Like Genius 1!",
-        "description": "Unavailable"
+        "description": "Craft any 5 of Johnny Umami's special recipes."
     },
     {
         "id": 2018,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Tastes Like Genius 2!",
-        "description": "Unavailable"
+        "description": "Craft 15 more of any of Johnny Umami's special recipes."
     },
     {
         "id": 2019,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Tastes Like Genius 3!",
-        "description": "Unavailable"
+        "description": "Craft 50 more of any of Johnny Umami's special recipes."
     },
     {
         "id": 2020,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Tastes Like Genius!",
-        "description": "Unavailable"
+        "description": "Craft 125 more of any of Johnny Umami's special recipes."
     },
     {
         "id": 2021,
@@ -9944,48 +9944,48 @@
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Discover the Monastery",
-        "description": "Unavailable"
+        "description": "Discover the center courtyard of the Ninjago Monastery."
     },
     {
         "id": 2042,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Discover the Dojo of Earth",
-        "description": "Unavailable"
+        "description": "Discover the Dojo of Earth in Ninjago."
     },
     {
         "id": 2043,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Discover the Dojo of Lightning",
-        "description": "Unavailable"
+        "description": "Discover the Dojo of Lightning in Ninjago."
     },
     {
         "id": 2044,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Discover the Dojo of Ice",
-        "description": "Unavailable"
+        "description": "Discover the Dojo of Ice in Ninjago."
     },
     {
         "id": 2045,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Discover the Dojo of Fire",
-        "description": "Unavailable"
+        "description": "Discover the Dojo of Fire in Ninjago."
     },
     {
         "id": 2046,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Discover the Ninjago Storeroom",
-        "description": "Unavailable"
+        "description": "Discover the Ninjago Storeroom."
     },
     {
         "id": 2047,
         "defined_type": "Location",
         "defined_subtype": "Ninjago Monastery",
         "name": "Discover the Cave of Ancient Ways",
-        "description": "Unavailable"
+        "description": "Discover the Cave of Ancient Ways."
     }
 ]

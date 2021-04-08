@@ -17,7 +17,7 @@ module.exports = {
         }
 
         if(args.length > 1 || isNaN(args[0])){
-            let findOne = require(`./../functions/findOneMission.js`)
+            let findOne = require(`./old_functions/findOneMission.js`)
             var objectID = findOne.execute(args)
             if(objectID===undefined){
                 message.channel.send("A mission with this Name does not exist.")
@@ -31,7 +31,7 @@ module.exports = {
         if(missionFile)
             console.log(missionFile)
         //message.channel.send(`\`\`\`json\n${JSON.stringify(missionFile,null, 2)}\`\`\``)
-        let msgEmbed = require(`./../functions/embedTemplate.js`)
+        let msgEmbed = require(`./old_functions/embedTemplate.js`)
 
        // if(missionFile.isRepeatable === 0) {
        //      if (missionFile.description === undefined) {

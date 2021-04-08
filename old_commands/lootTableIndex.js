@@ -15,7 +15,7 @@ module.exports = {
                 console.error(error);
             }
         }
-        let msgEmbed = require(`./../functions/embedTemplate.js`)
+        let msgEmbed = require(`./old_functions/embedTemplate.js`)
 
         if(args.length > 1 || isNaN(args[0])){
 

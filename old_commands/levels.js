@@ -17,7 +17,7 @@ module.exports = {
             }
         }
         if(args.length > 1 || isNaN(args[0])){
-            let findOne = require(`./../functions/findOneObject`)
+            let findOne = require(`./old_functions/findOneObject`)
             var objectID = findOne.execute(args)
             if(objectID===undefined){
                 message.channel.send("Please Enter a Level.")
@@ -34,7 +34,7 @@ module.exports = {
         }
 
         var levelFile = require(`./../json/Reference/levels.json`)
-        let msgEmbed = require(`./../functions/embedTemplate.js`)
+        let msgEmbed = require(`./old_functions/embedTemplate.js`)
         var iconURL = `https://static.wikia.nocookie.net/legomessageboards/images/c/ce/LU2.png/revision/latest?cb=20121121213649`
 
         var required = levelFile.LevelProgressionLookup[objectID-1].requiredUScore

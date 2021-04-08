@@ -16,7 +16,7 @@ module.exports = {
             }
         }
         if(args?.length > 1 || isNaN(args[0])){
-            let findOne = require(`./../functions/findOneObject.js`)
+            let findOne = require(`./old_functions/findOneObject.js`)
             var itemID = findOne.execute(args)
             if(itemID===undefined){
                 message.channel.send("An object with this DisplayName or Name does not exist.")
@@ -63,7 +63,7 @@ module.exports = {
         }
 
 
-        let msgEmbed = require(`./../functions/embedTemplate.js`)
+        let msgEmbed = require(`./old_functions/embedTemplate.js`)
         if(item.equipLocationNames?.length === 1){
             //var description = `**Equip Location:** ${item.equipLocationNames[0]}`
         }else{

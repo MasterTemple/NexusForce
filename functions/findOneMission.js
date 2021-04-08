@@ -1,6 +1,6 @@
 module.exports = {
     execute(args) {
-        const item = require(`./../json/Reference/missionIDandName.json`);
+        const item = require(`./../output/references/Missions.json`);
         let sorted = [];
         for (var i = 0; i < args.length; i++) {
             sorted.push(args[i].toLowerCase());

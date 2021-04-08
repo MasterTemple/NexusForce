@@ -17,7 +17,7 @@ module.exports = {
         }
 
         if(args.length > 1 || isNaN(args[0])){
-            let findOne = require(`./../functions/findOneObject.js`)
+            let findOne = require(`./old_functions/findOneObject.js`)
             var objectID = findOne.execute(args)
             if(objectID===undefined){
                 message.channel.send("An object with this DisplayName or Name does not exist.")

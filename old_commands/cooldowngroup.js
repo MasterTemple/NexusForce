@@ -17,7 +17,7 @@ module.exports = {
         }
 
         if(args.length > 1 || isNaN(args[0])){
-            let findOne = require(`./../functions/findOneMission.js`)
+            let findOne = require(`./old_functions/findOneMission.js`)
             var objectID = findOne.execute(args)
             if(objectID===undefined){
                 //message.channel.send("A mission with this Name does not exist.")
@@ -31,7 +31,7 @@ module.exports = {
         //if(cooldownFile)
         console.log(cooldownFile)
         //message.channel.send(`\`\`\`json\n${JSON.stringify(cooldownFile,null, 2)}\`\`\``)
-        let msgEmbed = require(`./../functions/embedTemplate.js`)
+        let msgEmbed = require(`./old_functions/embedTemplate.js`)
         var iconURL = `https://static.wikia.nocookie.net/legomessageboards/images/c/ce/LU2.png/revision/latest?cb=20121121213649`
 
         var description = ``

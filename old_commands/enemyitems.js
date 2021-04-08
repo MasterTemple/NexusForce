@@ -15,10 +15,10 @@ module.exports = {
                 console.error(error);
             }
         }
-        let msgEmbed = require(`./../functions/embedTemplate.js`)
+        let msgEmbed = require(`./old_functions/embedTemplate.js`)
 
         if(args.length > 1 || isNaN(args[0])){
-            let findOne = require(`./../functions/findOneEnemy.js`)
+            let findOne = require(`./old_functions/findOneEnemy.js`)
             var objectID = findOne.execute(args)
             if(objectID===undefined){
                 message.channel.send("An object with this DisplayName or Name does not exist.")
