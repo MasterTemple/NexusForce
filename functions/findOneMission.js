@@ -1,19 +1,19 @@
 module.exports = {
     execute(args) {
-        const item = require(`./../output/references/Missions.json`);
+        const file = require(`./../output/references/Missions.json`);
         let sorted = [];
         for (var i = 0; i < args.length; i++) {
             sorted.push(args[i].toLowerCase());
         }
         sorted.sort();
 
-        for (var j = 0; j < (Object.keys(item["table"]).length);j++) {
+        for (var j = 0; j < (Object.keys(file).length);j++) {
             try{
                 var allMatch = sorted.every(function (e) {
-                    return item["table"][j].name.toLowerCase().includes(e)
+                    return file[j].name.toLowerCase().includes(e) + file[j].description.toLowerCase().includes(e)
                 });
                 if (allMatch) {
-                    return item["table"][j].id
+                    return file[j].id
                 }
             }catch{}
         }

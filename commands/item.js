@@ -131,7 +131,7 @@ module.exports = {
                 //console.log(item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']])
                 if(item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.projectileDamageComboArray) {
                     let projectileArray = item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.projectileDamageComboArray
-                    if(item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.hasChargeUp && (item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.chargeUpArmorRestore.length !== 0 || item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.chargeUpImaginationRestore.length !== 0) && item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.projectileChargeUpDamage > 0){
+                    if((item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.chargeUpArmorRestore.length !== 0 || item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.chargeUpImaginationRestore.length !== 0) && item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.projectileChargeUpDamage > 0){
                         projectileArray.unshift(item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.projectileChargeUpDamage)
                     }
 
