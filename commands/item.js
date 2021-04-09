@@ -280,6 +280,7 @@ module.exports = {
                 // { name: item.abilityName, value: item.localeDescription, inline: true },
             )
         }
+        if(item.itemInfo.type == "Loot")
         embed.addFields(
             { name: `${emojis.armor} Armor`, value: item?.stats?.armorBonusUI, inline: true },
             { name: `${emojis.heart} Health`, value: item?.stats?.lifeBonusUI, inline: true },
