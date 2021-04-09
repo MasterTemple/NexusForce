@@ -1,5 +1,5 @@
 module.exports = {
-    name: ['mission', 'achievement'],
+    name: ['missions', 'achievements'],
     description: 'Get information/rewards of a mission or achievement',
     args: true,
     use: `mission [id]`,
@@ -29,7 +29,7 @@ module.exports = {
         }
         var missionFile = require(`./../output/missions/${objectID}.json`)
         //if(missionFile)
-            //console.log(missionFile)
+        //console.log(missionFile)
         //message.channel.send(`\`\`\`json\n${JSON.stringify(missionFile,null, 2)}\`\`\``)
         let msgEmbed = require(`./../functions/embedTemplate.js`)
 
