@@ -7,13 +7,13 @@ module.exports = {
         }
         sorted.sort();
 
-        for (var j = 0; j < (Object.keys(item["table"]).length);j++) {
+        for (var j = 0; j < (Object.keys(item).length);j++) {
             try{
                 var allMatch = sorted.every(function (e) {
-                    return item["table"][j].name.toLowerCase().includes(e) + item["table"][j].displayName.toLowerCase().includes(e)
+                    return item[j].name.toLowerCase().includes(e) + item[j].displayName.toLowerCase().includes(e)
                 });
                 if (allMatch) {
-                    return item["table"][j].id
+                    return item[j].id
                 }
             }catch{}
         }
