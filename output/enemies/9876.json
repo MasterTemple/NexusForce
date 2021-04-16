@@ -1,4 +1,12 @@
 {
+    "objectID": 9876,
+    "itemInfo": {
+        "name": "DPS Dummy",
+        "displayName": null,
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 9876,
     "components": {
         "1": 15,

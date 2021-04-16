@@ -1,4 +1,12 @@
 {
+    "objectID": 2248,
+    "itemInfo": {
+        "name": "Campfire Activator",
+        "displayName": null,
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 2248,
     "components": {
         "2": 1937,

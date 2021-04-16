@@ -1,4 +1,12 @@
 {
+    "objectID": 7873,
+    "itemInfo": {
+        "name": "Test Snake",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Snake Test to prove dragon concept",
+        "internalNotes": null
+    },
     "enemyID": 7873,
     "components": {
         "1": 3539,

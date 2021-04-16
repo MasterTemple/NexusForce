@@ -1,4 +1,12 @@
 {
+    "objectID": 11999,
+    "itemInfo": {
+        "name": "NSI - Maelstrom Horseman NAMED Boss",
+        "displayName": "Oni Rider Ikusa - Maelstrom Horseman",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 11999,
     "components": {
         "1": 5804,

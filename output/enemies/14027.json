@@ -1,4 +1,12 @@
 {
+    "objectID": 14027,
+    "itemInfo": {
+        "name": "NJ - Skeleton Overseer",
+        "displayName": "Skeleton Overseer",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Elite Tough  Skeleton for Ninjago"
+    },
     "enemyID": 14027,
     "components": {
         "1": 6967,

@@ -1,4 +1,12 @@
 {
+    "objectID": 6300,
+    "itemInfo": {
+        "name": "SG Target Ship Windcatcher Maelstrom",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Shooting Gallery Target",
+        "internalNotes": null
+    },
     "enemyID": 6300,
     "components": {
         "1": 2610,

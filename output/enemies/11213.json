@@ -1,4 +1,12 @@
 {
+    "objectID": 11213,
+    "itemInfo": {
+        "name": "AM - Stromling Mech",
+        "displayName": "Stromling Mech Invader",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Stromling Sgt. that turns to a rebuild upon smashing."
+    },
     "enemyID": 11213,
     "components": {
         "1": 5144,

@@ -1,4 +1,12 @@
 {
+    "objectID": 9744,
+    "itemInfo": {
+        "name": "Property - Stromling",
+        "displayName": "Stromling",
+        "type": "Enemies",
+        "description": "Enemy for property unlock maps",
+        "internalNotes": null
+    },
     "enemyID": 9744,
     "components": {
         "1": 4257,

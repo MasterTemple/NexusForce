@@ -1,4 +1,12 @@
 {
+    "objectID": 12591,
+    "itemInfo": {
+        "name": "NSI - Stromling Ape Boss",
+        "displayName": "Kinga Hurl - Stromling Ape",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 12591,
     "components": {
         "1": 6193,

@@ -1,4 +1,12 @@
 {
+    "objectID": 6392,
+    "itemInfo": {
+        "name": "Grumpy Stromling Survival",
+        "displayName": "Stromling",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 6392,
     "components": {
         "1": 1087,

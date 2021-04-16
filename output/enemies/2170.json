@@ -1,4 +1,12 @@
 {
+    "objectID": 2170,
+    "itemInfo": {
+        "name": "SG Target Sub Yellow",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Shooting Gallery Target",
+        "internalNotes": null
+    },
     "enemyID": 2170,
     "components": {
         "2": 1888,

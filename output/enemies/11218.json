@@ -1,4 +1,12 @@
 {
+    "objectID": 11218,
+    "itemInfo": {
+        "name": "AM - Dark Ronin",
+        "displayName": "Dark Ronin Invader",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "minion for FV"
+    },
     "enemyID": 11218,
     "components": {
         "1": 5149,

@@ -1,4 +1,12 @@
 {
+    "objectID": 3331,
+    "itemInfo": {
+        "name": "AG - Combat Ant 2",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Combat Ant for 2nd hill",
+        "internalNotes": null
+    },
     "enemyID": 3331,
     "components": {
         "1": 1467,

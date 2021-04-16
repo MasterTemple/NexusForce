@@ -1,4 +1,12 @@
 {
+    "objectID": 7805,
+    "itemInfo": {
+        "name": "FV Maelstrom Dragon 1",
+        "displayName": "Blastbreath - Maelstrom Dragon",
+        "type": "Enemies",
+        "description": "FV Miniboss",
+        "internalNotes": null
+    },
     "enemyID": 7805,
     "components": {
         "1": 3473,

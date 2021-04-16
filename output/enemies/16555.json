@@ -1,4 +1,12 @@
 {
+    "objectID": 16555,
+    "itemInfo": {
+        "name": "OBSOLETE Ninjago Beetle Armored",
+        "displayName": null,
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 16555,
     "components": {
         "2": 15333

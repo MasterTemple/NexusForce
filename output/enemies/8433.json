@@ -1,4 +1,12 @@
 {
+    "objectID": 8433,
+    "itemInfo": {
+        "name": "VE Instance - Stromling Mech 2",
+        "displayName": "Corrupted Sentry",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Elite mech that turns to a rebuild upon smashing, for SpaceShip Instance"
+    },
     "enemyID": 8433,
     "components": {
         "1": 2581,

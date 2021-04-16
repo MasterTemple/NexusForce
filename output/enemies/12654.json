@@ -1,4 +1,12 @@
 {
+    "objectID": 12654,
+    "itemInfo": {
+        "name": "AM - Maelstrom Horseman NAMED",
+        "displayName": "Vargas the Tormented - Maelstrom Horseman Invader",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Named horseman for AM"
+    },
     "enemyID": 12654,
     "components": {
         "1": 6218,

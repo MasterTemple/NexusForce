@@ -1,4 +1,12 @@
 {
+    "objectID": 5877,
+    "itemInfo": {
+        "name": "SG NetDevil fish",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Shooting Gallery Target",
+        "internalNotes": null
+    },
     "enemyID": 5877,
     "components": {
         "2": 5068,

@@ -1,4 +1,12 @@
 {
+    "objectID": 13995,
+    "itemInfo": {
+        "name": "NJ - Bone Wolf",
+        "displayName": "Bone Wolf",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 13995,
     "components": {
         "1": 6947,

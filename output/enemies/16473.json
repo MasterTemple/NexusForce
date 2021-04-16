@@ -1,4 +1,12 @@
 {
+    "objectID": 16473,
+    "itemInfo": {
+        "name": "NAMED Stromling Ape",
+        "displayName": "NAMED Stromling Ape",
+        "type": "Enemies",
+        "description": "Named Gorilla",
+        "internalNotes": null
+    },
     "enemyID": 16473,
     "components": {
         "1": 7875,

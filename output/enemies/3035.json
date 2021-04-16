@@ -1,4 +1,12 @@
 {
+    "objectID": 3035,
+    "itemInfo": {
+        "name": "FV - Hyper Stromling",
+        "displayName": null,
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 3035,
     "components": {
         "1": 15,

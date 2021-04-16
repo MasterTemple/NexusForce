@@ -1,4 +1,12 @@
 {
+    "objectID": 1876,
+    "itemInfo": {
+        "name": "VO - Generated Grumpy Stromling",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Do not place - only to be spawned by a generator",
+        "internalNotes": null
+    },
     "enemyID": 1876,
     "components": {
         "1": 15,

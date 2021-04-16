@@ -1,4 +1,12 @@
 {
+    "objectID": 14007,
+    "itemInfo": {
+        "name": "NJD - Skeleton Blacksmith - Frakjaw instance",
+        "displayName": "Skeleton Blacksmith",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Basic Skeleton"
+    },
     "enemyID": 14007,
     "components": {
         "1": 6959,

@@ -1,4 +1,12 @@
 {
+    "objectID": 2244,
+    "itemInfo": {
+        "name": "GF - Black Siege Ninja Guard",
+        "displayName": null,
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 2244,
     "components": {
         "1": 2171,

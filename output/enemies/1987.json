@@ -1,4 +1,12 @@
 {
+    "objectID": 1987,
+    "itemInfo": {
+        "name": "Test Z_Guard_Neutral",
+        "displayName": null,
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 1987,
     "components": {
         "1": 15,

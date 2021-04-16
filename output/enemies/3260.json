@@ -1,4 +1,12 @@
 {
+    "objectID": 3260,
+    "itemInfo": {
+        "name": "AG - Picnic Ant",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "NP scene 6 ant enemy",
+        "internalNotes": null
+    },
     "enemyID": 3260,
     "components": {
         "1": 2318,

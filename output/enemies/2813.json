@@ -1,4 +1,12 @@
 {
+    "objectID": 2813,
+    "itemInfo": {
+        "name": "GC09 - Boss Burno",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Team 9",
+        "internalNotes": null
+    },
     "enemyID": 2813,
     "components": {
         "2": 2365,

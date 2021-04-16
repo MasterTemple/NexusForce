@@ -1,4 +1,12 @@
 {
+    "objectID": 16470,
+    "itemInfo": {
+        "name": "NAMED Stromling Pirate",
+        "displayName": "NAMED Stromling Pirate",
+        "type": "Enemies",
+        "description": "Named enemy in GF",
+        "internalNotes": null
+    },
     "enemyID": 16470,
     "components": {
         "1": 7872,

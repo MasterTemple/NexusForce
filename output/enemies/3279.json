@@ -1,4 +1,12 @@
 {
+    "objectID": 3279,
+    "itemInfo": {
+        "name": "ZP - Skunk",
+        "displayName": "Skunk",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 3279,
     "components": {
         "1": 3407,

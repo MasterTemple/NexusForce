@@ -1,4 +1,12 @@
 {
+    "objectID": 12590,
+    "itemInfo": {
+        "name": "NSI - Stromling Admiral",
+        "displayName": "Stromling Admiral",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 12590,
     "components": {
         "1": 6192,

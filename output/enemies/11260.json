@@ -1,4 +1,12 @@
 {
+    "objectID": 11260,
+    "itemInfo": {
+        "name": "WBL - Maelstrom Rabbit",
+        "displayName": "Maelstrom Rabbit",
+        "type": "Enemies",
+        "description": "Enemy for Luptario",
+        "internalNotes": null
+    },
     "enemyID": 11260,
     "components": {
         "1": 5197,

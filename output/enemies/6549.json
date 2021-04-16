@@ -1,4 +1,12 @@
 {
+    "objectID": 6549,
+    "itemInfo": {
+        "name": "Test New AI Stromling",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Testing the new AI on this strombie",
+        "internalNotes": null
+    },
     "enemyID": 6549,
     "components": {
         "1": 2818,

@@ -1,4 +1,12 @@
 {
+    "objectID": 12585,
+    "itemInfo": {
+        "name": "Property - Stromling Mech",
+        "displayName": "Stromling Mech",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Stromling Sgt. that turns to a rebuild upon smashing."
+    },
     "enemyID": 12585,
     "components": {
         "1": 6187,

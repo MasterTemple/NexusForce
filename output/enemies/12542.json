@@ -1,4 +1,12 @@
 {
+    "objectID": 12542,
+    "itemInfo": {
+        "name": "VE Instance - Stromling Hammerling Melee",
+        "displayName": "Hammer Stromling",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "No Loot Stromling for SpaceShip Instance"
+    },
     "enemyID": 12542,
     "components": {
         "1": 6173,

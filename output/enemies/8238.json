@@ -1,4 +1,12 @@
 {
+    "objectID": 8238,
+    "itemInfo": {
+        "name": "VE Instance - Stromling Hammerling Ranged",
+        "displayName": "Hammerhurl Stromling",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "No Loot Stromling for SpaceShip Instance"
+    },
     "enemyID": 8238,
     "components": {
         "1": 2377,

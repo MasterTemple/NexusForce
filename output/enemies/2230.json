@@ -1,4 +1,12 @@
 {
+    "objectID": 2230,
+    "itemInfo": {
+        "name": "Passive Target Dummy",
+        "displayName": null,
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 2230,
     "components": {
         "1": 15,

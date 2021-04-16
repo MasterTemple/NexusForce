@@ -1,4 +1,12 @@
 {
+    "objectID": 16282,
+    "itemInfo": {
+        "name": "AG - Stromling NAMED",
+        "displayName": "NAMED STROMLING",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Named Mech for AG"
+    },
     "enemyID": 16282,
     "components": {
         "1": 7692,

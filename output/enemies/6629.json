@@ -1,4 +1,12 @@
 {
+    "objectID": 6629,
+    "itemInfo": {
+        "name": "CT - Motion Tracker Test",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "T-Rex Motion Tracker",
+        "internalNotes": null
+    },
     "enemyID": 6629,
     "components": {
         "1": 2881,

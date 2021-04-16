@@ -1,4 +1,12 @@
 {
+    "objectID": 12468,
+    "itemInfo": {
+        "name": "NSI - Maelstrom Horseman NAMED Boss",
+        "displayName": "Oni Rider Kikin - Maelstrom Horseman",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 12468,
     "components": {
         "1": 6123,

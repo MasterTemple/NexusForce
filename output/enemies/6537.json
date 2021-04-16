@@ -1,4 +1,12 @@
 {
+    "objectID": 6537,
+    "itemInfo": {
+        "name": "Spider Boss Den",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Boss for the last room of the spider cave",
+        "internalNotes": null
+    },
     "enemyID": 6537,
     "components": {
         "1": 48,

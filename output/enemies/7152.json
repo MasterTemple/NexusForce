@@ -1,4 +1,12 @@
 {
+    "objectID": 7152,
+    "itemInfo": {
+        "name": "Spider Boss 2",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Spider boss for the spider cave",
+        "internalNotes": null
+    },
     "enemyID": 7152,
     "components": {
         "1": 3189,

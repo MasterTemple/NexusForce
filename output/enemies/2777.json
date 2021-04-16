@@ -1,4 +1,12 @@
 {
+    "objectID": 2777,
+    "itemInfo": {
+        "name": "GC11 - Plinky",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Ghost",
+        "internalNotes": null
+    },
     "enemyID": 2777,
     "components": {
         "1": 15,

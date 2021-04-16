@@ -1,4 +1,12 @@
 {
+    "objectID": 6359,
+    "itemInfo": {
+        "name": "AG - Dark Spiderling",
+        "displayName": "Dark Spiderling",
+        "type": "Enemies",
+        "description": "Small Stromling spider for scenario Survival",
+        "internalNotes": null
+    },
     "enemyID": 6359,
     "components": {
         "1": 2998,

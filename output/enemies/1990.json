@@ -1,4 +1,12 @@
 {
+    "objectID": 1990,
+    "itemInfo": {
+        "name": "Test Z_Guard_Passive_Aggressive",
+        "displayName": null,
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 1990,
     "components": {
         "1": 15,

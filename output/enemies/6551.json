@@ -1,4 +1,12 @@
 {
+    "objectID": 6551,
+    "itemInfo": {
+        "name": "GF - Tiki Stromling",
+        "displayName": "Stromling Skeleton",
+        "type": "Enemies",
+        "description": "GF Difficult Stromling",
+        "internalNotes": null
+    },
     "enemyID": 6551,
     "components": {
         "1": 2377,

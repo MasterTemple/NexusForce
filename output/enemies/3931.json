@@ -1,4 +1,12 @@
 {
+    "objectID": 3931,
+    "itemInfo": {
+        "name": "NS - Skunk 3",
+        "displayName": null,
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 3931,
     "components": {
         "1": 1925,

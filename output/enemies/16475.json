@@ -1,4 +1,12 @@
 {
+    "objectID": 16475,
+    "itemInfo": {
+        "name": "NAMED Horseman",
+        "displayName": "NAMED Maelstrom Horseman",
+        "type": "Enemies",
+        "description": "Named Horseman",
+        "internalNotes": null
+    },
     "enemyID": 16475,
     "components": {
         "1": 7877,

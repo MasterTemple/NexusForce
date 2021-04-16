@@ -1,4 +1,12 @@
 {
+    "objectID": 11982,
+    "itemInfo": {
+        "name": "AM - Stromling NAMED",
+        "displayName": "Talli Reeko - Stromling Invader",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Basic Stromling"
+    },
     "enemyID": 11982,
     "components": {
         "1": 5796,

@@ -1,4 +1,12 @@
 {
+    "objectID": 7865,
+    "itemInfo": {
+        "name": "Car Landmine",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Car Landmine",
+        "internalNotes": null
+    },
     "enemyID": 7865,
     "components": {
         "2": 5398,

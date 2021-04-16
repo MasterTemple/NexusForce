@@ -1,4 +1,12 @@
 {
+    "objectID": 6530,
+    "itemInfo": {
+        "name": "Spider Cave Egg",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Awesome new spider egg",
+        "internalNotes": null
+    },
     "enemyID": 6530,
     "components": {
         "2": 6098,

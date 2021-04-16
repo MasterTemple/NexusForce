@@ -1,4 +1,12 @@
 {
+    "objectID": 10145,
+    "itemInfo": {
+        "name": "Boss Burno Large3",
+        "displayName": null,
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 10145,
     "components": {
         "2": 9984

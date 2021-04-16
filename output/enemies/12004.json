@@ -1,4 +1,12 @@
 {
+    "objectID": 12004,
+    "itemInfo": {
+        "name": "AM - Skeleton Patroller",
+        "displayName": "Skeleton Pit Boss",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Basic Skeleton"
+    },
     "enemyID": 12004,
     "components": {
         "1": 5809,

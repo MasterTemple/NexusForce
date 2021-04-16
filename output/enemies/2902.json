@@ -1,4 +1,12 @@
 {
+    "objectID": 2902,
+    "itemInfo": {
+        "name": "GC Hyper",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Team 2",
+        "internalNotes": null
+    },
     "enemyID": 2902,
     "components": {
         "1": 15,

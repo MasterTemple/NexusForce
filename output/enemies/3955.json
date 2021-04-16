@@ -1,4 +1,12 @@
 {
+    "objectID": 3955,
+    "itemInfo": {
+        "name": "NS - Blue Skunk",
+        "displayName": null,
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 3955,
     "components": {
         "1": 1454,

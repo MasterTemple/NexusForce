@@ -1,4 +1,12 @@
 {
+    "objectID": 12511,
+    "itemInfo": {
+        "name": "NT Combat Target",
+        "displayName": "",
+        "type": "Enemies",
+        "description": "",
+        "internalNotes": null
+    },
     "enemyID": 12511,
     "components": {
         "2": 12281,

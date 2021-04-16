@@ -1,4 +1,12 @@
 {
+    "objectID": 6268,
+    "itemInfo": {
+        "name": "Shark Fins",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "shark death fins for water",
+        "internalNotes": null
+    },
     "enemyID": 6268,
     "components": {
         "2": 5686,

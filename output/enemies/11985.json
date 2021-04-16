@@ -1,4 +1,12 @@
 {
+    "objectID": 11985,
+    "itemInfo": {
+        "name": "AM - Stromling Pirate NAMED",
+        "displayName": "Gull Rawstew - Stromling Pirate Invader",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "NT Easy Stromling type"
+    },
     "enemyID": 11985,
     "components": {
         "1": 5799,

@@ -1,4 +1,12 @@
 {
+    "objectID": 14008,
+    "itemInfo": {
+        "name": "NJD - Skeleton Marksman - Frakjaw instance",
+        "displayName": "Skeleton Marksman",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Basic Skeleton"
+    },
     "enemyID": 14008,
     "components": {
         "1": 6960,

@@ -1,4 +1,12 @@
 {
+    "objectID": 11219,
+    "itemInfo": {
+        "name": "AM - Maelstrom Horseman",
+        "displayName": "Maelstrom Horseman Invader",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "LT for FV"
+    },
     "enemyID": 11219,
     "components": {
         "1": 5150,

@@ -1,4 +1,12 @@
 {
+    "objectID": 3956,
+    "itemInfo": {
+        "name": "NS - Grey Skunk",
+        "displayName": null,
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 3956,
     "components": {
         "1": 1454,

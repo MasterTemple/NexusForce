@@ -1,4 +1,12 @@
 {
+    "objectID": 16283,
+    "itemInfo": {
+        "name": "AG - Spiderling NAMED",
+        "displayName": "NAMED SPIDERLING",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Named Spiderling for AG"
+    },
     "enemyID": 16283,
     "components": {
         "1": 7693,

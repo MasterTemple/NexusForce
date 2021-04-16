@@ -1,4 +1,12 @@
 {
+    "objectID": 1985,
+    "itemInfo": {
+        "name": "Test Z_Patrol_Loop",
+        "displayName": null,
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 1985,
     "components": {
         "1": 15,

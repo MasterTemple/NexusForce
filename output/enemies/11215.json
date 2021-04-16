@@ -1,4 +1,12 @@
 {
+    "objectID": 11215,
+    "itemInfo": {
+        "name": "AM - Stromling Pirate",
+        "displayName": "Stromling Pirate Invader",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "NT Easy Stromling type"
+    },
     "enemyID": 11215,
     "components": {
         "1": 5146,

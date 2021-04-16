@@ -1,4 +1,12 @@
 {
+    "objectID": 12605,
+    "itemInfo": {
+        "name": "NSI - Elite Dark Spiderling",
+        "displayName": "Elite Dark Spiderling",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 12605,
     "components": {
         "1": 6197,

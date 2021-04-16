@@ -1,4 +1,12 @@
 {
+    "objectID": 7679,
+    "itemInfo": {
+        "name": "WBL - Robot Citizen - Infected",
+        "displayName": "Infected Citizen",
+        "type": "Enemies",
+        "description": "Robot Enemy for the LUP team",
+        "internalNotes": null
+    },
     "enemyID": 7679,
     "components": {
         "1": 5305,

@@ -1,4 +1,12 @@
 {
+    "objectID": 3099,
+    "itemInfo": {
+        "name": "Evil Robotanist",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "NP Wicked Lawn Mower",
+        "internalNotes": null
+    },
     "enemyID": 3099,
     "components": {
         "1": 1477,

@@ -1,4 +1,12 @@
 {
+    "objectID": 1998,
+    "itemInfo": {
+        "name": "Test Z_Emote_React",
+        "displayName": null,
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 1998,
     "components": {
         "1": 15,

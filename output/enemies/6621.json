@@ -1,4 +1,12 @@
 {
+    "objectID": 6621,
+    "itemInfo": {
+        "name": "CT - Beetle Test",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Placeholder for Beetle Experiment",
+        "internalNotes": null
+    },
     "enemyID": 6621,
     "components": {
         "1": 2377,

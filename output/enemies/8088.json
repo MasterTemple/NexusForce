@@ -1,4 +1,12 @@
 {
+    "objectID": 8088,
+    "itemInfo": {
+        "name": "AG - Survival Stromling Lvl 2",
+        "displayName": "Chainsaw Stromling",
+        "type": "Enemies",
+        "description": "survival stromling",
+        "internalNotes": null
+    },
     "enemyID": 8088,
     "components": {
         "1": 4862,

@@ -1,4 +1,12 @@
 {
+    "objectID": 1729,
+    "itemInfo": {
+        "name": "Wandering Bee",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Wonderland NPC",
+        "internalNotes": null
+    },
     "enemyID": 1729,
     "components": {
         "1": 759,

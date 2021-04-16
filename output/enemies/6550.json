@@ -1,4 +1,12 @@
 {
+    "objectID": 6550,
+    "itemInfo": {
+        "name": "GF - Stromling Pirate",
+        "displayName": "Stromling Pirate",
+        "type": "Enemies",
+        "description": "GF Easy Stromling type",
+        "internalNotes": null
+    },
     "enemyID": 6550,
     "components": {
         "1": 4617,

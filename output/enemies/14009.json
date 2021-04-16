@@ -1,4 +1,12 @@
 {
+    "objectID": 14009,
+    "itemInfo": {
+        "name": "NJD - Skeleton Commando - Frakjaw instance",
+        "displayName": "Skeleton Commando",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Basic Skeleton"
+    },
     "enemyID": 14009,
     "components": {
         "1": 6961,

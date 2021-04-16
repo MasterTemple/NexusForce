@@ -1,4 +1,12 @@
 {
+    "objectID": 14381,
+    "itemInfo": {
+        "name": "AG - Spider Queen",
+        "displayName": "Maelstrom Spider Queen",
+        "type": "Enemies",
+        "description": "Free Trial Spider Boss enemy",
+        "internalNotes": null
+    },
     "enemyID": 14381,
     "components": {
         "1": 7188,

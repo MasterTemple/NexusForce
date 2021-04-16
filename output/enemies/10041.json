@@ -1,4 +1,12 @@
 {
+    "objectID": 10041,
+    "itemInfo": {
+        "name": "GF - Stromling Ape SIDESCROLLER",
+        "displayName": "Stromling Ape",
+        "type": "Enemies",
+        "description": "Uber gorilla",
+        "internalNotes": null
+    },
     "enemyID": 10041,
     "components": {
         "1": 2998,

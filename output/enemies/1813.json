@@ -1,4 +1,12 @@
 {
+    "objectID": 1813,
+    "itemInfo": {
+        "name": "Test Zoo Ninja 2",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Test; don't use in a production map",
+        "internalNotes": null
+    },
     "enemyID": 1813,
     "components": {
         "1": 1394,

@@ -1,4 +1,12 @@
 {
+    "objectID": 6015,
+    "itemInfo": {
+        "name": "SG Target Ship Galleon Maelstrom",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Shooting Gallery Target",
+        "internalNotes": null
+    },
     "enemyID": 6015,
     "components": {
         "1": 996,

@@ -1,4 +1,12 @@
 {
+    "objectID": 10014,
+    "itemInfo": {
+        "name": "GF - Stromling Pirate SIDESCROLLER",
+        "displayName": "Stromling Pirate",
+        "type": "Enemies",
+        "description": "GF Easy Stromling type",
+        "internalNotes": null
+    },
     "enemyID": 10014,
     "components": {
         "1": 2377,

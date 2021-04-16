@@ -1,4 +1,12 @@
 {
+    "objectID": 7227,
+    "itemInfo": {
+        "name": "Test Death Perf",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Test death perf",
+        "internalNotes": null
+    },
     "enemyID": 7227,
     "components": {
         "1": 2377,

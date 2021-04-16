@@ -1,4 +1,12 @@
 {
+    "objectID": 16049,
+    "itemInfo": {
+        "name": "NJ - Krazi Skeleton Lieutenant",
+        "displayName": "Krazi - Skeleton of Lightning",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Skeleton Lieutenant"
+    },
     "enemyID": 16049,
     "components": {
         "1": 7576,

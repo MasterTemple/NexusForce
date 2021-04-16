@@ -1,4 +1,12 @@
 {
+    "objectID": 11214,
+    "itemInfo": {
+        "name": "AM - Dark Spiderling",
+        "displayName": "Dark Spiderling Invader",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Small Stromling spider for scenario Survival"
+    },
     "enemyID": 11214,
     "components": {
         "1": 5145,

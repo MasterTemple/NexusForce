@@ -1,4 +1,12 @@
 {
+    "objectID": 2707,
+    "itemInfo": {
+        "name": "GC11 - Lily Pad Traffic Test",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Like a truck but different",
+        "internalNotes": null
+    },
     "enemyID": 2707,
     "components": {
         "1": 15,

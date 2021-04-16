@@ -1,4 +1,12 @@
 {
+    "objectID": 11265,
+    "itemInfo": {
+        "name": "WBL - Facehugger",
+        "displayName": "Grabble",
+        "type": "Enemies",
+        "description": "Enemy",
+        "internalNotes": null
+    },
     "enemyID": 11265,
     "components": {
         "1": 5300,

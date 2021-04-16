@@ -1,4 +1,12 @@
 {
+    "objectID": 3335,
+    "itemInfo": {
+        "name": "AG - Ant Spawner 3",
+        "displayName": null,
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 3335,
     "components": {
         "1": 1587,

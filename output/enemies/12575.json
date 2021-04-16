@@ -1,4 +1,12 @@
 {
+    "objectID": 12575,
+    "itemInfo": {
+        "name": "Property - Dark Spiderling",
+        "displayName": "Dark Spiderling",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Small Stromling spider for property Pushback"
+    },
     "enemyID": 12575,
     "components": {
         "1": 6186,

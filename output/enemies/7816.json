@@ -1,4 +1,12 @@
 {
+    "objectID": 7816,
+    "itemInfo": {
+        "name": "FV Maelstrom Cavalry",
+        "displayName": "Maelstrom Horseman",
+        "type": "Enemies",
+        "description": "LT for FV",
+        "internalNotes": null
+    },
     "enemyID": 7816,
     "components": {
         "1": 3500,

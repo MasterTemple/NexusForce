@@ -1,4 +1,12 @@
 {
+    "objectID": 2973,
+    "itemInfo": {
+        "name": "SG Target Ship Galleon Red",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Shooting Gallery Target",
+        "internalNotes": null
+    },
     "enemyID": 2973,
     "components": {
         "1": 996,

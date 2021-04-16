@@ -1,4 +1,12 @@
 {
+    "objectID": 10380,
+    "itemInfo": {
+        "name": "Property - Dark Ronin",
+        "displayName": "Dark Ronin",
+        "type": "Enemies",
+        "description": "Enemy for property unlock maps",
+        "internalNotes": null
+    },
     "enemyID": 10380,
     "components": {
         "1": 4619,

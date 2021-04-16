@@ -1,4 +1,12 @@
 {
+    "objectID": 2983,
+    "itemInfo": {
+        "name": "SG Target Sub Red",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Shooting Gallery Target",
+        "internalNotes": null
+    },
     "enemyID": 2983,
     "components": {
         "2": 2474,

@@ -1,4 +1,12 @@
 {
+    "objectID": 16048,
+    "itemInfo": {
+        "name": "NJ - Frakjaw Skeleton Lieutenant",
+        "displayName": "Frakjaw - Skeleton of Fire",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Skeleton Lieutenant"
+    },
     "enemyID": 16048,
     "components": {
         "1": 7575,

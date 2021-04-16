@@ -1,4 +1,12 @@
 {
+    "objectID": 11220,
+    "itemInfo": {
+        "name": "AM - Maelstrom Dragon",
+        "displayName": "Maelstrom Dragon Invader",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "FV Miniboss"
+    },
     "enemyID": 11220,
     "components": {
         "1": 5151,

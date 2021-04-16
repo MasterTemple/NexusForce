@@ -1,4 +1,12 @@
 {
+    "objectID": 11989,
+    "itemInfo": {
+        "name": "AM - Maelstrom Dragon NAMED",
+        "displayName": "Butterscorch - Maelstrom Dragon Invader",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "FV Miniboss"
+    },
     "enemyID": 11989,
     "components": {
         "1": 5803,

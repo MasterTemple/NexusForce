@@ -1,4 +1,12 @@
 {
+    "objectID": 5666,
+    "itemInfo": {
+        "name": "Pathing Hyper Stromling",
+        "displayName": null,
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 5666,
     "components": {
         "1": 15,

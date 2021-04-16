@@ -1,4 +1,12 @@
 {
+    "objectID": 6789,
+    "itemInfo": {
+        "name": "GF - Stromling Admiral",
+        "displayName": "Stromling Admiral",
+        "type": "Enemies",
+        "description": "Tough GF Enemy",
+        "internalNotes": null
+    },
     "enemyID": 6789,
     "components": {
         "1": 2377,

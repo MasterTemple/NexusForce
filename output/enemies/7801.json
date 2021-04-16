@@ -1,4 +1,12 @@
 {
+    "objectID": 7801,
+    "itemInfo": {
+        "name": "SG O Target",
+        "displayName": "Target",
+        "type": "Enemies",
+        "description": "Shooting Gallery Target - Duck 3",
+        "internalNotes": null
+    },
     "enemyID": 7801,
     "components": {
         "2": 7356,

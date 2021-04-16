@@ -1,4 +1,12 @@
 {
+    "objectID": 3332,
+    "itemInfo": {
+        "name": "AG - Combat Ant 3",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Combat Ant for third Hill",
+        "internalNotes": null
+    },
     "enemyID": 3332,
     "components": {
         "1": 1467,

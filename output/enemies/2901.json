@@ -1,4 +1,12 @@
 {
+    "objectID": 2901,
+    "itemInfo": {
+        "name": "GC freak",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Team 2",
+        "internalNotes": null
+    },
     "enemyID": 2901,
     "components": {
         "1": 15,

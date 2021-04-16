@@ -1,4 +1,12 @@
 {
+    "objectID": 12379,
+    "itemInfo": {
+        "name": "WBL - Dark One",
+        "displayName": "Dark One",
+        "type": "Enemies",
+        "description": "Darkling for Portabello",
+        "internalNotes": null
+    },
     "enemyID": 12379,
     "components": {
         "1": 6064,

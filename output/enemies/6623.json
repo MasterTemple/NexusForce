@@ -1,4 +1,12 @@
 {
+    "objectID": 6623,
+    "itemInfo": {
+        "name": "CT - Bull Test",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Front hitbox",
+        "internalNotes": null
+    },
     "enemyID": 6623,
     "components": {
         "1": 2881,

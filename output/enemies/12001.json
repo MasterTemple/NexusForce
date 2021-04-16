@@ -1,4 +1,12 @@
 {
+    "objectID": 12001,
+    "itemInfo": {
+        "name": "AM - Skeleton Miner NAMED",
+        "displayName": "Hardhead - Skeleton Miner",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Basic Skeleton"
+    },
     "enemyID": 12001,
     "components": {
         "1": 5806,

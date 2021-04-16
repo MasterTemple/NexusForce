@@ -1,4 +1,12 @@
 {
+    "objectID": 2708,
+    "itemInfo": {
+        "name": "GC09 - Dragon Boss",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Team 9",
+        "internalNotes": null
+    },
     "enemyID": 2708,
     "components": {
         "1": 1315,

@@ -1,4 +1,12 @@
 {
+    "objectID": 10378,
+    "itemInfo": {
+        "name": "Property - Stromling Pirate",
+        "displayName": "Stromling Pirate",
+        "type": "Enemies",
+        "description": "Enemy for property unlock maps",
+        "internalNotes": null
+    },
     "enemyID": 10378,
     "components": {
         "1": 4616,

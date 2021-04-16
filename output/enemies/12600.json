@@ -1,4 +1,12 @@
 {
+    "objectID": 12600,
+    "itemInfo": {
+        "name": "NSI - Super Stromling Boss",
+        "displayName": "Murgle Blotch - Stromling Champion",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 12600,
     "components": {
         "1": 6194,

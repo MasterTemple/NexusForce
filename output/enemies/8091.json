@@ -1,4 +1,12 @@
 {
+    "objectID": 8091,
+    "itemInfo": {
+        "name": "AG - Stromling Mech Survival Lvl 3",
+        "displayName": "Stromling Mech",
+        "type": "Enemies",
+        "description": "survival mech",
+        "internalNotes": null
+    },
     "enemyID": 8091,
     "components": {
         "1": 4863,

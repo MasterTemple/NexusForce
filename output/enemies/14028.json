@@ -1,4 +1,12 @@
 {
+    "objectID": 14028,
+    "itemInfo": {
+        "name": "NJ - Skeleton Marksman",
+        "displayName": "Skeleton Marksman",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Ranged Skeleton for Ninjago"
+    },
     "enemyID": 14028,
     "components": {
         "1": 6968,

@@ -1,4 +1,12 @@
 {
+    "objectID": 12612,
+    "itemInfo": {
+        "name": "NSI - Maelstrom Dragon",
+        "displayName": "Borborygmus - Maelstrom Dragon",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 12612,
     "components": {
         "1": 6201,

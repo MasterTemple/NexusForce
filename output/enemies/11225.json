@@ -1,4 +1,12 @@
 {
+    "objectID": 11225,
+    "itemInfo": {
+        "name": "FV Maelstrom Dragon 2",
+        "displayName": "Torchblight - Maelstrom Dragon",
+        "type": "Enemies",
+        "description": "FV Miniboss",
+        "internalNotes": null
+    },
     "enemyID": 11225,
     "components": {
         "1": 3473,

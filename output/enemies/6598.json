@@ -1,4 +1,12 @@
 {
+    "objectID": 6598,
+    "itemInfo": {
+        "name": "Spider Cave Egg 2",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Spider Cave Egg without crappy shader",
+        "internalNotes": null
+    },
     "enemyID": 6598,
     "components": {
         "2": 6153,

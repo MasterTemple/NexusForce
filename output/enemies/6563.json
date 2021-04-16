@@ -1,4 +1,12 @@
 {
+    "objectID": 6563,
+    "itemInfo": {
+        "name": "Stromling Mech for Instance",
+        "displayName": "Stromling Mech",
+        "type": "Enemies",
+        "description": "Elite Stromling that turns to a rebuild upon smashing.",
+        "internalNotes": null
+    },
     "enemyID": 6563,
     "components": {
         "1": 2581,

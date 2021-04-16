@@ -1,4 +1,12 @@
 {
+    "objectID": 12611,
+    "itemInfo": {
+        "name": "NSI - Maelstrom Horseman",
+        "displayName": "Maelstrom Horseman",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 12611,
     "components": {
         "1": 6200,

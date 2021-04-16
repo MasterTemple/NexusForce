@@ -1,4 +1,12 @@
 {
+    "objectID": 2640,
+    "itemInfo": {
+        "name": "SG Floating Target",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Moving platform target for shooting gallery",
+        "internalNotes": null
+    },
     "enemyID": 2640,
     "components": {
         "2": 1884,

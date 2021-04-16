@@ -1,4 +1,12 @@
 {
+    "objectID": 7672,
+    "itemInfo": {
+        "name": "WBL - Seperator",
+        "displayName": "Seperator",
+        "type": "Enemies",
+        "description": "LUPS bot",
+        "internalNotes": null
+    },
     "enemyID": 7672,
     "components": {
         "1": 5304,

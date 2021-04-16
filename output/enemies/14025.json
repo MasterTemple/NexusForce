@@ -1,4 +1,12 @@
 {
+    "objectID": 14025,
+    "itemInfo": {
+        "name": "NJ - Skeleton Raider",
+        "displayName": "Skeleton Raider",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Elite Basic Skeleton for Nijago"
+    },
     "enemyID": 14025,
     "components": {
         "1": 6965,

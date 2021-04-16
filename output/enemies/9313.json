@@ -1,4 +1,12 @@
 {
+    "objectID": 9313,
+    "itemInfo": {
+        "name": "Boss Spider Egg",
+        "displayName": null,
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 9313,
     "components": {
         "2": 6153,

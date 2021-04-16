@@ -1,4 +1,12 @@
 {
+    "objectID": 11987,
+    "itemInfo": {
+        "name": "AM - Stromling Ape NAMED",
+        "displayName": "Roo Morgg - Stromling Ape Invader",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Uber gorilla"
+    },
     "enemyID": 11987,
     "components": {
         "1": 5801,

@@ -1,4 +1,12 @@
 {
+    "objectID": 6976,
+    "itemInfo": {
+        "name": "GF - Stromling Ape Survival",
+        "displayName": "Stromling Ape",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 6976,
     "components": {
         "1": 2998,

@@ -1,4 +1,12 @@
 {
+    "objectID": 3284,
+    "itemInfo": {
+        "name": "AG - Corrupted Mower",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Corrupted mowers for scene 6 NP",
+        "internalNotes": null
+    },
     "enemyID": 3284,
     "components": {
         "1": 1477,

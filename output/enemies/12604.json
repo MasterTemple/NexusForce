@@ -1,4 +1,12 @@
 {
+    "objectID": 12604,
+    "itemInfo": {
+        "name": "NSI - Stromling Mech Corrupted Sentry",
+        "displayName": "Stromling Mech Invader",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 12604,
     "components": {
         "1": 6196,

@@ -1,4 +1,12 @@
 {
+    "objectID": 6351,
+    "itemInfo": {
+        "name": "AG - Survival Stromling Lvl 1",
+        "displayName": "Stromling",
+        "type": "Enemies",
+        "description": "survival stromling",
+        "internalNotes": null
+    },
     "enemyID": 6351,
     "components": {
         "1": 4862,

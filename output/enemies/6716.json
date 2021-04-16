@@ -1,4 +1,12 @@
 {
+    "objectID": 6716,
+    "itemInfo": {
+        "name": "Test Stromling",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Test Strombie",
+        "internalNotes": null
+    },
     "enemyID": 6716,
     "components": {
         "1": 2377,

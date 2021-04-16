@@ -1,4 +1,12 @@
 {
+    "objectID": 12609,
+    "itemInfo": {
+        "name": "NSI - Dark Spiderling Boss",
+        "displayName": "Whack Bliddo - Dark Spiderling Invader",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 12609,
     "components": {
         "1": 6198,

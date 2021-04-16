@@ -1,4 +1,12 @@
 {
+    "objectID": 2779,
+    "itemInfo": {
+        "name": "GC11 - Cloyde",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Ghost",
+        "internalNotes": null
+    },
     "enemyID": 2779,
     "components": {
         "1": 15,

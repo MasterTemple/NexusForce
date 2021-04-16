@@ -1,4 +1,12 @@
 {
+    "objectID": 7849,
+    "itemInfo": {
+        "name": "Duck Shooting Gallery Cannon Ball - Supercharged",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Supercharged cannonball for shooting gallery",
+        "internalNotes": null
+    },
     "enemyID": 7849,
     "components": {
         "2": 7407,

@@ -1,4 +1,12 @@
 {
+    "objectID": 12586,
+    "itemInfo": {
+        "name": "NSI - Stromling Lvl 1",
+        "displayName": "Stromling",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 12586,
     "components": {
         "1": 6188,

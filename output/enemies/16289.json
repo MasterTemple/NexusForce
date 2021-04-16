@@ -1,4 +1,12 @@
 {
+    "objectID": 16289,
+    "itemInfo": {
+        "name": "NJ - Platform Frakjaw Skeleton Lieutenant",
+        "displayName": "Frakjaw - Skeleton of Fire",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "NO AI for boss fight only Skeleton Lieutenant"
+    },
     "enemyID": 16289,
     "components": {
         "2": 15039,

@@ -1,4 +1,12 @@
 {
+    "objectID": 6016,
+    "itemInfo": {
+        "name": "SG Target Sub Maelstrom",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Shooting Gallery Target",
+        "internalNotes": null
+    },
     "enemyID": 6016,
     "components": {
         "2": 5412,

@@ -1,4 +1,12 @@
 {
+    "objectID": 9896,
+    "itemInfo": {
+        "name": "Survival Dark Ronin",
+        "displayName": "Dark Ronin",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 9896,
     "components": {
         "1": 2377,

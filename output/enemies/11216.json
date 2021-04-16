@@ -1,4 +1,12 @@
 {
+    "objectID": 11216,
+    "itemInfo": {
+        "name": "AM - Stromling Admiral",
+        "displayName": "Stromling Admiral Invader",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Tough GF Enemy"
+    },
     "enemyID": 11216,
     "components": {
         "1": 5147,

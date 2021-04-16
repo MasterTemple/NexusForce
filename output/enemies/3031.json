@@ -1,4 +1,12 @@
 {
+    "objectID": 3031,
+    "itemInfo": {
+        "name": "FV - Grumpy Stromling",
+        "displayName": null,
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 3031,
     "components": {
         "1": 1087,

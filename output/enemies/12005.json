@@ -1,4 +1,12 @@
 {
+    "objectID": 12005,
+    "itemInfo": {
+        "name": "AM - Skeleton Patroller NAMED Nuckal",
+        "displayName": "Nuckal - Skeleton Lightning General",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Basic Skeleton"
+    },
     "enemyID": 12005,
     "components": {
         "1": 5810,

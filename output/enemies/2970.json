@@ -1,4 +1,12 @@
 {
+    "objectID": 2970,
+    "itemInfo": {
+        "name": "SG Target Duck Blue",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Shooting Gallery Target",
+        "internalNotes": null
+    },
     "enemyID": 2970,
     "components": {
         "1": 994,

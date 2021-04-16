@@ -1,4 +1,12 @@
 {
+    "objectID": 6919,
+    "itemInfo": {
+        "name": "SG Target Duck 2",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Shooting Gallery Target - Duck 2",
+        "internalNotes": null
+    },
     "enemyID": 6919,
     "components": {
         "2": 6481,

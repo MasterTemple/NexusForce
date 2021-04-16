@@ -1,4 +1,12 @@
 {
+    "objectID": 16511,
+    "itemInfo": {
+        "name": "NJD - Skeleton Mad Scientist - Frakjaw instance",
+        "displayName": "Skeleton Mad Scientist",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Elite Ranged Skeleton for Ninjago Boss Instance"
+    },
     "enemyID": 16511,
     "components": {
         "1": 7903,

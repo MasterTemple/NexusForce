@@ -1,4 +1,12 @@
 {
+    "objectID": 12892,
+    "itemInfo": {
+        "name": "Test 2 New Enemy Rig",
+        "displayName": "Test 2 Enemy Rig",
+        "type": "Enemies",
+        "description": "Test generic enemy rig medium",
+        "internalNotes": null
+    },
     "enemyID": 12892,
     "components": {
         "1": 5811,

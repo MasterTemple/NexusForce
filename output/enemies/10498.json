@@ -1,4 +1,12 @@
 {
+    "objectID": 10498,
+    "itemInfo": {
+        "name": "Behavior Spawn - Dark Ronin",
+        "displayName": "Dark Ronin",
+        "type": "Enemies",
+        "description": "Spawned from behavior",
+        "internalNotes": null
+    },
     "enemyID": 10498,
     "components": {
         "1": 4658,

@@ -1,4 +1,12 @@
 {
+    "objectID": 3228,
+    "itemInfo": {
+        "name": "Test - Always Loot",
+        "displayName": null,
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 3228,
     "components": {
         "1": 1394,

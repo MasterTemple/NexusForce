@@ -1,4 +1,12 @@
 {
+    "objectID": 2188,
+    "itemInfo": {
+        "name": "AG - Cam Bot",
+        "displayName": null,
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 2188,
     "components": {
         "2": 1831,

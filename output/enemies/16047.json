@@ -1,4 +1,12 @@
 {
+    "objectID": 16047,
+    "itemInfo": {
+        "name": "NJ - Chopov Skeleton Lieutenant",
+        "displayName": "Chopov - Skeleton of Earth",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Skeleton Lieutenant"
+    },
     "enemyID": 16047,
     "components": {
         "1": 7574,

@@ -1,4 +1,12 @@
 {
+    "objectID": 8512,
+    "itemInfo": {
+        "name": "Spider Minions",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Spider Boss",
+        "internalNotes": null
+    },
     "enemyID": 8512,
     "components": {
         "1": 2656,

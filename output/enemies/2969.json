@@ -1,4 +1,12 @@
 {
+    "objectID": 2969,
+    "itemInfo": {
+        "name": "SG Target Duck Red",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Shooting Gallery Target",
+        "internalNotes": null
+    },
     "enemyID": 2969,
     "components": {
         "1": 994,

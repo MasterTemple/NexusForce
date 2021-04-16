@@ -1,4 +1,12 @@
 {
+    "objectID": 2888,
+    "itemInfo": {
+        "name": "GC 09 - Red Ninja",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Team 9",
+        "internalNotes": null
+    },
     "enemyID": 2888,
     "components": {
         "1": 1088,

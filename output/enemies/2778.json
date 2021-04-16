@@ -1,4 +1,12 @@
 {
+    "objectID": 2778,
+    "itemInfo": {
+        "name": "GC11 - Blonky",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Ghost",
+        "internalNotes": null
+    },
     "enemyID": 2778,
     "components": {
         "1": 15,

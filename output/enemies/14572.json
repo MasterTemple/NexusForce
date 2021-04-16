@@ -1,4 +1,12 @@
 {
+    "objectID": 14572,
+    "itemInfo": {
+        "name": "AG - Dark Spiderling - Spider Cave only",
+        "displayName": "Dark Spiderling",
+        "type": "Enemies",
+        "description": "Small Stromling for spider cave",
+        "internalNotes": null
+    },
     "enemyID": 14572,
     "components": {
         "1": 7304,

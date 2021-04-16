@@ -1,4 +1,12 @@
 {
+    "objectID": 2703,
+    "itemInfo": {
+        "name": "GC11 - Wocka Blonky Test",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Wocka Wocka (based on 2268)",
+        "internalNotes": null
+    },
     "enemyID": 2703,
     "components": {
         "1": 1344,

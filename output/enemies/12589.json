@@ -1,4 +1,12 @@
 {
+    "objectID": 12589,
+    "itemInfo": {
+        "name": "NSI - Stromling Pirate",
+        "displayName": "Stromling Pirate",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 12589,
     "components": {
         "1": 6191,

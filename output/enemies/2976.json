@@ -1,4 +1,12 @@
 {
+    "objectID": 2976,
+    "itemInfo": {
+        "name": "SG Target Pearl",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Shooting Gallery Target",
+        "internalNotes": null
+    },
     "enemyID": 2976,
     "components": {
         "2": 2589,

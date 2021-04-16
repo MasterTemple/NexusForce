@@ -1,4 +1,12 @@
 {
+    "objectID": 10379,
+    "itemInfo": {
+        "name": "Property - Stromling Admiral",
+        "displayName": "Stromling Admiral",
+        "type": "Enemies",
+        "description": "Enemy for property unlock maps",
+        "internalNotes": null
+    },
     "enemyID": 10379,
     "components": {
         "1": 4618,

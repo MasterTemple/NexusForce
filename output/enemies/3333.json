@@ -1,4 +1,12 @@
 {
+    "objectID": 3333,
+    "itemInfo": {
+        "name": "AG - Ant Spawner",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Ant Hill for scene 6",
+        "internalNotes": null
+    },
     "enemyID": 3333,
     "components": {
         "1": 1587,

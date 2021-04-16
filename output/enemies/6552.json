@@ -1,4 +1,12 @@
 {
+    "objectID": 6552,
+    "itemInfo": {
+        "name": "AG - Min Spec Enemies",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Min spec test",
+        "internalNotes": null
+    },
     "enemyID": 6552,
     "components": {
         "1": 2377,

@@ -1,4 +1,12 @@
 {
+    "objectID": 14491,
+    "itemInfo": {
+        "name": "NJ - Skeleton Trooper",
+        "displayName": "Skeleton Trooper",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Basic Easy Skeleton for Nijago"
+    },
     "enemyID": 14491,
     "components": {
         "1": 7271,

@@ -1,4 +1,12 @@
 {
+    "objectID": 13952,
+    "itemInfo": {
+        "name": "TEST Grid Tower Enemy 2B",
+        "displayName": "Stromling",
+        "type": "Enemies",
+        "description": "Basic Stromling",
+        "internalNotes": null
+    },
     "enemyID": 13952,
     "components": {
         "1": 6930,

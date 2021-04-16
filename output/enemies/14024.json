@@ -1,4 +1,12 @@
 {
+    "objectID": 14024,
+    "itemInfo": {
+        "name": "NJ - Skeleton Blacksmith",
+        "displayName": "Skeleton Blacksmith",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Basic Skeleton for Nijago"
+    },
     "enemyID": 14024,
     "components": {
         "1": 6964,

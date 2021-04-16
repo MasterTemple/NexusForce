@@ -1,4 +1,12 @@
 {
+    "objectID": 12602,
+    "itemInfo": {
+        "name": "NSI - Stromling Hammerling Ranged",
+        "displayName": "Hammerhurl Stromling",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 12602,
     "components": {
         "1": 6195,

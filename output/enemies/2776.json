@@ -1,4 +1,12 @@
 {
+    "objectID": 2776,
+    "itemInfo": {
+        "name": "GC11 - Oinky",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Ghost",
+        "internalNotes": null
+    },
     "enemyID": 2776,
     "components": {
         "1": 15,

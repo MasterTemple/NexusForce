@@ -1,4 +1,12 @@
 {
+    "objectID": 11217,
+    "itemInfo": {
+        "name": "AM - Stromling Ape",
+        "displayName": "Stromling Ape Invader",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Uber gorilla"
+    },
     "enemyID": 11217,
     "components": {
         "1": 5148,

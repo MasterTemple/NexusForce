@@ -1,4 +1,12 @@
 {
+    "objectID": 11988,
+    "itemInfo": {
+        "name": "AM - Dark Ronin NAMED",
+        "displayName": "Grim Daisho - Dark Ronin Invader",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "minion for FV"
+    },
     "enemyID": 11988,
     "components": {
         "1": 5802,

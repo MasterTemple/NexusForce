@@ -1,4 +1,12 @@
 {
+    "objectID": 2352,
+    "itemInfo": {
+        "name": "ACTIVITY ONLY - NPC 22",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "For activity team only",
+        "internalNotes": null
+    },
     "enemyID": 2352,
     "components": {
         "1": 1090,

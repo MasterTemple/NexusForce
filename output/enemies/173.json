@@ -1,4 +1,12 @@
 {
+    "objectID": 173,
+    "itemInfo": {
+        "name": "Stromling Generator",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Vanguard NPC",
+        "internalNotes": null
+    },
     "enemyID": 173,
     "components": {
         "1": 317,

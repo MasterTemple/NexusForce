@@ -1,4 +1,12 @@
 {
+    "objectID": 9463,
+    "itemInfo": {
+        "name": "Boss Spider Minion",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "test asset for prototype spider leg",
+        "internalNotes": null
+    },
     "enemyID": 9463,
     "components": {
         "1": 4096,

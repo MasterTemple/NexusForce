@@ -1,4 +1,12 @@
 {
+    "objectID": 3018,
+    "itemInfo": {
+        "name": "TEST AI NINJA for Ian H",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Test AI, Ian use only.  Do not place",
+        "internalNotes": null
+    },
     "enemyID": 3018,
     "components": {
         "1": 15,

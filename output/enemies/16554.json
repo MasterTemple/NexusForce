@@ -1,4 +1,12 @@
 {
+    "objectID": 16554,
+    "itemInfo": {
+        "name": "OBSOLETE Ninjago Beetle",
+        "displayName": null,
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 16554,
     "components": {
         "2": 15332

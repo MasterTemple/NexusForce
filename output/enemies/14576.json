@@ -1,4 +1,12 @@
 {
+    "objectID": 14576,
+    "itemInfo": {
+        "name": "DPS NJ Skeleton Dummy",
+        "displayName": null,
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 14576,
     "components": {
         "1": 7305,

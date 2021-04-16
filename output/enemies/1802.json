@@ -1,4 +1,12 @@
 {
+    "objectID": 1802,
+    "itemInfo": {
+        "name": "Test Zoo Pirate 2",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Test; don't use in a production map",
+        "internalNotes": null
+    },
     "enemyID": 1802,
     "components": {
         "1": 1777,

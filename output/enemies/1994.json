@@ -1,4 +1,12 @@
 {
+    "objectID": 1994,
+    "itemInfo": {
+        "name": "Test Z_Wander",
+        "displayName": null,
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 1994,
     "components": {
         "1": 15,

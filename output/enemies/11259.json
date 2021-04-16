@@ -1,4 +1,12 @@
 {
+    "objectID": 11259,
+    "itemInfo": {
+        "name": "WBL - Maelstrom Beaver",
+        "displayName": "Maelstrom Beaver",
+        "type": "Enemies",
+        "description": "Enemy for Luptario",
+        "internalNotes": null
+    },
     "enemyID": 11259,
     "components": {
         "1": 5195,

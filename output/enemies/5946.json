@@ -1,4 +1,12 @@
 {
+    "objectID": 5946,
+    "itemInfo": {
+        "name": "SG Target Duck Yellow",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Shooting Gallery Target",
+        "internalNotes": null
+    },
     "enemyID": 5946,
     "components": {
         "1": 2694,

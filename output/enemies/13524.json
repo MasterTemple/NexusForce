@@ -1,4 +1,12 @@
 {
+    "objectID": 13524,
+    "itemInfo": {
+        "name": "NSI - Stromling Ape 2",
+        "displayName": "Stromling Ape Elite",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 13524,
     "components": {
         "1": 6631,

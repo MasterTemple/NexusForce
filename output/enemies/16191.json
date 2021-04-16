@@ -1,4 +1,12 @@
 {
+    "objectID": 16191,
+    "itemInfo": {
+        "name": "NJD - Bone Wolf - Frakjaw instance",
+        "displayName": "Bone Wolf",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 16191,
     "components": {
         "1": 7629,

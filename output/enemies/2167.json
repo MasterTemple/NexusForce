@@ -1,4 +1,12 @@
 {
+    "objectID": 2167,
+    "itemInfo": {
+        "name": "SG Target Biplane",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Shooting Gallery Target",
+        "internalNotes": null
+    },
     "enemyID": 2167,
     "components": {
         "2": 1884,

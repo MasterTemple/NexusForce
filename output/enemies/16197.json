@@ -1,4 +1,12 @@
 {
+    "objectID": 16197,
+    "itemInfo": {
+        "name": "AG - Dark Spiderling (Spider Boss Version)",
+        "displayName": "Dark Spiderling",
+        "type": "Enemies",
+        "description": "Small Stromling spider - Spider Boss Version",
+        "internalNotes": null
+    },
     "enemyID": 16197,
     "components": {
         "1": 7635,

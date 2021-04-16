@@ -1,4 +1,12 @@
 {
+    "objectID": 7815,
+    "itemInfo": {
+        "name": "FV Dark Ronin",
+        "displayName": "Dark Ronin",
+        "type": "Enemies",
+        "description": "minion for FV",
+        "internalNotes": null
+    },
     "enemyID": 7815,
     "components": {
         "1": 2377,

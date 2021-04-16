@@ -1,4 +1,12 @@
 {
+    "objectID": 2984,
+    "itemInfo": {
+        "name": "SG Target Sub Blue",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Shooting Gallery Target",
+        "internalNotes": null
+    },
     "enemyID": 2984,
     "components": {
         "2": 2475,

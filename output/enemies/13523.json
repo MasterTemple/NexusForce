@@ -1,4 +1,12 @@
 {
+    "objectID": 13523,
+    "itemInfo": {
+        "name": "NSI - Stromling Admiral 2",
+        "displayName": "Stromling Admiral Elite",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 13523,
     "components": {
         "1": 6630,

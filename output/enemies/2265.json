@@ -1,4 +1,12 @@
 {
+    "objectID": 2265,
+    "itemInfo": {
+        "name": "Test Zoo Pirate 1",
+        "displayName": null,
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 2265,
     "components": {
         "1": 1066,

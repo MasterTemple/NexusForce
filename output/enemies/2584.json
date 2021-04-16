@@ -1,4 +1,12 @@
 {
+    "objectID": 2584,
+    "itemInfo": {
+        "name": "Blue Siege Pirate Guard",
+        "displayName": null,
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 2584,
     "components": {
         "1": 1087,

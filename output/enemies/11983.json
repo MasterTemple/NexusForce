@@ -1,4 +1,12 @@
 {
+    "objectID": 11983,
+    "itemInfo": {
+        "name": "AM - Stromling Mech NAMED",
+        "displayName": "ED-902 - Stromling Mech Invader",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Stromling Sgt. that turns to a rebuild upon smashing."
+    },
     "enemyID": 11983,
     "components": {
         "1": 5797,

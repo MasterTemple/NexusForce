@@ -1,4 +1,12 @@
 {
+    "objectID": 1996,
+    "itemInfo": {
+        "name": "Test Z_Two_Conduct",
+        "displayName": null,
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 1996,
     "components": {
         "1": 15,

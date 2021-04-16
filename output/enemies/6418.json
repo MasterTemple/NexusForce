@@ -1,4 +1,12 @@
 {
+    "objectID": 6418,
+    "itemInfo": {
+        "name": "OLD - Stromling Survival",
+        "displayName": "Stromling",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 6418,
     "components": {
         "1": 2653,

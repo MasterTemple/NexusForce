@@ -1,4 +1,12 @@
 {
+    "objectID": 3148,
+    "itemInfo": {
+        "name": "AG - Robotanist Mower Boss",
+        "displayName": null,
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 3148,
     "components": {
         "2": 2609,

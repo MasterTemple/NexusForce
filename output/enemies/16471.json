@@ -1,4 +1,12 @@
 {
+    "objectID": 16471,
+    "itemInfo": {
+        "name": "NAMED Stromling Admiral",
+        "displayName": "NAMED Stromling Admiral",
+        "type": "Enemies",
+        "description": "Named GF enemy",
+        "internalNotes": null
+    },
     "enemyID": 16471,
     "components": {
         "1": 7873,

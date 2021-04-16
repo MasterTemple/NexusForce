@@ -1,4 +1,12 @@
 {
+    "objectID": 6806,
+    "itemInfo": {
+        "name": "GF - Stromling Ape",
+        "displayName": "Stromling Ape",
+        "type": "Enemies",
+        "description": "Uber gorilla",
+        "internalNotes": null
+    },
     "enemyID": 6806,
     "components": {
         "1": 2998,

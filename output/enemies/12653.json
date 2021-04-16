@@ -1,4 +1,12 @@
 {
+    "objectID": 12653,
+    "itemInfo": {
+        "name": "NSI - Stromling Hammerling Melee",
+        "displayName": "Hammer Stromling",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 12653,
     "components": {
         "1": 6217,

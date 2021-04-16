@@ -1,4 +1,12 @@
 {
+    "objectID": 2245,
+    "itemInfo": {
+        "name": "GF - Red Siege Ninja Guard",
+        "displayName": null,
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 2245,
     "components": {
         "1": 15,

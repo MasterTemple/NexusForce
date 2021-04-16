@@ -1,4 +1,12 @@
 {
+    "objectID": 12387,
+    "itemInfo": {
+        "name": "VE Instance - Elite Dark Spiderling",
+        "displayName": "Elite Dark Spiderling",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Small Stromling spider for SpaceShip Instance"
+    },
     "enemyID": 12387,
     "components": {
         "1": 6071,

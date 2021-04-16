@@ -1,4 +1,12 @@
 {
+    "objectID": 8445,
+    "itemInfo": {
+        "name": "Spider Boss Activity",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Boss for the last room of the spider cave",
+        "internalNotes": null
+    },
     "enemyID": 8445,
     "components": {
         "1": 3933,

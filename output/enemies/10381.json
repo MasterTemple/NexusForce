@@ -1,4 +1,12 @@
 {
+    "objectID": 10381,
+    "itemInfo": {
+        "name": "Property - Maelstrom Cavalry",
+        "displayName": "Maelstrom Horseman",
+        "type": "Enemies",
+        "description": "Enemy for property unlock maps",
+        "internalNotes": null
+    },
     "enemyID": 10381,
     "components": {
         "1": 4620,

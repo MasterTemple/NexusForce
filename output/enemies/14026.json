@@ -1,4 +1,12 @@
 {
+    "objectID": 14026,
+    "itemInfo": {
+        "name": "NJ - Skeleton Commando",
+        "displayName": "Skeleton Commando",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Tough  Skeleton for Ninjago"
+    },
     "enemyID": 14026,
     "components": {
         "1": 6966,

@@ -1,4 +1,12 @@
 {
+    "objectID": 11226,
+    "itemInfo": {
+        "name": "FV Maelstrom Dragon 3",
+        "displayName": "Burnshout - Maelstrom Dragon",
+        "type": "Enemies",
+        "description": "FV Miniboss",
+        "internalNotes": null
+    },
     "enemyID": 11226,
     "components": {
         "1": 3473,

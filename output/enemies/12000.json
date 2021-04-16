@@ -1,4 +1,12 @@
 {
+    "objectID": 12000,
+    "itemInfo": {
+        "name": "AM - Skeleton Miner",
+        "displayName": "Skeleton Miner",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Basic Skeleton"
+    },
     "enemyID": 12000,
     "components": {
         "1": 5805,

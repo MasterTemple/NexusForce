@@ -1,4 +1,12 @@
 {
+    "objectID": 1997,
+    "itemInfo": {
+        "name": "Test Z_Helpers",
+        "displayName": null,
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 1997,
     "components": {
         "1": 15,

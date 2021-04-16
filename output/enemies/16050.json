@@ -1,4 +1,12 @@
 {
+    "objectID": 16050,
+    "itemInfo": {
+        "name": "NJ - Bonezai Skeleton Lieutenant",
+        "displayName": "Bonezai - Skeleton of Ice",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Skeleton Lieutenant"
+    },
     "enemyID": 16050,
     "components": {
         "1": 7577,

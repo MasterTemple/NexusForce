@@ -1,4 +1,12 @@
 {
+    "objectID": 11212,
+    "itemInfo": {
+        "name": "AM - Stromling",
+        "displayName": "Stromling Invader",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Basic Stromling"
+    },
     "enemyID": 11212,
     "components": {
         "1": 5143,

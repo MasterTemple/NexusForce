@@ -1,4 +1,12 @@
 {
+    "objectID": 4978,
+    "itemInfo": {
+        "name": "DMB - Stromling 'Strombie",
+        "displayName": "Stromling",
+        "type": "Enemies",
+        "description": "Puccio & Kidd - for Dead Man's Bluff",
+        "internalNotes": null
+    },
     "enemyID": 4978,
     "components": {
         "1": 2273,

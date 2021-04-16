@@ -1,4 +1,12 @@
 {
+    "objectID": 16474,
+    "itemInfo": {
+        "name": "NAMED Dark Ronin",
+        "displayName": "NAMED Dark Ronin",
+        "type": "Enemies",
+        "description": "Named Ronin",
+        "internalNotes": null
+    },
     "enemyID": 16474,
     "components": {
         "1": 7876,

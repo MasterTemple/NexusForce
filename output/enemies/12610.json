@@ -1,4 +1,12 @@
 {
+    "objectID": 12610,
+    "itemInfo": {
+        "name": "NSI - Dark Ronin",
+        "displayName": "Dark Ronin",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 12610,
     "components": {
         "1": 6199,

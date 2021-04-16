@@ -1,4 +1,12 @@
 {
+    "objectID": 3719,
+    "itemInfo": {
+        "name": "NS - SG -Skunk",
+        "displayName": null,
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 3719,
     "components": {
         "1": 1454,

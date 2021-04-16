@@ -1,4 +1,12 @@
 {
+    "objectID": 12587,
+    "itemInfo": {
+        "name": "NSI - Stromling Mech Survival",
+        "displayName": "Stromling Mech",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 12587,
     "components": {
         "1": 6189,

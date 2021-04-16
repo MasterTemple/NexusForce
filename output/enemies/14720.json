@@ -1,4 +1,12 @@
 {
+    "objectID": 14720,
+    "itemInfo": {
+        "name": "Property Spider Boss",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Spider Boss Property",
+        "internalNotes": null
+    },
     "enemyID": 14720,
     "components": {
         "2": 14407

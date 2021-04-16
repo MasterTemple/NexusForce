@@ -1,4 +1,12 @@
 {
+    "objectID": 6602,
+    "itemInfo": {
+        "name": "CT - Medusa",
+        "displayName": null,
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 6602,
     "components": {
         "1": 2862,

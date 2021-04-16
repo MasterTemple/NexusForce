@@ -1,4 +1,12 @@
 {
+    "objectID": 10497,
+    "itemInfo": {
+        "name": "Behavior Spawn - Stromling Pirate",
+        "displayName": "Stromling Pirate",
+        "type": "Enemies",
+        "description": "Enemy spawned by behavior",
+        "internalNotes": null
+    },
     "enemyID": 10497,
     "components": {
         "1": 4657,

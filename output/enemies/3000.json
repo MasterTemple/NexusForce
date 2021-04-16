@@ -1,4 +1,12 @@
 {
+    "objectID": 3000,
+    "itemInfo": {
+        "name": "FV - Gas Trigger",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "sends damage to player",
+        "internalNotes": null
+    },
     "enemyID": 3000,
     "components": {
         "1": 1487,

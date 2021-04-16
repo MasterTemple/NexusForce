@@ -1,4 +1,12 @@
 {
+    "objectID": 12003,
+    "itemInfo": {
+        "name": "AM - Skeleton Engineer NAMED",
+        "displayName": "Blackmarrow - Skeleton Engineer",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Basic Skeleton"
+    },
     "enemyID": 12003,
     "components": {
         "1": 5808,

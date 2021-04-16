@@ -1,4 +1,12 @@
 {
+    "objectID": 8097,
+    "itemInfo": {
+        "name": "AG - Dark Spiderling Survival Lvl 3",
+        "displayName": "Dark Spiderling",
+        "type": "Enemies",
+        "description": "survival spiderling",
+        "internalNotes": null
+    },
     "enemyID": 8097,
     "components": {
         "1": 4864,

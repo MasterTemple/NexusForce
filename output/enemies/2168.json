@@ -1,4 +1,12 @@
 {
+    "objectID": 2168,
+    "itemInfo": {
+        "name": "SG Target Ship Galleon Friendly",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Shooting Gallery Target",
+        "internalNotes": null
+    },
     "enemyID": 2168,
     "components": {
         "1": 996,

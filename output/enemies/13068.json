@@ -1,4 +1,12 @@
 {
+    "objectID": 13068,
+    "itemInfo": {
+        "name": "AM - Watchtower Skeleton",
+        "displayName": "Skeleton Watchman",
+        "type": "Enemies",
+        "description": "Skeleton spawned by the watchrtower",
+        "internalNotes": "Basic Skeleton for watchtower"
+    },
     "enemyID": 13068,
     "components": {
         "1": 6358,

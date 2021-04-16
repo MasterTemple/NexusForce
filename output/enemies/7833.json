@@ -1,4 +1,12 @@
 {
+    "objectID": 7833,
+    "itemInfo": {
+        "name": "Duck SG Cannonball",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Cannonball for Duck shooting gallery",
+        "internalNotes": null
+    },
     "enemyID": 7833,
     "components": {
         "2": 7389,

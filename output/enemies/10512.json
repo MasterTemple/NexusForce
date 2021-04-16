@@ -1,4 +1,12 @@
 {
+    "objectID": 10512,
+    "itemInfo": {
+        "name": "FV - Dragon Spawned Ronin",
+        "displayName": "Dark Ronin",
+        "type": "Enemies",
+        "description": "Ronin spawned by flying dragon fireball effect",
+        "internalNotes": null
+    },
     "enemyID": 10512,
     "components": {
         "1": 4661,

@@ -1,4 +1,12 @@
 {
+    "objectID": 1822,
+    "itemInfo": {
+        "name": "Shooting Gallery Cannon Ball",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Cannonball for shooting gallery",
+        "internalNotes": null
+    },
     "enemyID": 1822,
     "components": {
         "2": 1732,

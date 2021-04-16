@@ -1,4 +1,12 @@
 {
+    "objectID": 2818,
+    "itemInfo": {
+        "name": "InstalKill Creature",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "BUOYF",
+        "internalNotes": null
+    },
     "enemyID": 2818,
     "components": {
         "1": 1380,

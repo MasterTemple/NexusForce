@@ -1,4 +1,12 @@
 {
+    "objectID": 4712,
+    "itemInfo": {
+        "name": "AG - Stromling",
+        "displayName": "Stromling",
+        "type": "Enemies",
+        "description": "Basic Stromling",
+        "internalNotes": null
+    },
     "enemyID": 4712,
     "components": {
         "1": 2377,

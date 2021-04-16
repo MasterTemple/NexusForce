@@ -1,4 +1,12 @@
 {
+    "objectID": 3204,
+    "itemInfo": {
+        "name": "Yeti",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "For Spike's Peak",
+        "internalNotes": null
+    },
     "enemyID": 3204,
     "components": {
         "1": 1518,

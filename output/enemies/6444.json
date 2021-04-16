@@ -1,4 +1,12 @@
 {
+    "objectID": 6444,
+    "itemInfo": {
+        "name": "Spider Cave Spider",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "test asset for prototype spider leg",
+        "internalNotes": null
+    },
     "enemyID": 6444,
     "components": {
         "1": 2656,

@@ -1,4 +1,12 @@
 {
+    "objectID": 1769,
+    "itemInfo": {
+        "name": "Wonderland Monkey",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Wonderland NPC",
+        "internalNotes": null
+    },
     "enemyID": 1769,
     "components": {},
     "doesntDropAnything": true,

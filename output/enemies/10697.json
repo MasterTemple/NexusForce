@@ -1,4 +1,12 @@
 {
+    "objectID": 10697,
+    "itemInfo": {
+        "name": "Behavior Spawn - Dark Spiderling",
+        "displayName": "Dark Spiderling",
+        "type": "Enemies",
+        "description": "Spawned from Behavior, no loot",
+        "internalNotes": null
+    },
     "enemyID": 10697,
     "components": {
         "1": 4840,

@@ -1,4 +1,12 @@
 {
+    "objectID": 10015,
+    "itemInfo": {
+        "name": "GF - Stromling Admiral SIDESCROLLER",
+        "displayName": "Stromling Admiral",
+        "type": "Enemies",
+        "description": "Tough GF Enemy",
+        "internalNotes": null
+    },
     "enemyID": 10015,
     "components": {
         "1": 2377,

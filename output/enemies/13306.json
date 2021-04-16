@@ -1,4 +1,12 @@
 {
+    "objectID": 13306,
+    "itemInfo": {
+        "name": "TEST - Passive Stromling",
+        "displayName": "Passive Stromling",
+        "type": "Enemies",
+        "description": "TEST Passive  Stromling",
+        "internalNotes": null
+    },
     "enemyID": 13306,
     "components": {
         "1": 6488,

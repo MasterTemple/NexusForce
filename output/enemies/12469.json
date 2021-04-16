@@ -1,4 +1,12 @@
 {
+    "objectID": 12469,
+    "itemInfo": {
+        "name": "NSI - Maelstrom Horseman NAMED Boss",
+        "displayName": "Oni Rider Shi - Maelstrom Horseman",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 12469,
     "components": {
         "1": 6124,

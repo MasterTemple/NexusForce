@@ -1,4 +1,12 @@
 {
+    "objectID": 8089,
+    "itemInfo": {
+        "name": "AG - Survival Stromling Lvl 3",
+        "displayName": "Hammer Stromling",
+        "type": "Enemies",
+        "description": "survival stromling",
+        "internalNotes": null
+    },
     "enemyID": 8089,
     "components": {
         "1": 4862,

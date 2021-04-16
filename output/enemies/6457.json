@@ -1,4 +1,12 @@
 {
+    "objectID": 6457,
+    "itemInfo": {
+        "name": "Spider Boss Fire Rockets",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Spider boss for second room of the spider cave",
+        "internalNotes": null
+    },
     "enemyID": 6457,
     "components": {
         "1": 48,

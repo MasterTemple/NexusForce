@@ -1,4 +1,12 @@
 {
+    "objectID": 1993,
+    "itemInfo": {
+        "name": "Test Z_Fear_Flee",
+        "displayName": null,
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 1993,
     "components": {
         "1": 15,

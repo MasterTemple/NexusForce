@@ -1,4 +1,12 @@
 {
+    "objectID": 10695,
+    "itemInfo": {
+        "name": "Behavior Spawn - Stromling Mech",
+        "displayName": "Stromling Mech",
+        "type": "Enemies",
+        "description": "Spawned from Behavior, no loot",
+        "internalNotes": null
+    },
     "enemyID": 10695,
     "components": {
         "1": 4837,

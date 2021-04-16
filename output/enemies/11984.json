@@ -1,4 +1,12 @@
 {
+    "objectID": 11984,
+    "itemInfo": {
+        "name": "AM - Dark Spiderling NAMED",
+        "displayName": "Muffet Bane - Dark Spiderling Invader",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Small Stromling spider for scenario Survival"
+    },
     "enemyID": 11984,
     "components": {
         "1": 5798,

@@ -1,4 +1,12 @@
 {
+    "objectID": 6975,
+    "itemInfo": {
+        "name": "GF - Stromling Admiral Survival",
+        "displayName": "Stromling Admiral",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": null
+    },
     "enemyID": 6975,
     "components": {
         "1": 2377,

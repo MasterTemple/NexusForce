@@ -1,4 +1,12 @@
 {
+    "objectID": 12002,
+    "itemInfo": {
+        "name": "AM - Skeleton Engineer",
+        "displayName": "Skeleton Engineer",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Basic Skeleton"
+    },
     "enemyID": 12002,
     "components": {
         "1": 5807,

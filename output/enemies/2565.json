@@ -1,4 +1,12 @@
 {
+    "objectID": 2565,
+    "itemInfo": {
+        "name": "SG Target Kraken",
+        "displayName": null,
+        "type": "Enemies",
+        "description": "Shooting Gallery Target",
+        "internalNotes": null
+    },
     "enemyID": 2565,
     "components": {
         "2": 5788,

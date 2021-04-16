@@ -1,4 +1,12 @@
 {
+    "objectID": 14029,
+    "itemInfo": {
+        "name": "NJ - Skeleton Mad Scientist",
+        "displayName": "Skeleton Mad Scientist",
+        "type": "Enemies",
+        "description": null,
+        "internalNotes": "Elite Ranged Skeleton for Ninjago"
+    },
     "enemyID": 14029,
     "components": {
         "1": 6969,
