@@ -266,7 +266,7 @@
     {
         "id": 81,
         "defined_type": "Build",
-        "defined_subtype": null,
+        "defined_subtype": "Build",
         "name": "A Worthy Builder 1",
         "description": "Complete any 10 Quick Builds.",
         "isMission": 0
@@ -274,7 +274,7 @@
     {
         "id": 82,
         "defined_type": "Build",
-        "defined_subtype": null,
+        "defined_subtype": "Build",
         "name": "A Worthy Builder 2",
         "description": "Complete 100 more Quick Builds.",
         "isMission": 0
@@ -290,7 +290,7 @@
     {
         "id": 84,
         "defined_type": "Build",
-        "defined_subtype": null,
+        "defined_subtype": "Build",
         "name": "A Worthy Builder 3",
         "description": "Complete 1000 more Quick Builds.",
         "isMission": 0
@@ -314,7 +314,7 @@
     {
         "id": 97,
         "defined_type": "Build",
-        "defined_subtype": null,
+        "defined_subtype": "Build",
         "name": "A Worthy Builder",
         "description": "Complete 10,000 more Quick Builds.",
         "isMission": 0
@@ -506,7 +506,7 @@
     {
         "id": 209,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "A Feat of Imagination",
         "description": "Collect any 5 Imagination Bricks.",
         "isMission": 0
@@ -674,7 +674,7 @@
     {
         "id": 268,
         "defined_type": "Build",
-        "defined_subtype": null,
+        "defined_subtype": "Build",
         "name": "Reputation 1",
         "description": "Earn 100 Reputation.",
         "isMission": 0
@@ -682,7 +682,7 @@
     {
         "id": 270,
         "defined_type": "Build",
-        "defined_subtype": null,
+        "defined_subtype": "Build",
         "name": "Reputation 2",
         "description": "Earn 1000 more Reputation.",
         "isMission": 0
@@ -690,7 +690,7 @@
     {
         "id": 271,
         "defined_type": "Build",
-        "defined_subtype": null,
+        "defined_subtype": "Build",
         "name": "Reputation 3",
         "description": "Earn 10,000 more Reputation.",
         "isMission": 0
@@ -698,7 +698,7 @@
     {
         "id": 272,
         "defined_type": "Build",
-        "defined_subtype": null,
+        "defined_subtype": "Build",
         "name": "Reputation 4",
         "description": "Earn 100,000 more Reputation.",
         "isMission": 0
@@ -706,7 +706,7 @@
     {
         "id": 273,
         "defined_type": "Build",
-        "defined_subtype": null,
+        "defined_subtype": "Build",
         "name": "Reputation",
         "description": "Earn 1,000,000 more Reputation.",
         "isMission": 0
@@ -1498,7 +1498,7 @@
     {
         "id": 445,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Shark Bite 1",
         "description": "Get eaten by a shark.",
         "isMission": 0
@@ -1506,7 +1506,7 @@
     {
         "id": 446,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Shark Bite 2",
         "description": "Get eaten by a shark 10 more times.",
         "isMission": 0
@@ -1514,7 +1514,7 @@
     {
         "id": 447,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Shark Bite",
         "description": "Get eaten by a shark 100 more times.",
         "isMission": 0
@@ -2042,7 +2042,7 @@
     {
         "id": 545,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Join Assembly!",
         "description": "Join the Assembly Faction.",
         "isMission": 0
@@ -2050,7 +2050,7 @@
     {
         "id": 546,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Assembly Engineer 1",
         "description": "Learn the secret to wearing Rank 1 Engineer Gear.",
         "isMission": 0
@@ -2058,7 +2058,7 @@
     {
         "id": 547,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Assembly Engineer 2",
         "description": "Learn the secret to wearing Rank 2 Engineer Gear.",
         "isMission": 0
@@ -2066,7 +2066,7 @@
     {
         "id": 548,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Assembly Engineer",
         "description": "Learn the secret to wearing Rank 3 Engineer Gear.",
         "isMission": 0
@@ -2074,7 +2074,7 @@
     {
         "id": 550,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Assembly Inventor 2",
         "description": "Learn the secret to wearing Rank 2 Inventor Gear.",
         "isMission": 0
@@ -2082,7 +2082,7 @@
     {
         "id": 551,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Assembly Inventor",
         "description": "Learn the secret to wearing Rank 3 Inventor Gear.",
         "isMission": 0
@@ -2090,7 +2090,7 @@
     {
         "id": 552,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Assembly Summoner 1",
         "description": "Learn the secret to wearing Rank 1 Summoner Gear.",
         "isMission": 0
@@ -2098,7 +2098,7 @@
     {
         "id": 553,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Assembly Summoner 2",
         "description": "Learn the secret to wearing Rank 2 Summoner Gear.",
         "isMission": 0
@@ -2106,7 +2106,7 @@
     {
         "id": 554,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Assembly Summoner",
         "description": "Learn the secret to wearing Rank 3 Summoner Gear.",
         "isMission": 0
@@ -2122,7 +2122,7 @@
     {
         "id": 556,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Join Venture League!",
         "description": "Join the Venture League Faction.",
         "isMission": 0
@@ -2130,7 +2130,7 @@
     {
         "id": 557,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Venture League Buccaneer 1",
         "description": "Learn the secret to wearing Rank 1 Buccaneer Gear.",
         "isMission": 0
@@ -2138,7 +2138,7 @@
     {
         "id": 558,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Venture League Buccaneer 2",
         "description": "Learn the secret to wearing Rank 2 Buccaneer Gear.",
         "isMission": 0
@@ -2146,7 +2146,7 @@
     {
         "id": 559,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Venture League Buccaneer",
         "description": "Learn the secret to wearing Rank 3 Buccaneer Gear.",
         "isMission": 0
@@ -2154,7 +2154,7 @@
     {
         "id": 561,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Venture League Adventurer 2",
         "description": "Learn the secret to wearing Rank 2 Adventurer Gear.",
         "isMission": 0
@@ -2162,7 +2162,7 @@
     {
         "id": 562,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Venture League Adventurer",
         "description": "Learn the secret to wearing Rank 3 Adventurer Gear.",
         "isMission": 0
@@ -2170,7 +2170,7 @@
     {
         "id": 563,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Venture League Daredevil 1",
         "description": "Learn the secret to wearing Rank 1 Daredevil Gear.",
         "isMission": 0
@@ -2178,7 +2178,7 @@
     {
         "id": 564,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Venture League Daredevil 2",
         "description": "Learn the secret to wearing Rank 2 Daredevil Gear.",
         "isMission": 0
@@ -2186,7 +2186,7 @@
     {
         "id": 565,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Venture League Daredevil",
         "description": "Learn the secret to wearing Rank 3 Daredevil Gear.",
         "isMission": 0
@@ -2202,7 +2202,7 @@
     {
         "id": 567,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Join The Sentinels!",
         "description": "Join the Sentinel Faction.",
         "isMission": 0
@@ -2210,7 +2210,7 @@
     {
         "id": 568,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Sentinel Knight 1",
         "description": "Learn the secret to wearing Rank 1 Knight Gear.",
         "isMission": 0
@@ -2218,7 +2218,7 @@
     {
         "id": 569,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Sentinel Knight 2",
         "description": "Learn the secret to wearing Rank 2 Knight Gear.",
         "isMission": 0
@@ -2226,7 +2226,7 @@
     {
         "id": 570,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Sentinel Knight",
         "description": "Learn the secret to wearing Rank 3 Knight Gear.",
         "isMission": 0
@@ -2234,7 +2234,7 @@
     {
         "id": 572,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Sentinel Space Ranger 2",
         "description": "Learn the secret to wearing Rank 2 Space Ranger Gear.",
         "isMission": 0
@@ -2242,7 +2242,7 @@
     {
         "id": 573,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Sentinel Space Ranger",
         "description": "Learn the secret to wearing Rank 3 Space Ranger Gear.",
         "isMission": 0
@@ -2250,7 +2250,7 @@
     {
         "id": 574,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Sentinel Samurai 1",
         "description": "Learn the secret to wearing Rank 1 Samurai Gear.",
         "isMission": 0
@@ -2258,7 +2258,7 @@
     {
         "id": 575,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Sentinel Samurai 2",
         "description": "Learn the secret to wearing Rank 2 Samurai Gear.",
         "isMission": 0
@@ -2266,7 +2266,7 @@
     {
         "id": 576,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Sentinel Samurai",
         "description": "Learn the secret to wearing Rank 3 Samurai Gear.",
         "isMission": 0
@@ -2282,7 +2282,7 @@
     {
         "id": 578,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Join Paradox!",
         "description": "Join the Paradox Faction.",
         "isMission": 0
@@ -2290,7 +2290,7 @@
     {
         "id": 579,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Paradox Sorcerer 1",
         "description": "Learn the secret to wearing Rank 1 Sorcerer Gear.",
         "isMission": 0
@@ -2298,7 +2298,7 @@
     {
         "id": 580,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Paradox Sorcerer 2",
         "description": "Learn the secret to wearing Rank 2 Sorcerer Gear.",
         "isMission": 0
@@ -2306,7 +2306,7 @@
     {
         "id": 581,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Paradox Sorcerer",
         "description": "Learn the secret to wearing Rank 3 Sorcerer Gear.",
         "isMission": 0
@@ -2314,7 +2314,7 @@
     {
         "id": 582,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Paradox Space Marauder 1",
         "description": "Learn the secret to wearing Rank 1 Space Marauder Gear.",
         "isMission": 0
@@ -2322,7 +2322,7 @@
     {
         "id": 583,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Paradox Space Marauder 2",
         "description": "Learn the secret to wearing Rank 2 Space Marauder Gear.",
         "isMission": 0
@@ -2330,7 +2330,7 @@
     {
         "id": 584,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Paradox Space Marauder",
         "description": "Learn the secret to wearing Rank 3 Space Marauder Gear.",
         "isMission": 0
@@ -2338,7 +2338,7 @@
     {
         "id": 586,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Paradox Shinobi 2",
         "description": "Learn the secret to wearing Rank 2 Shinobi Gear.",
         "isMission": 0
@@ -2346,7 +2346,7 @@
     {
         "id": 587,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Paradox Shinobi",
         "description": "Learn the secret to wearing Rank 3 Shinobi Gear.",
         "isMission": 0
@@ -2466,7 +2466,7 @@
     {
         "id": 616,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Nexus Force Collector",
         "description": "Collect Flags in Avant Gardens, Nimbus Station, Gnarled Forest, and Forbidden Valley.",
         "isMission": 0
@@ -3034,7 +3034,7 @@
     {
         "id": 693,
         "defined_type": "Build",
-        "defined_subtype": null,
+        "defined_subtype": "Build",
         "name": "A Collector's Dream",
         "description": "Complete 1000 collection Quick Builds.",
         "isMission": 0
@@ -3490,7 +3490,7 @@
     {
         "id": 778,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Join a Faction",
         "description": "Go to Nimbus Station and join a Faction!",
         "isMission": 0
@@ -4050,7 +4050,7 @@
     {
         "id": 875,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Beta Tester",
         "description": "Awarded for participation in the LEGO Universe Beta Test.",
         "isMission": 0
@@ -4090,7 +4090,7 @@
     {
         "id": 880,
         "defined_type": "Build",
-        "defined_subtype": null,
+        "defined_subtype": "Build",
         "name": "Behaviors 1",
         "description": "Complete the introductory Property Missions.",
         "isMission": 0
@@ -4098,7 +4098,7 @@
     {
         "id": 881,
         "defined_type": "Build",
-        "defined_subtype": null,
+        "defined_subtype": "Build",
         "name": "Behaviors 2",
         "description": "Claim a Property on Nimbus Station.",
         "isMission": 0
@@ -4106,7 +4106,7 @@
     {
         "id": 882,
         "defined_type": "Build",
-        "defined_subtype": null,
+        "defined_subtype": "Build",
         "name": "Behaviors 3",
         "description": "Claim a Property in Gnarled Forest.",
         "isMission": 0
@@ -4114,7 +4114,7 @@
     {
         "id": 883,
         "defined_type": "Build",
-        "defined_subtype": null,
+        "defined_subtype": "Build",
         "name": "Behaviors 4",
         "description": "Claim a Property in Forbidden Valley.",
         "isMission": 0
@@ -4122,7 +4122,7 @@
     {
         "id": 885,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Friend of Bradford Rant",
         "description": "Help the Bradford Rant Institute of Cosmic Kinesis uncover the secret of the Pods!",
         "isMission": 0
@@ -4146,7 +4146,7 @@
     {
         "id": 892,
         "defined_type": "LUPs",
-        "defined_subtype": null,
+        "defined_subtype": "LUPs",
         "name": "Starbase 3001 Flag Hunter",
         "description": "Collect 5 Backpack Flags in Starbase 3001.",
         "isMission": 0
@@ -4194,7 +4194,7 @@
     {
         "id": 898,
         "defined_type": "LUPs",
-        "defined_subtype": null,
+        "defined_subtype": "LUPs",
         "name": "Starbase 3001 Observer",
         "description": "Use both of the Binoculars in Starbase 3001.",
         "isMission": 0
@@ -4210,7 +4210,7 @@
     {
         "id": 905,
         "defined_type": "LUPs",
-        "defined_subtype": null,
+        "defined_subtype": "LUPs",
         "name": "Deliver the Welder",
         "description": "Unit 32 can't complete the sculpture without a welder!",
         "isMission": 1
@@ -4218,7 +4218,7 @@
     {
         "id": 906,
         "defined_type": "LUPs",
-        "defined_subtype": null,
+        "defined_subtype": "LUPs",
         "name": "Stop the Infected Citizens",
         "description": "I hope we can contain the spread of the corruption.",
         "isMission": 1
@@ -4226,7 +4226,7 @@
     {
         "id": 907,
         "defined_type": "LUPs",
-        "defined_subtype": null,
+        "defined_subtype": "LUPs",
         "name": "Stop the Separator",
         "description": "Oh dear, the longer it takes to stop the Separators, the more law abiding Citizens will be disassembled!",
         "isMission": 1
@@ -4234,7 +4234,7 @@
     {
         "id": 908,
         "defined_type": "LUPs",
-        "defined_subtype": null,
+        "defined_subtype": "LUPs",
         "name": "Hare Today",
         "description": "Those Maelstrom Beavers can be difficult sometimes. Watch out, they may bite!",
         "isMission": 1
@@ -4242,7 +4242,7 @@
     {
         "id": 909,
         "defined_type": "LUPs",
-        "defined_subtype": null,
+        "defined_subtype": "LUPs",
         "name": "Trapped",
         "description": "Folks here say that it is not usually this cold or snowy, it must be due to lake effect. Any luck finding those snow shoes?",
         "isMission": 1
@@ -4250,7 +4250,7 @@
     {
         "id": 910,
         "defined_type": "LUPs",
-        "defined_subtype": null,
+        "defined_subtype": "LUPs",
         "name": "Hungry",
         "description": "Any luck finding those carrots? I wonder if anyone knows where to find them.",
         "isMission": 1
@@ -4258,7 +4258,7 @@
     {
         "id": 911,
         "defined_type": "LUPs",
-        "defined_subtype": null,
+        "defined_subtype": "LUPs",
         "name": "The Silicone Express",
         "description": "Deliver the circuit board to the Robot 2by3.",
         "isMission": 1
@@ -4266,7 +4266,7 @@
     {
         "id": 913,
         "defined_type": "LUPs",
-        "defined_subtype": null,
+        "defined_subtype": "LUPs",
         "name": "I love the smell of Imaginatium in the morning",
         "description": "Collect 5 Imaginatium fuel rods for me.",
         "isMission": 1
@@ -4282,7 +4282,7 @@
     {
         "id": 915,
         "defined_type": "LUPs",
-        "defined_subtype": null,
+        "defined_subtype": "LUPs",
         "name": "It's them or us!",
         "description": "Smash 10 Grabbles.",
         "isMission": 1
@@ -4290,7 +4290,7 @@
     {
         "id": 933,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Gem Collector 1",
         "description": "Find 25 Amber Gems.",
         "isMission": 0
@@ -4298,7 +4298,7 @@
     {
         "id": 934,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Gem Collector 2",
         "description": "Find 25 Pink Gems.",
         "isMission": 0
@@ -4306,7 +4306,7 @@
     {
         "id": 935,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Gem Collector 3",
         "description": "Find 20 Light Blue Gems.",
         "isMission": 0
@@ -4314,7 +4314,7 @@
     {
         "id": 936,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Gem Collector 4",
         "description": "Find 10 Green Gems.",
         "isMission": 0
@@ -4322,7 +4322,7 @@
     {
         "id": 937,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Nexus Force Explorer",
         "description": "Discover all locations in the Nimbus System.",
         "isMission": 0
@@ -4434,7 +4434,7 @@
     {
         "id": 952,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Venture League Adventurer 1",
         "description": "Learn the secret to wearing Rank 1 Adventurer Gear.",
         "isMission": 0
@@ -4442,7 +4442,7 @@
     {
         "id": 953,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Paradox Shinobi 1",
         "description": "Learn the secret to wearing Rank 1 Shinobi Gear.",
         "isMission": 0
@@ -4450,7 +4450,7 @@
     {
         "id": 954,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Sentinel Space Ranger 1",
         "description": "Learn the secret to wearing Rank 1 Space Ranger Gear.",
         "isMission": 0
@@ -4458,7 +4458,7 @@
     {
         "id": 955,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Assembly Inventor 1",
         "description": "Learn the secret to wearing Rank 1 Inventor Gear.",
         "isMission": 0
@@ -4466,7 +4466,7 @@
     {
         "id": 956,
         "defined_type": "LUPs",
-        "defined_subtype": null,
+        "defined_subtype": "LUPs",
         "name": "Travel to the Stars",
         "description": "Talk to Forge Honcho in Starbase 3001.",
         "isMission": 1
@@ -5506,7 +5506,7 @@
     {
         "id": 1155,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Collector of Corruption 2",
         "description": "Collect 250 Maelstrom-infected bricks.",
         "isMission": 0
@@ -5514,7 +5514,7 @@
     {
         "id": 1156,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Collector of Corruption 3",
         "description": "Collect 500 Maelstrom-infected bricks.",
         "isMission": 0
@@ -5522,7 +5522,7 @@
     {
         "id": 1157,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Collector of Corruption",
         "description": "Collect 1000 Maelstrom-infected bricks.",
         "isMission": 0
@@ -5794,7 +5794,7 @@
     {
         "id": 1200,
         "defined_type": "Build",
-        "defined_subtype": null,
+        "defined_subtype": "Build",
         "name": "The Visitor 2",
         "description": "Visit 75 more Properties that you have not previously visited, on any world.",
         "isMission": 0
@@ -5802,7 +5802,7 @@
     {
         "id": 1201,
         "defined_type": "Build",
-        "defined_subtype": null,
+        "defined_subtype": "Build",
         "name": "The Visitor 3",
         "description": "Visit 150 more Properties that you have not previously visited, on any world.",
         "isMission": 0
@@ -5810,7 +5810,7 @@
     {
         "id": 1202,
         "defined_type": "Build",
-        "defined_subtype": null,
+        "defined_subtype": "Build",
         "name": "The Visitor 4",
         "description": "Visit 250 more Properties that you have not previously visited, on any world.",
         "isMission": 0
@@ -5834,7 +5834,7 @@
     {
         "id": 1205,
         "defined_type": "Build",
-        "defined_subtype": null,
+        "defined_subtype": "Build",
         "name": "Model Mover 2",
         "description": "Place 75 more models on any of your Properties.",
         "isMission": 0
@@ -5842,7 +5842,7 @@
     {
         "id": 1206,
         "defined_type": "Build",
-        "defined_subtype": null,
+        "defined_subtype": "Build",
         "name": "Model Mover 3",
         "description": "Place 150 more models on any of your Properties.",
         "isMission": 0
@@ -5850,7 +5850,7 @@
     {
         "id": 1207,
         "defined_type": "Build",
-        "defined_subtype": null,
+        "defined_subtype": "Build",
         "name": "Model Mover",
         "description": "Place 250 more models on any of your Properties.",
         "isMission": 0
@@ -5858,7 +5858,7 @@
     {
         "id": 1208,
         "defined_type": "Build",
-        "defined_subtype": null,
+        "defined_subtype": "Build",
         "name": "Ain't Misbehavin' 1",
         "description": "Add 5 Behaviors to any of your models.",
         "isMission": 0
@@ -5866,7 +5866,7 @@
     {
         "id": 1209,
         "defined_type": "Build",
-        "defined_subtype": null,
+        "defined_subtype": "Build",
         "name": "Ain't Misbehavin' 2",
         "description": "Add 25 more Behaviors to any of your models.",
         "isMission": 0
@@ -5874,7 +5874,7 @@
     {
         "id": 1210,
         "defined_type": "Build",
-        "defined_subtype": null,
+        "defined_subtype": "Build",
         "name": "Ain't Misbehavin' 3",
         "description": "Add 50 more Behaviors to any of your models.",
         "isMission": 0
@@ -5882,7 +5882,7 @@
     {
         "id": 1211,
         "defined_type": "Build",
-        "defined_subtype": null,
+        "defined_subtype": "Build",
         "name": "Ain't Misbehavin'",
         "description": "Add 75 more Behaviors to any of your models.",
         "isMission": 0
@@ -6834,7 +6834,7 @@
     {
         "id": 1350,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Like Clockwork 1",
         "description": "Complete 25 Daily Missions.",
         "isMission": 0
@@ -6842,7 +6842,7 @@
     {
         "id": 1351,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Like Clockwork 2",
         "description": "Complete 100 Daily Missions.",
         "isMission": 0
@@ -6850,7 +6850,7 @@
     {
         "id": 1352,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Like Clockwork 3",
         "description": "Complete 250 Daily Missions.",
         "isMission": 0
@@ -6858,7 +6858,7 @@
     {
         "id": 1353,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Like Clockwork 4",
         "description": "Complete 500 Daily Missions.",
         "isMission": 0
@@ -6866,7 +6866,7 @@
     {
         "id": 1354,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "Like Clockwork",
         "description": "Complete 1000 Daily Missions.",
         "isMission": 0
@@ -7010,7 +7010,7 @@
     {
         "id": 1373,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Knight's Gear 2",
         "description": "Equip all 6 pieces of the Rank 2 Knight gear.",
         "isMission": 0
@@ -7018,7 +7018,7 @@
     {
         "id": 1374,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Knight's Gear 3",
         "description": "Equip all 6 pieces of the Rank 3 Knight gear.",
         "isMission": 0
@@ -7546,7 +7546,7 @@
     {
         "id": 1466,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Samurai's Gear 1",
         "description": "Equip all 4 pieces of the Rank 1 Samurai gear.",
         "isMission": 0
@@ -7554,7 +7554,7 @@
     {
         "id": 1467,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Samurai's Gear 2",
         "description": "Equip all 6 pieces of the Rank 2 Samurai gear.",
         "isMission": 0
@@ -7562,7 +7562,7 @@
     {
         "id": 1468,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Samurai's Gear 3",
         "description": "Equip all 6 pieces of the Rank 3 Samurai gear.",
         "isMission": 0
@@ -7570,7 +7570,7 @@
     {
         "id": 1469,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Space Ranger's Gear 1",
         "description": "Equip all 4 pieces of the Rank 1 Space Ranger gear.",
         "isMission": 0
@@ -7578,7 +7578,7 @@
     {
         "id": 1470,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Space Ranger's Gear 2",
         "description": "Equip all 6 pieces of the Rank 2 Space Ranger gear.",
         "isMission": 0
@@ -7586,7 +7586,7 @@
     {
         "id": 1471,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Space Ranger's Gear 3",
         "description": "Equip all 6 pieces of the Rank 3 Space Ranger gear.",
         "isMission": 0
@@ -7594,7 +7594,7 @@
     {
         "id": 1472,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Engineer's Gear 1",
         "description": "Equip all 4 pieces of the Rank 1 Engineer gear.",
         "isMission": 0
@@ -7602,7 +7602,7 @@
     {
         "id": 1473,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Engineer's Gear 2",
         "description": "Equip all 6 pieces of the Rank 2 Engineer gear.",
         "isMission": 0
@@ -7610,7 +7610,7 @@
     {
         "id": 1474,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Engineer's Gear 3",
         "description": "Equip all 6 pieces of the Rank 3 Engineer gear.",
         "isMission": 0
@@ -7618,7 +7618,7 @@
     {
         "id": 1475,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Summoner's Gear 1",
         "description": "Equip all 4 pieces of the Rank 1 Summoner gear.",
         "isMission": 0
@@ -7626,7 +7626,7 @@
     {
         "id": 1476,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Summoner's Gear 2",
         "description": "Equip all 6 pieces of the Rank 2 Summoner gear.",
         "isMission": 0
@@ -7634,7 +7634,7 @@
     {
         "id": 1477,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Summoner's Gear 3",
         "description": "Equip all 6 pieces of the Rank 3 Summoner gear.",
         "isMission": 0
@@ -7642,7 +7642,7 @@
     {
         "id": 1478,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Inventor's Gear 1",
         "description": "Equip all 4 pieces of the Rank 1 Inventor gear.",
         "isMission": 0
@@ -7650,7 +7650,7 @@
     {
         "id": 1479,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Inventor's Gear 2",
         "description": "Equip all 6 pieces of the Rank 2 Inventor gear.",
         "isMission": 0
@@ -7658,7 +7658,7 @@
     {
         "id": 1480,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Inventor's Gear 3",
         "description": "Equip all 6 pieces of the Rank 3 Inventor gear.",
         "isMission": 0
@@ -7666,7 +7666,7 @@
     {
         "id": 1481,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Sorcerer's Gear 1",
         "description": "Equip all 4 pieces of the Rank 1 Sorcerer gear.",
         "isMission": 0
@@ -7674,7 +7674,7 @@
     {
         "id": 1482,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Sorcerer's Gear 2",
         "description": "Equip all 6 pieces of the Rank 2 Sorcerer gear.",
         "isMission": 0
@@ -7682,7 +7682,7 @@
     {
         "id": 1483,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Sorcerer's Gear 3",
         "description": "Equip all 6 pieces of the Rank 3 Sorcerer gear.",
         "isMission": 0
@@ -7690,7 +7690,7 @@
     {
         "id": 1484,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Space Marauder's Gear 1",
         "description": "Equip all 4 pieces of the Rank 1 Space Marauder gear.",
         "isMission": 0
@@ -7698,7 +7698,7 @@
     {
         "id": 1485,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Space Marauder's Gear 2",
         "description": "Equip all 6 pieces of the Rank 2 Space Marauder gear.",
         "isMission": 0
@@ -7706,7 +7706,7 @@
     {
         "id": 1486,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Space Marauder's Gear 3",
         "description": "Equip all 6 pieces of the Rank 3 Space Marauder gear.",
         "isMission": 0
@@ -7714,7 +7714,7 @@
     {
         "id": 1487,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Shinobi's Gear 1",
         "description": "Equip all 4 pieces of the Rank 1 Shinobi gear.",
         "isMission": 0
@@ -7722,7 +7722,7 @@
     {
         "id": 1488,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Shinobi's Gear 2",
         "description": "Equip all 6 pieces of the Rank 2 Shinobi gear.",
         "isMission": 0
@@ -7730,7 +7730,7 @@
     {
         "id": 1489,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Shinobi's Gear 3",
         "description": "Equip all 6 pieces of the Rank 3 Shinobi gear.",
         "isMission": 0
@@ -7738,7 +7738,7 @@
     {
         "id": 1490,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Buccaneer's Gear 1",
         "description": "Equip all 4 pieces of the Rank 1 Buccaneer gear.",
         "isMission": 0
@@ -7746,7 +7746,7 @@
     {
         "id": 1491,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Buccaneer's Gear 2",
         "description": "Equip all 6 pieces of the Rank 2 Buccaneer gear.",
         "isMission": 0
@@ -7754,7 +7754,7 @@
     {
         "id": 1492,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Buccaneer's Gear 3",
         "description": "Equip all 6 pieces of the Rank 3 Buccaneer gear.",
         "isMission": 0
@@ -7762,7 +7762,7 @@
     {
         "id": 1493,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Daredevil's Gear 1",
         "description": "Equip all 4 pieces of the Rank 1 Daredevil gear.",
         "isMission": 0
@@ -7770,7 +7770,7 @@
     {
         "id": 1494,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Daredevil's Gear 2",
         "description": "Equip all 6 pieces of the Rank 2 Daredevil gear.",
         "isMission": 0
@@ -7778,7 +7778,7 @@
     {
         "id": 1495,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Daredevil's Gear 3",
         "description": "Equip all 6 pieces of the Rank 3 Daredevil gear.",
         "isMission": 0
@@ -7786,7 +7786,7 @@
     {
         "id": 1496,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Adventurer's Gear 1",
         "description": "Equip all 4 pieces of the Rank 1 Adventurer gear.",
         "isMission": 0
@@ -7794,7 +7794,7 @@
     {
         "id": 1497,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Adventurer's Gear 2",
         "description": "Equip all 6 pieces of the Rank 2 Adventurer gear.",
         "isMission": 0
@@ -7802,7 +7802,7 @@
     {
         "id": 1498,
         "defined_type": "General",
-        "defined_subtype": null,
+        "defined_subtype": "General",
         "name": "The Adventurer's Gear 3",
         "description": "Equip all 6 pieces of the Rank 3 Adventurer gear.",
         "isMission": 0
@@ -9386,7 +9386,7 @@
     {
         "id": 1739,
         "defined_type": "Build",
-        "defined_subtype": null,
+        "defined_subtype": "Build",
         "name": "The Visitor",
         "description": "Visit 500 more Properties that you have not previously visited, on any world.",
         "isMission": 0
@@ -10090,7 +10090,7 @@
     {
         "id": 1841,
         "defined_type": "Build",
-        "defined_subtype": null,
+        "defined_subtype": "Build",
         "name": "A Worthy Builder 4",
         "description": "Complete 5000 more Quick Builds.",
         "isMission": 0
@@ -10098,7 +10098,7 @@
     {
         "id": 1842,
         "defined_type": "Build",
-        "defined_subtype": null,
+        "defined_subtype": "Build",
         "name": "A Collector's Dream 1",
         "description": "Complete 10 collection Quick Builds.",
         "isMission": 0
@@ -10106,7 +10106,7 @@
     {
         "id": 1843,
         "defined_type": "Build",
-        "defined_subtype": null,
+        "defined_subtype": "Build",
         "name": "A Collector's Dream 2",
         "description": "Complete 100 collection Quick Builds.",
         "isMission": 0
@@ -10114,7 +10114,7 @@
     {
         "id": 1844,
         "defined_type": "Build",
-        "defined_subtype": null,
+        "defined_subtype": "Build",
         "name": "A Collector's Dream 3",
         "description": "Complete 500 collection Quick Builds.",
         "isMission": 0

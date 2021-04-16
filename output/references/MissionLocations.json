@@ -2580,7 +2580,7 @@
             ]
         },
         "Build": {
-            "null": [
+            "Build": [
                 {
                     "id": 81,
                     "name": "A Worthy Builder 1",
@@ -2957,7 +2957,7 @@
             ]
         },
         "General": {
-            "null": [
+            "General": [
                 {
                     "id": 209,
                     "name": "A Feat of Imagination",
@@ -3688,7 +3688,7 @@
             ]
         },
         "LUPs": {
-            "null": [
+            "LUPs": [
                 {
                     "id": 892,
                     "name": "Starbase 3001 Flag Hunter",
@@ -7140,7 +7140,7 @@
             ]
         },
         "LUPs": {
-            "null": [
+            "LUPs": [
                 {
                     "id": 905,
                     "name": "Deliver the Welder",

@@ -4,11 +4,12 @@
         "spawnsObject": false,
         "spawnsQuickbuild": false,
         "meleeAttack": true,
-        "projectileAttack": true,
+        "projectileAttack": false,
         "damageComboArray": [
-            1,
-            1,
-            1
+            2,
+            2,
+            3,
+            4
         ],
         "chargeUpArmorRestore": [],
         "chargeUpImaginationRestore": [],
@@ -19,6 +20,7 @@
         "doubleJumpSmash": 1,
         "singleJumpSmash": 1,
         "chargeUpCost": -6,
+        "projectileAttackChargeUp": true,
         "projectileChargeUpLOT": 11262,
         "projectileChargeUpDamage": 1
     },

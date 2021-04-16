@@ -93,24 +93,30 @@ module.exports = {
             // console.log(arr)
 
             //console.log(arr)
-            description = `${description}__(Specific)__ `
-            for(let i=0; i<arr.length;i++){
-                description = `${description}**T${arr[i]}:** ${(dropFile.drop.LootTableIndexes[p].rarityTableInfo[arr[i]].weightedChanceForSpecificItemIncludingDrop * 100).toFixed(4)}% `
+            if (arr.length !== 0) {
+                description = `${description}__(Specific)__ `
+                for (let i = 0; i < arr.length; i++) {
+                    description = `${description}**T${arr[i]}:** ${(dropFile.drop.LootTableIndexes[p].rarityTableInfo[arr[i]].weightedChanceForSpecificItemIncludingDrop * 100).toFixed(4)}% `
 
-                //description = `${description} ${config.emojis[`rarity${i}`]} ${(dropFile.drop.LootTableIndexes[p].rarityTableInfo[i].weightedChanceForSpecificItemIncludingDrop * 100).toFixed(4)}% `
+                    //description = `${description} ${config.emojis[`rarity${i}`]} ${(dropFile.drop.LootTableIndexes[p].rarityTableInfo[i].weightedChanceForSpecificItemIncludingDrop * 100).toFixed(4)}% `
+                }
+                description = `${description}\n__(Any)__ `
+
+                for (let i = 0; i < arr.length; i++) {
+                    description = `${description}**T${arr[i]}:** ${(dropFile.drop.LootTableIndexes[p].rarityTableInfo[arr[i]].weightedChanceForAnyItemIncludingDrop * 100).toFixed(4)}% `
+
+                    //description = `${description} ${config.emojis[`rarity${i}`]} ${(dropFile.drop.LootTableIndexes[p].rarityTableInfo[i].weightedChanceForSpecificItemIncludingDrop * 100).toFixed(4)}% `
+                }
+                description = `${description}\n\n`
+                // try {
+                //     // description = `${description}**${dropFile.drop.LootTableIndexes[p].names.Name} [${dropFile.drop.LootTableIndexes[p].LootTableIndex}]**`
+                //     description = `${description}**T1:**${(dropFile.drop.LootTableIndexes[p].rarityTableInfo['1'].weightedChanceForSpecificItemIncludingDrop * 100).toFixed()}% **T2:**${(dropFile.drop.LootTableIndexes[p].rarityTableInfo['2'].weightedChanceForSpecificItemIncludingDrop * 100).toFixed()}% **T3:**${(dropFile.drop.LootTableIndexes[p].rarityTableInfo['3'].weightedChanceForSpecificItemIncludingDrop * 100).toFixed()}% **T4:**${(dropFile.drop.LootTableIndexes[p].rarityTableInfo['4'].weightedChanceForSpecificItemIncludingDrop * 100).toFixed()}% \n`
+                // }catch{}}
+            }else{
+                description = `${description}\n`
+
             }
-            description = `${description}\n__(Any)__ `
 
-            for(let i=0; i<arr.length;i++){
-                description = `${description}**T${arr[i]}:** ${(dropFile.drop.LootTableIndexes[p].rarityTableInfo[arr[i]].weightedChanceForAnyItemIncludingDrop * 100).toFixed(4)}% `
-
-                //description = `${description} ${config.emojis[`rarity${i}`]} ${(dropFile.drop.LootTableIndexes[p].rarityTableInfo[i].weightedChanceForSpecificItemIncludingDrop * 100).toFixed(4)}% `
-            }
-            description = `${description}\n\n`
-            // try {
-            //     // description = `${description}**${dropFile.drop.LootTableIndexes[p].names.Name} [${dropFile.drop.LootTableIndexes[p].LootTableIndex}]**`
-            //     description = `${description}**T1:**${(dropFile.drop.LootTableIndexes[p].rarityTableInfo['1'].weightedChanceForSpecificItemIncludingDrop * 100).toFixed()}% **T2:**${(dropFile.drop.LootTableIndexes[p].rarityTableInfo['2'].weightedChanceForSpecificItemIncludingDrop * 100).toFixed()}% **T3:**${(dropFile.drop.LootTableIndexes[p].rarityTableInfo['3'].weightedChanceForSpecificItemIncludingDrop * 100).toFixed()}% **T4:**${(dropFile.drop.LootTableIndexes[p].rarityTableInfo['4'].weightedChanceForSpecificItemIncludingDrop * 100).toFixed()}% \n`
-            // }catch{}
         }
         let embed = msgEmbed.execute(`${dropFile.itemInfo.displayName} [${dropFile.objectID}]`, description,`https://lu-explorer.web.app/objects/${dropFile.objectID}`, dropFile.iconURL)
         //console.log(description)
