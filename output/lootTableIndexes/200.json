@@ -4,8 +4,6 @@
     ],
     "items": {
         "8130": {
-            "itemComponent": 3558,
-            "rarity": 1,
             "name": "CarModule_Wheels_gr",
             "displayName": "Steel Rim Wheels"
         }

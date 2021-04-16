@@ -2,7 +2,12 @@
     "itemsList": [
         11911
     ],
-    "items": {},
+    "items": {
+        "11911": {
+            "name": "Imagination Powerup 5 points",
+            "displayName": ""
+        }
+    },
     "itemComponentValues": [],
     "rarityCount": {
         "1": 0,

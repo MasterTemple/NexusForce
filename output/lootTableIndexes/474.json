@@ -4,8 +4,6 @@
     ],
     "items": {
         "12032": {
-            "itemComponent": 5974,
-            "rarity": 2,
             "name": "CarFV2_FrontPanel_p",
             "displayName": "Mach Lava Engine Panel"
         }

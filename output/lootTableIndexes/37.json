@@ -10,44 +10,30 @@
     ],
     "items": {
         "7742": {
-            "itemComponent": 3256,
-            "rarity": 2,
             "name": "Firefighter Shirt",
             "displayName": "Firefighter Coat"
         },
         "7743": {
-            "itemComponent": 3257,
-            "rarity": 2,
             "name": "Police Shirt",
             "displayName": "Police Jacket"
         },
         "7744": {
-            "itemComponent": 3258,
-            "rarity": 2,
             "name": "Witch Shirt",
             "displayName": "Witch Robe"
         },
         "7745": {
-            "itemComponent": 3259,
-            "rarity": 2,
             "name": "Baker Shirt",
             "displayName": "Chef Jacket"
         },
         "7746": {
-            "itemComponent": 3260,
-            "rarity": 2,
             "name": "Diver Shirt",
             "displayName": "Diver Wetsuit"
         },
         "7748": {
-            "itemComponent": 3262,
-            "rarity": 2,
             "name": "Flower Shirt",
             "displayName": "Flower Shirt"
         },
         "7749": {
-            "itemComponent": 3263,
-            "rarity": 2,
             "name": "Wizard shirt",
             "displayName": "Wizard Tunic"
         }

@@ -2,7 +2,12 @@
     "itemsList": [
         177
     ],
-    "items": {},
+    "items": {
+        "177": {
+            "name": "Life Powerup 1 point",
+            "displayName": "Life Powerup 1 point"
+        }
+    },
     "itemComponentValues": [],
     "rarityCount": {
         "1": 0,

@@ -16,80 +16,54 @@
     ],
     "items": {
         "2239": {
-            "itemComponent": 1693,
-            "rarity": 5,
             "name": "Test Chargeup Spear",
-            "displayName": null
+            "displayName": "Test Chargeup Spear"
         },
         "2241": {
-            "itemComponent": 896,
-            "rarity": 5,
             "name": "Test Elite Hammer",
-            "displayName": null
+            "displayName": "Test Elite Hammer"
         },
         "2246": {
-            "itemComponent": 898,
-            "rarity": 5,
             "name": "Test Conical Hat",
-            "displayName": null
+            "displayName": "Test Conical Hat"
         },
         "2509": {
-            "itemComponent": 909,
-            "rarity": 1,
             "name": "Bright Orange Pants",
             "displayName": "Bright Orange Pants"
         },
         "2623": {
-            "itemComponent": 960,
-            "rarity": 2,
             "name": "Wizard Hat",
             "displayName": "Wizard Hat"
         },
         "2624": {
-            "itemComponent": 961,
-            "rarity": 2,
             "name": "Kettle Helmet",
             "displayName": "Kettle Helmet"
         },
         "2627": {
-            "itemComponent": 962,
-            "rarity": 2,
             "name": "Black Knit Cap",
             "displayName": "Black Knit Cap"
         },
         "2630": {
-            "itemComponent": 963,
-            "rarity": 2,
             "name": "Superior Cutlass",
             "displayName": "Superior Cutlass"
         },
         "2631": {
-            "itemComponent": 1704,
-            "rarity": 4,
             "name": "Shiver Me Timbers Axe",
             "displayName": "Shiver Me Timbers Axe"
         },
         "2632": {
-            "itemComponent": 965,
-            "rarity": 3,
             "name": "Brown Pirate Hat",
             "displayName": "Brown Pirate Hat"
         },
         "2643": {
-            "itemComponent": 971,
-            "rarity": 3,
             "name": "Exceptional Hatchet",
             "displayName": "Exceptional Hatchet"
         },
         "2644": {
-            "itemComponent": 972,
-            "rarity": 1,
             "name": "Worthy Corseque",
             "displayName": "Worthy Corseque"
         },
         "2647": {
-            "itemComponent": 975,
-            "rarity": 2,
             "name": "White Conical Hat",
             "displayName": "White Conical Hat"
         }

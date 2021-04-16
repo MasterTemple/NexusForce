@@ -9,38 +9,26 @@
     ],
     "items": {
         "2999": {
-            "itemComponent": 1011,
-            "rarity": 1,
             "name": "Potion of Imagination 3",
             "displayName": "Super Notion Potion"
         },
         "12102": {
-            "itemComponent": 5994,
-            "rarity": 3,
             "name": "Sunflower Seed",
             "displayName": "Sunflower Seed"
         },
         "12103": {
-            "itemComponent": 5995,
-            "rarity": 3,
             "name": "Maneater Seeds",
             "displayName": "Maneater Seeds"
         },
         "12108": {
-            "itemComponent": 6000,
-            "rarity": 3,
             "name": "Balloon Animals",
             "displayName": "Balloon Animals"
         },
         "12110": {
-            "itemComponent": 6002,
-            "rarity": 2,
             "name": "Spring Shoes",
             "displayName": "Spring Shoes"
         },
         "14169": {
-            "itemComponent": 7024,
-            "rarity": 2,
             "name": "Treasure Finder",
             "displayName": "Treasure Finder"
         }

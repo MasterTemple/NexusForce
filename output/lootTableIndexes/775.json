@@ -9,38 +9,26 @@
     ],
     "items": {
         "4716": {
-            "itemComponent": 2487,
-            "rarity": 1,
             "name": "MOD Rocket Steampunk Nose Cone",
             "displayName": "Steampunk Rocket Nose Cone"
         },
         "4717": {
-            "itemComponent": 2488,
-            "rarity": 1,
             "name": "MOD Rocket Steampunk Cockpit",
             "displayName": "Steampunk Rocket Cockpit"
         },
         "4718": {
-            "itemComponent": 2489,
-            "rarity": 1,
             "name": "MOD Rocket Steampunk Engine",
             "displayName": "Steampunk Rocket Engine"
         },
         "4719": {
-            "itemComponent": 2490,
-            "rarity": 1,
             "name": "MOD Rocket Pod Nose Cone",
             "displayName": "Pod Rocket Nose Cone"
         },
         "4720": {
-            "itemComponent": 2491,
-            "rarity": 1,
             "name": "MOD Rocket Pod Cockpit",
             "displayName": "Pod Rocket Cockpit"
         },
         "4721": {
-            "itemComponent": 2492,
-            "rarity": 1,
             "name": "MOD Rocket Pod Engine",
             "displayName": "Pod Rocket Engine"
         }

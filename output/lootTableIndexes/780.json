@@ -4,10 +4,8 @@
     ],
     "items": {
         "11925": {
-            "itemComponent": 5949,
-            "rarity": 1,
             "name": "Rank 1 Inventor Book",
-            "displayName": null
+            "displayName": "Rank 1 Inventor Book"
         }
     },
     "itemComponentValues": [

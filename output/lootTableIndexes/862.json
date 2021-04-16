@@ -7,26 +7,18 @@
     ],
     "items": {
         "15949": {
-            "itemComponent": 7355,
-            "rarity": 2,
             "name": "Model Reward Micro scale castle 1",
             "displayName": "Micro Castle Model 1"
         },
         "15950": {
-            "itemComponent": 7356,
-            "rarity": 2,
             "name": "Model Reward Micro scale castle 2",
             "displayName": "Micro Castle Model 2"
         },
         "15951": {
-            "itemComponent": 7357,
-            "rarity": 2,
             "name": "Model Reward Micro scale castle 3",
             "displayName": "Micro Castle Model 3"
         },
         "15952": {
-            "itemComponent": 7358,
-            "rarity": 2,
             "name": "Model Reward Micro scale castle 4",
             "displayName": "Micro Castle Model 4"
         }

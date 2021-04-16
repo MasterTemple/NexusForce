@@ -7,26 +7,18 @@
     ],
     "items": {
         "4713": {
-            "itemComponent": 2484,
-            "rarity": 1,
             "name": "MOD Rocket Classic Nose Cone",
             "displayName": "Classic Rocket Nose Cone"
         },
         "14444": {
-            "itemComponent": 7089,
-            "rarity": 1,
             "name": "MOD Rocket Classic Blue Nose Cone",
             "displayName": "Classic Blue Rocket Nose Cone"
         },
         "14451": {
-            "itemComponent": 7092,
-            "rarity": 1,
             "name": "MOD Rocket Classic Pink Nose Cone",
             "displayName": "Classic Pink Rocket Nose Cone"
         },
         "14454": {
-            "itemComponent": 7095,
-            "rarity": 1,
             "name": "MOD Rocket Classic Yellow Nose Cone",
             "displayName": "Classic Yellow Rocket Nose Cone"
         }

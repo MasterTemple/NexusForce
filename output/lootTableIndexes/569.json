@@ -6,20 +6,14 @@
     ],
     "items": {
         "12840": {
-            "itemComponent": 6363,
-            "rarity": 2,
             "name": "MOD Rocket Skeleton Engine 1",
             "displayName": "Morbid Orbit Rocket Engine"
         },
         "12850": {
-            "itemComponent": 6395,
-            "rarity": 2,
             "name": "MOD Rocket Skeleton Engine 2",
             "displayName": "Starskull Rocket Engine"
         },
         "12853": {
-            "itemComponent": 6417,
-            "rarity": 2,
             "name": "MOD Rocket Skeleton Engine 3",
             "displayName": "Terror Comet Rocket Engine"
         }

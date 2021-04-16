@@ -2,7 +2,12 @@
     "itemsList": [
         11913
     ],
-    "items": {},
+    "items": {
+        "11913": {
+            "name": "Armor Powerup 3 points",
+            "displayName": ""
+        }
+    },
     "itemComponentValues": [],
     "rarityCount": {
         "1": 0,

@@ -2,7 +2,12 @@
     "itemsList": [
         11916
     ],
-    "items": {},
+    "items": {
+        "11916": {
+            "name": "Life Powerup 3 points",
+            "displayName": ""
+        }
+    },
     "itemComponentValues": [],
     "rarityCount": {
         "1": 0,

@@ -5,14 +5,10 @@
     ],
     "items": {
         "4050": {
-            "itemComponent": 1113,
-            "rarity": 1,
             "name": "Bright Red Shirt 2",
             "displayName": "Short Sleeve Shirt"
         },
         "14459": {
-            "itemComponent": 7098,
-            "rarity": 1,
             "name": "Nic's Test Item for Post Mission Selling",
             "displayName": "Nic's Test Item for Post Mission Selling"
         }

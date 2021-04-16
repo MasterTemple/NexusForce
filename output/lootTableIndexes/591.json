@@ -7,26 +7,18 @@
     ],
     "items": {
         "12495": {
-            "itemComponent": 6128,
-            "rarity": 4,
             "name": "Model Reward Skeleton Ziggurat",
             "displayName": "Skeleton Ziggurat Model"
         },
         "12496": {
-            "itemComponent": 6129,
-            "rarity": 4,
             "name": "Model Reward Skeleton Wall Watchtower",
             "displayName": "Skeleton Watchtower Wall Model"
         },
         "12497": {
-            "itemComponent": 6130,
-            "rarity": 3,
             "name": "Model Reward Skeleton Wall Corner",
             "displayName": "Skeleton Corner Wall Model"
         },
         "12498": {
-            "itemComponent": 6131,
-            "rarity": 3,
             "name": "Model Reward Skeleton Wall",
             "displayName": "Skeleton Wall Model"
         }

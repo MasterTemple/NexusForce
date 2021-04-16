@@ -5,6 +5,7 @@
         "spawnsQuickbuild": false,
         "meleeAttack": true,
         "projectileAttack": false,
+        "projectileAttackChargeUp": false,
         "damageComboArray": [
             9
         ],

@@ -17,86 +17,58 @@
     ],
     "items": {
         "12495": {
-            "itemComponent": 6128,
-            "rarity": 4,
             "name": "Model Reward Skeleton Ziggurat",
             "displayName": "Skeleton Ziggurat Model"
         },
         "12496": {
-            "itemComponent": 6129,
-            "rarity": 4,
             "name": "Model Reward Skeleton Wall Watchtower",
             "displayName": "Skeleton Watchtower Wall Model"
         },
         "12497": {
-            "itemComponent": 6130,
-            "rarity": 3,
             "name": "Model Reward Skeleton Wall Corner",
             "displayName": "Skeleton Corner Wall Model"
         },
         "12498": {
-            "itemComponent": 6131,
-            "rarity": 3,
             "name": "Model Reward Skeleton Wall",
             "displayName": "Skeleton Wall Model"
         },
         "12499": {
-            "itemComponent": 6132,
-            "rarity": 4,
             "name": "Model Reward Skeleton T Wall",
             "displayName": "Skeleton T-Wall Model"
         },
         "12500": {
-            "itemComponent": 6133,
-            "rarity": 4,
             "name": "Model Reward Skeleton Skull Tower",
             "displayName": "Skeleton Skull Tower Model"
         },
         "12501": {
-            "itemComponent": 6134,
-            "rarity": 3,
             "name": "Model Reward Skeleton Short Wall",
             "displayName": "Skeleton Short Wall Model"
         },
         "12502": {
-            "itemComponent": 6135,
-            "rarity": 4,
             "name": "Model Reward Skeleton Ribcage Bridge",
             "displayName": "Skeleton Ribcage Bridge Model"
         },
         "12503": {
-            "itemComponent": 6136,
-            "rarity": 4,
             "name": "Model Reward Skeleton Repair Facility",
             "displayName": "Skeleton Repair Facility Model"
         },
         "12504": {
-            "itemComponent": 6137,
-            "rarity": 2,
             "name": "Model Reward Skeleton Wall Pillars",
             "displayName": "Skeleton Wall Pillars Model"
         },
         "12505": {
-            "itemComponent": 6138,
-            "rarity": 4,
             "name": "Model Reward Skeleton Mobile Drill",
             "displayName": "Skeleton Mobile Drilling Rig Model"
         },
         "12506": {
-            "itemComponent": 6139,
-            "rarity": 4,
             "name": "Model Reward Skeleton Hover Drone",
             "displayName": "Skeleton Hover Drone Model"
         },
         "12507": {
-            "itemComponent": 6140,
-            "rarity": 4,
             "name": "Model Reward Skeleton Gate",
             "displayName": "Skeleton Gate Model"
         },
         "12508": {
-            "itemComponent": 6141,
-            "rarity": 3,
             "name": "Model Reward Skeleton Elevator",
             "displayName": "Skeleton Elevator Model"
         }

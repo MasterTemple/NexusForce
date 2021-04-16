@@ -4,10 +4,8 @@
     ],
     "items": {
         "118": {
-            "itemComponent": 5511,
-            "rarity": 1,
             "name": "Rank 1 Sorcerer Book",
-            "displayName": null
+            "displayName": "Rank 1 Sorcerer Book"
         }
     },
     "itemComponentValues": [

@@ -6,20 +6,14 @@
     ],
     "items": {
         "4715": {
-            "itemComponent": 2486,
-            "rarity": 1,
             "name": "MOD Rocket Classic Engine",
             "displayName": "Classic Rocket Engine"
         },
         "4718": {
-            "itemComponent": 2489,
-            "rarity": 1,
             "name": "MOD Rocket Steampunk Engine",
             "displayName": "Steampunk Rocket Engine"
         },
         "4721": {
-            "itemComponent": 2492,
-            "rarity": 1,
             "name": "MOD Rocket Pod Engine",
             "displayName": "Pod Rocket Engine"
         }

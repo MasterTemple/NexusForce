@@ -8,32 +8,22 @@
     ],
     "items": {
         "13062": {
-            "itemComponent": 6487,
-            "rarity": 2,
             "name": "CarAM_FrontBumper",
             "displayName": "Fright Speed Front Bumper"
         },
         "13063": {
-            "itemComponent": 6488,
-            "rarity": 2,
             "name": "CarAM_FrontPanel",
             "displayName": "Fright Speed Engine Panel"
         },
         "13064": {
-            "itemComponent": 6489,
-            "rarity": 2,
             "name": "CarAM_RearBumper",
             "displayName": "Fright Speed Rear Bumper"
         },
         "13065": {
-            "itemComponent": 6490,
-            "rarity": 2,
             "name": "CarAM_RearPanel",
             "displayName": "Fright Speed Rear Panel"
         },
         "13066": {
-            "itemComponent": 6491,
-            "rarity": 2,
             "name": "CarAM_SidePanels",
             "displayName": "Fright Speed Side Panels"
         }

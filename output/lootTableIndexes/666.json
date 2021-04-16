@@ -6,20 +6,14 @@
     ],
     "items": {
         "13002": {
-            "itemComponent": 6841,
-            "rarity": 1,
             "name": "Model Reward Assembly Device Core",
             "displayName": "Assembly Device Core Model"
         },
         "13003": {
-            "itemComponent": 6840,
-            "rarity": 1,
             "name": "Model Reward Assembly Device Cage",
             "displayName": "Assembly Device Cage Model"
         },
         "13004": {
-            "itemComponent": 6839,
-            "rarity": 1,
             "name": "Model Reward Assembly Device Base",
             "displayName": "Assembly Device Base Model"
         }

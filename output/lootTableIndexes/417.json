@@ -2,7 +2,12 @@
     "itemsList": [
         11917
     ],
-    "items": {},
+    "items": {
+        "11917": {
+            "name": "Life Powerup 5 points",
+            "displayName": ""
+        }
+    },
     "itemComponentValues": [],
     "rarityCount": {
         "1": 0,

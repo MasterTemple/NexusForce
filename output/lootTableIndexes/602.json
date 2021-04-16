@@ -14,68 +14,46 @@
     ],
     "items": {
         "13151": {
-            "itemComponent": 6521,
-            "rarity": 2,
             "name": "Model Reward Skeleton Chair",
             "displayName": "Skeleton Chair Model"
         },
         "13152": {
-            "itemComponent": 6522,
-            "rarity": 3,
             "name": "Model Reward Skeleton Fountain",
             "displayName": "Skeleton Fountain Model"
         },
         "13153": {
-            "itemComponent": 6523,
-            "rarity": 2,
             "name": "Model Reward Skeleton Lamp",
             "displayName": "Skeleton Lamp Model"
         },
         "13154": {
-            "itemComponent": 6524,
-            "rarity": 2,
             "name": "Model Reward Skeleton Lamp Stand",
             "displayName": "Skeleton Lamp Stand Model"
         },
         "13155": {
-            "itemComponent": 6525,
-            "rarity": 2,
             "name": "Model Reward Skeleton Pet",
             "displayName": "Skeleton Pet Model"
         },
         "13156": {
-            "itemComponent": 6526,
-            "rarity": 2,
             "name": "Model Reward Skeleton Sceptor Stand",
             "displayName": "Skeleton Scepter Stand Model"
         },
         "13157": {
-            "itemComponent": 6527,
-            "rarity": 2,
             "name": "Model Reward Skeleton Small Table",
             "displayName": "Skeleton Small Table Model"
         },
         "13158": {
-            "itemComponent": 6528,
-            "rarity": 3,
             "name": "Model Reward Skeleton Statue",
             "displayName": "Skeleton Statue Model"
         },
         "13159": {
-            "itemComponent": 6529,
-            "rarity": 3,
             "name": "Model Reward Skeleton Throne",
             "displayName": "Skeleton Throne Model"
         },
         "13160": {
-            "itemComponent": 6530,
-            "rarity": 2,
             "name": "Model Reward Skeleton WeaponRack 1",
             "displayName": "Skeleton Weapon Rack Model 1"
         },
         "13161": {
-            "itemComponent": 6531,
-            "rarity": 3,
             "name": "Model Reward Skeleton WeaponRack 2",
             "displayName": "Skeleton Weapon Rack Model 2"
         }

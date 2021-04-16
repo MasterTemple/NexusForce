@@ -37,206 +37,138 @@
     ],
     "items": {
         "7366": {
-            "itemComponent": 3043,
-            "rarity": 4,
             "name": "Buccaneer Head 3",
             "displayName": "Buccaneer Hat 3"
         },
         "7378": {
-            "itemComponent": 3055,
-            "rarity": 4,
             "name": "Buccaneer Chest 3",
             "displayName": "Buccaneer Shirt 3"
         },
         "7390": {
-            "itemComponent": 3067,
-            "rarity": 4,
             "name": "Buccaneer Legs 3",
             "displayName": "Buccaneer Pantaloons 3"
         },
         "7402": {
-            "itemComponent": 3079,
-            "rarity": 4,
             "name": "Buccaneer Weapon 3",
             "displayName": "Buccaneer Pistol & Cutlass 3"
         },
         "7416": {
-            "itemComponent": 3088,
-            "rarity": 4,
             "name": "Buccaneer Neck/Back 3",
             "displayName": "Buccaneer Bandolier 3"
         },
         "7465": {
-            "itemComponent": 3120,
-            "rarity": 4,
             "name": "Daredevil Head 3",
             "displayName": "Daredevil Helmet 3"
         },
         "7489": {
-            "itemComponent": 3144,
-            "rarity": 4,
             "name": "Daredevil Chest 3",
             "displayName": "Daredevil Jacket 3"
         },
         "7513": {
-            "itemComponent": 3168,
-            "rarity": 4,
             "name": "Daredevil Legs 3",
             "displayName": "Daredevil Pants 3"
         },
         "7537": {
-            "itemComponent": 3192,
-            "rarity": 4,
             "name": "Daredevil Weapon 3",
             "displayName": "Daredevil Flareguns 3"
         },
         "7543": {
-            "itemComponent": 3198,
-            "rarity": 4,
             "name": "Daredevil Neck/Back 3",
             "displayName": "Daredevil Shoulderpads 3"
         },
         "12638": {
-            "itemComponent": 6200,
-            "rarity": 4,
             "name": "Buccaneer Valiant Weapon",
             "displayName": "The Broadsider"
         },
         "12647": {
-            "itemComponent": 6204,
-            "rarity": 4,
             "name": "Daredevil Valiant Weapon",
             "displayName": "The Rutcarver"
         },
         "12954": {
-            "itemComponent": 6440,
-            "rarity": 4,
             "name": "Buccaneer Chest 3 Color Variant",
             "displayName": "Buccaneer Shirt 3"
         },
         "12955": {
-            "itemComponent": 6441,
-            "rarity": 4,
             "name": "Buccaneer Legs 3 Color Variant",
             "displayName": "Buccaneer Pantaloons 3"
         },
         "12956": {
-            "itemComponent": 6442,
-            "rarity": 4,
             "name": "Daredevil Chest 3 Color Variant",
             "displayName": "Daredevil Jacket 3"
         },
         "12957": {
-            "itemComponent": 6443,
-            "rarity": 4,
             "name": "Daredevil Legs 3 Color Variant",
             "displayName": "Daredevil Pants 3"
         },
         "12981": {
-            "itemComponent": 6461,
-            "rarity": 4,
             "name": "Buccaneer Head 3 Color Variant",
             "displayName": "Buccaneer Hat 3"
         },
         "12982": {
-            "itemComponent": 6462,
-            "rarity": 4,
             "name": "Buccaneer Weapon 3 Color Variant",
             "displayName": "Buccaneer Pistol & Cutlass 3"
         },
         "12990": {
-            "itemComponent": 6470,
-            "rarity": 4,
             "name": "Buccaneer Neck/Back 3 Color Variant",
             "displayName": "Buccaneer Bandolier 3"
         },
         "12993": {
-            "itemComponent": 6473,
-            "rarity": 4,
             "name": "Daredevil Head 3 Color Variant",
             "displayName": "Daredevil Helmet 3"
         },
         "12994": {
-            "itemComponent": 6474,
-            "rarity": 4,
             "name": "Daredevil Weapon 3 Color Variant",
             "displayName": "Daredevil Flareguns 3"
         },
         "12995": {
-            "itemComponent": 6475,
-            "rarity": 4,
             "name": "Daredevil Neck/Back 3 Color Variant",
             "displayName": "Daredevil Shoulderpads 3"
         },
         "13135": {
-            "itemComponent": 6509,
-            "rarity": 2,
             "name": "Large Green Imaginite Bag - Venture",
             "displayName": "Large Bag of Green Imaginite"
         },
         "13140": {
-            "itemComponent": 6514,
-            "rarity": 3,
             "name": "Medium Red Imaginite Bag - Venture",
             "displayName": "Medium Bag of Red Imaginite"
         },
         "13145": {
-            "itemComponent": 6518,
-            "rarity": 4,
             "name": "Small Blue Imaginite Bag - Venture",
             "displayName": "Small Bag of Blue Imaginite"
         },
         "13264": {
-            "itemComponent": 6559,
-            "rarity": 4,
             "name": "MOD Venture Rockets Nose Cone",
             "displayName": "Venture League Astroscout Rocket Nose Cone"
         },
         "13265": {
-            "itemComponent": 6560,
-            "rarity": 4,
             "name": "MOD Venture Rockets Cockpit",
             "displayName": "Venture League Astroscout Rocket Cockpit"
         },
         "13266": {
-            "itemComponent": 6561,
-            "rarity": 4,
             "name": "MOD Venture Rockets Engine",
             "displayName": "Venture League Astroscout Rocket Engine"
         },
         "13517": {
-            "itemComponent": 6671,
-            "rarity": 2,
             "name": "CarVE_FrontBumper_",
             "displayName": "Venture League Hinterlander Front Bumper"
         },
         "13518": {
-            "itemComponent": 6672,
-            "rarity": 2,
             "name": "CarVE_EnginePanel_",
             "displayName": "Venture League Hinterlander Engine Panel"
         },
         "13519": {
-            "itemComponent": 6673,
-            "rarity": 3,
             "name": "CarVE_SidePanels_",
             "displayName": "Venture League Hinterlander Side Panels"
         },
         "13520": {
-            "itemComponent": 6674,
-            "rarity": 3,
             "name": "CarVE_RearPanel_",
             "displayName": "Venture League Hinterlander Rear Panel"
         },
         "13521": {
-            "itemComponent": 6675,
-            "rarity": 2,
             "name": "CarVE_RearBumper_",
             "displayName": "Venture League Hinterlander Rear Bumper"
         },
         "13577": {
-            "itemComponent": 6704,
-            "rarity": 3,
             "name": "Venture Faction Consumable 2",
             "displayName": "Venture Vitality Vial 2"
         }

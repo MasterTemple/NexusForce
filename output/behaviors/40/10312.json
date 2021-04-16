@@ -4,11 +4,13 @@
         "spawnsObject": false,
         "spawnsQuickbuild": false,
         "meleeAttack": true,
-        "projectileAttack": true,
+        "projectileAttack": false,
+        "projectileAttackChargeUp": true,
         "damageComboArray": [
             1,
-            1,
-            1
+            2,
+            2,
+            3
         ],
         "chargeUpArmorRestore": [],
         "chargeUpImaginationRestore": [],

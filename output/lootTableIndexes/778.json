@@ -4,10 +4,8 @@
     ],
     "items": {
         "11922": {
-            "itemComponent": 5947,
-            "rarity": 1,
             "name": "Rank 1 Shinobi Book",
-            "displayName": null
+            "displayName": "Rank 1 Shinobi Book"
         }
     },
     "itemComponentValues": [

@@ -4,8 +4,6 @@
     ],
     "items": {
         "365": {
-            "itemComponent": 183,
-            "rarity": 1,
             "name": "m4162",
             "displayName": "Tile 1x8"
         }

@@ -8,32 +8,22 @@
     ],
     "items": {
         "12240": {
-            "itemComponent": 6027,
-            "rarity": 1,
             "name": "Gingerbread Cookie",
             "displayName": "Gingerbread Cookie"
         },
         "12241": {
-            "itemComponent": 6028,
-            "rarity": 1,
             "name": "Hot Cocoa",
             "displayName": "Hot Cocoa"
         },
         "12281": {
-            "itemComponent": 6031,
-            "rarity": 2,
             "name": "Snow Storm",
             "displayName": "Snow Storm"
         },
         "12338": {
-            "itemComponent": 6067,
-            "rarity": 3,
             "name": "Winter Candycane Giftbox 5",
             "displayName": "Small Candy Cane Giftbox"
         },
         "12339": {
-            "itemComponent": 6068,
-            "rarity": 4,
             "name": "Winter Candycane Giftbox 10",
             "displayName": "Large Candy Cane Giftbox"
         }

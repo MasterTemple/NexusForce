@@ -4,8 +4,6 @@
     ],
     "items": {
         "12288": {
-            "itemComponent": 6035,
-            "rarity": 1,
             "name": "Snowball",
             "displayName": "Snowball"
         }

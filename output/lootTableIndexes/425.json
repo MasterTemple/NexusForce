@@ -2,7 +2,12 @@
     "itemsList": [
         11914
     ],
-    "items": {},
+    "items": {
+        "11914": {
+            "name": "Armor Powerup 5 points",
+            "displayName": ""
+        }
+    },
     "itemComponentValues": [],
     "rarityCount": {
         "1": 0,

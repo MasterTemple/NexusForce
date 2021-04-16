@@ -4,8 +4,6 @@
     ],
     "items": {
         "12219": {
-            "itemComponent": 6013,
-            "rarity": 1,
             "name": "Test Item with Precondition for Vendor",
             "displayName": "Test Item with Precondition for Vendor"
         }

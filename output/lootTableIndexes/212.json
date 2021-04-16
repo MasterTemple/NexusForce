@@ -4,8 +4,6 @@
     ],
     "items": {
         "9330": {
-            "itemComponent": 4418,
-            "rarity": 1,
             "name": "Car1_EnginePanel1_b",
             "displayName": "Hyperstarter Engine Panel"
         }

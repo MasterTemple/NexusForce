@@ -16,80 +16,54 @@
     ],
     "items": {
         "8343": {
-            "itemComponent": 3664,
-            "rarity": 3,
             "name": "Superior Crossbow of Blasting",
             "displayName": "Superior Crossbow of Blasting"
         },
         "11195": {
-            "itemComponent": 7761,
-            "rarity": 2,
             "name": "Imagination Spinjitzu Double Bladed Dagger",
             "displayName": "Imagination Spinjitzu Double-Bladed Dagger"
         },
         "12319": {
-            "itemComponent": 6059,
-            "rarity": 1,
             "name": "Doc in a Box",
             "displayName": "Doc in a Box"
         },
         "12767": {
-            "itemComponent": 6315,
-            "rarity": 1,
             "name": "Buff Out Armor Brush",
             "displayName": "Buff Out Armor Brush"
         },
         "12768": {
-            "itemComponent": 6316,
-            "rarity": 2,
             "name": "Bassinet Helm",
             "displayName": "Bassinet Helm"
         },
         "12770": {
-            "itemComponent": 6318,
-            "rarity": 1,
             "name": "Cutoff Jeans",
             "displayName": "Cutoff Jeans"
         },
         "12771": {
-            "itemComponent": 6319,
-            "rarity": 2,
             "name": "Trousers",
             "displayName": "Trousers"
         },
         "12773": {
-            "itemComponent": 6321,
-            "rarity": 2,
             "name": "Wooden Shield",
             "displayName": "Wooden Shield"
         },
         "12775": {
-            "itemComponent": 6323,
-            "rarity": 2,
             "name": "Super Hatchet",
             "displayName": "Super Hatchet"
         },
         "12776": {
-            "itemComponent": 6324,
-            "rarity": 2,
             "name": "Super Scimitar",
             "displayName": "Super Scimitar"
         },
         "12918": {
-            "itemComponent": 6418,
-            "rarity": 3,
             "name": "NJ SJ Imagination Hood",
             "displayName": "Imagination Spinjitzu Hood"
         },
         "12919": {
-            "itemComponent": 6419,
-            "rarity": 3,
             "name": "NJ SJ Imagination Shirt",
             "displayName": "Imagination Spinjitzu Shirt"
         },
         "12920": {
-            "itemComponent": 6420,
-            "rarity": 3,
             "name": "NJ SJ Imagination Pants",
             "displayName": "Imagination Spinjitzu Pants"
         }

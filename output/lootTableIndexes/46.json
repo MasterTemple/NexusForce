@@ -17,86 +17,58 @@
     ],
     "items": {
         "1966": {
-            "itemComponent": 865,
-            "rarity": 1,
             "name": "Health Banana 1",
             "displayName": "Healing Banana"
         },
         "2198": {
-            "itemComponent": 1701,
-            "rarity": 1,
             "name": "Potion of Imagination 1",
             "displayName": "Notion Potion"
         },
         "2993": {
-            "itemComponent": 1005,
-            "rarity": 1,
             "name": "Armor Polish 1",
             "displayName": "Armor Polish"
         },
         "2994": {
-            "itemComponent": 1006,
-            "rarity": 1,
             "name": "Health Cherry 2",
             "displayName": "Healing Cherry"
         },
         "2996": {
-            "itemComponent": 1008,
-            "rarity": 1,
             "name": "Armor Polish 2",
             "displayName": "Armor Shine"
         },
         "2998": {
-            "itemComponent": 1010,
-            "rarity": 1,
             "name": "Potion of Imagination 2",
             "displayName": "Strong Notion Potion"
         },
         "3039": {
-            "itemComponent": 1034,
-            "rarity": 1,
             "name": "Green Imaginite",
             "displayName": "Green Imaginite"
         },
         "3040": {
-            "itemComponent": 1035,
-            "rarity": 2,
             "name": "Red Imaginite",
             "displayName": "Red Imaginite"
         },
         "8474": {
-            "itemComponent": 3773,
-            "rarity": 1,
             "name": "Great Corseque",
             "displayName": "Great Corseque"
         },
         "8607": {
-            "itemComponent": 3863,
-            "rarity": 2,
             "name": "Ruffled and Striped Shirt",
             "displayName": "Ruffled and Striped Shirt"
         },
         "8621": {
-            "itemComponent": 3876,
-            "rarity": 2,
             "name": "Mail Shirt with Gorget",
             "displayName": "Mail Shirt with Gorget"
         },
         "8636": {
-            "itemComponent": 3888,
-            "rarity": 3,
             "name": "Squire's Helm",
             "displayName": "Squire's Helm"
         },
         "8640": {
-            "itemComponent": 3892,
-            "rarity": 2,
             "name": "Bell Bottoms",
             "displayName": "Bell Bottoms"
         },
         "8674": {
-            "itemComponent": 3913,
-            "rarity": 3,
             "name": "Spanner",
             "displayName": "Wrench"
         }

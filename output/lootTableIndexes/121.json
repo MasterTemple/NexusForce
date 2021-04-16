@@ -7,26 +7,18 @@
     ],
     "items": {
         "1966": {
-            "itemComponent": 865,
-            "rarity": 1,
             "name": "Health Banana 1",
             "displayName": "Healing Banana"
         },
         "2620": {
-            "itemComponent": 957,
-            "rarity": 1,
             "name": "Quicksicle",
             "displayName": "Quicksicle"
         },
         "2999": {
-            "itemComponent": 1011,
-            "rarity": 1,
             "name": "Potion of Imagination 3",
             "displayName": "Super Notion Potion"
         },
         "7084": {
-            "itemComponent": 2976,
-            "rarity": 1,
             "name": "Boom Trap Kit",
             "displayName": "Boom Trap Kit"
         }

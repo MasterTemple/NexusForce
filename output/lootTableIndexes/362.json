@@ -15,74 +15,50 @@
     ],
     "items": {
         "6792": {
-            "itemComponent": 2831,
-            "rarity": 3,
             "name": "Shoulder Parrot Blue",
             "displayName": "Blue Shoulder Parrot"
         },
         "6854": {
-            "itemComponent": 2874,
-            "rarity": 3,
             "name": "Shoulder Parrot Green",
             "displayName": "Green Shoulder Parrot"
         },
         "6855": {
-            "itemComponent": 2875,
-            "rarity": 3,
             "name": "Shoulder Parrot Yellow",
             "displayName": "Yellow Shoulder Parrot"
         },
         "6856": {
-            "itemComponent": 2876,
-            "rarity": 3,
             "name": "Shoulder Parrot Orange",
             "displayName": "Orange Shoulder Parrot"
         },
         "7570": {
-            "itemComponent": 3213,
-            "rarity": 4,
             "name": "Shoulder Parrot Red",
             "displayName": "Red Shoulder Parrot"
         },
         "8530": {
-            "itemComponent": 3819,
-            "rarity": 4,
             "name": "Imagination Tanks",
             "displayName": "Imagination Tanks"
         },
         "8533": {
-            "itemComponent": 3822,
-            "rarity": 4,
             "name": "Quiver",
             "displayName": "Quiver"
         },
         "8534": {
-            "itemComponent": 3823,
-            "rarity": 4,
             "name": "Utility Harness",
             "displayName": "Utility Harness"
         },
         "8535": {
-            "itemComponent": 3824,
-            "rarity": 2,
             "name": "Explorer Air Tank",
             "displayName": "Explorer Air Tank"
         },
         "8539": {
-            "itemComponent": 3828,
-            "rarity": 3,
             "name": "Messenger Bag",
             "displayName": "Messenger Bag"
         },
         "8682": {
-            "itemComponent": 3921,
-            "rarity": 3,
             "name": "Knapsack",
             "displayName": "Knapsack"
         },
         "8683": {
-            "itemComponent": 3922,
-            "rarity": 4,
             "name": "Epaulets of Authority",
             "displayName": "Epaulets of Authority"
         }

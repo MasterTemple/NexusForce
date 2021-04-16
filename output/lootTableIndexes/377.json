@@ -4,10 +4,8 @@
     ],
     "items": {
         "131": {
-            "itemComponent": 5514,
-            "rarity": 1,
             "name": "Rank 1 Summoner Book",
-            "displayName": null
+            "displayName": "Rank 1 Summoner Book"
         }
     },
     "itemComponentValues": [

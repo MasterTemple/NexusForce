@@ -7,26 +7,18 @@
     ],
     "items": {
         "12242": {
-            "itemComponent": 6029,
-            "rarity": 2,
             "name": "Warm Cap",
             "displayName": "Warm Cap"
         },
         "12283": {
-            "itemComponent": 6033,
-            "rarity": 3,
             "name": "Jolly Beard",
             "displayName": "Jolly Beard"
         },
         "12295": {
-            "itemComponent": 6039,
-            "rarity": 2,
             "name": "Snow Flake Shield",
             "displayName": "Snow Flake Shield"
         },
         "12297": {
-            "itemComponent": 6041,
-            "rarity": 3,
             "name": "Winter Sweater",
             "displayName": "Winter Sweater"
         }

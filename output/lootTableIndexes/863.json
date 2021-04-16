@@ -9,38 +9,26 @@
     ],
     "items": {
         "15937": {
-            "itemComponent": 7344,
-            "rarity": 1,
             "name": "Ki Filled Hood",
             "displayName": "Ki Filled Hood"
         },
         "16082": {
-            "itemComponent": 7457,
-            "rarity": 2,
             "name": "Faded Kosode",
             "displayName": "Faded Kosode"
         },
         "16083": {
-            "itemComponent": 7458,
-            "rarity": 2,
             "name": "Dark Kosode",
             "displayName": "Dark Kosode"
         },
         "16084": {
-            "itemComponent": 7459,
-            "rarity": 1,
             "name": "Common Kosode",
             "displayName": "Common Kosode"
         },
         "16118": {
-            "itemComponent": 7487,
-            "rarity": 1,
             "name": "Common Kosode Pants",
             "displayName": "Common Kosode Pants"
         },
         "16119": {
-            "itemComponent": 7488,
-            "rarity": 2,
             "name": "Dark Kosode Pants",
             "displayName": "Dark Kosode Pants"
         }

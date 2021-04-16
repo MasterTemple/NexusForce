@@ -6,20 +6,14 @@
     ],
     "items": {
         "2993": {
-            "itemComponent": 1005,
-            "rarity": 1,
             "name": "Armor Polish 1",
             "displayName": "Armor Polish"
         },
         "2996": {
-            "itemComponent": 1008,
-            "rarity": 1,
             "name": "Armor Polish 2",
             "displayName": "Armor Shine"
         },
         "12767": {
-            "itemComponent": 6315,
-            "rarity": 1,
             "name": "Buff Out Armor Brush",
             "displayName": "Buff Out Armor Brush"
         }

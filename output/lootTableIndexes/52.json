@@ -6,20 +6,14 @@
     ],
     "items": {
         "3038": {
-            "itemComponent": 1033,
-            "rarity": 3,
             "name": "Blue Imaginite",
             "displayName": "Blue Imaginite"
         },
         "3039": {
-            "itemComponent": 1034,
-            "rarity": 1,
             "name": "Green Imaginite",
             "displayName": "Green Imaginite"
         },
         "3040": {
-            "itemComponent": 1035,
-            "rarity": 2,
             "name": "Red Imaginite",
             "displayName": "Red Imaginite"
         }

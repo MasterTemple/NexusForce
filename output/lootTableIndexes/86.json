@@ -7,26 +7,18 @@
     ],
     "items": {
         "4714": {
-            "itemComponent": 2485,
-            "rarity": 1,
             "name": "MOD Rocket Classic Cockpit",
             "displayName": "Classic Rocket Cockpit"
         },
         "14445": {
-            "itemComponent": 7090,
-            "rarity": 1,
             "name": "MOD Rocket Classic Blue Cockpit",
             "displayName": "Classic Blue Rocket Cockpit"
         },
         "14452": {
-            "itemComponent": 7093,
-            "rarity": 1,
             "name": "MOD Rocket Classic Pink Cockpit",
             "displayName": "Classic Pink Rocket Cockpit"
         },
         "14455": {
-            "itemComponent": 7096,
-            "rarity": 1,
             "name": "MOD Rocket Classic Yellow Cockpit",
             "displayName": "Classic Yellow Rocket Cockpit"
         }

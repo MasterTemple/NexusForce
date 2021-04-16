@@ -7,26 +7,18 @@
     ],
     "items": {
         "8318": {
-            "itemComponent": 3654,
-            "rarity": 1,
             "name": "Assembly Token",
             "displayName": "Assembly Token"
         },
         "8319": {
-            "itemComponent": 3655,
-            "rarity": 1,
             "name": "Sentinel Token",
             "displayName": "Sentinel Faction Token"
         },
         "8320": {
-            "itemComponent": 3656,
-            "rarity": 1,
             "name": "Paradox Token",
             "displayName": "Paradox Token"
         },
         "8321": {
-            "itemComponent": 3657,
-            "rarity": 1,
             "name": "Venture League Token",
             "displayName": "Venture League Token"
         }

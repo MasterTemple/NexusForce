@@ -6,20 +6,14 @@
     ],
     "items": {
         "3100": {
-            "itemComponent": 1032,
-            "rarity": 1,
             "name": "Amber Gem",
             "displayName": "Amber Gem"
         },
         "6865": {
-            "itemComponent": 2887,
-            "rarity": 2,
             "name": "Light Blue Gem",
             "displayName": "Light Blue Gem"
         },
         "6866": {
-            "itemComponent": 2888,
-            "rarity": 1,
             "name": "Pink Gem",
             "displayName": "Pink Gem"
         }

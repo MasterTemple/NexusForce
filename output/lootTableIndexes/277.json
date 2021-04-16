@@ -39,218 +39,146 @@
     ],
     "items": {
         "1966": {
-            "itemComponent": 865,
-            "rarity": 1,
             "name": "Health Banana 1",
             "displayName": "Healing Banana"
         },
         "2198": {
-            "itemComponent": 1701,
-            "rarity": 1,
             "name": "Potion of Imagination 1",
             "displayName": "Notion Potion"
         },
         "2620": {
-            "itemComponent": 957,
-            "rarity": 1,
             "name": "Quicksicle",
             "displayName": "Quicksicle"
         },
         "2993": {
-            "itemComponent": 1005,
-            "rarity": 1,
             "name": "Armor Polish 1",
             "displayName": "Armor Polish"
         },
         "2994": {
-            "itemComponent": 1006,
-            "rarity": 1,
             "name": "Health Cherry 2",
             "displayName": "Healing Cherry"
         },
         "2995": {
-            "itemComponent": 1007,
-            "rarity": 1,
             "name": "Health Apple 3",
             "displayName": "Healing Apple"
         },
         "2996": {
-            "itemComponent": 1008,
-            "rarity": 1,
             "name": "Armor Polish 2",
             "displayName": "Armor Shine"
         },
         "2997": {
-            "itemComponent": 1009,
-            "rarity": 1,
             "name": "Armor Polish 3",
             "displayName": "Armor Gleam"
         },
         "2998": {
-            "itemComponent": 1010,
-            "rarity": 1,
             "name": "Potion of Imagination 2",
             "displayName": "Strong Notion Potion"
         },
         "2999": {
-            "itemComponent": 1011,
-            "rarity": 1,
             "name": "Potion of Imagination 3",
             "displayName": "Super Notion Potion"
         },
         "3038": {
-            "itemComponent": 1033,
-            "rarity": 3,
             "name": "Blue Imaginite",
             "displayName": "Blue Imaginite"
         },
         "3039": {
-            "itemComponent": 1034,
-            "rarity": 1,
             "name": "Green Imaginite",
             "displayName": "Green Imaginite"
         },
         "3040": {
-            "itemComponent": 1035,
-            "rarity": 2,
             "name": "Red Imaginite",
             "displayName": "Red Imaginite"
         },
         "3100": {
-            "itemComponent": 1032,
-            "rarity": 1,
             "name": "Amber Gem",
             "displayName": "Amber Gem"
         },
         "5834": {
-            "itemComponent": 2472,
-            "rarity": 1,
             "name": "Brick Booster Pack",
             "displayName": "Brick Booster Pack"
         },
         "5835": {
-            "itemComponent": 2473,
-            "rarity": 2,
             "name": "Super Brick Booster Pack",
             "displayName": "Super Brick Booster Pack"
         },
         "5836": {
-            "itemComponent": 2474,
-            "rarity": 1,
             "name": "Picnic Basket",
             "displayName": "Picnic Basket"
         },
         "5837": {
-            "itemComponent": 2475,
-            "rarity": 2,
             "name": "Super Picnic Basket",
             "displayName": "Super Picnic Basket"
         },
         "6201": {
-            "itemComponent": 2628,
-            "rarity": 1,
             "name": "Thirst Quencher Consumable",
             "displayName": "Thirst Quencher"
         },
         "6862": {
-            "itemComponent": 2884,
-            "rarity": 4,
             "name": "Dark Red Gem",
             "displayName": "Dark Red Gem"
         },
         "6863": {
-            "itemComponent": 2885,
-            "rarity": 4,
             "name": "Yellow Gem",
             "displayName": "Yellow Gem"
         },
         "6864": {
-            "itemComponent": 2886,
-            "rarity": 3,
             "name": "Green Gem",
             "displayName": "Green Gem"
         },
         "6865": {
-            "itemComponent": 2887,
-            "rarity": 2,
             "name": "Light Blue Gem",
             "displayName": "Light Blue Gem"
         },
         "6866": {
-            "itemComponent": 2888,
-            "rarity": 1,
             "name": "Pink Gem",
             "displayName": "Pink Gem"
         },
         "6884": {
-            "itemComponent": 2900,
-            "rarity": 1,
             "name": "Flash Bang",
             "displayName": "Flash Bang"
         },
         "7724": {
-            "itemComponent": 3238,
-            "rarity": 1,
             "name": "Buttery Croissant",
             "displayName": "Buttery Croissant"
         },
         "7725": {
-            "itemComponent": 3239,
-            "rarity": 1,
             "name": "Healing Drumstick",
             "displayName": "Healing Drumstick"
         },
         "7778": {
-            "itemComponent": 3286,
-            "rarity": 1,
             "name": "Firecracker",
             "displayName": "Firecracker"
         },
         "8363": {
-            "itemComponent": 3684,
-            "rarity": 1,
             "name": "Bag of Glitter",
-            "displayName": null
+            "displayName": "Bag of Glitter"
         },
         "8365": {
-            "itemComponent": 3686,
-            "rarity": 1,
             "name": "Potion of Shielding",
             "displayName": "Potion of Shielding"
         },
         "8366": {
-            "itemComponent": 3687,
-            "rarity": 1,
             "name": "Cloud Burst",
             "displayName": "Cloud Burst"
         },
         "8371": {
-            "itemComponent": 3692,
-            "rarity": 1,
             "name": "Shuriken",
-            "displayName": null
+            "displayName": "Shuriken"
         },
         "8375": {
-            "itemComponent": 3696,
-            "rarity": 1,
             "name": "Sushi",
             "displayName": "Sushi"
         },
         "8376": {
-            "itemComponent": 3697,
-            "rarity": 1,
             "name": "Tough Buff Sauce",
             "displayName": "Tough Buff Sauce"
         },
         "14679": {
-            "itemComponent": 7174,
-            "rarity": 3,
             "name": "Med Pack",
             "displayName": "Med Pack"
         },
         "14680": {
-            "itemComponent": 7175,
-            "rarity": 3,
             "name": "Armor Repair Kit",
             "displayName": "Armor Repair Kit"
         }

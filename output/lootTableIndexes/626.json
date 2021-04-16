@@ -9,38 +9,26 @@
     ],
     "items": {
         "7462": {
-            "itemComponent": 3117,
-            "rarity": 4,
             "name": "Adventurer Head 3",
             "displayName": "Adventurer Hat 3"
         },
         "7486": {
-            "itemComponent": 3141,
-            "rarity": 4,
             "name": "Adventurer Chest 3",
             "displayName": "Adventurer Coat 3"
         },
         "7510": {
-            "itemComponent": 3165,
-            "rarity": 4,
             "name": "Adventurer Legs 3",
             "displayName": "Adventurer Pants 3"
         },
         "7534": {
-            "itemComponent": 3189,
-            "rarity": 4,
             "name": "Adventurer Crossbow 3",
             "displayName": "Adventurer Crossbow 3"
         },
         "7558": {
-            "itemComponent": 3212,
-            "rarity": 4,
             "name": "Adventurer Neck/Back 3",
             "displayName": "Adventurer Backpack 3"
         },
         "11459": {
-            "itemComponent": 5547,
-            "rarity": 4,
             "name": "Adventurer Whip 3",
             "displayName": "Adventurer Whip 3"
         }

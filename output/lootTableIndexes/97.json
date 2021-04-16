@@ -2,7 +2,12 @@
     "itemsList": [
         6431
     ],
-    "items": {},
+    "items": {
+        "6431": {
+            "name": "Armor Powerup 1 point",
+            "displayName": "Armor Powerup 1 point"
+        }
+    },
     "itemComponentValues": [],
     "rarityCount": {
         "1": 0,

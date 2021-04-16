@@ -14,68 +14,46 @@
     ],
     "items": {
         "1966": {
-            "itemComponent": 865,
-            "rarity": 1,
             "name": "Health Banana 1",
             "displayName": "Healing Banana"
         },
         "2620": {
-            "itemComponent": 957,
-            "rarity": 1,
             "name": "Quicksicle",
             "displayName": "Quicksicle"
         },
         "2993": {
-            "itemComponent": 1005,
-            "rarity": 1,
             "name": "Armor Polish 1",
             "displayName": "Armor Polish"
         },
         "2994": {
-            "itemComponent": 1006,
-            "rarity": 1,
             "name": "Health Cherry 2",
             "displayName": "Healing Cherry"
         },
         "2995": {
-            "itemComponent": 1007,
-            "rarity": 1,
             "name": "Health Apple 3",
             "displayName": "Healing Apple"
         },
         "2996": {
-            "itemComponent": 1008,
-            "rarity": 1,
             "name": "Armor Polish 2",
             "displayName": "Armor Shine"
         },
         "2997": {
-            "itemComponent": 1009,
-            "rarity": 1,
             "name": "Armor Polish 3",
             "displayName": "Armor Gleam"
         },
         "2998": {
-            "itemComponent": 1010,
-            "rarity": 1,
             "name": "Potion of Imagination 2",
             "displayName": "Strong Notion Potion"
         },
         "3011": {
-            "itemComponent": 1015,
-            "rarity": 1,
             "name": "BBQ Blast Hot Dog",
             "displayName": "BBQ Blast Hot Dog"
         },
         "5832": {
-            "itemComponent": 2470,
-            "rarity": 1,
             "name": "Hiccup Tablets",
             "displayName": "Hiccup Tablets"
         },
         "6201": {
-            "itemComponent": 2628,
-            "rarity": 1,
             "name": "Thirst Quencher Consumable",
             "displayName": "Thirst Quencher"
         }

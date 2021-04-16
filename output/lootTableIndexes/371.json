@@ -4,10 +4,8 @@
     ],
     "items": {
         "21": {
-            "itemComponent": 5508,
-            "rarity": 1,
             "name": "Rank 1 Daredevil Book",
-            "displayName": null
+            "displayName": "Rank 1 Daredevil Book"
         }
     },
     "itemComponentValues": [

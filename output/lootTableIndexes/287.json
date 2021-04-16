@@ -11,50 +11,34 @@
     ],
     "items": {
         "6803": {
-            "itemComponent": 2841,
-            "rarity": 2,
             "name": "Blue Baseball Cap",
             "displayName": "Blue Baseball Cap"
         },
         "8546": {
-            "itemComponent": 3835,
-            "rarity": 3,
             "name": "Space Headgear",
             "displayName": "Space Headgear"
         },
         "8647": {
-            "itemComponent": 3899,
-            "rarity": 3,
             "name": "Cargo Pants",
             "displayName": "Cargo Pants"
         },
         "8664": {
-            "itemComponent": 3909,
-            "rarity": 2,
             "name": "Jodhpurs",
             "displayName": "Jodhpurs"
         },
         "8666": {
-            "itemComponent": 3910,
-            "rarity": 2,
             "name": "Sweat Pants",
             "displayName": "Sweat Pants"
         },
         "8667": {
-            "itemComponent": 3911,
-            "rarity": 2,
             "name": "Clam Diggers",
             "displayName": "Clam Diggers"
         },
         "8675": {
-            "itemComponent": 3914,
-            "rarity": 3,
             "name": "Reinforced Pith Helmet",
             "displayName": "Reinforced Pith Helmet"
         },
         "8676": {
-            "itemComponent": 3915,
-            "rarity": 4,
             "name": "Cadet Helm",
             "displayName": "Cadet Helm"
         }

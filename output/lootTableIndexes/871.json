@@ -6,20 +6,14 @@
     ],
     "items": {
         "15918": {
-            "itemComponent": 7329,
-            "rarity": 4,
             "name": "Athlete's Shade",
             "displayName": "Athlete's Shade"
         },
         "15990": {
-            "itemComponent": 7400,
-            "rarity": 2,
             "name": "Crimson Guard",
             "displayName": "Crimson Guard"
         },
         "16123": {
-            "itemComponent": 7492,
-            "rarity": 4,
             "name": "Murasaki Hakama",
             "displayName": "Murasaki Hakama"
         }

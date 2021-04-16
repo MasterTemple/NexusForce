@@ -6,20 +6,14 @@
     ],
     "items": {
         "14446": {
-            "itemComponent": 7091,
-            "rarity": 1,
             "name": "MOD Rocket Classic Blue Engine",
             "displayName": "Classic Blue Rocket Engine"
         },
         "14453": {
-            "itemComponent": 7094,
-            "rarity": 1,
             "name": "MOD Rocket Classic Pink Engine",
             "displayName": "Classic Pink Rocket Engine"
         },
         "14456": {
-            "itemComponent": 7097,
-            "rarity": 1,
             "name": "MOD Rocket Classic Yellow Engine",
             "displayName": "Classic Yellow Rocket Engine"
         }

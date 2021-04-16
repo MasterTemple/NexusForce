@@ -6,20 +6,14 @@
     ],
     "items": {
         "12839": {
-            "itemComponent": 6362,
-            "rarity": 2,
             "name": "MOD Rocket Skeleton Cockpit 1",
             "displayName": "Morbid Orbit Rocket Cockpit"
         },
         "12849": {
-            "itemComponent": 6394,
-            "rarity": 2,
             "name": "MOD Rocket Skeleton Cockpit 2",
             "displayName": "Starskull Rocket Cockpit"
         },
         "12852": {
-            "itemComponent": 6416,
-            "rarity": 2,
             "name": "MOD Rocket Skeleton Cockpit 3",
             "displayName": "Terror Comet Rocket Cockpit"
         }

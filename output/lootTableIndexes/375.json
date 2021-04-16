@@ -4,10 +4,8 @@
     ],
     "items": {
         "125": {
-            "itemComponent": 5512,
-            "rarity": 1,
             "name": "Rank 1 Space Marauder Book",
-            "displayName": null
+            "displayName": "Rank 1 Space Marauder Book"
         }
     },
     "itemComponentValues": [

@@ -4,10 +4,8 @@
     ],
     "items": {
         "130": {
-            "itemComponent": 5513,
-            "rarity": 1,
             "name": "Rank 1 Engineer Book",
-            "displayName": null
+            "displayName": "Rank 1 Engineer Book"
         }
     },
     "itemComponentValues": [

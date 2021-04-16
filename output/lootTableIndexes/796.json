@@ -6,20 +6,14 @@
     ],
     "items": {
         "16188": {
-            "itemComponent": 7517,
-            "rarity": 4,
             "name": "Space Marauder Cape Back/Neck",
             "displayName": "Valiant Space Marauder's Cape"
         },
         "16189": {
-            "itemComponent": 7518,
-            "rarity": 4,
             "name": "Sorcerer Cape Back/Neck",
             "displayName": "Valiant Sorcerer's Cape"
         },
         "16190": {
-            "itemComponent": 7519,
-            "rarity": 4,
             "name": "Shinobi Cape Back/Neck",
             "displayName": "Valiant Shinobi's Cape"
         }

@@ -5,14 +5,10 @@
     ],
     "items": {
         "14812": {
-            "itemComponent": 7285,
-            "rarity": 4,
             "name": "Yellow Cape",
             "displayName": "Yellow Cape"
         },
         "14813": {
-            "itemComponent": 7286,
-            "rarity": 4,
             "name": "Orange Cape",
             "displayName": "Orange Cape"
         }

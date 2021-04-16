@@ -6,20 +6,14 @@
     ],
     "items": {
         "1966": {
-            "itemComponent": 865,
-            "rarity": 1,
             "name": "Health Banana 1",
             "displayName": "Healing Banana"
         },
         "2994": {
-            "itemComponent": 1006,
-            "rarity": 1,
             "name": "Health Cherry 2",
             "displayName": "Healing Cherry"
         },
         "8375": {
-            "itemComponent": 3696,
-            "rarity": 1,
             "name": "Sushi",
             "displayName": "Sushi"
         }

@@ -11,50 +11,34 @@
     ],
     "items": {
         "12486": {
-            "itemComponent": 6123,
-            "rarity": 3,
             "name": "Red Scythe",
             "displayName": "Scarlet Scythe"
         },
         "12725": {
-            "itemComponent": 6273,
-            "rarity": 3,
             "name": "Golden Battle Axe",
             "displayName": "Golden Battle Axe"
         },
         "12726": {
-            "itemComponent": 6274,
-            "rarity": 3,
             "name": "The Ego Club",
             "displayName": "Little Friend"
         },
         "12732": {
-            "itemComponent": 6280,
-            "rarity": 3,
             "name": "Massive Spear",
             "displayName": "Massive Spear"
         },
         "12733": {
-            "itemComponent": 6281,
-            "rarity": 4,
             "name": "Heavy Staff",
             "displayName": "Heavy Staff"
         },
         "12734": {
-            "itemComponent": 6282,
-            "rarity": 4,
             "name": "Zweihander",
             "displayName": "Zweihander"
         },
         "12744": {
-            "itemComponent": 6292,
-            "rarity": 3,
             "name": "Construction Shield",
             "displayName": "Construction Shield"
         },
         "12769": {
-            "itemComponent": 6317,
-            "rarity": 2,
             "name": "Visored Racing Helmet",
             "displayName": "Visored Racing Helmet"
         }

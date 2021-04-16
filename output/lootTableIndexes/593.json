@@ -6,20 +6,14 @@
     ],
     "items": {
         "12503": {
-            "itemComponent": 6136,
-            "rarity": 4,
             "name": "Model Reward Skeleton Repair Facility",
             "displayName": "Skeleton Repair Facility Model"
         },
         "12504": {
-            "itemComponent": 6137,
-            "rarity": 2,
             "name": "Model Reward Skeleton Wall Pillars",
             "displayName": "Skeleton Wall Pillars Model"
         },
         "12505": {
-            "itemComponent": 6138,
-            "rarity": 4,
             "name": "Model Reward Skeleton Mobile Drill",
             "displayName": "Skeleton Mobile Drilling Rig Model"
         }

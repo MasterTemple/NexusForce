@@ -4,10 +4,8 @@
     ],
     "items": {
         "20": {
-            "itemComponent": 5507,
-            "rarity": 1,
             "name": "Rank 1 Buccaneer Book",
-            "displayName": null
+            "displayName": "Rank 1 Buccaneer Book"
         }
     },
     "itemComponentValues": [

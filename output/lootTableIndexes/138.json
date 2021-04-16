@@ -4,8 +4,6 @@
     ],
     "items": {
         "7610": {
-            "itemComponent": 3221,
-            "rarity": 1,
             "name": "Assembly Package",
             "displayName": "Assembly Package"
         }

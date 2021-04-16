@@ -2,7 +2,12 @@
     "itemsList": [
         935
     ],
-    "items": {},
+    "items": {
+        "935": {
+            "name": "Imagination Powerup 1 point",
+            "displayName": "Imagination Powerup 1 point"
+        }
+    },
     "itemComponentValues": [],
     "rarityCount": {
         "1": 0,

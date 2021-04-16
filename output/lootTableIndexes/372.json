@@ -4,10 +4,8 @@
     ],
     "items": {
         "80": {
-            "itemComponent": 5509,
-            "rarity": 1,
             "name": "Rank 1 Knight Book",
-            "displayName": null
+            "displayName": "Rank 1 Knight Book"
         }
     },
     "itemComponentValues": [

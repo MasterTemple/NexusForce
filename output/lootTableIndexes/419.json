@@ -2,7 +2,12 @@
     "itemsList": [
         4035
     ],
-    "items": {},
+    "items": {
+        "4035": {
+            "name": "Imagination Powerup 2 points",
+            "displayName": "Imagination Powerup 2 points"
+        }
+    },
     "itemComponentValues": [],
     "rarityCount": {
         "1": 0,

@@ -5,6 +5,7 @@
         "spawnsQuickbuild": false,
         "meleeAttack": true,
         "projectileAttack": true,
+        "projectileAttackChargeUp": false,
         "damageComboArray": [
             1,
             1,
@@ -25,7 +26,8 @@
         ],
         "chargeUpCombo": 0,
         "doubleJumpSmash": 1,
-        "singleJumpSmash": 1
+        "singleJumpSmash": 1,
+        "chargeUpCost": -1
     },
     "projectileBehaviorIDs": [
         216,
