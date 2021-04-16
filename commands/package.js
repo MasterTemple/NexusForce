@@ -63,23 +63,46 @@ module.exports = {
         var description = ``
         let config = require(`./../config.json`)
         for(let p=0; p<packageFile.LootTableIndexes.length;p++){
-            description = `${description}**${packageFile.LootTableIndexes[p].names.Name} [${packageFile.LootTableIndexes[p].LootTableIndex}]**\n`
+            if(packageFile.LootTableIndexes[p].names.Name === null || packageFile.LootTableIndexes[p].names.Name === undefined){
+                packageFile.LootTableIndexes[p].names.Name = packageFile.LootTableIndexes[p].names.AlternateName
+            }
+            description = `${description}**${packageFile.LootTableIndexes[p].names.Name}** [${packageFile.LootTableIndexes[p].LootTableIndex}] - **${packageFile.LootTableIndexes[p].percent}%**\n`
             let arr = []
             //console.log(Object.keys(packageFile.LootTableIndexes[p].rarityTableInfo))
-            for(let k=0;k<Object.keys(packageFile.LootTableIndexes[p].rarityTableInfo).length;k++){
-                arr.push(Object.keys(packageFile.LootTableIndexes[p].rarityTableInfo)[k])
+
+            // for(let k=0;k<Object.keys(packageFile.LootTableIndexes[p].rarityTableInfo).length;k++){
+            //     arr.push(Object.keys(packageFile.LootTableIndexes[p].rarityTableInfo)[k])
+            //     console.log(packageFile.LootTableIndexes[p].rarityCount[k])
+            //     // if(packageFile.LootTableIndexes[p].rarityCount[k] > 0) {
+            //     //     arr.push(Object.keys(packageFile.LootTableIndexes[p].rarityTableInfo)[k])
+            //     // }
+            // }
+
+            for(let k=0;k<Object.keys(packageFile.LootTableIndexes[p].rarityCount).length;k++){
+                //console.log(k, packageFile.LootTableIndexes[p].rarityCount[k])
+                if(packageFile.LootTableIndexes[p].rarityCount[k] > 0) {
+                    arr.push(k)
+                }
+                //console.log(packageFile.LootTableIndexes[p].rarityCount[k])
+                // if(packageFile.LootTableIndexes[p].rarityCount[k] > 0) {
+                //     arr.push(Object.keys(packageFile.LootTableIndexes[p].rarityTableInfo)[k])
+                // }
             }
+
+            // console.log(packageFile.LootTableIndexes[p].names.Name)
+            // console.log(arr)
+
             //console.log(arr)
             description = `${description}__(Specific)__ `
-            for(let i=1; i<=arr.length;i++){
-                description = `${description}**T${i}:** ${(packageFile.LootTableIndexes[p].rarityTableInfo[i].weightedChanceForSpecificItemIncludingDrop * 100).toFixed(4)}% `
+            for(let i=0; i<arr.length;i++){
+                description = `${description}**T${arr[i]}:** ${(packageFile.LootTableIndexes[p].rarityTableInfo[arr[i]].weightedChanceForSpecificItemIncludingDrop * 100).toFixed(4)}% `
 
                 //description = `${description} ${config.emojis[`rarity${i}`]} ${(packageFile.LootTableIndexes[p].rarityTableInfo[i].weightedChanceForSpecificItemIncludingDrop * 100).toFixed(4)}% `
             }
             description = `${description}\n__(Any)__ `
 
-            for(let i=1; i<=arr.length;i++){
-                description = `${description}**T${i}:** ${(packageFile.LootTableIndexes[p].rarityTableInfo[i].weightedChanceForAnyItemIncludingDrop * 100).toFixed(4)}% `
+            for(let i=0; i<arr.length;i++){
+                description = `${description}**T${arr[i]}:** ${(packageFile.LootTableIndexes[p].rarityTableInfo[arr[i]].weightedChanceForAnyItemIncludingDrop * 100).toFixed(4)}% `
 
                 //description = `${description} ${config.emojis[`rarity${i}`]} ${(packageFile.LootTableIndexes[p].rarityTableInfo[i].weightedChanceForSpecificItemIncludingDrop * 100).toFixed(4)}% `
             }
