@@ -1,4 +1,12 @@
 {
+    "objectID": 12115,
+    "itemInfo": {
+        "name": "Nexus Force Supply Crate",
+        "displayName": "Nexus Force Supply Crate",
+        "type": "Loot",
+        "description": "Double-click to open this crate of supplies!",
+        "internalNotes": "consumable"
+    },
     "id": 12115,
     "comp_val": 107,
     "LootMatrixIndex": 656,
@@ -24,9 +32,9 @@
                     "rarity": 1,
                     "chance": 100.0,
                     "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 100.0,
-                    "weightedChanceForAnyItemIncludingDrop": 50.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 50.0
+                    "weightedChanceForSpecificItem": 1.0,
+                    "weightedChanceForAnyItemIncludingDrop": 0.5,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.5
                 }
             },
             "rarityCount": {
@@ -36,7 +44,7 @@
                 "4": 0,
                 "5": 0
             },
-            "total": 100.0
+            "total": 100
         },
         {
             "LootTableIndex": 670,
@@ -57,9 +65,9 @@
                     "rarity": 1,
                     "chance": 100.0,
                     "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 100.0,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 100.0
+                    "weightedChanceForSpecificItem": 1.0,
+                    "weightedChanceForAnyItemIncludingDrop": 1.0,
+                    "weightedChanceForSpecificItemIncludingDrop": 1.0
                 }
             },
             "rarityCount": {
@@ -69,7 +77,7 @@
                 "4": 0,
                 "5": 0
             },
-            "total": 100.0
+            "total": 100
         },
         {
             "LootTableIndex": 360,
@@ -90,9 +98,9 @@
                     "rarity": 4,
                     "chance": 100.0,
                     "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 100.0,
-                    "weightedChanceForAnyItemIncludingDrop": 0.1,
-                    "weightedChanceForSpecificItemIncludingDrop": 0.1
+                    "weightedChanceForSpecificItem": 1.0,
+                    "weightedChanceForAnyItemIncludingDrop": 0.001,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.001
                 }
             },
             "rarityCount": {
@@ -102,7 +110,7 @@
                 "4": 1,
                 "5": 0
             },
-            "total": 100.0
+            "total": 100
         },
         {
             "LootTableIndex": 443,
@@ -122,37 +130,37 @@
                     "randmax": 75.0,
                     "rarity": 1,
                     "chance": 75.0,
-                    "weightedChance": 300.0
+                    "weightedChance": 75.0
                 },
                 "2": {
                     "id": 18,
                     "randmax": 90.0,
                     "rarity": 2,
                     "chance": 15.0,
-                    "weightedChance": 60.0,
-                    "weightedChanceForSpecificItem": 15.0,
-                    "weightedChanceForAnyItemIncludingDrop": 30.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 7.5
+                    "weightedChance": 15.0,
+                    "weightedChanceForSpecificItem": 0.0375,
+                    "weightedChanceForAnyItemIncludingDrop": 0.075,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.01875
                 },
                 "4": {
                     "id": 19,
                     "randmax": 100.0,
                     "rarity": 4,
                     "chance": 2.0,
-                    "weightedChance": 8.0,
-                    "weightedChanceForSpecificItem": 1.6,
-                    "weightedChanceForAnyItemIncludingDrop": 4.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 0.8
+                    "weightedChance": 2.0,
+                    "weightedChanceForSpecificItem": 0.004,
+                    "weightedChanceForAnyItemIncludingDrop": 0.01,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.002
                 },
                 "3": {
                     "id": 22,
                     "randmax": 98.0,
                     "rarity": 3,
                     "chance": 8.0,
-                    "weightedChance": 32.0,
-                    "weightedChanceForSpecificItem": 10.667,
-                    "weightedChanceForAnyItemIncludingDrop": 16.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 5.333
+                    "weightedChance": 8.0,
+                    "weightedChanceForSpecificItem": 0.026667,
+                    "weightedChanceForAnyItemIncludingDrop": 0.04,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.013333
                 }
             },
             "rarityCount": {
@@ -162,7 +170,7 @@
                 "4": 5,
                 "5": 0
             },
-            "total": 25.0
+            "total": 100
         },
         {
             "LootTableIndex": 444,
@@ -183,9 +191,9 @@
                     "rarity": 1,
                     "chance": 75.0,
                     "weightedChance": 75.0,
-                    "weightedChanceForSpecificItem": 12.5,
-                    "weightedChanceForAnyItemIncludingDrop": 37.5,
-                    "weightedChanceForSpecificItemIncludingDrop": 6.25
+                    "weightedChanceForSpecificItem": 0.125,
+                    "weightedChanceForAnyItemIncludingDrop": 0.375,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.0625
                 },
                 "2": {
                     "id": 18,
@@ -193,9 +201,9 @@
                     "rarity": 2,
                     "chance": 15.0,
                     "weightedChance": 15.0,
-                    "weightedChanceForSpecificItem": 3.0,
-                    "weightedChanceForAnyItemIncludingDrop": 7.5,
-                    "weightedChanceForSpecificItemIncludingDrop": 1.5
+                    "weightedChanceForSpecificItem": 0.03,
+                    "weightedChanceForAnyItemIncludingDrop": 0.075,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.015
                 },
                 "4": {
                     "id": 19,
@@ -203,9 +211,9 @@
                     "rarity": 4,
                     "chance": 2.0,
                     "weightedChance": 2.0,
-                    "weightedChanceForSpecificItem": 0.182,
-                    "weightedChanceForAnyItemIncludingDrop": 1.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 0.091
+                    "weightedChanceForSpecificItem": 0.001818,
+                    "weightedChanceForAnyItemIncludingDrop": 0.01,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.000909
                 },
                 "3": {
                     "id": 22,
@@ -213,9 +221,9 @@
                     "rarity": 3,
                     "chance": 8.0,
                     "weightedChance": 8.0,
-                    "weightedChanceForSpecificItem": 1.143,
-                    "weightedChanceForAnyItemIncludingDrop": 4.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 0.571
+                    "weightedChanceForSpecificItem": 0.011429,
+                    "weightedChanceForAnyItemIncludingDrop": 0.04,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.005714
                 }
             },
             "rarityCount": {
@@ -225,7 +233,7 @@
                 "4": 11,
                 "5": 0
             },
-            "total": 100.0
+            "total": 100
         },
         {
             "LootTableIndex": 446,
@@ -245,37 +253,37 @@
                     "randmax": 75.0,
                     "rarity": 1,
                     "chance": 75.0,
-                    "weightedChance": 300.0
+                    "weightedChance": 75.0
                 },
                 "2": {
                     "id": 18,
                     "randmax": 90.0,
                     "rarity": 2,
                     "chance": 15.0,
-                    "weightedChance": 60.0,
-                    "weightedChanceForSpecificItem": 60.0,
-                    "weightedChanceForAnyItemIncludingDrop": 48.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 48.0
+                    "weightedChance": 15.0,
+                    "weightedChanceForSpecificItem": 0.15,
+                    "weightedChanceForAnyItemIncludingDrop": 0.12,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.12
                 },
                 "4": {
                     "id": 19,
                     "randmax": 100.0,
                     "rarity": 4,
                     "chance": 2.0,
-                    "weightedChance": 8.0,
-                    "weightedChanceForSpecificItem": 0.889,
-                    "weightedChanceForAnyItemIncludingDrop": 6.4,
-                    "weightedChanceForSpecificItemIncludingDrop": 0.711
+                    "weightedChance": 2.0,
+                    "weightedChanceForSpecificItem": 0.002222,
+                    "weightedChanceForAnyItemIncludingDrop": 0.016,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.001778
                 },
                 "3": {
                     "id": 22,
                     "randmax": 98.0,
                     "rarity": 3,
                     "chance": 8.0,
-                    "weightedChance": 32.0,
-                    "weightedChanceForSpecificItem": 8.0,
-                    "weightedChanceForAnyItemIncludingDrop": 25.6,
-                    "weightedChanceForSpecificItemIncludingDrop": 6.4
+                    "weightedChance": 8.0,
+                    "weightedChanceForSpecificItem": 0.02,
+                    "weightedChanceForAnyItemIncludingDrop": 0.064,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.016
                 }
             },
             "rarityCount": {
@@ -285,7 +293,7 @@
                 "4": 9,
                 "5": 0
             },
-            "total": 25.0
+            "total": 100
         },
         {
             "LootTableIndex": 602,
@@ -305,34 +313,34 @@
                     "randmax": 75.0,
                     "rarity": 1,
                     "chance": 75.0,
-                    "weightedChance": 326.09
+                    "weightedChance": 75.0
                 },
                 "2": {
                     "id": 18,
                     "randmax": 90.0,
                     "rarity": 2,
                     "chance": 15.0,
-                    "weightedChance": 65.22,
-                    "weightedChanceForSpecificItem": 9.317,
-                    "weightedChanceForAnyItemIncludingDrop": 52.174,
-                    "weightedChanceForSpecificItemIncludingDrop": 7.453
+                    "weightedChance": 15.0,
+                    "weightedChanceForSpecificItem": 0.021429,
+                    "weightedChanceForAnyItemIncludingDrop": 0.12,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.017143
                 },
                 "4": {
                     "id": 19,
                     "randmax": 100.0,
                     "rarity": 4,
                     "chance": 2.0,
-                    "weightedChance": 8.7
+                    "weightedChance": 2.0
                 },
                 "3": {
                     "id": 22,
                     "randmax": 98.0,
                     "rarity": 3,
                     "chance": 8.0,
-                    "weightedChance": 34.78,
-                    "weightedChanceForSpecificItem": 8.696,
-                    "weightedChanceForAnyItemIncludingDrop": 27.826,
-                    "weightedChanceForSpecificItemIncludingDrop": 6.957
+                    "weightedChance": 8.0,
+                    "weightedChanceForSpecificItem": 0.02,
+                    "weightedChanceForAnyItemIncludingDrop": 0.064,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.016
                 }
             },
             "rarityCount": {
@@ -342,7 +350,13 @@
                 "4": 0,
                 "5": 0
             },
-            "total": 23.0
+            "total": 100
         }
-    ]
+    ],
+    "components": {
+        "2": 11864,
+        "11": 6007,
+        "53": 107
+    },
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/misc/nf_crate.png"
 }

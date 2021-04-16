@@ -1,4 +1,12 @@
 {
+    "objectID": 10316,
+    "itemInfo": {
+        "name": "DVD Order Model Pack",
+        "displayName": "Surprise Model Pack",
+        "type": "Loot",
+        "description": "Double-click to open this pack of models!",
+        "internalNotes": "Promo Item - Contains randomly selected small reward model"
+    },
     "id": 10316,
     "comp_val": 44,
     "LootMatrixIndex": 416,
@@ -35,5 +43,11 @@
             },
             "total": 0
         }
-    ]
+    ],
+    "components": {
+        "2": 10162,
+        "11": 5066,
+        "53": 44
+    },
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_gray.png"
 }

@@ -1,0 +1,103 @@
+{
+    "enemyID": 16048,
+    "components": {
+        "1": 7575,
+        "2": 14767,
+        "5": 1608,
+        "7": 2102,
+        "9": 0,
+        "17": 553,
+        "31": 84,
+        "60": 166
+    },
+    "doesntDropAnything": false,
+    "drop": {
+        "DestructibleComponent": 2102,
+        "LootMatrixIndex": 899,
+        "LootTableIndexes": [
+            {
+                "LootTableIndex": 738,
+                "RarityTableIndex": 25,
+                "percent": 100.0,
+                "minToDrop": 1,
+                "maxToDrop": 1,
+                "size": 1,
+                "names": {
+                    "LootTableIndex": "738",
+                    "Type": "Loot",
+                    "Name": "Frakjaw's Maelstrom Battle Mace"
+                },
+                "rarityTableInfo": {
+                    "3": {
+                        "id": 88,
+                        "randmax": 100.0,
+                        "rarity": 3,
+                        "chance": 100.0,
+                        "weightedChance": 0,
+                        "weightedChanceForSpecificItem": 0
+                    }
+                },
+                "rarityCount": {
+                    "1": 0,
+                    "2": 1,
+                    "3": 0,
+                    "4": 0,
+                    "5": 0
+                },
+                "total": 0
+            },
+            {
+                "LootTableIndex": 757,
+                "RarityTableIndex": 23,
+                "percent": 100.0,
+                "minToDrop": 1,
+                "maxToDrop": 1,
+                "size": 1,
+                "names": {
+                    "LootTableIndex": "757",
+                    "Type": "Loot",
+                    "Name": "Jaw Bone"
+                },
+                "rarityTableInfo": {
+                    "1": {
+                        "id": 86,
+                        "randmax": 100.0,
+                        "rarity": 1,
+                        "chance": 100.0,
+                        "weightedChance": 100.0,
+                        "weightedChanceForSpecificItem": 1.0,
+                        "weightedChanceForAnyItemIncludingDrop": 1.0,
+                        "weightedChanceForSpecificItemIncludingDrop": 1.0
+                    }
+                },
+                "rarityCount": {
+                    "1": 1,
+                    "2": 0,
+                    "3": 0,
+                    "4": 0,
+                    "5": 0
+                },
+                "total": 100
+            }
+        ]
+    },
+    "skillIDs": [
+        1525,
+        1530,
+        1651
+    ],
+    "objectSkills": {
+        "1525": {
+            "castOnType": null,
+            "AICombatWeight": 50
+        },
+        "1530": {
+            "castOnType": null,
+            "AICombatWeight": 50
+        },
+        "1651": {
+            "castOnType": 0,
+            "AICombatWeight": 10
+        }
+    }
+}

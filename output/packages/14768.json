@@ -1,4 +1,12 @@
 {
+    "objectID": 14768,
+    "itemInfo": {
+        "name": "Game Card Reward Pack",
+        "displayName": "Game Card Reward Pack",
+        "type": "Loot",
+        "description": "Double-click to open!",
+        "internalNotes": "Marketing Reward - Retailer 1 Month 3"
+    },
     "id": 14768,
     "comp_val": 140,
     "LootMatrixIndex": 811,
@@ -24,9 +32,9 @@
                     "rarity": 1,
                     "chance": 100.0,
                     "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 100.0,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 100.0
+                    "weightedChanceForSpecificItem": 1.0,
+                    "weightedChanceForAnyItemIncludingDrop": 1.0,
+                    "weightedChanceForSpecificItemIncludingDrop": 1.0
                 }
             },
             "rarityCount": {
@@ -36,7 +44,7 @@
                 "4": 0,
                 "5": 0
             },
-            "total": 100.0
+            "total": 100
         },
         {
             "LootTableIndex": 782,
@@ -58,9 +66,9 @@
                     "rarity": 3,
                     "chance": 100.0,
                     "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 100.0,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 100.0
+                    "weightedChanceForSpecificItem": 1.0,
+                    "weightedChanceForAnyItemIncludingDrop": 1.0,
+                    "weightedChanceForSpecificItemIncludingDrop": 1.0
                 }
             },
             "rarityCount": {
@@ -70,7 +78,13 @@
                 "4": 0,
                 "5": 0
             },
-            "total": 100.0
+            "total": 100
         }
-    ]
+    ],
+    "components": {
+        "2": 14455,
+        "11": 7257,
+        "53": 140
+    },
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/bag_green_brown_extralarge.png"
 }

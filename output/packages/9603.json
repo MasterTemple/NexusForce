@@ -1,4 +1,12 @@
 {
+    "objectID": 9603,
+    "itemInfo": {
+        "name": "Shipwreck Hideout Pack",
+        "displayName": "Shipwreck Hideout Pack",
+        "type": "Loot",
+        "description": "Double-click to open this pack of models!",
+        "internalNotes": "4 hideout pieces"
+    },
     "id": 9603,
     "comp_val": 63,
     "LootMatrixIndex": 447,
@@ -120,9 +128,9 @@
                     "rarity": 4,
                     "chance": 100.0,
                     "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 100.0,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 100.0
+                    "weightedChanceForSpecificItem": 1.0,
+                    "weightedChanceForAnyItemIncludingDrop": 1.0,
+                    "weightedChanceForSpecificItemIncludingDrop": 1.0
                 }
             },
             "rarityCount": {
@@ -132,7 +140,13 @@
                 "4": 1,
                 "5": 0
             },
-            "total": 100.0
+            "total": 100
         }
-    ]
+    ],
+    "components": {
+        "2": 9454,
+        "11": 4633,
+        "53": 63
+    },
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_blue.png"
 }

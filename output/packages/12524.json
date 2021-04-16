@@ -1,4 +1,12 @@
 {
+    "objectID": 12524,
+    "itemInfo": {
+        "name": "Behavior Model Pack 1",
+        "displayName": "Behavior Model Pack 1",
+        "type": "Loot",
+        "description": "Double-click to use!",
+        "internalNotes": null
+    },
     "id": 12524,
     "comp_val": 93,
     "LootMatrixIndex": 604,
@@ -286,5 +294,11 @@
             },
             "total": 0
         }
-    ]
+    ],
+    "components": {
+        "2": 12296,
+        "11": 6151,
+        "53": 93
+    },
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_red.png"
 }

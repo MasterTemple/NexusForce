@@ -1,0 +1,62 @@
+{
+    "enemyID": 12590,
+    "components": {
+        "1": 6192,
+        "2": 12380,
+        "5": 1383,
+        "7": 1754,
+        "9": 0,
+        "31": 43,
+        "60": 106
+    },
+    "doesntDropAnything": false,
+    "drop": {
+        "DestructibleComponent": 1754,
+        "LootMatrixIndex": 683,
+        "LootTableIndexes": [
+            {
+                "LootTableIndex": 88,
+                "RarityTableIndex": 23,
+                "percent": 15.0,
+                "minToDrop": 1,
+                "maxToDrop": 1,
+                "size": 1,
+                "names": {
+                    "LootTableIndex": "88",
+                    "Type": "Loot",
+                    "Name": "Maelstrom Infected Brick",
+                    "AlternateName": "Maelstrom-Infected Brick"
+                },
+                "rarityTableInfo": {
+                    "1": {
+                        "id": 86,
+                        "randmax": 100.0,
+                        "rarity": 1,
+                        "chance": 100.0,
+                        "weightedChance": 100.0,
+                        "weightedChanceForSpecificItem": 1.0,
+                        "weightedChanceForAnyItemIncludingDrop": 0.15,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.15
+                    }
+                },
+                "rarityCount": {
+                    "1": 1,
+                    "2": 0,
+                    "3": 0,
+                    "4": 0,
+                    "5": 0
+                },
+                "total": 100
+            }
+        ]
+    },
+    "skillIDs": [
+        241
+    ],
+    "objectSkills": {
+        "241": {
+            "castOnType": null,
+            "AICombatWeight": 100
+        }
+    }
+}

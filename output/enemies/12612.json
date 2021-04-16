@@ -1,0 +1,76 @@
+{
+    "enemyID": 12612,
+    "components": {
+        "1": 6201,
+        "2": 10990,
+        "5": 1391,
+        "7": 1763,
+        "9": 0,
+        "60": 115
+    },
+    "doesntDropAnything": false,
+    "drop": {
+        "DestructibleComponent": 1763,
+        "LootMatrixIndex": 683,
+        "LootTableIndexes": [
+            {
+                "LootTableIndex": 88,
+                "RarityTableIndex": 23,
+                "percent": 15.0,
+                "minToDrop": 1,
+                "maxToDrop": 1,
+                "size": 1,
+                "names": {
+                    "LootTableIndex": "88",
+                    "Type": "Loot",
+                    "Name": "Maelstrom Infected Brick",
+                    "AlternateName": "Maelstrom-Infected Brick"
+                },
+                "rarityTableInfo": {
+                    "1": {
+                        "id": 86,
+                        "randmax": 100.0,
+                        "rarity": 1,
+                        "chance": 100.0,
+                        "weightedChance": 100.0,
+                        "weightedChanceForSpecificItem": 1.0,
+                        "weightedChanceForAnyItemIncludingDrop": 0.15,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.15
+                    }
+                },
+                "rarityCount": {
+                    "1": 1,
+                    "2": 0,
+                    "3": 0,
+                    "4": 0,
+                    "5": 0
+                },
+                "total": 100
+            }
+        ]
+    },
+    "skillIDs": [
+        508,
+        510,
+        512,
+        832
+    ],
+    "objectSkills": {
+        "508": {
+            "castOnType": null,
+            "AICombatWeight": 50
+        },
+        "510": {
+            "castOnType": null,
+            "AICombatWeight": 30
+        },
+        "512": {
+            "castOnType": null,
+            "AICombatWeight": 20
+        },
+        "832": {
+            "castOnType": null,
+            "AICombatWeight": 30
+        }
+    }
+}

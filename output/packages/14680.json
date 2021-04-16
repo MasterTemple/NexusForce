@@ -1,4 +1,12 @@
 {
+    "objectID": 14680,
+    "itemInfo": {
+        "name": "Armor Repair Kit",
+        "displayName": "Armor Repair Kit",
+        "type": "Loot",
+        "description": "Double-click to use!",
+        "internalNotes": "Achievement Reward"
+    },
     "id": 14680,
     "comp_val": 134,
     "LootMatrixIndex": 809,
@@ -23,9 +31,9 @@
                     "rarity": 1,
                     "chance": 100.0,
                     "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 33.333,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 33.333
+                    "weightedChanceForSpecificItem": 0.333333,
+                    "weightedChanceForAnyItemIncludingDrop": 1.0,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.333333
                 }
             },
             "rarityCount": {
@@ -35,7 +43,13 @@
                 "4": 0,
                 "5": 0
             },
-            "total": 100.0
+            "total": 100
         }
-    ]
+    ],
+    "components": {
+        "2": 14365,
+        "11": 7175,
+        "53": 134
+    },
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_green_brown.png"
 }

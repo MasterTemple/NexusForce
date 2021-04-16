@@ -1,4 +1,12 @@
 {
+    "objectID": 13624,
+    "itemInfo": {
+        "name": "Micro City Model Pack 2",
+        "displayName": "Micro City Model Pack 2",
+        "type": "Loot",
+        "description": "Double-click to use!",
+        "internalNotes": ""
+    },
     "id": 13624,
     "comp_val": 124,
     "LootMatrixIndex": 708,
@@ -24,9 +32,9 @@
                     "rarity": 4,
                     "chance": 100.0,
                     "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 100.0,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 100.0
+                    "weightedChanceForSpecificItem": 1.0,
+                    "weightedChanceForAnyItemIncludingDrop": 1.0,
+                    "weightedChanceForSpecificItemIncludingDrop": 1.0
                 }
             },
             "rarityCount": {
@@ -36,7 +44,7 @@
                 "4": 1,
                 "5": 0
             },
-            "total": 100.0
+            "total": 100
         },
         {
             "LootTableIndex": 653,
@@ -58,9 +66,9 @@
                     "rarity": 4,
                     "chance": 100.0,
                     "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 100.0,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 100.0
+                    "weightedChanceForSpecificItem": 1.0,
+                    "weightedChanceForAnyItemIncludingDrop": 1.0,
+                    "weightedChanceForSpecificItemIncludingDrop": 1.0
                 }
             },
             "rarityCount": {
@@ -70,7 +78,7 @@
                 "4": 1,
                 "5": 0
             },
-            "total": 100.0
+            "total": 100
         },
         {
             "LootTableIndex": 654,
@@ -92,9 +100,9 @@
                     "rarity": 3,
                     "chance": 100.0,
                     "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 100.0,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 100.0
+                    "weightedChanceForSpecificItem": 1.0,
+                    "weightedChanceForAnyItemIncludingDrop": 1.0,
+                    "weightedChanceForSpecificItemIncludingDrop": 1.0
                 }
             },
             "rarityCount": {
@@ -104,7 +112,7 @@
                 "4": 0,
                 "5": 0
             },
-            "total": 100.0
+            "total": 100
         },
         {
             "LootTableIndex": 655,
@@ -126,9 +134,9 @@
                     "rarity": 2,
                     "chance": 100.0,
                     "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 100.0,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 100.0
+                    "weightedChanceForSpecificItem": 1.0,
+                    "weightedChanceForAnyItemIncludingDrop": 1.0,
+                    "weightedChanceForSpecificItemIncludingDrop": 1.0
                 }
             },
             "rarityCount": {
@@ -138,7 +146,7 @@
                 "4": 0,
                 "5": 0
             },
-            "total": 100.0
+            "total": 100
         },
         {
             "LootTableIndex": 656,
@@ -160,9 +168,9 @@
                     "rarity": 3,
                     "chance": 100.0,
                     "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 100.0,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 100.0
+                    "weightedChanceForSpecificItem": 1.0,
+                    "weightedChanceForAnyItemIncludingDrop": 1.0,
+                    "weightedChanceForSpecificItemIncludingDrop": 1.0
                 }
             },
             "rarityCount": {
@@ -172,7 +180,7 @@
                 "4": 0,
                 "5": 0
             },
-            "total": 100.0
+            "total": 100
         },
         {
             "LootTableIndex": 657,
@@ -194,9 +202,9 @@
                     "rarity": 3,
                     "chance": 100.0,
                     "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 100.0,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 100.0
+                    "weightedChanceForSpecificItem": 1.0,
+                    "weightedChanceForAnyItemIncludingDrop": 1.0,
+                    "weightedChanceForSpecificItemIncludingDrop": 1.0
                 }
             },
             "rarityCount": {
@@ -206,7 +214,7 @@
                 "4": 0,
                 "5": 0
             },
-            "total": 100.0
+            "total": 100
         },
         {
             "LootTableIndex": 658,
@@ -228,9 +236,9 @@
                     "rarity": 4,
                     "chance": 100.0,
                     "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 100.0,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 100.0
+                    "weightedChanceForSpecificItem": 1.0,
+                    "weightedChanceForAnyItemIncludingDrop": 1.0,
+                    "weightedChanceForSpecificItemIncludingDrop": 1.0
                 }
             },
             "rarityCount": {
@@ -240,7 +248,13 @@
                 "4": 1,
                 "5": 0
             },
-            "total": 100.0
+            "total": 100
         }
-    ]
+    ],
+    "components": {
+        "2": 13360,
+        "11": 6743,
+        "53": 124
+    },
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_blue.png"
 }

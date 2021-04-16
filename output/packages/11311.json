@@ -1,4 +1,12 @@
 {
+    "objectID": 11311,
+    "itemInfo": {
+        "name": "Best Buy Reward Pack",
+        "displayName": "Best Buy Reward Pack",
+        "type": "Loot",
+        "description": "Double-click to open this pack of rewards!",
+        "internalNotes": null
+    },
     "id": 11311,
     "comp_val": 67,
     "LootMatrixIndex": 476,
@@ -24,9 +32,9 @@
                     "rarity": 2,
                     "chance": 100.0,
                     "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 100.0,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 100.0
+                    "weightedChanceForSpecificItem": 1.0,
+                    "weightedChanceForAnyItemIncludingDrop": 1.0,
+                    "weightedChanceForSpecificItemIncludingDrop": 1.0
                 }
             },
             "rarityCount": {
@@ -36,7 +44,7 @@
                 "4": 0,
                 "5": 0
             },
-            "total": 100.0
+            "total": 100
         },
         {
             "LootTableIndex": 391,
@@ -57,9 +65,9 @@
                     "rarity": 2,
                     "chance": 100.0,
                     "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 100.0,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 100.0
+                    "weightedChanceForSpecificItem": 1.0,
+                    "weightedChanceForAnyItemIncludingDrop": 1.0,
+                    "weightedChanceForSpecificItemIncludingDrop": 1.0
                 }
             },
             "rarityCount": {
@@ -69,7 +77,13 @@
                 "4": 0,
                 "5": 0
             },
-            "total": 100.0
+            "total": 100
         }
-    ]
+    ],
+    "components": {
+        "2": 11088,
+        "11": 5528,
+        "53": 67
+    },
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_blue.png"
 }

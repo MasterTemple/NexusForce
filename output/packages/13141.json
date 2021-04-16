@@ -1,4 +1,12 @@
 {
+    "objectID": 13141,
+    "itemInfo": {
+        "name": "Medium Red Imaginite Bag - Sentinel",
+        "displayName": "Medium Bag of Red Imaginite",
+        "type": "Loot",
+        "description": "Contains 10 Red Imaginite",
+        "internalNotes": "Sold at Sentinel vendors"
+    },
     "id": 13141,
     "comp_val": 119,
     "LootMatrixIndex": 675,
@@ -23,9 +31,9 @@
                     "rarity": 2,
                     "chance": 100.0,
                     "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 100.0,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 100.0
+                    "weightedChanceForSpecificItem": 1.0,
+                    "weightedChanceForAnyItemIncludingDrop": 1.0,
+                    "weightedChanceForSpecificItemIncludingDrop": 1.0
                 }
             },
             "rarityCount": {
@@ -35,7 +43,13 @@
                 "4": 0,
                 "5": 0
             },
-            "total": 100.0
+            "total": 100
         }
-    ]
+    ],
+    "components": {
+        "2": 12921,
+        "11": 6515,
+        "53": 119
+    },
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/bag_black_red.png"
 }

@@ -1,4 +1,12 @@
 {
+    "objectID": 11181,
+    "itemInfo": {
+        "name": "Beta Testing Gear Pack",
+        "displayName": "Beta Testing Gear Pack",
+        "type": "Loot",
+        "description": "Double-click to open this pack of gear!",
+        "internalNotes": null
+    },
     "id": 11181,
     "comp_val": 62,
     "LootMatrixIndex": 445,
@@ -23,9 +31,9 @@
                     "rarity": 2,
                     "chance": 100.0,
                     "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 100.0,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 100.0
+                    "weightedChanceForSpecificItem": 1.0,
+                    "weightedChanceForAnyItemIncludingDrop": 1.0,
+                    "weightedChanceForSpecificItemIncludingDrop": 1.0
                 }
             },
             "rarityCount": {
@@ -35,7 +43,7 @@
                 "4": 0,
                 "5": 0
             },
-            "total": 100.0
+            "total": 100
         },
         {
             "LootTableIndex": 360,
@@ -88,9 +96,9 @@
                     "rarity": 3,
                     "chance": 100.0,
                     "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 20.0,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 20.0
+                    "weightedChanceForSpecificItem": 0.2,
+                    "weightedChanceForAnyItemIncludingDrop": 1.0,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.2
                 }
             },
             "rarityCount": {
@@ -100,7 +108,7 @@
                 "4": 0,
                 "5": 0
             },
-            "total": 100.0
+            "total": 100
         },
         {
             "LootTableIndex": 362,
@@ -121,9 +129,9 @@
                     "rarity": 4,
                     "chance": 100.0,
                     "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 20.0,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 20.0
+                    "weightedChanceForSpecificItem": 0.2,
+                    "weightedChanceForAnyItemIncludingDrop": 1.0,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.2
                 }
             },
             "rarityCount": {
@@ -133,7 +141,13 @@
                 "4": 5,
                 "5": 0
             },
-            "total": 100.0
+            "total": 100
         }
-    ]
+    ],
+    "components": {
+        "2": 10930,
+        "11": 5461,
+        "53": 62
+    },
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_blue.png"
 }

@@ -1,4 +1,12 @@
 {
+    "objectID": 10397,
+    "itemInfo": {
+        "name": "House Model Pack 2",
+        "displayName": "House Model Pack 2",
+        "type": "Loot",
+        "description": "Double-click to open this pack of models!",
+        "internalNotes": null
+    },
     "id": 10397,
     "comp_val": 47,
     "LootMatrixIndex": 419,
@@ -100,5 +108,11 @@
             },
             "total": 0
         }
-    ]
+    ],
+    "components": {
+        "2": 10241,
+        "11": 5134,
+        "53": 47
+    },
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_green.png"
 }

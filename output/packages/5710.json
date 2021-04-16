@@ -1,4 +1,12 @@
 {
+    "objectID": 5710,
+    "itemInfo": {
+        "name": "Test Package",
+        "displayName": null,
+        "type": "Loot",
+        "description": null,
+        "internalNotes": "Test for package tech"
+    },
     "id": 5710,
     "comp_val": 1,
     "LootMatrixIndex": 65,
@@ -23,9 +31,9 @@
                     "rarity": 1,
                     "chance": 75.0,
                     "weightedChance": 75.0,
-                    "weightedChanceForSpecificItem": 37.5,
-                    "weightedChanceForAnyItemIncludingDrop": 75.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 37.5
+                    "weightedChanceForSpecificItem": 0.375,
+                    "weightedChanceForAnyItemIncludingDrop": 0.75,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.375
                 },
                 "2": {
                     "id": 18,
@@ -33,9 +41,9 @@
                     "rarity": 2,
                     "chance": 15.0,
                     "weightedChance": 15.0,
-                    "weightedChanceForSpecificItem": 3.0,
-                    "weightedChanceForAnyItemIncludingDrop": 15.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 3.0
+                    "weightedChanceForSpecificItem": 0.03,
+                    "weightedChanceForAnyItemIncludingDrop": 0.15,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.03
                 },
                 "4": {
                     "id": 19,
@@ -43,9 +51,9 @@
                     "rarity": 4,
                     "chance": 2.0,
                     "weightedChance": 2.0,
-                    "weightedChanceForSpecificItem": 2.0,
-                    "weightedChanceForAnyItemIncludingDrop": 2.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 2.0
+                    "weightedChanceForSpecificItem": 0.02,
+                    "weightedChanceForAnyItemIncludingDrop": 0.02,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.02
                 },
                 "3": {
                     "id": 22,
@@ -53,9 +61,9 @@
                     "rarity": 3,
                     "chance": 8.0,
                     "weightedChance": 8.0,
-                    "weightedChanceForSpecificItem": 4.0,
-                    "weightedChanceForAnyItemIncludingDrop": 8.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 4.0
+                    "weightedChanceForSpecificItem": 0.04,
+                    "weightedChanceForAnyItemIncludingDrop": 0.08,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.04
                 }
             },
             "rarityCount": {
@@ -65,7 +73,13 @@
                 "4": 1,
                 "5": 3
             },
-            "total": 100.0
+            "total": 100
         }
-    ]
+    ],
+    "components": {
+        "2": 5267,
+        "11": 2365,
+        "53": 1
+    },
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/ag_super_picnic_basket.png"
 }

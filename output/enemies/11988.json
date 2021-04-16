@@ -1,0 +1,596 @@
+{
+    "enemyID": 11988,
+    "components": {
+        "1": 5802,
+        "2": 11747,
+        "5": 1315,
+        "7": 1643,
+        "9": 0,
+        "31": 15,
+        "60": 85
+    },
+    "doesntDropAnything": false,
+    "drop": {
+        "DestructibleComponent": 1643,
+        "LootMatrixIndex": 519,
+        "LootTableIndexes": [
+            {
+                "LootTableIndex": 415,
+                "RarityTableIndex": 4,
+                "percent": 100.0,
+                "minToDrop": 2,
+                "maxToDrop": 3,
+                "size": 1,
+                "names": {
+                    "LootTableIndex": "415",
+                    "Type": "Powerup",
+                    "Name": "Life Powerup 2 points"
+                },
+                "rarityTableInfo": {
+                    "1": {
+                        "id": 17,
+                        "randmax": 75.0,
+                        "rarity": 1,
+                        "chance": 75.0
+                    },
+                    "2": {
+                        "id": 18,
+                        "randmax": 90.0,
+                        "rarity": 2,
+                        "chance": 15.0
+                    },
+                    "4": {
+                        "id": 19,
+                        "randmax": 100.0,
+                        "rarity": 4,
+                        "chance": 2.0
+                    },
+                    "3": {
+                        "id": 22,
+                        "randmax": 98.0,
+                        "rarity": 3,
+                        "chance": 8.0,
+                        "weightedChance": 0,
+                        "weightedChanceForSpecificItem": 0
+                    }
+                },
+                "rarityCount": {
+                    "1": 0,
+                    "2": 0,
+                    "3": 0,
+                    "4": 0,
+                    "5": 0
+                },
+                "total": 0
+            },
+            {
+                "LootTableIndex": 419,
+                "RarityTableIndex": 4,
+                "percent": 100.0,
+                "minToDrop": 2,
+                "maxToDrop": 3,
+                "size": 1,
+                "names": {
+                    "LootTableIndex": "419",
+                    "Type": "Powerup",
+                    "Name": "Imagination Powerup 2 points"
+                },
+                "rarityTableInfo": {
+                    "1": {
+                        "id": 17,
+                        "randmax": 75.0,
+                        "rarity": 1,
+                        "chance": 75.0
+                    },
+                    "2": {
+                        "id": 18,
+                        "randmax": 90.0,
+                        "rarity": 2,
+                        "chance": 15.0
+                    },
+                    "4": {
+                        "id": 19,
+                        "randmax": 100.0,
+                        "rarity": 4,
+                        "chance": 2.0
+                    },
+                    "3": {
+                        "id": 22,
+                        "randmax": 98.0,
+                        "rarity": 3,
+                        "chance": 8.0,
+                        "weightedChance": 0,
+                        "weightedChanceForSpecificItem": 0
+                    }
+                },
+                "rarityCount": {
+                    "1": 0,
+                    "2": 0,
+                    "3": 0,
+                    "4": 0,
+                    "5": 0
+                },
+                "total": 0
+            },
+            {
+                "LootTableIndex": 423,
+                "RarityTableIndex": 4,
+                "percent": 100.0,
+                "minToDrop": 2,
+                "maxToDrop": 3,
+                "size": 1,
+                "names": {
+                    "LootTableIndex": "423",
+                    "Type": "Powerup",
+                    "Name": "Armor Powerup 2 points"
+                },
+                "rarityTableInfo": {
+                    "1": {
+                        "id": 17,
+                        "randmax": 75.0,
+                        "rarity": 1,
+                        "chance": 75.0
+                    },
+                    "2": {
+                        "id": 18,
+                        "randmax": 90.0,
+                        "rarity": 2,
+                        "chance": 15.0
+                    },
+                    "4": {
+                        "id": 19,
+                        "randmax": 100.0,
+                        "rarity": 4,
+                        "chance": 2.0
+                    },
+                    "3": {
+                        "id": 22,
+                        "randmax": 98.0,
+                        "rarity": 3,
+                        "chance": 8.0,
+                        "weightedChance": 0,
+                        "weightedChanceForSpecificItem": 0
+                    }
+                },
+                "rarityCount": {
+                    "1": 0,
+                    "2": 0,
+                    "3": 0,
+                    "4": 0,
+                    "5": 0
+                },
+                "total": 0
+            },
+            {
+                "LootTableIndex": 452,
+                "RarityTableIndex": 4,
+                "percent": 100.0,
+                "minToDrop": 1,
+                "maxToDrop": 1,
+                "size": 1,
+                "names": {
+                    "LootTableIndex": "452",
+                    "Type": "Loot",
+                    "Name": "Pilot's Property Warp",
+                    "AlternateName": "Sherland Powers' Property Warp"
+                },
+                "rarityTableInfo": {
+                    "1": {
+                        "id": 17,
+                        "randmax": 75.0,
+                        "rarity": 1,
+                        "chance": 75.0,
+                        "weightedChance": 75.0
+                    },
+                    "2": {
+                        "id": 18,
+                        "randmax": 90.0,
+                        "rarity": 2,
+                        "chance": 15.0,
+                        "weightedChance": 15.0,
+                        "weightedChanceForSpecificItem": 0.15,
+                        "weightedChanceForAnyItemIncludingDrop": 0.15,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.15
+                    },
+                    "4": {
+                        "id": 19,
+                        "randmax": 100.0,
+                        "rarity": 4,
+                        "chance": 2.0,
+                        "weightedChance": 2.0
+                    },
+                    "3": {
+                        "id": 22,
+                        "randmax": 98.0,
+                        "rarity": 3,
+                        "chance": 8.0,
+                        "weightedChance": 0,
+                        "weightedChanceForSpecificItem": 0
+                    }
+                },
+                "rarityCount": {
+                    "1": 0,
+                    "2": 1,
+                    "3": 0,
+                    "4": 0,
+                    "5": 0
+                },
+                "total": 100
+            },
+            {
+                "LootTableIndex": 443,
+                "RarityTableIndex": 4,
+                "percent": 100.0,
+                "minToDrop": 1,
+                "maxToDrop": 2,
+                "size": 12,
+                "names": {
+                    "LootTableIndex": "443",
+                    "Type": "Loot",
+                    "Name": "Crux Prime Weapon Drops"
+                },
+                "rarityTableInfo": {
+                    "1": {
+                        "id": 17,
+                        "randmax": 75.0,
+                        "rarity": 1,
+                        "chance": 75.0,
+                        "weightedChance": 75.0
+                    },
+                    "2": {
+                        "id": 18,
+                        "randmax": 90.0,
+                        "rarity": 2,
+                        "chance": 15.0,
+                        "weightedChance": 15.0,
+                        "weightedChanceForSpecificItem": 0.0375,
+                        "weightedChanceForAnyItemIncludingDrop": 0.15,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.0375
+                    },
+                    "4": {
+                        "id": 19,
+                        "randmax": 100.0,
+                        "rarity": 4,
+                        "chance": 2.0,
+                        "weightedChance": 2.0,
+                        "weightedChanceForSpecificItem": 0.004,
+                        "weightedChanceForAnyItemIncludingDrop": 0.02,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.004
+                    },
+                    "3": {
+                        "id": 22,
+                        "randmax": 98.0,
+                        "rarity": 3,
+                        "chance": 8.0,
+                        "weightedChance": 8.0,
+                        "weightedChanceForSpecificItem": 0.026667,
+                        "weightedChanceForAnyItemIncludingDrop": 0.08,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.026667
+                    }
+                },
+                "rarityCount": {
+                    "1": 0,
+                    "2": 4,
+                    "3": 3,
+                    "4": 5,
+                    "5": 0
+                },
+                "total": 100
+            },
+            {
+                "LootTableIndex": 444,
+                "RarityTableIndex": 4,
+                "percent": 100.0,
+                "minToDrop": 1,
+                "maxToDrop": 2,
+                "size": 29,
+                "names": {
+                    "LootTableIndex": "444",
+                    "Type": "Loot",
+                    "Name": "Crux Prime Gear Drops"
+                },
+                "rarityTableInfo": {
+                    "1": {
+                        "id": 17,
+                        "randmax": 75.0,
+                        "rarity": 1,
+                        "chance": 75.0,
+                        "weightedChance": 75.0,
+                        "weightedChanceForSpecificItem": 0.125,
+                        "weightedChanceForAnyItemIncludingDrop": 0.75,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.125
+                    },
+                    "2": {
+                        "id": 18,
+                        "randmax": 90.0,
+                        "rarity": 2,
+                        "chance": 15.0,
+                        "weightedChance": 15.0,
+                        "weightedChanceForSpecificItem": 0.03,
+                        "weightedChanceForAnyItemIncludingDrop": 0.15,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.03
+                    },
+                    "4": {
+                        "id": 19,
+                        "randmax": 100.0,
+                        "rarity": 4,
+                        "chance": 2.0,
+                        "weightedChance": 2.0,
+                        "weightedChanceForSpecificItem": 0.001818,
+                        "weightedChanceForAnyItemIncludingDrop": 0.02,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.001818
+                    },
+                    "3": {
+                        "id": 22,
+                        "randmax": 98.0,
+                        "rarity": 3,
+                        "chance": 8.0,
+                        "weightedChance": 8.0,
+                        "weightedChanceForSpecificItem": 0.011429,
+                        "weightedChanceForAnyItemIncludingDrop": 0.08,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.011429
+                    }
+                },
+                "rarityCount": {
+                    "1": 6,
+                    "2": 5,
+                    "3": 7,
+                    "4": 11,
+                    "5": 0
+                },
+                "total": 100
+            },
+            {
+                "LootTableIndex": 445,
+                "RarityTableIndex": 4,
+                "percent": 100.0,
+                "minToDrop": 2,
+                "maxToDrop": 3,
+                "size": 10,
+                "names": {
+                    "LootTableIndex": "445",
+                    "Type": "Loot",
+                    "Name": "Crux Prime Consumables"
+                },
+                "rarityTableInfo": {
+                    "1": {
+                        "id": 17,
+                        "randmax": 75.0,
+                        "rarity": 1,
+                        "chance": 75.0,
+                        "weightedChance": 75.0,
+                        "weightedChanceForSpecificItem": 0.15,
+                        "weightedChanceForAnyItemIncludingDrop": 0.75,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.15
+                    },
+                    "2": {
+                        "id": 18,
+                        "randmax": 90.0,
+                        "rarity": 2,
+                        "chance": 15.0,
+                        "weightedChance": 15.0,
+                        "weightedChanceForSpecificItem": 0.05,
+                        "weightedChanceForAnyItemIncludingDrop": 0.15,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.05
+                    },
+                    "4": {
+                        "id": 19,
+                        "randmax": 100.0,
+                        "rarity": 4,
+                        "chance": 2.0,
+                        "weightedChance": 2.0
+                    },
+                    "3": {
+                        "id": 22,
+                        "randmax": 98.0,
+                        "rarity": 3,
+                        "chance": 8.0,
+                        "weightedChance": 8.0,
+                        "weightedChanceForSpecificItem": 0.04,
+                        "weightedChanceForAnyItemIncludingDrop": 0.08,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.04
+                    }
+                },
+                "rarityCount": {
+                    "1": 5,
+                    "2": 3,
+                    "3": 2,
+                    "4": 0,
+                    "5": 0
+                },
+                "total": 100
+            },
+            {
+                "LootTableIndex": 446,
+                "RarityTableIndex": 4,
+                "percent": 100.0,
+                "minToDrop": 2,
+                "maxToDrop": 3,
+                "size": 14,
+                "names": {
+                    "LootTableIndex": "446",
+                    "Type": "Loot",
+                    "Name": "Crux Prime Skeleton Models"
+                },
+                "rarityTableInfo": {
+                    "1": {
+                        "id": 17,
+                        "randmax": 75.0,
+                        "rarity": 1,
+                        "chance": 75.0,
+                        "weightedChance": 75.0
+                    },
+                    "2": {
+                        "id": 18,
+                        "randmax": 90.0,
+                        "rarity": 2,
+                        "chance": 15.0,
+                        "weightedChance": 15.0,
+                        "weightedChanceForSpecificItem": 0.15,
+                        "weightedChanceForAnyItemIncludingDrop": 0.15,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.15
+                    },
+                    "4": {
+                        "id": 19,
+                        "randmax": 100.0,
+                        "rarity": 4,
+                        "chance": 2.0,
+                        "weightedChance": 2.0,
+                        "weightedChanceForSpecificItem": 0.002222,
+                        "weightedChanceForAnyItemIncludingDrop": 0.02,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.002222
+                    },
+                    "3": {
+                        "id": 22,
+                        "randmax": 98.0,
+                        "rarity": 3,
+                        "chance": 8.0,
+                        "weightedChance": 8.0,
+                        "weightedChanceForSpecificItem": 0.02,
+                        "weightedChanceForAnyItemIncludingDrop": 0.08,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.02
+                    }
+                },
+                "rarityCount": {
+                    "1": 0,
+                    "2": 1,
+                    "3": 4,
+                    "4": 9,
+                    "5": 0
+                },
+                "total": 100
+            },
+            {
+                "LootTableIndex": 110,
+                "RarityTableIndex": 4,
+                "percent": 100.0,
+                "minToDrop": 5,
+                "maxToDrop": 9,
+                "size": 22,
+                "names": {
+                    "LootTableIndex": "110",
+                    "Type": "LEGO brick",
+                    "Name": "Rectangular LEGO Bricks"
+                },
+                "rarityTableInfo": {
+                    "1": {
+                        "id": 17,
+                        "randmax": 75.0,
+                        "rarity": 1,
+                        "chance": 75.0,
+                        "weightedChance": 75.0,
+                        "weightedChanceForSpecificItem": 0.034091,
+                        "weightedChanceForAnyItemIncludingDrop": 0.75,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.034091
+                    },
+                    "2": {
+                        "id": 18,
+                        "randmax": 90.0,
+                        "rarity": 2,
+                        "chance": 15.0,
+                        "weightedChance": 15.0
+                    },
+                    "4": {
+                        "id": 19,
+                        "randmax": 100.0,
+                        "rarity": 4,
+                        "chance": 2.0,
+                        "weightedChance": 2.0
+                    },
+                    "3": {
+                        "id": 22,
+                        "randmax": 98.0,
+                        "rarity": 3,
+                        "chance": 8.0,
+                        "weightedChance": 0,
+                        "weightedChanceForSpecificItem": 0
+                    }
+                },
+                "rarityCount": {
+                    "1": 22,
+                    "2": 0,
+                    "3": 0,
+                    "4": 0,
+                    "5": 0
+                },
+                "total": 100
+            },
+            {
+                "LootTableIndex": 670,
+                "RarityTableIndex": 23,
+                "percent": 100.0,
+                "minToDrop": 2,
+                "maxToDrop": 3,
+                "size": 1,
+                "names": {
+                    "LootTableIndex": "670",
+                    "Type": "Loot",
+                    "Name": "Faction Token Proxy"
+                },
+                "rarityTableInfo": {
+                    "1": {
+                        "id": 86,
+                        "randmax": 100.0,
+                        "rarity": 1,
+                        "chance": 100.0,
+                        "weightedChance": 100.0,
+                        "weightedChanceForSpecificItem": 1.0,
+                        "weightedChanceForAnyItemIncludingDrop": 1.0,
+                        "weightedChanceForSpecificItemIncludingDrop": 1.0
+                    }
+                },
+                "rarityCount": {
+                    "1": 1,
+                    "2": 0,
+                    "3": 0,
+                    "4": 0,
+                    "5": 0
+                },
+                "total": 100
+            },
+            {
+                "LootTableIndex": 88,
+                "RarityTableIndex": 9,
+                "percent": 100.0,
+                "minToDrop": 3,
+                "maxToDrop": 5,
+                "size": 1,
+                "names": {
+                    "LootTableIndex": "88",
+                    "Type": "Loot",
+                    "Name": "Maelstrom Infected Brick",
+                    "AlternateName": "Maelstrom-Infected Brick"
+                },
+                "rarityTableInfo": {
+                    "1": {
+                        "id": 37,
+                        "randmax": 100.0,
+                        "rarity": 1,
+                        "chance": 100.0,
+                        "weightedChance": 100.0,
+                        "weightedChanceForSpecificItem": 1.0,
+                        "weightedChanceForAnyItemIncludingDrop": 1.0,
+                        "weightedChanceForSpecificItemIncludingDrop": 1.0
+                    }
+                },
+                "rarityCount": {
+                    "1": 1,
+                    "2": 0,
+                    "3": 0,
+                    "4": 0,
+                    "5": 0
+                },
+                "total": 100
+            }
+        ]
+    },
+    "skillIDs": [
+        494
+    ],
+    "objectSkills": {
+        "494": {
+            "castOnType": null,
+            "AICombatWeight": 100
+        }
+    }
+}

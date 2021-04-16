@@ -1,0 +1,26 @@
+{
+    "enemyID": 6418,
+    "components": {
+        "1": 2653,
+        "2": 5800,
+        "5": 846,
+        "7": 515,
+        "9": 0,
+        "60": 4
+    },
+    "doesntDropAnything": false,
+    "drop": {
+        "DestructibleComponent": 515,
+        "LootMatrixIndex": null,
+        "LootTableIndexes": []
+    },
+    "skillIDs": [
+        239
+    ],
+    "objectSkills": {
+        "239": {
+            "castOnType": null,
+            "AICombatWeight": 100
+        }
+    }
+}

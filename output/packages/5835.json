@@ -1,4 +1,12 @@
 {
+    "objectID": 5835,
+    "itemInfo": {
+        "name": "Super Brick Booster Pack",
+        "displayName": "Super Brick Booster Pack",
+        "type": "Loot",
+        "description": "Double-click to open this pack of bricks!",
+        "internalNotes": null
+    },
     "id": 5835,
     "comp_val": 5,
     "LootMatrixIndex": 147,
@@ -23,9 +31,9 @@
                     "rarity": 1,
                     "chance": 100.0,
                     "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 4.545,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 4.545
+                    "weightedChanceForSpecificItem": 0.045455,
+                    "weightedChanceForAnyItemIncludingDrop": 1.0,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.045455
                 }
             },
             "rarityCount": {
@@ -35,7 +43,7 @@
                 "4": 0,
                 "5": 0
             },
-            "total": 100.0
+            "total": 100
         },
         {
             "LootTableIndex": 111,
@@ -56,9 +64,9 @@
                     "rarity": 1,
                     "chance": 100.0,
                     "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 0.41,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 0.41
+                    "weightedChanceForSpecificItem": 0.004098,
+                    "weightedChanceForAnyItemIncludingDrop": 1.0,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.004098
                 }
             },
             "rarityCount": {
@@ -68,7 +76,13 @@
                 "4": 0,
                 "5": 0
             },
-            "total": 100.0
+            "total": 100
         }
-    ]
+    ],
+    "components": {
+        "2": 5265,
+        "11": 2473,
+        "53": 5
+    },
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/ag_super_brickpack.png"
 }

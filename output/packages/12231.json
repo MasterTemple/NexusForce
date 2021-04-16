@@ -1,4 +1,12 @@
 {
+    "objectID": 12231,
+    "itemInfo": {
+        "name": "Winter Model Surprise Giftbox",
+        "displayName": "Winter Model Surprise Giftbox",
+        "type": "Loot",
+        "description": "Double-click to use!",
+        "internalNotes": null
+    },
     "id": 12231,
     "comp_val": 81,
     "LootMatrixIndex": 538,
@@ -22,24 +30,24 @@
                     "randmax": 75.0,
                     "rarity": 1,
                     "chance": 75.0,
-                    "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 12.5,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 12.5
+                    "weightedChance": 75.0,
+                    "weightedChanceForSpecificItem": 0.09375,
+                    "weightedChanceForAnyItemIncludingDrop": 0.75,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.09375
                 },
                 "2": {
                     "id": 18,
                     "randmax": 90.0,
                     "rarity": 2,
                     "chance": 15.0,
-                    "weightedChance": 20.0
+                    "weightedChance": 15.0
                 },
                 "4": {
                     "id": 19,
                     "randmax": 100.0,
                     "rarity": 4,
                     "chance": 2.0,
-                    "weightedChance": 2.67
+                    "weightedChance": 2.0
                 },
                 "3": {
                     "id": 22,
@@ -57,7 +65,7 @@
                 "4": 0,
                 "5": 0
             },
-            "total": 75.0
+            "total": 100
         },
         {
             "LootTableIndex": 464,
@@ -77,24 +85,24 @@
                     "randmax": 75.0,
                     "rarity": 1,
                     "chance": 75.0,
-                    "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 25.0,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 25.0
+                    "weightedChance": 75.0,
+                    "weightedChanceForSpecificItem": 0.1875,
+                    "weightedChanceForAnyItemIncludingDrop": 0.75,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.1875
                 },
                 "2": {
                     "id": 18,
                     "randmax": 90.0,
                     "rarity": 2,
                     "chance": 15.0,
-                    "weightedChance": 20.0
+                    "weightedChance": 15.0
                 },
                 "4": {
                     "id": 19,
                     "randmax": 100.0,
                     "rarity": 4,
                     "chance": 2.0,
-                    "weightedChance": 2.67
+                    "weightedChance": 2.0
                 },
                 "3": {
                     "id": 22,
@@ -112,7 +120,7 @@
                 "4": 0,
                 "5": 0
             },
-            "total": 75.0
+            "total": 100
         },
         {
             "LootTableIndex": 456,
@@ -132,24 +140,24 @@
                     "randmax": 75.0,
                     "rarity": 1,
                     "chance": 75.0,
-                    "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 11.111,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 11.111
+                    "weightedChance": 75.0,
+                    "weightedChanceForSpecificItem": 0.083333,
+                    "weightedChanceForAnyItemIncludingDrop": 0.75,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.083333
                 },
                 "2": {
                     "id": 18,
                     "randmax": 90.0,
                     "rarity": 2,
                     "chance": 15.0,
-                    "weightedChance": 20.0
+                    "weightedChance": 15.0
                 },
                 "4": {
                     "id": 19,
                     "randmax": 100.0,
                     "rarity": 4,
                     "chance": 2.0,
-                    "weightedChance": 2.67
+                    "weightedChance": 2.0
                 },
                 "3": {
                     "id": 22,
@@ -167,7 +175,13 @@
                 "4": 0,
                 "5": 0
             },
-            "total": 75.0
+            "total": 100
         }
-    ]
+    ],
+    "components": {
+        "2": 11978,
+        "11": 6023,
+        "53": 81
+    },
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_winter_01.png"
 }

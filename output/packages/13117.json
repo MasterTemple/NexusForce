@@ -1,4 +1,12 @@
 {
+    "objectID": 13117,
+    "itemInfo": {
+        "name": "CP Model Surprise Pack",
+        "displayName": "Surprise Model Pack",
+        "type": "Loot",
+        "description": "Double-click to use!",
+        "internalNotes": "Mission reward that pulls from loot table - idea is to trade/sell to other players"
+    },
     "id": 13117,
     "comp_val": 117,
     "LootMatrixIndex": 673,
@@ -22,20 +30,20 @@
                     "randmax": 85.0,
                     "rarity": 3,
                     "chance": 85.0,
-                    "weightedChance": 45.95,
-                    "weightedChanceForSpecificItem": 22.973,
-                    "weightedChanceForAnyItemIncludingDrop": 45.946,
-                    "weightedChanceForSpecificItemIncludingDrop": 22.973
+                    "weightedChance": 85.0,
+                    "weightedChanceForSpecificItem": 0.425,
+                    "weightedChanceForAnyItemIncludingDrop": 0.85,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.425
                 },
                 "4": {
                     "id": 98,
                     "randmax": 100.0,
                     "rarity": 4,
                     "chance": 100.0,
-                    "weightedChance": 54.05,
-                    "weightedChanceForSpecificItem": 27.027,
-                    "weightedChanceForAnyItemIncludingDrop": 54.054,
-                    "weightedChanceForSpecificItemIncludingDrop": 27.027
+                    "weightedChance": 100.0,
+                    "weightedChanceForSpecificItem": 0.5,
+                    "weightedChanceForAnyItemIncludingDrop": 1.0,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.5
                 }
             },
             "rarityCount": {
@@ -45,7 +53,7 @@
                 "4": 2,
                 "5": 0
             },
-            "total": 185.0
+            "total": 100
         },
         {
             "LootTableIndex": 592,
@@ -65,20 +73,20 @@
                     "randmax": 85.0,
                     "rarity": 3,
                     "chance": 85.0,
-                    "weightedChance": 45.95,
-                    "weightedChanceForSpecificItem": 45.946,
-                    "weightedChanceForAnyItemIncludingDrop": 36.757,
-                    "weightedChanceForSpecificItemIncludingDrop": 36.757
+                    "weightedChance": 85.0,
+                    "weightedChanceForSpecificItem": 0.85,
+                    "weightedChanceForAnyItemIncludingDrop": 0.68,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.68
                 },
                 "4": {
                     "id": 98,
                     "randmax": 100.0,
                     "rarity": 4,
                     "chance": 100.0,
-                    "weightedChance": 54.05,
-                    "weightedChanceForSpecificItem": 18.018,
-                    "weightedChanceForAnyItemIncludingDrop": 43.243,
-                    "weightedChanceForSpecificItemIncludingDrop": 14.414
+                    "weightedChance": 100.0,
+                    "weightedChanceForSpecificItem": 0.333333,
+                    "weightedChanceForAnyItemIncludingDrop": 0.8,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.266667
                 }
             },
             "rarityCount": {
@@ -88,7 +96,7 @@
                 "4": 3,
                 "5": 0
             },
-            "total": 185.0
+            "total": 100
         },
         {
             "LootTableIndex": 593,
@@ -116,9 +124,9 @@
                     "rarity": 4,
                     "chance": 100.0,
                     "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 50.0,
-                    "weightedChanceForAnyItemIncludingDrop": 30.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 15.0
+                    "weightedChanceForSpecificItem": 0.5,
+                    "weightedChanceForAnyItemIncludingDrop": 0.3,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.15
                 }
             },
             "rarityCount": {
@@ -128,7 +136,7 @@
                 "4": 2,
                 "5": 0
             },
-            "total": 100.0
+            "total": 100
         },
         {
             "LootTableIndex": 594,
@@ -148,20 +156,20 @@
                     "randmax": 85.0,
                     "rarity": 3,
                     "chance": 85.0,
-                    "weightedChance": 45.95,
-                    "weightedChanceForSpecificItem": 45.946,
-                    "weightedChanceForAnyItemIncludingDrop": 4.595,
-                    "weightedChanceForSpecificItemIncludingDrop": 4.595
+                    "weightedChance": 85.0,
+                    "weightedChanceForSpecificItem": 0.85,
+                    "weightedChanceForAnyItemIncludingDrop": 0.085,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.085
                 },
                 "4": {
                     "id": 98,
                     "randmax": 100.0,
                     "rarity": 4,
                     "chance": 100.0,
-                    "weightedChance": 54.05,
-                    "weightedChanceForSpecificItem": 54.054,
-                    "weightedChanceForAnyItemIncludingDrop": 5.405,
-                    "weightedChanceForSpecificItemIncludingDrop": 5.405
+                    "weightedChance": 100.0,
+                    "weightedChanceForSpecificItem": 1.0,
+                    "weightedChanceForAnyItemIncludingDrop": 0.1,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.1
                 }
             },
             "rarityCount": {
@@ -171,7 +179,13 @@
                 "4": 1,
                 "5": 0
             },
-            "total": 185.0
+            "total": 100
         }
-    ]
+    ],
+    "components": {
+        "2": 12893,
+        "11": 6504,
+        "53": 117
+    },
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_rectangle_black_light_blue.png"
 }

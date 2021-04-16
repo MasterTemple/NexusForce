@@ -1,4 +1,12 @@
 {
+    "objectID": 13529,
+    "itemInfo": {
+        "name": "Nexus Tower Gift Bag",
+        "displayName": "Nexus Tower Gift Bag",
+        "type": "Loot",
+        "description": "Double-click to open this bag of supplies!",
+        "internalNotes": ""
+    },
     "id": 13529,
     "comp_val": 121,
     "LootMatrixIndex": 686,
@@ -24,9 +32,9 @@
                     "rarity": 1,
                     "chance": 100.0,
                     "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 100.0,
-                    "weightedChanceForAnyItemIncludingDrop": 80.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 80.0
+                    "weightedChanceForSpecificItem": 1.0,
+                    "weightedChanceForAnyItemIncludingDrop": 0.8,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.8
                 }
             },
             "rarityCount": {
@@ -36,7 +44,7 @@
                 "4": 0,
                 "5": 0
             },
-            "total": 100.0
+            "total": 100
         },
         {
             "LootTableIndex": 575,
@@ -57,9 +65,9 @@
                     "rarity": 1,
                     "chance": 75.0,
                     "weightedChance": 75.0,
-                    "weightedChanceForSpecificItem": 3.125,
-                    "weightedChanceForAnyItemIncludingDrop": 75.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 3.125
+                    "weightedChanceForSpecificItem": 0.03125,
+                    "weightedChanceForAnyItemIncludingDrop": 0.75,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.03125
                 },
                 "2": {
                     "id": 18,
@@ -67,9 +75,9 @@
                     "rarity": 2,
                     "chance": 15.0,
                     "weightedChance": 15.0,
-                    "weightedChanceForSpecificItem": 0.312,
-                    "weightedChanceForAnyItemIncludingDrop": 15.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 0.312
+                    "weightedChanceForSpecificItem": 0.003125,
+                    "weightedChanceForAnyItemIncludingDrop": 0.15,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.003125
                 },
                 "4": {
                     "id": 19,
@@ -77,9 +85,9 @@
                     "rarity": 4,
                     "chance": 2.0,
                     "weightedChance": 2.0,
-                    "weightedChanceForSpecificItem": 1.0,
-                    "weightedChanceForAnyItemIncludingDrop": 2.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 1.0
+                    "weightedChanceForSpecificItem": 0.01,
+                    "weightedChanceForAnyItemIncludingDrop": 0.02,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.01
                 },
                 "3": {
                     "id": 22,
@@ -87,9 +95,9 @@
                     "rarity": 3,
                     "chance": 8.0,
                     "weightedChance": 8.0,
-                    "weightedChanceForSpecificItem": 0.727,
-                    "weightedChanceForAnyItemIncludingDrop": 8.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 0.727
+                    "weightedChanceForSpecificItem": 0.007273,
+                    "weightedChanceForAnyItemIncludingDrop": 0.08,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.007273
                 }
             },
             "rarityCount": {
@@ -99,7 +107,13 @@
                 "4": 2,
                 "5": 0
             },
-            "total": 100.0
+            "total": 100
         }
-    ]
+    ],
+    "components": {
+        "2": 13265,
+        "11": 6679,
+        "53": 121
+    },
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/bag_purple_light_blue.png"
 }

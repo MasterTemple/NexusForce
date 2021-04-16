@@ -92,7 +92,7 @@ module.exports = {
         }else{
             var description = `**Equip Locations:** ${item?.itemComponent?.equipLocationNames?.join(`, `)}`
         }
-        let embed = msgEmbed.execute(`${item.itemInfo.displayName} [${item.objectID}]`, description, `https://lu-explorer.web.app/objects/${item.itemID}`, item.iconURL)
+        let embed = msgEmbed.execute(`${item.itemInfo.displayName} [${item.objectID}]`, description, `https://lu-explorer.web.app/objects/${itemID}`, item.iconURL)
 
         embed.addFields(
             { name: 'Name', value: item.itemInfo.name, inline: true },

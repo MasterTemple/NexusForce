@@ -1,4 +1,12 @@
 {
+    "objectID": 10516,
+    "itemInfo": {
+        "name": "Pirate Fort Model Pack 4",
+        "displayName": "Pirate Fort Model Pack 4",
+        "type": "Loot",
+        "description": "Double-click to open this pack of models!",
+        "internalNotes": null
+    },
     "id": 10516,
     "comp_val": 57,
     "LootMatrixIndex": 433,
@@ -193,5 +201,11 @@
             },
             "total": 0
         }
-    ]
+    ],
+    "components": {
+        "2": 10369,
+        "11": 5194,
+        "53": 57
+    },
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_blue.png"
 }

@@ -1,4 +1,12 @@
 {
+    "objectID": 9773,
+    "itemInfo": {
+        "name": "Medieval Model Pack 1",
+        "displayName": "Medieval Model Pack 1",
+        "type": "Loot",
+        "description": "Double-click to open this pack of models!",
+        "internalNotes": "Village stable, vendor, and axe cart"
+    },
     "id": 9773,
     "comp_val": 32,
     "LootMatrixIndex": 389,
@@ -85,9 +93,9 @@
                     "rarity": 4,
                     "chance": 100.0,
                     "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 100.0,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 100.0
+                    "weightedChanceForSpecificItem": 1.0,
+                    "weightedChanceForAnyItemIncludingDrop": 1.0,
+                    "weightedChanceForSpecificItemIncludingDrop": 1.0
                 }
             },
             "rarityCount": {
@@ -97,7 +105,13 @@
                 "4": 1,
                 "5": 0
             },
-            "total": 100.0
+            "total": 100
         }
-    ]
+    ],
+    "components": {
+        "2": 9610,
+        "11": 4750,
+        "53": 32
+    },
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_green.png"
 }

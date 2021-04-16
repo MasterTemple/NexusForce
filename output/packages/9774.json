@@ -1,4 +1,12 @@
 {
+    "objectID": 9774,
+    "itemInfo": {
+        "name": "Medieval Village Pack 2",
+        "displayName": "Medieval Village Pack 2",
+        "type": "Loot",
+        "description": "Double-click to open this pack of models!",
+        "internalNotes": "Forge, wagon, and weapon rack"
+    },
     "id": 9774,
     "comp_val": 33,
     "LootMatrixIndex": 390,
@@ -24,9 +32,9 @@
                     "rarity": 4,
                     "chance": 100.0,
                     "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 100.0,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 100.0
+                    "weightedChanceForSpecificItem": 1.0,
+                    "weightedChanceForAnyItemIncludingDrop": 1.0,
+                    "weightedChanceForSpecificItemIncludingDrop": 1.0
                 }
             },
             "rarityCount": {
@@ -36,7 +44,7 @@
                 "4": 1,
                 "5": 0
             },
-            "total": 100.0
+            "total": 100
         },
         {
             "LootTableIndex": 263,
@@ -102,5 +110,11 @@
             },
             "total": 0
         }
-    ]
+    ],
+    "components": {
+        "2": 9611,
+        "11": 4751,
+        "53": 33
+    },
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_blue.png"
 }

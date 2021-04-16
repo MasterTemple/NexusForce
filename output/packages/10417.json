@@ -1,4 +1,12 @@
 {
+    "objectID": 10417,
+    "itemInfo": {
+        "name": "Fancy Tree Model Pack",
+        "displayName": "Fancy Tree Model Pack",
+        "type": "Loot",
+        "description": "Double-click to open this pack of models!",
+        "internalNotes": null
+    },
     "id": 10417,
     "comp_val": 52,
     "LootMatrixIndex": 425,
@@ -196,5 +204,11 @@
             },
             "total": 0
         }
-    ]
+    ],
+    "components": {
+        "2": 10261,
+        "11": 5141,
+        "53": 52
+    },
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_blue.png"
 }

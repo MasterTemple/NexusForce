@@ -1,4 +1,12 @@
 {
+    "objectID": 11162,
+    "itemInfo": {
+        "name": "Ninja Garden Model Pack 1",
+        "displayName": "Ninja Garden Model Pack 1",
+        "type": "Loot",
+        "description": "Double-click to open this pack of models!",
+        "internalNotes": null
+    },
     "id": 11162,
     "comp_val": 61,
     "LootMatrixIndex": 443,
@@ -164,5 +172,11 @@
             },
             "total": 0
         }
-    ]
+    ],
+    "components": {
+        "2": 10911,
+        "11": 5459,
+        "53": 61
+    },
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_green.png"
 }

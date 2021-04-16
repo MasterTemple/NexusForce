@@ -1,4 +1,12 @@
 {
+    "objectID": 9776,
+    "itemInfo": {
+        "name": "Space Model Pack",
+        "displayName": "Space Model Pack",
+        "type": "Loot",
+        "description": "Double-click to open this pack of models!",
+        "internalNotes": "Assorted Space themed models"
+    },
     "id": 9776,
     "comp_val": 35,
     "LootMatrixIndex": 392,
@@ -196,5 +204,11 @@
             },
             "total": 0
         }
-    ]
+    ],
+    "components": {
+        "2": 9613,
+        "11": 4753,
+        "53": 35
+    },
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_red.png"
 }

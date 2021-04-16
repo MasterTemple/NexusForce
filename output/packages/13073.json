@@ -1,4 +1,12 @@
 {
+    "objectID": 13073,
+    "itemInfo": {
+        "name": "Bone Car Part Pack",
+        "displayName": "Fright Speed Car Part Pack",
+        "type": "Loot",
+        "description": "Double-click to use!",
+        "internalNotes": ""
+    },
     "id": 13073,
     "comp_val": 108,
     "LootMatrixIndex": 657,
@@ -23,9 +31,9 @@
                     "rarity": 2,
                     "chance": 100.0,
                     "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 20.0,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 20.0
+                    "weightedChanceForSpecificItem": 0.2,
+                    "weightedChanceForAnyItemIncludingDrop": 1.0,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.2
                 }
             },
             "rarityCount": {
@@ -35,7 +43,13 @@
                 "4": 0,
                 "5": 0
             },
-            "total": 100.0
+            "total": 100
         }
-    ]
+    ],
+    "components": {
+        "2": 12853,
+        "11": 6492,
+        "53": 108
+    },
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_black.png"
 }

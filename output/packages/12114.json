@@ -1,4 +1,12 @@
 {
+    "objectID": 12114,
+    "itemInfo": {
+        "name": "S.N.A.C.K.",
+        "displayName": "S.N.A.C.K.",
+        "type": "Loot",
+        "description": "Double-click to unwrap this S.N.A.C.K. pack!",
+        "internalNotes": "consumable"
+    },
     "id": 12114,
     "comp_val": 106,
     "LootMatrixIndex": 654,
@@ -22,37 +30,37 @@
                     "randmax": 95.0,
                     "rarity": 3,
                     "chance": 20.0,
-                    "weightedChance": 25.0
+                    "weightedChance": 20.0
                 },
                 "2": {
                     "id": 12,
                     "randmax": 75.0,
                     "rarity": 2,
                     "chance": 25.0,
-                    "weightedChance": 31.25,
-                    "weightedChanceForSpecificItem": 7.812,
-                    "weightedChanceForAnyItemIncludingDrop": 31.25,
-                    "weightedChanceForSpecificItemIncludingDrop": 7.812
+                    "weightedChance": 25.0,
+                    "weightedChanceForSpecificItem": 0.0625,
+                    "weightedChanceForAnyItemIncludingDrop": 0.25,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.0625
                 },
                 "1": {
                     "id": 13,
                     "randmax": 50.0,
                     "rarity": 1,
                     "chance": 50.0,
-                    "weightedChance": 62.5,
-                    "weightedChanceForSpecificItem": 5.208,
-                    "weightedChanceForAnyItemIncludingDrop": 62.5,
-                    "weightedChanceForSpecificItemIncludingDrop": 5.208
+                    "weightedChance": 50.0,
+                    "weightedChanceForSpecificItem": 0.041667,
+                    "weightedChanceForAnyItemIncludingDrop": 0.5,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.041667
                 },
                 "4": {
                     "id": 42,
                     "randmax": 100.0,
                     "rarity": 4,
                     "chance": 5.0,
-                    "weightedChance": 6.25,
-                    "weightedChanceForSpecificItem": 6.25,
-                    "weightedChanceForAnyItemIncludingDrop": 6.25,
-                    "weightedChanceForSpecificItemIncludingDrop": 6.25
+                    "weightedChance": 5.0,
+                    "weightedChanceForSpecificItem": 0.05,
+                    "weightedChanceForAnyItemIncludingDrop": 0.05,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.05
                 }
             },
             "rarityCount": {
@@ -62,7 +70,13 @@
                 "4": 1,
                 "5": 0
             },
-            "total": 80.0
+            "total": 100
         }
-    ]
+    ],
+    "components": {
+        "2": 11863,
+        "11": 6006,
+        "53": 106
+    },
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/misc/snacks.png"
 }

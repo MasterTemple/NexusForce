@@ -1,4 +1,12 @@
 {
+    "objectID": 10700,
+    "itemInfo": {
+        "name": "Brickmaster Model Pack",
+        "displayName": "Brickmaster Model Pack",
+        "type": "Loot",
+        "description": "Double-click to open this pack of models!",
+        "internalNotes": null
+    },
     "id": 10700,
     "comp_val": 58,
     "LootMatrixIndex": 437,
@@ -94,5 +102,11 @@
             },
             "total": 0
         }
-    ]
+    ],
+    "components": {
+        "2": 10551,
+        "11": 5201,
+        "53": 58
+    },
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_blue.png"
 }

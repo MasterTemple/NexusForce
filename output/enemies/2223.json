@@ -1,0 +1,12 @@
+{
+    "enemyID": 2223,
+    "components": {
+        "1": 1056,
+        "2": 1760,
+        "5": 155,
+        "17": 1
+    },
+    "doesntDropAnything": true,
+    "skillIDs": [],
+    "objectSkills": {}
+}

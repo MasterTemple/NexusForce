@@ -1,4 +1,12 @@
 {
+    "objectID": 9775,
+    "itemInfo": {
+        "name": "Basic Tree Model Pack",
+        "displayName": "Basic Tree Model Pack",
+        "type": "Loot",
+        "description": "Double-click to open this pack of models!",
+        "internalNotes": "5 basic trees"
+    },
     "id": 9775,
     "comp_val": 34,
     "LootMatrixIndex": 391,
@@ -164,5 +172,11 @@
             },
             "total": 0
         }
-    ]
+    ],
+    "components": {
+        "2": 9612,
+        "11": 4752,
+        "53": 34
+    },
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_gray.png"
 }

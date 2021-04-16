@@ -1,4 +1,12 @@
 {
+    "objectID": 5836,
+    "itemInfo": {
+        "name": "Picnic Basket",
+        "displayName": "Picnic Basket",
+        "type": "Loot",
+        "description": "Double-click to open!",
+        "internalNotes": "+Random consumables"
+    },
     "id": 5836,
     "comp_val": 2,
     "LootMatrixIndex": 148,
@@ -22,27 +30,27 @@
                     "randmax": 95.0,
                     "rarity": 3,
                     "chance": 20.0,
-                    "weightedChance": 26.67
+                    "weightedChance": 20.0
                 },
                 "2": {
                     "id": 12,
                     "randmax": 75.0,
                     "rarity": 2,
                     "chance": 25.0,
-                    "weightedChance": 33.33,
-                    "weightedChanceForSpecificItem": 33.333,
-                    "weightedChanceForAnyItemIncludingDrop": 33.333,
-                    "weightedChanceForSpecificItemIncludingDrop": 33.333
+                    "weightedChance": 25.0,
+                    "weightedChanceForSpecificItem": 0.25,
+                    "weightedChanceForAnyItemIncludingDrop": 0.25,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.25
                 },
                 "1": {
                     "id": 13,
                     "randmax": 50.0,
                     "rarity": 1,
                     "chance": 50.0,
-                    "weightedChance": 66.67,
-                    "weightedChanceForSpecificItem": 5.128,
-                    "weightedChanceForAnyItemIncludingDrop": 66.667,
-                    "weightedChanceForSpecificItemIncludingDrop": 5.128
+                    "weightedChance": 50.0,
+                    "weightedChanceForSpecificItem": 0.038462,
+                    "weightedChanceForAnyItemIncludingDrop": 0.5,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.038462
                 },
                 "4": {
                     "id": 42,
@@ -60,7 +68,13 @@
                 "4": 0,
                 "5": 0
             },
-            "total": 75.0
+            "total": 100
         }
-    ]
+    ],
+    "components": {
+        "2": 5266,
+        "11": 2474,
+        "53": 2
+    },
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/ag_picnic_basket.png"
 }

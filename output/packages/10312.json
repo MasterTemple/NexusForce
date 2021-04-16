@@ -1,4 +1,12 @@
 {
+    "objectID": 10312,
+    "itemInfo": {
+        "name": "Pre-Order Astronaut Pack",
+        "displayName": "Pre-Order Astronaut Pack",
+        "type": "Loot",
+        "description": "Double-click to open!",
+        "internalNotes": "Promo Item for PreOrders - Contains Helmet, Shirt, and Pants"
+    },
     "id": 10312,
     "comp_val": 43,
     "LootMatrixIndex": 415,
@@ -97,5 +105,11 @@
             },
             "total": 0
         }
-    ]
+    ],
+    "components": {
+        "2": 10158,
+        "11": 5064,
+        "53": 43
+    },
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_orange.png"
 }

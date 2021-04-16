@@ -1,4 +1,12 @@
 {
+    "objectID": 13604,
+    "itemInfo": {
+        "name": "AG-NS Model Surprise Pack",
+        "displayName": "Surprise Model Pack",
+        "type": "Loot",
+        "description": "Double-click to use!",
+        "internalNotes": "Mission reward that pulls from loot table - idea is to trade/sell to other players"
+    },
     "id": 13604,
     "comp_val": 122,
     "LootMatrixIndex": 705,
@@ -23,20 +31,20 @@
                     "randmax": 85.0,
                     "rarity": 3,
                     "chance": 85.0,
-                    "weightedChance": 45.95,
-                    "weightedChanceForSpecificItem": 2.297,
-                    "weightedChanceForAnyItemIncludingDrop": 45.946,
-                    "weightedChanceForSpecificItemIncludingDrop": 2.297
+                    "weightedChance": 85.0,
+                    "weightedChanceForSpecificItem": 0.0425,
+                    "weightedChanceForAnyItemIncludingDrop": 0.85,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.0425
                 },
                 "4": {
                     "id": 98,
                     "randmax": 100.0,
                     "rarity": 4,
                     "chance": 100.0,
-                    "weightedChance": 54.05,
-                    "weightedChanceForSpecificItem": 3.861,
-                    "weightedChanceForAnyItemIncludingDrop": 54.054,
-                    "weightedChanceForSpecificItemIncludingDrop": 3.861
+                    "weightedChance": 100.0,
+                    "weightedChanceForSpecificItem": 0.071429,
+                    "weightedChanceForAnyItemIncludingDrop": 1.0,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.071429
                 }
             },
             "rarityCount": {
@@ -46,7 +54,7 @@
                 "4": 14,
                 "5": 0
             },
-            "total": 185.0
+            "total": 100
         },
         {
             "LootTableIndex": 184,
@@ -67,10 +75,10 @@
                     "randmax": 85.0,
                     "rarity": 3,
                     "chance": 85.0,
-                    "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 50.0,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 50.0
+                    "weightedChance": 85.0,
+                    "weightedChanceForSpecificItem": 0.425,
+                    "weightedChanceForAnyItemIncludingDrop": 0.85,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.425
                 },
                 "4": {
                     "id": 98,
@@ -88,7 +96,13 @@
                 "4": 0,
                 "5": 0
             },
-            "total": 85.0
+            "total": 100
         }
-    ]
+    ],
+    "components": {
+        "2": 13341,
+        "11": 6725,
+        "53": 122
+    },
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_rectangle_red_blue.png"
 }

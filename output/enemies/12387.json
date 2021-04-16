@@ -1,0 +1,299 @@
+{
+    "enemyID": 12387,
+    "components": {
+        "1": 6071,
+        "2": 12139,
+        "5": 1347,
+        "7": 1703,
+        "9": 0,
+        "31": 61,
+        "60": 96
+    },
+    "doesntDropAnything": false,
+    "drop": {
+        "DestructibleComponent": 1703,
+        "LootMatrixIndex": 593,
+        "LootTableIndexes": [
+            {
+                "LootTableIndex": 467,
+                "RarityTableIndex": 4,
+                "percent": 5.0,
+                "minToDrop": 1,
+                "maxToDrop": 1,
+                "size": 13,
+                "names": {
+                    "LootTableIndex": "467",
+                    "Type": "Loot",
+                    "Name": "RVE Gear Drops"
+                },
+                "rarityTableInfo": {
+                    "1": {
+                        "id": 17,
+                        "randmax": 75.0,
+                        "rarity": 1,
+                        "chance": 75.0,
+                        "weightedChance": 75.0,
+                        "weightedChanceForSpecificItem": 0.107143,
+                        "weightedChanceForAnyItemIncludingDrop": 0.0375,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.005357
+                    },
+                    "2": {
+                        "id": 18,
+                        "randmax": 90.0,
+                        "rarity": 2,
+                        "chance": 15.0,
+                        "weightedChance": 15.0,
+                        "weightedChanceForSpecificItem": 0.0375,
+                        "weightedChanceForAnyItemIncludingDrop": 0.0075,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.001875
+                    },
+                    "4": {
+                        "id": 19,
+                        "randmax": 100.0,
+                        "rarity": 4,
+                        "chance": 2.0,
+                        "weightedChance": 2.0
+                    },
+                    "3": {
+                        "id": 22,
+                        "randmax": 98.0,
+                        "rarity": 3,
+                        "chance": 8.0,
+                        "weightedChance": 8.0,
+                        "weightedChanceForSpecificItem": 0.04,
+                        "weightedChanceForAnyItemIncludingDrop": 0.004,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.002
+                    }
+                },
+                "rarityCount": {
+                    "1": 7,
+                    "2": 4,
+                    "3": 2,
+                    "4": 0,
+                    "5": 0
+                },
+                "total": 100
+            },
+            {
+                "LootTableIndex": 468,
+                "RarityTableIndex": 4,
+                "percent": 50.0,
+                "minToDrop": 1,
+                "maxToDrop": 1,
+                "size": 10,
+                "names": {
+                    "LootTableIndex": "468",
+                    "Type": "Loot",
+                    "Name": "RVE Consumable Drops?"
+                },
+                "rarityTableInfo": {
+                    "1": {
+                        "id": 17,
+                        "randmax": 75.0,
+                        "rarity": 1,
+                        "chance": 75.0,
+                        "weightedChance": 75.0,
+                        "weightedChanceForSpecificItem": 0.09375,
+                        "weightedChanceForAnyItemIncludingDrop": 0.375,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.046875
+                    },
+                    "2": {
+                        "id": 18,
+                        "randmax": 90.0,
+                        "rarity": 2,
+                        "chance": 15.0,
+                        "weightedChance": 15.0
+                    },
+                    "4": {
+                        "id": 19,
+                        "randmax": 100.0,
+                        "rarity": 4,
+                        "chance": 2.0,
+                        "weightedChance": 2.0
+                    },
+                    "3": {
+                        "id": 22,
+                        "randmax": 98.0,
+                        "rarity": 3,
+                        "chance": 8.0,
+                        "weightedChance": 8.0,
+                        "weightedChanceForSpecificItem": 0.04,
+                        "weightedChanceForAnyItemIncludingDrop": 0.04,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.02
+                    }
+                },
+                "rarityCount": {
+                    "1": 8,
+                    "2": 0,
+                    "3": 2,
+                    "4": 0,
+                    "5": 0
+                },
+                "total": 100
+            },
+            {
+                "LootTableIndex": 416,
+                "RarityTableIndex": 29,
+                "percent": 100.0,
+                "minToDrop": 2,
+                "maxToDrop": 3,
+                "size": 1,
+                "names": {
+                    "LootTableIndex": "416",
+                    "Type": "Powerup",
+                    "Name": "Life Powerup 3 points"
+                },
+                "rarityTableInfo": {
+                    "1": {
+                        "id": 95,
+                        "randmax": 75.0,
+                        "rarity": 1,
+                        "chance": 75.0
+                    },
+                    "2": {
+                        "id": 96,
+                        "randmax": 100.0,
+                        "rarity": 2,
+                        "chance": 25.0,
+                        "weightedChance": 0,
+                        "weightedChanceForSpecificItem": 0
+                    }
+                },
+                "rarityCount": {
+                    "1": 0,
+                    "2": 0,
+                    "3": 0,
+                    "4": 0,
+                    "5": 0
+                },
+                "total": 0
+            },
+            {
+                "LootTableIndex": 420,
+                "RarityTableIndex": 29,
+                "percent": 100.0,
+                "minToDrop": 3,
+                "maxToDrop": 4,
+                "size": 1,
+                "names": {
+                    "LootTableIndex": "420",
+                    "Type": "Powerup",
+                    "Name": "Imagination Powerup 3 points"
+                },
+                "rarityTableInfo": {
+                    "1": {
+                        "id": 95,
+                        "randmax": 75.0,
+                        "rarity": 1,
+                        "chance": 75.0
+                    },
+                    "2": {
+                        "id": 96,
+                        "randmax": 100.0,
+                        "rarity": 2,
+                        "chance": 25.0,
+                        "weightedChance": 0,
+                        "weightedChanceForSpecificItem": 0
+                    }
+                },
+                "rarityCount": {
+                    "1": 0,
+                    "2": 0,
+                    "3": 0,
+                    "4": 0,
+                    "5": 0
+                },
+                "total": 0
+            },
+            {
+                "LootTableIndex": 423,
+                "RarityTableIndex": 29,
+                "percent": 100.0,
+                "minToDrop": 2,
+                "maxToDrop": 3,
+                "size": 1,
+                "names": {
+                    "LootTableIndex": "423",
+                    "Type": "Powerup",
+                    "Name": "Armor Powerup 2 points"
+                },
+                "rarityTableInfo": {
+                    "1": {
+                        "id": 95,
+                        "randmax": 75.0,
+                        "rarity": 1,
+                        "chance": 75.0
+                    },
+                    "2": {
+                        "id": 96,
+                        "randmax": 100.0,
+                        "rarity": 2,
+                        "chance": 25.0,
+                        "weightedChance": 0,
+                        "weightedChanceForSpecificItem": 0
+                    }
+                },
+                "rarityCount": {
+                    "1": 0,
+                    "2": 0,
+                    "3": 0,
+                    "4": 0,
+                    "5": 0
+                },
+                "total": 0
+            },
+            {
+                "LootTableIndex": 670,
+                "RarityTableIndex": 23,
+                "percent": 50.0,
+                "minToDrop": 1,
+                "maxToDrop": 2,
+                "size": 1,
+                "names": {
+                    "LootTableIndex": "670",
+                    "Type": "Loot",
+                    "Name": "Faction Token Proxy"
+                },
+                "rarityTableInfo": {
+                    "1": {
+                        "id": 86,
+                        "randmax": 100.0,
+                        "rarity": 1,
+                        "chance": 100.0,
+                        "weightedChance": 100.0,
+                        "weightedChanceForSpecificItem": 1.0,
+                        "weightedChanceForAnyItemIncludingDrop": 0.5,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.5
+                    }
+                },
+                "rarityCount": {
+                    "1": 1,
+                    "2": 0,
+                    "3": 0,
+                    "4": 0,
+                    "5": 0
+                },
+                "total": 100
+            }
+        ]
+    },
+    "skillIDs": [
+        229,
+        490,
+        833
+    ],
+    "objectSkills": {
+        "229": {
+            "castOnType": null,
+            "AICombatWeight": 20
+        },
+        "490": {
+            "castOnType": null,
+            "AICombatWeight": 80
+        },
+        "833": {
+            "castOnType": null,
+            "AICombatWeight": 10
+        }
+    }
+}

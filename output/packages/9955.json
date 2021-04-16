@@ -1,4 +1,12 @@
 {
+    "objectID": 9955,
+    "itemInfo": {
+        "name": "Hyperstarter Blue Pack for Beta",
+        "displayName": "Hyperstarter Blue Pack for Beta",
+        "type": "Loot",
+        "description": "Double-click to get the blue Starter Car modules!",
+        "internalNotes": null
+    },
     "id": 9955,
     "comp_val": 38,
     "LootMatrixIndex": 402,
@@ -23,24 +31,24 @@
                     "randmax": 75.0,
                     "rarity": 1,
                     "chance": 75.0,
-                    "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 100.0,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 100.0
+                    "weightedChance": 75.0,
+                    "weightedChanceForSpecificItem": 0.75,
+                    "weightedChanceForAnyItemIncludingDrop": 0.75,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.75
                 },
                 "2": {
                     "id": 18,
                     "randmax": 90.0,
                     "rarity": 2,
                     "chance": 15.0,
-                    "weightedChance": 20.0
+                    "weightedChance": 15.0
                 },
                 "4": {
                     "id": 19,
                     "randmax": 100.0,
                     "rarity": 4,
                     "chance": 2.0,
-                    "weightedChance": 2.67
+                    "weightedChance": 2.0
                 },
                 "3": {
                     "id": 22,
@@ -58,7 +66,7 @@
                 "4": 0,
                 "5": 0
             },
-            "total": 75.0
+            "total": 100
         },
         {
             "LootTableIndex": 211,
@@ -79,24 +87,24 @@
                     "randmax": 75.0,
                     "rarity": 1,
                     "chance": 75.0,
-                    "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 100.0,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 100.0
+                    "weightedChance": 75.0,
+                    "weightedChanceForSpecificItem": 0.75,
+                    "weightedChanceForAnyItemIncludingDrop": 0.75,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.75
                 },
                 "2": {
                     "id": 18,
                     "randmax": 90.0,
                     "rarity": 2,
                     "chance": 15.0,
-                    "weightedChance": 20.0
+                    "weightedChance": 15.0
                 },
                 "4": {
                     "id": 19,
                     "randmax": 100.0,
                     "rarity": 4,
                     "chance": 2.0,
-                    "weightedChance": 2.67
+                    "weightedChance": 2.0
                 },
                 "3": {
                     "id": 22,
@@ -114,7 +122,7 @@
                 "4": 0,
                 "5": 0
             },
-            "total": 75.0
+            "total": 100
         },
         {
             "LootTableIndex": 212,
@@ -135,24 +143,24 @@
                     "randmax": 75.0,
                     "rarity": 1,
                     "chance": 75.0,
-                    "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 100.0,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 100.0
+                    "weightedChance": 75.0,
+                    "weightedChanceForSpecificItem": 0.75,
+                    "weightedChanceForAnyItemIncludingDrop": 0.75,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.75
                 },
                 "2": {
                     "id": 18,
                     "randmax": 90.0,
                     "rarity": 2,
                     "chance": 15.0,
-                    "weightedChance": 20.0
+                    "weightedChance": 15.0
                 },
                 "4": {
                     "id": 19,
                     "randmax": 100.0,
                     "rarity": 4,
                     "chance": 2.0,
-                    "weightedChance": 2.67
+                    "weightedChance": 2.0
                 },
                 "3": {
                     "id": 22,
@@ -170,7 +178,7 @@
                 "4": 0,
                 "5": 0
             },
-            "total": 75.0
+            "total": 100
         },
         {
             "LootTableIndex": 213,
@@ -191,24 +199,24 @@
                     "randmax": 75.0,
                     "rarity": 1,
                     "chance": 75.0,
-                    "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 100.0,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 100.0
+                    "weightedChance": 75.0,
+                    "weightedChanceForSpecificItem": 0.75,
+                    "weightedChanceForAnyItemIncludingDrop": 0.75,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.75
                 },
                 "2": {
                     "id": 18,
                     "randmax": 90.0,
                     "rarity": 2,
                     "chance": 15.0,
-                    "weightedChance": 20.0
+                    "weightedChance": 15.0
                 },
                 "4": {
                     "id": 19,
                     "randmax": 100.0,
                     "rarity": 4,
                     "chance": 2.0,
-                    "weightedChance": 2.67
+                    "weightedChance": 2.0
                 },
                 "3": {
                     "id": 22,
@@ -226,7 +234,7 @@
                 "4": 0,
                 "5": 0
             },
-            "total": 75.0
+            "total": 100
         },
         {
             "LootTableIndex": 214,
@@ -247,24 +255,24 @@
                     "randmax": 75.0,
                     "rarity": 1,
                     "chance": 75.0,
-                    "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 100.0,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 100.0
+                    "weightedChance": 75.0,
+                    "weightedChanceForSpecificItem": 0.75,
+                    "weightedChanceForAnyItemIncludingDrop": 0.75,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.75
                 },
                 "2": {
                     "id": 18,
                     "randmax": 90.0,
                     "rarity": 2,
                     "chance": 15.0,
-                    "weightedChance": 20.0
+                    "weightedChance": 15.0
                 },
                 "4": {
                     "id": 19,
                     "randmax": 100.0,
                     "rarity": 4,
                     "chance": 2.0,
-                    "weightedChance": 2.67
+                    "weightedChance": 2.0
                 },
                 "3": {
                     "id": 22,
@@ -282,7 +290,7 @@
                 "4": 0,
                 "5": 0
             },
-            "total": 75.0
+            "total": 100
         },
         {
             "LootTableIndex": 215,
@@ -303,24 +311,24 @@
                     "randmax": 75.0,
                     "rarity": 1,
                     "chance": 75.0,
-                    "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 100.0,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 100.0
+                    "weightedChance": 75.0,
+                    "weightedChanceForSpecificItem": 0.75,
+                    "weightedChanceForAnyItemIncludingDrop": 0.75,
+                    "weightedChanceForSpecificItemIncludingDrop": 0.75
                 },
                 "2": {
                     "id": 18,
                     "randmax": 90.0,
                     "rarity": 2,
                     "chance": 15.0,
-                    "weightedChance": 20.0
+                    "weightedChance": 15.0
                 },
                 "4": {
                     "id": 19,
                     "randmax": 100.0,
                     "rarity": 4,
                     "chance": 2.0,
-                    "weightedChance": 2.67
+                    "weightedChance": 2.0
                 },
                 "3": {
                     "id": 22,
@@ -338,7 +346,13 @@
                 "4": 0,
                 "5": 0
             },
-            "total": 75.0
+            "total": 100
         }
-    ]
+    ],
+    "components": {
+        "2": 9783,
+        "11": 4822,
+        "53": 38
+    },
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_blue.png"
 }

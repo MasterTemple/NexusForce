@@ -1,0 +1,737 @@
+{
+    "enemyID": 16474,
+    "components": {
+        "1": 7876,
+        "2": 15220,
+        "5": 1705,
+        "7": 2147,
+        "9": 0,
+        "31": 98,
+        "60": 180
+    },
+    "doesntDropAnything": false,
+    "drop": {
+        "DestructibleComponent": 2147,
+        "LootMatrixIndex": 873,
+        "LootTableIndexes": [
+            {
+                "LootTableIndex": 88,
+                "RarityTableIndex": 9,
+                "percent": 100.0,
+                "minToDrop": 1,
+                "maxToDrop": 2,
+                "size": 1,
+                "names": {
+                    "LootTableIndex": "88",
+                    "Type": "Loot",
+                    "Name": "Maelstrom Infected Brick",
+                    "AlternateName": "Maelstrom-Infected Brick"
+                },
+                "rarityTableInfo": {
+                    "1": {
+                        "id": 37,
+                        "randmax": 100.0,
+                        "rarity": 1,
+                        "chance": 100.0,
+                        "weightedChance": 100.0,
+                        "weightedChanceForSpecificItem": 1.0,
+                        "weightedChanceForAnyItemIncludingDrop": 1.0,
+                        "weightedChanceForSpecificItemIncludingDrop": 1.0
+                    }
+                },
+                "rarityCount": {
+                    "1": 1,
+                    "2": 0,
+                    "3": 0,
+                    "4": 0,
+                    "5": 0
+                },
+                "total": 100
+            },
+            {
+                "LootTableIndex": 110,
+                "RarityTableIndex": 18,
+                "percent": 100.0,
+                "minToDrop": 1,
+                "maxToDrop": 1,
+                "size": 22,
+                "names": {
+                    "LootTableIndex": "110",
+                    "Type": "LEGO brick",
+                    "Name": "Rectangular LEGO Bricks"
+                },
+                "rarityTableInfo": {
+                    "1": {
+                        "id": 64,
+                        "randmax": 100.0,
+                        "rarity": 1,
+                        "chance": 100.0,
+                        "weightedChance": 100.0,
+                        "weightedChanceForSpecificItem": 0.045455,
+                        "weightedChanceForAnyItemIncludingDrop": 1.0,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.045455
+                    }
+                },
+                "rarityCount": {
+                    "1": 22,
+                    "2": 0,
+                    "3": 0,
+                    "4": 0,
+                    "5": 0
+                },
+                "total": 100
+            },
+            {
+                "LootTableIndex": 113,
+                "RarityTableIndex": 18,
+                "percent": 10.0,
+                "minToDrop": 1,
+                "maxToDrop": 1,
+                "size": 351,
+                "names": {
+                    "LootTableIndex": "113",
+                    "Type": "LEGO brick",
+                    "AlternateName": "LEGO Bricks"
+                },
+                "rarityTableInfo": {
+                    "1": {
+                        "id": 64,
+                        "randmax": 100.0,
+                        "rarity": 1,
+                        "chance": 100.0,
+                        "weightedChance": 100.0,
+                        "weightedChanceForSpecificItem": 0.002849,
+                        "weightedChanceForAnyItemIncludingDrop": 0.1,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.000285
+                    }
+                },
+                "rarityCount": {
+                    "1": 351,
+                    "2": 0,
+                    "3": 0,
+                    "4": 0,
+                    "5": 0
+                },
+                "total": 100
+            },
+            {
+                "LootTableIndex": 191,
+                "RarityTableIndex": 4,
+                "percent": 5.0,
+                "minToDrop": 1,
+                "maxToDrop": 1,
+                "size": 639,
+                "names": {
+                    "LootTableIndex": "191",
+                    "Type": "Loot",
+                    "Name": "Basic Shirts",
+                    "AlternateName": "Creation Shirts",
+                    "isVendor": "1",
+                    "vendorID": "3917"
+                },
+                "rarityTableInfo": {
+                    "1": {
+                        "id": 17,
+                        "randmax": 75.0,
+                        "rarity": 1,
+                        "chance": 75.0,
+                        "weightedChance": 75.0,
+                        "weightedChanceForSpecificItem": 0.001174,
+                        "weightedChanceForAnyItemIncludingDrop": 0.0375,
+                        "weightedChanceForSpecificItemIncludingDrop": 5.9e-05
+                    },
+                    "2": {
+                        "id": 18,
+                        "randmax": 90.0,
+                        "rarity": 2,
+                        "chance": 15.0,
+                        "weightedChance": 15.0
+                    },
+                    "4": {
+                        "id": 19,
+                        "randmax": 100.0,
+                        "rarity": 4,
+                        "chance": 2.0,
+                        "weightedChance": 2.0
+                    },
+                    "3": {
+                        "id": 22,
+                        "randmax": 98.0,
+                        "rarity": 3,
+                        "chance": 8.0,
+                        "weightedChance": 0,
+                        "weightedChanceForSpecificItem": 0
+                    }
+                },
+                "rarityCount": {
+                    "1": 639,
+                    "2": 0,
+                    "3": 0,
+                    "4": 0,
+                    "5": 0
+                },
+                "total": 100
+            },
+            {
+                "LootTableIndex": 192,
+                "RarityTableIndex": 4,
+                "percent": 5.0,
+                "minToDrop": 1,
+                "maxToDrop": 1,
+                "size": 16,
+                "names": {
+                    "LootTableIndex": "192",
+                    "Type": "Loot",
+                    "Name": "Basic Pants",
+                    "AlternateName": "Creation Pants"
+                },
+                "rarityTableInfo": {
+                    "1": {
+                        "id": 17,
+                        "randmax": 75.0,
+                        "rarity": 1,
+                        "chance": 75.0,
+                        "weightedChance": 75.0,
+                        "weightedChanceForSpecificItem": 0.046875,
+                        "weightedChanceForAnyItemIncludingDrop": 0.0375,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.002344
+                    },
+                    "2": {
+                        "id": 18,
+                        "randmax": 90.0,
+                        "rarity": 2,
+                        "chance": 15.0,
+                        "weightedChance": 15.0
+                    },
+                    "4": {
+                        "id": 19,
+                        "randmax": 100.0,
+                        "rarity": 4,
+                        "chance": 2.0,
+                        "weightedChance": 2.0
+                    },
+                    "3": {
+                        "id": 22,
+                        "randmax": 98.0,
+                        "rarity": 3,
+                        "chance": 8.0,
+                        "weightedChance": 0,
+                        "weightedChanceForSpecificItem": 0
+                    }
+                },
+                "rarityCount": {
+                    "1": 16,
+                    "2": 0,
+                    "3": 0,
+                    "4": 0,
+                    "5": 0
+                },
+                "total": 100
+            },
+            {
+                "LootTableIndex": 242,
+                "RarityTableIndex": 18,
+                "percent": 10.0,
+                "minToDrop": 1,
+                "maxToDrop": 1,
+                "size": 285,
+                "names": {
+                    "LootTableIndex": "242",
+                    "Type": "LEGO brick",
+                    "Name": "Technic/Bionicle Bricks"
+                },
+                "rarityTableInfo": {
+                    "1": {
+                        "id": 64,
+                        "randmax": 100.0,
+                        "rarity": 1,
+                        "chance": 100.0,
+                        "weightedChance": 100.0,
+                        "weightedChanceForSpecificItem": 0.003509,
+                        "weightedChanceForAnyItemIncludingDrop": 0.1,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.000351
+                    }
+                },
+                "rarityCount": {
+                    "1": 285,
+                    "2": 0,
+                    "3": 0,
+                    "4": 0,
+                    "5": 0
+                },
+                "total": 100
+            },
+            {
+                "LootTableIndex": 276,
+                "RarityTableIndex": 4,
+                "percent": 2.5,
+                "minToDrop": 1,
+                "maxToDrop": 1,
+                "size": 26,
+                "names": {
+                    "LootTableIndex": "276",
+                    "Type": "Loot",
+                    "AlternateName": "FV Gear Drops"
+                },
+                "rarityTableInfo": {
+                    "1": {
+                        "id": 17,
+                        "randmax": 75.0,
+                        "rarity": 1,
+                        "chance": 75.0,
+                        "weightedChance": 75.0
+                    },
+                    "2": {
+                        "id": 18,
+                        "randmax": 90.0,
+                        "rarity": 2,
+                        "chance": 15.0,
+                        "weightedChance": 15.0,
+                        "weightedChanceForSpecificItem": 0.013636,
+                        "weightedChanceForAnyItemIncludingDrop": 0.00375,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.000341
+                    },
+                    "4": {
+                        "id": 19,
+                        "randmax": 100.0,
+                        "rarity": 4,
+                        "chance": 2.0,
+                        "weightedChance": 2.0,
+                        "weightedChanceForSpecificItem": 0.006667,
+                        "weightedChanceForAnyItemIncludingDrop": 0.0005,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.000167
+                    },
+                    "3": {
+                        "id": 22,
+                        "randmax": 98.0,
+                        "rarity": 3,
+                        "chance": 8.0,
+                        "weightedChance": 8.0,
+                        "weightedChanceForSpecificItem": 0.006667,
+                        "weightedChanceForAnyItemIncludingDrop": 0.002,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.000167
+                    }
+                },
+                "rarityCount": {
+                    "1": 0,
+                    "2": 11,
+                    "3": 12,
+                    "4": 3,
+                    "5": 0
+                },
+                "total": 100
+            },
+            {
+                "LootTableIndex": 277,
+                "RarityTableIndex": 4,
+                "percent": 100.0,
+                "minToDrop": 1,
+                "maxToDrop": 1,
+                "size": 36,
+                "names": {
+                    "LootTableIndex": "277",
+                    "Type": "Loot",
+                    "AlternateName": "FV Consumable Drops"
+                },
+                "rarityTableInfo": {
+                    "1": {
+                        "id": 17,
+                        "randmax": 75.0,
+                        "rarity": 1,
+                        "chance": 75.0,
+                        "weightedChance": 75.0,
+                        "weightedChanceForSpecificItem": 0.028846,
+                        "weightedChanceForAnyItemIncludingDrop": 0.75,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.028846
+                    },
+                    "2": {
+                        "id": 18,
+                        "randmax": 90.0,
+                        "rarity": 2,
+                        "chance": 15.0,
+                        "weightedChance": 15.0,
+                        "weightedChanceForSpecificItem": 0.0375,
+                        "weightedChanceForAnyItemIncludingDrop": 0.15,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.0375
+                    },
+                    "4": {
+                        "id": 19,
+                        "randmax": 100.0,
+                        "rarity": 4,
+                        "chance": 2.0,
+                        "weightedChance": 2.0,
+                        "weightedChanceForSpecificItem": 0.01,
+                        "weightedChanceForAnyItemIncludingDrop": 0.02,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.01
+                    },
+                    "3": {
+                        "id": 22,
+                        "randmax": 98.0,
+                        "rarity": 3,
+                        "chance": 8.0,
+                        "weightedChance": 8.0,
+                        "weightedChanceForSpecificItem": 0.02,
+                        "weightedChanceForAnyItemIncludingDrop": 0.08,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.02
+                    }
+                },
+                "rarityCount": {
+                    "1": 26,
+                    "2": 4,
+                    "3": 4,
+                    "4": 2,
+                    "5": 0
+                },
+                "total": 100
+            },
+            {
+                "LootTableIndex": 278,
+                "RarityTableIndex": 4,
+                "percent": 10.0,
+                "minToDrop": 1,
+                "maxToDrop": 1,
+                "size": 54,
+                "names": {
+                    "LootTableIndex": "278",
+                    "Type": "Loot",
+                    "AlternateName": "FV Model Drops"
+                },
+                "rarityTableInfo": {
+                    "1": {
+                        "id": 17,
+                        "randmax": 75.0,
+                        "rarity": 1,
+                        "chance": 75.0,
+                        "weightedChance": 75.0,
+                        "weightedChanceForSpecificItem": 0.035714,
+                        "weightedChanceForAnyItemIncludingDrop": 0.075,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.003571
+                    },
+                    "2": {
+                        "id": 18,
+                        "randmax": 90.0,
+                        "rarity": 2,
+                        "chance": 15.0,
+                        "weightedChance": 15.0,
+                        "weightedChanceForSpecificItem": 0.01,
+                        "weightedChanceForAnyItemIncludingDrop": 0.015,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.001
+                    },
+                    "4": {
+                        "id": 19,
+                        "randmax": 100.0,
+                        "rarity": 4,
+                        "chance": 2.0,
+                        "weightedChance": 2.0,
+                        "weightedChanceForSpecificItem": 0.001667,
+                        "weightedChanceForAnyItemIncludingDrop": 0.002,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.000167
+                    },
+                    "3": {
+                        "id": 22,
+                        "randmax": 98.0,
+                        "rarity": 3,
+                        "chance": 8.0,
+                        "weightedChance": 8.0,
+                        "weightedChanceForSpecificItem": 0.013333,
+                        "weightedChanceForAnyItemIncludingDrop": 0.008,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.001333
+                    }
+                },
+                "rarityCount": {
+                    "1": 21,
+                    "2": 15,
+                    "3": 6,
+                    "4": 12,
+                    "5": 0
+                },
+                "total": 100
+            },
+            {
+                "LootTableIndex": 279,
+                "RarityTableIndex": 4,
+                "percent": 3.5,
+                "minToDrop": 1,
+                "maxToDrop": 1,
+                "size": 27,
+                "names": {
+                    "LootTableIndex": "279",
+                    "Type": "Loot",
+                    "AlternateName": "FV Weapon Drops"
+                },
+                "rarityTableInfo": {
+                    "1": {
+                        "id": 17,
+                        "randmax": 75.0,
+                        "rarity": 1,
+                        "chance": 75.0,
+                        "weightedChance": 75.0,
+                        "weightedChanceForSpecificItem": 0.125,
+                        "weightedChanceForAnyItemIncludingDrop": 0.02625,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.004375
+                    },
+                    "2": {
+                        "id": 18,
+                        "randmax": 90.0,
+                        "rarity": 2,
+                        "chance": 15.0,
+                        "weightedChance": 15.0,
+                        "weightedChanceForSpecificItem": 0.016667,
+                        "weightedChanceForAnyItemIncludingDrop": 0.00525,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.000583
+                    },
+                    "4": {
+                        "id": 19,
+                        "randmax": 100.0,
+                        "rarity": 4,
+                        "chance": 2.0,
+                        "weightedChance": 2.0,
+                        "weightedChanceForSpecificItem": 0.006667,
+                        "weightedChanceForAnyItemIncludingDrop": 0.0007,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.000233
+                    },
+                    "3": {
+                        "id": 22,
+                        "randmax": 98.0,
+                        "rarity": 3,
+                        "chance": 8.0,
+                        "weightedChance": 8.0,
+                        "weightedChanceForSpecificItem": 0.008889,
+                        "weightedChanceForAnyItemIncludingDrop": 0.0028,
+                        "weightedChanceForSpecificItemIncludingDrop": 0.000311
+                    }
+                },
+                "rarityCount": {
+                    "1": 6,
+                    "2": 9,
+                    "3": 9,
+                    "4": 3,
+                    "5": 0
+                },
+                "total": 100
+            },
+            {
+                "LootTableIndex": 415,
+                "RarityTableIndex": 4,
+                "percent": 100.0,
+                "minToDrop": 1,
+                "maxToDrop": 2,
+                "size": 1,
+                "names": {
+                    "LootTableIndex": "415",
+                    "Type": "Powerup",
+                    "Name": "Life Powerup 2 points"
+                },
+                "rarityTableInfo": {
+                    "1": {
+                        "id": 17,
+                        "randmax": 75.0,
+                        "rarity": 1,
+                        "chance": 75.0
+                    },
+                    "2": {
+                        "id": 18,
+                        "randmax": 90.0,
+                        "rarity": 2,
+                        "chance": 15.0
+                    },
+                    "4": {
+                        "id": 19,
+                        "randmax": 100.0,
+                        "rarity": 4,
+                        "chance": 2.0
+                    },
+                    "3": {
+                        "id": 22,
+                        "randmax": 98.0,
+                        "rarity": 3,
+                        "chance": 8.0,
+                        "weightedChance": 0,
+                        "weightedChanceForSpecificItem": 0
+                    }
+                },
+                "rarityCount": {
+                    "1": 0,
+                    "2": 0,
+                    "3": 0,
+                    "4": 0,
+                    "5": 0
+                },
+                "total": 0
+            },
+            {
+                "LootTableIndex": 420,
+                "RarityTableIndex": 4,
+                "percent": 100.0,
+                "minToDrop": 2,
+                "maxToDrop": 3,
+                "size": 1,
+                "names": {
+                    "LootTableIndex": "420",
+                    "Type": "Powerup",
+                    "Name": "Imagination Powerup 3 points"
+                },
+                "rarityTableInfo": {
+                    "1": {
+                        "id": 17,
+                        "randmax": 75.0,
+                        "rarity": 1,
+                        "chance": 75.0
+                    },
+                    "2": {
+                        "id": 18,
+                        "randmax": 90.0,
+                        "rarity": 2,
+                        "chance": 15.0
+                    },
+                    "4": {
+                        "id": 19,
+                        "randmax": 100.0,
+                        "rarity": 4,
+                        "chance": 2.0
+                    },
+                    "3": {
+                        "id": 22,
+                        "randmax": 98.0,
+                        "rarity": 3,
+                        "chance": 8.0,
+                        "weightedChance": 0,
+                        "weightedChanceForSpecificItem": 0
+                    }
+                },
+                "rarityCount": {
+                    "1": 0,
+                    "2": 0,
+                    "3": 0,
+                    "4": 0,
+                    "5": 0
+                },
+                "total": 0
+            },
+            {
+                "LootTableIndex": 424,
+                "RarityTableIndex": 4,
+                "percent": 100.0,
+                "minToDrop": 1,
+                "maxToDrop": 2,
+                "size": 1,
+                "names": {
+                    "LootTableIndex": "424",
+                    "Type": "Powerup",
+                    "Name": "Armor Powerup 3 points"
+                },
+                "rarityTableInfo": {
+                    "1": {
+                        "id": 17,
+                        "randmax": 75.0,
+                        "rarity": 1,
+                        "chance": 75.0
+                    },
+                    "2": {
+                        "id": 18,
+                        "randmax": 90.0,
+                        "rarity": 2,
+                        "chance": 15.0
+                    },
+                    "4": {
+                        "id": 19,
+                        "randmax": 100.0,
+                        "rarity": 4,
+                        "chance": 2.0
+                    },
+                    "3": {
+                        "id": 22,
+                        "randmax": 98.0,
+                        "rarity": 3,
+                        "chance": 8.0,
+                        "weightedChance": 0,
+                        "weightedChanceForSpecificItem": 0
+                    }
+                },
+                "rarityCount": {
+                    "1": 0,
+                    "2": 0,
+                    "3": 0,
+                    "4": 0,
+                    "5": 0
+                },
+                "total": 0
+            },
+            {
+                "LootTableIndex": 573,
+                "RarityTableIndex": 24,
+                "percent": 100.0,
+                "minToDrop": 1,
+                "maxToDrop": 1,
+                "size": 1,
+                "names": {
+                    "LootTableIndex": "573",
+                    "Type": "Loot",
+                    "Name": "Splintered Horseman's Lance"
+                },
+                "rarityTableInfo": {
+                    "2": {
+                        "id": 87,
+                        "randmax": 100.0,
+                        "rarity": 2,
+                        "chance": 100.0,
+                        "weightedChance": 100.0,
+                        "weightedChanceForSpecificItem": 1.0,
+                        "weightedChanceForAnyItemIncludingDrop": 1.0,
+                        "weightedChanceForSpecificItemIncludingDrop": 1.0
+                    }
+                },
+                "rarityCount": {
+                    "1": 0,
+                    "2": 1,
+                    "3": 0,
+                    "4": 0,
+                    "5": 0
+                },
+                "total": 100
+            },
+            {
+                "LootTableIndex": 670,
+                "RarityTableIndex": 23,
+                "percent": 100.0,
+                "minToDrop": 2,
+                "maxToDrop": 3,
+                "size": 1,
+                "names": {
+                    "LootTableIndex": "670",
+                    "Type": "Loot",
+                    "Name": "Faction Token Proxy"
+                },
+                "rarityTableInfo": {
+                    "1": {
+                        "id": 86,
+                        "randmax": 100.0,
+                        "rarity": 1,
+                        "chance": 100.0,
+                        "weightedChance": 100.0,
+                        "weightedChanceForSpecificItem": 1.0,
+                        "weightedChanceForAnyItemIncludingDrop": 1.0,
+                        "weightedChanceForSpecificItemIncludingDrop": 1.0
+                    }
+                },
+                "rarityCount": {
+                    "1": 1,
+                    "2": 0,
+                    "3": 0,
+                    "4": 0,
+                    "5": 0
+                },
+                "total": 100
+            }
+        ]
+    },
+    "skillIDs": [
+        494
+    ],
+    "objectSkills": {
+        "494": {
+            "castOnType": null,
+            "AICombatWeight": 100
+        }
+    }
+}

@@ -1,4 +1,12 @@
 {
+    "objectID": 10095,
+    "itemInfo": {
+        "name": "Faction Token Bag - 5 tokens",
+        "displayName": "Medium Bag of Faction Tokens",
+        "type": "Loot",
+        "description": "Double-click to get 5 Faction Tokens!",
+        "internalNotes": "Contains 5 Faction Tokens"
+    },
     "id": 10095,
     "comp_val": 40,
     "LootMatrixIndex": 411,
@@ -23,9 +31,9 @@
                     "rarity": 1,
                     "chance": 100.0,
                     "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 100.0,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 100.0
+                    "weightedChanceForSpecificItem": 1.0,
+                    "weightedChanceForAnyItemIncludingDrop": 1.0,
+                    "weightedChanceForSpecificItemIncludingDrop": 1.0
                 }
             },
             "rarityCount": {
@@ -35,7 +43,13 @@
                 "4": 0,
                 "5": 0
             },
-            "total": 100.0
+            "total": 100
         }
-    ]
+    ],
+    "components": {
+        "2": 9931,
+        "11": 4917,
+        "53": 40
+    },
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/faction_bag_xxsm.png"
 }

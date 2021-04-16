@@ -1,0 +1,19 @@
+{
+    "enemyID": 2716,
+    "components": {
+        "2": 2308,
+        "5": 247,
+        "9": 0,
+        "18": 871
+    },
+    "doesntDropAnything": true,
+    "skillIDs": [
+        71
+    ],
+    "objectSkills": {
+        "71": {
+            "castOnType": null,
+            "AICombatWeight": null
+        }
+    }
+}

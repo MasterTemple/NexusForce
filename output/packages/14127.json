@@ -1,4 +1,12 @@
 {
+    "objectID": 14127,
+    "itemInfo": {
+        "name": "Faction Token Bag - 200 tokens",
+        "displayName": "Ultra-Mega Bag of Faction Tokens",
+        "type": "Loot",
+        "description": "Double-click to get 200 Faction Tokens!",
+        "internalNotes": "Community Reward - Contains 200 Faction Tokens"
+    },
     "id": 14127,
     "comp_val": 129,
     "LootMatrixIndex": 729,
@@ -23,9 +31,9 @@
                     "rarity": 1,
                     "chance": 100.0,
                     "weightedChance": 100.0,
-                    "weightedChanceForSpecificItem": 100.0,
-                    "weightedChanceForAnyItemIncludingDrop": 100.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 100.0
+                    "weightedChanceForSpecificItem": 1.0,
+                    "weightedChanceForAnyItemIncludingDrop": 1.0,
+                    "weightedChanceForSpecificItemIncludingDrop": 1.0
                 }
             },
             "rarityCount": {
@@ -35,7 +43,13 @@
                 "4": 0,
                 "5": 0
             },
-            "total": 100.0
+            "total": 100
         }
-    ]
+    ],
+    "components": {
+        "2": 13838,
+        "11": 7004,
+        "53": 129
+    },
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/faction_bag_lg.png"
 }

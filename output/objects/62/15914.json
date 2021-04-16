@@ -89,7 +89,7 @@
         "cooldowngroup": 8
     },
     "itemComponent": {
-        "subItems": "",
+        "subItems": "                                                  ",
         "equipLocation": [
             "hair"
         ],

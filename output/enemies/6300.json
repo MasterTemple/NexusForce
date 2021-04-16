@@ -1,0 +1,17 @@
+{
+    "enemyID": 6300,
+    "components": {
+        "1": 2610,
+        "2": 5739,
+        "5": 179,
+        "7": 119
+    },
+    "doesntDropAnything": false,
+    "drop": {
+        "DestructibleComponent": 119,
+        "LootMatrixIndex": null,
+        "LootTableIndexes": []
+    },
+    "skillIDs": [],
+    "objectSkills": {}
+}
