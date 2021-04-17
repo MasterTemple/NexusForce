@@ -305,7 +305,7 @@ module.exports = {
                 // { name: item.abilityName, value: item.localeDescription, inline: true },
             )
         }
-        if(item.itemInfo.type == "Loot")
+        if(item.itemInfo.type === "Loot" && isConsumable === false)
         embed.addFields(
             { name: `${emojis.armor} Armor`, value: item?.stats?.armorBonusUI, inline: true },
             { name: `${emojis.heart} Health`, value: item?.stats?.lifeBonusUI, inline: true },
@@ -318,7 +318,7 @@ module.exports = {
                 {name: "Singe Jump Smash", value: item.meleeDamageInfo.singleJumpSmash, inline: true},
                 {name: "Double Jump Smash", value: item.meleeDamageInfo.doubleJumpSmash, inline: true},
             )
-        }else if(item.overview.length == 1  && item.projectileDamageInfo.projectileDamageCombo !== ""){
+        }else if(item.overview.length === 1  && item.projectileDamageInfo.projectileDamageCombo !== ""){
             embed.addFields(
                 {name: "Damage Combo", value: item.projectileDamageInfo.projectileDamageCombo, inline: true},
                 {name: "Singe Jump Smash", value: item.meleeDamageInfo.singleJumpSmash, inline: true},

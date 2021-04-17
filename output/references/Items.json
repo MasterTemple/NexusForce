@@ -3,13 +3,13 @@
         "id": 20,
         "name": "Rank 1 Buccaneer Book",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Rank 1 Buccaneer Book"
     },
     {
         "id": 21,
         "name": "Rank 1 Daredevil Book",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Rank 1 Daredevil Book"
     },
     {
         "id": 2097196,
@@ -21,19 +21,19 @@
         "id": 80,
         "name": "Rank 1 Knight Book",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Rank 1 Knight Book"
     },
     {
         "id": 89,
         "name": "Rank 1 Samurai Book",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Rank 1 Samurai Book"
     },
     {
         "id": 16480,
         "name": "NPC Maelstrom Double Bladed Bone Axe",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Maelstrom Double Bladed Bone Axe"
     },
     {
         "id": 16488,
@@ -63,31 +63,31 @@
         "id": 118,
         "name": "Rank 1 Sorcerer Book",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Rank 1 Sorcerer Book"
     },
     {
         "id": 125,
         "name": "Rank 1 Space Marauder Book",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Rank 1 Space Marauder Book"
     },
     {
         "id": 130,
         "name": "Rank 1 Engineer Book",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Rank 1 Engineer Book"
     },
     {
         "id": 16514,
         "name": "NPC Sensei Wu Staff",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Sensei Wu Staff"
     },
     {
         "id": 131,
         "name": "Rank 1 Summoner Book",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Rank 1 Summoner Book"
     },
     {
         "id": 16517,
@@ -273,7 +273,7 @@
         "id": 16553,
         "name": "TEST OwlPack",
         "type": "Loot",
-        "displayName": null
+        "displayName": "TEST OwlPack"
     },
     {
         "id": 16565,
@@ -735,7 +735,7 @@
         "id": 1272,
         "name": "Test Chargeup Hammer",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Chargeup Hammer"
     },
     {
         "id": 1720,
@@ -747,7 +747,7 @@
         "id": 1722,
         "name": "NPC Sentinel Shield",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Sentinel Shield"
     },
     {
         "id": 1723,
@@ -759,7 +759,7 @@
         "id": 1725,
         "name": "NPC Sentinel Breastplate of Armor",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Sentinel Breastplate of Armor"
     },
     {
         "id": 1726,
@@ -771,7 +771,7 @@
         "id": 1727,
         "name": "GM Only - JetPack",
         "type": "Loot",
-        "displayName": null
+        "displayName": "GM Only - JetPack"
     },
     {
         "id": 1764,
@@ -789,7 +789,7 @@
         "id": 1882,
         "name": "Test Torch",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Torch"
     },
     {
         "id": 1883,
@@ -831,13 +831,13 @@
         "id": 2196,
         "name": "Accessory Treasure Chest",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Accessory Treasure Chest"
     },
     {
         "id": 2197,
         "name": "Treasure Chest Loot",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Treasure Chest Loot"
     },
     {
         "id": 2198,
@@ -861,43 +861,43 @@
         "id": 2239,
         "name": "Test Chargeup Spear",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Chargeup Spear"
     },
     {
         "id": 2241,
         "name": "Test Elite Hammer",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Elite Hammer"
     },
     {
         "id": 2243,
         "name": "GM Only - Hammer of Doom",
         "type": "Loot",
-        "displayName": null
+        "displayName": "GM Only - Hammer of Doom"
     },
     {
         "id": 2246,
         "name": "Test Conical Hat",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Conical Hat"
     },
     {
         "id": 2247,
         "name": "PvP Slow Scarf",
         "type": "Loot",
-        "displayName": null
+        "displayName": "PvP Slow Scarf"
     },
     {
         "id": 2250,
         "name": "Test Contest HoverBoard",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Contest HoverBoard"
     },
     {
         "id": 2358,
         "name": "Bubble Shell",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Bubble Shell"
     },
     {
         "id": 2508,
@@ -1041,13 +1041,13 @@
         "id": 2618,
         "name": "NPC Red Hairbrush",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Red Hairbrush"
     },
     {
         "id": 2619,
         "name": "NPC White Mug",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC White Mug"
     },
     {
         "id": 2620,
@@ -1059,7 +1059,7 @@
         "id": 2621,
         "name": "NPC Bug Net",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Bug Net"
     },
     {
         "id": 2622,
@@ -1161,7 +1161,7 @@
         "id": 2670,
         "name": "Test Contest Insta Bot",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Contest Insta Bot"
     },
     {
         "id": 2843,
@@ -1173,67 +1173,67 @@
         "id": 2844,
         "name": "Test Brown Aviator Hat",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Brown Aviator Hat"
     },
     {
         "id": 2846,
         "name": "Test Orange Space Helmet",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Orange Space Helmet"
     },
     {
         "id": 2847,
         "name": "Test Flintlock Pistol",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Flintlock Pistol"
     },
     {
         "id": 2848,
         "name": "NPC Tan Outback Hat",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Tan Outback Hat"
     },
     {
         "id": 2851,
         "name": "Test Contest HoverBoard 2",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Contest HoverBoard 2"
     },
     {
         "id": 2852,
         "name": "Test Contest HoverBoard 3",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Contest HoverBoard 3"
     },
     {
         "id": 2853,
         "name": "Contest HoverBoard 4",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Contest HoverBoard 4"
     },
     {
         "id": 2854,
         "name": "Test Contest HoverBoard 5",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Contest HoverBoard 5"
     },
     {
         "id": 2855,
         "name": "Test Contest Board",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Contest Board"
     },
     {
         "id": 2867,
         "name": "Test Contest Parachute",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Contest Parachute"
     },
     {
         "id": 2872,
         "name": "Contest 11 Contest Coin",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Contest 11 Contest Coin"
     },
     {
         "id": 2942,
@@ -1347,13 +1347,13 @@
         "id": 2977,
         "name": "NPC Yellow Mug",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Yellow Mug"
     },
     {
         "id": 2978,
         "name": "NPC Black Mug",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Black Mug"
     },
     {
         "id": 2979,
@@ -1497,13 +1497,13 @@
         "id": 3053,
         "name": "Test Hammer All Stat Buff",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Hammer All Stat Buff"
     },
     {
         "id": 3063,
         "name": "NPC Short Staff",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Short Staff"
     },
     {
         "id": 3065,
@@ -1527,7 +1527,7 @@
         "id": 3071,
         "name": "Test Ballistic Projectile Mortar Flintlock",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Ballistic Projectile Mortar Flintlock"
     },
     {
         "id": 3077,
@@ -1545,7 +1545,7 @@
         "id": 3120,
         "name": "Test Fire Staff",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Fire Staff"
     },
     {
         "id": 3121,
@@ -1557,13 +1557,13 @@
         "id": 3191,
         "name": "Test Terrier Egg",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Terrier Egg"
     },
     {
         "id": 3193,
         "name": "Test Reindeer Egg",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Reindeer Egg"
     },
     {
         "id": 3206,
@@ -1575,7 +1575,7 @@
         "id": 3227,
         "name": "Test Pet Food",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Pet Food"
     },
     {
         "id": 3290,
@@ -1599,109 +1599,109 @@
         "id": 3293,
         "name": "GM Only - Flamethrower",
         "type": "Loot",
-        "displayName": null
+        "displayName": "GM Only - Flamethrower"
     },
     {
         "id": 3327,
         "name": "NPC Reporter's Camera",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Reporter's Camera"
     },
     {
         "id": 3328,
         "name": "NPC Reporters Microphone",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Reporters Microphone"
     },
     {
         "id": 3368,
         "name": "NPC Reporter's Hair",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Reporter's Hair"
     },
     {
         "id": 3390,
         "name": "NPC Hot Cross Bun",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Hot Cross Bun"
     },
     {
         "id": 3391,
         "name": "NPC Turkey Leg",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Turkey Leg"
     },
     {
         "id": 3392,
         "name": "NPC Apple for Ants",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Apple for Ants"
     },
     {
         "id": 3478,
         "name": "unused Quest Brick - Plate 1x1 round",
         "type": "Loot",
-        "displayName": null
+        "displayName": "unused Quest Brick - Plate 1x1 round"
     },
     {
         "id": 3479,
         "name": "unused Quest Brick - 1x1 plate",
         "type": "Loot",
-        "displayName": null
+        "displayName": "unused Quest Brick - 1x1 plate"
     },
     {
         "id": 3480,
         "name": "unused Quest Brick - 1x1 headlight brick",
         "type": "Loot",
-        "displayName": null
+        "displayName": "unused Quest Brick - 1x1 headlight brick"
     },
     {
         "id": 3508,
         "name": "unused Quest Brick - Whip/Aerial",
         "type": "Loot",
-        "displayName": null
+        "displayName": "unused Quest Brick - Whip/Aerial"
     },
     {
         "id": 3639,
         "name": "Test Pet Chariot Hack",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Pet Chariot Hack"
     },
     {
         "id": 3654,
         "name": "NPC Beastie Blocks Microphone",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Beastie Blocks Microphone"
     },
     {
         "id": 3735,
         "name": "GM Only - Large Jetpack",
         "type": "Loot",
-        "displayName": null
+        "displayName": "GM Only - Large Jetpack"
     },
     {
         "id": 3799,
         "name": "NPC Brick 2X4",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Brick 2X4"
     },
     {
         "id": 3801,
         "name": "NPC Brick 2X8",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Brick 2X8"
     },
     {
         "id": 3825,
         "name": "Test Beard and Hair",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Beard and Hair"
     },
     {
         "id": 3849,
         "name": "NPC Hazmat Backpack",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Hazmat Backpack"
     },
     {
         "id": 3852,
@@ -1785,19 +1785,19 @@
         "id": 3903,
         "name": "Pet Inventory Item",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Pet Inventory Item"
     },
     {
         "id": 3906,
         "name": "Test Skunk Wrench",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Skunk Wrench"
     },
     {
         "id": 3907,
         "name": "unused Inventor's Widget",
         "type": "Loot",
-        "displayName": null
+        "displayName": "unused Inventor's Widget"
     },
     {
         "id": 3938,
@@ -1809,7 +1809,7 @@
         "id": 3973,
         "name": "Pet Treasure Chest",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Pet Treasure Chest"
     },
     {
         "id": 3981,
@@ -1821,7 +1821,7 @@
         "id": 4015,
         "name": "Test Contest Parachute",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Contest Parachute"
     },
     {
         "id": 4049,
@@ -5295,31 +5295,31 @@
         "id": 4757,
         "name": "Test LEGO Factory Minifigure",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test LEGO Factory Minifigure"
     },
     {
         "id": 4766,
         "name": "Test LUP Reward Object",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test LUP Reward Object"
     },
     {
         "id": 4770,
         "name": "Test Blaster",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Blaster"
     },
     {
         "id": 4792,
         "name": "Test Sword",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Sword"
     },
     {
         "id": 4799,
         "name": "Test Bow",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Bow"
     },
     {
         "id": 4821,
@@ -5361,7 +5361,7 @@
         "id": 4923,
         "name": "PvP Blue Flag Loot",
         "type": "Loot",
-        "displayName": null
+        "displayName": "PvP Blue Flag Loot"
     },
     {
         "id": 4924,
@@ -5373,19 +5373,19 @@
         "id": 4925,
         "name": "Test Horse Mount",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Horse Mount"
     },
     {
         "id": 4927,
         "name": "Test Blaster Imagination",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Blaster Imagination"
     },
     {
         "id": 4939,
         "name": "Test Pulse Blaster",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Pulse Blaster"
     },
     {
         "id": 4977,
@@ -5397,31 +5397,31 @@
         "id": 4985,
         "name": "Test Contest Portal Rebuild Loot",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Contest Portal Rebuild Loot"
     },
     {
         "id": 4989,
         "name": "Test Chargeup Flintlock Pistol",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Chargeup Flintlock Pistol"
     },
     {
         "id": 4991,
         "name": "QB Guitar",
         "type": "Loot",
-        "displayName": null
+        "displayName": "QB Guitar"
     },
     {
         "id": 4992,
         "name": "QB Bass",
         "type": "Loot",
-        "displayName": null
+        "displayName": "QB Bass"
     },
     {
         "id": 4995,
         "name": "Left Drumstick",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Left Drumstick"
     },
     {
         "id": 4996,
@@ -5433,49 +5433,49 @@
         "id": 5628,
         "name": "Test Rangers Elite Long Bow",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Rangers Elite Long Bow"
     },
     {
         "id": 5645,
         "name": "NPC Flagwaver Flag",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Flagwaver Flag"
     },
     {
         "id": 5646,
         "name": "NPC Camera",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Camera"
     },
     {
         "id": 5654,
         "name": "Test Sword",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Sword"
     },
     {
         "id": 5658,
         "name": "NPC Jackhammer",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Jackhammer"
     },
     {
         "id": 5659,
         "name": "NPC Welding Torch",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Welding Torch"
     },
     {
         "id": 5674,
         "name": "NPC Hi Tech Armor",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Hi Tech Armor"
     },
     {
         "id": 5676,
         "name": "NPC Backpack",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Backpack"
     },
     {
         "id": 5682,
@@ -5487,25 +5487,25 @@
         "id": 5687,
         "name": "NPC Sword - Back Slung",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Sword - Back Slung"
     },
     {
         "id": 5692,
         "name": "NPC Map - right hand",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Map - right hand"
     },
     {
         "id": 5693,
         "name": "NPC Quill",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Quill"
     },
     {
         "id": 5694,
         "name": "NPC Dwarf Beard 01",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Dwarf Beard 01"
     },
     {
         "id": 5695,
@@ -5529,7 +5529,7 @@
         "id": 5710,
         "name": "Test Package",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Package"
     },
     {
         "id": 5711,
@@ -5541,7 +5541,7 @@
         "id": 5726,
         "name": "Test Flag for waving - Left Hand",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Flag for waving - Left Hand"
     },
     {
         "id": 5730,
@@ -6195,7 +6195,7 @@
         "id": 5841,
         "name": "Test Stun Pulse Blaster",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Stun Pulse Blaster"
     },
     {
         "id": 5842,
@@ -6219,7 +6219,7 @@
         "id": 5873,
         "name": "GM Only - Winged Helm of Speed",
         "type": "Loot",
-        "displayName": null
+        "displayName": "GM Only - Winged Helm of Speed"
     },
     {
         "id": 5948,
@@ -6231,13 +6231,13 @@
         "id": 5949,
         "name": "Test Set ninja1 - Katana",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Set ninja1 - Katana"
     },
     {
         "id": 5950,
         "name": "Test Set ninja1 - Head",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Set ninja1 - Head"
     },
     {
         "id": 5952,
@@ -6255,13 +6255,13 @@
         "id": 5955,
         "name": "Test Set ninja1 - shield",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Set ninja1 - shield"
     },
     {
         "id": 5964,
         "name": "Test prereq system - pet turban",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test prereq system - pet turban"
     },
     {
         "id": 5995,
@@ -6543,25 +6543,25 @@
         "id": 6233,
         "name": "Test Piratesicle",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Piratesicle"
     },
     {
         "id": 6245,
         "name": "Test Skateboard",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Skateboard"
     },
     {
         "id": 6246,
         "name": "Test Skateboard Wheels",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Skateboard Wheels"
     },
     {
         "id": 6248,
         "name": "Test Hat of Attacking",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Hat of Attacking"
     },
     {
         "id": 6262,
@@ -6639,7 +6639,7 @@
         "id": 6328,
         "name": "Test Client Blaster",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Client Blaster"
     },
     {
         "id": 6332,
@@ -6663,13 +6663,13 @@
         "id": 6339,
         "name": "NPC Space chestpiece",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Space chestpiece"
     },
     {
         "id": 6393,
         "name": "Test Experimental Pipe Wrench",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Experimental Pipe Wrench"
     },
     {
         "id": 6407,
@@ -6681,31 +6681,31 @@
         "id": 6494,
         "name": "NPC Sentinel Scout Spear",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Sentinel Scout Spear"
     },
     {
         "id": 6496,
         "name": "NPC Beck Hair",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Beck Hair"
     },
     {
         "id": 6497,
         "name": "NPC Skylane Hair",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Skylane Hair"
     },
     {
         "id": 6498,
         "name": "NPC Wisp Hair",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Wisp Hair"
     },
     {
         "id": 6499,
         "name": "NPC Epsilon Helmet",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Epsilon Helmet"
     },
     {
         "id": 6500,
@@ -6717,37 +6717,37 @@
         "id": 6501,
         "name": "NPC Skylane Helm In Hand",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Skylane Helm In Hand"
     },
     {
         "id": 6502,
         "name": "NPC Skylane Shoulders",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Skylane Shoulders"
     },
     {
         "id": 6503,
         "name": "NPC Epsilon Gun",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Epsilon Gun"
     },
     {
         "id": 6505,
         "name": "NPC Greeble Cannon Right",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Greeble Cannon Right"
     },
     {
         "id": 6506,
         "name": "NPC Greeble Cannon Left",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Greeble Cannon Left"
     },
     {
         "id": 6512,
         "name": "NPC Rusty Wrench",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Rusty Wrench"
     },
     {
         "id": 6518,
@@ -6807,55 +6807,55 @@
         "id": 6544,
         "name": "Test Tacarc",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Tacarc"
     },
     {
         "id": 6555,
         "name": "Test Pantomime Bunny Front",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Pantomime Bunny Front"
     },
     {
         "id": 6556,
         "name": "Test Pantomime Bunny Back",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Pantomime Bunny Back"
     },
     {
         "id": 6600,
         "name": "PvP Carry Barrel",
         "type": "Loot",
-        "displayName": null
+        "displayName": "PvP Carry Barrel"
     },
     {
         "id": 6612,
         "name": "NPC Guard Gun",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Guard Gun"
     },
     {
         "id": 6622,
         "name": "Test Equippable Turret",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Equippable Turret"
     },
     {
         "id": 6639,
         "name": "Test Katana - 2 pt",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Katana - 2 pt"
     },
     {
         "id": 6640,
         "name": "Test Katana - 3 pt",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Katana - 3 pt"
     },
     {
         "id": 6641,
         "name": "Test Katana - 4 pt",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Katana - 4 pt"
     },
     {
         "id": 6642,
@@ -6879,7 +6879,7 @@
         "id": 6645,
         "name": "Test Shirt of Uber Armor - 15pts",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Shirt of Uber Armor - 15pts"
     },
     {
         "id": 6646,
@@ -6897,25 +6897,25 @@
         "id": 6651,
         "name": "Test AoE Hammer Tier 2",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test AoE Hammer Tier 2"
     },
     {
         "id": 6652,
         "name": "Test AoE Hammer Tier 3",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test AoE Hammer Tier 3"
     },
     {
         "id": 6655,
         "name": "NPC The Stig's Helmet",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC The Stig's Helmet"
     },
     {
         "id": 6713,
         "name": "Test Precondition",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Precondition"
     },
     {
         "id": 6742,
@@ -6975,7 +6975,7 @@
         "id": 6791,
         "name": "Test Animated Equippable",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Animated Equippable"
     },
     {
         "id": 6792,
@@ -7209,13 +7209,13 @@
         "id": 6871,
         "name": "Test PvP Awesome Staff",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test PvP Awesome Staff"
     },
     {
         "id": 6872,
         "name": "Test PvP Awesome Healing Staff",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test PvP Awesome Healing Staff"
     },
     {
         "id": 6880,
@@ -7269,13 +7269,13 @@
         "id": 6905,
         "name": "Test Bow Regular",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Bow Regular"
     },
     {
         "id": 6906,
         "name": "Test Bow Hand Modeled",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Bow Hand Modeled"
     },
     {
         "id": 6907,
@@ -7425,25 +7425,25 @@
         "id": 6967,
         "name": "NPC GF Monkey Pistol",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC GF Monkey Pistol"
     },
     {
         "id": 6969,
         "name": "Test Hat of Immunity for Nic",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Hat of Immunity for Nic"
     },
     {
         "id": 6970,
         "name": "Test Hat of Damage Absorption for Nic",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Hat of Damage Absorption for Nic"
     },
     {
         "id": 6971,
         "name": "Test Hat of Damage Buff for Nic",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Hat of Damage Buff for Nic"
     },
     {
         "id": 6972,
@@ -7497,19 +7497,19 @@
         "id": 7013,
         "name": "Test Weapon Skills Item",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Weapon Skills Item"
     },
     {
         "id": 7035,
         "name": "Test PvP Shortsword no stun no move",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test PvP Shortsword no stun no move"
     },
     {
         "id": 7039,
         "name": "Test PvP Shortsword no stun",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test PvP Shortsword no stun"
     },
     {
         "id": 7044,
@@ -7587,7 +7587,7 @@
         "id": 7089,
         "name": "Test Horse Mount",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Horse Mount"
     },
     {
         "id": 7090,
@@ -7617,37 +7617,37 @@
         "id": 7101,
         "name": "Test Whirlwind 1",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Whirlwind 1"
     },
     {
         "id": 7102,
         "name": "Test Whirlwind 2",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Whirlwind 2"
     },
     {
         "id": 7103,
         "name": "Test Whirlwind 3",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Whirlwind 3"
     },
     {
         "id": 7104,
         "name": "Test Whirlwind 4",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Whirlwind 4"
     },
     {
         "id": 7105,
         "name": "Test Whirlwind 5",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Whirlwind 5"
     },
     {
         "id": 7111,
         "name": "NPC Venture Grunt Breastplate",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Venture Grunt Breastplate"
     },
     {
         "id": 7112,
@@ -7659,25 +7659,25 @@
         "id": 7113,
         "name": "NPC Renee Hair",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Renee Hair"
     },
     {
         "id": 7114,
         "name": "NPC Renee Gun",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Renee Gun"
     },
     {
         "id": 7115,
         "name": "NPC Beck Breastplate",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Beck Breastplate"
     },
     {
         "id": 7116,
         "name": "NPC Renee Belt Breastplate",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Renee Belt Breastplate"
     },
     {
         "id": 7122,
@@ -7737,61 +7737,61 @@
         "id": 7137,
         "name": "Test for Media team",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test for Media team"
     },
     {
         "id": 7145,
         "name": "Test for Media team 2",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test for Media team 2"
     },
     {
         "id": 7146,
         "name": "Test for Media team 3",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test for Media team 3"
     },
     {
         "id": 7148,
         "name": "Test Breastplate of Taunting",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Breastplate of Taunting"
     },
     {
         "id": 7149,
         "name": "Test Wysiwyg long sword",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Wysiwyg long sword"
     },
     {
         "id": 7150,
         "name": "Test Breastplate of Gravity",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Breastplate of Gravity"
     },
     {
         "id": 7163,
         "name": "Test Saw of Pulling",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Saw of Pulling"
     },
     {
         "id": 7164,
         "name": "Test Fishing Pole",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Fishing Pole"
     },
     {
         "id": 7219,
         "name": "NPC Banana Gun",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Banana Gun"
     },
     {
         "id": 7225,
         "name": "6789",
         "type": "Loot",
-        "displayName": null
+        "displayName": "6789"
     },
     {
         "id": 7283,
@@ -7809,31 +7809,31 @@
         "id": 7292,
         "name": "Test Jet Pack Hover",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Jet Pack Hover"
     },
     {
         "id": 7311,
         "name": "Test jump attack",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test jump attack"
     },
     {
         "id": 7313,
         "name": "Test SJ Katana NOT CURRENT",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test SJ Katana NOT CURRENT"
     },
     {
         "id": 7333,
         "name": "Test tak effect",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test tak effect"
     },
     {
         "id": 7339,
         "name": "Test Katana of Bees",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Katana of Bees"
     },
     {
         "id": 7355,
@@ -8907,7 +8907,7 @@
         "id": 7571,
         "name": "Test Mesh Effect Test",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Mesh Effect Test"
     },
     {
         "id": 7586,
@@ -8955,79 +8955,79 @@
         "id": 7627,
         "name": "Test Rusty's Pantsuit",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Rusty's Pantsuit"
     },
     {
         "id": 7628,
         "name": "Test NPC Grunt Shirt",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test NPC Grunt Shirt"
     },
     {
         "id": 7629,
         "name": "Test NPC Skylane Shirt",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test NPC Skylane Shirt"
     },
     {
         "id": 7630,
         "name": "Test NPC Wisp Shirt",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test NPC Wisp Shirt"
     },
     {
         "id": 7631,
         "name": "Test NPC Sentinel Scout Shirt",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test NPC Sentinel Scout Shirt"
     },
     {
         "id": 7632,
         "name": "Test NPC Beck Shirt",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test NPC Beck Shirt"
     },
     {
         "id": 7633,
         "name": "Test NPC Epsilon Shirt",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test NPC Epsilon Shirt"
     },
     {
         "id": 7634,
         "name": "Test NPC Rene Shirt",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test NPC Rene Shirt"
     },
     {
         "id": 7635,
         "name": "Test NPC Assembly Grunt Shirt",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test NPC Assembly Grunt Shirt"
     },
     {
         "id": 7636,
         "name": "Test NPC Venture Grunt Shirt",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test NPC Venture Grunt Shirt"
     },
     {
         "id": 7641,
         "name": "NPC Coalessa Staff",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Coalessa Staff"
     },
     {
         "id": 7661,
         "name": "Test Yegge Banana",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Yegge Banana"
     },
     {
         "id": 7690,
         "name": "Test Breastplate of Scripting",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Breastplate of Scripting"
     },
     {
         "id": 7724,
@@ -9177,7 +9177,7 @@
         "id": 7757,
         "name": "Test One More Creator Test",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test One More Creator Test"
     },
     {
         "id": 7758,
@@ -9453,19 +9453,19 @@
         "id": 7936,
         "name": "Test_Acc_Helmet1",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test_Acc_Helmet1"
     },
     {
         "id": 7970,
         "name": "Test UGC Model - Café Corner",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test UGC Model - Café Corner"
     },
     {
         "id": 7971,
         "name": "Test UGC Model - Ninja Arch",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test UGC Model - Ninja Arch"
     },
     {
         "id": 7974,
@@ -9477,7 +9477,7 @@
         "id": 7985,
         "name": "Test_Acc_Armor1",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test_Acc_Armor1"
     },
     {
         "id": 7989,
@@ -9513,7 +9513,7 @@
         "id": 7998,
         "name": "Test_Acc_ProxyArmor",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test_Acc_ProxyArmor"
     },
     {
         "id": 7999,
@@ -9525,37 +9525,37 @@
         "id": 8007,
         "name": "Test_Acc_ProxyHand1",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test_Acc_ProxyHand1"
     },
     {
         "id": 8009,
         "name": "Test_Acc_ProxyHand2",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test_Acc_ProxyHand2"
     },
     {
         "id": 8012,
         "name": "Test_Acc_ProxyLegsSkirt",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test_Acc_ProxyLegsSkirt"
     },
     {
         "id": 8016,
         "name": "Test_Acc_Epsilon Gun",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test_Acc_Epsilon Gun"
     },
     {
         "id": 8017,
         "name": "Test_Acc_Epsilon Gun_L",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test_Acc_Epsilon Gun_L"
     },
     {
         "id": 8021,
         "name": "Test Breastplate Test",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Breastplate Test"
     },
     {
         "id": 8027,
@@ -9675,25 +9675,25 @@
         "id": 8056,
         "name": "NPC Sky Lane Hair",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Sky Lane Hair"
     },
     {
         "id": 8057,
         "name": "NPC Sky Lane ShoulderPads",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Sky Lane ShoulderPads"
     },
     {
         "id": 8061,
         "name": "NPC Sky Lane Helmet",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Sky Lane Helmet"
     },
     {
         "id": 8065,
         "name": "NPC Epsilon Starcracker Helmet",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Epsilon Starcracker Helmet"
     },
     {
         "id": 8066,
@@ -9735,19 +9735,19 @@
         "id": 8079,
         "name": "NPC Epsilon Starcracker Rocketpack",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Epsilon Starcracker Rocketpack"
     },
     {
         "id": 8080,
         "name": "NPC Epsilon Starcracker Gun",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Epsilon Starcracker Gun"
     },
     {
         "id": 8081,
         "name": "Test Sword of Testing",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Sword of Testing"
     },
     {
         "id": 8084,
@@ -9777,139 +9777,139 @@
         "id": 8109,
         "name": "NPC Melodie Foxtrot Hair",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Melodie Foxtrot Hair"
     },
     {
         "id": 8110,
         "name": "NPC Melodie Foxtrot Weapon",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Melodie Foxtrot Weapon"
     },
     {
         "id": 8111,
         "name": "NPC Melodie Foxtrot Weapon L",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Melodie Foxtrot Weapon L"
     },
     {
         "id": 8121,
         "name": "DroppedLootTemplate",
         "type": "Loot",
-        "displayName": null
+        "displayName": "DroppedLootTemplate"
     },
     {
         "id": 8143,
         "name": "Test Samurai KIT Helmet",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Samurai KIT Helmet"
     },
     {
         "id": 8144,
         "name": "Test Samurai KIT Armor",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Samurai KIT Armor"
     },
     {
         "id": 8145,
         "name": "Test Samurai KIT Skirt",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Samurai KIT Skirt"
     },
     {
         "id": 8155,
         "name": "Test Will_L kit Helmet",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Will_L kit Helmet"
     },
     {
         "id": 8156,
         "name": "Test Will_L Test Chest",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Will_L Test Chest"
     },
     {
         "id": 8157,
         "name": "Test Will_L test sword",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Will_L test sword"
     },
     {
         "id": 8158,
         "name": "Test Will_L Test Skirt",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Will_L Test Skirt"
     },
     {
         "id": 8161,
         "name": "Test for Item Componets",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test for Item Componets"
     },
     {
         "id": 8162,
         "name": "Test broken item components",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test broken item components"
     },
     {
         "id": 8168,
         "name": "Test something",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test something"
     },
     {
         "id": 8169,
         "name": "Test Venture Grunt Helmet",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Venture Grunt Helmet"
     },
     {
         "id": 8170,
         "name": "Test Model Candle Holder",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Model Candle Holder"
     },
     {
         "id": 8182,
         "name": "Test Nexus Force Faction Token",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Nexus Force Faction Token"
     },
     {
         "id": 8187,
         "name": "Test somethin",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test somethin"
     },
     {
         "id": 8188,
         "name": "Test shoulder pads",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test shoulder pads"
     },
     {
         "id": 8190,
         "name": "Test Broken Insert",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Broken Insert"
     },
     {
         "id": 8191,
         "name": "Test Broken Insert",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Broken Insert"
     },
     {
         "id": 8192,
         "name": "Test Broken Insert",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Broken Insert"
     },
     {
         "id": 8193,
         "name": "Test Broken Item Components",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Broken Item Components"
     },
     {
         "id": 8217,
@@ -9945,37 +9945,37 @@
         "id": 8273,
         "name": "Test Performance Test Helmet",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Performance Test Helmet"
     },
     {
         "id": 8274,
         "name": "Test Performance Test Sword",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Performance Test Sword"
     },
     {
         "id": 8275,
         "name": "Test Performance Test Armor",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Performance Test Armor"
     },
     {
         "id": 8276,
         "name": "Test Performance Test Shield",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Performance Test Shield"
     },
     {
         "id": 8283,
         "name": "NPC Rusty Steele Helmet",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Rusty Steele Helmet"
     },
     {
         "id": 8284,
         "name": "NPC Rusty Steele Helmet",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Rusty Steele Helmet"
     },
     {
         "id": 8285,
@@ -9987,13 +9987,13 @@
         "id": 8286,
         "name": "NPC Rusty Steele Belt",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Rusty Steele Belt"
     },
     {
         "id": 8287,
         "name": "NPC Wisp Lee Scarf",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Wisp Lee Scarf"
     },
     {
         "id": 8288,
@@ -10005,7 +10005,7 @@
         "id": 8291,
         "name": "Test Faction Currency Item",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Faction Currency Item"
     },
     {
         "id": 8318,
@@ -10059,7 +10059,7 @@
         "id": 8344,
         "name": "TEST Kitty Backpack",
         "type": "Loot",
-        "displayName": null
+        "displayName": "TEST Kitty Backpack"
     },
     {
         "id": 8345,
@@ -10149,7 +10149,7 @@
         "id": 8363,
         "name": "Bag of Glitter",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Bag of Glitter"
     },
     {
         "id": 8365,
@@ -10173,13 +10173,13 @@
         "id": 8371,
         "name": "Shuriken",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Shuriken"
     },
     {
         "id": 8374,
         "name": "Test Summon Scroll",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Test Summon Scroll"
     },
     {
         "id": 8375,
@@ -10605,49 +10605,49 @@
         "id": 8514,
         "name": "NPC Mardolf Hat",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Mardolf Hat"
     },
     {
         "id": 8515,
         "name": "NPC Mardolf Staff",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Mardolf Staff"
     },
     {
         "id": 8517,
         "name": "NPC Johnny Thunder Hat",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Johnny Thunder Hat"
     },
     {
         "id": 8518,
         "name": "NPC Johnny Thunder Bag",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Johnny Thunder Bag"
     },
     {
         "id": 8519,
         "name": "NPCJohnny Thunder Whip",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPCJohnny Thunder Whip"
     },
     {
         "id": 8520,
         "name": "NPC Numbchuck Helmet",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Numbchuck Helmet"
     },
     {
         "id": 8522,
         "name": "NPC Coalessa Hair",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Coalessa Hair"
     },
     {
         "id": 8523,
         "name": "NPC Coalessa Skirt",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Coalessa Skirt"
     },
     {
         "id": 8528,
@@ -12237,19 +12237,19 @@
         "id": 9790,
         "name": "NPC Swifty McGurk Hat",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Swifty McGurk Hat"
     },
     {
         "id": 9791,
         "name": "NPC Velocity Lane Hair",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Velocity Lane Hair"
     },
     {
         "id": 9792,
         "name": "NPCClub Lego Max hat",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPCClub Lego Max hat"
     },
     {
         "id": 9805,
@@ -12291,37 +12291,37 @@
         "id": 9815,
         "name": "Buccaneer Offhand 1 - Proxy",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Buccaneer Offhand 1 - Proxy"
     },
     {
         "id": 9816,
         "name": "Buccaneer Offhand 2 - Proxy",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Buccaneer Offhand 2 - Proxy"
     },
     {
         "id": 9817,
         "name": "Buccaneer Offhand 3 - Proxy",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Buccaneer Offhand 3 - Proxy"
     },
     {
         "id": 9818,
         "name": "Daredevil Offhand 1 - Proxy",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Daredevil Offhand 1 - Proxy"
     },
     {
         "id": 9819,
         "name": "Daredevil Offhand 2 - Proxy",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Daredevil Offhand 2 - Proxy"
     },
     {
         "id": 9820,
         "name": "Daredevil Offhand 3 - Proxy",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Daredevil Offhand 3 - Proxy"
     },
     {
         "id": 9829,
@@ -12501,13 +12501,13 @@
         "id": 9935,
         "name": "Rank 2 Buccaneer Book",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Rank 2 Buccaneer Book"
     },
     {
         "id": 9936,
         "name": "Rank 3 Buccaneer Book",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Rank 3 Buccaneer Book"
     },
     {
         "id": 9943,
@@ -12747,7 +12747,7 @@
         "id": 10031,
         "name": "Black Mug Mesh Effect",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Black Mug Mesh Effect"
     },
     {
         "id": 10038,
@@ -12873,7 +12873,7 @@
         "id": 10067,
         "name": "NPC LUP Worker Helmet",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC LUP Worker Helmet"
     },
     {
         "id": 10069,
@@ -13107,7 +13107,7 @@
         "id": 10133,
         "name": "NPC Club Lego Max Hair",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Club Lego Max Hair"
     },
     {
         "id": 10154,
@@ -13701,13 +13701,13 @@
         "id": 10429,
         "name": "NPC Strombie Hair",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Strombie Hair"
     },
     {
         "id": 10430,
         "name": "NPC Strombie Blade",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NPC Strombie Blade"
     },
     {
         "id": 10431,
@@ -15309,7 +15309,7 @@
         "id": 11455,
         "name": "Frog Hat Set",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Frog Hat Set"
     },
     {
         "id": 11458,
@@ -17565,73 +17565,73 @@
         "id": 11922,
         "name": "Rank 1 Shinobi Book",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Rank 1 Shinobi Book"
     },
     {
         "id": 11923,
         "name": "Rank 1 Adventurer Book",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Rank 1 Adventurer Book"
     },
     {
         "id": 11924,
         "name": "Rank 1 Space Ranger Book",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Rank 1 Space Ranger Book"
     },
     {
         "id": 11925,
         "name": "Rank 1 Inventor Book",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Rank 1 Inventor Book"
     },
     {
         "id": 11926,
         "name": "Rank 2 Adventurer Book",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Rank 2 Adventurer Book"
     },
     {
         "id": 11927,
         "name": "Rank 2 Shinobi Book",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Rank 2 Shinobi Book"
     },
     {
         "id": 11928,
         "name": "Rank 2 Space Ranger Book",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Rank 2 Space Ranger Book"
     },
     {
         "id": 11929,
         "name": "Rank 2 Inventor Book",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Rank 2 Inventor Book"
     },
     {
         "id": 11931,
         "name": "Rank 3 Adventurer Book",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Rank 3 Adventurer Book"
     },
     {
         "id": 11932,
         "name": "Rank 3 Shinobi Book",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Rank 3 Shinobi Book"
     },
     {
         "id": 11933,
         "name": "Rank 3 Space Ranger Book",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Rank 3 Space Ranger Book"
     },
     {
         "id": 11934,
         "name": "Rank 3 Inventor Book",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Rank 3 Inventor Book"
     },
     {
         "id": 12043,
@@ -18333,7 +18333,7 @@
         "id": 12491,
         "name": "TEST",
         "type": "Loot",
-        "displayName": null
+        "displayName": "TEST"
     },
     {
         "id": 12492,
@@ -18717,7 +18717,7 @@
         "id": 12619,
         "name": "TEST",
         "type": "Loot",
-        "displayName": null
+        "displayName": "TEST"
     },
     {
         "id": 12622,
@@ -20697,19 +20697,19 @@
         "id": 13292,
         "name": "TEST Adventurer Offhand Level 1",
         "type": "Loot",
-        "displayName": null
+        "displayName": "TEST Adventurer Offhand Level 1"
     },
     {
         "id": 13293,
         "name": "TEST Adventurer Offhand Level 2",
         "type": "Loot",
-        "displayName": null
+        "displayName": "TEST Adventurer Offhand Level 2"
     },
     {
         "id": 13294,
         "name": "TEST Adventurer Offhand Level 3",
         "type": "Loot",
-        "displayName": null
+        "displayName": "TEST Adventurer Offhand Level 3"
     },
     {
         "id": 13301,
@@ -22611,7 +22611,7 @@
         "id": 14088,
         "name": "Obsolete NJ SJ Whirlwind Earth equiped",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Obsolete NJ SJ Whirlwind Earth equiped"
     },
     {
         "id": 14091,
@@ -22725,7 +22725,7 @@
         "id": 14110,
         "name": "Earth Staff Left Hand Proxy",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Earth Staff Left Hand Proxy"
     },
     {
         "id": 14112,
@@ -22863,7 +22863,7 @@
         "id": 14156,
         "name": "NJ SJ Whirlwind Imagination",
         "type": "Loot",
-        "displayName": null
+        "displayName": "NJ SJ Whirlwind Imagination"
     },
     {
         "id": 14158,
@@ -23631,13 +23631,13 @@
         "id": 14604,
         "name": "Master Lightning Spinjitzu Left Hand Proxy",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Master Lightning Spinjitzu Left Hand Proxy"
     },
     {
         "id": 14606,
         "name": "Master Fire Spinjitzu Left Hand Proxy",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Master Fire Spinjitzu Left Hand Proxy"
     },
     {
         "id": 14669,
@@ -24705,19 +24705,19 @@
         "id": 16261,
         "name": "Lightning Nunchucks Left Hand Proxy",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Lightning Nunchucks Left Hand Proxy"
     },
     {
         "id": 16262,
         "name": "Ice Shuriken Left Hand Proxy",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Ice Shuriken Left Hand Proxy"
     },
     {
         "id": 16263,
         "name": "Fire Swords Left Hand Proxy",
         "type": "Loot",
-        "displayName": null
+        "displayName": "Fire Swords Left Hand Proxy"
     },
     {
         "id": 16266,
