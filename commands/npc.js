@@ -33,16 +33,27 @@ module.exports = {
         let embed = msgEmbed.execute(`${npcFile.itemInfo.displayName} [${npcFile.objectID}]`, undefined,`https://lu-explorer.web.app/objects/${npcFile.objectID}`, npcFile.iconURL)
 
 
-        var missionInfo = ``
+        let missionInfo = ``
         if(npcFile.isMissionGiver === 1){
             for (let e = 0; e < Object.keys(npcFile?.missions).length; e++) {
-                missionInfo = `${missionInfo}**${e+1}.** __${npcFile.missions[Object.keys(npcFile?.missions)[e]].MissionStats.MissionText.name}__ [${Object.keys(npcFile?.missions)[e]}]\n`
-                missionInfo = `${missionInfo}${npcFile.missions[Object.keys(npcFile?.missions)[e]].MissionStats.MissionText.description}\n`
+                //console.log(e)
+                try {
+                    missionInfo = `${missionInfo}**${e + 1}.** __${npcFile.missions[Object.keys(npcFile?.missions)[e]].MissionStats.MissionText.name}__ [${Object.keys(npcFile?.missions)[e]}]\n`
+                    let missionDescription = npcFile.missions[Object.keys(npcFile?.missions)[e]].MissionStats.MissionText.description
+                    var descriptionArray = missionDescription.split(`<`)
+                    for(var i=0;i<descriptionArray.length-1;i++){
+                        missionDescription = missionDescription.replace(/<[^>]*>/, '')
+                    }
+                    missionInfo = `${missionInfo}${missionDescription}\n`
+
+                }catch{}
+                //console.log(missionInfo)
+
 
             }
         }
 
-        if(Object.keys(npcFile?.missions).length === 1){
+        if(Object.keys(npcFile?.missions).length > 0){
             embed.addField(`Missions: [${npcFile.missionsList.length}]`, missionInfo, false)
         }
         var vendorInfo = ``
