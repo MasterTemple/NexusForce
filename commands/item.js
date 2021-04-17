@@ -114,7 +114,7 @@ module.exports = {
                     {name: "Cooldown Group", value: item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.cooldowngroup, inline: true},
                 )
             }
-            else if(item.itemComponent.equipLocation[0] !== 'special_r' && item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.info){
+            else if(item?.itemComponent?.equipLocation[0] !== 'special_r' && item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.info){
                 // console.log(item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.info?.name)
                 // console.log(item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.info?.damageCombo)
                 // console.log(item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.info?.Description)
@@ -127,7 +127,18 @@ module.exports = {
                     {name: "Cooldown Group", value: item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.cooldowngroup, inline: true},
                 )
             }
-            if(item.itemComponent.equipLocation[0] === 'special_r' && item['objectSkills'][Object.keys(item.objectSkills)[skill]]['castOnType'] === 0){
+            else if(item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.info?.name){
+                embed.addFields(
+                    {name: item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.info?.name, value: item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.info?.rawDescription, inline: false},
+                )
+                embed.addFields(
+                    {name: "Ability Cost", value: `${item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.imaginationcost} Imagination`, inline: true},
+                    {name: "Cooldown", value: `${item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.cooldown} Seconds`, inline: true},
+                    {name: "Cooldown Group", value: item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.cooldowngroup, inline: true},
+                )
+
+            }
+            if(item.itemComponent.equipLocation[0] === 'special_r' && item['objectSkills'][Object.keys(item.objectSkills)[skill]]['castOnType'] !== 1){
                 //console.log(item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']])
                 if(item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.projectileDamageComboArray.length !== 0) {
                     let projectileArray = item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.projectileDamageComboArray
