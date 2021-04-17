@@ -85,7 +85,7 @@
         "imBonusUI": 3
     },
     "itemComponent": {
-        "subItems": "",
+        "subItems": "                                                  ",
         "equipLocation": [
             "clavicle"
         ],
@@ -183,8 +183,8 @@
                 },
                 "inNpcEditor": 1,
                 "overallChance": {
-                    "percent": 0.02,
-                    "howManyToKill": 5000
+                    "percent": 0.002,
+                    "howManyToKill": 50000
                 },
                 "LootTableIndexItems": 2,
                 "PackageComponent": {},

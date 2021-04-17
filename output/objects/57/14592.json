@@ -27,7 +27,11 @@
             "skillIcon": 4414,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Deploy this device to absorb Maelstrom energy",
+                "name": "Deploy Maelstrom Vacuum"
+            }
         }
     },
     "behaviorIDs": [

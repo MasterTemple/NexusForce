@@ -95,6 +95,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": false,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [],
             "chargeUpArmorRestore": [],
             "chargeUpImaginationRestore": [],

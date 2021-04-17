@@ -2,7 +2,7 @@
     "objectID": 8274,
     "itemInfo": {
         "name": "Test Performance Test Sword",
-        "displayName": null,
+        "displayName": "Test Performance Test Sword",
         "type": "Loot",
         "description": "For performance testing accessories",
         "internalNotes": "For performance testing accessories"
@@ -76,6 +76,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 1
             ],

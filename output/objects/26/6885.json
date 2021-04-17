@@ -27,7 +27,11 @@
             "skillIcon": 3681,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Throws a stinky fish. Sharks like the taste",
+                "name": "Throw Stinky Fish"
+            }
         }
     },
     "behaviorIDs": [

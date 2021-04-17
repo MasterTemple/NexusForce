@@ -2,7 +2,7 @@
     "objectID": 16263,
     "itemInfo": {
         "name": "Fire Swords Left Hand Proxy",
-        "displayName": null,
+        "displayName": "Fire Swords Left Hand Proxy",
         "type": "Loot",
         "description": null,
         "internalNotes": null
@@ -76,6 +76,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 4,
                 21

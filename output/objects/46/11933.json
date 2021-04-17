@@ -2,7 +2,7 @@
     "objectID": 11933,
     "itemInfo": {
         "name": "Rank 3 Space Ranger Book",
-        "displayName": null,
+        "displayName": "Rank 3 Space Ranger Book",
         "type": "Loot",
         "description": "Double-click to use!",
         "internalNotes": "Read this to learn the secrets of being a Rank 3 Space Ranger!"
@@ -27,7 +27,11 @@
             "skillIcon": 3685,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Read this book to learn the secrets of a Rank 3 Space Ranger and unlock an Imagination Point!",
+                "name": "Secrets of a Space Ranger 3"
+            }
         }
     },
     "behaviorIDs": [

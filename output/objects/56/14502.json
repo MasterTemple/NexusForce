@@ -27,7 +27,11 @@
             "skillIcon": 4719,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Boosts your maximum Armor and Life for 300 seconds",
+                "name": "Eat Dirt Sandwich"
+            }
         }
     },
     "behaviorIDs": [

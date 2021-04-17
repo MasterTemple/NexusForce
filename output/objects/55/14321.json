@@ -63,7 +63,10 @@
     "behaviorIDs": [
         4263,
         38555,
-        38567
+        38567,
+        15496,
+        38731,
+        10520
     ],
     "stats": {
         "lifeBonusUI": 4,
@@ -71,9 +74,20 @@
         "imBonusUI": 11
     },
     "itemComponent": {
-        "subItems": "14322,14323,14324,14325,14326",
+        "subItems": [
+            14322,
+            14323,
+            14324,
+            14325,
+            14326
+        ],
         "equipLocation": [
-            "hair"
+            "hair",
+            "chest",
+            "legs",
+            "special_r",
+            "special_l",
+            "clavicle"
         ],
         "sellPrice": 0,
         "buyPrice": 0,
@@ -91,14 +105,75 @@
         "commendationCurrencyType": null,
         "commendationCurrencyCost": null,
         "equipLocationNames": [
-            "Headgear"
+            "Right Hand",
+            "Left Hand",
+            "Headgear",
+            "Neck/Back",
+            "Torso",
+            "Pants"
         ],
-        "isWeapon": false,
+        "isWeapon": true,
         "levelRequirement": 0
     },
     "overview": {},
-    "proxySkillIDs": [],
-    "proxySkills": {},
+    "proxySkillIDs": [
+        829,
+        1629,
+        609
+    ],
+    "proxySkills": {
+        "829": {
+            "castOnType": 1,
+            "AICombatWeight": 0,
+            "behaviorID": 15496,
+            "imaginationcost": 0,
+            "cooldowngroup": 29,
+            "cooldown": 30.0,
+            "inNpcEditor": 0,
+            "skillIcon": 0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        },
+        "1629": {
+            "castOnType": 0,
+            "AICombatWeight": 0,
+            "behaviorID": 38731,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 0.0,
+            "inNpcEditor": 0,
+            "skillIcon": 3357,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "%(DamageCombo) 4+4+4 %(ChargeUp)Restores up to 5 Imagination for nearby characters - charge longer for more Imagination",
+                "name": "Rental Blaster Master",
+                "damageCombo": " 4+4+4 ",
+                "ChargeUp": "Restores up to 5 Imagination for nearby characters - charge longer for more Imagination"
+            }
+        },
+        "609": {
+            "castOnType": 0,
+            "AICombatWeight": 0,
+            "behaviorID": 10520,
+            "imaginationcost": 6,
+            "cooldowngroup": 24,
+            "cooldown": 5.0,
+            "inNpcEditor": 0,
+            "skillIcon": 3359,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "%(DamageCombo) 7 %(Description)Launches a rocket that does 7 damage",
+                "name": "Maelstrom Rocket 1",
+                "damageCombo": " 7 ",
+                "Description": "Launches a rocket that does 7 damage"
+            }
+        }
+    },
     "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/icons/marauder_kit.png",
     "buyAndDrop": {
         "LootTableIndexes": [],

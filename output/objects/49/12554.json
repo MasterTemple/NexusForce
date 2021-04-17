@@ -27,7 +27,11 @@
             "skillIcon": 4110,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Fires a shot that does 5 damage to an enemy",
+                "name": "Cannon Shot"
+            }
         }
     },
     "behaviorIDs": [
@@ -115,8 +119,8 @@
                 },
                 "inNpcEditor": 0,
                 "overallChance": {
-                    "percent": 5.2082999999999995,
-                    "howManyToKill": 19
+                    "percent": 4.1667000000000005,
+                    "howManyToKill": 24
                 },
                 "LootTableIndexItems": 17,
                 "PackageComponent": {

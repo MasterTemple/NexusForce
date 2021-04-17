@@ -2,7 +2,7 @@
     "objectID": 2243,
     "itemInfo": {
         "name": "GM Only - Hammer of Doom",
-        "displayName": null,
+        "displayName": "GM Only - Hammer of Doom",
         "type": "Loot",
         "description": null,
         "internalNotes": null
@@ -71,6 +71,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [],
             "chargeUpArmorRestore": [],
             "chargeUpImaginationRestore": [],

@@ -27,7 +27,11 @@
             "skillIcon": 2965,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Creates a mini-blizzard",
+                "name": "Snow Storm"
+            }
         }
     },
     "behaviorIDs": [

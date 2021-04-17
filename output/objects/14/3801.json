@@ -2,7 +2,7 @@
     "objectID": 3801,
     "itemInfo": {
         "name": "NPC Brick 2X8",
-        "displayName": null,
+        "displayName": "NPC Brick 2X8",
         "type": "Loot",
         "description": "Carried by Dwarf In scene 1",
         "internalNotes": "Carried by Dwarf In scene 1"
@@ -42,7 +42,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/png/m3008.png",
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3008.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

@@ -2,7 +2,7 @@
     "objectID": 6651,
     "itemInfo": {
         "name": "Test AoE Hammer Tier 2",
-        "displayName": null,
+        "displayName": "Test AoE Hammer Tier 2",
         "type": "Loot",
         "description": null,
         "internalNotes": null
@@ -87,6 +87,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [],
             "chargeUpArmorRestore": [],
             "chargeUpImaginationRestore": [],
@@ -101,6 +102,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": false,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [],
             "chargeUpArmorRestore": [],
             "chargeUpImaginationRestore": [],

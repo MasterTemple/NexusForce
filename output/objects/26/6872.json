@@ -2,7 +2,7 @@
     "objectID": 6872,
     "itemInfo": {
         "name": "Test PvP Awesome Healing Staff",
-        "displayName": null,
+        "displayName": "Test PvP Awesome Healing Staff",
         "type": "Loot",
         "description": "Test healing staff",
         "internalNotes": "Test healing staff"
@@ -92,6 +92,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [],
             "chargeUpArmorRestore": [],
             "chargeUpImaginationRestore": [],
@@ -108,13 +109,15 @@
             "spawnsQuickbuild": false,
             "meleeAttack": false,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [],
             "chargeUpArmorRestore": [],
             "chargeUpImaginationRestore": [],
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "chargeUpCost": -2
         }
     },
     "proxySkillIDs": [],

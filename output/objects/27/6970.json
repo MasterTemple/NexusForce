@@ -2,7 +2,7 @@
     "objectID": 6970,
     "itemInfo": {
         "name": "Test Hat of Damage Absorption for Nic",
-        "displayName": null,
+        "displayName": "Test Hat of Damage Absorption for Nic",
         "type": "Loot",
         "description": "For Nic to test the skill",
         "internalNotes": "For Nic to test the skill"
@@ -63,7 +63,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/png/m4503.png",
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m4503.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

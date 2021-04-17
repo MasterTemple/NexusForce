@@ -63,7 +63,10 @@
     "behaviorIDs": [
         4250,
         4263,
-        38570
+        38570,
+        15498,
+        38967,
+        11349
     ],
     "stats": {
         "armorBonusUI": 9,
@@ -71,9 +74,20 @@
         "imBonusUI": 14
     },
     "itemComponent": {
-        "subItems": "14354,14355,14356,14357,14358",
+        "subItems": [
+            14354,
+            14355,
+            14356,
+            14357,
+            14358
+        ],
         "equipLocation": [
-            "hair"
+            "hair",
+            "chest",
+            "legs",
+            "special_r",
+            "special_l",
+            "clavicle"
         ],
         "sellPrice": 0,
         "buyPrice": 0,
@@ -91,14 +105,73 @@
         "commendationCurrencyType": null,
         "commendationCurrencyCost": null,
         "equipLocationNames": [
-            "Headgear"
+            "Right Hand",
+            "Left Hand",
+            "Headgear",
+            "Neck/Back",
+            "Torso",
+            "Pants"
         ],
-        "isWeapon": false,
+        "isWeapon": true,
         "levelRequirement": 0
     },
     "overview": {},
-    "proxySkillIDs": [],
-    "proxySkills": {},
+    "proxySkillIDs": [
+        830,
+        1631,
+        689
+    ],
+    "proxySkills": {
+        "830": {
+            "castOnType": 1,
+            "AICombatWeight": 0,
+            "behaviorID": 15498,
+            "imaginationcost": 0,
+            "cooldowngroup": 29,
+            "cooldown": 30.0,
+            "inNpcEditor": 0,
+            "skillIcon": 0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        },
+        "1631": {
+            "castOnType": 0,
+            "AICombatWeight": 0,
+            "behaviorID": 38967,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 0.0,
+            "inNpcEditor": 0,
+            "skillIcon": 3365,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "%(DamageCombo) 4+4+6 %(ChargeUp)Restores up to 6 Armor to nearby characters - charge longer for more Armor",
+                "name": "Rental Gnarled Staff",
+                "damageCombo": " 4+4+6 ",
+                "ChargeUp": "Restores up to 6 Armor to nearby characters - charge longer for more Armor"
+            }
+        },
+        "689": {
+            "castOnType": 0,
+            "AICombatWeight": 0,
+            "behaviorID": 11349,
+            "imaginationcost": 4,
+            "cooldowngroup": 24,
+            "cooldown": 45.0,
+            "inNpcEditor": 0,
+            "skillIcon": 3684,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Creates a Thwok that assists you in battle",
+                "name": "Summon Thwok 1"
+            }
+        }
+    },
     "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/icons/summoner_kit.png",
     "buyAndDrop": {
         "LootTableIndexes": [],

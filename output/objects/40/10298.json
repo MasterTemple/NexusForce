@@ -27,7 +27,11 @@
             "skillIcon": 3252,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Makes you dig up a chest full of Power-ups",
+                "name": "X-Marks-the-Spot 1"
+            }
         }
     },
     "behaviorIDs": [

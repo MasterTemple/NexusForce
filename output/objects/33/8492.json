@@ -81,6 +81,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 2
             ],
@@ -146,8 +147,8 @@
                 },
                 "inNpcEditor": 0,
                 "overallChance": {
-                    "percent": 0.907,
-                    "howManyToKill": 110
+                    "percent": 0.8888999999999999,
+                    "howManyToKill": 112
                 },
                 "LootTableIndexItems": 24,
                 "PackageComponent": {},
@@ -198,8 +199,8 @@
                 },
                 "inNpcEditor": 0,
                 "overallChance": {
-                    "percent": 0.907,
-                    "howManyToKill": 110
+                    "percent": 0.8888999999999999,
+                    "howManyToKill": 112
                 },
                 "LootTableIndexItems": 24,
                 "PackageComponent": {},
@@ -250,8 +251,8 @@
                 },
                 "inNpcEditor": 0,
                 "overallChance": {
-                    "percent": 0.907,
-                    "howManyToKill": 110
+                    "percent": 0.8888999999999999,
+                    "howManyToKill": 112
                 },
                 "LootTableIndexItems": 24,
                 "PackageComponent": {},
@@ -310,8 +311,8 @@
                 },
                 "inNpcEditor": 0,
                 "overallChance": {
-                    "percent": 0.0031999999999999997,
-                    "howManyToKill": 31250
+                    "percent": 0.0031000000000000003,
+                    "howManyToKill": 32258
                 },
                 "LootTableIndexItems": 24,
                 "PackageComponent": {},
@@ -368,8 +369,8 @@
                 },
                 "inNpcEditor": 0,
                 "overallChance": {
-                    "percent": 0.0063,
-                    "howManyToKill": 15873
+                    "percent": 0.006200000000000001,
+                    "howManyToKill": 16129
                 },
                 "LootTableIndexItems": 24,
                 "PackageComponent": {},
@@ -426,8 +427,8 @@
                 },
                 "inNpcEditor": 0,
                 "overallChance": {
-                    "percent": 0.0181,
-                    "howManyToKill": 5525
+                    "percent": 0.0178,
+                    "howManyToKill": 5618
                 },
                 "LootTableIndexItems": 24,
                 "PackageComponent": {},
@@ -476,8 +477,8 @@
                 },
                 "inNpcEditor": 0,
                 "overallChance": {
-                    "percent": 0.907,
-                    "howManyToKill": 110
+                    "percent": 0.8888999999999999,
+                    "howManyToKill": 112
                 },
                 "LootTableIndexItems": 24,
                 "PackageComponent": {},
@@ -528,8 +529,8 @@
                 },
                 "inNpcEditor": 0,
                 "overallChance": {
-                    "percent": 0.907,
-                    "howManyToKill": 110
+                    "percent": 0.8888999999999999,
+                    "howManyToKill": 112
                 },
                 "LootTableIndexItems": 24,
                 "PackageComponent": {},
@@ -868,8 +869,8 @@
                 },
                 "inNpcEditor": 0,
                 "overallChance": {
-                    "percent": 0.907,
-                    "howManyToKill": 110
+                    "percent": 0.8888999999999999,
+                    "howManyToKill": 112
                 },
                 "LootTableIndexItems": 24,
                 "PackageComponent": {},
@@ -918,8 +919,8 @@
                 },
                 "inNpcEditor": 0,
                 "overallChance": {
-                    "percent": 0.6348999999999999,
-                    "howManyToKill": 158
+                    "percent": 0.6222,
+                    "howManyToKill": 161
                 },
                 "LootTableIndexItems": 24,
                 "PackageComponent": {

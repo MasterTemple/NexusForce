@@ -2,7 +2,7 @@
     "objectID": 16514,
     "itemInfo": {
         "name": "NPC Sensei Wu Staff",
-        "displayName": null,
+        "displayName": "NPC Sensei Wu Staff",
         "type": "Loot",
         "description": "NPC Sensei Wu Staff",
         "internalNotes": "NPC Mardolf Staff"
@@ -15,8 +15,8 @@
     "objectSkills": {},
     "behaviorIDs": [],
     "stats": {},
-    "overview": {},
     "itemComponent": {
+        "subItems": null,
         "equipLocation": [
             "special_l"
         ],
@@ -33,7 +33,6 @@
         "isTwoHanded": 0,
         "altCurrencyType": null,
         "altCurrencyCost": null,
-        "subItems": null,
         "commendationCurrencyType": null,
         "commendationCurrencyCost": null,
         "equipLocationNames": [
@@ -42,6 +41,9 @@
         "isWeapon": false,
         "levelRequirement": 0
     },
+    "overview": {},
+    "proxySkillIDs": [],
+    "proxySkills": {},
     "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/hands/imaginationstaff.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
@@ -52,7 +54,5 @@
         "EnemyIDs": [],
         "Enemies": []
     },
-    "earn": {},
-    "proxySkillIDs": [],
-    "proxySkills": {}
+    "earn": {}
 }

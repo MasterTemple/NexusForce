@@ -2,7 +2,7 @@
     "objectID": 16261,
     "itemInfo": {
         "name": "Lightning Nunchucks Left Hand Proxy",
-        "displayName": null,
+        "displayName": "Lightning Nunchucks Left Hand Proxy",
         "type": "Loot",
         "description": null,
         "internalNotes": null
@@ -76,6 +76,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 8,
                 22

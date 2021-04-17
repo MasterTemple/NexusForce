@@ -27,7 +27,11 @@
             "skillIcon": 4029,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Restores up to 10 Life, 30 Imagination and 20 Armor over time",
+                "name": "Eat Bento Blocks"
+            }
         }
     },
     "behaviorIDs": [

@@ -27,7 +27,11 @@
             "skillIcon": 1032,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Boosts your maximum Imagination by 1 for 60 seconds",
+                "name": "Eat Frost Fruit"
+            }
         }
     },
     "behaviorIDs": [

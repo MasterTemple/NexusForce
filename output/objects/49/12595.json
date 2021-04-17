@@ -83,6 +83,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": true,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 1,
                 1,
@@ -103,7 +104,8 @@
             ],
             "chargeUpCombo": 0,
             "doubleJumpSmash": 2,
-            "singleJumpSmash": 3
+            "singleJumpSmash": 3,
+            "chargeUpCost": -1
         }
     },
     "proxySkillIDs": [],

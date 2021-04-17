@@ -2,7 +2,7 @@
     "objectID": 6506,
     "itemInfo": {
         "name": "NPC Greeble Cannon Left",
-        "displayName": null,
+        "displayName": "NPC Greeble Cannon Left",
         "type": "Loot",
         "description": null,
         "internalNotes": "Attach to greeble_l on cannon"

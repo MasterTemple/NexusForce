@@ -91,7 +91,7 @@
         "cooldowngroup": 2
     },
     "itemComponent": {
-        "subItems": "",
+        "subItems": "                                                  ",
         "equipLocation": [
             "clavicle"
         ],
@@ -128,6 +128,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 10,
                 30
@@ -191,8 +192,8 @@
                 },
                 "inNpcEditor": 1,
                 "overallChance": {
-                    "percent": 1.3333,
-                    "howManyToKill": 75
+                    "percent": 0.026699999999999998,
+                    "howManyToKill": 3745
                 },
                 "LootTableIndexItems": 3,
                 "PackageComponent": {},
@@ -251,8 +252,8 @@
                 },
                 "inNpcEditor": 1,
                 "overallChance": {
-                    "percent": 0.0333,
-                    "howManyToKill": 3003
+                    "percent": 0.0007,
+                    "howManyToKill": 142857
                 },
                 "LootTableIndexItems": 3,
                 "PackageComponent": {},
@@ -301,8 +302,8 @@
                 },
                 "inNpcEditor": 1,
                 "overallChance": {
-                    "percent": 1.6667,
-                    "howManyToKill": 60
+                    "percent": 0.0333,
+                    "howManyToKill": 3003
                 },
                 "LootTableIndexItems": 3,
                 "PackageComponent": {},
@@ -353,8 +354,8 @@
                 },
                 "inNpcEditor": 1,
                 "overallChance": {
-                    "percent": 3.0,
-                    "howManyToKill": 33
+                    "percent": 0.06,
+                    "howManyToKill": 1667
                 },
                 "LootTableIndexItems": 3,
                 "PackageComponent": {},
@@ -405,8 +406,8 @@
                 },
                 "inNpcEditor": 1,
                 "overallChance": {
-                    "percent": 4.0,
-                    "howManyToKill": 25
+                    "percent": 0.08,
+                    "howManyToKill": 1250
                 },
                 "LootTableIndexItems": 3,
                 "PackageComponent": {},

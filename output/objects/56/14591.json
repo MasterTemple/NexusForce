@@ -27,7 +27,11 @@
             "skillIcon": 3097,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Digs for buried treasure",
+                "name": "Dig for booty"
+            }
         }
     },
     "behaviorIDs": [

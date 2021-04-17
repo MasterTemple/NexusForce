@@ -258,7 +258,7 @@
                     "percent": 0.0009,
                     "howManyToKill": 111111
                 },
-                "LootTableIndexItems": 93,
+                "LootTableIndexItems": 95,
                 "PackageComponent": {},
                 "ActivityComponent": {}
             },
@@ -316,7 +316,7 @@
                     "percent": 0.0019000000000000002,
                     "howManyToKill": 52632
                 },
-                "LootTableIndexItems": 93,
+                "LootTableIndexItems": 95,
                 "PackageComponent": {},
                 "ActivityComponent": {}
             },
@@ -374,7 +374,7 @@
                     "percent": 0.0375,
                     "howManyToKill": 2667
                 },
-                "LootTableIndexItems": 93,
+                "LootTableIndexItems": 95,
                 "PackageComponent": {},
                 "ActivityComponent": {}
             },
@@ -763,7 +763,7 @@
                     "percent": 0.0375,
                     "howManyToKill": 2667
                 },
-                "LootTableIndexItems": 93,
+                "LootTableIndexItems": 95,
                 "PackageComponent": {},
                 "ActivityComponent": [
                     "GF Wishing Well 1"
@@ -815,7 +815,7 @@
                     "percent": 0.075,
                     "howManyToKill": 1333
                 },
-                "LootTableIndexItems": 93,
+                "LootTableIndexItems": 95,
                 "PackageComponent": {},
                 "ActivityComponent": [
                     "GF Wishing Well 2"
@@ -867,7 +867,7 @@
                     "percent": 0.11249999999999999,
                     "howManyToKill": 889
                 },
-                "LootTableIndexItems": 93,
+                "LootTableIndexItems": 95,
                 "PackageComponent": {},
                 "ActivityComponent": [
                     "GF Wishing Well 3"
@@ -919,7 +919,7 @@
                     "percent": 0.1875,
                     "howManyToKill": 533
                 },
-                "LootTableIndexItems": 93,
+                "LootTableIndexItems": 95,
                 "PackageComponent": {},
                 "ActivityComponent": [
                     "GF Wishing Well 4"
@@ -971,7 +971,7 @@
                     "percent": 0.375,
                     "howManyToKill": 267
                 },
-                "LootTableIndexItems": 93,
+                "LootTableIndexItems": 95,
                 "PackageComponent": {},
                 "ActivityComponent": [
                     "GF Wishing Well 5"
@@ -1023,7 +1023,7 @@
                     "percent": 0.6,
                     "howManyToKill": 167
                 },
-                "LootTableIndexItems": 93,
+                "LootTableIndexItems": 95,
                 "PackageComponent": {},
                 "ActivityComponent": [
                     "GF Wishing Well 6"
@@ -1075,7 +1075,7 @@
                     "percent": 0.75,
                     "howManyToKill": 133
                 },
-                "LootTableIndexItems": 93,
+                "LootTableIndexItems": 95,
                 "PackageComponent": {},
                 "ActivityComponent": [
                     "GF Wishing Well 7"
@@ -1127,7 +1127,7 @@
                     "percent": 0.75,
                     "howManyToKill": 133
                 },
-                "LootTableIndexItems": 93,
+                "LootTableIndexItems": 95,
                 "PackageComponent": {},
                 "ActivityComponent": [
                     "GF Wishing Well 8"
@@ -1661,7 +1661,7 @@
                     "percent": 0.75,
                     "howManyToKill": 133
                 },
-                "LootTableIndexItems": 93,
+                "LootTableIndexItems": 95,
                 "PackageComponent": {},
                 "ActivityComponent": {}
             },
@@ -1711,7 +1711,7 @@
                     "percent": 0.375,
                     "howManyToKill": 267
                 },
-                "LootTableIndexItems": 93,
+                "LootTableIndexItems": 95,
                 "PackageComponent": {
                     "665": {
                         "name": "GF Loot Surprise Pack",

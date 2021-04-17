@@ -2,7 +2,7 @@
     "objectID": 8515,
     "itemInfo": {
         "name": "NPC Mardolf Staff",
-        "displayName": null,
+        "displayName": "NPC Mardolf Staff",
         "type": "Loot",
         "description": "NPC Mardolf Staff",
         "internalNotes": "NPC Mardolf Staff"
@@ -78,6 +78,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 2,
                 3,

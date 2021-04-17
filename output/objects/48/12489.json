@@ -30,7 +30,8 @@
             "skillIcon": null,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {}
         },
         "989": {
             "castOnType": null,
@@ -43,7 +44,8 @@
             "skillIcon": null,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {}
         }
     },
     "behaviorIDs": [

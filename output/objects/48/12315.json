@@ -81,6 +81,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 2,
                 2,
@@ -162,8 +163,8 @@
                 },
                 "inNpcEditor": 0,
                 "overallChance": {
-                    "percent": 0.0055000000000000005,
-                    "howManyToKill": 18182
+                    "percent": 0.005399999999999999,
+                    "howManyToKill": 18519
                 },
                 "LootTableIndexItems": 13,
                 "PackageComponent": {},
@@ -220,8 +221,8 @@
                 },
                 "inNpcEditor": 0,
                 "overallChance": {
-                    "percent": 0.328,
-                    "howManyToKill": 305
+                    "percent": 0.32139999999999996,
+                    "howManyToKill": 311
                 },
                 "LootTableIndexItems": 13,
                 "PackageComponent": {},
@@ -278,8 +279,8 @@
                 },
                 "inNpcEditor": 0,
                 "overallChance": {
-                    "percent": 0.5466000000000001,
-                    "howManyToKill": 183
+                    "percent": 0.5357,
+                    "howManyToKill": 187
                 },
                 "LootTableIndexItems": 13,
                 "PackageComponent": {},

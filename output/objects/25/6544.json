@@ -2,7 +2,7 @@
     "objectID": 6544,
     "itemInfo": {
         "name": "Test Tacarc",
-        "displayName": null,
+        "displayName": "Test Tacarc",
         "type": "Loot",
         "description": "Tacarc test",
         "internalNotes": "Tacarc test"
@@ -27,7 +27,8 @@
             "skillIcon": 2840,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {}
         }
     },
     "behaviorIDs": [

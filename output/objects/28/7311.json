@@ -2,7 +2,7 @@
     "objectID": 7311,
     "itemInfo": {
         "name": "Test jump attack",
-        "displayName": null,
+        "displayName": "Test jump attack",
         "type": "Loot",
         "description": "test jump attack",
         "internalNotes": "test jump attack"
@@ -71,6 +71,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 2,
                 3,

@@ -63,7 +63,10 @@
     "behaviorIDs": [
         4258,
         4263,
-        38559
+        38559,
+        15493,
+        38610,
+        4036
     ],
     "stats": {
         "imBonusUI": 8,
@@ -71,9 +74,20 @@
         "armorBonusUI": 14
     },
     "itemComponent": {
-        "subItems": "14316,14317,14318,14319,14320",
+        "subItems": [
+            14316,
+            14317,
+            14318,
+            14319,
+            14320
+        ],
         "equipLocation": [
-            "hair"
+            "hair",
+            "chest",
+            "legs",
+            "special_r",
+            "special_l",
+            "clavicle"
         ],
         "sellPrice": 0,
         "buyPrice": 0,
@@ -91,14 +105,75 @@
         "commendationCurrencyType": null,
         "commendationCurrencyCost": null,
         "equipLocationNames": [
-            "Headgear"
+            "Right Hand",
+            "Left Hand",
+            "Headgear",
+            "Neck/Back",
+            "Torso",
+            "Pants"
         ],
-        "isWeapon": false,
+        "isWeapon": true,
         "levelRequirement": 0
     },
     "overview": {},
-    "proxySkillIDs": [],
-    "proxySkills": {},
+    "proxySkillIDs": [
+        827,
+        1628,
+        342
+    ],
+    "proxySkills": {
+        "827": {
+            "castOnType": 1,
+            "AICombatWeight": 0,
+            "behaviorID": 15493,
+            "imaginationcost": 0,
+            "cooldowngroup": 29,
+            "cooldown": 30.0,
+            "inNpcEditor": 0,
+            "skillIcon": 0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        },
+        "1628": {
+            "castOnType": 0,
+            "AICombatWeight": 0,
+            "behaviorID": 38610,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 0.0,
+            "inNpcEditor": 0,
+            "skillIcon": 3486,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "%(DamageCombo) 4+4+6 %(ChargeUp)Blocks 6 attacks while charged",
+                "name": "Rental Knights Blade",
+                "damageCombo": " 4+4+6 ",
+                "ChargeUp": "Blocks 6 attacks while charged"
+            }
+        },
+        "342": {
+            "castOnType": 0,
+            "AICombatWeight": 0,
+            "behaviorID": 4036,
+            "imaginationcost": 4,
+            "cooldowngroup": 24,
+            "cooldown": 7.0,
+            "inNpcEditor": 0,
+            "skillIcon": 3320,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "%(DamageCombo) 5 %(Description)Makes you rush forward, doing 5 damage and knocking down the enemy that you strike",
+                "name": "Shield Slam 1",
+                "damageCombo": " 5 ",
+                "Description": "Makes you rush forward, doing 5 damage and knocking down the enemy that you strike"
+            }
+        }
+    },
     "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/icons/knight_kit.png",
     "buyAndDrop": {
         "LootTableIndexes": [],

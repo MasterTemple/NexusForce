@@ -2,7 +2,7 @@
     "objectID": 4792,
     "itemInfo": {
         "name": "Test Sword",
-        "displayName": null,
+        "displayName": "Test Sword",
         "type": "Loot",
         "description": "invisible???",
         "internalNotes": "invisible???"
@@ -75,6 +75,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 1
             ],

@@ -2,7 +2,7 @@
     "objectID": 6622,
     "itemInfo": {
         "name": "Test Equippable Turret",
-        "displayName": null,
+        "displayName": "Test Equippable Turret",
         "type": "Loot",
         "description": "Test for turrets",
         "internalNotes": "Test for turrets"
@@ -29,7 +29,8 @@
             "skillIcon": 2840,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {}
         }
     },
     "behaviorIDs": [

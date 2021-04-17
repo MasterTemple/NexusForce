@@ -37,9 +37,20 @@
         "imBonusUI": 3
     },
     "itemComponent": {
-        "subItems": "13753,13756,13757,13754,13755",
+        "subItems": [
+            13753,
+            13756,
+            13757,
+            13754,
+            13755
+        ],
         "equipLocation": [
-            "clavicle"
+            "clavicle",
+            "hair",
+            "chest",
+            "legs",
+            "special_l",
+            "special_r"
         ],
         "sellPrice": 0,
         "buyPrice": 0,
@@ -57,9 +68,14 @@
         "commendationCurrencyType": null,
         "commendationCurrencyCost": null,
         "equipLocationNames": [
-            "Neck/Back"
+            "Right Hand",
+            "Left Hand",
+            "Headgear",
+            "Neck/Back",
+            "Torso",
+            "Pants"
         ],
-        "isWeapon": false,
+        "isWeapon": true,
         "levelRequirement": 0
     },
     "overview": {},

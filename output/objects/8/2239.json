@@ -2,7 +2,7 @@
     "objectID": 2239,
     "itemInfo": {
         "name": "Test Chargeup Spear",
-        "displayName": null,
+        "displayName": "Test Chargeup Spear",
         "type": "Loot",
         "description": null,
         "internalNotes": null
@@ -70,12 +70,9 @@
             "spawnsObject": false,
             "spawnsQuickbuild": false,
             "meleeAttack": true,
-            "projectileAttack": true,
-            "damageComboArray": [
-                1,
-                1,
-                1
-            ],
+            "projectileAttack": false,
+            "projectileAttackChargeUp": true,
+            "damageComboArray": [],
             "chargeUpArmorRestore": [],
             "chargeUpImaginationRestore": [],
             "projectileLOTs": [],

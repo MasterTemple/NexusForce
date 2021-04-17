@@ -2,7 +2,7 @@
     "objectID": 12619,
     "itemInfo": {
         "name": "TEST",
-        "displayName": null,
+        "displayName": "TEST",
         "type": "Loot",
         "description": null,
         "internalNotes": "Testing Eng Valiant offhand skill"
@@ -76,6 +76,7 @@
             "spawnsQuickbuild": true,
             "meleeAttack": false,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [],
             "chargeUpArmorRestore": [],
             "chargeUpImaginationRestore": [],

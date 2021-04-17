@@ -2,7 +2,7 @@
     "objectID": 7148,
     "itemInfo": {
         "name": "Test Breastplate of Taunting",
-        "displayName": null,
+        "displayName": "Test Breastplate of Taunting",
         "type": "Loot",
         "description": "TEST Chest piece",
         "internalNotes": "TEST Chest piece"
@@ -87,6 +87,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": false,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [],
             "chargeUpArmorRestore": [],
             "chargeUpImaginationRestore": [],
@@ -98,7 +99,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/png/m2587.png",
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m2587.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

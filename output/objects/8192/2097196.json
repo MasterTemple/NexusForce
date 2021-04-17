@@ -15,8 +15,8 @@
     "objectSkills": {},
     "behaviorIDs": [],
     "stats": {},
-    "overview": {},
     "itemComponent": {
+        "subItems": null,
         "equipLocation": [
             ""
         ],
@@ -33,13 +33,15 @@
         "isTwoHanded": 0,
         "altCurrencyType": null,
         "altCurrencyCost": null,
-        "subItems": null,
         "commendationCurrencyType": null,
         "commendationCurrencyCost": null,
         "equipLocationNames": [],
         "isWeapon": false,
         "levelRequirement": 0
     },
+    "overview": {},
+    "proxySkillIDs": [],
+    "proxySkills": {},
     "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/m30153_47.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
@@ -50,7 +52,5 @@
         "EnemyIDs": [],
         "Enemies": []
     },
-    "earn": {},
-    "proxySkillIDs": [],
-    "proxySkills": {}
+    "earn": {}
 }

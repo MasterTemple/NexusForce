@@ -52,5 +52,14 @@
         "EnemyIDs": [],
         "Enemies": []
     },
-    "earn": {}
+    "earn": {
+        "1929": {
+            "defined_type": "Hidden",
+            "defined_subtype": "Hidden",
+            "missionName": "DNL - Lightning Key Hidden Achievement",
+            "missionDescription": "Unavailable",
+            "isMission": 0,
+            "rewardCount": 1
+        }
+    }
 }

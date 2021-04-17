@@ -2,7 +2,7 @@
     "objectID": 7164,
     "itemInfo": {
         "name": "Test Fishing Pole",
-        "displayName": null,
+        "displayName": "Test Fishing Pole",
         "type": "Loot",
         "description": null,
         "internalNotes": "2/2/3 piercing weapon with pull"
@@ -92,6 +92,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 2,
                 2,
@@ -112,6 +113,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": false,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [],
             "chargeUpArmorRestore": [],
             "chargeUpImaginationRestore": [],

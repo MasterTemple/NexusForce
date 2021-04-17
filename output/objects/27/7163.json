@@ -2,7 +2,7 @@
     "objectID": 7163,
     "itemInfo": {
         "name": "Test Saw of Pulling",
-        "displayName": null,
+        "displayName": "Test Saw of Pulling",
         "type": "Loot",
         "description": null,
         "internalNotes": "3/3/3 with Pull"
@@ -92,6 +92,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 3,
                 3,
@@ -112,6 +113,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": false,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [],
             "chargeUpArmorRestore": [],
             "chargeUpImaginationRestore": [],

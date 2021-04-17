@@ -2,7 +2,7 @@
     "objectID": 20,
     "itemInfo": {
         "name": "Rank 1 Buccaneer Book",
-        "displayName": null,
+        "displayName": "Rank 1 Buccaneer Book",
         "type": "Loot",
         "description": "Double-click to use!",
         "internalNotes": "Read this to learn the secrets of being a Rank 1 Buccaneer!"
@@ -27,15 +27,19 @@
             "skillIcon": 3685,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Read this book to learn the secrets of a Rank 1 Buccaneer!",
+                "name": "Secrets of a Buccaneer 1"
+            }
         }
     },
     "behaviorIDs": [
         17624
     ],
     "stats": {},
-    "overview": {},
     "itemComponent": {
+        "subItems": null,
         "equipLocation": [
             null
         ],
@@ -55,7 +59,6 @@
         "isTwoHanded": 0,
         "altCurrencyType": 8321,
         "altCurrencyCost": 15,
-        "subItems": null,
         "commendationCurrencyType": null,
         "commendationCurrencyCost": null,
         "equipLocationNames": [],
@@ -68,6 +71,9 @@
             "36": "You need to be a member of the Venture League to use this."
         }
     },
+    "overview": {},
+    "proxySkillIDs": [],
+    "proxySkills": {},
     "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/misc/book_venture.png",
     "buyAndDrop": {
         "LootTableIndexes": [
@@ -131,7 +137,5 @@
         "EnemyIDs": [],
         "Enemies": []
     },
-    "earn": {},
-    "proxySkillIDs": [],
-    "proxySkills": {}
+    "earn": {}
 }

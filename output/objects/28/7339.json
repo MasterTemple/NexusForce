@@ -2,7 +2,7 @@
     "objectID": 7339,
     "itemInfo": {
         "name": "Test Katana of Bees",
-        "displayName": null,
+        "displayName": "Test Katana of Bees",
         "type": "Loot",
         "description": "Testing the SJ tornado skill",
         "internalNotes": "Testing the Spinjutzu tornado skill"
@@ -92,6 +92,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 3,
                 3,
@@ -112,6 +113,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": false,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [],
             "chargeUpArmorRestore": [],
             "chargeUpImaginationRestore": [],

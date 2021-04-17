@@ -2,7 +2,7 @@
     "objectID": 7219,
     "itemInfo": {
         "name": "NPC Banana Gun",
-        "displayName": null,
+        "displayName": "NPC Banana Gun",
         "type": "Loot",
         "description": "For use with treeMonkey",
         "internalNotes": "For use with treeMonkey"

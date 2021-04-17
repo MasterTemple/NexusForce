@@ -27,7 +27,13 @@
             "skillIcon": 3646,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "%(DamageCombo) 20 %(Description)Makes you rush forward, doing 20 damage and knocking down the enemy that you strike",
+                "name": "Broom Boost",
+                "damageCombo": " 20 ",
+                "Description": "Makes you rush forward, doing 20 damage and knocking down the enemy that you strike"
+            }
         }
     },
     "behaviorIDs": [

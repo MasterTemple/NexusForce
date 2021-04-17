@@ -27,7 +27,11 @@
             "skillIcon": 3584,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Collectibles appear on your minimap for a long time",
+                "name": "Treasure Finding"
+            }
         }
     },
     "behaviorIDs": [

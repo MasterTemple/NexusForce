@@ -2,7 +2,7 @@
     "objectID": 16262,
     "itemInfo": {
         "name": "Ice Shuriken Left Hand Proxy",
-        "displayName": null,
+        "displayName": "Ice Shuriken Left Hand Proxy",
         "type": "Loot",
         "description": null,
         "internalNotes": null
@@ -76,6 +76,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 6,
                 23

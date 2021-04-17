@@ -43,34 +43,8 @@
         "cooldown": 0.4,
         "cooldowngroup": 1
     },
-    "overview": {
-        "16595": {
-            "hasChargeUp": true,
-            "spawnsObject": false,
-            "spawnsQuickbuild": false,
-            "meleeAttack": true,
-            "projectileAttack": false,
-            "damageComboArray": [
-                6,
-                18,
-                1,
-                6,
-                2,
-                7,
-                2,
-                8
-            ],
-            "chargeUpArmorRestore": [],
-            "chargeUpImaginationRestore": [],
-            "projectileLOTs": [],
-            "projectileInfo": {},
-            "projectileDamageComboArray": [],
-            "chargeUpCombo": 0,
-            "doubleJumpSmash": 4,
-            "singleJumpSmash": 6
-        }
-    },
     "itemComponent": {
+        "subItems": null,
         "equipLocation": [
             "special_r"
         ],
@@ -89,7 +63,6 @@
         "isTwoHanded": 0,
         "altCurrencyType": null,
         "altCurrencyCost": null,
-        "subItems": null,
         "commendationCurrencyType": 13763,
         "commendationCurrencyCost": 10,
         "equipLocationNames": [
@@ -100,6 +73,37 @@
         "commendationCurrencyDisplayName": "Faction Token",
         "preconditionDescriptions": {}
     },
+    "overview": {
+        "16595": {
+            "hasChargeUp": true,
+            "spawnsObject": false,
+            "spawnsQuickbuild": false,
+            "meleeAttack": true,
+            "projectileAttack": false,
+            "projectileAttackChargeUp": false,
+            "damageComboArray": [
+                6,
+                18,
+                1,
+                6,
+                2,
+                7,
+                2,
+                8
+            ],
+            "chargeUpArmorRestore": [],
+            "chargeUpImaginationRestore": [],
+            "projectileLOTs": [],
+            "projectileInfo": {},
+            "projectileDamageComboArray": [],
+            "chargeUpCombo": 0,
+            "doubleJumpSmash": 4,
+            "singleJumpSmash": 6,
+            "chargeUpCost": -2
+        }
+    },
+    "proxySkillIDs": [],
+    "proxySkills": {},
     "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/hands/imaginationstaff.png",
     "buyAndDrop": {
         "LootTableIndexes": [
@@ -131,7 +135,5 @@
             "isMission": 1,
             "rewardCount": 1
         }
-    },
-    "proxySkillIDs": [],
-    "proxySkills": {}
+    }
 }

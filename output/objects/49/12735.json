@@ -27,7 +27,11 @@
             "skillIcon": 3091,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Tosses a firecracker that does 7 damage to enemies",
+                "name": "Big Bang"
+            }
         }
     },
     "behaviorIDs": [
@@ -1514,8 +1518,8 @@
                 },
                 "inNpcEditor": 0,
                 "overallChance": {
-                    "percent": 6.25,
-                    "howManyToKill": 16
+                    "percent": 5.0,
+                    "howManyToKill": 20
                 },
                 "LootTableIndexItems": 17,
                 "PackageComponent": {

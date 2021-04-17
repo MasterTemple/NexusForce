@@ -483,6 +483,38 @@
             "isMission": 1,
             "rewardCount": 1
         },
+        "1723": {
+            "defined_type": "Hidden",
+            "defined_subtype": "Hidden",
+            "missionName": "Unavailable",
+            "missionDescription": "Unavailable",
+            "isMission": 0,
+            "rewardCount": 1
+        },
+        "1724": {
+            "defined_type": "Hidden",
+            "defined_subtype": "Hidden",
+            "missionName": "Unavailable",
+            "missionDescription": "Unavailable",
+            "isMission": 0,
+            "rewardCount": 1
+        },
+        "1725": {
+            "defined_type": "Hidden",
+            "defined_subtype": "Hidden",
+            "missionName": "Unavailable",
+            "missionDescription": "Unavailable",
+            "isMission": 0,
+            "rewardCount": 1
+        },
+        "1726": {
+            "defined_type": "Hidden",
+            "defined_subtype": "Hidden",
+            "missionName": "Unavailable",
+            "missionDescription": "Unavailable",
+            "isMission": 0,
+            "rewardCount": 1
+        },
         "1862": {
             "defined_type": "Location",
             "defined_subtype": "Avant Gardens",

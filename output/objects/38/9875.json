@@ -30,13 +30,19 @@
         }
     },
     "behaviorIDs": [
-        11860
+        11860,
+        15569
     ],
     "stats": {},
     "itemComponent": {
-        "subItems": "10701,10702",
+        "subItems": [
+            10701,
+            10702
+        ],
         "equipLocation": [
-            "chest"
+            "chest",
+            "legs",
+            "clavicle"
         ],
         "sellPrice": 45,
         "buyPrice": 450,
@@ -54,14 +60,36 @@
         "commendationCurrencyType": null,
         "commendationCurrencyCost": null,
         "equipLocationNames": [
-            "Torso"
+            "Neck/Back",
+            "Torso",
+            "Pants"
         ],
         "isWeapon": false,
         "levelRequirement": 0
     },
     "overview": {},
-    "proxySkillIDs": [],
-    "proxySkills": {},
+    "proxySkillIDs": [
+        838
+    ],
+    "proxySkills": {
+        "838": {
+            "castOnType": 0,
+            "AICombatWeight": 0,
+            "behaviorID": 15569,
+            "imaginationcost": 0,
+            "cooldowngroup": 13,
+            "cooldown": 60.0,
+            "inNpcEditor": 0,
+            "skillIcon": 2965,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Makes you perform a special salute known only to LEGO Club members and restores 5 Imagination",
+                "name": "LEGO Club Salute"
+            }
+        }
+    },
     "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/m73200_club_lego.png",
     "buyAndDrop": {
         "LootTableIndexes": [

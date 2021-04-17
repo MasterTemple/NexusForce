@@ -27,7 +27,11 @@
             "skillIcon": 4718,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Boosts your maximum Armor and Imagination for 300 seconds",
+                "name": "Eat Flame-Roasted Popsicle"
+            }
         }
     },
     "behaviorIDs": [

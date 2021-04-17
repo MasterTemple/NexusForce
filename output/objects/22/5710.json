@@ -2,7 +2,7 @@
     "objectID": 5710,
     "itemInfo": {
         "name": "Test Package",
-        "displayName": null,
+        "displayName": "Test Package",
         "type": "Loot",
         "description": null,
         "internalNotes": "Test for package tech"

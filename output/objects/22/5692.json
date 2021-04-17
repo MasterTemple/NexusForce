@@ -2,7 +2,7 @@
     "objectID": 5692,
     "itemInfo": {
         "name": "NPC Map - right hand",
-        "displayName": null,
+        "displayName": "NPC Map - right hand",
         "type": "Loot",
         "description": null,
         "internalNotes": null
@@ -44,7 +44,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/png/m3068.png",
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3068.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

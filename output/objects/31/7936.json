@@ -2,7 +2,7 @@
     "objectID": 7936,
     "itemInfo": {
         "name": "Test_Acc_Helmet1",
-        "displayName": null,
+        "displayName": "Test_Acc_Helmet1",
         "type": "Loot",
         "description": "Test object for brett",
         "internalNotes": "Test object for brett"

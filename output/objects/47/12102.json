@@ -27,7 +27,11 @@
             "skillIcon": 4275,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Creates a sunflower that drops Imagination Power-ups",
+                "name": "Sunflower Sprout"
+            }
         }
     },
     "behaviorIDs": [

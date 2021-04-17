@@ -27,7 +27,8 @@
             "skillIcon": 2840,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {}
         }
     },
     "behaviorIDs": [

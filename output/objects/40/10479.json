@@ -27,7 +27,11 @@
             "skillIcon": 3688,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Freezes your enemies in fear",
+                "name": "Vision of the Dragon"
+            }
         }
     },
     "behaviorIDs": [

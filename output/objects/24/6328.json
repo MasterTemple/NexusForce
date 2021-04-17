@@ -2,7 +2,7 @@
     "objectID": 6328,
     "itemInfo": {
         "name": "Test Client Blaster",
-        "displayName": null,
+        "displayName": "Test Client Blaster",
         "type": "Loot",
         "description": "Test Client Blaster",
         "internalNotes": "Test Client Blaster"
@@ -71,6 +71,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": true,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 1,
                 1,

@@ -2,7 +2,7 @@
     "objectID": 3193,
     "itemInfo": {
         "name": "Test Reindeer Egg",
-        "displayName": null,
+        "displayName": "Test Reindeer Egg",
         "type": "Loot",
         "description": "no longer used",
         "internalNotes": "no longer used"
@@ -42,7 +42,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/png/m3005.png",
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3005.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

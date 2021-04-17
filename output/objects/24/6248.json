@@ -2,7 +2,7 @@
     "objectID": 6248,
     "itemInfo": {
         "name": "Test Hat of Attacking",
-        "displayName": null,
+        "displayName": "Test Hat of Attacking",
         "type": "Loot",
         "description": "for testing the action bar - bad offset",
         "internalNotes": "for testing the action bar"
@@ -76,6 +76,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [],
             "chargeUpArmorRestore": [],
             "chargeUpImaginationRestore": [],

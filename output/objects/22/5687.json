@@ -2,7 +2,7 @@
     "objectID": 5687,
     "itemInfo": {
         "name": "NPC Sword - Back Slung",
-        "displayName": null,
+        "displayName": "NPC Sword - Back Slung",
         "type": "Loot",
         "description": "Large sword worn on the Minifigure's back",
         "internalNotes": "Large sword worn on the Minifigure's back"
@@ -44,7 +44,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/png/m44493.png",
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m44493.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

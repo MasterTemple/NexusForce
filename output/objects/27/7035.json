@@ -2,7 +2,7 @@
     "objectID": 7035,
     "itemInfo": {
         "name": "Test PvP Shortsword no stun no move",
-        "displayName": null,
+        "displayName": "Test PvP Shortsword no stun no move",
         "type": "Loot",
         "description": "Sword with no caster stun skill",
         "internalNotes": "Sword with no caster stun skill"
@@ -71,6 +71,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [],
             "chargeUpArmorRestore": [],
             "chargeUpImaginationRestore": [],

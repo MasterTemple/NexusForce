@@ -2,7 +2,7 @@
     "objectID": 6713,
     "itemInfo": {
         "name": "Test Precondition",
-        "displayName": null,
+        "displayName": "Test Precondition",
         "type": "Loot",
         "description": "Precondition Test - bad offset",
         "internalNotes": "Precondition Test - bad offset"
@@ -27,7 +27,8 @@
             "skillIcon": 2840,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {}
         }
     },
     "behaviorIDs": [

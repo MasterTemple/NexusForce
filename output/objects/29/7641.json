@@ -2,7 +2,7 @@
     "objectID": 7641,
     "itemInfo": {
         "name": "NPC Coalessa Staff",
-        "displayName": null,
+        "displayName": "NPC Coalessa Staff",
         "type": "Loot",
         "description": "Special NPC Left Hand Staff 2/3/3 Short Smashing",
         "internalNotes": "Special NPC Left Hand Staff 2/3/3 Short Smashing"
@@ -76,6 +76,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 2,
                 3,

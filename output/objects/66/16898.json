@@ -27,7 +27,11 @@
             "skillIcon": 4763,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Summons a Crocodile that assists you in battle",
+                "name": "Summon Crocodile"
+            }
         }
     },
     "behaviorIDs": [

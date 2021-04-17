@@ -2,7 +2,7 @@
     "objectID": 5841,
     "itemInfo": {
         "name": "Test Stun Pulse Blaster",
-        "displayName": null,
+        "displayName": "Test Stun Pulse Blaster",
         "type": "Loot",
         "description": "Stuns and fires multiple shots",
         "internalNotes": "Stuns and fires multiple shots"
@@ -71,6 +71,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": true,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 1,
                 1,

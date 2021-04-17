@@ -2,7 +2,7 @@
     "objectID": 1725,
     "itemInfo": {
         "name": "NPC Sentinel Breastplate of Armor",
-        "displayName": null,
+        "displayName": "NPC Sentinel Breastplate of Armor",
         "type": "Loot",
         "description": null,
         "internalNotes": null
@@ -65,7 +65,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/png/m2587.png",
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m2587.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             83

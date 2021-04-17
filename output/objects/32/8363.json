@@ -27,7 +27,11 @@
             "skillIcon": 4121,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Boosts your Imagination by 5 for 300 seconds and restores up to 43 Imagination",
+                "name": "Glitter Glow"
+            }
         }
     },
     "behaviorIDs": [

@@ -2,7 +2,7 @@
     "objectID": 8276,
     "itemInfo": {
         "name": "Test Performance Test Shield",
-        "displayName": null,
+        "displayName": "Test Performance Test Shield",
         "type": "Loot",
         "description": "For performance testing accessories",
         "internalNotes": "For performance testing accessories"
@@ -71,6 +71,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [],
             "chargeUpArmorRestore": [],
             "chargeUpImaginationRestore": [],

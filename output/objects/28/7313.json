@@ -2,7 +2,7 @@
     "objectID": 7313,
     "itemInfo": {
         "name": "Test SJ Katana NOT CURRENT",
-        "displayName": null,
+        "displayName": "Test SJ Katana NOT CURRENT",
         "type": "Loot",
         "description": "Testing the SJ tornado skill",
         "internalNotes": "Testing the Spinjutzu tornado skill"
@@ -92,6 +92,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 3,
                 3,
@@ -112,6 +113,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [],
             "chargeUpArmorRestore": [],
             "chargeUpImaginationRestore": [],

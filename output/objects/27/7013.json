@@ -2,7 +2,7 @@
     "objectID": 7013,
     "itemInfo": {
         "name": "Test Weapon Skills Item",
-        "displayName": null,
+        "displayName": "Test Weapon Skills Item",
         "type": "Loot",
         "description": "Test Weapon Skills Item",
         "internalNotes": "Test Weapon Skills Item"
@@ -76,6 +76,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 3,
                 3,

@@ -55,21 +55,37 @@
             "skillIcon": 2825,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "%(DamageCombo) 1+1+1 %(Description)Attack enemies with your crate",
+                "name": "[DNL] UI Crate Fighting Attack",
+                "damageCombo": " 1+1+1 ",
+                "Description": "Attack enemies with your crate"
+            }
         }
     },
     "behaviorIDs": [
         4253,
         29328,
-        11860
+        11860,
+        29329
     ],
     "stats": {
         "imBonusUI": 3
     },
     "itemComponent": {
-        "subItems": "13744,13745,13605,13839",
+        "subItems": [
+            13744,
+            13745,
+            13605,
+            13839
+        ],
         "equipLocation": [
-            "root"
+            "root",
+            "hair",
+            "special_l",
+            "special_r",
+            "clavicle"
         ],
         "sellPrice": 5,
         "buyPrice": 50,
@@ -88,8 +104,13 @@
         "altCurrencyCost": 5,
         "commendationCurrencyType": null,
         "commendationCurrencyCost": null,
-        "equipLocationNames": [],
-        "isWeapon": false,
+        "equipLocationNames": [
+            "Right Hand",
+            "Left Hand",
+            "Headgear",
+            "Neck/Back"
+        ],
+        "isWeapon": true,
         "levelRequirement": "10",
         "altCurrencyName": "Paradox Token",
         "altCurrencyDisplayName": "Paradox Token",
@@ -98,8 +119,30 @@
         }
     },
     "overview": {},
-    "proxySkillIDs": [],
-    "proxySkills": {},
+    "proxySkillIDs": [
+        1263
+    ],
+    "proxySkills": {
+        "1263": {
+            "castOnType": 0,
+            "AICombatWeight": null,
+            "behaviorID": 29329,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 0.4,
+            "inNpcEditor": 0,
+            "skillIcon": 2825,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "%(DamageCombo) 1+1+1 [DNL]%(Description)Attack enemies with your box disguise",
+                "name": "Boxing Box",
+                "damageCombo": " 1+1+1 [DNL]",
+                "Description": "Attack enemies with your box disguise"
+            }
+        }
+    },
     "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/misc/assemblycratedisguise.png",
     "buyAndDrop": {
         "LootTableIndexes": [

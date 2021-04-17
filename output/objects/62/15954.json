@@ -95,7 +95,8 @@
         4257,
         36249,
         37628,
-        11860
+        11860,
+        36653
     ],
     "stats": {
         "armorBonusUI": 5,
@@ -104,9 +105,14 @@
         "cooldowngroup": 5
     },
     "itemComponent": {
-        "subItems": "15948,15946",
+        "subItems": [
+            15948,
+            15946
+        ],
         "equipLocation": [
-            "hair"
+            "hair",
+            "clavicle",
+            "Extra_6"
         ],
         "sellPrice": 2057,
         "buyPrice": 20575,
@@ -126,7 +132,8 @@
         "commendationCurrencyType": null,
         "commendationCurrencyCost": null,
         "equipLocationNames": [
-            "Headgear"
+            "Headgear",
+            "Neck/Back"
         ],
         "isWeapon": false,
         "levelRequirement": "25",
@@ -141,6 +148,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": false,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [],
             "chargeUpArmorRestore": [],
             "chargeUpImaginationRestore": [],
@@ -150,8 +158,30 @@
             "chargeUpCombo": 0
         }
     },
-    "proxySkillIDs": [],
-    "proxySkills": {},
+    "proxySkillIDs": [
+        1481
+    ],
+    "proxySkills": {
+        "1481": {
+            "castOnType": 0,
+            "AICombatWeight": 0,
+            "behaviorID": 36653,
+            "imaginationcost": 7,
+            "cooldowngroup": 2,
+            "cooldown": 20.0,
+            "inNpcEditor": 0,
+            "skillIcon": 4706,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "%(DamageCombo) 4 %(AltCombo) 18 %(Description)Sends a wave of energy that cuts through enemies",
+                "name": "Ninjago Katana Strike",
+                "damageCombo": " 4 %(AltCombo) 18 ",
+                "Description": "Sends a wave of energy that cuts through enemies"
+            }
+        }
+    },
     "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/helms/gray_ninja_hood_katana.png",
     "buyAndDrop": {
         "LootTableIndexes": [

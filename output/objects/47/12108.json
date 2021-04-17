@@ -27,7 +27,11 @@
             "skillIcon": 2965,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Restores up to 30 Life, 30 Imagination and 30 Armor over time and boosts 5 Life, 5 Imagination and 5 Armor for 120 seconds",
+                "name": "Party Clown"
+            }
         }
     },
     "behaviorIDs": [

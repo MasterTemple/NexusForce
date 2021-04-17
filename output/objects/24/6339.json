@@ -2,7 +2,7 @@
     "objectID": 6339,
     "itemInfo": {
         "name": "NPC Space chestpiece",
-        "displayName": null,
+        "displayName": "NPC Space chestpiece",
         "type": "Loot",
         "description": "",
         "internalNotes": null
@@ -44,7 +44,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/png/m2587.png",
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m2587.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

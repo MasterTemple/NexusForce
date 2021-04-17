@@ -2,7 +2,7 @@
     "objectID": 8017,
     "itemInfo": {
         "name": "Test_Acc_Epsilon Gun_L",
-        "displayName": null,
+        "displayName": "Test_Acc_Epsilon Gun_L",
         "type": "Loot",
         "description": "Test object for brett",
         "internalNotes": "Test object for brett"
@@ -75,6 +75,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 2,
                 3,

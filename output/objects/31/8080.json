@@ -2,7 +2,7 @@
     "objectID": 8080,
     "itemInfo": {
         "name": "NPC Epsilon Starcracker Gun",
-        "displayName": null,
+        "displayName": "NPC Epsilon Starcracker Gun",
         "type": "Loot",
         "description": "NPC Epsilon Starcracker Gun",
         "internalNotes": "NPC Epsilon Starcracker Gun"
@@ -75,6 +75,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 2,
                 3,

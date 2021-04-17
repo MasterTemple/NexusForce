@@ -27,7 +27,11 @@
             "skillIcon": 3712,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Grows flowers on nearby characters and restores 6 Imagination to them",
+                "name": "Chuck Dirt Clods"
+            }
         }
     },
     "behaviorIDs": [

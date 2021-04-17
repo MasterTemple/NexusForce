@@ -27,7 +27,11 @@
             "skillIcon": 2951,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Gives a speed boost for 120 seconds",
+                "name": "Eat Electric Hoagie"
+            }
         }
     },
     "behaviorIDs": [

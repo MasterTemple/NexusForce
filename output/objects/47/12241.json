@@ -27,7 +27,11 @@
             "skillIcon": 3462,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Gives a speed boost for 9 seconds that knocks down enemies",
+                "name": "Hot Cocoa Rush"
+            }
         }
     },
     "behaviorIDs": [

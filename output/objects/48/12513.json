@@ -27,7 +27,11 @@
             "skillIcon": 3244,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Rolls a 6-sided die",
+                "name": "Roll the Dice"
+            }
         }
     },
     "behaviorIDs": [

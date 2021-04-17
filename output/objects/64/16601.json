@@ -59,32 +59,10 @@
         "cooldown": 0.0,
         "cooldowngroup": 1
     },
-    "overview": {
-        "35998": {
-            "hasChargeUp": false,
-            "spawnsObject": false,
-            "spawnsQuickbuild": false,
-            "meleeAttack": true,
-            "projectileAttack": false,
-            "damageComboArray": [
-                1,
-                6,
-                2,
-                6,
-                3,
-                10
-            ],
-            "chargeUpArmorRestore": [],
-            "chargeUpImaginationRestore": [],
-            "projectileLOTs": [],
-            "projectileInfo": {},
-            "projectileDamageComboArray": [],
-            "chargeUpCombo": 0,
-            "doubleJumpSmash": 4,
-            "singleJumpSmash": 6
-        }
-    },
     "itemComponent": {
+        "subItems": [
+            14841
+        ],
         "equipLocation": [
             "special_r",
             "special_l"
@@ -104,9 +82,6 @@
         "isTwoHanded": 0,
         "altCurrencyType": null,
         "altCurrencyCost": null,
-        "subItems": [
-            14841
-        ],
         "commendationCurrencyType": null,
         "commendationCurrencyCost": null,
         "equipLocationNames": [
@@ -117,6 +92,56 @@
         "levelRequirement": "10",
         "preconditionDescriptions": {
             "248": "You must be Level 10 or greater to use this item."
+        }
+    },
+    "overview": {
+        "35998": {
+            "hasChargeUp": false,
+            "spawnsObject": false,
+            "spawnsQuickbuild": false,
+            "meleeAttack": true,
+            "projectileAttack": false,
+            "projectileAttackChargeUp": false,
+            "damageComboArray": [
+                1,
+                6,
+                2,
+                6,
+                3,
+                10
+            ],
+            "chargeUpArmorRestore": [],
+            "chargeUpImaginationRestore": [],
+            "projectileLOTs": [],
+            "projectileInfo": {},
+            "projectileDamageComboArray": [],
+            "chargeUpCombo": 0,
+            "doubleJumpSmash": 4,
+            "singleJumpSmash": 6
+        }
+    },
+    "proxySkillIDs": [
+        1454
+    ],
+    "proxySkills": {
+        "1454": {
+            "castOnType": 0,
+            "AICombatWeight": 0,
+            "behaviorID": 35876,
+            "imaginationcost": 4,
+            "cooldowngroup": 2,
+            "cooldown": 5.0,
+            "inNpcEditor": 0,
+            "skillIcon": 3082,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "%(DamageCombo) 4 %(AltCombo) 20 %(Description)Spin around and deal damage to enemies",
+                "name": "Ninjago Roundhouse",
+                "damageCombo": " 4 %(AltCombo) 20 ",
+                "Description": "Spin around and deal damage to enemies"
+            }
         }
     },
     "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m43899_131.png",
@@ -1122,29 +1147,5 @@
             }
         ]
     },
-    "earn": {},
-    "proxySkillIDs": [
-        1454
-    ],
-    "proxySkills": {
-        "1454": {
-            "castOnType": 0,
-            "AICombatWeight": 0,
-            "behaviorID": 35876,
-            "imaginationcost": 4,
-            "cooldowngroup": 2,
-            "cooldown": 5.0,
-            "inNpcEditor": 0,
-            "skillIcon": 3082,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null,
-            "info": {
-                "rawDescription": "%(DamageCombo) 4 %(AltCombo) 20 %(Description)Spin around and deal damage to enemies",
-                "name": "Ninjago Roundhouse",
-                "damageCombo": " 4 %(AltCombo) 20 ",
-                "Description": "Spin around and deal damage to enemies"
-            }
-        }
-    }
+    "earn": {}
 }

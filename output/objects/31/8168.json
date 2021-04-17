@@ -2,7 +2,7 @@
     "objectID": 8168,
     "itemInfo": {
         "name": "Test something",
-        "displayName": null,
+        "displayName": "Test something",
         "type": "Loot",
         "description": "test something",
         "internalNotes": "test something"

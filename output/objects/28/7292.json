@@ -2,7 +2,7 @@
     "objectID": 7292,
     "itemInfo": {
         "name": "Test Jet Pack Hover",
-        "displayName": null,
+        "displayName": "Test Jet Pack Hover",
         "type": "Loot",
         "description": "Jet Pack that hovers Use for Property Editing",
         "internalNotes": "Jet Pack that hovers Use for Property Editing"

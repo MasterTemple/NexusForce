@@ -27,7 +27,11 @@
             "skillIcon": 3041,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Sprouts flowers!",
+                "name": "Shovel Gardening"
+            }
         }
     },
     "behaviorIDs": [

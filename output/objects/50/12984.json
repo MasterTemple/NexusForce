@@ -103,6 +103,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": true,
+            "projectileAttackChargeUp": true,
             "damageComboArray": [
                 1,
                 1,

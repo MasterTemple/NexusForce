@@ -2,7 +2,7 @@
     "objectID": 6655,
     "itemInfo": {
         "name": "NPC The Stig's Helmet",
-        "displayName": null,
+        "displayName": "NPC The Stig's Helmet",
         "type": "Loot",
         "description": null,
         "internalNotes": null
@@ -63,7 +63,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/png/m30124.png",
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30124.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

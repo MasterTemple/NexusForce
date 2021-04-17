@@ -2,7 +2,7 @@
     "objectID": 8111,
     "itemInfo": {
         "name": "NPC Melodie Foxtrot Weapon L",
-        "displayName": null,
+        "displayName": "NPC Melodie Foxtrot Weapon L",
         "type": "Loot",
         "description": "NPC Melodie Foxtrot Weapon L",
         "internalNotes": "NPC Melodie Foxtrot Weapon L"
@@ -75,6 +75,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 2,
                 3,

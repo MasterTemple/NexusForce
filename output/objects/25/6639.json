@@ -2,7 +2,7 @@
     "objectID": 6639,
     "itemInfo": {
         "name": "Test Katana - 2 pt",
-        "displayName": null,
+        "displayName": "Test Katana - 2 pt",
         "type": "Loot",
         "description": null,
         "internalNotes": null
@@ -71,6 +71,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [],
             "chargeUpArmorRestore": [],
             "chargeUpImaginationRestore": [],

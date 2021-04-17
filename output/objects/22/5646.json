@@ -2,7 +2,7 @@
     "objectID": 5646,
     "itemInfo": {
         "name": "NPC Camera",
-        "displayName": null,
+        "displayName": "NPC Camera",
         "type": "Loot",
         "description": "Camera held by obstacle course camera man",
         "internalNotes": "Camera held by obstacle course camera man"

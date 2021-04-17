@@ -100,6 +100,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": true,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 1,
                 1,
@@ -123,7 +124,8 @@
                 8
             ],
             "chargeUpCombo": 0,
-            "doubleJumpSmash": 4
+            "doubleJumpSmash": 4,
+            "chargeUpCost": -2
         }
     },
     "proxySkillIDs": [
@@ -172,5 +174,14 @@
         "EnemyIDs": [],
         "Enemies": []
     },
-    "earn": {}
+    "earn": {
+        "1937": {
+            "defined_type": "Hidden",
+            "defined_subtype": "Hidden",
+            "missionName": "Unavailable",
+            "missionDescription": "Unavailable",
+            "isMission": 0,
+            "rewardCount": 0
+        }
+    }
 }

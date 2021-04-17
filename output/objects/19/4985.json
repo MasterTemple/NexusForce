@@ -2,7 +2,7 @@
     "objectID": 4985,
     "itemInfo": {
         "name": "Test Contest Portal Rebuild Loot",
-        "displayName": null,
+        "displayName": "Test Contest Portal Rebuild Loot",
         "type": "Loot",
         "description": null,
         "internalNotes": null
@@ -42,7 +42,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/png/m3062.png",
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3062.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

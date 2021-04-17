@@ -2,7 +2,7 @@
     "objectID": 3479,
     "itemInfo": {
         "name": "unused Quest Brick - 1x1 plate",
-        "displayName": null,
+        "displayName": "unused Quest Brick - 1x1 plate",
         "type": "Loot",
         "description": "Mission Item - Unused",
         "internalNotes": "Unused Mission Item - Hidden"
@@ -42,7 +42,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/png/m3070.png",
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3070.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

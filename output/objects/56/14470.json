@@ -27,7 +27,11 @@
             "skillIcon": 3120,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Boosts your maximum Armor by 1 for 60 seconds",
+                "name": "Eat Flame Fruit"
+            }
         }
     },
     "behaviorIDs": [

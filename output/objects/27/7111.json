@@ -2,7 +2,7 @@
     "objectID": 7111,
     "itemInfo": {
         "name": "NPC Venture Grunt Breastplate",
-        "displayName": null,
+        "displayName": "NPC Venture Grunt Breastplate",
         "type": "Loot",
         "description": "NPC Chest piece",
         "internalNotes": "NPC Chest piece"
@@ -65,7 +65,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/png/m2587.png",
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m2587.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

@@ -2,7 +2,7 @@
     "objectID": 9817,
     "itemInfo": {
         "name": "Buccaneer Offhand 3 - Proxy",
-        "displayName": null,
+        "displayName": "Buccaneer Offhand 3 - Proxy",
         "type": "Loot",
         "description": "Rank 3 Specialty Kit Item. Tied to Buccaneer weapon 3",
         "internalNotes": "Rank 3 Specialty Kit Item - Proxy"
@@ -76,6 +76,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": false,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [],
             "chargeUpArmorRestore": [],
             "chargeUpImaginationRestore": [],

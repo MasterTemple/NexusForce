@@ -2,7 +2,7 @@
     "objectID": 8161,
     "itemInfo": {
         "name": "Test for Item Componets",
-        "displayName": null,
+        "displayName": "Test for Item Componets",
         "type": "Loot",
         "description": "TEST",
         "internalNotes": "TEST"

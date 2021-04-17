@@ -72,7 +72,23 @@
             "20": "You must be inside a build area."
         }
     },
-    "overview": {},
+    "overview": {
+        "1664": {
+            "hasChargeUp": false,
+            "spawnsObject": false,
+            "spawnsQuickbuild": false,
+            "meleeAttack": false,
+            "projectileAttack": false,
+            "projectileAttackChargeUp": false,
+            "damageComboArray": [],
+            "chargeUpArmorRestore": [],
+            "chargeUpImaginationRestore": [],
+            "projectileLOTs": [],
+            "projectileInfo": {},
+            "projectileDamageComboArray": [],
+            "chargeUpCombo": 0
+        }
+    },
     "proxySkillIDs": [],
     "proxySkills": {},
     "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/thinking_hat.png",

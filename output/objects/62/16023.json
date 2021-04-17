@@ -27,7 +27,11 @@
             "skillIcon": 4700,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Summons a Ninja dog that assists you in battle",
+                "name": "Summon Ninjago Hound"
+            }
         }
     },
     "behaviorIDs": [
@@ -35,7 +39,7 @@
     ],
     "stats": {},
     "itemComponent": {
-        "subItems": "",
+        "subItems": "                                                  ",
         "equipLocation": [
             ""
         ],

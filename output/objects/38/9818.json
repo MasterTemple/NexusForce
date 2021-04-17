@@ -2,7 +2,7 @@
     "objectID": 9818,
     "itemInfo": {
         "name": "Daredevil Offhand 1 - Proxy",
-        "displayName": null,
+        "displayName": "Daredevil Offhand 1 - Proxy",
         "type": "Loot",
         "description": "Rank 1 Specialty Kit Item. Tied to Daredevil weapon 1",
         "internalNotes": "Rank 1 Specialty Kit Item - Proxy"
@@ -76,6 +76,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [],
             "chargeUpArmorRestore": [],
             "chargeUpImaginationRestore": [],

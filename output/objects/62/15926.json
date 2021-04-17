@@ -68,7 +68,7 @@
         "imBonusUI": 3
     },
     "itemComponent": {
-        "subItems": "",
+        "subItems": "                                                  ",
         "equipLocation": [
             "hair"
         ],

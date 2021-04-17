@@ -2,7 +2,7 @@
     "objectID": 7333,
     "itemInfo": {
         "name": "Test tak effect",
-        "displayName": null,
+        "displayName": "Test tak effect",
         "type": "Loot",
         "description": "TEST tak effect",
         "internalNotes": "TEST tak effect"
@@ -64,7 +64,23 @@
         "isWeapon": true,
         "levelRequirement": 0
     },
-    "overview": {},
+    "overview": {
+        "3859": {
+            "hasChargeUp": false,
+            "spawnsObject": false,
+            "spawnsQuickbuild": false,
+            "meleeAttack": false,
+            "projectileAttack": false,
+            "projectileAttackChargeUp": false,
+            "damageComboArray": [],
+            "chargeUpArmorRestore": [],
+            "chargeUpImaginationRestore": [],
+            "projectileLOTs": [],
+            "projectileInfo": {},
+            "projectileDamageComboArray": [],
+            "chargeUpCombo": 0
+        }
+    },
     "proxySkillIDs": [],
     "proxySkills": {},
     "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m2561_192.png",

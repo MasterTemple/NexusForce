@@ -27,7 +27,11 @@
             "skillIcon": 2965,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Restores 11 Life to nearby characters",
+                "name": "Guitar Riff"
+            }
         }
     },
     "behaviorIDs": [

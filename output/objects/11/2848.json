@@ -2,7 +2,7 @@
     "objectID": 2848,
     "itemInfo": {
         "name": "NPC Tan Outback Hat",
-        "displayName": null,
+        "displayName": "NPC Tan Outback Hat",
         "type": "Loot",
         "description": null,
         "internalNotes": null
@@ -44,7 +44,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/png/m3701.png",
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3701.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

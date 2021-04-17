@@ -2,7 +2,7 @@
     "objectID": 1272,
     "itemInfo": {
         "name": "Test Chargeup Hammer",
-        "displayName": null,
+        "displayName": "Test Chargeup Hammer",
         "type": "Loot",
         "description": null,
         "internalNotes": null
@@ -76,6 +76,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [],
             "chargeUpArmorRestore": [],
             "chargeUpImaginationRestore": [],

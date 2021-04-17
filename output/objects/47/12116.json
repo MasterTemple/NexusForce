@@ -27,7 +27,11 @@
             "skillIcon": 4029,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Restores up to 8 Life, 24 Armor and 32 Imagination over time",
+                "name": "Juggle"
+            }
         }
     },
     "behaviorIDs": [

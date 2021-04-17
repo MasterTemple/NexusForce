@@ -2,7 +2,7 @@
     "objectID": 5693,
     "itemInfo": {
         "name": "NPC Quill",
-        "displayName": null,
+        "displayName": "NPC Quill",
         "type": "Loot",
         "description": "needs icon",
         "internalNotes": "needs icon"
@@ -44,7 +44,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/png/m30126.png",
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30126.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

@@ -2,7 +2,7 @@
     "objectID": 8371,
     "itemInfo": {
         "name": "Shuriken",
-        "displayName": null,
+        "displayName": "Shuriken",
         "type": "Loot",
         "description": "Double-click to use!",
         "internalNotes": "throws???"
@@ -27,7 +27,13 @@
             "skillIcon": 3680,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "%(DamageCombo) 3 %(Description)Throw a fan of shuriken at enemies",
+                "name": "Shuriken Throw",
+                "damageCombo": " 3 ",
+                "Description": "Throw a fan of shuriken at enemies"
+            }
         }
     },
     "behaviorIDs": [

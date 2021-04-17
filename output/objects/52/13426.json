@@ -27,7 +27,13 @@
             "skillIcon": 4147,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "%(DamageCombo) 8 %(Description)Drops an anchor that does 8 damage to an enemey",
+                "name": "Anchors Away",
+                "damageCombo": " 8 ",
+                "Description": "Drops an anchor that does 8 damage to an enemey"
+            }
         }
     },
     "behaviorIDs": [

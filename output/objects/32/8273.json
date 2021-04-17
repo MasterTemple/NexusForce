@@ -2,7 +2,7 @@
     "objectID": 8273,
     "itemInfo": {
         "name": "Test Performance Test Helmet",
-        "displayName": null,
+        "displayName": "Test Performance Test Helmet",
         "type": "Loot",
         "description": "For performance testing accessories",
         "internalNotes": "For performance testing accessories"
@@ -76,6 +76,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 10
             ],

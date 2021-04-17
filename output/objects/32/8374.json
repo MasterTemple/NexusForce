@@ -2,7 +2,7 @@
     "objectID": 8374,
     "itemInfo": {
         "name": "Test Summon Scroll",
-        "displayName": null,
+        "displayName": "Test Summon Scroll",
         "type": "Loot",
         "description": null,
         "internalNotes": "Summon a teammate to your location"
@@ -27,7 +27,11 @@
             "skillIcon": 3091,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Tosses a firecracker that does 3 damage to enemies",
+                "name": "Throw Firecracker"
+            }
         }
     },
     "behaviorIDs": [

@@ -2,7 +2,7 @@
     "objectID": 7998,
     "itemInfo": {
         "name": "Test_Acc_ProxyArmor",
-        "displayName": null,
+        "displayName": "Test_Acc_ProxyArmor",
         "type": "Loot",
         "description": "Test object for brett",
         "internalNotes": "Test object for brett"

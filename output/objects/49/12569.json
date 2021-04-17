@@ -27,7 +27,11 @@
             "skillIcon": 3681,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Slows enemies",
+                "name": "Stink Blast"
+            }
         }
     },
     "behaviorIDs": [

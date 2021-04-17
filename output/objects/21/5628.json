@@ -2,7 +2,7 @@
     "objectID": 5628,
     "itemInfo": {
         "name": "Test Rangers Elite Long Bow",
-        "displayName": null,
+        "displayName": "Test Rangers Elite Long Bow",
         "type": "Loot",
         "description": "bad offset",
         "internalNotes": "bad offset"
@@ -71,6 +71,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": true,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 1,
                 1,

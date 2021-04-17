@@ -2,7 +2,7 @@
     "objectID": 16553,
     "itemInfo": {
         "name": "TEST OwlPack",
-        "displayName": null,
+        "displayName": "TEST OwlPack",
         "type": "Loot",
         "description": null,
         "internalNotes": null
@@ -34,8 +34,8 @@
         39529
     ],
     "stats": {},
-    "overview": {},
     "itemComponent": {
+        "subItems": null,
         "equipLocation": [
             "clavicle"
         ],
@@ -52,7 +52,6 @@
         "isTwoHanded": 0,
         "altCurrencyType": null,
         "altCurrencyCost": null,
-        "subItems": null,
         "commendationCurrencyType": null,
         "commendationCurrencyCost": null,
         "equipLocationNames": [
@@ -61,6 +60,9 @@
         "isWeapon": false,
         "levelRequirement": 0
     },
+    "overview": {},
+    "proxySkillIDs": [],
+    "proxySkills": {},
     "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/icons/owl_brown.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
@@ -71,7 +73,5 @@
         "EnemyIDs": [],
         "Enemies": []
     },
-    "earn": {},
-    "proxySkillIDs": [],
-    "proxySkills": {}
+    "earn": {}
 }

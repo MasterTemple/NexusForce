@@ -2,7 +2,7 @@
     "objectID": 8275,
     "itemInfo": {
         "name": "Test Performance Test Armor",
-        "displayName": null,
+        "displayName": "Test Performance Test Armor",
         "type": "Loot",
         "description": "For performance testing accessories",
         "internalNotes": "For performance testing accessories"
@@ -76,6 +76,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 5
             ],

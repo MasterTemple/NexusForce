@@ -27,7 +27,13 @@
             "skillIcon": 4276,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "%(DamageCombo) 3/2 %(Description)Plants a seed that grows into a massive plant that assists you in battle",
+                "name": "Plant Pod",
+                "damageCombo": " 3/2 ",
+                "Description": "Plants a seed that grows into a massive plant that assists you in battle"
+            }
         }
     },
     "behaviorIDs": [

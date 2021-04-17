@@ -27,7 +27,11 @@
             "skillIcon": 2965,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Restores up to 5 Life, 10 Imagination and 10 Armor over time",
+                "name": "Yo Ho Ho"
+            }
         }
     },
     "behaviorIDs": [

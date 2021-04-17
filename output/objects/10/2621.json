@@ -2,7 +2,7 @@
     "objectID": 2621,
     "itemInfo": {
         "name": "NPC Bug Net",
-        "displayName": null,
+        "displayName": "NPC Bug Net",
         "type": "Loot",
         "description": null,
         "internalNotes": null
@@ -44,7 +44,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/png/m4433.png",
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m4433.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

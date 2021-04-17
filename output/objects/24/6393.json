@@ -2,7 +2,7 @@
     "objectID": 6393,
     "itemInfo": {
         "name": "Test Experimental Pipe Wrench",
-        "displayName": null,
+        "displayName": "Test Experimental Pipe Wrench",
         "type": "Loot",
         "description": "Testing multiple skills on one item",
         "internalNotes": "Testing multiple skills on one item"
@@ -92,6 +92,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [],
             "chargeUpArmorRestore": [],
             "chargeUpImaginationRestore": [],
@@ -108,13 +109,15 @@
             "spawnsQuickbuild": false,
             "meleeAttack": false,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [],
             "chargeUpArmorRestore": [],
             "chargeUpImaginationRestore": [],
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "chargeUpCost": -2
         }
     },
     "proxySkillIDs": [],

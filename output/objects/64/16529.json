@@ -17,8 +17,8 @@
     "objectSkills": {},
     "behaviorIDs": [],
     "stats": {},
-    "overview": {},
     "itemComponent": {
+        "subItems": null,
         "equipLocation": [
             "Extra_1"
         ],
@@ -37,7 +37,6 @@
         "isTwoHanded": 0,
         "altCurrencyType": null,
         "altCurrencyCost": null,
-        "subItems": null,
         "commendationCurrencyType": 13763,
         "commendationCurrencyCost": 10,
         "equipLocationNames": [],
@@ -46,6 +45,9 @@
         "commendationCurrencyDisplayName": "Faction Token",
         "preconditionDescriptions": {}
     },
+    "overview": {},
+    "proxySkillIDs": [],
+    "proxySkills": {},
     "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/models/rew_ninjagomonastery_railing.png",
     "buyAndDrop": {
         "LootTableIndexes": [
@@ -1102,7 +1104,5 @@
             }
         ]
     },
-    "earn": {},
-    "proxySkillIDs": [],
-    "proxySkills": {}
+    "earn": {}
 }

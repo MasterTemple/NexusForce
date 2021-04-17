@@ -2,7 +2,7 @@
     "objectID": 4799,
     "itemInfo": {
         "name": "Test Bow",
-        "displayName": null,
+        "displayName": "Test Bow",
         "type": "Loot",
         "description": "bad offset; needs icon",
         "internalNotes": "bad offset; needs icon"
@@ -70,12 +70,9 @@
             "spawnsObject": false,
             "spawnsQuickbuild": false,
             "meleeAttack": true,
-            "projectileAttack": true,
-            "damageComboArray": [
-                1,
-                1,
-                1
-            ],
+            "projectileAttack": false,
+            "projectileAttackChargeUp": true,
+            "damageComboArray": [],
             "chargeUpArmorRestore": [],
             "chargeUpImaginationRestore": [],
             "projectileLOTs": [],

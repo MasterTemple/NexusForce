@@ -95,7 +95,8 @@
         4255,
         36257,
         37628,
-        11860
+        11860,
+        36236
     ],
     "stats": {
         "armorBonusUI": 6,
@@ -104,9 +105,14 @@
         "cooldowngroup": 5
     },
     "itemComponent": {
-        "subItems": "15956,15957",
+        "subItems": [
+            15956,
+            15957
+        ],
         "equipLocation": [
-            "hair"
+            "hair",
+            "clavicle",
+            "Extra_6"
         ],
         "sellPrice": 2160,
         "buyPrice": 21607,
@@ -126,7 +132,8 @@
         "commendationCurrencyType": null,
         "commendationCurrencyCost": null,
         "equipLocationNames": [
-            "Headgear"
+            "Headgear",
+            "Neck/Back"
         ],
         "isWeapon": false,
         "levelRequirement": "20",
@@ -141,6 +148,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": false,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [],
             "chargeUpArmorRestore": [],
             "chargeUpImaginationRestore": [],
@@ -150,8 +158,30 @@
             "chargeUpCombo": 0
         }
     },
-    "proxySkillIDs": [],
-    "proxySkills": {},
+    "proxySkillIDs": [
+        1462
+    ],
+    "proxySkills": {
+        "1462": {
+            "castOnType": 0,
+            "AICombatWeight": 0,
+            "behaviorID": 36236,
+            "imaginationcost": 9,
+            "cooldowngroup": 2,
+            "cooldown": 25.0,
+            "inNpcEditor": 0,
+            "skillIcon": 4707,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "%(DamageCombo) 10 %(AltCombo) 25 %(Description)Throws your spear through enemies",
+                "name": "Ninjago Spear Throw",
+                "damageCombo": " 10 %(AltCombo) 25 ",
+                "Description": "Throws your spear through enemies"
+            }
+        }
+    },
     "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/helms/purple_ninja_hood_spear.png",
     "buyAndDrop": {
         "LootTableIndexes": [

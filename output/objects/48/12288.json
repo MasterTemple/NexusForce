@@ -27,7 +27,11 @@
             "skillIcon": 3844,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Throws a snowball at a nearby player",
+                "name": "Throw Snowball"
+            }
         }
     },
     "behaviorIDs": [
@@ -112,8 +116,8 @@
                 },
                 "inNpcEditor": 0,
                 "overallChance": {
-                    "percent": 33.0,
-                    "howManyToKill": 3
+                    "percent": 24.75,
+                    "howManyToKill": 4
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},

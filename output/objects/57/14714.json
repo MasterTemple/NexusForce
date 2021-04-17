@@ -81,6 +81,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 2,
                 7,
@@ -166,8 +167,8 @@
                 },
                 "inNpcEditor": 1,
                 "overallChance": {
-                    "percent": 0.08,
-                    "howManyToKill": 1250
+                    "percent": 0.008,
+                    "howManyToKill": 12500
                 },
                 "LootTableIndexItems": 2,
                 "PackageComponent": {},

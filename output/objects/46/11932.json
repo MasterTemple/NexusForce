@@ -2,7 +2,7 @@
     "objectID": 11932,
     "itemInfo": {
         "name": "Rank 3 Shinobi Book",
-        "displayName": null,
+        "displayName": "Rank 3 Shinobi Book",
         "type": "Loot",
         "description": "Double-click to use!",
         "internalNotes": "Read this to learn the secrets of being a Rank 3 Shinobi!"
@@ -27,7 +27,11 @@
             "skillIcon": 3685,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Read this book to learn the secrets of a Rank 3 Shinobi and unlock an Imagination Point!",
+                "name": "Secrets of a Shinobi 3"
+            }
         }
     },
     "behaviorIDs": [

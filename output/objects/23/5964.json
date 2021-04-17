@@ -2,7 +2,7 @@
     "objectID": 5964,
     "itemInfo": {
         "name": "Test prereq system - pet turban",
-        "displayName": null,
+        "displayName": "Test prereq system - pet turban",
         "type": "Loot",
         "description": "Put this on to start building",
         "internalNotes": "Put this on to start building"
@@ -46,7 +46,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/png/m40235.png",
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m40235.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

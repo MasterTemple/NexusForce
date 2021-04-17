@@ -2,7 +2,7 @@
     "objectID": 5654,
     "itemInfo": {
         "name": "Test Sword",
-        "displayName": null,
+        "displayName": "Test Sword",
         "type": "Loot",
         "description": "For testing colors and NOT skills",
         "internalNotes": "For testing colors and NOT skills"
@@ -76,6 +76,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 1,
                 1,

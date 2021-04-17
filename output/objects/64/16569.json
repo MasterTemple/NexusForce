@@ -17,8 +17,8 @@
     "objectSkills": {},
     "behaviorIDs": [],
     "stats": {},
-    "overview": {},
     "itemComponent": {
+        "subItems": null,
         "equipLocation": [
             "Extra_1"
         ],
@@ -37,13 +37,15 @@
         "isTwoHanded": 0,
         "altCurrencyType": null,
         "altCurrencyCost": null,
-        "subItems": null,
         "commendationCurrencyType": null,
         "commendationCurrencyCost": null,
         "equipLocationNames": [],
         "isWeapon": false,
         "preconditionDescriptions": {}
     },
+    "overview": {},
+    "proxySkillIDs": [],
+    "proxySkills": {},
     "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/models/rew_skeletonoutpost_keep.png",
     "buyAndDrop": {
         "LootTableIndexes": [
@@ -1089,7 +1091,5 @@
             }
         ]
     },
-    "earn": {},
-    "proxySkillIDs": [],
-    "proxySkills": {}
+    "earn": {}
 }

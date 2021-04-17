@@ -68,7 +68,7 @@
         "imBonusUI": 2
     },
     "itemComponent": {
-        "subItems": "",
+        "subItems": "                                                  ",
         "equipLocation": [
             "clavicle"
         ],

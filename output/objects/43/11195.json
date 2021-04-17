@@ -44,7 +44,7 @@
         "cooldowngroup": 1
     },
     "itemComponent": {
-        "subItems": "",
+        "subItems": "                                                  ",
         "equipLocation": [
             "special_r"
         ],
@@ -80,6 +80,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 6,
                 18,
@@ -97,7 +98,8 @@
             "projectileDamageComboArray": [],
             "chargeUpCombo": 0,
             "doubleJumpSmash": 4,
-            "singleJumpSmash": 6
+            "singleJumpSmash": 6,
+            "chargeUpCost": -2
         }
     },
     "proxySkillIDs": [],

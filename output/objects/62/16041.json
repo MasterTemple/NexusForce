@@ -27,7 +27,11 @@
             "skillIcon": 3120,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Restores 6 Armor",
+                "name": "Use Cotton Repair Kit"
+            }
         }
     },
     "behaviorIDs": [
@@ -116,8 +120,8 @@
                 },
                 "inNpcEditor": 0,
                 "overallChance": {
-                    "percent": 0.0638,
-                    "howManyToKill": 1567
+                    "percent": 0.0625,
+                    "howManyToKill": 1600
                 },
                 "LootTableIndexItems": 26,
                 "PackageComponent": {},
@@ -169,8 +173,8 @@
                 },
                 "inNpcEditor": 0,
                 "overallChance": {
-                    "percent": 0.0638,
-                    "howManyToKill": 1567
+                    "percent": 0.0625,
+                    "howManyToKill": 1600
                 },
                 "LootTableIndexItems": 26,
                 "PackageComponent": {},
@@ -221,8 +225,8 @@
                 },
                 "inNpcEditor": 0,
                 "overallChance": {
-                    "percent": 0.0638,
-                    "howManyToKill": 1567
+                    "percent": 0.0625,
+                    "howManyToKill": 1600
                 },
                 "LootTableIndexItems": 26,
                 "PackageComponent": {},
@@ -273,8 +277,8 @@
                 },
                 "inNpcEditor": 0,
                 "overallChance": {
-                    "percent": 0.0638,
-                    "howManyToKill": 1567
+                    "percent": 0.0625,
+                    "howManyToKill": 1600
                 },
                 "LootTableIndexItems": 26,
                 "PackageComponent": {},
@@ -325,8 +329,8 @@
                 },
                 "inNpcEditor": 0,
                 "overallChance": {
-                    "percent": 0.0638,
-                    "howManyToKill": 1567
+                    "percent": 0.0625,
+                    "howManyToKill": 1600
                 },
                 "LootTableIndexItems": 26,
                 "PackageComponent": {},
@@ -385,8 +389,8 @@
                 },
                 "inNpcEditor": 1,
                 "overallChance": {
-                    "percent": 0.025500000000000002,
-                    "howManyToKill": 3922
+                    "percent": 0.025,
+                    "howManyToKill": 4000
                 },
                 "LootTableIndexItems": 26,
                 "PackageComponent": {},
@@ -450,8 +454,8 @@
                 },
                 "inNpcEditor": 1,
                 "overallChance": {
-                    "percent": 0.0383,
-                    "howManyToKill": 2611
+                    "percent": 0.0375,
+                    "howManyToKill": 2667
                 },
                 "LootTableIndexItems": 26,
                 "PackageComponent": {},
@@ -508,8 +512,8 @@
                 },
                 "inNpcEditor": 1,
                 "overallChance": {
-                    "percent": 1.0204,
-                    "howManyToKill": 98
+                    "percent": 1.0,
+                    "howManyToKill": 100
                 },
                 "LootTableIndexItems": 26,
                 "PackageComponent": {},
@@ -558,8 +562,8 @@
                 },
                 "inNpcEditor": 1,
                 "overallChance": {
-                    "percent": 2.551,
-                    "howManyToKill": 39
+                    "percent": 2.5,
+                    "howManyToKill": 40
                 },
                 "LootTableIndexItems": 26,
                 "PackageComponent": {},
@@ -618,8 +622,8 @@
                 },
                 "inNpcEditor": 1,
                 "overallChance": {
-                    "percent": 1.0204,
-                    "howManyToKill": 98
+                    "percent": 1.0,
+                    "howManyToKill": 100
                 },
                 "LootTableIndexItems": 26,
                 "PackageComponent": {},
@@ -668,8 +672,8 @@
                 },
                 "inNpcEditor": 1,
                 "overallChance": {
-                    "percent": 2.551,
-                    "howManyToKill": 39
+                    "percent": 2.5,
+                    "howManyToKill": 40
                 },
                 "LootTableIndexItems": 26,
                 "PackageComponent": {},
@@ -720,8 +724,8 @@
                 },
                 "inNpcEditor": 1,
                 "overallChance": {
-                    "percent": 2.551,
-                    "howManyToKill": 39
+                    "percent": 2.5,
+                    "howManyToKill": 40
                 },
                 "LootTableIndexItems": 26,
                 "PackageComponent": {},
@@ -772,8 +776,8 @@
                 },
                 "inNpcEditor": 1,
                 "overallChance": {
-                    "percent": 2.551,
-                    "howManyToKill": 39
+                    "percent": 2.5,
+                    "howManyToKill": 40
                 },
                 "LootTableIndexItems": 26,
                 "PackageComponent": {},
@@ -832,8 +836,8 @@
                 },
                 "inNpcEditor": 1,
                 "overallChance": {
-                    "percent": 1.0204,
-                    "howManyToKill": 98
+                    "percent": 1.0,
+                    "howManyToKill": 100
                 },
                 "LootTableIndexItems": 26,
                 "PackageComponent": {},
@@ -890,8 +894,8 @@
                 },
                 "inNpcEditor": 1,
                 "overallChance": {
-                    "percent": 0.0383,
-                    "howManyToKill": 2611
+                    "percent": 0.0375,
+                    "howManyToKill": 2667
                 },
                 "LootTableIndexItems": 26,
                 "PackageComponent": {},
@@ -976,8 +980,8 @@
                 },
                 "inNpcEditor": 1,
                 "overallChance": {
-                    "percent": 0.025500000000000002,
-                    "howManyToKill": 3922
+                    "percent": 0.025,
+                    "howManyToKill": 4000
                 },
                 "LootTableIndexItems": 26,
                 "PackageComponent": {},
@@ -1034,8 +1038,8 @@
                 },
                 "inNpcEditor": 1,
                 "overallChance": {
-                    "percent": 0.025500000000000002,
-                    "howManyToKill": 3922
+                    "percent": 0.025,
+                    "howManyToKill": 4000
                 },
                 "LootTableIndexItems": 26,
                 "PackageComponent": {},
@@ -1092,8 +1096,8 @@
                 },
                 "inNpcEditor": 1,
                 "overallChance": {
-                    "percent": 0.0383,
-                    "howManyToKill": 2611
+                    "percent": 0.0375,
+                    "howManyToKill": 2667
                 },
                 "LootTableIndexItems": 26,
                 "PackageComponent": {},
@@ -1150,8 +1154,8 @@
                 },
                 "inNpcEditor": 1,
                 "overallChance": {
-                    "percent": 0.025500000000000002,
-                    "howManyToKill": 3922
+                    "percent": 0.025,
+                    "howManyToKill": 4000
                 },
                 "LootTableIndexItems": 26,
                 "PackageComponent": {},
@@ -1208,8 +1212,8 @@
                 },
                 "inNpcEditor": 1,
                 "overallChance": {
-                    "percent": 0.0383,
-                    "howManyToKill": 2611
+                    "percent": 0.0375,
+                    "howManyToKill": 2667
                 },
                 "LootTableIndexItems": 26,
                 "PackageComponent": {},
@@ -1331,6 +1335,22 @@
         ]
     },
     "earn": {
+        "2062": {
+            "defined_type": "Hidden",
+            "defined_subtype": "Hidden",
+            "missionName": "Unavailable",
+            "missionDescription": "Unavailable",
+            "isMission": 1,
+            "rewardCount": 2
+        },
+        "2063": {
+            "defined_type": "Hidden",
+            "defined_subtype": "Hidden",
+            "missionName": "Unavailable",
+            "missionDescription": "Unavailable",
+            "isMission": 1,
+            "rewardCount": 2
+        },
         "2028": {
             "defined_type": "Hidden",
             "defined_subtype": "Hidden",

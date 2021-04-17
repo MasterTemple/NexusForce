@@ -27,7 +27,11 @@
             "skillIcon": 4026,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Boosts your Life and Imagination by 5 for 180 seconds and restores 5 Life and 5 Imagination",
+                "name": "Tea Boost"
+            }
         }
     },
     "behaviorIDs": [
@@ -115,8 +119,8 @@
                 },
                 "inNpcEditor": 0,
                 "overallChance": {
-                    "percent": 7.8125,
-                    "howManyToKill": 13
+                    "percent": 6.25,
+                    "howManyToKill": 16
                 },
                 "LootTableIndexItems": 17,
                 "PackageComponent": {

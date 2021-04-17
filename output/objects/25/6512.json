@@ -2,7 +2,7 @@
     "objectID": 6512,
     "itemInfo": {
         "name": "NPC Rusty Wrench",
-        "displayName": null,
+        "displayName": "NPC Rusty Wrench",
         "type": "Loot",
         "description": "NPC Rusty Wrench",
         "internalNotes": "NPC Rusty Wrench"

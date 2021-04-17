@@ -27,7 +27,11 @@
             "skillIcon": 3475,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Creates a Quick Build trap that does 5 damage to an enemy",
+                "name": "Summon Boom Trap"
+            }
         }
     },
     "behaviorIDs": [

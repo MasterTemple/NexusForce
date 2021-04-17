@@ -2,7 +2,7 @@
     "objectID": 3053,
     "itemInfo": {
         "name": "Test Hammer All Stat Buff",
-        "displayName": null,
+        "displayName": "Test Hammer All Stat Buff",
         "type": "Loot",
         "description": "Item to test buff stats with",
         "internalNotes": "Item to test buff stats with"

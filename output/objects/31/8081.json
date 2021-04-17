@@ -2,7 +2,7 @@
     "objectID": 8081,
     "itemInfo": {
         "name": "Test Sword of Testing",
-        "displayName": null,
+        "displayName": "Test Sword of Testing",
         "type": "Loot",
         "description": "",
         "internalNotes": null
@@ -76,6 +76,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 1,
                 1,

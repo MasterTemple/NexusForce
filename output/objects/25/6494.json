@@ -2,7 +2,7 @@
     "objectID": 6494,
     "itemInfo": {
         "name": "NPC Sentinel Scout Spear",
-        "displayName": null,
+        "displayName": "NPC Sentinel Scout Spear",
         "type": "Loot",
         "description": "Spear used by Sentinel Scout NPCs",
         "internalNotes": "Spear used by Sentinel Scout NPCs"
@@ -76,6 +76,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [],
             "chargeUpArmorRestore": [],
             "chargeUpImaginationRestore": [],

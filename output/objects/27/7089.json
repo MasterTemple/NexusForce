@@ -2,7 +2,7 @@
     "objectID": 7089,
     "itemInfo": {
         "name": "Test Horse Mount",
-        "displayName": null,
+        "displayName": "Test Horse Mount",
         "type": "Loot",
         "description": "The Magical Mystery Horse",
         "internalNotes": "The Magical Mystery Horse"
@@ -42,7 +42,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/png/m3701.png",
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3701.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

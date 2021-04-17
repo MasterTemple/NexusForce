@@ -2,7 +2,7 @@
     "objectID": 6652,
     "itemInfo": {
         "name": "Test AoE Hammer Tier 3",
-        "displayName": null,
+        "displayName": "Test AoE Hammer Tier 3",
         "type": "Loot",
         "description": null,
         "internalNotes": null
@@ -71,6 +71,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [],
             "chargeUpArmorRestore": [],
             "chargeUpImaginationRestore": [],

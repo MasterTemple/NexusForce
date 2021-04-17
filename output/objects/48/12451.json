@@ -27,7 +27,11 @@
             "skillIcon": 2965,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Restores 11 Armor to nearby characters",
+                "name": "Bass Riff"
+            }
         }
     },
     "behaviorIDs": [

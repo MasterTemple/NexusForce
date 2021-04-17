@@ -2,7 +2,7 @@
     "objectID": 2241,
     "itemInfo": {
         "name": "Test Elite Hammer",
-        "displayName": null,
+        "displayName": "Test Elite Hammer",
         "type": "Loot",
         "description": null,
         "internalNotes": null
@@ -113,6 +113,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 3
             ],
@@ -129,6 +130,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 3,
                 3,

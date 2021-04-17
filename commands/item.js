@@ -87,11 +87,20 @@ module.exports = {
         }
 
         let msgEmbed = require(`./../functions/embedTemplate.js`)
-        if(item?.equipLocationNames?.length === 1){
-            //var description = `**Equip Location:** ${item.equipLocationNames[0]}`
+        var isConsumable = false
+        if(item?.itemComponent?.equipLocationNames?.length === 1){
+            var description = `**Equip Location:** ${item.itemComponent.equipLocationNames[0]}`
+        }else if(item?.itemComponent?.equipLocationNames?.length === 0){
+            var description = `**Equip Location:** Consumable`
+            isConsumable = true
+
         }else{
             var description = `**Equip Locations:** ${item?.itemComponent?.equipLocationNames?.join(`, `)}`
         }
+        // if(item?.itemComponent?.equipLocationNames?.length === 0){
+        //     var description = `**Equip Location:** Consumable`
+        //
+        // }
         let embed = msgEmbed.execute(`${item.itemInfo.displayName} [${item.objectID}]`, description, `https://lu-explorer.web.app/objects/${itemID}`, item.iconURL)
 
         embed.addFields(
@@ -127,7 +136,7 @@ module.exports = {
                     {name: "Cooldown Group", value: item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.cooldowngroup, inline: true},
                 )
             }
-            else if(item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.info?.name){
+            else if(item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.info?.name && isConsumable){
                 embed.addFields(
                     {name: item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.info?.name, value: item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.info?.rawDescription, inline: false},
                 )

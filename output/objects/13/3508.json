@@ -2,7 +2,7 @@
     "objectID": 3508,
     "itemInfo": {
         "name": "unused Quest Brick - Whip/Aerial",
-        "displayName": null,
+        "displayName": "unused Quest Brick - Whip/Aerial",
         "type": "Loot",
         "description": "Mission Item - Unused",
         "internalNotes": "Unused Mission Item - Hidden"
@@ -42,7 +42,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/png/m3957.png",
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3957.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

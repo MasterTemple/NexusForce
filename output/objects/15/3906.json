@@ -2,7 +2,7 @@
     "objectID": 3906,
     "itemInfo": {
         "name": "Test Skunk Wrench",
-        "displayName": null,
+        "displayName": "Test Skunk Wrench",
         "type": "Loot",
         "description": "Used in script for skunk to attach to head.  YR-SG",
         "internalNotes": "Used in script for skunk to attach to head.  YR-SG"

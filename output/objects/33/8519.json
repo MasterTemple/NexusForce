@@ -2,7 +2,7 @@
     "objectID": 8519,
     "itemInfo": {
         "name": "NPCJohnny Thunder Whip",
-        "displayName": null,
+        "displayName": "NPCJohnny Thunder Whip",
         "type": "Loot",
         "description": "NPCJohnny Thunder Whip",
         "internalNotes": "NPCJohnny Thunder Whip"
@@ -78,6 +78,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 2,
                 3,

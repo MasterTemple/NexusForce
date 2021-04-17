@@ -2,7 +2,7 @@
     "objectID": 7661,
     "itemInfo": {
         "name": "Test Yegge Banana",
-        "displayName": null,
+        "displayName": "Test Yegge Banana",
         "type": "Loot",
         "description": "",
         "internalNotes": null
@@ -71,6 +71,7 @@
             "spawnsQuickbuild": true,
             "meleeAttack": false,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [],
             "chargeUpArmorRestore": [],
             "chargeUpImaginationRestore": [],

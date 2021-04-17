@@ -2,7 +2,7 @@
     "objectID": 3799,
     "itemInfo": {
         "name": "NPC Brick 2X4",
-        "displayName": null,
+        "displayName": "NPC Brick 2X4",
         "type": "Loot",
         "description": "Carried by troll in scene 1",
         "internalNotes": "Carried by troll in scene 1"
@@ -42,7 +42,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/png/m3002.png",
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3002.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

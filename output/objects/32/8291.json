@@ -2,7 +2,7 @@
     "objectID": 8291,
     "itemInfo": {
         "name": "Test Faction Currency Item",
-        "displayName": null,
+        "displayName": "Test Faction Currency Item",
         "type": "Loot",
         "description": "This item costs faction currency",
         "internalNotes": "This item costs faction currency"
@@ -80,6 +80,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 2,
                 3,

@@ -27,7 +27,11 @@
             "skillIcon": 4699,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Removes Maelstrom Poisoning caused by Enemies and Restores 4 Life",
+                "name": "Cure Maelstrom Poisoning"
+            }
         }
     },
     "behaviorIDs": [

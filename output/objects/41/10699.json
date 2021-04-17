@@ -27,7 +27,11 @@
             "skillIcon": 3685,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Read this book to learn the secrets of a LEGO Club Member!",
+                "name": "Secrets of a LEGO Club Member"
+            }
         }
     },
     "behaviorIDs": [

@@ -2,7 +2,7 @@
     "objectID": 3293,
     "itemInfo": {
         "name": "GM Only - Flamethrower",
-        "displayName": null,
+        "displayName": "GM Only - Flamethrower",
         "type": "Loot",
         "description": null,
         "internalNotes": null
@@ -71,6 +71,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [],
             "chargeUpArmorRestore": [],
             "chargeUpImaginationRestore": [],

@@ -27,7 +27,11 @@
             "skillIcon": 2859,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Restores 3 Life",
+                "name": "Heal Life 3"
+            }
         }
     },
     "behaviorIDs": [

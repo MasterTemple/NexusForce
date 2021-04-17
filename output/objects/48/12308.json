@@ -111,6 +111,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": false,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [],
             "chargeUpArmorRestore": [],
             "chargeUpImaginationRestore": [],
@@ -244,8 +245,8 @@
                 },
                 "inNpcEditor": 0,
                 "overallChance": {
-                    "percent": 0.12240000000000001,
-                    "howManyToKill": 817
+                    "percent": 0.12,
+                    "howManyToKill": 833
                 },
                 "LootTableIndexItems": 13,
                 "PackageComponent": {},
@@ -302,8 +303,8 @@
                 },
                 "inNpcEditor": 0,
                 "overallChance": {
-                    "percent": 0.20409999999999998,
-                    "howManyToKill": 490
+                    "percent": 0.2,
+                    "howManyToKill": 500
                 },
                 "LootTableIndexItems": 13,
                 "PackageComponent": {},

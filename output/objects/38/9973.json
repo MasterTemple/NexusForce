@@ -27,7 +27,11 @@
             "skillIcon": 3685,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Read this book to learn the secrets of a Rank 3 Knight and unlock an Imagination Point!",
+                "name": "Secrets of a Knight 3"
+            }
         }
     },
     "behaviorIDs": [

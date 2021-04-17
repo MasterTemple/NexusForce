@@ -43,32 +43,8 @@
         "cooldown": 0.0,
         "cooldowngroup": 1
     },
-    "overview": {
-        "33455": {
-            "hasChargeUp": false,
-            "spawnsObject": false,
-            "spawnsQuickbuild": false,
-            "meleeAttack": true,
-            "projectileAttack": false,
-            "damageComboArray": [
-                1,
-                6,
-                1,
-                6,
-                3,
-                9
-            ],
-            "chargeUpArmorRestore": [],
-            "chargeUpImaginationRestore": [],
-            "projectileLOTs": [],
-            "projectileInfo": {},
-            "projectileDamageComboArray": [],
-            "chargeUpCombo": 0,
-            "doubleJumpSmash": 4,
-            "singleJumpSmash": 6
-        }
-    },
     "itemComponent": {
+        "subItems": "                                                  ",
         "equipLocation": [
             "special_r"
         ],
@@ -87,7 +63,6 @@
         "isTwoHanded": 0,
         "altCurrencyType": null,
         "altCurrencyCost": null,
-        "subItems": "",
         "commendationCurrencyType": null,
         "commendationCurrencyCost": null,
         "equipLocationNames": [
@@ -99,6 +74,34 @@
             "248": "You must be Level 10 or greater to use this item."
         }
     },
+    "overview": {
+        "33455": {
+            "hasChargeUp": false,
+            "spawnsObject": false,
+            "spawnsQuickbuild": false,
+            "meleeAttack": true,
+            "projectileAttack": false,
+            "projectileAttackChargeUp": false,
+            "damageComboArray": [
+                1,
+                6,
+                1,
+                6,
+                3,
+                9
+            ],
+            "chargeUpArmorRestore": [],
+            "chargeUpImaginationRestore": [],
+            "projectileLOTs": [],
+            "projectileInfo": {},
+            "projectileDamageComboArray": [],
+            "chargeUpCombo": 0,
+            "doubleJumpSmash": 4,
+            "singleJumpSmash": 6
+        }
+    },
+    "proxySkillIDs": [],
+    "proxySkills": {},
     "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m30173_26.png",
     "buyAndDrop": {
         "LootTableIndexes": [
@@ -1102,7 +1105,5 @@
             }
         ]
     },
-    "earn": {},
-    "proxySkillIDs": [],
-    "proxySkills": {}
+    "earn": {}
 }

@@ -44,7 +44,7 @@
         "cooldowngroup": 2
     },
     "itemComponent": {
-        "subItems": "",
+        "subItems": "                                                  ",
         "equipLocation": [
             "clavicle"
         ],
@@ -78,6 +78,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 10,
                 25

@@ -27,7 +27,11 @@
             "skillIcon": 1032,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Creates a fountain that releases Imagination Power-ups",
+                "name": "Deploy Fountain of Imagination"
+            }
         }
     },
     "behaviorIDs": [

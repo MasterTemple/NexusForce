@@ -2,7 +2,7 @@
     "objectID": 14110,
     "itemInfo": {
         "name": "Earth Staff Left Hand Proxy",
-        "displayName": null,
+        "displayName": "Earth Staff Left Hand Proxy",
         "type": "Loot",
         "description": null,
         "internalNotes": null
@@ -76,6 +76,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 6,
                 16

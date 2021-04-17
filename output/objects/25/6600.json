@@ -2,7 +2,7 @@
     "objectID": 6600,
     "itemInfo": {
         "name": "PvP Carry Barrel",
-        "displayName": null,
+        "displayName": "PvP Carry Barrel",
         "type": "Loot",
         "description": "Carried by the player during a Siege match",
         "internalNotes": "Carried by the player during a Siege match"
@@ -64,7 +64,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/png/m2489.png",
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m2489.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

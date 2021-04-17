@@ -63,7 +63,10 @@
     "behaviorIDs": [
         4263,
         38555,
-        38568
+        38568,
+        15494,
+        38848,
+        11454
     ],
     "stats": {
         "lifeBonusUI": 4,
@@ -71,9 +74,20 @@
         "imBonusUI": 12
     },
     "itemComponent": {
-        "subItems": "14360,14361,14362,14363,14364",
+        "subItems": [
+            14360,
+            14361,
+            14362,
+            14363,
+            14364
+        ],
         "equipLocation": [
-            "hair"
+            "hair",
+            "chest",
+            "legs",
+            "special_r",
+            "special_l",
+            "clavicle"
         ],
         "sellPrice": 0,
         "buyPrice": 0,
@@ -91,14 +105,73 @@
         "commendationCurrencyType": null,
         "commendationCurrencyCost": null,
         "equipLocationNames": [
-            "Headgear"
+            "Right Hand",
+            "Left Hand",
+            "Headgear",
+            "Neck/Back",
+            "Torso",
+            "Pants"
         ],
-        "isWeapon": false,
+        "isWeapon": true,
         "levelRequirement": 0
     },
     "overview": {},
-    "proxySkillIDs": [],
-    "proxySkills": {},
+    "proxySkillIDs": [
+        828,
+        1630,
+        700
+    ],
+    "proxySkills": {
+        "828": {
+            "castOnType": 1,
+            "AICombatWeight": 0,
+            "behaviorID": 15494,
+            "imaginationcost": 0,
+            "cooldowngroup": 29,
+            "cooldown": 30.0,
+            "inNpcEditor": 0,
+            "skillIcon": 0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        },
+        "1630": {
+            "castOnType": 0,
+            "AICombatWeight": 0,
+            "behaviorID": 38848,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 0.0,
+            "inNpcEditor": 0,
+            "skillIcon": 3344,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "%(DamageCombo) 4+4+6+6 %(ChargeUp)Fires a 4 damage projectile",
+                "name": "Rental Flare Guns",
+                "damageCombo": " 4+4+6+6 ",
+                "ChargeUp": "Fires a 4 damage projectile"
+            }
+        },
+        "700": {
+            "castOnType": 0,
+            "AICombatWeight": 0,
+            "behaviorID": 11454,
+            "imaginationcost": 7,
+            "cooldowngroup": 24,
+            "cooldown": 30.0,
+            "inNpcEditor": 0,
+            "skillIcon": 3476,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Gives a speed boost for 12 seconds that does 4 damage over time",
+                "name": "Fig on Fire 2"
+            }
+        }
+    },
     "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/icons/daredevil_kit.png",
     "buyAndDrop": {
         "LootTableIndexes": [],

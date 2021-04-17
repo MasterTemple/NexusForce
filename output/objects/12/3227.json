@@ -2,7 +2,7 @@
     "objectID": 3227,
     "itemInfo": {
         "name": "Test Pet Food",
-        "displayName": null,
+        "displayName": "Test Pet Food",
         "type": "Loot",
         "description": "no longer used",
         "internalNotes": "no longer used"

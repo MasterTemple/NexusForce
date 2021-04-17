@@ -27,7 +27,11 @@
             "skillIcon": 2860,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Boosts your Life by 3 for 120 seconds",
+                "name": "Life Boost 3"
+            }
         }
     },
     "behaviorIDs": [
@@ -172,8 +176,8 @@
                 },
                 "inNpcEditor": 0,
                 "overallChance": {
-                    "percent": 5.263199999999999,
-                    "howManyToKill": 19
+                    "percent": 3.9474,
+                    "howManyToKill": 25
                 },
                 "LootTableIndexItems": 19,
                 "PackageComponent": {

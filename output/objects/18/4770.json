@@ -2,7 +2,7 @@
     "objectID": 4770,
     "itemInfo": {
         "name": "Test Blaster",
-        "displayName": null,
+        "displayName": "Test Blaster",
         "type": "Loot",
         "description": "Laser Gun For Testing",
         "internalNotes": "Laser Gun For Testing"
@@ -70,12 +70,9 @@
             "spawnsObject": false,
             "spawnsQuickbuild": false,
             "meleeAttack": true,
-            "projectileAttack": true,
-            "damageComboArray": [
-                1,
-                1,
-                1
-            ],
+            "projectileAttack": false,
+            "projectileAttackChargeUp": true,
+            "damageComboArray": [],
             "chargeUpArmorRestore": [],
             "chargeUpImaginationRestore": [],
             "projectileLOTs": [],

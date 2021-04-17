@@ -2,7 +2,7 @@
     "objectID": 6791,
     "itemInfo": {
         "name": "Test Animated Equippable",
-        "displayName": null,
+        "displayName": "Test Animated Equippable",
         "type": "Loot",
         "description": "Test horse",
         "internalNotes": "Test horse"

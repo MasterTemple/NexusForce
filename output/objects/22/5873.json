@@ -2,7 +2,7 @@
     "objectID": 5873,
     "itemInfo": {
         "name": "GM Only - Winged Helm of Speed",
-        "displayName": null,
+        "displayName": "GM Only - Winged Helm of Speed",
         "type": "Loot",
         "description": "gives run speed increase",
         "internalNotes": "gives run speed increase"
@@ -71,6 +71,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": false,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [],
             "chargeUpArmorRestore": [],
             "chargeUpImaginationRestore": [],
@@ -82,7 +83,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/png/m60747.png",
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m60747.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

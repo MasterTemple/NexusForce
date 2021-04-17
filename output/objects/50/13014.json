@@ -44,9 +44,20 @@
         "cooldowngroup": 1
     },
     "itemComponent": {
-        "subItems": "13836,13837,13838,13840,13841",
+        "subItems": [
+            13836,
+            13837,
+            13838,
+            13840,
+            13841
+        ],
         "equipLocation": [
-            "special_r"
+            "special_r",
+            "chest",
+            "legs",
+            "clavicle",
+            "hair",
+            "special_l"
         ],
         "sellPrice": 0,
         "buyPrice": 0,
@@ -64,7 +75,12 @@
         "commendationCurrencyType": 13763,
         "commendationCurrencyCost": 25,
         "equipLocationNames": [
-            "Right Hand"
+            "Right Hand",
+            "Left Hand",
+            "Headgear",
+            "Neck/Back",
+            "Torso",
+            "Pants"
         ],
         "isWeapon": true,
         "levelRequirement": 0,
@@ -78,6 +94,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [
                 1
             ],

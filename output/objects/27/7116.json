@@ -2,7 +2,7 @@
     "objectID": 7116,
     "itemInfo": {
         "name": "NPC Renee Belt Breastplate",
-        "displayName": null,
+        "displayName": "NPC Renee Belt Breastplate",
         "type": "Loot",
         "description": "NPC Belt piece",
         "internalNotes": "NPC Belt piece"
@@ -63,7 +63,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/png/m2587.png",
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m2587.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

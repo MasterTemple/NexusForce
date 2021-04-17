@@ -2,7 +2,7 @@
     "objectID": 6612,
     "itemInfo": {
         "name": "NPC Guard Gun",
-        "displayName": null,
+        "displayName": "NPC Guard Gun",
         "type": "Loot",
         "description": "Gun the Guards carry",
         "internalNotes": "Gun the Guards carry"
@@ -44,7 +44,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/png/m30141.png",
+    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30141.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

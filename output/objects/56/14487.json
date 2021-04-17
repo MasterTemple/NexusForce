@@ -52,5 +52,14 @@
         "EnemyIDs": [],
         "Enemies": []
     },
-    "earn": {}
+    "earn": {
+        "1930": {
+            "defined_type": "Hidden",
+            "defined_subtype": "Hidden",
+            "missionName": "DNL - Fire Key Hidden Achievement",
+            "missionDescription": "Unavailable",
+            "isMission": 0,
+            "rewardCount": 1
+        }
+    }
 }

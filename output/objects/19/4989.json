@@ -2,7 +2,7 @@
     "objectID": 4989,
     "itemInfo": {
         "name": "Test Chargeup Flintlock Pistol",
-        "displayName": null,
+        "displayName": "Test Chargeup Flintlock Pistol",
         "type": "Loot",
         "description": "Test for Chargeup Combo ranged weapons",
         "internalNotes": "Test for Chargeup Combo ranged weapons"
@@ -76,6 +76,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": true,
+            "projectileAttackChargeUp": true,
             "damageComboArray": [
                 1,
                 1,
@@ -97,8 +98,8 @@
             "chargeUpCombo": 3,
             "doubleJumpSmash": 1,
             "singleJumpSmash": 1,
-            "projectileChargeUpLOT": 11034,
             "chargeUpCost": -3,
+            "projectileChargeUpLOT": 11034,
             "projectileChargeUpDamage": 3
         }
     },

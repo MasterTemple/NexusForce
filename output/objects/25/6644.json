@@ -27,7 +27,11 @@
             "skillIcon": 1032,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Restores 4 Imagination",
+                "name": "Restore Imagination 4"
+            }
         }
     },
     "behaviorIDs": [

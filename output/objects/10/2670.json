@@ -2,7 +2,7 @@
     "objectID": 2670,
     "itemInfo": {
         "name": "Test Contest Insta Bot",
-        "displayName": null,
+        "displayName": "Test Contest Insta Bot",
         "type": "Loot",
         "description": "Team 5",
         "internalNotes": "Team 5"
@@ -27,7 +27,8 @@
             "skillIcon": 2840,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {}
         }
     },
     "behaviorIDs": [

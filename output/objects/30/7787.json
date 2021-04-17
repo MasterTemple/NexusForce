@@ -27,7 +27,11 @@
             "skillIcon": 3262,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Creates a cauldron that releases Life Power-ups",
+                "name": "Deploy Cauldron of Life"
+            }
         }
     },
     "behaviorIDs": [

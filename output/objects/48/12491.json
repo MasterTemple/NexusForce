@@ -2,7 +2,7 @@
     "objectID": 12491,
     "itemInfo": {
         "name": "TEST",
-        "displayName": null,
+        "displayName": "TEST",
         "type": "Loot",
         "description": null,
         "internalNotes": "Testing Buc Valiant offhand skill"
@@ -74,6 +74,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": false,
             "projectileAttack": false,
+            "projectileAttackChargeUp": false,
             "damageComboArray": [],
             "chargeUpArmorRestore": [],
             "chargeUpImaginationRestore": [],

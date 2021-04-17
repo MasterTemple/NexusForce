@@ -27,7 +27,11 @@
             "skillIcon": 4304,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Deploys a Property Scanner Device",
+                "name": "Deploy Property Scanner"
+            }
         }
     },
     "behaviorIDs": [

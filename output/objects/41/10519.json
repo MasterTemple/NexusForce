@@ -27,7 +27,11 @@
             "skillIcon": 3685,
             "imBonusUI": null,
             "lifeBonusUI": null,
-            "armorBonusUI": null
+            "armorBonusUI": null,
+            "info": {
+                "rawDescription": "Read this book to unlock your Pre-Order Bonus!",
+                "name": "Pre-Order Bonus"
+            }
         }
     },
     "behaviorIDs": [

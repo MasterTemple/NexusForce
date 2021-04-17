@@ -2,7 +2,7 @@
     "objectID": 4927,
     "itemInfo": {
         "name": "Test Blaster Imagination",
-        "displayName": null,
+        "displayName": "Test Blaster Imagination",
         "type": "Loot",
         "description": "uses imagination",
         "internalNotes": "uses imagination"
@@ -71,6 +71,7 @@
             "spawnsQuickbuild": false,
             "meleeAttack": true,
             "projectileAttack": true,
+            "projectileAttackChargeUp": true,
             "damageComboArray": [
                 1,
                 1,
