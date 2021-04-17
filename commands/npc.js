@@ -36,7 +36,8 @@ module.exports = {
         var missionInfo = ``
         if(npcFile.isMissionGiver === 1){
             for (let e = 0; e < Object.keys(npcFile?.missions).length; e++) {
-                missionInfo = `${missionInfo}${npcFile.missions[Object.keys(npcFile?.missions)[e]].MissionStats.MissionText.name} [${Object.keys(npcFile?.missions)[e]}]\n`
+                missionInfo = `${missionInfo}**${e+1}.** __${npcFile.missions[Object.keys(npcFile?.missions)[e]].MissionStats.MissionText.name}__ [${Object.keys(npcFile?.missions)[e]}]\n`
+                missionInfo = `${missionInfo}${npcFile.missions[Object.keys(npcFile?.missions)[e]].MissionStats.MissionText.description}\n`
 
             }
         }
@@ -45,11 +46,13 @@ module.exports = {
             embed.addField(`Missions: [${npcFile.missionsList.length}]`, missionInfo, false)
         }
         var vendorInfo = ``
+        let count = 1
         if(npcFile.isVendor === 1){
             for (let e = 0; e < Object.keys(npcFile?.LootTables).length; e++) {
                 for (let j = 0; j < Object.keys(npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items).length; j++) {
 
-                    vendorInfo = `${vendorInfo}${npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items[Object.keys(npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items)[j]].displayName} [${Object.keys(npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items)[j]}]\n`
+                    vendorInfo = `${vendorInfo}**${count}.** ${npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items[Object.keys(npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items)[j]].displayName} [${Object.keys(npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items)[j]}]\n`
+                    count++
                 }
             }
         }
