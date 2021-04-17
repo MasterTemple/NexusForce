@@ -64,8 +64,14 @@ module.exports = {
             // {name: "Objective", value: missionFile.objective, inline: true},
             // {name: "Description", value: missionFile.description, inline: true},
         )
+
+        let missionDescription = missionFile.MissionStats.MissionText.description
+        var descriptionArray = missionDescription.split(`<`)
+        for(var i=0;i<descriptionArray.length-1;i++){
+            missionDescription = missionDescription.replace(/<[^>]*>/, '')
+        }
         embed.addFields(
-            {name: "Objective", value: missionFile.MissionStats.MissionText.description, inline: false},
+            {name: "Objective", value: missionDescription, inline: false},
         )
         // if(missionFile?.stats?.length !== 0){
         //
