@@ -1,9 +1,0 @@
-{
-  "id": 400,
-  "name": "m4588",
-  "displayName": "Brick 1x1x1 Round with Fins",
-  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m4588.png",
-  "stackSize": 999,
-  "price": 10,
-  "isSoldByVendor": true
-}

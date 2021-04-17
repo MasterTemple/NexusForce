@@ -1,9 +1,0 @@
-{
-  "id": 496,
-  "name": "m6255",
-  "displayName": "Plant with 3 Leaves",
-  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m6255.png",
-  "stackSize": 999,
-  "price": 10,
-  "isSoldByVendor": true
-}

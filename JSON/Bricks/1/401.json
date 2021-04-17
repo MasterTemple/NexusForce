@@ -1,9 +1,0 @@
-{
-  "id": 401,
-  "name": "m4590",
-  "displayName": "Plate 1x4 with Offset Ends",
-  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m4590.png",
-  "stackSize": 999,
-  "price": 10,
-  "isSoldByVendor": true
-}

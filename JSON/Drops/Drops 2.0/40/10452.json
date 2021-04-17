@@ -1,7 +1,0 @@
-{
-  "id": 10452,
-  "name": "Behavior - Dynamite",
-  "displayName": "Dynamite Behavior",
-  "description": "This Behavior will cause the model to smash when the chat word \"detonate\" is sent.  Use with the Remote Detonator Behavior.",
-  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/missioncomics/wonderland/forbidden_valley/hud_icons/mission_509.png"
-}

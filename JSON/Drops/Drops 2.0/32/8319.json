@@ -1,8 +1,0 @@
-{
-  "id": 8319,
-  "name": "Sentinel Token",
-  "displayName": "Sentinel Faction Token",
-  "description": "Spend this at a Sentinel vendor!",
-  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/misc/faction_coin_sentinel.png",
-  "dropStuff": []
-}

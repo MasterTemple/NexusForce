@@ -1,9 +1,0 @@
-{
-  "id": 5095,
-  "name": "m3840",
-  "displayName": "Vest",
-  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3840.png",
-  "stackSize": 999,
-  "price": 10,
-  "isSoldByVendor": true
-}

@@ -1,9 +1,0 @@
-{
-  "id": 470,
-  "name": "m6148",
-  "displayName": "Palm Leaf",
-  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m6148.png",
-  "stackSize": 999,
-  "price": 10,
-  "isSoldByVendor": true
-}

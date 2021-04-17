@@ -1,9 +1,0 @@
-{
-  "id": 493,
-  "name": "m6249",
-  "displayName": "Brick 2x4 with 2 Pins",
-  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m6249.png",
-  "stackSize": 999,
-  "price": 10,
-  "isSoldByVendor": true
-}

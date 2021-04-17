@@ -1,9 +1,0 @@
-{
-  "id": 66,
-  "name": "m3710",
-  "displayName": "Plate 1x4",
-  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3710.png",
-  "stackSize": 999,
-  "price": 10,
-  "isSoldByVendor": true
-}

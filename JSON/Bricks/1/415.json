@@ -1,9 +1,0 @@
-{
-  "id": 415,
-  "name": "m4740",
-  "displayName": "Dish 2x2 Inverted",
-  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m4740.png",
-  "stackSize": 999,
-  "price": 10,
-  "isSoldByVendor": true
-}

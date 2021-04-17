@@ -1,9 +1,0 @@
-{
-  "id": 116,
-  "name": "m4600",
-  "displayName": "Plate 2x2 with 2 Snaps",
-  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m4600.png",
-  "stackSize": 999,
-  "price": 10,
-  "isSoldByVendor": true
-}

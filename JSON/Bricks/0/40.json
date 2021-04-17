@@ -1,9 +1,0 @@
-{
-  "id": 40,
-  "name": "m3021",
-  "displayName": "Plate 2x3",
-  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3021.png",
-  "stackSize": 999,
-  "price": 10,
-  "isSoldByVendor": true
-}

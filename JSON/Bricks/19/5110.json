@@ -1,9 +1,0 @@
-{
-  "id": 5110,
-  "name": "m4006",
-  "displayName": "Screwdriver/Wrench",
-  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m4006.png",
-  "stackSize": 999,
-  "price": 10,
-  "isSoldByVendor": true
-}

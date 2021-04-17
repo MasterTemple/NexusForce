@@ -1,7 +1,0 @@
-{
-  "id": 10490,
-  "name": "Behavior - Advanced Smash",
-  "displayName": "Advanced Smash Behavior",
-  "description": "Smashes model on attack then completely resets model and all behaviors.",
-  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/achievements/smash.png"
-}

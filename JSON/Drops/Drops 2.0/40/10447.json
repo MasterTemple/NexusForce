@@ -1,7 +1,0 @@
-{
-  "id": 10447,
-  "name": "Behavior - Basic Platform",
-  "displayName": "Basic Platform Behavior",
-  "description": "When interacted with, model will raise and lower.",
-  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_asianplatform-large.png"
-}

@@ -1,7 +1,0 @@
-{
-  "id": 10446,
-  "name": "Behavior - Basic Smash",
-  "displayName": "Basic Smash Behavior",
-  "description": "When attacked, model will smash, wait 10 seconds, then rebuild.",
-  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/achievements/smash.png"
-}

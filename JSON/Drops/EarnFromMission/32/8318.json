@@ -1,8 +1,0 @@
-{
-  "itemID": 8318,
-  "name": "Assembly Token",
-  "displayName": "Assembly Token",
-  "description": "Spend this at an Assembly vendor!",
-  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/misc/faction_coin_assembly.png",
-  "table": []
-}

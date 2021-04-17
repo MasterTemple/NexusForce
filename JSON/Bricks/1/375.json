@@ -1,9 +1,0 @@
-{
-  "id": 375,
-  "name": "m4218",
-  "displayName": "Element for Rolling Gate",
-  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m4218.png",
-  "stackSize": 999,
-  "price": 10,
-  "isSoldByVendor": true
-}

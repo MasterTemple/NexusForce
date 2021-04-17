@@ -1,9 +1,0 @@
-{
-  "id": 808,
-  "name": "m2432",
-  "displayName": "Tile 1x2 with Handle",
-  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m2432.png",
-  "stackSize": 999,
-  "price": 10,
-  "isSoldByVendor": true
-}

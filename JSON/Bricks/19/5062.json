@@ -1,9 +1,0 @@
-{
-  "id": 5062,
-  "name": "m2610",
-  "displayName": "Life Vest",
-  "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m2610.png",
-  "stackSize": 999,
-  "price": 10,
-  "isSoldByVendor": true
-}
