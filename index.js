@@ -52,7 +52,7 @@ client.on('message', message => {
                 command.execute(message, args);
             } catch (error) {
                 console.error(error);
-                message.reply('There was an issue executing that command! 😭');
+                message.reply('The Maelstrom have broken this command!');
             }
         }
     }else if(client.mythranCommands.has(commandName)){
@@ -68,7 +68,7 @@ client.on('message', message => {
                 command.execute(message, args);
             } catch (error) {
                 console.error(error);
-                message.reply('There was an issue executing that command! 😭');
+                message.reply('The Maelstrom have broken this command!');
             }
         }
     }else if(client.contributorCommands.has(commandName)){
@@ -87,7 +87,7 @@ client.on('message', message => {
             command.execute(message, args);
         } catch (error) {
             console.error(error);
-            message.reply('There was an issue executing that command! 😭');
+            message.reply('The Maelstrom have broken this command!');
         }
     }
 
