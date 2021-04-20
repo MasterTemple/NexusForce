@@ -361,19 +361,19 @@ module.exports = {
 
         if(item.itemComponent.altCurrencyCost !== null){
             embed.addFields(
-                {name: "Worth", value: item.itemComponent.buyPrice, inline: true},
+                {name: "Cost", value: item.itemComponent.buyPrice, inline: true},
                 {name: `${item.itemComponent.altCurrencyDisplayName} Cost`, value: item.itemComponent.altCurrencyCost, inline: true},
                 {name: "Level Requirement", value: item.itemComponent.levelRequirement, inline: true},
             )
         }else if(item.itemComponent.commendationCurrencyCost !== null){
             embed.addFields(
-                {name: "Worth", value: item.itemComponent.buyPrice, inline: true},
+                {name: "Cost", value: item.itemComponent.buyPrice, inline: true},
                 {name: `${item.itemComponent.commendationCurrencyDisplayName} Cost`, value: item.itemComponent.commendationCurrencyCost, inline: true},
                 {name: "Level Requirement", value: item.itemComponent.levelRequirement, inline: true},
             )
         }else if(item.itemComponent.commendationCurrencyCost === null){
             embed.addFields(
-                {name: "Worth", value: item.itemComponent.buyPrice, inline: true},
+                {name: "Cost", value: item.itemComponent.buyPrice, inline: true},
                 {name: "Stack Size", value: item.itemComponent.stackSize, inline: true},
                 {name: "Level Requirement", value: item.itemComponent.levelRequirement, inline: true},
             )

@@ -66,7 +66,15 @@ module.exports = {
             if(packageFile.LootTableIndexes[p].names.Name === null || packageFile.LootTableIndexes[p].names.Name === undefined){
                 packageFile.LootTableIndexes[p].names.Name = packageFile.LootTableIndexes[p].names.AlternateName
             }
-            description = `${description}**${packageFile.LootTableIndexes[p].names.Name}** [${packageFile.LootTableIndexes[p].LootTableIndex}] - **${packageFile.LootTableIndexes[p].percent}%**\n`
+            //description = `${description}**${packageFile.LootTableIndexes[p].names.Name}** [${packageFile.LootTableIndexes[p].LootTableIndex}] - **${packageFile.LootTableIndexes[p].percent}%**\n`
+			if(packageFile.LootTableIndexes[p].maxToDrop === 1){
+				description = `${description}**${packageFile.LootTableIndexes[p].names.Name}** [${packageFile.LootTableIndexes[p].LootTableIndex}] - **${packageFile.LootTableIndexes[p].percent}%** For **1** Item\n`
+			}
+			else if(packageFile.LootTableIndexes[p].minToDrop === packageFile.LootTableIndexes[p].maxToDrop){
+				description = `${description}**${packageFile.LootTableIndexes[p].names.Name}** [${packageFile.LootTableIndexes[p].LootTableIndex}] - **${packageFile.LootTableIndexes[p].percent}%** For **${packageFile.LootTableIndexes[p].minToDrop}** Items\n`
+			}else{
+				description = `${description}**${packageFile.LootTableIndexes[p].names.Name}** [${packageFile.LootTableIndexes[p].LootTableIndex}] - **${packageFile.LootTableIndexes[p].percent}%** For **${packageFile.LootTableIndexes[p].minToDrop} - ${packageFile.LootTableIndexes[p].maxToDrop}** Items\n`
+			}
             let arr = []
             //console.log(Object.keys(packageFile.LootTableIndexes[p].rarityTableInfo))
 
