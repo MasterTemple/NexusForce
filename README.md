@@ -3,8 +3,8 @@ Nexus Force LEGO Universe Bot
 
 Installation/Setup:
 1. Download Node.js (see internet)
-2. In terminal type `npm i discord.js nodemon`
-3. Add a config.json file that looks like this
+2. In terminal type `npm i discord.js` and `npm i nodemon -g`
+3. Add a `config.json` file that looks like this
 ```yaml
 {
   "prefix": "!",
