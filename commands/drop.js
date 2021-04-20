@@ -7,9 +7,9 @@ module.exports = {
     execute(message, args) {
         function err() {
             try {
-                //const help = require(`./help.js`);
-                //help.execute(message, module.exports.name)
-                console.log(`fail`)
+                const help = require(`./help.js`);
+                help.execute(message, module.exports.name)
+                //console.log(`fail`)
                 return
             } catch (error) {
                 console.error(error);
@@ -19,44 +19,22 @@ module.exports = {
             let findOne = require(`./../functions/fineOneBrickOrItem.js`)
             var objectID = findOne.execute(args)
             if(objectID===undefined){
-                message.channel.send("An object with this DisplayName or Name does not exist.")
-                err()
+                message.channel.send("A LEGO Brick or item with this DisplayName or Name does not exist.")
+                //err()
                 return
             }
         }else{
             var objectID = args[0]
         }
         var dropFile = require(`./../output/objects/${Math.floor(objectID/256)}/${objectID}.json`)
-        //dropFile = require('./../output/references')
-        //console.log(dropFile)
-        //console.log(dropFile)
+
         let msgEmbed = require(`./../functions/embedTemplate.js`)
         if(dropFile.itemComponent.levelRequirement === undefined){
             dropFile.levelRequirement = 0
         }
 
-        //let embed = msgEmbed.execute(dropFile.displayName, undefined,`https://lu-explorer.web.app/objects/${dropFile.objectID}`, dropFile.iconURL)
         let embed = msgEmbed.execute(`${dropFile.itemInfo.displayName} [${dropFile.objectID}]`, undefined,`https://lu-explorer.web.app/objects/${dropFile.objectID}`, dropFile.iconURL)
 
-        // if(dropFile.itemComponent.altCurrencyCost !== null){
-        //     embed.addFields(
-        //         {name: "Cost", value: dropFile.itemComponent.buyPrice, inline: true},
-        //         {name: `${dropFile.itemComponent.altCurrencyDisplayName} Cost`, value: dropFile.itemComponent.altCurrencyCost, inline: true},
-        //         {name: "Level Requirement", value: dropFile.itemComponent.levelRequirement, inline: true},
-        //     )
-        // }else if(dropFile.itemComponent.commendationCurrencyCost !== null){
-        //     embed.addFields(
-        //         {name: "Cost", value: dropFile.itemComponent.buyPrice, inline: true},
-        //         {name: `${dropFile.itemComponent.commendationCurrencyDisplayName} Cost`, value: dropFile.itemComponent.commendationCurrencyCost, inline: true},
-        //         {name: "Level Requirement", value: dropFile.itemComponent.levelRequirement, inline: true},
-        //     )
-        // }else if(dropFile.itemComponent.commendationCurrencyCost === null){
-        //     embed.addFields(
-        //         {name: "Cost", value: dropFile.itemComponent.buyPrice, inline: true},
-        //         {name: "Stack Size", value: dropFile.itemComponent.stackSize, inline: true},
-        //         {name: "Level Requirement", value: dropFile.itemComponent.levelRequirement, inline: true},
-        //     )
-        // }
 
         var vendorInfo = ``
         var dropsSomething = false
@@ -126,8 +104,11 @@ module.exports = {
 
         //message.channel.send(`\`\`\`json\n${JSON.stringify(dropFile,null, 2)}\`\`\``)
 
-        message.channel.send(embed)
-
+        try {
+            message.channel.send(embed)
+        }catch{
+            err()
+        }
 
     }
 }

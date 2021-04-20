@@ -16,6 +16,7 @@ module.exports = {
         if (args[0] == `dnd`) {
             client.user.setPresence({status: 'dnd'});
         }
+        message.channel.send("Done ✅")
 
     }
 }

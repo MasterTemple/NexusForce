@@ -3,7 +3,7 @@ module.exports = {
     description: 'Displays public commands and what each one does',
     args: true,
     use: `help optional:[commandName]`,
-    example:[`help`, `help type`],
+    example:[`help`, `help level`],
     execute(message, args) {
         //console.log(args.length, args)
         const client = message.client

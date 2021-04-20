@@ -7,9 +7,9 @@ module.exports = {
     execute(message, args) {
         function err() {
             try {
-                //const help = require(`./help.js`);
-                //help.execute(message, module.exports.name)
-                console.log(`fail`)
+                const help = require(`./help.js`);
+                help.execute(message, module.exports.name)
+                //console.log(`fail`)
                 return
             } catch (error) {
                 console.error(error);
@@ -19,8 +19,8 @@ module.exports = {
             let findOne = require(`./../functions/findOneEnemy.js`)
             var objectID = findOne.execute(args)
             if(objectID===undefined){
-                message.channel.send("An object with this DisplayName or Name does not exist.")
-                err()
+                message.channel.send("An enemy with this DisplayName or Name does not exist.")
+                //err()
                 return
             }
         }else{
@@ -133,8 +133,11 @@ module.exports = {
 
         //message.channel.send(`\`\`\`json\n${JSON.stringify(dropFile,null, 2)}\`\`\``)
 
-        message.channel.send(embed)
-
+        try {
+            message.channel.send(embed)
+        }catch{
+            err()
+        }
 
     }
 }

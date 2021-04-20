@@ -9,7 +9,7 @@ module.exports = {
             try {
                 const help = require(`./help.js`);
                 help.execute(message, module.exports.name)
-                console.log(`fail`)
+                //console.log(`fail`)
                 return
             } catch (error) {
                 console.error(error);
@@ -180,7 +180,10 @@ module.exports = {
 
         //let embed = msgEmbed.execute(`${missionFile.title} [${objectID}]`, undefined,`https://lu-explorer.web.app/missions/${objectID}`, missionFile.iconurl)
 
-        message.channel.send(embed)
-
+        try {
+            message.channel.send(embed)
+        }catch{
+            err()
+        }
     }
 }

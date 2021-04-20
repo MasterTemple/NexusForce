@@ -17,9 +17,7 @@ Installation/Setup:
     "version": 3
   },
   "excludeFromHelp": [
-      "setpfp",
-      "status",
-      "play"
+      "object"
   ],
   "mythran": [
       "703120460023463986",
@@ -61,27 +59,27 @@ Kits are not implemented yet.
 
 # Some screenshots:
 # !drop
-![img_1.png](img_1.png)
+![img_1.png](src/img_1.png)
 # !package
-![img_10.png](img_10.png)
+![img_10.png](src/img_10.png)
 # !enemydrop
-![img_11.png](img_11.png)
+![img_11.png](src/img_11.png)
 # !item
-![img_2.png](img_2.png)
+![img_2.png](src/img_2.png)
 # !earn
-![img_3.png](img_3.png)
+![img_3.png](src/img_3.png)
 # !buy
-![img_4.png](img_4.png)
+![img_4.png](src/img_4.png)
 # !mission
-![img_5.png](img_5.png)
+![img_5.png](src/img_5.png)
 # !level
-![img_12.png](img_12.png)
+![img_12.png](src/img_12.png)
 # !brick
-![img_8.png](img_8.png)
+![img_8.png](src/img_8.png)
 # !npc
-![img_9.png](img_9.png)
+![img_9.png](src/img_9.png)
 # !group
-![img_7.png](img_7.png)
+![img_7.png](src/img_7.png)
 
 # Contact
 If you have any questions regarding use or any suggestions for features, feel free to contact me on Discord at `MasterTemple#0233` (my ID is `789705048035688458` just in case my name is changed)

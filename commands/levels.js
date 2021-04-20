@@ -7,9 +7,9 @@ module.exports = {
     execute(message, args) {
         function err() {
             try {
-                //const help = require(`./help.js`);
-                //help.execute(message, module.exports.name)
-                console.log(`fail`)
+                const help = require(`./help.js`);
+                help.execute(message, module.exports.name)
+                //console.log(`fail`)
                 return
             } catch (error) {
                 console.error(error);
@@ -30,7 +30,11 @@ module.exports = {
                 { name: `From Level ${parseInt(args[0])-1}`, value: `${this_level} Experience`, inline: true },
                 { name: 'Total', value: `${required} Experience`, inline: true },
             )
-            message.channel.send(embed)
+            try {
+                message.channel.send(embed)
+            }catch{
+                err()
+            }
         }else{
             message.channel.send(`${args[0]} is not a valid level. Please choose a level between 1 and 85.`)
         }

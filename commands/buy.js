@@ -2,14 +2,14 @@ module.exports = {
     name: ['buy'],
     description: 'See where to buy an item',
     args: true,
-    use: `buy [id]`,
-    example: [`buy 7570`],
+    use: `buy [name or ID]`,
+    example: [`buy grey kepi`, `buy 7793`],
     execute(message, args) {
         function err() {
             try {
-                //const help = require(`./help.js`);
-                //help.execute(message, module.exports.name)
-                console.log(`fail`)
+                const help = require(`./help.js`);
+                help.execute(message, module.exports.name)
+                //console.log(`fail`)
                 return
             } catch (error) {
                 console.error(error);
@@ -19,8 +19,8 @@ module.exports = {
             let findOne = require(`./../functions/fineOneBrickOrItem.js`)
             var objectID = findOne.execute(args)
             if(objectID===undefined){
-                message.channel.send("An object with this DisplayName or Name does not exist.")
-                err()
+                message.channel.send("A LEGO Brick or item with this DisplayName or Name does not exist.")
+                //err()
                 return
             }
         }else{
@@ -87,8 +87,11 @@ module.exports = {
 
         //message.channel.send(`\`\`\`json\n${JSON.stringify(buyFile,null, 2)}\`\`\``)
 
-        message.channel.send(embed)
-
+        try {
+            message.channel.send(embed)
+        }catch{
+            err()
+        }
 
     }
 }

@@ -3,21 +3,21 @@ module.exports = {
     description: 'See where to npc an item',
     args: true,
     use: `group [id]`,
-    example: [`group 7570`],
+    example: [`group 21`],
     execute(message, args) {
         function err() {
             try {
-                //const help = require(`./help.js`);
-                //help.execute(message, module.exports.name)
-                console.log(`fail`)
+                const help = require(`./help.js`);
+                help.execute(message, module.exports.name)
+                //console.log(`fail`)
                 return
             } catch (error) {
                 console.error(error);
             }
         }
         if(args.length > 1 || isNaN(args[0])){
-            message.channel.send("This is not a valid cooldown groups.")
-            err()
+            message.channel.send("This is not a valid cooldown group.")
+            //err()
             return
         }else{
             var groupID = args[0]
@@ -77,8 +77,11 @@ module.exports = {
         // if(groupFile.isVendor === 1){
         //     embed.addField(`Sells: [${groupFile.totalItemsSold}]`, vendorInfo, false)
         // }
-
-        message.channel.send(embed)
+        try {
+            message.channel.send(embed)
+        }catch{
+            err()
+        }
 
 
     }

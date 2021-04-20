@@ -1,15 +1,14 @@
 module.exports = {
-    name: ['brick', 'loot'],
-    description: 'Info about an item in LEGO Universe',
+    name: ['brick'],
+    description: 'Info about LEGO Brick in LEGO Universe',
     args: true,
-    use: `brick [id]`,
-    example: [`brick 7415`],
+    use: `brick [name or ID]`,
+    example: [`brick tail fin 2x3x2`,`brick 3`],
     execute(message, args) {
         function err() {
             try {
-                //const help = require(`./help.js`);
-                //help.execute(message, module.exports.name)
-                console.log(`fail`)
+                const help = require(`./help.js`);
+                help.execute(message, module.exports.name)
                 return
             } catch (error) {
                 console.error(error);
@@ -19,8 +18,8 @@ module.exports = {
             let findOne = require(`./../functions/findOneBrick.js`)
             var itemID = findOne.execute(args)
             if(itemID===undefined){
-                message.channel.send("An object with this DisplayName or Name does not exist.")
-                err()
+                message.channel.send("A LEGO Brick with this DisplayName or Name does not exist.")
+                //err()
                 return
             }
         }else{
@@ -106,8 +105,11 @@ module.exports = {
                 {name: "Level Requirement", value: item.itemComponent.levelRequirement, inline: true},
             )
         }
-
-        message.channel.send(embed)
+        try {
+            message.channel.send(embed)
+        }catch{
+            err()
+        }
 
     }
 }
