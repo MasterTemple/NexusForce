@@ -3,7 +3,7 @@ Nexus Force LEGO Universe Bot
 
 Installation/Setup:
 1. Download Node.js (see internet)
-2. In terminal type `npm i discord.js`
+2. In terminal type `npm i discord.js nodemon`
 3. Add a config.json file that looks like this
 ```yaml
 {
@@ -42,7 +42,7 @@ Installation/Setup:
 }
    ```
 
-4. Run index.js through your IDE or by typing `node index.js` in your command line
+4. Run `index.js` by typing `nodemon index.js` in your command line
 
 # Three Types of Commands:
 1. Normal (Accessible by all users)\
@@ -55,7 +55,6 @@ Installation/Setup:
    
 # Issues:
 I don't know if the stat emojis will work if someone hosts this bot without it being in the server that contains these emojis.\
-Kits are not implemented yet.
 
 # Some screenshots:
 # !drop
@@ -80,6 +79,10 @@ Kits are not implemented yet.
 ![img_9.png](src/img_9.png)
 # !group
 ![img_7.png](src/img_7.png)
+
+# Future
+1. Item kits
+2. Enemy stats and attacks
 
 # Contact
 If you have any questions regarding use or any suggestions for features, feel free to contact me on Discord at `MasterTemple#0233` (my ID is `789705048035688458` just in case my name is changed)
