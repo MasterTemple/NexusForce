@@ -7,19 +7,19 @@
             "items": {
                 "12645": {
                     "name": "TOOLS_DONOTPLACE_DELETEMEPLEASE",
-                    "displayName": null
+                    "displayName": "TOOLS_DONOTPLACE_DELETEMEPLEASE"
                 },
                 "16376": {
                     "name": "TestingNPC",
-                    "displayName": null
+                    "displayName": "TestingNPC"
                 },
                 "16377": {
                     "name": "TestingNPC",
-                    "displayName": null
+                    "displayName": "TestingNPC"
                 },
                 "16378": {
                     "name": "TestingNPC",
-                    "displayName": null
+                    "displayName": "TestingNPC"
                 }
             }
         },

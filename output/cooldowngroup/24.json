@@ -7,7 +7,7 @@
             "items": {
                 "8275": {
                     "name": "Test Performance Test Armor",
-                    "displayName": null
+                    "displayName": "Test Performance Test Armor"
                 },
                 "12565": {
                     "name": "NPC Assembly Scout Armor",
@@ -155,7 +155,7 @@
             "items": {
                 "9815": {
                     "name": "Buccaneer Offhand 1 - Proxy",
-                    "displayName": null
+                    "displayName": "Buccaneer Offhand 1 - Proxy"
                 }
             }
         },
@@ -198,7 +198,7 @@
             "items": {
                 "9816": {
                     "name": "Buccaneer Offhand 2 - Proxy",
-                    "displayName": null
+                    "displayName": "Buccaneer Offhand 2 - Proxy"
                 }
             }
         },
@@ -213,7 +213,7 @@
                 },
                 "9817": {
                     "name": "Buccaneer Offhand 3 - Proxy",
-                    "displayName": null
+                    "displayName": "Buccaneer Offhand 3 - Proxy"
                 }
             }
         },
@@ -223,7 +223,7 @@
             "items": {
                 "9818": {
                     "name": "Daredevil Offhand 1 - Proxy",
-                    "displayName": null
+                    "displayName": "Daredevil Offhand 1 - Proxy"
                 }
             }
         },
@@ -233,7 +233,7 @@
             "items": {
                 "9819": {
                     "name": "Daredevil Offhand 2 - Proxy",
-                    "displayName": null
+                    "displayName": "Daredevil Offhand 2 - Proxy"
                 },
                 "14363": {
                     "name": "Venture Gear - Daredevil - offhand proxy",
@@ -252,7 +252,7 @@
                 },
                 "9820": {
                     "name": "Daredevil Offhand 3 - Proxy",
-                    "displayName": null
+                    "displayName": "Daredevil Offhand 3 - Proxy"
                 }
             }
         },
@@ -272,7 +272,7 @@
             "items": {
                 "12491": {
                     "name": "TEST",
-                    "displayName": null
+                    "displayName": "TEST"
                 },
                 "13281": {
                     "name": "Buccaneer Valiant Weapon Proxy",
@@ -304,7 +304,7 @@
             "items": {
                 "12619": {
                     "name": "TEST",
-                    "displayName": null
+                    "displayName": "TEST"
                 },
                 "12633": {
                     "name": "TEST",
@@ -503,7 +503,7 @@
             "items": {
                 "14110": {
                     "name": "Earth Staff Left Hand Proxy",
-                    "displayName": null
+                    "displayName": "Earth Staff Left Hand Proxy"
                 }
             }
         },
@@ -533,7 +533,7 @@
             "items": {
                 "16262": {
                     "name": "Ice Shuriken Left Hand Proxy",
-                    "displayName": null
+                    "displayName": "Ice Shuriken Left Hand Proxy"
                 }
             }
         },
@@ -543,7 +543,7 @@
             "items": {
                 "16263": {
                     "name": "Fire Swords Left Hand Proxy",
-                    "displayName": null
+                    "displayName": "Fire Swords Left Hand Proxy"
                 }
             }
         }

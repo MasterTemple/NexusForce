@@ -7,7 +7,7 @@
             "items": {
                 "7661": {
                     "name": "Test Yegge Banana",
-                    "displayName": null
+                    "displayName": "Test Yegge Banana"
                 }
             }
         },
@@ -331,7 +331,7 @@
                 },
                 "5955": {
                     "name": "Test Set ninja1 - shield",
-                    "displayName": null
+                    "displayName": "Test Set ninja1 - shield"
                 },
                 "14172": {
                     "name": "Earth Spinjitzu Pants Pants of Quakes",
@@ -1223,7 +1223,7 @@
                 },
                 "1725": {
                     "name": "NPC Sentinel Breastplate of Armor",
-                    "displayName": null
+                    "displayName": "NPC Sentinel Breastplate of Armor"
                 },
                 "14092": {
                     "name": "Silver Trophy Pants",
@@ -1379,15 +1379,15 @@
                 },
                 "7111": {
                     "name": "NPC Venture Grunt Breastplate",
-                    "displayName": null
+                    "displayName": "NPC Venture Grunt Breastplate"
                 },
                 "7115": {
                     "name": "NPC Beck Breastplate",
-                    "displayName": null
+                    "displayName": "NPC Beck Breastplate"
                 },
                 "7116": {
                     "name": "NPC Renee Belt Breastplate",
-                    "displayName": null
+                    "displayName": "NPC Renee Belt Breastplate"
                 },
                 "7133": {
                     "name": "Black Firefighter Helmet",
@@ -1395,11 +1395,11 @@
                 },
                 "7148": {
                     "name": "Test Breastplate of Taunting",
-                    "displayName": null
+                    "displayName": "Test Breastplate of Taunting"
                 },
                 "7150": {
                     "name": "Test Breastplate of Gravity",
-                    "displayName": null
+                    "displayName": "Test Breastplate of Gravity"
                 },
                 "7360": {
                     "name": "Knight Head 3",
@@ -2260,7 +2260,7 @@
                 },
                 "8012": {
                     "name": "Test_Acc_ProxyLegsSkirt",
-                    "displayName": null
+                    "displayName": "Test_Acc_ProxyLegsSkirt"
                 },
                 "3938": {
                     "name": "Train Conductor Shirt",
@@ -2728,7 +2728,7 @@
                 },
                 "6645": {
                     "name": "Test Shirt of Uber Armor - 15pts",
-                    "displayName": null
+                    "displayName": "Test Shirt of Uber Armor - 15pts"
                 }
             }
         },
@@ -5149,7 +5149,7 @@
                 },
                 "3536": {
                     "name": "AG - Workers Platform",
-                    "displayName": null
+                    "displayName": "AG - Workers Platform"
                 },
                 "15907": {
                     "name": "Scorpion Whip",
@@ -5615,7 +5615,7 @@
             "items": {
                 "2241": {
                     "name": "Test Elite Hammer",
-                    "displayName": null
+                    "displayName": "Test Elite Hammer"
                 }
             }
         },

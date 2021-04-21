@@ -90,10 +90,13 @@ module.exports = {
         var isConsumable = false
         if(item?.itemComponent?.equipLocationNames?.length === 1){
             var description = `**Equip Location:** ${item.itemComponent.equipLocationNames[0]}`
-        }else if(item?.itemComponent?.equipLocationNames?.length === 0){
+        }else if(item?.itemComponent?.equipLocationNames?.length === 0 && item?.skillIDs?.length !== 0){
             var description = `**Equip Location:** Consumable`
             isConsumable = true
-
+        }
+        else if(item?.itemComponent?.equipLocationNames?.length === 0 && item?.skillIDs?.length === 0){
+            var description = `**Equip Location:** Model`
+            isConsumable = true
         }else{
             var description = `**Equip Locations:** ${item?.itemComponent?.equipLocationNames?.join(`, `)}`
         }

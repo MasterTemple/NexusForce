@@ -7,7 +7,7 @@
             "items": {
                 "1": {
                     "name": "Generic player",
-                    "displayName": null
+                    "displayName": "Generic player"
                 }
             }
         },
@@ -17,7 +17,7 @@
             "items": {
                 "6639": {
                     "name": "Test Katana - 2 pt",
-                    "displayName": null
+                    "displayName": "Test Katana - 2 pt"
                 }
             }
         },
@@ -27,7 +27,7 @@
             "items": {
                 "6640": {
                     "name": "Test Katana - 3 pt",
-                    "displayName": null
+                    "displayName": "Test Katana - 3 pt"
                 }
             }
         },
@@ -37,7 +37,7 @@
             "items": {
                 "6641": {
                     "name": "Test Katana - 4 pt",
-                    "displayName": null
+                    "displayName": "Test Katana - 4 pt"
                 }
             }
         },
@@ -57,7 +57,7 @@
             "items": {
                 "3293": {
                     "name": "GM Only - Flamethrower",
-                    "displayName": null
+                    "displayName": "GM Only - Flamethrower"
                 }
             }
         },
@@ -77,7 +77,7 @@
             "items": {
                 "4770": {
                     "name": "Test Blaster",
-                    "displayName": null
+                    "displayName": "Test Blaster"
                 }
             }
         },
@@ -87,7 +87,7 @@
             "items": {
                 "4799": {
                     "name": "Test Bow",
-                    "displayName": null
+                    "displayName": "Test Bow"
                 }
             }
         },
@@ -107,7 +107,7 @@
             "items": {
                 "2239": {
                     "name": "Test Chargeup Spear",
-                    "displayName": null
+                    "displayName": "Test Chargeup Spear"
                 }
             }
         },
@@ -117,7 +117,7 @@
             "items": {
                 "1272": {
                     "name": "Test Chargeup Hammer",
-                    "displayName": null
+                    "displayName": "Test Chargeup Hammer"
                 }
             }
         },
@@ -135,7 +135,7 @@
                 },
                 "5654": {
                     "name": "Test Sword",
-                    "displayName": null
+                    "displayName": "Test Sword"
                 },
                 "10431": {
                     "name": "Basic Shortsword",
@@ -143,7 +143,7 @@
                 },
                 "8081": {
                     "name": "Test Sword of Testing",
-                    "displayName": null
+                    "displayName": "Test Sword of Testing"
                 }
             }
         },
@@ -161,7 +161,7 @@
                 },
                 "6494": {
                     "name": "NPC Sentinel Scout Spear",
-                    "displayName": null
+                    "displayName": "NPC Sentinel Scout Spear"
                 }
             }
         },
@@ -187,7 +187,7 @@
                 },
                 "6393": {
                     "name": "Test Experimental Pipe Wrench",
-                    "displayName": null
+                    "displayName": "Test Experimental Pipe Wrench"
                 },
                 "3872": {
                     "name": "Basic Shovel",
@@ -201,7 +201,7 @@
             "items": {
                 "8274": {
                     "name": "Test Performance Test Sword",
-                    "displayName": null
+                    "displayName": "Test Performance Test Sword"
                 },
                 "8505": {
                     "name": "Basic Force Blade",
@@ -209,15 +209,15 @@
                 },
                 "4792": {
                     "name": "Test Sword",
-                    "displayName": null
+                    "displayName": "Test Sword"
                 },
                 "6905": {
                     "name": "Test Bow Regular",
-                    "displayName": null
+                    "displayName": "Test Bow Regular"
                 },
                 "6906": {
                     "name": "Test Bow Hand Modeled",
-                    "displayName": null
+                    "displayName": "Test Bow Hand Modeled"
                 },
                 "6907": {
                     "name": "Test Faction Grunt Helmet Regular",
@@ -239,15 +239,15 @@
                 },
                 "6871": {
                     "name": "Test PvP Awesome Staff",
-                    "displayName": null
+                    "displayName": "Test PvP Awesome Staff"
                 },
                 "6872": {
                     "name": "Test PvP Awesome Healing Staff",
-                    "displayName": null
+                    "displayName": "Test PvP Awesome Healing Staff"
                 },
                 "3120": {
                     "name": "Test Fire Staff",
-                    "displayName": null
+                    "displayName": "Test Fire Staff"
                 }
             }
         },
@@ -262,7 +262,7 @@
             "items": {
                 "4927": {
                     "name": "Test Blaster Imagination",
-                    "displayName": null
+                    "displayName": "Test Blaster Imagination"
                 }
             }
         },
@@ -272,7 +272,7 @@
             "items": {
                 "4939": {
                     "name": "Test Pulse Blaster",
-                    "displayName": null
+                    "displayName": "Test Pulse Blaster"
                 }
             }
         },
@@ -282,7 +282,7 @@
             "items": {
                 "4989": {
                     "name": "Test Chargeup Flintlock Pistol",
-                    "displayName": null
+                    "displayName": "Test Chargeup Flintlock Pistol"
                 },
                 "9614": {
                     "name": "TEST Left Hand Buccaneer pistol 1",
@@ -296,7 +296,7 @@
             "items": {
                 "5628": {
                     "name": "Test Rangers Elite Long Bow",
-                    "displayName": null
+                    "displayName": "Test Rangers Elite Long Bow"
                 }
             }
         },
@@ -306,7 +306,7 @@
             "items": {
                 "5841": {
                     "name": "Test Stun Pulse Blaster",
-                    "displayName": null
+                    "displayName": "Test Stun Pulse Blaster"
                 }
             }
         },
@@ -355,7 +355,7 @@
                 },
                 "6248": {
                     "name": "Test Hat of Attacking",
-                    "displayName": null
+                    "displayName": "Test Hat of Attacking"
                 }
             }
         },
@@ -365,11 +365,11 @@
             "items": {
                 "6328": {
                     "name": "Test Client Blaster",
-                    "displayName": null
+                    "displayName": "Test Client Blaster"
                 },
                 "3120": {
                     "name": "Test Fire Staff",
-                    "displayName": null
+                    "displayName": "Test Fire Staff"
                 }
             }
         },
@@ -379,7 +379,7 @@
             "items": {
                 "6355": {
                     "name": "AG - Maelstrom Collector",
-                    "displayName": null
+                    "displayName": "AG - Maelstrom Collector"
                 }
             }
         },
@@ -389,15 +389,15 @@
             "items": {
                 "6090": {
                     "name": "Ben Aaar",
-                    "displayName": null
+                    "displayName": "Ben Aaar"
                 },
                 "6529": {
                     "name": "Ben Aarrr",
-                    "displayName": null
+                    "displayName": "Ben Aarrr"
                 },
                 "6549": {
                     "name": "Test New AI Stromling",
-                    "displayName": null
+                    "displayName": "Test New AI Stromling"
                 },
                 "6551": {
                     "name": "GF - Tiki Stromling",
@@ -411,11 +411,11 @@
             "items": {
                 "6090": {
                     "name": "Ben Aaar",
-                    "displayName": null
+                    "displayName": "Ben Aaar"
                 },
                 "6529": {
                     "name": "Ben Aarrr",
-                    "displayName": null
+                    "displayName": "Ben Aarrr"
                 }
             }
         },
@@ -536,7 +536,7 @@
                 },
                 "4928": {
                     "name": "AG - QB Robotanist",
-                    "displayName": null
+                    "displayName": "AG - QB Robotanist"
                 },
                 "4978": {
                     "name": "DMB - Stromling 'Strombie",
@@ -552,31 +552,31 @@
                 },
                 "5666": {
                     "name": "Pathing Hyper Stromling",
-                    "displayName": null
+                    "displayName": "Pathing Hyper Stromling"
                 },
                 "1729": {
                     "name": "Wandering Bee",
-                    "displayName": null
+                    "displayName": "Wandering Bee"
                 },
                 "1800": {
                     "name": "Test Zoo Ninja",
-                    "displayName": null
+                    "displayName": "Test Zoo Ninja"
                 },
                 "1801": {
                     "name": "Test Zoo Pirate",
-                    "displayName": null
+                    "displayName": "Test Zoo Pirate"
                 },
                 "1802": {
                     "name": "Test Zoo Pirate 2",
-                    "displayName": null
+                    "displayName": "Test Zoo Pirate 2"
                 },
                 "1810": {
                     "name": "Rude Outhouse Minifigure",
-                    "displayName": null
+                    "displayName": "Rude Outhouse Minifigure"
                 },
                 "1813": {
                     "name": "Test Zoo Ninja 2",
-                    "displayName": null
+                    "displayName": "Test Zoo Ninja 2"
                 },
                 "10014": {
                     "name": "GF - Stromling Pirate SIDESCROLLER",
@@ -584,75 +584,75 @@
                 },
                 "1876": {
                     "name": "VO - Generated Grumpy Stromling",
-                    "displayName": null
+                    "displayName": "VO - Generated Grumpy Stromling"
                 },
                 "1985": {
                     "name": "Test Z_Patrol_Loop",
-                    "displayName": null
+                    "displayName": "Test Z_Patrol_Loop"
                 },
                 "1986": {
                     "name": "Test Z_Patrol_Linear",
-                    "displayName": null
+                    "displayName": "Test Z_Patrol_Linear"
                 },
                 "1987": {
                     "name": "Test Z_Guard_Neutral",
-                    "displayName": null
+                    "displayName": "Test Z_Guard_Neutral"
                 },
                 "1988": {
                     "name": "Test Z_Guard_Aggressive",
-                    "displayName": null
+                    "displayName": "Test Z_Guard_Aggressive"
                 },
                 "1989": {
                     "name": "Test Z_Guard_Passive",
-                    "displayName": null
+                    "displayName": "Test Z_Guard_Passive"
                 },
                 "1990": {
                     "name": "Test Z_Guard_Passive_Aggressive",
-                    "displayName": null
+                    "displayName": "Test Z_Guard_Passive_Aggressive"
                 },
                 "1991": {
                     "name": "Test Z_Fear_Emote",
-                    "displayName": null
+                    "displayName": "Test Z_Fear_Emote"
                 },
                 "1992": {
                     "name": "Test Z_Fear_EmoteFlee",
-                    "displayName": null
+                    "displayName": "Test Z_Fear_EmoteFlee"
                 },
                 "1993": {
                     "name": "Test Z_Fear_Flee",
-                    "displayName": null
+                    "displayName": "Test Z_Fear_Flee"
                 },
                 "6089": {
                     "name": "BTF AutoTurret",
-                    "displayName": null
+                    "displayName": "BTF AutoTurret"
                 },
                 "1994": {
                     "name": "Test Z_Wander",
-                    "displayName": null
+                    "displayName": "Test Z_Wander"
                 },
                 "1995": {
                     "name": "Test Z_One_Conduct",
-                    "displayName": null
+                    "displayName": "Test Z_One_Conduct"
                 },
                 "1996": {
                     "name": "Test Z_Two_Conduct",
-                    "displayName": null
+                    "displayName": "Test Z_Two_Conduct"
                 },
                 "1997": {
                     "name": "Test Z_Helpers",
-                    "displayName": null
+                    "displayName": "Test Z_Helpers"
                 },
                 "1998": {
                     "name": "Test Z_Emote_React",
-                    "displayName": null
+                    "displayName": "Test Z_Emote_React"
                 },
                 "2165": {
                     "name": "Pirate Bosun",
-                    "displayName": null
+                    "displayName": "Pirate Bosun"
                 },
                 "2179": {
                     "name": "First Mate Sweettooth",
-                    "displayName": null
+                    "displayName": "First Mate Sweettooth"
                 },
                 "2183": {
                     "name": "Pirate Technician",
@@ -664,15 +664,15 @@
                 },
                 "2193": {
                     "name": "Pirate Quartermaster",
-                    "displayName": null
+                    "displayName": "Pirate Quartermaster"
                 },
                 "2244": {
                     "name": "GF - Black Siege Ninja Guard",
-                    "displayName": null
+                    "displayName": "GF - Black Siege Ninja Guard"
                 },
                 "2245": {
                     "name": "GF - Red Siege Ninja Guard",
-                    "displayName": null
+                    "displayName": "GF - Red Siege Ninja Guard"
                 },
                 "6351": {
                     "name": "AG - Survival Stromling Lvl 1",
@@ -680,11 +680,11 @@
                 },
                 "2265": {
                     "name": "Test Zoo Pirate 1",
-                    "displayName": null
+                    "displayName": "Test Zoo Pirate 1"
                 },
                 "2266": {
                     "name": "Test Zoo Pirate 2",
-                    "displayName": null
+                    "displayName": "Test Zoo Pirate 2"
                 },
                 "10495": {
                     "name": "Behavior Spawn - Stromling",
@@ -700,15 +700,15 @@
                 },
                 "6444": {
                     "name": "Spider Cave Spider",
-                    "displayName": null
+                    "displayName": "Spider Cave Spider"
                 },
                 "2352": {
                     "name": "ACTIVITY ONLY - NPC 22",
-                    "displayName": null
+                    "displayName": "ACTIVITY ONLY - NPC 22"
                 },
                 "2353": {
                     "name": "ACTIVITY ONLY - NPC 23",
-                    "displayName": null
+                    "displayName": "ACTIVITY ONLY - NPC 23"
                 },
                 "6550": {
                     "name": "GF - Stromling Pirate",
@@ -716,23 +716,23 @@
                 },
                 "6552": {
                     "name": "AG - Min Spec Enemies",
-                    "displayName": null
+                    "displayName": "AG - Min Spec Enemies"
                 },
                 "6602": {
                     "name": "CT - Medusa",
-                    "displayName": null
+                    "displayName": "CT - Medusa"
                 },
                 "6621": {
                     "name": "CT - Beetle Test",
-                    "displayName": null
+                    "displayName": "CT - Beetle Test"
                 },
                 "6629": {
                     "name": "CT - Motion Tracker Test",
-                    "displayName": null
+                    "displayName": "CT - Motion Tracker Test"
                 },
                 "2629": {
                     "name": "FV - Mech Pirate Combat",
-                    "displayName": null
+                    "displayName": "FV - Mech Pirate Combat"
                 },
                 "6974": {
                     "name": "GF - Stromling Pirate Survival",
@@ -740,19 +740,19 @@
                 },
                 "3018": {
                     "name": "TEST AI NINJA for Ian H",
-                    "displayName": null
+                    "displayName": "TEST AI NINJA for Ian H"
                 },
                 "3031": {
                     "name": "FV - Grumpy Stromling",
-                    "displayName": null
+                    "displayName": "FV - Grumpy Stromling"
                 },
                 "3033": {
                     "name": "FV - Freak Stromling",
-                    "displayName": null
+                    "displayName": "FV - Freak Stromling"
                 },
                 "3035": {
                     "name": "FV - Hyper Stromling",
-                    "displayName": null
+                    "displayName": "FV - Hyper Stromling"
                 },
                 "11259": {
                     "name": "WBL - Maelstrom Beaver",
@@ -768,15 +768,15 @@
                 },
                 "3099": {
                     "name": "Evil Robotanist",
-                    "displayName": null
+                    "displayName": "Evil Robotanist"
                 },
                 "7227": {
                     "name": "Test Death Perf",
-                    "displayName": null
+                    "displayName": "Test Death Perf"
                 },
                 "3284": {
                     "name": "AG - Corrupted Mower",
-                    "displayName": null
+                    "displayName": "AG - Corrupted Mower"
                 },
                 "7672": {
                     "name": "WBL - Seperator",
@@ -789,11 +789,11 @@
                 "16140": {},
                 "4019": {
                     "name": "AG - Robotanist Corrupted",
-                    "displayName": null
+                    "displayName": "AG - Robotanist Corrupted"
                 },
                 "4020": {
                     "name": "AG - Robotanist",
-                    "displayName": null
+                    "displayName": "AG - Robotanist"
                 }
             }
         },
@@ -876,7 +876,7 @@
             "items": {
                 "8445": {
                     "name": "Spider Boss Activity",
-                    "displayName": null
+                    "displayName": "Spider Boss Activity"
                 },
                 "8564": {
                     "name": "Thwok Rank 1",
@@ -963,7 +963,7 @@
                 },
                 "7163": {
                     "name": "Test Saw of Pulling",
-                    "displayName": null
+                    "displayName": "Test Saw of Pulling"
                 }
             }
         },
@@ -1015,7 +1015,7 @@
                 },
                 "7641": {
                     "name": "NPC Coalessa Staff",
-                    "displayName": null
+                    "displayName": "NPC Coalessa Staff"
                 }
             }
         },
@@ -1127,11 +1127,11 @@
                 },
                 "7313": {
                     "name": "Test SJ Katana NOT CURRENT",
-                    "displayName": null
+                    "displayName": "Test SJ Katana NOT CURRENT"
                 },
                 "7339": {
                     "name": "Test Katana of Bees",
-                    "displayName": null
+                    "displayName": "Test Katana of Bees"
                 }
             }
         },
@@ -1163,15 +1163,15 @@
                 },
                 "8291": {
                     "name": "Test Faction Currency Item",
-                    "displayName": null
+                    "displayName": "Test Faction Currency Item"
                 },
                 "8515": {
                     "name": "NPC Mardolf Staff",
-                    "displayName": null
+                    "displayName": "NPC Mardolf Staff"
                 },
                 "8519": {
                     "name": "NPCJohnny Thunder Whip",
-                    "displayName": null
+                    "displayName": "NPCJohnny Thunder Whip"
                 },
                 "9258": {
                     "name": "Super Composite Axe",
@@ -1187,31 +1187,31 @@
                 },
                 "8007": {
                     "name": "Test_Acc_ProxyHand1",
-                    "displayName": null
+                    "displayName": "Test_Acc_ProxyHand1"
                 },
                 "8009": {
                     "name": "Test_Acc_ProxyHand2",
-                    "displayName": null
+                    "displayName": "Test_Acc_ProxyHand2"
                 },
                 "8016": {
                     "name": "Test_Acc_Epsilon Gun",
-                    "displayName": null
+                    "displayName": "Test_Acc_Epsilon Gun"
                 },
                 "8017": {
                     "name": "Test_Acc_Epsilon Gun_L",
-                    "displayName": null
+                    "displayName": "Test_Acc_Epsilon Gun_L"
                 },
                 "8080": {
                     "name": "NPC Epsilon Starcracker Gun",
-                    "displayName": null
+                    "displayName": "NPC Epsilon Starcracker Gun"
                 },
                 "8110": {
                     "name": "NPC Melodie Foxtrot Weapon",
-                    "displayName": null
+                    "displayName": "NPC Melodie Foxtrot Weapon"
                 },
                 "8111": {
                     "name": "NPC Melodie Foxtrot Weapon L",
-                    "displayName": null
+                    "displayName": "NPC Melodie Foxtrot Weapon L"
                 }
             }
         },
@@ -1237,7 +1237,7 @@
                 },
                 "2241": {
                     "name": "Test Elite Hammer",
-                    "displayName": null
+                    "displayName": "Test Elite Hammer"
                 },
                 "7075": {
                     "name": "Elite Club",
@@ -1267,7 +1267,7 @@
                 },
                 "7164": {
                     "name": "Test Fishing Pole",
-                    "displayName": null
+                    "displayName": "Test Fishing Pole"
                 }
             }
         },
@@ -1291,7 +1291,7 @@
                 },
                 "7013": {
                     "name": "Test Weapon Skills Item",
-                    "displayName": null
+                    "displayName": "Test Weapon Skills Item"
                 }
             }
         },
@@ -1301,7 +1301,7 @@
             "items": {
                 "7035": {
                     "name": "Test PvP Shortsword no stun no move",
-                    "displayName": null
+                    "displayName": "Test PvP Shortsword no stun no move"
                 }
             }
         },
@@ -1311,7 +1311,7 @@
             "items": {
                 "7039": {
                     "name": "Test PvP Shortsword no stun",
-                    "displayName": null
+                    "displayName": "Test PvP Shortsword no stun"
                 }
             }
         },
@@ -1330,7 +1330,7 @@
                 },
                 "6457": {
                     "name": "Spider Boss Fire Rockets",
-                    "displayName": null
+                    "displayName": "Spider Boss Fire Rockets"
                 }
             }
         },
@@ -1340,7 +1340,7 @@
             "items": {
                 "7149": {
                     "name": "Test Wysiwyg long sword",
-                    "displayName": null
+                    "displayName": "Test Wysiwyg long sword"
                 }
             }
         },
@@ -1360,7 +1360,7 @@
             "items": {
                 "9458": {
                     "name": "Spider Cannon",
-                    "displayName": null
+                    "displayName": "Spider Cannon"
                 },
                 "7397": {
                     "name": "Sorcerer Weapon 1",
@@ -1514,7 +1514,7 @@
                 },
                 "9463": {
                     "name": "Boss Spider Minion",
-                    "displayName": null
+                    "displayName": "Boss Spider Minion"
                 },
                 "8089": {
                     "name": "AG - Survival Stromling Lvl 3",
@@ -2033,7 +2033,7 @@
             "items": {
                 "5718": {
                     "name": "AG - Path transition 1",
-                    "displayName": null
+                    "displayName": "AG - Path transition 1"
                 },
                 "7518": {
                     "name": "Samurai Weapon 2",
@@ -2051,7 +2051,7 @@
                 },
                 "5719": {
                     "name": "AG - Path transition 2",
-                    "displayName": null
+                    "displayName": "AG - Path transition 2"
                 },
                 "7519": {
                     "name": "Samurai Weapon 3",
@@ -2167,7 +2167,7 @@
             "items": {
                 "9304": {
                     "name": "Engineer Turret Rank 2",
-                    "displayName": null
+                    "displayName": "Engineer Turret Rank 2"
                 }
             }
         },
@@ -2177,7 +2177,7 @@
             "items": {
                 "9305": {
                     "name": "Engineer Turret Rank 3",
-                    "displayName": null
+                    "displayName": "Engineer Turret Rank 3"
                 }
             }
         },
@@ -2265,7 +2265,7 @@
             "items": {
                 "9479": {
                     "name": "Engineer Personal Fortress",
-                    "displayName": null
+                    "displayName": "Engineer Personal Fortress"
                 }
             }
         },
@@ -2275,7 +2275,7 @@
             "items": {
                 "9520": {
                     "name": "Engineer Rank 1 Generator",
-                    "displayName": null
+                    "displayName": "Engineer Rank 1 Generator"
                 }
             }
         },
@@ -2285,7 +2285,7 @@
             "items": {
                 "9521": {
                     "name": "Engineer Rank 2 Generator",
-                    "displayName": null
+                    "displayName": "Engineer Rank 2 Generator"
                 }
             }
         },
@@ -2295,7 +2295,7 @@
             "items": {
                 "9522": {
                     "name": "Engineer Rank 3 Generator",
-                    "displayName": null
+                    "displayName": "Engineer Rank 3 Generator"
                 }
             }
         },

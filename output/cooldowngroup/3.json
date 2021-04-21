@@ -12,19 +12,19 @@
             "items": {
                 "2776": {
                     "name": "GC11 - Oinky",
-                    "displayName": null
+                    "displayName": "GC11 - Oinky"
                 },
                 "2777": {
                     "name": "GC11 - Plinky",
-                    "displayName": null
+                    "displayName": "GC11 - Plinky"
                 },
                 "2778": {
                     "name": "GC11 - Blonky",
-                    "displayName": null
+                    "displayName": "GC11 - Blonky"
                 },
                 "2779": {
                     "name": "GC11 - Cloyde",
-                    "displayName": null
+                    "displayName": "GC11 - Cloyde"
                 }
             }
         },
@@ -145,7 +145,7 @@
             "items": {
                 "9305": {
                     "name": "Engineer Turret Rank 3",
-                    "displayName": null
+                    "displayName": "Engineer Turret Rank 3"
                 }
             }
         },

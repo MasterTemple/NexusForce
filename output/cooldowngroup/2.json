@@ -12,7 +12,7 @@
             "items": {
                 "2716": {
                     "name": "GC09 - Dragon Fireball",
-                    "displayName": null
+                    "displayName": "GC09 - Dragon Fireball"
                 }
             }
         },
@@ -32,7 +32,7 @@
             "items": {
                 "6393": {
                     "name": "Test Experimental Pipe Wrench",
-                    "displayName": null
+                    "displayName": "Test Experimental Pipe Wrench"
                 }
             }
         },
@@ -85,7 +85,7 @@
             "items": {
                 "6871": {
                     "name": "Test PvP Awesome Staff",
-                    "displayName": null
+                    "displayName": "Test PvP Awesome Staff"
                 }
             }
         },
@@ -110,7 +110,7 @@
             "items": {
                 "7150": {
                     "name": "Test Breastplate of Gravity",
-                    "displayName": null
+                    "displayName": "Test Breastplate of Gravity"
                 }
             }
         },
@@ -120,11 +120,11 @@
             "items": {
                 "7163": {
                     "name": "Test Saw of Pulling",
-                    "displayName": null
+                    "displayName": "Test Saw of Pulling"
                 },
                 "7164": {
                     "name": "Test Fishing Pole",
-                    "displayName": null
+                    "displayName": "Test Fishing Pole"
                 }
             }
         },
@@ -134,7 +134,7 @@
             "items": {
                 "7313": {
                     "name": "Test SJ Katana NOT CURRENT",
-                    "displayName": null
+                    "displayName": "Test SJ Katana NOT CURRENT"
                 }
             }
         },
@@ -144,7 +144,7 @@
             "items": {
                 "7339": {
                     "name": "Test Katana of Bees",
-                    "displayName": null
+                    "displayName": "Test Katana of Bees"
                 }
             }
         },
@@ -310,7 +310,7 @@
             "items": {
                 "9304": {
                     "name": "Engineer Turret Rank 2",
-                    "displayName": null
+                    "displayName": "Engineer Turret Rank 2"
                 }
             }
         },
@@ -320,7 +320,7 @@
             "items": {
                 "9305": {
                     "name": "Engineer Turret Rank 3",
-                    "displayName": null
+                    "displayName": "Engineer Turret Rank 3"
                 }
             }
         },
@@ -640,7 +640,7 @@
             "items": {
                 "8371": {
                     "name": "Shuriken",
-                    "displayName": null
+                    "displayName": "Shuriken"
                 }
             }
         },

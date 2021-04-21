@@ -7,15 +7,15 @@
             "items": {
                 "2241": {
                     "name": "Test Elite Hammer",
-                    "displayName": null
+                    "displayName": "Test Elite Hammer"
                 },
                 "11147": {
                     "name": "Chicka",
-                    "displayName": null
+                    "displayName": "Chicka"
                 },
                 "11148": {
                     "name": "Chicka",
-                    "displayName": null
+                    "displayName": "Chicka"
                 },
                 "3011": {
                     "name": "BBQ Blast Hot Dog",
@@ -33,7 +33,7 @@
             "items": {
                 "8374": {
                     "name": "Test Summon Scroll",
-                    "displayName": null
+                    "displayName": "Test Summon Scroll"
                 },
                 "7778": {
                     "name": "Firecracker",

@@ -7,11 +7,11 @@
             "items": {
                 "177": {
                     "name": "Life Powerup 1 point",
-                    "displayName": null
+                    "displayName": "Life Powerup 1 point"
                 },
                 "1625": {
                     "name": "Spawner - Life Powerup 1 point",
-                    "displayName": null
+                    "displayName": "Spawner - Life Powerup 1 point"
                 }
             }
         },
@@ -25,7 +25,7 @@
                 },
                 "2243": {
                     "name": "GM Only - Hammer of Doom",
-                    "displayName": null
+                    "displayName": "GM Only - Hammer of Doom"
                 },
                 "6407": {
                     "name": "GM Only - Hat of Pwnage",
@@ -39,15 +39,15 @@
             "items": {
                 "4975": {
                     "name": "Green Floater",
-                    "displayName": null
+                    "displayName": "Green Floater"
                 },
                 "935": {
                     "name": "Imagination Powerup 1 point",
-                    "displayName": null
+                    "displayName": "Imagination Powerup 1 point"
                 },
                 "1656": {
                     "name": "Spawner - Imagination Powerup 1 point",
-                    "displayName": null
+                    "displayName": "Spawner - Imagination Powerup 1 point"
                 }
             }
         },
@@ -57,11 +57,11 @@
             "items": {
                 "5660": {
                     "name": "raf_mg_accessories_edittest",
-                    "displayName": null
+                    "displayName": "raf_mg_accessories_edittest"
                 },
                 "1855": {
                     "name": "Firefly Flower Test",
-                    "displayName": null
+                    "displayName": "Firefly Flower Test"
                 }
             }
         },
@@ -71,7 +71,7 @@
             "items": {
                 "1822": {
                     "name": "Shooting Gallery Cannon Ball",
-                    "displayName": null
+                    "displayName": "Shooting Gallery Cannon Ball"
                 }
             }
         },
@@ -81,7 +81,7 @@
             "items": {
                 "1906": {
                     "name": "GF - Cannon Targeting Reticle",
-                    "displayName": null
+                    "displayName": "GF - Cannon Targeting Reticle"
                 }
             }
         },
@@ -91,11 +91,11 @@
             "items": {
                 "5992": {
                     "name": "raf_test_01117",
-                    "displayName": null
+                    "displayName": "raf_test_01117"
                 },
                 "2248": {
                     "name": "Campfire Activator",
-                    "displayName": null
+                    "displayName": "Campfire Activator"
                 }
             }
         },
@@ -105,7 +105,7 @@
             "items": {
                 "2357": {
                     "name": "ACTIVITY ONLY - Cannonball",
-                    "displayName": null
+                    "displayName": "ACTIVITY ONLY - Cannonball"
                 }
             }
         },
@@ -129,11 +129,11 @@
                 },
                 "4035": {
                     "name": "Imagination Powerup 2 points",
-                    "displayName": null
+                    "displayName": "Imagination Powerup 2 points"
                 },
                 "4036": {
                     "name": "Spawner - Imagination Powerup 2 points",
-                    "displayName": null
+                    "displayName": "Spawner - Imagination Powerup 2 points"
                 }
             }
         },
@@ -148,11 +148,11 @@
             "items": {
                 "6090": {
                     "name": "Ben Aaar",
-                    "displayName": null
+                    "displayName": "Ben Aaar"
                 },
                 "6716": {
                     "name": "Test Stromling",
-                    "displayName": null
+                    "displayName": "Test Stromling"
                 }
             }
         },
@@ -172,7 +172,7 @@
             "items": {
                 "6971": {
                     "name": "Test Hat of Damage Buff for Nic",
-                    "displayName": null
+                    "displayName": "Test Hat of Damage Buff for Nic"
                 }
             }
         },
@@ -182,7 +182,7 @@
             "items": {
                 "7833": {
                     "name": "Duck SG Cannonball",
-                    "displayName": null
+                    "displayName": "Duck SG Cannonball"
                 }
             }
         },
@@ -192,11 +192,11 @@
             "items": {
                 "13941": {
                     "name": "TEST Spawn Message Projectile 1",
-                    "displayName": null
+                    "displayName": "TEST Spawn Message Projectile 1"
                 },
                 "7700": {
                     "name": "Funky Monkey Projectile Rank 1",
-                    "displayName": null
+                    "displayName": "Funky Monkey Projectile Rank 1"
                 }
             }
         },
@@ -206,7 +206,7 @@
             "items": {
                 "7853": {
                     "name": "Gem Projectile Rank 2",
-                    "displayName": null
+                    "displayName": "Gem Projectile Rank 2"
                 }
             }
         },
@@ -216,7 +216,7 @@
             "items": {
                 "7854": {
                     "name": "Gem Projectile Rank 3",
-                    "displayName": null
+                    "displayName": "Gem Projectile Rank 3"
                 }
             }
         },
@@ -231,7 +231,7 @@
             "items": {
                 "8138": {
                     "name": "Maelstrom Cavalry Arrow",
-                    "displayName": null
+                    "displayName": "Maelstrom Cavalry Arrow"
                 }
             }
         },
@@ -241,15 +241,15 @@
             "items": {
                 "8302": {
                     "name": "Property Claim Marker",
-                    "displayName": null
+                    "displayName": "Property Claim Marker"
                 },
                 "6685": {
                     "name": "GF - Siren",
-                    "displayName": null
+                    "displayName": "GF - Siren"
                 },
                 "6686": {
                     "name": "GF - Headless Siren",
-                    "displayName": null
+                    "displayName": "GF - Headless Siren"
                 }
             }
         },
@@ -259,7 +259,7 @@
             "items": {
                 "7680": {
                     "name": "Spawner - RACING Imagination Powerup 1 point",
-                    "displayName": null
+                    "displayName": "Spawner - RACING Imagination Powerup 1 point"
                 }
             }
         },
@@ -279,7 +279,7 @@
             "items": {
                 "9828": {
                     "name": "Prototype hovercar",
-                    "displayName": null
+                    "displayName": "Prototype hovercar"
                 },
                 "6730": {
                     "name": "Test Modular Vehicle",
@@ -361,7 +361,7 @@
             "items": {
                 "9711": {
                     "name": "First Aid Kit 1",
-                    "displayName": null
+                    "displayName": "First Aid Kit 1"
                 }
             }
         },
@@ -371,7 +371,7 @@
             "items": {
                 "9712": {
                     "name": "First Aid Kit 2",
-                    "displayName": null
+                    "displayName": "First Aid Kit 2"
                 }
             }
         },
@@ -381,7 +381,7 @@
             "items": {
                 "9713": {
                     "name": "First Aid Kit 3",
-                    "displayName": null
+                    "displayName": "First Aid Kit 3"
                 }
             }
         },
@@ -391,7 +391,7 @@
             "items": {
                 "9718": {
                     "name": "Bulper Bullet 1 and 2 and 3",
-                    "displayName": null
+                    "displayName": "Bulper Bullet 1 and 2 and 3"
                 }
             }
         },
@@ -499,11 +499,11 @@
             "items": {
                 "6431": {
                     "name": "Armor Powerup 1 point",
-                    "displayName": null
+                    "displayName": "Armor Powerup 1 point"
                 },
                 "6432": {
                     "name": "Spawner - Armor Powerup 1 point",
-                    "displayName": null
+                    "displayName": "Spawner - Armor Powerup 1 point"
                 }
             }
         },
@@ -513,7 +513,7 @@
             "items": {
                 "10097": {
                     "name": "FV Flying Dragon Fireball target",
-                    "displayName": null
+                    "displayName": "FV Flying Dragon Fireball target"
                 }
             }
         },
@@ -523,11 +523,11 @@
             "items": {
                 "5639": {
                     "name": "Red Dragon Pet",
-                    "displayName": null
+                    "displayName": "Red Dragon Pet"
                 },
                 "5641": {
                     "name": "Green Dragon Pet",
-                    "displayName": null
+                    "displayName": "Green Dragon Pet"
                 }
             }
         },
@@ -537,11 +537,11 @@
             "items": {
                 "6369": {
                     "name": "rafOrangeEnemy2",
-                    "displayName": null
+                    "displayName": "rafOrangeEnemy2"
                 },
                 "3261": {
                     "name": "Skunk Pet",
-                    "displayName": null
+                    "displayName": "Skunk Pet"
                 },
                 "3279": {
                     "name": "ZP - Skunk",
@@ -549,23 +549,23 @@
                 },
                 "3930": {
                     "name": "NS - Skunk 2",
-                    "displayName": null
+                    "displayName": "NS - Skunk 2"
                 },
                 "3931": {
                     "name": "NS - Skunk 3",
-                    "displayName": null
+                    "displayName": "NS - Skunk 3"
                 },
                 "8047": {
                     "name": "TEST NS Skunk enemy",
-                    "displayName": null
+                    "displayName": "TEST NS Skunk enemy"
                 },
                 "3955": {
                     "name": "NS - Blue Skunk",
-                    "displayName": null
+                    "displayName": "NS - Blue Skunk"
                 },
                 "3956": {
                     "name": "NS - Grey Skunk",
-                    "displayName": null
+                    "displayName": "NS - Grey Skunk"
                 }
             }
         },
@@ -575,7 +575,7 @@
             "items": {
                 "11123": {
                     "name": "Trigger Cube (GF Parrot Crash Only)",
-                    "displayName": null
+                    "displayName": "Trigger Cube (GF Parrot Crash Only)"
                 }
             }
         },
@@ -585,7 +585,7 @@
             "items": {
                 "11123": {
                     "name": "Trigger Cube (GF Parrot Crash Only)",
-                    "displayName": null
+                    "displayName": "Trigger Cube (GF Parrot Crash Only)"
                 }
             }
         },
@@ -605,7 +605,7 @@
             "items": {
                 "9710": {
                     "name": "Bucaneer Fish bullet",
-                    "displayName": null
+                    "displayName": "Bucaneer Fish bullet"
                 }
             }
         },
@@ -625,27 +625,27 @@
             "items": {
                 "12971": {
                     "name": "Disco Laser 3 dmg",
-                    "displayName": null
+                    "displayName": "Disco Laser 3 dmg"
                 },
                 "13599": {
                     "name": "3 Dmg Projectile Double Bullet A",
-                    "displayName": null
+                    "displayName": "3 Dmg Projectile Double Bullet A"
                 },
                 "14003": {
                     "name": "3 Dmg Projectile Double Bullet B",
-                    "displayName": null
+                    "displayName": "3 Dmg Projectile Double Bullet B"
                 },
                 "11034": {
                     "name": "3 Dmg Projectile Bullet",
-                    "displayName": null
+                    "displayName": "3 Dmg Projectile Bullet"
                 },
                 "11157": {
                     "name": "3 Dmg Projectile Arrow",
-                    "displayName": null
+                    "displayName": "3 Dmg Projectile Arrow"
                 },
                 "11289": {
                     "name": "Engineer Turret Laser 3 dmg",
-                    "displayName": null
+                    "displayName": "Engineer Turret Laser 3 dmg"
                 }
             }
         },
@@ -665,7 +665,7 @@
             "items": {
                 "9257": {
                     "name": "Space Marauder cluster grenade - 3 splash damage",
-                    "displayName": null
+                    "displayName": "Space Marauder cluster grenade - 3 splash damage"
                 }
             }
         },
@@ -675,7 +675,7 @@
             "items": {
                 "11288": {
                     "name": "Bulper Bullet 3",
-                    "displayName": null
+                    "displayName": "Bulper Bullet 3"
                 }
             }
         },
@@ -685,7 +685,7 @@
             "items": {
                 "11464": {
                     "name": "FV RACE Dragon Fireball target",
-                    "displayName": null
+                    "displayName": "FV RACE Dragon Fireball target"
                 }
             }
         },
@@ -695,7 +695,7 @@
             "items": {
                 "11900": {
                     "name": "5 Dmg Projectile Bullet",
-                    "displayName": null
+                    "displayName": "5 Dmg Projectile Bullet"
                 }
             }
         },
@@ -885,7 +885,7 @@
             "items": {
                 "12568": {
                     "name": "Stink Bomb Projectile",
-                    "displayName": null
+                    "displayName": "Stink Bomb Projectile"
                 }
             }
         },
@@ -895,7 +895,7 @@
             "items": {
                 "12634": {
                     "name": "NPC Valiant Cleaner Bullet",
-                    "displayName": null
+                    "displayName": "NPC Valiant Cleaner Bullet"
                 }
             }
         },
@@ -905,7 +905,7 @@
             "items": {
                 "12655": {
                     "name": "AM Turret Laser 2 dmg bullet",
-                    "displayName": null
+                    "displayName": "AM Turret Laser 2 dmg bullet"
                 }
             }
         },
@@ -915,7 +915,7 @@
             "items": {
                 "12664": {
                     "name": "Valiant Mech's Bullet laser Projectile",
-                    "displayName": null
+                    "displayName": "Valiant Mech's Bullet laser Projectile"
                 }
             }
         },
@@ -925,7 +925,7 @@
             "items": {
                 "12643": {
                     "name": "2 Dmg Projectile Banana",
-                    "displayName": null
+                    "displayName": "2 Dmg Projectile Banana"
                 }
             }
         },
@@ -935,7 +935,7 @@
             "items": {
                 "12820": {
                     "name": "3 Dmg Inventor Gear Projectile Bullet",
-                    "displayName": null
+                    "displayName": "3 Dmg Inventor Gear Projectile Bullet"
                 }
             }
         },
@@ -945,7 +945,7 @@
             "items": {
                 "12821": {
                     "name": "2 Dmg Inventor Gear Projectile Bullet",
-                    "displayName": null
+                    "displayName": "2 Dmg Inventor Gear Projectile Bullet"
                 }
             }
         },
@@ -955,7 +955,7 @@
             "items": {
                 "12822": {
                     "name": "1 Dmg Inventor Gear Projectile Bullet",
-                    "displayName": null
+                    "displayName": "1 Dmg Inventor Gear Projectile Bullet"
                 }
             }
         },
@@ -985,7 +985,7 @@
             "items": {
                 "12826": {
                     "name": "Inventor Beehive 1 Projectile Bullet",
-                    "displayName": null
+                    "displayName": "Inventor Beehive 1 Projectile Bullet"
                 }
             }
         },
@@ -995,7 +995,7 @@
             "items": {
                 "12827": {
                     "name": "Inventor Beehive 2 Projectile Bullet",
-                    "displayName": null
+                    "displayName": "Inventor Beehive 2 Projectile Bullet"
                 }
             }
         },
@@ -1015,7 +1015,7 @@
             "items": {
                 "12832": {
                     "name": "2 Dmg Projectile Arrow Adventurer",
-                    "displayName": null
+                    "displayName": "2 Dmg Projectile Arrow Adventurer"
                 }
             }
         },
@@ -1025,7 +1025,7 @@
             "items": {
                 "12833": {
                     "name": "3 Dmg Projectile Arrow Adventurer",
-                    "displayName": null
+                    "displayName": "3 Dmg Projectile Arrow Adventurer"
                 }
             }
         },
@@ -1035,7 +1035,7 @@
             "items": {
                 "12834": {
                     "name": "2 Dmg Projectile Arrow Adventurer Chargeup",
-                    "displayName": null
+                    "displayName": "2 Dmg Projectile Arrow Adventurer Chargeup"
                 }
             }
         },
@@ -1045,7 +1045,7 @@
             "items": {
                 "12835": {
                     "name": "3 Dmg Projectile Arrow Adventurer Chargeup",
-                    "displayName": null
+                    "displayName": "3 Dmg Projectile Arrow Adventurer Chargeup"
                 }
             }
         },
@@ -1055,7 +1055,7 @@
             "items": {
                 "12836": {
                     "name": "4 Dmg Projectile Arrow Adventurer Chargeup",
-                    "displayName": null
+                    "displayName": "4 Dmg Projectile Arrow Adventurer Chargeup"
                 }
             }
         },
@@ -1070,7 +1070,7 @@
             "items": {
                 "12883": {
                     "name": "Space Ranger Gravity Well 1 Projectile Bullet",
-                    "displayName": null
+                    "displayName": "Space Ranger Gravity Well 1 Projectile Bullet"
                 }
             }
         },
@@ -1080,7 +1080,7 @@
             "items": {
                 "12884": {
                     "name": "Space Ranger Gravity Well 2 Projectile Bullet",
-                    "displayName": null
+                    "displayName": "Space Ranger Gravity Well 2 Projectile Bullet"
                 }
             }
         },
@@ -1090,7 +1090,7 @@
             "items": {
                 "12885": {
                     "name": "Space Ranger Gravity Well 3 Projectile Bullet",
-                    "displayName": null
+                    "displayName": "Space Ranger Gravity Well 3 Projectile Bullet"
                 }
             }
         },
@@ -1125,7 +1125,7 @@
             "items": {
                 "13008": {
                     "name": "Charged Laser 9 dmg",
-                    "displayName": null
+                    "displayName": "Charged Laser 9 dmg"
                 }
             }
         },
@@ -1169,7 +1169,7 @@
             "items": {
                 "13120": {
                     "name": "Banana Gun Knockedown Bullet",
-                    "displayName": null
+                    "displayName": "Banana Gun Knockedown Bullet"
                 }
             }
         },
@@ -1184,11 +1184,11 @@
             "items": {
                 "13114": {
                     "name": "Blue laser bullet  3 dmg",
-                    "displayName": null
+                    "displayName": "Blue laser bullet  3 dmg"
                 },
                 "13602": {
                     "name": "Bounce Blaster Shard Bullet",
-                    "displayName": null
+                    "displayName": "Bounce Blaster Shard Bullet"
                 }
             }
         },
@@ -1258,7 +1258,7 @@
             "items": {
                 "13830": {
                     "name": "NT- Armory Challenge Target 11 (bomb)",
-                    "displayName": null
+                    "displayName": "NT- Armory Challenge Target 11 (bomb)"
                 }
             }
         },
@@ -1300,7 +1300,7 @@
             "items": {
                 "14492": {
                     "name": "NJ Skeleton Arrow Projectile Bullet",
-                    "displayName": null
+                    "displayName": "NJ Skeleton Arrow Projectile Bullet"
                 }
             }
         },
@@ -1310,7 +1310,7 @@
             "items": {
                 "14524": {
                     "name": "NJ Skeleton thrown bone Projectile Bullet",
-                    "displayName": null
+                    "displayName": "NJ Skeleton thrown bone Projectile Bullet"
                 }
             }
         },
@@ -1330,7 +1330,7 @@
             "items": {
                 "14602": {
                     "name": "Master Ice Shuriken Projectile 3",
-                    "displayName": null
+                    "displayName": "Master Ice Shuriken Projectile 3"
                 }
             }
         },
@@ -1340,7 +1340,7 @@
             "items": {
                 "14601": {
                     "name": "Master Ice Shuriken Projectile 2",
-                    "displayName": null
+                    "displayName": "Master Ice Shuriken Projectile 2"
                 }
             }
         },
@@ -1350,7 +1350,7 @@
             "items": {
                 "14600": {
                     "name": "Master Ice Shuriken Projectile 1",
-                    "displayName": null
+                    "displayName": "Master Ice Shuriken Projectile 1"
                 }
             }
         },
@@ -1360,7 +1360,7 @@
             "items": {
                 "14819": {
                     "name": "Ninjago Shuriken Projectile 5 / 11",
-                    "displayName": null
+                    "displayName": "Ninjago Shuriken Projectile 5 / 11"
                 }
             }
         },
@@ -1370,7 +1370,7 @@
             "items": {
                 "15890": {
                     "name": "NJ Sashimi Fish bullet 2/7 dmg",
-                    "displayName": null
+                    "displayName": "NJ Sashimi Fish bullet 2/7 dmg"
                 }
             }
         },
@@ -1380,7 +1380,7 @@
             "items": {
                 "15891": {
                     "name": "NJ Sashimi Fish bullet 3/7 dmg",
-                    "displayName": null
+                    "displayName": "NJ Sashimi Fish bullet 3/7 dmg"
                 }
             }
         },
@@ -1411,7 +1411,7 @@
             "items": {
                 "15908": {
                     "name": "NJ Crossbow Bolt Arrow Projectile Bullet 6/24 dmg",
-                    "displayName": null
+                    "displayName": "NJ Crossbow Bolt Arrow Projectile Bullet 6/24 dmg"
                 }
             }
         },
@@ -1421,7 +1421,7 @@
             "items": {
                 "15910": {
                     "name": "NJ Kunai Projectile Bullet 3/12 dmg",
-                    "displayName": null
+                    "displayName": "NJ Kunai Projectile Bullet 3/12 dmg"
                 }
             }
         },
@@ -1446,7 +1446,7 @@
             "items": {
                 "16255": {
                     "name": "Ice Shuriken Projectile 1 and 2",
-                    "displayName": null
+                    "displayName": "Ice Shuriken Projectile 1 and 2"
                 }
             }
         },
@@ -1456,7 +1456,7 @@
             "items": {
                 "16256": {
                     "name": "Ice Shuriken Projectile 3",
-                    "displayName": null
+                    "displayName": "Ice Shuriken Projectile 3"
                 }
             }
         }

@@ -7,7 +7,7 @@
             "items": {
                 "8273": {
                     "name": "Test Performance Test Helmet",
-                    "displayName": null
+                    "displayName": "Test Performance Test Helmet"
                 },
                 "12967": {
                     "name": "Knight Neck/Back 3 Color Variant",
@@ -261,7 +261,7 @@
             "items": {
                 "16261": {
                     "name": "Lightning Nunchucks Left Hand Proxy",
-                    "displayName": null
+                    "displayName": "Lightning Nunchucks Left Hand Proxy"
                 }
             }
         }
