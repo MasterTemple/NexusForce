@@ -37,15 +37,18 @@
             "imBonusUI": 3,
             "armorBonusUI": 2,
             "cooldown": 12.0,
-            "cooldowngroup": 24
+            "cooldowngroup": 24,
+            "equipLocation": "hair"
         },
         "12758": {
             "imBonusUI": 2,
-            "armorBonusUI": 2
+            "armorBonusUI": 2,
+            "equipLocation": "chest"
         },
         "12798": {
             "imBonusUI": 1,
-            "armorBonusUI": 1
+            "armorBonusUI": 1,
+            "equipLocation": "legs"
         }
     },
     "items": {
@@ -53,15 +56,18 @@
             "armorBonusUI": 2,
             "imBonusUI": 3,
             "cooldown": 12.0,
-            "cooldowngroup": 24
+            "cooldowngroup": 24,
+            "equipLocation": "hair"
         },
         "12758": {
             "armorBonusUI": 2,
-            "imBonusUI": 2
+            "imBonusUI": 2,
+            "equipLocation": "chest"
         },
         "12798": {
             "armorBonusUI": 1,
-            "imBonusUI": 1
+            "imBonusUI": 1,
+            "equipLocation": "legs"
         }
     },
     "skills": {

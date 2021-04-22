@@ -43,44 +43,56 @@
             "imBonusUI": 2
         },
         "13978": {
-            "armorBonusUI": 1
+            "armorBonusUI": 1,
+            "equipLocation": "hair"
         },
         "13982": {
-            "armorBonusUI": 2
+            "armorBonusUI": 2,
+            "equipLocation": "legs"
         },
         "13983": {
-            "armorBonusUI": 4
+            "armorBonusUI": 4,
+            "equipLocation": "special_l"
         },
         "13980": {
-            "armorBonusUI": 1
+            "armorBonusUI": 1,
+            "equipLocation": "chest"
         },
         "13986": {
-            "armorBonusUI": 1
+            "armorBonusUI": 1,
+            "equipLocation": "clavicle"
         },
         "13976": {
             "cooldown": 0.0,
-            "cooldowngroup": 1
+            "cooldowngroup": 1,
+            "equipLocation": "special_r"
         }
     },
     "items": {
         "13978": {
-            "armorBonusUI": 1
+            "armorBonusUI": 1,
+            "equipLocation": "hair"
         },
         "13982": {
-            "armorBonusUI": 2
+            "armorBonusUI": 2,
+            "equipLocation": "legs"
         },
         "13983": {
-            "armorBonusUI": 4
+            "armorBonusUI": 4,
+            "equipLocation": "special_l"
         },
         "13980": {
-            "armorBonusUI": 1
+            "armorBonusUI": 1,
+            "equipLocation": "chest"
         },
         "13986": {
-            "armorBonusUI": 1
+            "armorBonusUI": 1,
+            "equipLocation": "clavicle"
         },
         "13976": {
             "cooldown": 0.0,
-            "cooldowngroup": 1
+            "cooldowngroup": 1,
+            "equipLocation": "special_r"
         }
     },
     "skills": {

@@ -44,54 +44,66 @@
         "7443": {
             "armorBonusUI": 1,
             "cooldown": 8.0,
-            "cooldowngroup": 20
+            "cooldowngroup": 20,
+            "equipLocation": "hair"
         },
         "7467": {
             "imBonusUI": 2,
-            "armorBonusUI": 1
+            "armorBonusUI": 1,
+            "equipLocation": "chest"
         },
         "7491": {
             "imBonusUI": 2,
-            "armorBonusUI": 1
+            "armorBonusUI": 1,
+            "equipLocation": "legs"
         },
         "7515": {
             "cooldown": 0.0,
-            "cooldowngroup": 1
+            "cooldowngroup": 1,
+            "equipLocation": "special_r"
         },
         "7544": {
             "armorBonusUI": 1,
             "cooldown": 8.0,
-            "cooldowngroup": 24
+            "cooldowngroup": 24,
+            "equipLocation": "special_l"
         },
         "8457": {
-            "armorBonusUI": 2
+            "armorBonusUI": 2,
+            "equipLocation": "clavicle"
         }
     },
     "items": {
         "7443": {
             "armorBonusUI": 1,
             "cooldown": 8.0,
-            "cooldowngroup": 20
+            "cooldowngroup": 20,
+            "equipLocation": "hair"
         },
         "7467": {
             "armorBonusUI": 1,
-            "imBonusUI": 2
+            "imBonusUI": 2,
+            "equipLocation": "chest"
         },
         "7491": {
             "armorBonusUI": 1,
-            "imBonusUI": 2
+            "imBonusUI": 2,
+            "equipLocation": "legs"
         },
         "7515": {
             "cooldown": 0.0,
-            "cooldowngroup": 1
+            "cooldowngroup": 1,
+            "equipLocation": "special_r"
         },
         "7544": {
             "armorBonusUI": 1,
             "cooldown": 8.0,
-            "cooldowngroup": 24
+            "cooldowngroup": 24,
+            "equipLocation": "special_l"
         },
         "8457": {
-            "armorBonusUI": 2
+            "armorBonusUI": 2,
+            "equipLocation": "clavicle"
         }
     },
     "skills": {

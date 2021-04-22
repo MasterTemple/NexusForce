@@ -36,35 +36,43 @@
         "skillSetWith6": {},
         "7460": {
             "cooldown": 15.0,
-            "cooldowngroup": 20
+            "cooldowngroup": 20,
+            "equipLocation": "hair"
         },
         "7484": {
-            "imBonusUI": 1
+            "imBonusUI": 1,
+            "equipLocation": "chest"
         },
         "7508": {
             "imBonusUI": 1,
-            "armorBonusUI": 1
+            "armorBonusUI": 1,
+            "equipLocation": "legs"
         },
         "7532": {
             "cooldown": 0.0,
-            "cooldowngroup": 1
+            "cooldowngroup": 1,
+            "equipLocation": "special_r"
         }
     },
     "items": {
         "7460": {
             "cooldown": 15.0,
-            "cooldowngroup": 20
+            "cooldowngroup": 20,
+            "equipLocation": "hair"
         },
         "7484": {
-            "imBonusUI": 1
+            "imBonusUI": 1,
+            "equipLocation": "chest"
         },
         "7508": {
             "armorBonusUI": 1,
-            "imBonusUI": 1
+            "imBonusUI": 1,
+            "equipLocation": "legs"
         },
         "7532": {
             "cooldown": 0.0,
-            "cooldowngroup": 1
+            "cooldowngroup": 1,
+            "equipLocation": "special_r"
         }
     },
     "skills": {

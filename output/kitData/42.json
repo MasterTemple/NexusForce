@@ -41,29 +41,34 @@
             "lifeBonusUI": 1,
             "armorBonusUI": 1,
             "cooldown": 20.0,
-            "cooldowngroup": 50
+            "cooldowngroup": 50,
+            "equipLocation": "hair"
         },
         "12686": {
             "imBonusUI": 3,
             "lifeBonusUI": 1,
-            "armorBonusUI": 1
+            "armorBonusUI": 1,
+            "equipLocation": "chest"
         },
         "13000": {
             "imBonusUI": 3,
             "lifeBonusUI": 1,
-            "armorBonusUI": 1
+            "armorBonusUI": 1,
+            "equipLocation": "legs"
         },
         "12802": {
             "lifeBonusUI": 1,
             "cooldown": 0.0,
-            "cooldowngroup": 1
+            "cooldowngroup": 1,
+            "equipLocation": "special_r"
         },
         "12678": {
             "imBonusUI": 4,
             "lifeBonusUI": 1,
             "armorBonusUI": 2,
             "cooldown": 7.0,
-            "cooldowngroup": 2
+            "cooldowngroup": 2,
+            "equipLocation": "special_l"
         }
     },
     "items": {
@@ -72,29 +77,34 @@
             "cooldowngroup": 50,
             "armorBonusUI": 1,
             "imBonusUI": 3,
-            "lifeBonusUI": 1
+            "lifeBonusUI": 1,
+            "equipLocation": "hair"
         },
         "12686": {
             "armorBonusUI": 1,
             "imBonusUI": 3,
-            "lifeBonusUI": 1
+            "lifeBonusUI": 1,
+            "equipLocation": "chest"
         },
         "13000": {
             "armorBonusUI": 1,
             "imBonusUI": 3,
-            "lifeBonusUI": 1
+            "lifeBonusUI": 1,
+            "equipLocation": "legs"
         },
         "12802": {
             "lifeBonusUI": 1,
             "cooldown": 0.0,
-            "cooldowngroup": 1
+            "cooldowngroup": 1,
+            "equipLocation": "special_r"
         },
         "12678": {
             "armorBonusUI": 2,
             "imBonusUI": 4,
             "lifeBonusUI": 1,
             "cooldown": 7.0,
-            "cooldowngroup": 2
+            "cooldowngroup": 2,
+            "equipLocation": "special_l"
         }
     },
     "skills": {

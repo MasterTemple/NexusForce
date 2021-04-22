@@ -49,29 +49,35 @@
             "imBonusUI": 3,
             "armorBonusUI": 2,
             "cooldown": 45.0,
-            "cooldowngroup": 2
+            "cooldowngroup": 2,
+            "equipLocation": "hair"
         },
         "12756": {
             "imBonusUI": 3,
-            "armorBonusUI": 3
+            "armorBonusUI": 3,
+            "equipLocation": "chest"
         },
         "12801": {
             "imBonusUI": 3,
-            "armorBonusUI": 2
+            "armorBonusUI": 2,
+            "equipLocation": "legs"
         },
         "12927": {
             "cooldown": 1.0,
-            "cooldowngroup": 1
+            "cooldowngroup": 1,
+            "equipLocation": "special_r"
         },
         "12743": {
             "imBonusUI": 2,
             "armorBonusUI": 3,
             "cooldown": 90.0,
-            "cooldowngroup": 8
+            "cooldowngroup": 8,
+            "equipLocation": "special_l"
         },
         "12101": {
             "imBonusUI": 2,
-            "armorBonusUI": 2
+            "armorBonusUI": 2,
+            "equipLocation": "clavicle"
         }
     },
     "items": {
@@ -79,29 +85,35 @@
             "armorBonusUI": 2,
             "imBonusUI": 3,
             "cooldown": 45.0,
-            "cooldowngroup": 2
+            "cooldowngroup": 2,
+            "equipLocation": "hair"
         },
         "12756": {
             "armorBonusUI": 3,
-            "imBonusUI": 3
+            "imBonusUI": 3,
+            "equipLocation": "chest"
         },
         "12801": {
             "armorBonusUI": 2,
-            "imBonusUI": 3
+            "imBonusUI": 3,
+            "equipLocation": "legs"
         },
         "12927": {
             "cooldown": 1.0,
-            "cooldowngroup": 1
+            "cooldowngroup": 1,
+            "equipLocation": "special_r"
         },
         "12743": {
             "cooldown": 90.0,
             "cooldowngroup": 8,
             "armorBonusUI": 3,
-            "imBonusUI": 2
+            "imBonusUI": 2,
+            "equipLocation": "special_l"
         },
         "12101": {
             "armorBonusUI": 2,
-            "imBonusUI": 2
+            "imBonusUI": 2,
+            "equipLocation": "clavicle"
         }
     },
     "skills": {

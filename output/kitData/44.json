@@ -34,29 +34,35 @@
         "skillSetWith6": {},
         "12472": {
             "imBonusUI": 4,
-            "armorBonusUI": 3
+            "armorBonusUI": 3,
+            "equipLocation": "hair"
         },
         "12690": {
             "imBonusUI": 2,
-            "armorBonusUI": 5
+            "armorBonusUI": 5,
+            "equipLocation": "chest"
         },
         "12426": {
             "imBonusUI": 2,
-            "armorBonusUI": 5
+            "armorBonusUI": 5,
+            "equipLocation": "legs"
         }
     },
     "items": {
         "12472": {
             "armorBonusUI": 3,
-            "imBonusUI": 4
+            "imBonusUI": 4,
+            "equipLocation": "hair"
         },
         "12690": {
             "armorBonusUI": 5,
-            "imBonusUI": 2
+            "imBonusUI": 2,
+            "equipLocation": "chest"
         },
         "12426": {
             "armorBonusUI": 5,
-            "imBonusUI": 2
+            "imBonusUI": 2,
+            "equipLocation": "legs"
         }
     },
     "skills": {
