@@ -1,9 +1,9 @@
 module.exports = {
-    name: ['setcontributor'],
+    name: ['setcontributor', 'addcontributor'],
     description: 'Give another user Contributor permissions.',
     args: true,
-    use: `setcontributor [id]`,
-    example:[`setcontributor 789705048035688458`],
+    use: `setContributor [id]`,
+    example:[`setContributor 789705048035688458`],
     execute(message, args) {
         let config = require('./../config.json');
         function err(){

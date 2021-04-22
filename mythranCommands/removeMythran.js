@@ -1,9 +1,9 @@
 module.exports = {
-    name: ['setmythran', 'addmythran'],
-    description: 'Give another user Mythran permissions.',
+    name: ['removemythran'],
+    description: 'Remove\'s another users Mythran permissions.',
     args: true,
-    use: `setMythran [id]`,
-    example:[`setMythran 789705048035688458`],
+    use: `removeMythran [id]`,
+    example:[`removeMythran 789705048035688458`],
     execute(message, args) {
         let config = require('./../config.json');
         function err(){
@@ -22,7 +22,7 @@ module.exports = {
         }
         const fs = require('fs')
         let newMythranID = args[0]
-        config.mythran.push(newMythranID)
+        config.mythran.pop(newMythranID)
 
         fs.writeFile ("config.json", JSON.stringify(config,null,2), function(err) {
                 if (err) throw err;
