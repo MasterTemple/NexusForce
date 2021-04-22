@@ -1,9 +1,9 @@
 module.exports = {
     name: ['kit'],
-    description: 'See where to npc an item',
+    description: 'Get information about a kit in LEGO Universe',
     args: true,
     use: `kit [id]`,
-    example: [`kit 3`],
+    example: [`kit engineer 3`],
     execute(message, args) {
         function err() {
             try {
@@ -18,8 +18,8 @@ module.exports = {
 
         if(args.length > 1 || isNaN(args[0])){
             let findOne = require(`./../functions/findOneKit.js`)
-            var objectID = findOne.execute(args)
-            if(objectID===undefined){
+            var kitID = findOne.execute(args)
+            if(kitID===undefined){
                 message.channel.send("A kit with this Name does not exist.")
                 err()
                 return
