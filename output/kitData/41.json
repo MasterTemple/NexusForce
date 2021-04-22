@@ -78,7 +78,8 @@
                 "skillIcon": 3120,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": 1
+                "armorBonusUI": 1,
+                "description": "+1 AP"
             },
             "369": {
                 "behaviorID": 4251,
@@ -89,7 +90,8 @@
                 "skillIcon": 1032,
                 "imBonusUI": 1,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "+1 IP"
             }
         },
         "skillSetWith3": {
@@ -102,7 +104,8 @@
                 "skillIcon": 3120,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": 1
+                "armorBonusUI": 1,
+                "description": "+1 AP"
             },
             "369": {
                 "behaviorID": 4251,
@@ -113,7 +116,8 @@
                 "skillIcon": 1032,
                 "imBonusUI": 1,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "+1 IP"
             },
             "378": {
                 "behaviorID": 4260,
@@ -124,11 +128,13 @@
                 "skillIcon": 3119,
                 "imBonusUI": null,
                 "lifeBonusUI": 1,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "+1 LP"
             }
         },
         "skillSetWith4": {},
         "skillSetWith5": {},
         "skillSetWith6": {}
-    }
+    },
+    "skillSetDescriptions": {}
 }

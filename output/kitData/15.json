@@ -323,5 +323,9 @@
                 "description": null
             }
         }
+    },
+    "skillSetDescriptions": {
+        "skillSetWith4": "When you reach 0 Armor, nearby characters will be shielded from 15 damage for a short time",
+        "skillSetWith5": "Restores 1 Armor every time you smash an enemy"
     }
 }

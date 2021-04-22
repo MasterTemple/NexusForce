@@ -222,7 +222,8 @@
                 "skillIcon": 3120,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": 1
+                "armorBonusUI": 1,
+                "description": "+1 AP"
             },
             "702": {
                 "behaviorID": 11183,
@@ -233,7 +234,8 @@
                 "skillIcon": 3674,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "When you reach 0 Armor, reduces the amount of damage you take by 3, to a minimum of 1"
             }
         },
         "skillSetWith5": {
@@ -246,7 +248,8 @@
                 "skillIcon": 3120,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": 2
+                "armorBonusUI": 2,
+                "description": "+2 AP"
             },
             "369": {
                 "behaviorID": 4251,
@@ -257,7 +260,8 @@
                 "skillIcon": 1032,
                 "imBonusUI": 1,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "+1 IP"
             },
             "431": {
                 "behaviorID": 20230,
@@ -268,7 +272,8 @@
                 "skillIcon": 3644,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "Restores 1 Armor every time you smash an enemy"
             }
         },
         "skillSetWith6": {
@@ -281,7 +286,8 @@
                 "skillIcon": 3120,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": 3
+                "armorBonusUI": 3,
+                "description": "+3 AP"
             },
             "371": {
                 "behaviorID": 4253,
@@ -292,7 +298,8 @@
                 "skillIcon": 1032,
                 "imBonusUI": 3,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "+3 IP"
             },
             "1162": {
                 "behaviorID": 26487,
@@ -303,8 +310,13 @@
                 "skillIcon": 0,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": null
             }
         }
+    },
+    "skillSetDescriptions": {
+        "skillSetWith4": "When you reach 0 Armor, reduces the amount of damage you take by 3, to a minimum of 1",
+        "skillSetWith5": "Restores 1 Armor every time you smash an enemy"
     }
 }

@@ -81,8 +81,7 @@ I don't know if the stat emojis will work if someone hosts this bot without it b
 ![img_7.png](src/img_7.png)
 
 # Future
-1. Item kits
-2. Enemy stats and attacks
+1. Enemy stats and attacks
 
 # Contact
 If you have any questions regarding use or any suggestions for features, feel free to contact me on Discord at `MasterTemple#0233` (my ID is `789705048035688458` just in case my name is changed)

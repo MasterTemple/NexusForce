@@ -110,7 +110,8 @@
                 "skillIcon": 3119,
                 "imBonusUI": null,
                 "lifeBonusUI": 2,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "+2 LP"
             },
             "402": {
                 "behaviorID": 4433,
@@ -121,7 +122,8 @@
                 "skillIcon": 3642,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "Attracts coins and other rewards towards you"
             }
         },
         "skillSetWith5": {
@@ -134,7 +136,8 @@
                 "skillIcon": 3119,
                 "imBonusUI": null,
                 "lifeBonusUI": 2,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "+2 LP"
             },
             "1149": {
                 "behaviorID": 27078,
@@ -145,9 +148,14 @@
                 "skillIcon": 3372,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "Restores 3 Life each time an enemy is smashed"
             }
         },
         "skillSetWith6": {}
+    },
+    "skillSetDescriptions": {
+        "skillSetWith4": "Attracts coins and other rewards towards you",
+        "skillSetWith5": "Restores 3 Life each time an enemy is smashed"
     }
 }

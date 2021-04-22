@@ -76,7 +76,8 @@
                 "skillIcon": 3120,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": 1
+                "armorBonusUI": 1,
+                "description": "+1 AP"
             },
             "370": {
                 "behaviorID": 4252,
@@ -87,7 +88,8 @@
                 "skillIcon": 1032,
                 "imBonusUI": 2,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "+2 IP"
             },
             "659": {
                 "behaviorID": 11183,
@@ -98,7 +100,8 @@
                 "skillIcon": 3264,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "Restores 1 Imagination when you run out"
             },
             "1187": {
                 "behaviorID": 26537,
@@ -109,10 +112,14 @@
                 "skillIcon": 0,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": null
             }
         },
         "skillSetWith5": {},
         "skillSetWith6": {}
+    },
+    "skillSetDescriptions": {
+        "skillSetWith4": "Restores 1 Imagination when you run out"
     }
 }

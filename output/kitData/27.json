@@ -142,7 +142,8 @@
                 "skillIcon": 3120,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": 4
+                "armorBonusUI": 4,
+                "description": "+4 AP"
             },
             "373": {
                 "behaviorID": 4255,
@@ -153,7 +154,8 @@
                 "skillIcon": 1032,
                 "imBonusUI": 5,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "+5 IP"
             },
             "661": {
                 "behaviorID": 11183,
@@ -164,7 +166,8 @@
                 "skillIcon": 3264,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "Restores 3 Imagination when you run out"
             }
         },
         "skillSetWith5": {
@@ -177,7 +180,8 @@
                 "skillIcon": 3120,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": 3
+                "armorBonusUI": 3,
+                "description": "+3 AP"
             },
             "371": {
                 "behaviorID": 4253,
@@ -188,7 +192,8 @@
                 "skillIcon": 1032,
                 "imBonusUI": 3,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "+3 IP"
             },
             "584": {
                 "behaviorID": 9439,
@@ -199,7 +204,8 @@
                 "skillIcon": 2975,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "Prevents attacks from knocking you out of a Quick Build"
             }
         },
         "skillSetWith6": {
@@ -212,7 +218,8 @@
                 "skillIcon": 3120,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": 2
+                "armorBonusUI": 2,
+                "description": "+2 AP"
             },
             "372": {
                 "behaviorID": 4254,
@@ -223,7 +230,8 @@
                 "skillIcon": 1032,
                 "imBonusUI": 4,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "+4 IP"
             },
             "378": {
                 "behaviorID": 4260,
@@ -234,7 +242,8 @@
                 "skillIcon": 3119,
                 "imBonusUI": null,
                 "lifeBonusUI": 1,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "+1 LP"
             },
             "1195": {
                 "behaviorID": 26553,
@@ -245,8 +254,13 @@
                 "skillIcon": 0,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": null
             }
         }
+    },
+    "skillSetDescriptions": {
+        "skillSetWith4": "Restores 3 Imagination when you run out",
+        "skillSetWith5": "Prevents attacks from knocking you out of a Quick Build"
     }
 }

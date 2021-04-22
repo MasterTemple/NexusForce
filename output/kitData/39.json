@@ -214,7 +214,8 @@
                 "skillIcon": 3120,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": 3
+                "armorBonusUI": 3,
+                "description": "+3 AP"
             },
             "371": {
                 "behaviorID": 4253,
@@ -225,7 +226,8 @@
                 "skillIcon": 1032,
                 "imBonusUI": 3,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "+3 IP"
             },
             "721": {
                 "behaviorID": 11670,
@@ -236,7 +238,8 @@
                 "skillIcon": 3584,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "Shows collectibles on your mini-map"
             }
         },
         "skillSetWith6": {
@@ -249,7 +252,8 @@
                 "skillIcon": 3120,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": 3
+                "armorBonusUI": 3,
+                "description": "+3 AP"
             },
             "371": {
                 "behaviorID": 4253,
@@ -260,7 +264,8 @@
                 "skillIcon": 1032,
                 "imBonusUI": 3,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "+3 IP"
             },
             "378": {
                 "behaviorID": 4260,
@@ -271,7 +276,8 @@
                 "skillIcon": 3119,
                 "imBonusUI": null,
                 "lifeBonusUI": 1,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "+1 LP"
             },
             "402": {
                 "behaviorID": 4433,
@@ -282,7 +288,8 @@
                 "skillIcon": 3642,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "Attracts coins and other rewards towards you"
             },
             "1171": {
                 "behaviorID": 26505,
@@ -293,8 +300,13 @@
                 "skillIcon": 0,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": null
             }
         }
+    },
+    "skillSetDescriptions": {
+        "skillSetWith5": "Shows collectibles on your mini-map",
+        "skillSetWith6": "Attracts coins and other rewards towards you"
     }
 }

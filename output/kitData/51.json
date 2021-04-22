@@ -126,10 +126,12 @@
                 "skillIcon": null,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": null
             }
         },
         "skillSetWith5": {},
         "skillSetWith6": {}
-    }
+    },
+    "skillSetDescriptions": {}
 }

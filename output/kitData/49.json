@@ -189,9 +189,9 @@
     },
     "iconURL": "https://static.wikia.nocookie.net/legomessageboards/images/c/ce/LU2.png/revision/latest?cb=20121121213649",
     "totalWithoutValiant": {
-        "imBonusUI": 126,
+        "imBonusUI": 268,
         "lifeBonusUI": 0,
-        "armorBonusUI": 108
+        "armorBonusUI": 262
     },
     "totalWithValiant": {},
     "bonus": {
@@ -200,6 +200,268 @@
         "skillSetWith4": {},
         "skillSetWith5": {},
         "skillSetWith6": {},
+        "14499": {
+            "imBonusUI": 1,
+            "armorBonusUI": 1
+        },
+        "15843": {
+            "imBonusUI": 2,
+            "armorBonusUI": 3
+        },
+        "15844": {
+            "imBonusUI": 2,
+            "armorBonusUI": 3
+        },
+        "16063": {
+            "imBonusUI": 1,
+            "armorBonusUI": 2
+        },
+        "16064": {
+            "imBonusUI": 1,
+            "armorBonusUI": 2
+        },
+        "16065": {
+            "imBonusUI": 3,
+            "armorBonusUI": 4
+        },
+        "16066": {
+            "imBonusUI": 1,
+            "armorBonusUI": 2
+        },
+        "16067": {
+            "imBonusUI": 2,
+            "armorBonusUI": 3
+        },
+        "16068": {
+            "imBonusUI": 2,
+            "armorBonusUI": 3
+        },
+        "16069": {
+            "imBonusUI": 2,
+            "armorBonusUI": 2
+        },
+        "16070": {
+            "imBonusUI": 1,
+            "armorBonusUI": 2
+        },
+        "16082": {
+            "imBonusUI": 1,
+            "armorBonusUI": 2
+        },
+        "16083": {
+            "imBonusUI": 1,
+            "armorBonusUI": 2
+        },
+        "16084": {
+            "imBonusUI": 1,
+            "armorBonusUI": 1
+        },
+        "16085": {
+            "imBonusUI": 3,
+            "armorBonusUI": 3
+        },
+        "16086": {
+            "imBonusUI": 2,
+            "armorBonusUI": 2
+        },
+        "16087": {
+            "imBonusUI": 3,
+            "armorBonusUI": 3
+        },
+        "16095": {
+            "imBonusUI": 2,
+            "armorBonusUI": 3
+        },
+        "16096": {
+            "imBonusUI": 2,
+            "armorBonusUI": 2
+        },
+        "16098": {
+            "imBonusUI": 2,
+            "armorBonusUI": 3
+        },
+        "16099": {
+            "imBonusUI": 2,
+            "armorBonusUI": 2
+        },
+        "16100": {
+            "imBonusUI": 2,
+            "armorBonusUI": 3
+        },
+        "16101": {
+            "imBonusUI": 1,
+            "armorBonusUI": 2
+        },
+        "16102": {
+            "imBonusUI": 2,
+            "armorBonusUI": 3
+        },
+        "16103": {
+            "imBonusUI": 2,
+            "armorBonusUI": 3
+        },
+        "16105": {
+            "imBonusUI": 2,
+            "armorBonusUI": 3
+        },
+        "16106": {
+            "imBonusUI": 2,
+            "armorBonusUI": 2
+        },
+        "16118": {
+            "imBonusUI": 2,
+            "armorBonusUI": 1
+        },
+        "16119": {
+            "imBonusUI": 1,
+            "armorBonusUI": 2
+        },
+        "16120": {
+            "imBonusUI": 2,
+            "armorBonusUI": 2
+        },
+        "16121": {
+            "imBonusUI": 2,
+            "armorBonusUI": 2
+        },
+        "16122": {
+            "imBonusUI": 2,
+            "armorBonusUI": 3
+        },
+        "16123": {
+            "imBonusUI": 2,
+            "armorBonusUI": 3
+        },
+        "15914": {
+            "imBonusUI": 3,
+            "armorBonusUI": 3,
+            "cooldown": 90.0,
+            "cooldowngroup": 8
+        },
+        "15916": {
+            "imBonusUI": 2,
+            "armorBonusUI": 3,
+            "cooldown": 90.0,
+            "cooldowngroup": 8
+        },
+        "15918": {
+            "imBonusUI": 4,
+            "armorBonusUI": 2,
+            "cooldown": 10.0,
+            "cooldowngroup": 5
+        },
+        "15935": {
+            "imBonusUI": 5,
+            "armorBonusUI": 4,
+            "cooldown": 10.0,
+            "cooldowngroup": 5
+        },
+        "15947": {
+            "imBonusUI": 6,
+            "armorBonusUI": 6,
+            "cooldown": 10.0,
+            "cooldowngroup": 5
+        },
+        "15948": {
+            "cooldown": 20.0,
+            "cooldowngroup": 2
+        },
+        "15959": {
+            "imBonusUI": 6,
+            "armorBonusUI": 5,
+            "cooldown": 10.0,
+            "cooldowngroup": 5
+        },
+        "15956": {
+            "cooldown": 25.0,
+            "cooldowngroup": 2
+        },
+        "15919": {
+            "imBonusUI": 3,
+            "armorBonusUI": 2,
+            "cooldown": 10.0,
+            "cooldowngroup": 5
+        },
+        "15936": {
+            "imBonusUI": 5,
+            "armorBonusUI": 4,
+            "cooldown": 10.0,
+            "cooldowngroup": 5
+        },
+        "15954": {
+            "imBonusUI": 7,
+            "armorBonusUI": 5,
+            "cooldown": 10.0,
+            "cooldowngroup": 5
+        },
+        "15960": {
+            "imBonusUI": 7,
+            "armorBonusUI": 4,
+            "cooldown": 10.0,
+            "cooldowngroup": 5
+        },
+        "15920": {
+            "imBonusUI": 4,
+            "armorBonusUI": 3,
+            "cooldown": 10.0,
+            "cooldowngroup": 5
+        },
+        "15937": {
+            "imBonusUI": 3,
+            "cooldown": 10.0,
+            "cooldowngroup": 5
+        },
+        "15955": {
+            "imBonusUI": 5,
+            "armorBonusUI": 5,
+            "cooldown": 10.0,
+            "cooldowngroup": 5
+        },
+        "15961": {
+            "imBonusUI": 5,
+            "armorBonusUI": 6,
+            "cooldown": 10.0,
+            "cooldowngroup": 5
+        },
+        "14490": {},
+        "15926": {
+            "imBonusUI": 3,
+            "armorBonusUI": 1
+        },
+        "15917": {
+            "imBonusUI": 2,
+            "armorBonusUI": 2
+        },
+        "15974": {
+            "imBonusUI": 3,
+            "armorBonusUI": 3,
+            "cooldown": 7.0,
+            "cooldowngroup": 2
+        },
+        "15975": {
+            "imBonusUI": 3,
+            "armorBonusUI": 3
+        },
+        "15990": {
+            "imBonusUI": 1,
+            "armorBonusUI": 2
+        },
+        "15991": {
+            "imBonusUI": 1,
+            "armorBonusUI": 3
+        },
+        "15992": {
+            "imBonusUI": 2,
+            "armorBonusUI": 3
+        },
+        "15993": {
+            "imBonusUI": 1,
+            "armorBonusUI": 3
+        },
+        "15994": {
+            "imBonusUI": 2,
+            "armorBonusUI": 3
+        },
         "14136": {
             "imBonusUI": 4,
             "armorBonusUI": 2,
@@ -379,6 +641,268 @@
         }
     },
     "items": {
+        "14499": {
+            "armorBonusUI": 1,
+            "imBonusUI": 1
+        },
+        "15843": {
+            "armorBonusUI": 3,
+            "imBonusUI": 2
+        },
+        "15844": {
+            "armorBonusUI": 3,
+            "imBonusUI": 2
+        },
+        "16063": {
+            "armorBonusUI": 2,
+            "imBonusUI": 1
+        },
+        "16064": {
+            "armorBonusUI": 2,
+            "imBonusUI": 1
+        },
+        "16065": {
+            "armorBonusUI": 4,
+            "imBonusUI": 3
+        },
+        "16066": {
+            "armorBonusUI": 2,
+            "imBonusUI": 1
+        },
+        "16067": {
+            "armorBonusUI": 3,
+            "imBonusUI": 2
+        },
+        "16068": {
+            "armorBonusUI": 3,
+            "imBonusUI": 2
+        },
+        "16069": {
+            "armorBonusUI": 2,
+            "imBonusUI": 2
+        },
+        "16070": {
+            "armorBonusUI": 2,
+            "imBonusUI": 1
+        },
+        "16082": {
+            "armorBonusUI": 2,
+            "imBonusUI": 1
+        },
+        "16083": {
+            "armorBonusUI": 2,
+            "imBonusUI": 1
+        },
+        "16084": {
+            "armorBonusUI": 1,
+            "imBonusUI": 1
+        },
+        "16085": {
+            "armorBonusUI": 3,
+            "imBonusUI": 3
+        },
+        "16086": {
+            "armorBonusUI": 2,
+            "imBonusUI": 2
+        },
+        "16087": {
+            "armorBonusUI": 3,
+            "imBonusUI": 3
+        },
+        "16095": {
+            "armorBonusUI": 3,
+            "imBonusUI": 2
+        },
+        "16096": {
+            "armorBonusUI": 2,
+            "imBonusUI": 2
+        },
+        "16098": {
+            "armorBonusUI": 3,
+            "imBonusUI": 2
+        },
+        "16099": {
+            "armorBonusUI": 2,
+            "imBonusUI": 2
+        },
+        "16100": {
+            "armorBonusUI": 3,
+            "imBonusUI": 2
+        },
+        "16101": {
+            "armorBonusUI": 2,
+            "imBonusUI": 1
+        },
+        "16102": {
+            "armorBonusUI": 3,
+            "imBonusUI": 2
+        },
+        "16103": {
+            "armorBonusUI": 3,
+            "imBonusUI": 2
+        },
+        "16105": {
+            "armorBonusUI": 3,
+            "imBonusUI": 2
+        },
+        "16106": {
+            "armorBonusUI": 2,
+            "imBonusUI": 2
+        },
+        "16118": {
+            "armorBonusUI": 1,
+            "imBonusUI": 2
+        },
+        "16119": {
+            "armorBonusUI": 2,
+            "imBonusUI": 1
+        },
+        "16120": {
+            "armorBonusUI": 2,
+            "imBonusUI": 2
+        },
+        "16121": {
+            "armorBonusUI": 2,
+            "imBonusUI": 2
+        },
+        "16122": {
+            "armorBonusUI": 3,
+            "imBonusUI": 2
+        },
+        "16123": {
+            "armorBonusUI": 3,
+            "imBonusUI": 2
+        },
+        "15914": {
+            "armorBonusUI": 3,
+            "imBonusUI": 3,
+            "cooldown": 90.0,
+            "cooldowngroup": 8
+        },
+        "15916": {
+            "armorBonusUI": 3,
+            "imBonusUI": 2,
+            "cooldown": 90.0,
+            "cooldowngroup": 8
+        },
+        "15918": {
+            "armorBonusUI": 2,
+            "imBonusUI": 4,
+            "cooldown": 10.0,
+            "cooldowngroup": 5
+        },
+        "15935": {
+            "armorBonusUI": 4,
+            "imBonusUI": 5,
+            "cooldown": 10.0,
+            "cooldowngroup": 5
+        },
+        "15947": {
+            "armorBonusUI": 6,
+            "imBonusUI": 6,
+            "cooldown": 10.0,
+            "cooldowngroup": 5
+        },
+        "15948": {
+            "cooldown": 20.0,
+            "cooldowngroup": 2
+        },
+        "15959": {
+            "armorBonusUI": 5,
+            "imBonusUI": 6,
+            "cooldown": 10.0,
+            "cooldowngroup": 5
+        },
+        "15956": {
+            "cooldown": 25.0,
+            "cooldowngroup": 2
+        },
+        "15919": {
+            "armorBonusUI": 2,
+            "imBonusUI": 3,
+            "cooldown": 10.0,
+            "cooldowngroup": 5
+        },
+        "15936": {
+            "armorBonusUI": 4,
+            "imBonusUI": 5,
+            "cooldown": 10.0,
+            "cooldowngroup": 5
+        },
+        "15954": {
+            "armorBonusUI": 5,
+            "imBonusUI": 7,
+            "cooldown": 10.0,
+            "cooldowngroup": 5
+        },
+        "15960": {
+            "armorBonusUI": 4,
+            "imBonusUI": 7,
+            "cooldown": 10.0,
+            "cooldowngroup": 5
+        },
+        "15920": {
+            "armorBonusUI": 3,
+            "imBonusUI": 4,
+            "cooldown": 10.0,
+            "cooldowngroup": 5
+        },
+        "15937": {
+            "imBonusUI": 3,
+            "cooldown": 10.0,
+            "cooldowngroup": 5
+        },
+        "15955": {
+            "armorBonusUI": 5,
+            "imBonusUI": 5,
+            "cooldown": 10.0,
+            "cooldowngroup": 5
+        },
+        "15961": {
+            "armorBonusUI": 6,
+            "imBonusUI": 5,
+            "cooldown": 10.0,
+            "cooldowngroup": 5
+        },
+        "14490": {},
+        "15926": {
+            "armorBonusUI": 1,
+            "imBonusUI": 3
+        },
+        "15917": {
+            "armorBonusUI": 2,
+            "imBonusUI": 2
+        },
+        "15974": {
+            "armorBonusUI": 3,
+            "imBonusUI": 3,
+            "cooldown": 7.0,
+            "cooldowngroup": 2
+        },
+        "15975": {
+            "armorBonusUI": 3,
+            "imBonusUI": 3
+        },
+        "15990": {
+            "armorBonusUI": 2,
+            "imBonusUI": 1
+        },
+        "15991": {
+            "armorBonusUI": 3,
+            "imBonusUI": 1
+        },
+        "15992": {
+            "armorBonusUI": 3,
+            "imBonusUI": 2
+        },
+        "15993": {
+            "armorBonusUI": 3,
+            "imBonusUI": 1
+        },
+        "15994": {
+            "armorBonusUI": 3,
+            "imBonusUI": 2
+        },
         "14136": {
             "armorBonusUI": 2,
             "imBonusUI": 4,
@@ -568,7 +1092,8 @@
                 "skillIcon": null,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": null
             }
         },
         "skillSetWith3": {
@@ -581,7 +1106,8 @@
                 "skillIcon": null,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": null
             }
         },
         "skillSetWith4": {
@@ -594,10 +1120,12 @@
                 "skillIcon": null,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": null
             }
         },
         "skillSetWith5": {},
         "skillSetWith6": {}
-    }
+    },
+    "skillSetDescriptions": {}
 }

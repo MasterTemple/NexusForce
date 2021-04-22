@@ -140,7 +140,8 @@
                 "skillIcon": 3120,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": 1
+                "armorBonusUI": 1,
+                "description": "+1 AP"
             },
             "369": {
                 "behaviorID": 4251,
@@ -151,7 +152,8 @@
                 "skillIcon": 1032,
                 "imBonusUI": 1,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "+1 IP"
             }
         },
         "skillSetWith5": {
@@ -164,7 +166,8 @@
                 "skillIcon": 3120,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": 3
+                "armorBonusUI": 3,
+                "description": "+3 AP"
             },
             "371": {
                 "behaviorID": 4253,
@@ -175,7 +178,8 @@
                 "skillIcon": 1032,
                 "imBonusUI": 3,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "+3 IP"
             },
             "1074": {
                 "behaviorID": 23717,
@@ -186,7 +190,8 @@
                 "skillIcon": 3584,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "Shows the location of dangerous enemies and collectibles on your mini-map"
             }
         },
         "skillSetWith6": {
@@ -199,7 +204,8 @@
                 "skillIcon": 3120,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": 2
+                "armorBonusUI": 2,
+                "description": "+2 AP"
             },
             "370": {
                 "behaviorID": 4252,
@@ -210,7 +216,8 @@
                 "skillIcon": 1032,
                 "imBonusUI": 2,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "+2 IP"
             },
             "378": {
                 "behaviorID": 4260,
@@ -221,7 +228,8 @@
                 "skillIcon": 3119,
                 "imBonusUI": null,
                 "lifeBonusUI": 1,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "+1 LP"
             },
             "402": {
                 "behaviorID": 4433,
@@ -232,7 +240,8 @@
                 "skillIcon": 3642,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "Attracts coins and other rewards towards you"
             },
             "1177": {
                 "behaviorID": 26517,
@@ -243,8 +252,13 @@
                 "skillIcon": 0,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": null
             }
         }
+    },
+    "skillSetDescriptions": {
+        "skillSetWith5": "Shows the location of dangerous enemies and collectibles on your mini-map",
+        "skillSetWith6": "Attracts coins and other rewards towards you"
     }
 }

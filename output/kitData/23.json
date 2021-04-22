@@ -108,7 +108,8 @@
                 "skillIcon": 3120,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": 1
+                "armorBonusUI": 1,
+                "description": "+1 AP"
             },
             "369": {
                 "behaviorID": 4251,
@@ -119,7 +120,8 @@
                 "skillIcon": 1032,
                 "imBonusUI": 1,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "+1 IP"
             },
             "694": {
                 "behaviorID": 11396,
@@ -130,7 +132,8 @@
                 "skillIcon": 3378,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "Restores 2 Imagination every time you smash an enemy"
             }
         },
         "skillSetWith5": {
@@ -143,7 +146,8 @@
                 "skillIcon": 3120,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": 1
+                "armorBonusUI": 1,
+                "description": "+1 AP"
             },
             "369": {
                 "behaviorID": 4251,
@@ -154,7 +158,8 @@
                 "skillIcon": 1032,
                 "imBonusUI": 1,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "+1 IP"
             },
             "774": {
                 "behaviorID": 14095,
@@ -165,7 +170,8 @@
                 "skillIcon": 3671,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "Restores 1 Imagination to nearby characters when you smash an enemy"
             }
         },
         "skillSetWith6": {
@@ -178,7 +184,8 @@
                 "skillIcon": 3120,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": 1
+                "armorBonusUI": 1,
+                "description": "+1 AP"
             },
             "370": {
                 "behaviorID": 4252,
@@ -189,7 +196,8 @@
                 "skillIcon": 1032,
                 "imBonusUI": 2,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "+2 IP"
             },
             "1185": {
                 "behaviorID": 26533,
@@ -200,8 +208,13 @@
                 "skillIcon": 0,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": null
             }
         }
+    },
+    "skillSetDescriptions": {
+        "skillSetWith4": "Restores 2 Imagination every time you smash an enemy",
+        "skillSetWith5": "Restores 1 Imagination to nearby characters when you smash an enemy"
     }
 }

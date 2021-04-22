@@ -76,7 +76,8 @@
                 "skillIcon": 3120,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": 1
+                "armorBonusUI": 1,
+                "description": "+1 AP"
             },
             "371": {
                 "behaviorID": 4253,
@@ -87,7 +88,8 @@
                 "skillIcon": 1032,
                 "imBonusUI": 3,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "+3 IP"
             },
             "1155": {
                 "behaviorID": 27109,
@@ -98,11 +100,15 @@
                 "skillIcon": 3674,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "Reduces the amount of damage you take by 1, to a minimum of 1"
             }
         },
         "skillSetWith4": {},
         "skillSetWith5": {},
         "skillSetWith6": {}
+    },
+    "skillSetDescriptions": {
+        "skillSetWith3": "Reduces the amount of damage you take by 1, to a minimum of 1"
     }
 }

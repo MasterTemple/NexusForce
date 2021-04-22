@@ -80,7 +80,8 @@
                 "skillIcon": 3120,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": 2
+                "armorBonusUI": 2,
+                "description": "+2 AP"
             },
             "369": {
                 "behaviorID": 4251,
@@ -91,7 +92,8 @@
                 "skillIcon": 1032,
                 "imBonusUI": 1,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "+1 IP"
             },
             "704": {
                 "behaviorID": 11183,
@@ -102,7 +104,8 @@
                 "skillIcon": 3674,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "When you reach 0 Armor, reduces the amount of damage you take by 1, to a minimum of 1"
             },
             "1160": {
                 "behaviorID": 26471,
@@ -113,10 +116,14 @@
                 "skillIcon": 0,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": null
             }
         },
         "skillSetWith5": {},
         "skillSetWith6": {}
+    },
+    "skillSetDescriptions": {
+        "skillSetWith4": "When you reach 0 Armor, reduces the amount of damage you take by 1, to a minimum of 1"
     }
 }

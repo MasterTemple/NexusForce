@@ -94,7 +94,8 @@
                 "skillIcon": 3120,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": 1
+                "armorBonusUI": 1,
+                "description": "+1 AP"
             },
             "370": {
                 "behaviorID": 4252,
@@ -105,7 +106,8 @@
                 "skillIcon": 1032,
                 "imBonusUI": 2,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "+2 IP"
             },
             "720": {
                 "behaviorID": 11669,
@@ -116,7 +118,8 @@
                 "skillIcon": 3473,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "Shows dangerous enemies on your mini-map"
             },
             "1172": {
                 "behaviorID": 26507,
@@ -127,9 +130,13 @@
                 "skillIcon": 0,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": null
             }
         },
         "skillSetWith6": {}
+    },
+    "skillSetDescriptions": {
+        "skillSetWith5": "Shows dangerous enemies on your mini-map"
     }
 }

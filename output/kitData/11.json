@@ -107,7 +107,8 @@
                 "skillIcon": 3120,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": 1
+                "armorBonusUI": 1,
+                "description": "+1 AP"
             },
             "1105": {
                 "behaviorID": 11183,
@@ -118,7 +119,8 @@
                 "skillIcon": 3676,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "When you reach 0 Armor, you will be shielded from 15 damage for a short time"
             }
         },
         "skillSetWith5": {
@@ -131,7 +133,8 @@
                 "skillIcon": 3120,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": 1
+                "armorBonusUI": 1,
+                "description": "+1 AP"
             },
             "370": {
                 "behaviorID": 4252,
@@ -142,7 +145,8 @@
                 "skillIcon": 1032,
                 "imBonusUI": 2,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "+2 IP"
             },
             "431": {
                 "behaviorID": 20230,
@@ -153,7 +157,8 @@
                 "skillIcon": 3644,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "Restores 1 Armor every time you smash an enemy"
             }
         },
         "skillSetWith6": {
@@ -166,7 +171,8 @@
                 "skillIcon": 3120,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": 2
+                "armorBonusUI": 2,
+                "description": "+2 AP"
             },
             "371": {
                 "behaviorID": 4253,
@@ -177,7 +183,8 @@
                 "skillIcon": 1032,
                 "imBonusUI": 3,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": "+3 IP"
             },
             "1167": {
                 "behaviorID": 26497,
@@ -188,8 +195,13 @@
                 "skillIcon": 0,
                 "imBonusUI": null,
                 "lifeBonusUI": null,
-                "armorBonusUI": null
+                "armorBonusUI": null,
+                "description": null
             }
         }
+    },
+    "skillSetDescriptions": {
+        "skillSetWith4": "When you reach 0 Armor, you will be shielded from 15 damage for a short time",
+        "skillSetWith5": "Restores 1 Armor every time you smash an enemy"
     }
 }
