@@ -122,7 +122,7 @@
                 "PackageComponent": {
                     "65": {
                         "name": "Test Package",
-                        "displayName": null
+                        "displayName": "Test Package"
                     }
                 },
                 "ActivityComponent": {}

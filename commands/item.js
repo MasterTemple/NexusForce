@@ -49,7 +49,7 @@ module.exports = {
         if(item?.itemInfo?.internalNotes === null){
             item.itemInfo.internalNotes = "None"
         }
-        if(item?.itemComponent?.levelRequriement === null){
+        if(item?.itemComponent?.levelRequriement === null || item?.itemComponent?.levelRequriement === undefined){
             item.itemComponent.levelRequirement = 0
         }
         if(item.name === null){
