@@ -57,6 +57,8 @@ Installation/Setup:
 I don't know if the stat emojis will work if someone hosts this bot without it being in the server that contains these emojis.\
 
 # Some screenshots:
+# !kit
+![img.png](src/img.png)
 # !drop
 ![img_1.png](src/img_1.png)
 # !package
