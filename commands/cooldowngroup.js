@@ -55,7 +55,7 @@ module.exports = {
         }
 
         try {
-            message.channel.send("DM Sent.")
+            message.channel.send("Direct Message Sent.")
             message.author.send(embed)
         }catch{
             err()

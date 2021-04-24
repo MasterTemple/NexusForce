@@ -87,7 +87,7 @@ Some of the content might be short, but it has the potential to be very long. To
 ![img_15.png](src/img_15.png)
 ![img_1.png](src/img_16.png)
 # !skill
-![img_17.png](src/img_17.png)
+![img_18.png](src/img_18.png)
 ![img_13.png](src/img_13.png)
 
 

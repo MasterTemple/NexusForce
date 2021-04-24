@@ -1,9 +1,9 @@
 module.exports = {
-    name: ['skill'],
-    description: 'Get information about a skill in LEGO Universe',
+    name: ['cdg'],
+    description: 'Get information about a cooldown group in LEGO Universe',
     args: true,
-    use: `skill [id]`,
-    example: [`skill 550`],
+    use: `cdg [id]`,
+    example: [`cdg 21`],
     execute(message, args) {
         function err() {
             try {
@@ -16,15 +16,13 @@ module.exports = {
             }
         }
 
-        const skillID = args[0]
+        const cdgID = args[0]
+        message.channel.send(`This command is not ready.`)
+        return
         try {
-            let skillToCDGFile = require(`./../output/references/Skills.json`)
-            let cooldowngroup = skillToCDGFile[`${skillID}`]
-            let CDGFile = require(`./../output/cooldowngroup/${cooldowngroup}.json`)
-            var skillData = CDGFile['skillIDs'][`${skillID}`]
-
+            var CDGFile = require(`./../output/cooldowngroup/${cooldowngroup}.json`)
         }catch(e){
-            message.channel.send("A skill with this skillID does not exist.")
+            message.channel.send(`Cooldown Group ${args[0]} this does not exist.`)
             err()
             return
         }
@@ -39,18 +37,18 @@ module.exports = {
 
         let desc = ``
 
-        if(skillData.imaginationCost !== null && skillData.cooldownTime !== null){
-            desc = `${desc}Imagination Cost: **${skillData.imaginationCost}**\nCooldown Time: **${skillData.cooldownTime}** Seconds\n`
-        }
-        if(skillData.imBonusUI !== null){
-            desc = `${desc}Imagination Bonus: **${skillData.imBonusUI}**\n`
-        }
-        if(skillData.armorBonusUI !== null){
-            desc = `${desc}Armor Bonus: **${skillData.armorBonusUI}**\n`
-        }
-        if(skillData.lifeBonusUI !== null){
-            desc = `${desc}Life Bonus: **${skillData.lifeBonusUI}**\n`
-        }
+        // if(skillData.imaginationCost !== null && skillData.cooldownTime !== null){
+        //     desc = `${desc}Imagination Cost: **${skillData.imaginationCost}**\nCooldown Time: **${skillData.cooldownTime}** Seconds\n`
+        // }
+        // if(skillData.imBonusUI !== null){
+        //     desc = `${desc}Imagination Bonus: **${skillData.imBonusUI}**\n`
+        // }
+        // if(skillData.armorBonusUI !== null){
+        //     desc = `${desc}Armor Bonus: **${skillData.armorBonusUI}**\n`
+        // }
+        // if(skillData.lifeBonusUI !== null){
+        //     desc = `${desc}Life Bonus: **${skillData.lifeBonusUI}**\n`
+        // }
 
         let embedArray = []
 
@@ -93,7 +91,7 @@ module.exports = {
         })
         let num = 1
         embedArray.forEach(function(e){
-            let embed = msgEmbed.execute(`SkillID: ${skillID} (${num})`, desc,`https://lu-explorer.web.app/skills/${skillID}`, uIcon)
+            let embed = msgEmbed.execute(`SkillID: ${cdgID} (${num})`, desc,`https://lu-explorer.web.app/skills/${cdgID}`, uIcon)
 
             embed.addField("Items:", e.field1, true)
             if(e.field2 === ''){
