@@ -93,7 +93,9 @@ module.exports = {
         // console.log(embedData4)
 
         embed.addField("Items:", embedData1, true)
-        embed.addField(invisChar, embedData2, true)
+        if(embedData2) {
+            embed.addField(invisChar, embedData2, true)
+        }
 
         if(embedData3 && embedData4) {
             embed.addField(invisChar, '**More Items:**', false)
@@ -120,10 +122,21 @@ module.exports = {
         //     )
         // }
 
+        // console.log(`embedData1: ${embedData1}`)
+        // console.log(`embedData2: ${embedData2}`)
+        // console.log(`embedData3: ${embedData3}`)
+        // console.log(`embedData4: ${embedData4}`)
+        // console.log(`embedData5: ${embedData5}`)
+        // console.log(`embedData6: ${embedData6}`)
+
 
         try {
-            message.channel.send("DM Sent.")
-            message.author.send(embed)
+            if(embedData3) {
+                message.channel.send("DM Sent.")
+                message.author.send(embed)
+            }else{
+                message.channel.send(embed)
+            }
         }catch{
             err()
         }

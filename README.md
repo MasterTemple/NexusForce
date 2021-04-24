@@ -79,8 +79,19 @@ I don't know if the server emojis will work if someone hosts this bot without it
 ![img_8.png](src/img_8.png)
 # !npc
 ![img_9.png](src/img_9.png)
+# !skill
+![img_4.png](src/img_14.png)
+# To Prevent Spam, Some Commands With Large Messages Are DMed To The User
+Some of the content might be short, but it has the potential to be very long. To prevent abuse, the bot DM's the user the info.
 # !group
-![img_7.png](src/img_7.png)
+![img_15.png](src/img_15.png)
+![img_1.png](src/img_16.png)
+# !skill
+![img_17.png](src/img_17.png)
+![img_13.png](src/img_13.png)
+
+
+
 
 # Future
 1. Enemy stats and attacks
