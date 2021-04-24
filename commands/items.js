@@ -24,6 +24,7 @@ module.exports = {
         for(let arg in args){
             itemFile.execute(message, [args[arg], 'dm'])
         }
+        message.channel.send("DMs Sent.")
 
     }
 }

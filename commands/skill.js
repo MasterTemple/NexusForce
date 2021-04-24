@@ -84,8 +84,8 @@ module.exports = {
             counter++
         })
         //console.log(counter)
-        console.log(e1)
-        console.log(e2)
+        //console.log(e1)
+        //console.log(e2)
 
         // console.log(embedData1)
         // console.log(embedData2)
@@ -122,7 +122,8 @@ module.exports = {
 
 
         try {
-            message.channel.send(embed)
+            message.channel.send("DM Sent.")
+            message.author.send(embed)
         }catch{
             err()
         }
