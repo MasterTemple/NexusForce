@@ -22,7 +22,10 @@ module.exports = {
         }
         const fs = require('fs')
         let newMythranID = args[0]
-        config.mythran.pop(newMythranID)
+		config.mythran = config.mythran.filter(function(item) {
+			return item !== newMythranID
+		})
+        //config.mythran.pop(newMythranID)
 
         fs.writeFile ("config.json", JSON.stringify(config,null,2), function(err) {
                 if (err) throw err;

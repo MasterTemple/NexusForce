@@ -22,7 +22,11 @@ module.exports = {
         }
         const fs = require('fs')
         let newContributorID = args[0]
-        config.contributor.pop(newContributorID)
+		
+		config.contributor = config.contributor.filter(function(item) {
+			return item !== newContributorID
+		})
+        //config.contributor.pop(newContributorID)
 
         fs.writeFile ("config.json", JSON.stringify(config,null,2), function(err) {
                 if (err) throw err;

@@ -4,7 +4,7 @@ Nexus Force LEGO Universe Bot
 Installation/Setup:
 1. Download Node.js (see internet)
 2. In terminal type `npm i discord.js` and `npm i nodemon -g`
-3. Add a `config.json` file that looks like this
+3. Add a `config.json` file that looks exactly like this, except put in your own token
 ```yaml
 {
   "prefix": "!",
@@ -12,22 +12,22 @@ Installation/Setup:
   "inviteLink": "https://www.darkflameuniverse.org/",
   "token": "kepi",
   "footer": "The LEGO Group has not endorsed or authorized the operation of this game and is not liable for any safety issues in relation to the operation of this game.",
+  "invisChar": "឵឵",
   "botInfo": {
     "name": "Nexus Force",
     "version": 3
   },
   "excludeFromHelp": [
-      "object"
+    "object"
   ],
   "mythran": [
-      "703120460023463986",
-      "789705048035688458",
-      "247557128913551360"
+    "789705048035688458",
+    "703120460023463986"
   ],
   "contributor": [
-      "703120460023463986",
-      "120841067791777792",
-      "789705048035688458"
+    "703120460023463986",
+    "120841067791777792",
+    "789705048035688458"
   ],
   "emojis": {
     "armor": "<:armor:820200969861857280>",
@@ -36,7 +36,8 @@ Installation/Setup:
     "rarity1": "<:rarity1:828841598171217963>",
     "rarity2": "<:rarity2:828841597986799667>",
     "rarity3": "<:rarity3:828841598166499358>",
-    "rarity4": "<:rarity4:828841598242521088>"
+    "rarity4": "<:rarity4:828841598242521088>",
+    "mythran": "<:mythran:834921599764398110>"
   },
   "startupStatus": "LEGO Universe"
 }
@@ -54,8 +55,7 @@ Installation/Setup:
     Visible with `!mythran` command
    
 # Issues:
-I don't know if the stat emojis will work if someone hosts this bot without it being in the server that contains these emojis.\
-
+I don't know if the server emojis will work if someone hosts this bot without it being in the server that contains these emojis. If not, contact me and I can help you set them up.
 # Some screenshots:
 # !kit
 ![img.png](src/img.png)

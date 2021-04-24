@@ -22,9 +22,9 @@ module.exports = {
         for(let u=0;u<config.mythran.length;u++) {
             const User = client.users.cache.get(config.mythran[u]); // Getting the user by ID.
             if (User) { // Checking if the user exists.
-                info = `${info}${User.tag}\n`
+                info = `${info}${config.emojis.mythran} ${User.tag}\n`
             } else {
-                info = `${info}@${config.mythran[u]}\n`
+                info = `${info}${config.emojis.mythran} @${config.mythran[u]}\n`
             }
 
         }
