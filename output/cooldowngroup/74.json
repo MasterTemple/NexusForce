@@ -4,6 +4,9 @@
         "610": {
             "imaginationCost": 0,
             "cooldownTime": 8.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7785": {
                     "name": "Flash Bulb",
@@ -14,6 +17,9 @@
         "817": {
             "imaginationCost": 0,
             "cooldownTime": 15.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8367": {
                     "name": "Enchanted Dragon Tooth",
@@ -28,6 +34,9 @@
         "1541": {
             "imaginationCost": 0,
             "cooldownTime": 8.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16204": {}
             }
@@ -35,6 +44,9 @@
         "1561": {
             "imaginationCost": 0,
             "cooldownTime": 8.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16253": {}
             }
@@ -42,6 +54,9 @@
         "1562": {
             "imaginationCost": 0,
             "cooldownTime": 8.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16254": {}
             }

@@ -4,6 +4,9 @@
         "584": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         }
     }

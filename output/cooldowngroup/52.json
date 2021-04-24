@@ -4,6 +4,9 @@
         "304": {
             "imaginationCost": 0,
             "cooldownTime": 25.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7084": {
                     "name": "Boom Trap Kit",
@@ -14,6 +17,9 @@
         "1224": {
             "imaginationCost": 0,
             "cooldownTime": 45.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12102": {
                     "name": "Sunflower Seed",
@@ -24,6 +30,9 @@
         "1227": {
             "imaginationCost": 0,
             "cooldownTime": 45.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12103": {
                     "name": "Maneater Seeds",
@@ -34,6 +43,9 @@
         "1506": {
             "imaginationCost": 0,
             "cooldownTime": 45.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16023": {
                     "name": "Ninjago Hound Treat",
@@ -44,6 +56,9 @@
         "1745": {
             "imaginationCost": 0,
             "cooldownTime": 75.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16898": {
                     "name": "Hatchling Crocodiles Egg",

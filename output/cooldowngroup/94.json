@@ -4,11 +4,17 @@
         "774": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "775": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         }
     }

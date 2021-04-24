@@ -4,6 +4,9 @@
         "342": {
             "imaginationCost": 4,
             "cooldownTime": 7.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8275": {
                     "name": "Test Performance Test Armor",
@@ -46,6 +49,9 @@
         "345": {
             "imaginationCost": 7,
             "cooldownTime": 6.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7407": {
                     "name": "Sorcerer Offhand 2",
@@ -56,6 +62,9 @@
         "358": {
             "imaginationCost": 4,
             "cooldownTime": 10.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7405": {
                     "name": "Engineer Offhand 2",
@@ -66,6 +75,9 @@
         "558": {
             "imaginationCost": 4,
             "cooldownTime": 8.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7546": {
                     "name": "Samurai Offhand 2",
@@ -76,6 +88,9 @@
         "565": {
             "imaginationCost": 7,
             "cooldownTime": 7.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12969": {
                     "name": "Knight Shield 3 Color Variant",
@@ -90,6 +105,9 @@
         "571": {
             "imaginationCost": 6,
             "cooldownTime": 8.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7547": {
                     "name": "Samurai Offhand 3",
@@ -100,6 +118,9 @@
         "577": {
             "imaginationCost": 8,
             "cooldownTime": 6.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12985": {
                     "name": "Sorcerer Offhand 3 Color Variant",
@@ -114,6 +135,9 @@
         "609": {
             "imaginationCost": 6,
             "cooldownTime": 5.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14325": {
                     "name": "Paradox Gear - Space Marauder - offhand proxy",
@@ -128,6 +152,9 @@
         "634": {
             "imaginationCost": 5,
             "cooldownTime": 10.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12965": {
                     "name": "Engineer Offhand 3 Color Variant",
@@ -142,6 +169,9 @@
         "647": {
             "imaginationCost": 7,
             "cooldownTime": 5.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7550": {
                     "name": "Space Marauder Offhand 3",
@@ -152,6 +182,9 @@
         "687": {
             "imaginationCost": 6,
             "cooldownTime": 30.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "9815": {
                     "name": "Buccaneer Offhand 1 - Proxy",
@@ -162,6 +195,9 @@
         "689": {
             "imaginationCost": 4,
             "cooldownTime": 45.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14357": {
                     "name": "Assembly Gear - Summoner - offhand  proxy",
@@ -176,6 +212,9 @@
         "690": {
             "imaginationCost": 6,
             "cooldownTime": 45.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12922": {
                     "name": "Summoner Offhand 3 Color Variant",
@@ -190,11 +229,17 @@
         "691": {
             "imaginationCost": 9,
             "cooldownTime": 45.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "696": {
             "imaginationCost": 7,
             "cooldownTime": 30.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "9816": {
                     "name": "Buccaneer Offhand 2 - Proxy",
@@ -205,6 +250,9 @@
         "697": {
             "imaginationCost": 8,
             "cooldownTime": 30.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13126": {},
                 "13310": {
@@ -220,6 +268,9 @@
         "699": {
             "imaginationCost": 6,
             "cooldownTime": 30.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "9818": {
                     "name": "Daredevil Offhand 1 - Proxy",
@@ -230,6 +281,9 @@
         "700": {
             "imaginationCost": 7,
             "cooldownTime": 30.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "9819": {
                     "name": "Daredevil Offhand 2 - Proxy",
@@ -244,6 +298,9 @@
         "701": {
             "imaginationCost": 8,
             "cooldownTime": 30.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13127": {},
                 "13311": {
@@ -259,6 +316,9 @@
         "977": {
             "imaginationCost": 0,
             "cooldownTime": 4.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12474": {
                     "name": "Cherry Blast",
@@ -269,6 +329,9 @@
         "980": {
             "imaginationCost": 10,
             "cooldownTime": 2.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12491": {
                     "name": "TEST",
@@ -283,6 +346,9 @@
         "987": {
             "imaginationCost": 3,
             "cooldownTime": 12.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12530": {
                     "name": "Headbash Helmet",
@@ -301,6 +367,9 @@
         "1010": {
             "imaginationCost": 8,
             "cooldownTime": 45.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12619": {
                     "name": "TEST",
@@ -319,6 +388,9 @@
         "1016": {
             "imaginationCost": 11,
             "cooldownTime": 8.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12632": {
                     "name": "TEST",
@@ -333,6 +405,9 @@
         "1020": {
             "imaginationCost": 9,
             "cooldownTime": 35.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12639": {
                     "name": "TEST",
@@ -347,6 +422,9 @@
         "1023": {
             "imaginationCost": 11,
             "cooldownTime": 8.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12646": {
                     "name": "TEST",
@@ -361,6 +439,9 @@
         "1028": {
             "imaginationCost": 8,
             "cooldownTime": 45.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12665": {
                     "name": "TEST",
@@ -375,6 +456,9 @@
         "1029": {
             "imaginationCost": 7,
             "cooldownTime": 45.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12805": {
                     "name": "TEST",
@@ -389,6 +473,9 @@
         "1031": {
             "imaginationCost": 10,
             "cooldownTime": 45.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12808": {
                     "name": "TEST",
@@ -403,6 +490,9 @@
         "1048": {
             "imaginationCost": 5,
             "cooldownTime": 6.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "11460": {
                     "name": "Inventor Offhand 2 - Proxy",
@@ -414,6 +504,9 @@
         "1049": {
             "imaginationCost": 8,
             "cooldownTime": 6.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "11461": {
                     "name": "Inventor Offhand 3 - Proxy",
@@ -425,6 +518,9 @@
         "1068": {
             "imaginationCost": 5,
             "cooldownTime": 9.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "11458": {
                     "name": "Adventurer Whip 2",
@@ -435,6 +531,9 @@
         "1069": {
             "imaginationCost": 8,
             "cooldownTime": 9.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "11459": {
                     "name": "Adventurer Whip 3",
@@ -445,6 +544,9 @@
         "1078": {
             "imaginationCost": 6,
             "cooldownTime": 8.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "11462": {
                     "name": "Shinobi Offhand 2 - Proxy",
@@ -455,6 +557,9 @@
         "1079": {
             "imaginationCost": 7,
             "cooldownTime": 8.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "11463": {
                     "name": "Shinobi Offhand 3 - Proxy",
@@ -465,6 +570,9 @@
         "1091": {
             "imaginationCost": 5,
             "cooldownTime": 8.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7544": {
                     "name": "Space Ranger Offhand 2",
@@ -475,6 +583,9 @@
         "1092": {
             "imaginationCost": 7,
             "cooldownTime": 8.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7545": {
                     "name": "Space Ranger Offhand 3",
@@ -485,6 +596,9 @@
         "1216": {
             "imaginationCost": 6,
             "cooldownTime": 8.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12978": {
                     "name": "Samurai Offhand 3 Color Variant",
@@ -495,11 +609,17 @@
         "1240": {
             "imaginationCost": 0,
             "cooldownTime": 7.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1313": {
             "imaginationCost": 5,
             "cooldownTime": 9.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14110": {
                     "name": "Earth Staff Left Hand Proxy",
@@ -510,16 +630,25 @@
         "1314": {
             "imaginationCost": 3,
             "cooldownTime": 5.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1315": {
             "imaginationCost": 3,
             "cooldownTime": 5.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1439": {
             "imaginationCost": 7,
             "cooldownTime": 5.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12988": {
                     "name": "Space Marauder Offhand 3 Color Variant",
@@ -530,6 +659,9 @@
         "1574": {
             "imaginationCost": 6,
             "cooldownTime": 8.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16262": {
                     "name": "Ice Shuriken Left Hand Proxy",
@@ -540,6 +672,9 @@
         "1575": {
             "imaginationCost": 4,
             "cooldownTime": 7.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16263": {
                     "name": "Fire Swords Left Hand Proxy",

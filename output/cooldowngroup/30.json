@@ -4,6 +4,9 @@
         "783": {
             "imaginationCost": 0,
             "cooldownTime": 120.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "10291": {}
             }
@@ -11,6 +14,9 @@
         "784": {
             "imaginationCost": 0,
             "cooldownTime": 120.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "10294": {}
             }
@@ -18,6 +24,9 @@
         "785": {
             "imaginationCost": 0,
             "cooldownTime": 120.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "10292": {}
             }
@@ -25,6 +34,9 @@
         "786": {
             "imaginationCost": 0,
             "cooldownTime": 120.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "10293": {}
             }

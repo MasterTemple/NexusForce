@@ -4,6 +4,9 @@
         "338": {
             "imaginationCost": 8,
             "cooldownTime": 10.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8273": {
                     "name": "Test Performance Test Helmet",
@@ -26,11 +29,17 @@
         "349": {
             "imaginationCost": 6,
             "cooldownTime": 15.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "383": {
             "imaginationCost": 10,
             "cooldownTime": 30.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12990": {
                     "name": "Buccaneer Neck/Back 3 Color Variant",
@@ -49,26 +58,41 @@
         "393": {
             "imaginationCost": 5,
             "cooldownTime": 30.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "404": {
             "imaginationCost": 4,
             "cooldownTime": 30.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "406": {
             "imaginationCost": 4,
             "cooldownTime": 30.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "444": {
             "imaginationCost": 6,
             "cooldownTime": 20.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "482": {
             "imaginationCost": 10,
             "cooldownTime": 20.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7541": {
                     "name": "Shinobi Neck/Back 3",
@@ -83,16 +107,25 @@
         "503": {
             "imaginationCost": 8,
             "cooldownTime": 30.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "504": {
             "imaginationCost": 11,
             "cooldownTime": 30.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "550": {
             "imaginationCost": 9,
             "cooldownTime": 7.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12992": {
                     "name": "Samurai Neck/Back 3 Color Variant",
@@ -111,6 +144,9 @@
         "599": {
             "imaginationCost": 10,
             "cooldownTime": 20.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12995": {
                     "name": "Daredevil Neck/Back 3 Color Variant",
@@ -129,6 +165,9 @@
         "606": {
             "imaginationCost": 12,
             "cooldownTime": 30.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12991": {
                     "name": "Space Marauder Neck/Back 3 Color Variant",
@@ -147,6 +186,9 @@
         "649": {
             "imaginationCost": 10,
             "cooldownTime": 30.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12963": {
                     "name": "Engineer Neck/Back 3 Color Variant",
@@ -165,6 +207,9 @@
         "655": {
             "imaginationCost": 14,
             "cooldownTime": 30.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12989": {
                     "name": "Sorcerer Neck/Back 3 Color Variant",
@@ -183,6 +228,9 @@
         "673": {
             "imaginationCost": 10,
             "cooldownTime": 30.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12923": {
                     "name": "Summoner Neck/Back 3 Color Variant",
@@ -201,6 +249,9 @@
         "1058": {
             "imaginationCost": 10,
             "cooldownTime": 60.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7542": {
                     "name": "Inventor Neck/Back 3",
@@ -215,6 +266,9 @@
         "1073": {
             "imaginationCost": 8,
             "cooldownTime": 10.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7558": {
                     "name": "Adventurer Neck/Back 3",
@@ -229,6 +283,9 @@
         "1093": {
             "imaginationCost": 10,
             "cooldownTime": 12.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7538": {
                     "name": "Space Ranger Neck/Back 3",
@@ -243,11 +300,17 @@
         "1158": {
             "imaginationCost": 10,
             "cooldownTime": 60.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1434": {
             "imaginationCost": 1,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13603": {
                     "name": "Test Hat of Skill Testing",
@@ -258,6 +321,9 @@
         "1569": {
             "imaginationCost": 5,
             "cooldownTime": 5.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16261": {
                     "name": "Lightning Nunchucks Left Hand Proxy",

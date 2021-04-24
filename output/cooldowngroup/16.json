@@ -4,6 +4,9 @@
         "359": {
             "imaginationCost": 0,
             "cooldownTime": 2.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7661": {
                     "name": "Test Yegge Banana",
@@ -14,6 +17,9 @@
         "360": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": 1,
             "items": {
                 "12291": {
                     "name": "Flannel Pants",
@@ -856,6 +862,9 @@
         "361": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": 2,
             "items": {
                 "12296": {
                     "name": "Present Shield",
@@ -1740,6 +1749,9 @@
         "362": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": 3,
             "items": {
                 "12289": {
                     "name": "Winter Parka",
@@ -2291,6 +2303,9 @@
         "363": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": 4,
             "items": {
                 "12309": {
                     "name": "Maelstrom Eye Shield",
@@ -2558,6 +2573,9 @@
         "364": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": 5,
             "items": {
                 "12426": {
                     "name": "Explorien Bot Legs",
@@ -2672,6 +2690,9 @@
         "365": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": 6,
             "items": {
                 "8348": {
                     "name": "Dragon Style Gi Shirt",
@@ -2698,6 +2719,9 @@
         "366": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": 7,
             "items": {
                 "15938": {},
                 "15939": {},
@@ -2712,11 +2736,17 @@
         "367": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": 8,
             "items": {}
         },
         "368": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": 9,
             "items": {
                 "10019": {
                     "name": "Test Ryans Helmet",
@@ -2735,6 +2765,9 @@
         "369": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": 1,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12291": {
                     "name": "Flannel Pants",
@@ -3738,6 +3771,9 @@
         "370": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": 2,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12296": {
                     "name": "Present Shield",
@@ -4680,6 +4716,9 @@
         "371": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": 3,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12289": {
                     "name": "Winter Parka",
@@ -5243,6 +5282,9 @@
         "372": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": 4,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8350": {
                     "name": "Kung Fu Master Shirt",
@@ -5478,6 +5520,9 @@
         "373": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": 5,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12435": {
                     "name": "Flogmore's Hat",
@@ -5543,6 +5588,9 @@
         "374": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": 6,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12733": {
                     "name": "Heavy Staff",
@@ -5576,6 +5624,9 @@
         "375": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": 7,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "15954": {
                     "name": "Slash and Stitch",
@@ -5590,6 +5641,9 @@
         "376": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": 8,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8348": {
                     "name": "Dragon Style Gi Shirt",
@@ -5612,6 +5666,9 @@
         "377": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": 9,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "2241": {
                     "name": "Test Elite Hammer",
@@ -5622,6 +5679,9 @@
         "378": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": 1,
+            "armorBonusUI": null,
             "items": {
                 "12678": {
                     "name": "Bat Lord Shield",
@@ -5704,16 +5764,25 @@
         "379": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": 2,
+            "armorBonusUI": null,
             "items": {}
         },
         "380": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": 3,
+            "armorBonusUI": null,
             "items": {}
         },
         "381": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": 4,
+            "armorBonusUI": null,
             "items": {
                 "14315": {
                     "name": "Sentinel Gear - Knight",
@@ -5736,6 +5805,9 @@
         "382": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": 5,
+            "armorBonusUI": null,
             "items": {
                 "11385": {
                     "name": "Hat of Grid Lines GM ONLY",
@@ -5746,6 +5818,9 @@
         "1590": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": 10,
             "items": {
                 "14321": {
                     "name": "Paradox Gear - Space Maurader",
@@ -5760,21 +5835,33 @@
         "1591": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": 11,
             "items": {}
         },
         "1592": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": 12,
             "items": {}
         },
         "1593": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": 13,
             "items": {}
         },
         "1594": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": 14,
             "items": {
                 "14315": {
                     "name": "Sentinel Gear - Knight",
@@ -5785,41 +5872,65 @@
         "1595": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": 15,
             "items": {}
         },
         "1596": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": 16,
             "items": {}
         },
         "1597": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": 17,
             "items": {}
         },
         "1598": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": 18,
             "items": {}
         },
         "1599": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": 19,
             "items": {}
         },
         "1600": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": 20,
             "items": {}
         },
         "1601": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": 10,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1602": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": 11,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14321": {
                     "name": "Paradox Gear - Space Maurader",
@@ -5830,6 +5941,9 @@
         "1603": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": 12,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14359": {
                     "name": "Venture Gear - Daredevil",
@@ -5840,11 +5954,17 @@
         "1604": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": 13,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1605": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": 14,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14353": {
                     "name": "Assembly Gear - Summoner",
@@ -5855,121 +5975,193 @@
         "1606": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": 15,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1607": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": 16,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1608": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": 17,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1609": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": 18,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1610": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": 19,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1611": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": 20,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1612": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": 6,
+            "armorBonusUI": null,
             "items": {}
         },
         "1613": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": 7,
+            "armorBonusUI": null,
             "items": {}
         },
         "1614": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": 8,
+            "armorBonusUI": null,
             "items": {}
         },
         "1615": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": 9,
+            "armorBonusUI": null,
             "items": {}
         },
         "1616": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": 10,
+            "armorBonusUI": null,
             "items": {}
         },
         "1617": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": 11,
+            "armorBonusUI": null,
             "items": {}
         },
         "1618": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": 12,
+            "armorBonusUI": null,
             "items": {}
         },
         "1619": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": 13,
+            "armorBonusUI": null,
             "items": {}
         },
         "1620": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": 14,
+            "armorBonusUI": null,
             "items": {}
         },
         "1621": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": 15,
+            "armorBonusUI": null,
             "items": {}
         },
         "1622": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": 16,
+            "armorBonusUI": null,
             "items": {}
         },
         "1623": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": 17,
+            "armorBonusUI": null,
             "items": {}
         },
         "1624": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": 18,
+            "armorBonusUI": null,
             "items": {}
         },
         "1625": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": 19,
+            "armorBonusUI": null,
             "items": {}
         },
         "1626": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": 20,
+            "armorBonusUI": null,
             "items": {}
         },
         "1632": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": 24,
             "items": {}
         },
         "1633": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": 24,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1634": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": 21,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         }
     }

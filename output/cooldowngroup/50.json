@@ -4,6 +4,9 @@
         "126": {
             "imaginationCost": 0,
             "cooldownTime": 20.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12781": {
                     "name": "Bat Lord Helmet",
@@ -18,6 +21,9 @@
         "335": {
             "imaginationCost": 2,
             "cooldownTime": 40.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13934": {
                     "name": "Molewacker Left Hand Proxy",
@@ -32,11 +38,17 @@
         "468": {
             "imaginationCost": 10,
             "cooldownTime": 60.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "952": {
             "imaginationCost": 0,
             "cooldownTime": 30.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12241": {
                     "name": "Hot Cocoa",
@@ -47,6 +59,9 @@
         "973": {
             "imaginationCost": 2,
             "cooldownTime": 25.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12100": {}
             }
@@ -54,6 +69,9 @@
         "1152": {
             "imaginationCost": 0,
             "cooldownTime": 70.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12766": {
                     "name": "Xpresso",
@@ -64,6 +82,9 @@
         "1349": {
             "imaginationCost": 2,
             "cooldownTime": 40.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13803": {
                     "name": "Massive Spear Left Hand Proxy",
@@ -74,6 +95,9 @@
         "1501": {
             "imaginationCost": 0,
             "cooldownTime": 60.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14503": {
                     "name": "Electric Hoagie",
@@ -84,6 +108,9 @@
         "1511": {
             "imaginationCost": 0,
             "cooldownTime": 60.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14468": {
                     "name": "Shock Fruit",

@@ -4,6 +4,9 @@
         "179": {
             "imaginationCost": 0,
             "cooldownTime": 5.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "6872": {
                     "name": "Test PvP Awesome Healing Staff",
@@ -14,26 +17,41 @@
         "231": {
             "imaginationCost": 2,
             "cooldownTime": 5.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "252": {
             "imaginationCost": 0,
             "cooldownTime": 20.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "255": {
             "imaginationCost": 2,
             "cooldownTime": 5.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "256": {
             "imaginationCost": 2,
             "cooldownTime": 5.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "314": {
             "imaginationCost": 1,
             "cooldownTime": 5.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "6922": {
                     "name": "Turban of Healing 1",
@@ -44,6 +62,9 @@
         "315": {
             "imaginationCost": 3,
             "cooldownTime": 5.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "6933": {
                     "name": "Hood of Healing 2",
@@ -54,6 +75,9 @@
         "832": {
             "imaginationCost": 0,
             "cooldownTime": 5.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12612": {
                     "name": "NSI - Maelstrom Dragon",
@@ -84,16 +108,25 @@
         "953": {
             "imaginationCost": 0,
             "cooldownTime": 5.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "954": {
             "imaginationCost": 0,
             "cooldownTime": 5.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "997": {
             "imaginationCost": 3,
             "cooldownTime": 20.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12562": {
                     "name": "Ever Giving Goblet",
@@ -104,6 +137,9 @@
         "1006": {
             "imaginationCost": 6,
             "cooldownTime": 10.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12601": {
                     "name": "Padded Toque of Healing",
@@ -122,6 +158,9 @@
         "1461": {
             "imaginationCost": 2,
             "cooldownTime": 10.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "15918": {
                     "name": "Athlete's Shade",
@@ -144,6 +183,9 @@
         "1463": {
             "imaginationCost": 2,
             "cooldownTime": 10.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "15919": {
                     "name": "Workman's Rice Hat",
@@ -166,6 +208,9 @@
         "1464": {
             "imaginationCost": 3,
             "cooldownTime": 10.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "15920": {
                     "name": "Scholar's Travel Hat",
@@ -188,6 +233,9 @@
         "1649": {
             "imaginationCost": 0,
             "cooldownTime": 6.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16191": {
                     "name": "NJD - Bone Wolf - Frakjaw instance",

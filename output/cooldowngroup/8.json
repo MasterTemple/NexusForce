@@ -4,6 +4,9 @@
         "325": {
             "imaginationCost": 5,
             "cooldownTime": 90.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12743": {
                     "name": "Mosaic Shield",
@@ -26,6 +29,9 @@
         "752": {
             "imaginationCost": 0,
             "cooldownTime": 60.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "2985": {
                     "name": "Bubble Blower",
@@ -39,6 +45,9 @@
         "863": {
             "imaginationCost": 0,
             "cooldownTime": 90.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8365": {
                     "name": "Potion of Shielding",
@@ -49,6 +58,9 @@
         "879": {
             "imaginationCost": 3,
             "cooldownTime": 45.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "11272": {
                     "name": "Sentinel Shield",
@@ -59,6 +71,9 @@
         "1460": {
             "imaginationCost": 5,
             "cooldownTime": 90.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "15914": {
                     "name": "Crimson Kabuto",

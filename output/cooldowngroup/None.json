@@ -4,6 +4,9 @@
         "5": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "177": {
                     "name": "Life Powerup 1 point",
@@ -18,6 +21,9 @@
         "10": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "10020": {
                     "name": "Test Ryans Katana",
@@ -36,6 +42,9 @@
         "13": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "4975": {
                     "name": "Green Floater",
@@ -54,6 +63,9 @@
         "33": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "5660": {
                     "name": "raf_mg_accessories_edittest",
@@ -68,6 +80,9 @@
         "34": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "1822": {
                     "name": "Shooting Gallery Cannon Ball",
@@ -78,6 +93,9 @@
         "36": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "1906": {
                     "name": "GF - Cannon Targeting Reticle",
@@ -88,6 +106,9 @@
         "43": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "5992": {
                     "name": "raf_test_01117",
@@ -102,6 +123,9 @@
         "47": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "2357": {
                     "name": "ACTIVITY ONLY - Cannonball",
@@ -112,16 +136,25 @@
         "61": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "62": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "129": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13499": {
                     "name": "Imagination Beam Trigger",
@@ -140,11 +173,17 @@
         "178": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "238": {
             "imaginationCost": 0,
             "cooldownTime": 0.10000000149011612,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "6090": {
                     "name": "Ben Aaar",
@@ -159,16 +198,25 @@
         "245": {
             "imaginationCost": 1,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "254": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "268": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "6971": {
                     "name": "Test Hat of Damage Buff for Nic",
@@ -179,6 +227,9 @@
         "396": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7833": {
                     "name": "Duck SG Cannonball",
@@ -189,6 +240,9 @@
         "399": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13941": {
                     "name": "TEST Spawn Message Projectile 1",
@@ -203,6 +257,9 @@
         "405": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7853": {
                     "name": "Gem Projectile Rank 2",
@@ -213,6 +270,9 @@
         "407": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7854": {
                     "name": "Gem Projectile Rank 3",
@@ -223,11 +283,17 @@
         "431": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "497": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8138": {
                     "name": "Maelstrom Cavalry Arrow",
@@ -238,6 +304,9 @@
         "499": {
             "imaginationCost": 0,
             "cooldownTime": 26.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8302": {
                     "name": "Property Claim Marker",
@@ -256,6 +325,9 @@
         "585": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7680": {
                     "name": "Spawner - RACING Imagination Powerup 1 point",
@@ -266,16 +338,25 @@
         "586": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "588": {
             "imaginationCost": 0,
             "cooldownTime": 0.5,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "594": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "9828": {
                     "name": "Prototype hovercar",
@@ -338,16 +419,25 @@
         "608": {
             "imaginationCost": 0,
             "cooldownTime": 3.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "674": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "675": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "9616": {
                     "name": "Bucaneer Harpoon bullet",
@@ -358,6 +448,9 @@
         "676": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "9711": {
                     "name": "First Aid Kit 1",
@@ -368,6 +461,9 @@
         "678": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "9712": {
                     "name": "First Aid Kit 2",
@@ -378,6 +474,9 @@
         "679": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "9713": {
                     "name": "First Aid Kit 3",
@@ -388,6 +487,9 @@
         "686": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "9718": {
                     "name": "Bulper Bullet 1 and 2 and 3",
@@ -398,6 +500,9 @@
         "692": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "9745": {
                     "name": "AGP - maelstrom cloud fx",
@@ -408,11 +513,17 @@
         "698": {
             "imaginationCost": 0,
             "cooldownTime": 1.5,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "708": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7535": {
                     "name": "Daredevil Weapon 1",
@@ -423,6 +534,9 @@
         "709": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7536": {
                     "name": "Daredevil Weapon 2",
@@ -433,6 +547,9 @@
         "710": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12994": {
                     "name": "Daredevil Weapon 3 Color Variant",
@@ -447,6 +564,9 @@
         "711": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7400": {
                     "name": "Buccaneer Weapon 1",
@@ -457,6 +577,9 @@
         "712": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7401": {
                     "name": "Buccaneer Weapon 2",
@@ -467,6 +590,9 @@
         "713": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12982": {
                     "name": "Buccaneer Weapon 3 Color Variant",
@@ -481,21 +607,33 @@
         "724": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "726": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "730": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "747": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "6431": {
                     "name": "Armor Powerup 1 point",
@@ -510,6 +648,9 @@
         "762": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "10097": {
                     "name": "FV Flying Dragon Fireball target",
@@ -520,6 +661,9 @@
         "771": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "5639": {
                     "name": "Red Dragon Pet",
@@ -534,6 +678,9 @@
         "772": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "6369": {
                     "name": "rafOrangeEnemy2",
@@ -572,6 +719,9 @@
         "795": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "11123": {
                     "name": "Trigger Cube (GF Parrot Crash Only)",
@@ -582,6 +732,9 @@
         "796": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "11123": {
                     "name": "Trigger Cube (GF Parrot Crash Only)",
@@ -592,16 +745,25 @@
         "797": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "800": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "840": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "9710": {
                     "name": "Bucaneer Fish bullet",
@@ -612,6 +774,9 @@
         "841": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "9704": {
                     "name": "Buccaneer Shark Bullet",
@@ -622,6 +787,9 @@
         "847": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12971": {
                     "name": "Disco Laser 3 dmg",
@@ -652,16 +820,25 @@
         "877": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "878": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "880": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "9257": {
                     "name": "Space Marauder cluster grenade - 3 splash damage",
@@ -672,6 +849,9 @@
         "889": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "11288": {
                     "name": "Bulper Bullet 3",
@@ -682,6 +862,9 @@
         "894": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "11464": {
                     "name": "FV RACE Dragon Fireball target",
@@ -692,6 +875,9 @@
         "896": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "11900": {
                     "name": "5 Dmg Projectile Bullet",
@@ -702,6 +888,9 @@
         "902": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "11915": {
                     "name": "Life Powerup 2 points",
@@ -712,6 +901,9 @@
         "903": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "11916": {
                     "name": "Life Powerup 3 points",
@@ -722,6 +914,9 @@
         "904": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "11917": {
                     "name": "Life Powerup 5 points",
@@ -732,6 +927,9 @@
         "905": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "11920": {
                     "name": "Life Powerup 10 points",
@@ -742,6 +940,9 @@
         "906": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "11910": {
                     "name": "Imagination Powerup 3 points",
@@ -752,6 +953,9 @@
         "907": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "11911": {
                     "name": "Imagination Powerup 5 points",
@@ -762,6 +966,9 @@
         "908": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "11918": {
                     "name": "Imagination Powerup 10 points",
@@ -772,6 +979,9 @@
         "909": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "11912": {
                     "name": "Armor Powerup 2 points",
@@ -782,6 +992,9 @@
         "910": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "11913": {
                     "name": "Armor Powerup 3 points",
@@ -792,6 +1005,9 @@
         "911": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "11914": {
                     "name": "Armor Powerup 5 points",
@@ -802,6 +1018,9 @@
         "912": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "11919": {
                     "name": "Armor Powerup 10 points",
@@ -812,76 +1031,121 @@
         "960": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "961": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "962": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "964": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "965": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "966": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "967": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "968": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "969": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "971": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "972": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "974": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "981": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "983": {
             "imaginationCost": 0,
             "cooldownTime": 0.5,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1000": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12568": {
                     "name": "Stink Bomb Projectile",
@@ -892,6 +1156,9 @@
         "1017": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12634": {
                     "name": "NPC Valiant Cleaner Bullet",
@@ -902,6 +1169,9 @@
         "1024": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12655": {
                     "name": "AM Turret Laser 2 dmg bullet",
@@ -912,6 +1182,9 @@
         "1027": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12664": {
                     "name": "Valiant Mech's Bullet laser Projectile",
@@ -922,6 +1195,9 @@
         "1033": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12643": {
                     "name": "2 Dmg Projectile Banana",
@@ -932,6 +1208,9 @@
         "1039": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12820": {
                     "name": "3 Dmg Inventor Gear Projectile Bullet",
@@ -942,6 +1221,9 @@
         "1040": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12821": {
                     "name": "2 Dmg Inventor Gear Projectile Bullet",
@@ -952,6 +1234,9 @@
         "1041": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12822": {
                     "name": "1 Dmg Inventor Gear Projectile Bullet",
@@ -962,6 +1247,9 @@
         "1044": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12824": {
                     "name": "Inventor Beehive 1",
@@ -972,6 +1260,9 @@
         "1045": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12825": {
                     "name": "Inventor Beehive 2",
@@ -982,6 +1273,9 @@
         "1046": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12826": {
                     "name": "Inventor Beehive 1 Projectile Bullet",
@@ -992,6 +1286,9 @@
         "1047": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12827": {
                     "name": "Inventor Beehive 2 Projectile Bullet",
@@ -1002,16 +1299,25 @@
         "1050": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1051": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1063": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12832": {
                     "name": "2 Dmg Projectile Arrow Adventurer",
@@ -1022,6 +1328,9 @@
         "1064": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12833": {
                     "name": "3 Dmg Projectile Arrow Adventurer",
@@ -1032,6 +1341,9 @@
         "1065": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12834": {
                     "name": "2 Dmg Projectile Arrow Adventurer Chargeup",
@@ -1042,6 +1354,9 @@
         "1066": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12835": {
                     "name": "3 Dmg Projectile Arrow Adventurer Chargeup",
@@ -1052,6 +1367,9 @@
         "1067": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12836": {
                     "name": "4 Dmg Projectile Arrow Adventurer Chargeup",
@@ -1062,11 +1380,17 @@
         "1084": {
             "imaginationCost": 0,
             "cooldownTime": 0.25,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1085": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12883": {
                     "name": "Space Ranger Gravity Well 1 Projectile Bullet",
@@ -1077,6 +1401,9 @@
         "1086": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12884": {
                     "name": "Space Ranger Gravity Well 2 Projectile Bullet",
@@ -1087,6 +1414,9 @@
         "1087": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12885": {
                     "name": "Space Ranger Gravity Well 3 Projectile Bullet",
@@ -1097,31 +1427,49 @@
         "1095": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1096": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1097": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1098": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1127": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1138": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13008": {
                     "name": "Charged Laser 9 dmg",
@@ -1132,6 +1480,9 @@
         "1159": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12168": {
                     "name": "AM - Bone Fracture Bomb Smashable",
@@ -1146,11 +1497,17 @@
         "1198": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1199": {
             "imaginationCost": 0,
             "cooldownTime": 26.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12174": {
                     "name": "AM - Skeleton Growlspeaker",
@@ -1161,11 +1518,17 @@
         "1201": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1203": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13120": {
                     "name": "Banana Gun Knockedown Bullet",
@@ -1176,11 +1539,17 @@
         "1220": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1236": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13114": {
                     "name": "Blue laser bullet  3 dmg",
@@ -1195,66 +1564,105 @@
         "1273": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1296": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1297": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1298": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1299": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1300": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1301": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1302": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1303": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1307": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1308": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1309": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1338": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13830": {
                     "name": "NT- Armory Challenge Target 11 (bomb)",
@@ -1265,6 +1673,9 @@
         "1351": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14200": {}
             }
@@ -1272,6 +1683,9 @@
         "1364": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7527": {
                     "name": "Inventor Weapon 2",
@@ -1282,6 +1696,9 @@
         "1365": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7528": {
                     "name": "Inventor Weapon 3",
@@ -1292,11 +1709,17 @@
         "1370": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1379": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14492": {
                     "name": "NJ Skeleton Arrow Projectile Bullet",
@@ -1307,6 +1730,9 @@
         "1392": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14524": {
                     "name": "NJ Skeleton thrown bone Projectile Bullet",
@@ -1317,16 +1743,25 @@
         "1409": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1410": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1413": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14602": {
                     "name": "Master Ice Shuriken Projectile 3",
@@ -1337,6 +1772,9 @@
         "1414": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14601": {
                     "name": "Master Ice Shuriken Projectile 2",
@@ -1347,6 +1785,9 @@
         "1415": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14600": {
                     "name": "Master Ice Shuriken Projectile 1",
@@ -1357,6 +1798,9 @@
         "1451": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14819": {
                     "name": "Ninjago Shuriken Projectile 5 / 11",
@@ -1367,6 +1811,9 @@
         "1468": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "15890": {
                     "name": "NJ Sashimi Fish bullet 2/7 dmg",
@@ -1377,6 +1824,9 @@
         "1469": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "15891": {
                     "name": "NJ Sashimi Fish bullet 3/7 dmg",
@@ -1387,6 +1837,9 @@
         "1470": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "15887": {}
             }
@@ -1394,6 +1847,9 @@
         "1471": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "15888": {}
             }
@@ -1401,6 +1857,9 @@
         "1472": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "15889": {}
             }
@@ -1408,6 +1867,9 @@
         "1476": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "15908": {
                     "name": "NJ Crossbow Bolt Arrow Projectile Bullet 6/24 dmg",
@@ -1418,6 +1880,9 @@
         "1478": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "15910": {
                     "name": "NJ Kunai Projectile Bullet 3/12 dmg",
@@ -1428,11 +1893,17 @@
         "1491": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1517": {
             "imaginationCost": 0,
             "cooldownTime": 26.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16043": {
                     "name": "nj mon - qb dragon in a box",
@@ -1443,6 +1914,9 @@
         "1563": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16255": {
                     "name": "Ice Shuriken Projectile 1 and 2",
@@ -1453,6 +1927,9 @@
         "1564": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16256": {
                     "name": "Ice Shuriken Projectile 3",

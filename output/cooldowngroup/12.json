@@ -4,6 +4,9 @@
         "330": {
             "imaginationCost": 5,
             "cooldownTime": 30.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "4977": {
                     "name": "Money Magnet",

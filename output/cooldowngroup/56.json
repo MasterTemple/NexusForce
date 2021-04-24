@@ -4,16 +4,25 @@
         "92": {
             "imaginationCost": 0,
             "cooldownTime": 20.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "93": {
             "imaginationCost": 0,
             "cooldownTime": 30.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "183": {
             "imaginationCost": 0,
             "cooldownTime": 30.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "6201": {
                     "name": "Thirst Quencher Consumable",
@@ -24,6 +33,9 @@
         "220": {
             "imaginationCost": 0,
             "cooldownTime": 5.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "6643": {
                     "name": "Test Imagination Kit - 4 pts",
@@ -38,6 +50,9 @@
         "513": {
             "imaginationCost": 0,
             "cooldownTime": 10.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "2999": {
                     "name": "Potion of Imagination 3",
@@ -48,11 +63,17 @@
         "514": {
             "imaginationCost": 0,
             "cooldownTime": 10.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "515": {
             "imaginationCost": 0,
             "cooldownTime": 10.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "2198": {
                     "name": "Potion of Imagination 1",
@@ -63,21 +84,33 @@
         "516": {
             "imaginationCost": 0,
             "cooldownTime": 10.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "517": {
             "imaginationCost": 0,
             "cooldownTime": 10.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "518": {
             "imaginationCost": 0,
             "cooldownTime": 10.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "519": {
             "imaginationCost": 0,
             "cooldownTime": 10.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "2998": {
                     "name": "Potion of Imagination 2",
@@ -88,6 +121,9 @@
         "1113": {
             "imaginationCost": 0,
             "cooldownTime": 210.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12105": {}
             }
@@ -95,6 +131,9 @@
         "1151": {
             "imaginationCost": 0,
             "cooldownTime": 15.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12764": {
                     "name": "Big Fountain Soda",
@@ -105,6 +144,9 @@
         "1255": {
             "imaginationCost": 0,
             "cooldownTime": 5.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13587": {
                     "name": "Bottled Water",
@@ -115,6 +157,9 @@
         "1519": {
             "imaginationCost": 0,
             "cooldownTime": 10.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16038": {
                     "name": "Bancha Tea",
@@ -125,6 +170,9 @@
         "1520": {
             "imaginationCost": 0,
             "cooldownTime": 10.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16039": {}
             }

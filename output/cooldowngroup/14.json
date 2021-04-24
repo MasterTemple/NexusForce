@@ -4,16 +4,25 @@
         "68": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "74": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "773": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "10021": {
                     "name": "Anti-Stink Potion",
@@ -28,6 +37,9 @@
         "802": {
             "imaginationCost": 0,
             "cooldownTime": 3.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "9259": {
                     "name": "Garden Shovel",
@@ -38,6 +50,9 @@
         "1366": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14378": {
                     "name": "Plunger Gun",

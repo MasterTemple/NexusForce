@@ -4,6 +4,9 @@
         "1": {
             "imaginationCost": 0,
             "cooldownTime": 0.4000000059604645,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "1": {
                     "name": "Generic player",
@@ -14,6 +17,9 @@
         "44": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "6639": {
                     "name": "Test Katana - 2 pt",
@@ -24,6 +30,9 @@
         "45": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "6640": {
                     "name": "Test Katana - 3 pt",
@@ -34,6 +43,9 @@
         "46": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "6641": {
                     "name": "Test Katana - 4 pt",
@@ -44,6 +56,9 @@
         "105": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "3206": {
                     "name": "Water Sprayer",
@@ -54,6 +69,9 @@
         "111": {
             "imaginationCost": 0,
             "cooldownTime": 4.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "3293": {
                     "name": "GM Only - Flamethrower",
@@ -64,16 +82,25 @@
         "130": {
             "imaginationCost": 0,
             "cooldownTime": 0.4000000059604645,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "131": {
             "imaginationCost": 0,
             "cooldownTime": 0.10000000149011612,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "138": {
             "imaginationCost": 0,
             "cooldownTime": 0.10000000149011612,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "4770": {
                     "name": "Test Blaster",
@@ -84,6 +111,9 @@
         "139": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "4799": {
                     "name": "Test Bow",
@@ -94,16 +124,25 @@
         "143": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "144": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "145": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "2239": {
                     "name": "Test Chargeup Spear",
@@ -114,6 +153,9 @@
         "146": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "1272": {
                     "name": "Test Chargeup Hammer",
@@ -124,6 +166,9 @@
         "148": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8217": {
                     "name": "Basic Dagger",
@@ -150,6 +195,9 @@
         "149": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "4881": {
                     "name": "Basic Spear",
@@ -168,6 +216,9 @@
         "150": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8218": {
                     "name": "Basic Pickaxe",
@@ -198,6 +249,9 @@
         "151": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8274": {
                     "name": "Test Performance Test Sword",
@@ -232,6 +286,9 @@
         "152": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8219": {
                     "name": "Basic Javelin",
@@ -254,11 +311,17 @@
         "153": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "154": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "4927": {
                     "name": "Test Blaster Imagination",
@@ -269,6 +332,9 @@
         "155": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "4939": {
                     "name": "Test Pulse Blaster",
@@ -279,6 +345,9 @@
         "160": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "4989": {
                     "name": "Test Chargeup Flintlock Pistol",
@@ -293,6 +362,9 @@
         "161": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "5628": {
                     "name": "Test Rangers Elite Long Bow",
@@ -303,6 +375,9 @@
         "165": {
             "imaginationCost": 0,
             "cooldownTime": 1.5,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "5841": {
                     "name": "Test Stun Pulse Blaster",
@@ -313,6 +388,9 @@
         "175": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "5948": {
                     "name": "Basic Shortsword of Knockback",
@@ -323,6 +401,9 @@
         "176": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "5952": {
                     "name": "Superior Longsword of Stunning",
@@ -333,21 +414,33 @@
         "177": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "184": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "185": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "186": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "6203": {
                     "name": "Basic Spear of Stunning",
@@ -362,6 +455,9 @@
         "192": {
             "imaginationCost": 0,
             "cooldownTime": 0.10000000149011612,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "6328": {
                     "name": "Test Client Blaster",
@@ -376,6 +472,9 @@
         "193": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "6355": {
                     "name": "AG - Maelstrom Collector",
@@ -386,6 +485,9 @@
         "205": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "6090": {
                     "name": "Ben Aaar",
@@ -408,6 +510,9 @@
         "206": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "6090": {
                     "name": "Ben Aaar",
@@ -422,11 +527,17 @@
         "211": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "229": {
             "imaginationCost": 0,
             "cooldownTime": 3.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12387": {
                     "name": "VE Instance - Elite Dark Spiderling",
@@ -470,6 +581,9 @@
         "230": {
             "imaginationCost": 0,
             "cooldownTime": 2.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12575": {
                     "name": "Property - Dark Spiderling",
@@ -513,6 +627,9 @@
         "239": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16470": {
                     "name": "NAMED Stromling Pirate",
@@ -800,6 +917,9 @@
         "241": {
             "imaginationCost": 0,
             "cooldownTime": 2.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16471": {
                     "name": "NAMED Stromling Admiral",
@@ -838,11 +958,17 @@
         "242": {
             "imaginationCost": 0,
             "cooldownTime": 12.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "246": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "6937": {
                     "name": "Basic Flintlock Pistol",
@@ -853,11 +979,17 @@
         "264": {
             "imaginationCost": 4,
             "cooldownTime": 10.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "269": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "6939": {
                     "name": "Exceptional Ice Saw of Freezing",
@@ -868,11 +1000,17 @@
         "273": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "274": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8445": {
                     "name": "Spider Boss Activity",
@@ -907,11 +1045,17 @@
         "275": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "276": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8451": {
                     "name": "Great Shortsword",
@@ -926,6 +1070,9 @@
         "277": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8452": {
                     "name": "Super Shortsword",
@@ -944,6 +1091,9 @@
         "278": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8453": {
                     "name": "Elite Shortsword",
@@ -970,6 +1120,9 @@
         "279": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12315": {
                     "name": "Great Crescent Wrench",
@@ -992,6 +1145,9 @@
         "280": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8448": {
                     "name": "Super Hatchet",
@@ -1022,6 +1178,9 @@
         "281": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8450": {
                     "name": "Elite Pickaxe",
@@ -1040,11 +1199,17 @@
         "282": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "283": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8468": {
                     "name": "Super Spear",
@@ -1059,11 +1224,17 @@
         "284": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "285": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "1879": {
                     "name": "Great Katana",
@@ -1074,6 +1245,9 @@
         "286": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12719": {
                     "name": "Super Cleaver",
@@ -1092,6 +1266,9 @@
         "287": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8472": {
                     "name": "Elite Katana",
@@ -1138,6 +1315,9 @@
         "288": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "2616": {
                     "name": "Great Prismatic Wrench",
@@ -1156,6 +1336,9 @@
         "289": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12313": {
                     "name": "Lucky Woodsman's Axe",
@@ -1218,6 +1401,9 @@
         "290": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8447": {
                     "name": "Elite Oar",
@@ -1248,6 +1434,9 @@
         "291": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8474": {
                     "name": "Great Corseque",
@@ -1274,6 +1463,9 @@
         "292": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8475": {
                     "name": "Super Corseque",
@@ -1284,6 +1476,9 @@
         "293": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12728": {
                     "name": "Elite Javelin",
@@ -1298,6 +1493,9 @@
         "294": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7035": {
                     "name": "Test PvP Shortsword no stun no move",
@@ -1308,6 +1506,9 @@
         "295": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7039": {
                     "name": "Test PvP Shortsword no stun",
@@ -1318,11 +1519,17 @@
         "296": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "303": {
             "imaginationCost": 0,
             "cooldownTime": 4.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14381": {
                     "name": "AG - Spider Queen",
@@ -1337,6 +1544,9 @@
         "310": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7149": {
                     "name": "Test Wysiwyg long sword",
@@ -1347,16 +1557,25 @@
         "339": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "341": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "355": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "9458": {
                     "name": "Spider Cannon",
@@ -1371,6 +1590,9 @@
         "426": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "2963": {
                     "name": "Dragon Hammer 1",
@@ -1393,6 +1615,9 @@
         "433": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7398": {
                     "name": "Sorcerer Weapon 2",
@@ -1403,6 +1628,9 @@
         "434": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12984": {
                     "name": "Sorcerer Weapon 3 Color Variant",
@@ -1417,16 +1645,25 @@
         "436": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "437": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "451": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7400": {
                     "name": "Buccaneer Weapon 1",
@@ -1437,6 +1674,9 @@
         "475": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7394": {
                     "name": "Engineer Weapon 1",
@@ -1447,6 +1687,9 @@
         "476": {
             "imaginationCost": 0,
             "cooldownTime": 1.350000023841858,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7391": {
                     "name": "Knight Weapon 1",
@@ -1457,6 +1700,9 @@
         "477": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7392": {
                     "name": "Knight Weapon 2",
@@ -1467,6 +1713,9 @@
         "478": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12968": {
                     "name": "Knight Weapon 3 Color Variant",
@@ -1489,6 +1738,9 @@
         "484": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "11982": {
                     "name": "AM - Stromling NAMED",
@@ -1507,6 +1759,9 @@
         "485": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12600": {
                     "name": "NSI - Super Stromling Boss",
@@ -1525,6 +1780,9 @@
         "494": {
             "imaginationCost": 0,
             "cooldownTime": 4.5,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16474": {
                     "name": "NAMED Dark Ronin",
@@ -1567,11 +1825,17 @@
         "495": {
             "imaginationCost": 0,
             "cooldownTime": 3.299999952316284,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "508": {
             "imaginationCost": 0,
             "cooldownTime": 5.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12612": {
                     "name": "NSI - Maelstrom Dragon",
@@ -1594,6 +1858,9 @@
         "521": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8501": {
                     "name": "Improved Ice Saw",
@@ -1608,11 +1875,17 @@
         "522": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "523": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8498": {
                     "name": "Improved Hatchet",
@@ -1639,6 +1912,9 @@
         "524": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8502": {
                     "name": "Improved Scimitar",
@@ -1661,6 +1937,9 @@
         "525": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8509": {
                     "name": "Improved Trident",
@@ -1675,6 +1954,9 @@
         "526": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13545": {
                     "name": "Improved Push Broom",
@@ -1701,6 +1983,9 @@
         "527": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8497": {
                     "name": "Quality Cutlass",
@@ -1719,6 +2004,9 @@
         "528": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8506": {
                     "name": "Quality Dirk",
@@ -1729,16 +2017,25 @@
         "529": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "530": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "531": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8486": {
                     "name": "Quality Spear",
@@ -1753,6 +2050,9 @@
         "532": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8500": {
                     "name": "Quality Woodsman's Axe",
@@ -1767,6 +2067,9 @@
         "538": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "2644": {
                     "name": "Worthy Corseque",
@@ -1781,6 +2084,9 @@
         "539": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8489": {
                     "name": "Worthy Ice Saw",
@@ -1795,11 +2101,17 @@
         "540": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "541": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8481": {
                     "name": "Worthy Wrench",
@@ -1818,6 +2130,9 @@
         "542": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7068": {
                     "name": "Worthy Force Blade",
@@ -1828,6 +2143,9 @@
         "543": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8484": {
                     "name": "Worthy Butterfly Net",
@@ -1842,6 +2160,9 @@
         "544": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8479": {
                     "name": "Superior Shortsword",
@@ -1860,11 +2181,17 @@
         "545": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "546": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8488": {
                     "name": "Superior Hammer",
@@ -1883,6 +2210,9 @@
         "547": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8493": {
                     "name": "Superior Katana",
@@ -1897,6 +2227,9 @@
         "548": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8507": {
                     "name": "Superior Trident",
@@ -1915,6 +2248,9 @@
         "549": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8334": {
                     "name": "Test Maelstrom Staff",
@@ -1941,6 +2277,9 @@
         "551": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8494": {
                     "name": "Exceptional Dagger",
@@ -1951,11 +2290,17 @@
         "552": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "553": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8483": {
                     "name": "Exceptional Ladle",
@@ -1974,6 +2319,9 @@
         "554": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8331": {
                     "name": "Exceptional Katana",
@@ -1988,6 +2336,9 @@
         "555": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8487": {
                     "name": "Exceptional Spear",
@@ -1998,6 +2349,9 @@
         "556": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8480": {
                     "name": "Exceptional Axe",
@@ -2020,6 +2374,9 @@
         "572": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7517": {
                     "name": "Samurai Weapon 1",
@@ -2030,6 +2387,9 @@
         "573": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "5718": {
                     "name": "AG - Path transition 1",
@@ -2044,6 +2404,9 @@
         "574": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12977": {
                     "name": "Samurai Weapon 3 Color Variant",
@@ -2062,6 +2425,9 @@
         "593": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7395": {
                     "name": "Engineer Weapon 2",
@@ -2072,6 +2438,9 @@
         "595": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7401": {
                     "name": "Buccaneer Weapon 2",
@@ -2082,6 +2451,9 @@
         "596": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12982": {
                     "name": "Buccaneer Weapon 3 Color Variant",
@@ -2096,6 +2468,9 @@
         "600": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12964": {
                     "name": "Engineer Weapon 3 Color Variant",
@@ -2110,6 +2485,9 @@
         "601": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7529": {
                     "name": "Summoner Weapon 1",
@@ -2120,6 +2498,9 @@
         "602": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7530": {
                     "name": "Summoner Weapon 2",
@@ -2130,6 +2511,9 @@
         "603": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12921": {
                     "name": "Summoner Weapon 3 Color Variant",
@@ -2144,6 +2528,9 @@
         "604": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7535": {
                     "name": "Daredevil Weapon 1",
@@ -2154,6 +2541,9 @@
         "605": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7520": {
                     "name": "Space Marauder Gun 1",
@@ -2164,6 +2554,9 @@
         "618": {
             "imaginationCost": 0,
             "cooldownTime": 0.75,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "9304": {
                     "name": "Engineer Turret Rank 2",
@@ -2174,6 +2567,9 @@
         "620": {
             "imaginationCost": 0,
             "cooldownTime": 2.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "9305": {
                     "name": "Engineer Turret Rank 3",
@@ -2184,6 +2580,9 @@
         "628": {
             "imaginationCost": 0,
             "cooldownTime": 2.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8563": {
                     "name": "Bulper Rank 1",
@@ -2194,6 +2593,9 @@
         "629": {
             "imaginationCost": 0,
             "cooldownTime": 1.5,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "9315": {
                     "name": "Bulper Rank 2",
@@ -2204,6 +2606,9 @@
         "630": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "9316": {
                     "name": "Bulper Rank 3",
@@ -2214,6 +2619,9 @@
         "639": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7536": {
                     "name": "Daredevil Weapon 2",
@@ -2224,6 +2632,9 @@
         "640": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12994": {
                     "name": "Daredevil Weapon 3 Color Variant",
@@ -2238,6 +2649,9 @@
         "645": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7521": {
                     "name": "Space Marauder Gun 2",
@@ -2248,6 +2662,9 @@
         "646": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12987": {
                     "name": "Space Marauder Gun 3 Color Variant",
@@ -2262,6 +2679,9 @@
         "650": {
             "imaginationCost": 0,
             "cooldownTime": 10.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "9479": {
                     "name": "Engineer Personal Fortress",
@@ -2272,6 +2692,9 @@
         "656": {
             "imaginationCost": 0,
             "cooldownTime": 60.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "9520": {
                     "name": "Engineer Rank 1 Generator",
@@ -2282,6 +2705,9 @@
         "657": {
             "imaginationCost": 0,
             "cooldownTime": 60.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "9521": {
                     "name": "Engineer Rank 2 Generator",
@@ -2292,6 +2718,9 @@
         "658": {
             "imaginationCost": 0,
             "cooldownTime": 60.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "9522": {
                     "name": "Engineer Rank 3 Generator",
@@ -2302,16 +2731,25 @@
         "714": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "727": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "749": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "10488": {
                     "name": "Proxy Panda Style - Right Hand Proxy",
@@ -2322,6 +2760,9 @@
         "750": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "10486": {
                     "name": "Dragon Style- Right Hand Proxy",
@@ -2332,6 +2773,9 @@
         "751": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "10487": {
                     "name": "Proxy Mantis Style- Right Hand Proxy",
@@ -2342,6 +2786,9 @@
         "760": {
             "imaginationCost": 0,
             "cooldownTime": 5.5,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "10015": {
                     "name": "GF - Stromling Admiral SIDESCROLLER",
@@ -2352,21 +2799,33 @@
         "763": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "764": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "765": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "766": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "6205": {
                     "name": "Superior Halberd of Knockback",
@@ -2377,11 +2836,17 @@
         "767": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "768": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "5954": {
                     "name": "Great Shortsword of Stunning",
@@ -2392,16 +2857,25 @@
         "769": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "803": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "804": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "2631": {
                     "name": "Shiver Me Timbers Axe",
@@ -2412,6 +2886,9 @@
         "805": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12778": {
                     "name": "Carrot of Courage",
@@ -2426,6 +2903,9 @@
         "806": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7283": {
                     "name": "Elite Saw of Drowsiness",
@@ -2436,11 +2916,17 @@
         "807": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "808": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "2586": {
                     "name": "Great Longsword of Lightning",
@@ -2451,6 +2937,9 @@
         "809": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "3065": {
                     "name": "Exceptional Katana of Shielding",
@@ -2461,6 +2950,9 @@
         "811": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "6930": {
                     "name": "Worthy Drumstick of Repulsion",
@@ -2471,6 +2963,9 @@
         "813": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "6934": {
                     "name": "Net of Bees",
@@ -2481,6 +2976,9 @@
         "843": {
             "imaginationCost": 0,
             "cooldownTime": 1.5,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16629": {
                     "name": "2011 Championship Sparkler",
@@ -2495,11 +2993,17 @@
         "846": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "862": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8343": {
                     "name": "Superior Crossbow of Blasting",
@@ -2514,6 +3018,9 @@
         "865": {
             "imaginationCost": 0,
             "cooldownTime": 1.5,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "6923": {
                     "name": "Wand of Freezing 1",
@@ -2524,6 +3031,9 @@
         "866": {
             "imaginationCost": 0,
             "cooldownTime": 1.5,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7727": {
                     "name": "Wand of Freezing 2",
@@ -2534,6 +3044,9 @@
         "867": {
             "imaginationCost": 0,
             "cooldownTime": 1.5,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8491": {
                     "name": "Wand of Knockback",
@@ -2544,6 +3057,9 @@
         "868": {
             "imaginationCost": 0,
             "cooldownTime": 1.5,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8492": {
                     "name": "Wand of Sleep",
@@ -2554,6 +3070,9 @@
         "869": {
             "imaginationCost": 0,
             "cooldownTime": 0.4000000059604645,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16551": {
                     "name": "Wu's Imagination Staff",
@@ -2572,16 +3091,25 @@
         "870": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "871": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "872": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "6848": {
                     "name": "Captain Jack's Volleygun",
@@ -2592,11 +3120,17 @@
         "873": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "874": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "6204": {
                     "name": "Great Scimitar of Rooting",
@@ -2607,6 +3141,9 @@
         "875": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "6846": {
                     "name": "Captain's Cutlass",
@@ -2617,6 +3154,9 @@
         "876": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8476": {
                     "name": "Elite Force Blade of Lightning",
@@ -2627,6 +3167,9 @@
         "893": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "11432": {
                     "name": "Improved Revolver",
@@ -2637,6 +3180,9 @@
         "895": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "6844": {
                     "name": "Quality Flintlock Pistol of Blasting",
@@ -2647,6 +3193,9 @@
         "897": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "2990": {
                     "name": "Exceptional Flintlock Pistol",
@@ -2657,6 +3206,9 @@
         "898": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "1891": {
                     "name": "Exceptional Flintlock Rifle of Blasting",
@@ -2667,6 +3219,9 @@
         "899": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "6847": {
                     "name": "Exceptional Flintlock Rifle",
@@ -2677,6 +3232,9 @@
         "900": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8508": {
                     "name": "Pneumatic Drill of Blasting",
@@ -2687,6 +3245,9 @@
         "901": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "9731": {
                     "name": "Great Flintlock Rifle of Blasting",
@@ -2697,6 +3258,9 @@
         "928": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "11212": {
                     "name": "AM - Stromling",
@@ -2711,11 +3275,17 @@
         "934": {
             "imaginationCost": 0,
             "cooldownTime": 4.5,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "936": {
             "imaginationCost": 0,
             "cooldownTime": 5.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "11220": {
                     "name": "AM - Maelstrom Dragon",
@@ -2730,6 +3300,9 @@
         "939": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8471": {
                     "name": "Great Katana of Freezing",
@@ -2740,6 +3313,9 @@
         "955": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12300": {
                     "name": "Superior Hand Bell",
@@ -2750,11 +3326,17 @@
         "956": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "957": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12314": {
                     "name": "Javelin of Lightning",
@@ -2765,6 +3347,9 @@
         "970": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12316": {
                     "name": "Cutlass of Blocking",
@@ -2791,6 +3376,9 @@
         "979": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12486": {
                     "name": "Red Scythe",
@@ -2801,6 +3389,9 @@
         "982": {
             "imaginationCost": 0,
             "cooldownTime": 5.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12489": {
                     "name": "[DNL] Valiant Ship",
@@ -2811,6 +3402,9 @@
         "984": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12514": {
                     "name": "Spark Thrower",
@@ -2821,6 +3415,9 @@
         "990": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12549": {
                     "name": "Exceptional Pea Shooter",
@@ -2835,11 +3432,17 @@
         "1002": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1003": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12595": {
                     "name": "Blaster",
@@ -2850,6 +3453,9 @@
         "1004": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12596": {
                     "name": "Savage Club",
@@ -2860,6 +3466,9 @@
         "1007": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12437": {
                     "name": "Banana Gun",
@@ -2870,6 +3479,9 @@
         "1009": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12636": {
                     "name": "Engineer Valiant Weapon",
@@ -2880,6 +3492,9 @@
         "1013": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8238": {
                     "name": "VE Instance - Stromling Hammerling Ranged",
@@ -2906,6 +3521,9 @@
         "1015": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12637": {
                     "name": "Knight Valiant Weapon",
@@ -2916,6 +3534,9 @@
         "1018": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12618": {
                     "name": "[DNL] Valiant Cleaner",
@@ -2926,6 +3547,9 @@
         "1019": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12638": {
                     "name": "Buccaneer Valiant Weapon",
@@ -2936,6 +3560,9 @@
         "1021": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12642": {
                     "name": "Samurai Valiant Weapon",
@@ -2946,6 +3573,9 @@
         "1022": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12647": {
                     "name": "Daredevil Valiant Weapon",
@@ -2956,6 +3586,9 @@
         "1025": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12662": {
                     "name": "[DNL] Valiant Mech",
@@ -2966,6 +3599,9 @@
         "1030": {
             "imaginationCost": 0,
             "cooldownTime": 2.5,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12807": {
                     "name": "[DNL] Valiant Owl",
@@ -2976,6 +3612,9 @@
         "1032": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12809": {
                     "name": "Space Marauder Valiant Weapon",
@@ -2986,6 +3625,9 @@
         "1036": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12816": {
                     "name": "Sorcerer Valiant Weapon",
@@ -2996,6 +3638,9 @@
         "1037": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12817": {
                     "name": "Summoner Valiant Weapon",
@@ -3006,6 +3651,9 @@
         "1038": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7528": {
                     "name": "Inventor Weapon 3",
@@ -3016,6 +3664,9 @@
         "1042": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7527": {
                     "name": "Inventor Weapon 2",
@@ -3026,6 +3677,9 @@
         "1043": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7526": {
                     "name": "Inventor Weapon 1",
@@ -3036,6 +3690,9 @@
         "1052": {
             "imaginationCost": 0,
             "cooldownTime": 2.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12828": {
                     "name": "Make-Shift Buddy 1",
@@ -3046,6 +3703,9 @@
         "1053": {
             "imaginationCost": 0,
             "cooldownTime": 1.5,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12829": {
                     "name": "Make-Shift Buddy 2",
@@ -3056,6 +3716,9 @@
         "1054": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12830": {
                     "name": "Make-Shift Buddy 3",
@@ -3066,6 +3729,9 @@
         "1059": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7532": {
                     "name": "Adventurer Crossbow 1",
@@ -3076,6 +3742,9 @@
         "1060": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7533": {
                     "name": "Adventurer Crossbow 2",
@@ -3086,6 +3755,9 @@
         "1061": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7534": {
                     "name": "Adventurer Crossbow 3",
@@ -3096,6 +3768,9 @@
         "1081": {
             "imaginationCost": 0,
             "cooldownTime": 1.25,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7523": {
                     "name": "Shinobi Weapon 1",
@@ -3106,6 +3781,9 @@
         "1082": {
             "imaginationCost": 0,
             "cooldownTime": 1.25,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7524": {
                     "name": "Shinobi Weapon 2",
@@ -3116,6 +3794,9 @@
         "1083": {
             "imaginationCost": 0,
             "cooldownTime": 1.25,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7525": {
                     "name": "Shinobi Weapon 3",
@@ -3126,6 +3807,9 @@
         "1094": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7514": {
                     "name": "Space Ranger Gun 1",
@@ -3136,6 +3820,9 @@
         "1099": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7515": {
                     "name": "Space Ranger Gun 2",
@@ -3146,6 +3833,9 @@
         "1100": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7516": {
                     "name": "Space Ranger Gun 3",
@@ -3156,6 +3846,9 @@
         "1112": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12729": {
                     "name": "Elite Long Barrel Blaster",
@@ -3166,16 +3859,25 @@
         "1117": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1118": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1122": {
             "imaginationCost": 0,
             "cooldownTime": 1.25,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13068": {
                     "name": "AM - Watchtower Skeleton",
@@ -3218,6 +3920,9 @@
         "1123": {
             "imaginationCost": 0,
             "cooldownTime": 1.25,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12001": {
                     "name": "AM - Skeleton Miner NAMED",
@@ -3236,6 +3941,9 @@
         "1129": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12927": {
                     "name": "Mosaic Wand",
@@ -3246,6 +3954,9 @@
         "1137": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12727": {}
             }
@@ -3253,6 +3964,9 @@
         "1139": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12802": {
                     "name": "Bat Lord Staff",
@@ -3263,6 +3977,9 @@
         "1140": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12730": {
                     "name": "Fantastic Pilum",
@@ -3273,6 +3990,9 @@
         "1142": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12722": {
                     "name": "Heroic Trident of Lightning",
@@ -3283,6 +4003,9 @@
         "1144": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12760": {
                     "name": "Elite Sword of Blocking",
@@ -3293,11 +4016,17 @@
         "1157": {
             "imaginationCost": 0,
             "cooldownTime": 0.4000000059604645,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1196": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13014": {
                     "name": "Soap Gun",
@@ -3308,6 +4037,9 @@
         "1210": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12731": {
                     "name": "Spike Hammer",
@@ -3318,6 +4050,9 @@
         "1217": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13423": {
                     "name": "Exceptional Pea Shooter MKII",
@@ -3328,6 +4063,9 @@
         "1218": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13424": {
                     "name": "GM Only 10 Damage Weapon 100 Damage charge",
@@ -3338,6 +4076,9 @@
         "1223": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13922": {
                     "name": "Heroic Force Blade",
@@ -3348,6 +4089,9 @@
         "1225": {
             "imaginationCost": 0,
             "cooldownTime": 3.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13297": {
                     "name": "Fig-Eating Plant",
@@ -3358,6 +4102,9 @@
         "1231": {
             "imaginationCost": 0,
             "cooldownTime": 1.5,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12723": {
                     "name": "Wand of Repulsion",
@@ -3368,6 +4115,9 @@
         "1233": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12726": {
                     "name": "The Ego Club",
@@ -3382,6 +4132,9 @@
         "1234": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12733": {
                     "name": "Heavy Staff",
@@ -3396,6 +4149,9 @@
         "1235": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13582": {
                     "name": "Mole Whacker",
@@ -3406,6 +4162,9 @@
         "1238": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13918": {
                     "name": "Heroic Halberd",
@@ -3416,6 +4175,9 @@
         "1239": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12725": {
                     "name": "Golden Battle Axe",
@@ -3426,6 +4188,9 @@
         "1241": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12761": {
                     "name": "Double Blaster",
@@ -3436,11 +4201,17 @@
         "1242": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1244": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13585": {
                     "name": "Gat Gun Sprayer",
@@ -3451,6 +4222,9 @@
         "1246": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13586": {
                     "name": "Launcher",
@@ -3461,6 +4235,9 @@
         "1251": {
             "imaginationCost": 0,
             "cooldownTime": 3.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13550": {
                     "name": "Imagination Backpack Right Hand Proxy",
@@ -3471,6 +4248,9 @@
         "1252": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13584": {
                     "name": "Overcharged Blaster",
@@ -3481,6 +4261,9 @@
         "1257": {
             "imaginationCost": 0,
             "cooldownTime": 3.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13549": {
                     "name": "Imagination Backpack Head Proxy",
@@ -3491,6 +4274,9 @@
         "1263": {
             "imaginationCost": 0,
             "cooldownTime": 0.4000000059604645,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13605": {
                     "name": "Crate Disguise Right Hand Proxy",
@@ -3501,6 +4287,9 @@
         "1276": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13942": {
                     "name": "TEST Tower Grid MainHand A",
@@ -3511,6 +4300,9 @@
         "1277": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13949": {
                     "name": "TEST Tower Grid Hat A",
@@ -3521,6 +4313,9 @@
         "1278": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13950": {
                     "name": "TEST Tower Grid Offhand A",
@@ -3531,6 +4326,9 @@
         "1287": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13952": {
                     "name": "TEST Grid Tower Enemy 2B",
@@ -3545,11 +4343,17 @@
         "1289": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1291": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13965": {
                     "name": "TEST Tower Grid Shoulder A",
@@ -3560,6 +4364,9 @@
         "1292": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13969": {
                     "name": "TEST Tower Grid MainHand B",
@@ -3570,6 +4377,9 @@
         "1293": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13968": {
                     "name": "TEST Tower Grid Hat B",
@@ -3580,6 +4390,9 @@
         "1294": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13967": {
                     "name": "TEST Tower Grid Offhand B",
@@ -3590,6 +4403,9 @@
         "1295": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13966": {
                     "name": "TEST Tower Grid Shoulder B",
@@ -3600,6 +4416,9 @@
         "1310": {
             "imaginationCost": 0,
             "cooldownTime": 0.4000000059604645,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12656": {
                     "name": "Earth Spinjitzu Scythe The Scythe of Quakes",
@@ -3610,6 +4429,9 @@
         "1336": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "10436": {
                     "name": "Improved Scythe",
@@ -3620,6 +4442,9 @@
         "1342": {
             "imaginationCost": 0,
             "cooldownTime": 1.5,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14108": {
                     "name": "The Terrible Wand",
@@ -3630,6 +4455,9 @@
         "1343": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14109": {
                     "name": "The Furious Morning Star",
@@ -3640,6 +4468,9 @@
         "1344": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14122": {
                     "name": "Skyme's Blunderbuss",
@@ -3650,6 +4481,9 @@
         "1345": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14124": {
                     "name": "Peg-Leg's Blunderbuss",
@@ -3660,6 +4494,9 @@
         "1346": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14123": {
                     "name": "One-Eye's Blunderbuss",
@@ -3670,11 +4507,17 @@
         "1358": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1367": {
             "imaginationCost": 0,
             "cooldownTime": 2.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12828": {
                     "name": "Make-Shift Buddy 1",
@@ -3685,6 +4528,9 @@
         "1368": {
             "imaginationCost": 0,
             "cooldownTime": 1.5,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12829": {
                     "name": "Make-Shift Buddy 2",
@@ -3695,6 +4541,9 @@
         "1369": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12830": {
                     "name": "Make-Shift Buddy 3",
@@ -3705,6 +4554,9 @@
         "1377": {
             "imaginationCost": 0,
             "cooldownTime": 1.25,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14491": {
                     "name": "NJ - Skeleton Trooper",
@@ -3715,6 +4567,9 @@
         "1384": {
             "imaginationCost": 0,
             "cooldownTime": 1.25,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14007": {
                     "name": "NJD - Skeleton Blacksmith - Frakjaw instance",
@@ -3729,6 +4584,9 @@
         "1386": {
             "imaginationCost": 0,
             "cooldownTime": 1.25,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14025": {
                     "name": "NJ - Skeleton Raider",
@@ -3739,6 +4597,9 @@
         "1388": {
             "imaginationCost": 0,
             "cooldownTime": 1.25,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14009": {
                     "name": "NJD - Skeleton Commando - Frakjaw instance",
@@ -3757,21 +4618,33 @@
         "1390": {
             "imaginationCost": 0,
             "cooldownTime": 1.25,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1393": {
             "imaginationCost": 0,
             "cooldownTime": 0.4000000059604645,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1416": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1420": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16488": {
                     "name": "Purified Dagger",
@@ -3798,6 +4671,9 @@
         "1421": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14678": {
                     "name": "Stone Katana",
@@ -3824,6 +4700,9 @@
         "1422": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14686": {},
                 "14687": {},
@@ -3835,6 +4714,9 @@
         "1423": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14715": {
                     "name": "Cave Diver",
@@ -3861,6 +4743,9 @@
         "1424": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14716": {}
             }
@@ -3868,6 +4753,9 @@
         "1425": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14691": {
                     "name": "Purified Dark Blade",
@@ -3879,6 +4767,9 @@
         "1426": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16598": {
                     "name": "Crimson Yari",
@@ -3901,6 +4792,9 @@
         "1427": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14705": {
                     "name": "Training Keibo",
@@ -3915,6 +4809,9 @@
         "1428": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14706": {}
             }
@@ -3922,6 +4819,9 @@
         "1431": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14707": {}
             }
@@ -3929,6 +4829,9 @@
         "1432": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14714": {
                     "name": "Sankaku Yari",
@@ -3939,6 +4842,9 @@
         "1433": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14717": {}
             }
@@ -3946,6 +4852,9 @@
         "1436": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14721": {}
             }
@@ -3953,6 +4862,9 @@
         "1437": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14722": {},
                 "14727": {},
@@ -3963,6 +4875,9 @@
         "1441": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14779": {}
             }
@@ -3970,6 +4885,9 @@
         "1442": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14780": {
                     "name": "Kai's Training Dagger",
@@ -3980,6 +4898,9 @@
         "1448": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14815": {}
             }
@@ -3987,6 +4908,9 @@
         "1449": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14820": {},
                 "14821": {}
@@ -3995,6 +4919,9 @@
         "1452": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14824": {}
             }
@@ -4002,6 +4929,9 @@
         "1455": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14832": {},
                 "14838": {}
@@ -4010,6 +4940,9 @@
         "1456": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16601": {
                     "name": "Bright Lance",
@@ -4032,6 +4965,9 @@
         "1473": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "15892": {
                     "name": "Sushi Delivery System",
@@ -4042,6 +4978,9 @@
         "1474": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "15893": {}
             }
@@ -4049,6 +4988,9 @@
         "1490": {
             "imaginationCost": 0,
             "cooldownTime": 2.5,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "15981": {}
             }
@@ -4056,6 +4998,9 @@
         "1498": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16632": {
                     "name": "Maelstrom Dagger First mission",
@@ -4074,6 +5019,9 @@
         "1499": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16012": {
                     "name": "Frakjaw's Maelstrom Battle Mace",
@@ -4100,6 +5048,9 @@
         "1505": {
             "imaginationCost": 0,
             "cooldownTime": 2.5,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16022": {
                     "name": "[DNL] Ninjago Hound",
@@ -4110,6 +5061,9 @@
         "1523": {
             "imaginationCost": 0,
             "cooldownTime": 1.25,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16046": {}
             }
@@ -4117,6 +5071,9 @@
         "1524": {
             "imaginationCost": 0,
             "cooldownTime": 1.25,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16047": {
                     "name": "NJ - Chopov Skeleton Lieutenant",
@@ -4127,6 +5084,9 @@
         "1525": {
             "imaginationCost": 0,
             "cooldownTime": 1.25,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16048": {
                     "name": "NJ - Frakjaw Skeleton Lieutenant",
@@ -4137,6 +5097,9 @@
         "1526": {
             "imaginationCost": 0,
             "cooldownTime": 1.25,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16049": {
                     "name": "NJ - Krazi Skeleton Lieutenant",
@@ -4147,6 +5110,9 @@
         "1527": {
             "imaginationCost": 0,
             "cooldownTime": 1.25,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16050": {
                     "name": "NJ - Bonezai Skeleton Lieutenant",
@@ -4157,6 +5123,9 @@
         "1538": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16148": {
                     "name": "Maelstrom Bone Dagger",
@@ -4167,6 +5136,9 @@
         "1560": {
             "imaginationCost": 0,
             "cooldownTime": 0.4000000059604645,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12658": {
                     "name": "Lightning Spinjitzu The Nunchuks of Lightning",
@@ -4177,6 +5149,9 @@
         "1565": {
             "imaginationCost": 0,
             "cooldownTime": 0.4000000059604645,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12659": {
                     "name": "Ice Spinjitzu The Shurikens of Ice",
@@ -4187,6 +5162,9 @@
         "1567": {
             "imaginationCost": 0,
             "cooldownTime": 0.4000000059604645,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12657": {
                     "name": "Fire Spinjitzu The Sword of Fire",
@@ -4197,6 +5175,9 @@
         "1584": {
             "imaginationCost": 0,
             "cooldownTime": 2.5,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13995": {
                     "name": "NJ - Bone Wolf",
@@ -4212,6 +5193,9 @@
         "1628": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14318": {
                     "name": "Sentinel Gear - Knight - weapon proxy",
@@ -4222,6 +5206,9 @@
         "1629": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14324": {
                     "name": "Paradox Gear - Space Marauder - weapon proxy",
@@ -4232,6 +5219,9 @@
         "1630": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14362": {
                     "name": "Venture Gear - Daredevil - weapon proxy",
@@ -4242,6 +5232,9 @@
         "1631": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14356": {
                     "name": "Assembly Gear - Summoner - weapon proxy",
@@ -4252,6 +5245,9 @@
         "1636": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14801": {
                     "name": "Purified Double Bone Dagger",
@@ -4262,6 +5258,9 @@
         "1637": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14764": {
                     "name": "Purified Bone Axe",
@@ -4272,6 +5271,9 @@
         "1638": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14837": {
                     "name": "Purified Double-Axe",
@@ -4282,6 +5284,9 @@
         "1639": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16151": {
                     "name": "Purified Mace",
@@ -4292,11 +5297,17 @@
         "1657": {
             "imaginationCost": 0,
             "cooldownTime": 0.4000000059604645,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1659": {
             "imaginationCost": 0,
             "cooldownTime": 0.4000000059604645,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16648": {}
             }
@@ -4304,6 +5315,9 @@
         "1742": {
             "imaginationCost": 0,
             "cooldownTime": -1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16921": {
                     "name": "[DNL] Summoned Crocodile Ally",

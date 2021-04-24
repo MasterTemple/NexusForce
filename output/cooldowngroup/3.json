@@ -4,11 +4,17 @@
         "73": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "75": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "2776": {
                     "name": "GC11 - Oinky",
@@ -31,21 +37,33 @@
         "233": {
             "imaginationCost": 2,
             "cooldownTime": 10.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "257": {
             "imaginationCost": 2,
             "cooldownTime": 10.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "258": {
             "imaginationCost": 3,
             "cooldownTime": 10.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "298": {
             "imaginationCost": 2,
             "cooldownTime": 8.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12308": {
                     "name": "Banneret's Helm",
@@ -80,16 +98,25 @@
         "319": {
             "imaginationCost": 2,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "320": {
             "imaginationCost": 2,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "321": {
             "imaginationCost": 1,
             "cooldownTime": 6.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "3066": {
                     "name": "Yar Har Har Sextant",
@@ -100,21 +127,33 @@
         "343": {
             "imaginationCost": 2,
             "cooldownTime": 20.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "347": {
             "imaginationCost": 4,
             "cooldownTime": 10.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "474": {
             "imaginationCost": 0,
             "cooldownTime": 2.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "512": {
             "imaginationCost": 0,
             "cooldownTime": 6.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12612": {
                     "name": "NSI - Maelstrom Dragon",
@@ -137,11 +176,17 @@
         "614": {
             "imaginationCost": 0,
             "cooldownTime": 5.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "622": {
             "imaginationCost": 0,
             "cooldownTime": 2.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "9305": {
                     "name": "Engineer Turret Rank 3",
@@ -152,6 +197,9 @@
         "833": {
             "imaginationCost": 0,
             "cooldownTime": 2.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12387": {
                     "name": "VE Instance - Elite Dark Spiderling",
@@ -203,6 +251,9 @@
         "845": {
             "imaginationCost": 2,
             "cooldownTime": 5.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "6925": {
                     "name": "Helm Of Entrapment 1",
@@ -213,6 +264,9 @@
         "926": {
             "imaginationCost": 0,
             "cooldownTime": 2.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "6454": {
                     "name": "AG - Dark Spiderling Survival",
@@ -231,6 +285,9 @@
         "949": {
             "imaginationCost": 0,
             "cooldownTime": 3.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13568": {
                     "name": "NJ - Skeleton Engineer QB",
@@ -245,6 +302,9 @@
         "950": {
             "imaginationCost": 0,
             "cooldownTime": 3.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12003": {
                     "name": "AM - Skeleton Engineer NAMED",
@@ -255,6 +315,9 @@
         "976": {
             "imaginationCost": 4,
             "cooldownTime": 12.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12471": {
                     "name": "Overstuffed Briefcase",
@@ -265,6 +328,9 @@
         "1212": {
             "imaginationCost": 0,
             "cooldownTime": 6.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "11220": {
                     "name": "AM - Maelstrom Dragon",
@@ -279,6 +345,9 @@
         "1229": {
             "imaginationCost": 5,
             "cooldownTime": 20.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "13579": {
                     "name": "Oil Can",
@@ -289,21 +358,33 @@
         "1230": {
             "imaginationCost": 0,
             "cooldownTime": 30.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1272": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1360": {
             "imaginationCost": 0,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "1378": {
             "imaginationCost": 0,
             "cooldownTime": 2.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "14008": {
                     "name": "NJD - Skeleton Marksman - Frakjaw instance",

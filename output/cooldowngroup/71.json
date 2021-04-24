@@ -4,6 +4,9 @@
         "988": {
             "imaginationCost": 0,
             "cooldownTime": 180.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12598": {
                     "name": "Witch's Surf-Broom",

@@ -4,11 +4,17 @@
         "244": {
             "imaginationCost": 1,
             "cooldownTime": 1.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "309": {
             "imaginationCost": 1,
             "cooldownTime": 3.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7148": {
                     "name": "Test Breastplate of Taunting",
@@ -19,6 +25,9 @@
         "688": {
             "imaginationCost": 0,
             "cooldownTime": 10.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8564": {
                     "name": "Thwok Rank 1",
@@ -37,6 +46,9 @@
         "1014": {
             "imaginationCost": 0,
             "cooldownTime": 5.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12629": {
                     "name": "[DNL] Valiant Target Dummy",

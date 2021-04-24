@@ -4,6 +4,9 @@
         "346": {
             "imaginationCost": 6,
             "cooldownTime": 6.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7357": {
                     "name": "Sorcerer Head 1",
@@ -14,16 +17,25 @@
         "352": {
             "imaginationCost": 2,
             "cooldownTime": 10.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "403": {
             "imaginationCost": 3,
             "cooldownTime": 10.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "445": {
             "imaginationCost": 5,
             "cooldownTime": 6.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7358": {
                     "name": "Buccaneer Head 1",
@@ -38,6 +50,9 @@
         "449": {
             "imaginationCost": 6,
             "cooldownTime": 6.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7365": {
                     "name": "Buccaneer Head 2",
@@ -52,6 +67,9 @@
         "450": {
             "imaginationCost": 7,
             "cooldownTime": 6.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12981": {
                     "name": "Buccaneer Head 3 Color Variant",
@@ -74,6 +92,9 @@
         "458": {
             "imaginationCost": 6,
             "cooldownTime": 5.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7448": {
                     "name": "Space Marauder Head 1",
@@ -84,6 +105,9 @@
         "459": {
             "imaginationCost": 7,
             "cooldownTime": 5.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7449": {
                     "name": "Space Marauder Head 2",
@@ -94,6 +118,9 @@
         "460": {
             "imaginationCost": 8,
             "cooldownTime": 5.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12986": {
                     "name": "Space Marauder Head 3 Color Variant",
@@ -108,16 +135,25 @@
         "568": {
             "imaginationCost": 4,
             "cooldownTime": 10.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "569": {
             "imaginationCost": 5,
             "cooldownTime": 10.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {}
         },
         "575": {
             "imaginationCost": 8,
             "cooldownTime": 6.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7361": {
                     "name": "Sorcerer Head 2",
@@ -128,6 +164,9 @@
         "576": {
             "imaginationCost": 10,
             "cooldownTime": 6.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12983": {
                     "name": "Sorcerer Head 3 Color Variant",
@@ -142,6 +181,9 @@
         "624": {
             "imaginationCost": 5,
             "cooldownTime": 45.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7356": {
                     "name": "Engineer Head 1",
@@ -152,6 +194,9 @@
         "625": {
             "imaginationCost": 6,
             "cooldownTime": 45.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7363": {
                     "name": "Engineer Head 2",
@@ -162,6 +207,9 @@
         "626": {
             "imaginationCost": 7,
             "cooldownTime": 45.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12962": {
                     "name": "Engineer Head 3 Color Variant",
@@ -176,6 +224,9 @@
         "631": {
             "imaginationCost": 6,
             "cooldownTime": 45.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7457": {
                     "name": "Summoner Head 1",
@@ -186,6 +237,9 @@
         "632": {
             "imaginationCost": 7,
             "cooldownTime": 45.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7458": {
                     "name": "Summoner Head 2",
@@ -196,6 +250,9 @@
         "633": {
             "imaginationCost": 8,
             "cooldownTime": 45.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12924": {
                     "name": "Summoner Head 3 Color Variant",
@@ -210,6 +267,9 @@
         "777": {
             "imaginationCost": 3,
             "cooldownTime": 8.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7355": {
                     "name": "Knight Head 1",
@@ -224,6 +284,9 @@
         "778": {
             "imaginationCost": 5,
             "cooldownTime": 8.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7359": {
                     "name": "Knight Head 2",
@@ -238,6 +301,9 @@
         "779": {
             "imaginationCost": 7,
             "cooldownTime": 8.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12966": {
                     "name": "Knight Head 3 Color Variant",
@@ -260,6 +326,9 @@
         "1055": {
             "imaginationCost": 4,
             "cooldownTime": 45.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7454": {
                     "name": "Inventor Head 1",
@@ -270,6 +339,9 @@
         "1056": {
             "imaginationCost": 6,
             "cooldownTime": 45.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7455": {
                     "name": "Inventor Head 2",
@@ -280,6 +352,9 @@
         "1057": {
             "imaginationCost": 8,
             "cooldownTime": 45.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7456": {
                     "name": "Inventor Head 3",
@@ -290,6 +365,9 @@
         "1070": {
             "imaginationCost": 3,
             "cooldownTime": 15.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7460": {
                     "name": "Adventurer Head 1",
@@ -300,6 +378,9 @@
         "1071": {
             "imaginationCost": 4,
             "cooldownTime": 15.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7461": {
                     "name": "Adventurer Head 2",
@@ -310,6 +391,9 @@
         "1072": {
             "imaginationCost": 6,
             "cooldownTime": 15.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7462": {
                     "name": "Adventurer Head 3",
@@ -320,6 +404,9 @@
         "1075": {
             "imaginationCost": 6,
             "cooldownTime": 10.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7451": {
                     "name": "Shinobi Head 1",
@@ -330,6 +417,9 @@
         "1076": {
             "imaginationCost": 7,
             "cooldownTime": 10.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7452": {
                     "name": "Shinobi Head 2",
@@ -340,6 +430,9 @@
         "1077": {
             "imaginationCost": 8,
             "cooldownTime": 10.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7453": {
                     "name": "Shinobi Head 3",
@@ -350,6 +443,9 @@
         "1088": {
             "imaginationCost": 4,
             "cooldownTime": 8.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7442": {
                     "name": "Space Ranger Head 1",
@@ -360,6 +456,9 @@
         "1089": {
             "imaginationCost": 5,
             "cooldownTime": 8.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7443": {
                     "name": "Space Ranger Head 2",
@@ -370,6 +469,9 @@
         "1090": {
             "imaginationCost": 6,
             "cooldownTime": 8.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "7444": {
                     "name": "Space Ranger Head 3",
@@ -380,6 +482,9 @@
         "1371": {
             "imaginationCost": 2,
             "cooldownTime": 10.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16605": {
                     "name": "Earth Spinjitzu Hood Cole's Hood of Quakes",
@@ -394,6 +499,9 @@
         "1570": {
             "imaginationCost": 5,
             "cooldownTime": 90.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16608": {
                     "name": "Lightning Spinjitzu Hood Jay's Hood of Storms",
@@ -408,6 +516,9 @@
         "1571": {
             "imaginationCost": 5,
             "cooldownTime": 20.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16611": {
                     "name": "Ice Spinjitzu Hood Zane's Hood of Frost",
@@ -422,6 +533,9 @@
         "1572": {
             "imaginationCost": 5,
             "cooldownTime": 10.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "16614": {
                     "name": "Fire Spinjitzu Hood Kai's Hood of Flames",
@@ -436,6 +550,9 @@
         "1587": {
             "imaginationCost": 5,
             "cooldownTime": 8.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "12095": {
                     "name": "Crux Prime Armor",

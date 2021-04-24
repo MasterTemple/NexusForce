@@ -4,6 +4,9 @@
         "70": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "2867": {
                     "name": "Test Contest Parachute",
@@ -14,6 +17,9 @@
         "128": {
             "imaginationCost": 0,
             "cooldownTime": 0.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "4015": {
                     "name": "Test Contest Parachute",
@@ -24,6 +30,9 @@
         "322": {
             "imaginationCost": 0,
             "cooldownTime": 9.0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null,
             "items": {
                 "8445": {
                     "name": "Spider Boss Activity",
