@@ -54,31 +54,9 @@ module.exports = {
             }
         }
 
-        // if(Object.keys(groupFile?.missions).length > 0){
-        //     embed.addField(`Missions: [${groupFile.missionsList.length}]`, groupInfo, false)
-        // }
-
-        // var vendorInfo = ``
-        // let count = 1
-        // if(groupFile.isVendor === 1){
-        //     for (let e = 0; e < Object.keys(groupFile?.LootTables).length; e++) {
-        //         for (let j = 0; j < Object.keys(groupFile.LootTables[Object.keys(groupFile?.LootTables)[e]].items).length; j++) {
-        //
-        //             vendorInfo = `${vendorInfo}**${count}.** ${groupFile.LootTables[Object.keys(groupFile?.LootTables)[e]].items[Object.keys(groupFile.LootTables[Object.keys(groupFile?.LootTables)[e]].items)[j]].displayName} [${Object.keys(groupFile.LootTables[Object.keys(groupFile?.LootTables)[e]].items)[j]}]\n`
-        //             count++
-        //         }
-        //     }
-        // }
-        // // console.log(Object.keys(groupFile.missions).length)
-        // // console.log(length)
-        // // if(groupFile.isVendor === 1){
-        // //     embed.addField(`Sells:`, vendorInfo, false)
-        // // }
-        // if(groupFile.isVendor === 1){
-        //     embed.addField(`Sells: [${groupFile.totalItemsSold}]`, vendorInfo, false)
-        // }
         try {
-            message.channel.send(embed)
+            message.channel.send("DM Sent.")
+            message.author.send(embed)
         }catch{
             err()
         }
