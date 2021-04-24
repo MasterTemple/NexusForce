@@ -3,12 +3,11 @@ module.exports = {
     description: 'Get Items From ID List',
     args: true,
     use: `items [id]`,
-    example: [`items 7415 7416 7417`],
+    example: [`items 7415`],
     execute(message, args) {
-        //command is mythran only to prevent spam/abuse, its useful when you want to look at a large number of IDs
         function err() {
             try {
-                const help = require(`./../mythranCommands/mythran`);
+                const help = require(`./help.js`);
                 help.execute(message, module.exports.name)
                 //console.log(`fail`)
                 return
@@ -21,9 +20,9 @@ module.exports = {
             err()
             return
         }
-        let itemFile = require(`./../commands/item`)
+        let itemFile = require(`./item.js`)
         for(let arg in args){
-            itemFile.execute(message, [args[arg]])
+            itemFile.execute(message, [args[arg], 'dm'])
         }
 
     }

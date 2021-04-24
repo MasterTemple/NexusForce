@@ -15,7 +15,7 @@ module.exports = {
                 console.error(error);
             }
         }
-        if(args.length > 1 || isNaN(args[0])){
+        if((args.length > 1 || isNaN(args[0])) && args[1] !== 'dm' ){
             let findOne = require(`./../functions/findOneItem.js`)
             var itemID = findOne.execute(args)
             if(itemID===undefined){
@@ -383,7 +383,11 @@ module.exports = {
         }
 
         try {
-            message.channel.send(embed)
+            if(args[1] !== 'dm') {
+                message.channel.send(embed)
+            }else if(args[1] === 'dm'){
+                message.author.send(embed)
+            }
         }catch{
             err()
         }
