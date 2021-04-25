@@ -38,6 +38,8 @@ module.exports = {
 
         var vendorInfo = ``
         var dropsSomething = false
+        let c = 0
+        let wasDMed = false
         for(var e=0;e<Object.keys(dropFile.buyAndDrop.LootMatrixIndexes).length;e++){
 
             // if(dropFile.buyAndDrop.LootMatrixIndexes[dropFile.buyAndDrop.LootMatrixIndexes[e]].displayName !== null) {
@@ -84,6 +86,21 @@ module.exports = {
                 dropsSomething = true
             }
 
+            if(embed.fields.length > 25){
+                message.author.send(embed)
+                embed = msgEmbed.execute(`${dropFile.itemInfo.displayName} [${dropFile.objectID}]`, undefined,`https://lu-explorer.web.app/objects/${dropFile.objectID}`, dropFile.iconURL)
+                wasDMed = true
+            }
+
+            c++
+            if(c === Object.keys(dropFile.buyAndDrop.LootMatrixIndexes).length && embed.fields.length !== 0 && wasDMed){
+                message.author.send(embed)
+                message.channel.send("Direct Messages Sent!")
+                //embed = msgEmbed.execute(`${dropFile.itemInfo.displayName} [${dropFile.objectID}]`, undefined,`https://lu-explorer.web.app/objects/${dropFile.objectID}`, dropFile.iconURL)
+            }else if(c === Object.keys(dropFile.buyAndDrop.LootMatrixIndexes).length && embed.fields.length !== 0){
+                message.channel.send(embed)
+            }
+
         }
 
         // if(dropFile.buyAndDrop.Vendors.length === 1){
@@ -99,6 +116,8 @@ module.exports = {
         // }
         if(!dropsSomething){
             embed.addField(`This Item Is Not Dropped`, "Try **!earn** or **!buy** to see how to unlock this item!", false)
+            message.channel.send(embed)
+
         }
 
 
@@ -106,7 +125,7 @@ module.exports = {
         //message.channel.send(`\`\`\`json\n${JSON.stringify(dropFile,null, 2)}\`\`\``)
 
         try {
-            message.channel.send(embed)
+            //message.channel.send(embed)
         }catch{
             err()
         }

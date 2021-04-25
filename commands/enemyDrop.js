@@ -1,6 +1,6 @@
 module.exports = {
     name: ['enemydrop', 'ed'],
-    description: 'See what drops an item',
+    description: 'See an enemy drops',
     args: true,
     use: `enemydrop [id]`,
     example: [`enemydrop 13102`],
@@ -62,6 +62,8 @@ module.exports = {
         // return
         var description = ``
         let config = require(`./../config.json`)
+        let c = 0
+        let wasDMed = false
         for(let p=0; p<dropFile.drop.LootTableIndexes.length;p++){
             if(dropFile.drop.LootTableIndexes[p].names.Name === null || dropFile.drop.LootTableIndexes[p].names.Name === undefined){
                 dropFile.drop.LootTableIndexes[p].names.Name = dropFile.drop.LootTableIndexes[p].names.AlternateName
@@ -85,7 +87,7 @@ module.exports = {
             //     //     arr.push(Object.keys(dropFile.drop.LootTableIndexes[p].rarityTableInfo)[k])
             //     // }
             // }
-
+            //let c = 0
             for(let k=0;k<Object.keys(dropFile.drop.LootTableIndexes[p].rarityCount).length;k++){
                 //console.log(k, dropFile.drop.LootTableIndexes[p].rarityCount[k])
                 if(dropFile.drop.LootTableIndexes[p].rarityCount[k] > 0) {
@@ -123,21 +125,38 @@ module.exports = {
             }else{
                 description = `${description}\n`
 
+
+            }
+            if(description.length > 1900){
+                let embed = msgEmbed.execute(`${dropFile.itemInfo.displayName} [${dropFile.objectID}]`, description,`https://lu-explorer.web.app/objects/${dropFile.objectID}`, dropFile.iconURL)
+                message.author.send(embed)
+                description = ''
+                wasDMed = true
+            }
+            c++
+            if(c === dropFile.drop.LootTableIndexes.length && description !== '' && wasDMed){
+                let embed = msgEmbed.execute(`${dropFile.itemInfo.displayName} [${dropFile.objectID}]`, description,`https://lu-explorer.web.app/objects/${dropFile.objectID}`, dropFile.iconURL)
+                message.author.send(embed)
+                message.channel.send("Direct Messages Sent!")
+            }else if(c === dropFile.drop.LootTableIndexes.length && description !== ''){
+                let embed = msgEmbed.execute(`${dropFile.itemInfo.displayName} [${dropFile.objectID}]`, description,`https://lu-explorer.web.app/objects/${dropFile.objectID}`, dropFile.iconURL)
+                message.channel.send(embed)
             }
 
         }
-        let embed = msgEmbed.execute(`${dropFile.itemInfo.displayName} [${dropFile.objectID}]`, description,`https://lu-explorer.web.app/objects/${dropFile.objectID}`, dropFile.iconURL)
-        //console.log(description)
 
-
-
-        //message.channel.send(`\`\`\`json\n${JSON.stringify(dropFile,null, 2)}\`\`\``)
-
-        try {
-            message.channel.send(embed)
-        }catch{
-            err()
-        }
+        // let embed = msgEmbed.execute(`${dropFile.itemInfo.displayName} [${dropFile.objectID}]`, description,`https://lu-explorer.web.app/objects/${dropFile.objectID}`, dropFile.iconURL)
+        // //console.log(description)
+        //
+        //
+        //
+        // //message.channel.send(`\`\`\`json\n${JSON.stringify(dropFile,null, 2)}\`\`\``)
+        //
+        // try {
+        //     message.channel.send(embed)
+        // }catch{
+        //     err()
+        // }
 
     }
 }
