@@ -79,6 +79,8 @@ Nexus Force LEGO Universe Bot
 ![img_8.png](src/img_8.png)
 # !npc
 ![img_9.png](src/img_9.png)
+# !preconditions
+![img_15.png](src/img_15.png)
 # !group
 ![img_19.png](src/img_19.png)
 # !skill
