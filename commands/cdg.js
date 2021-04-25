@@ -1,5 +1,5 @@
 module.exports = {
-    name: ['cdg'],
+    name: ['cdg', 'group', 'cooldowngroup'],
     description: 'Get information about a cooldown group in LEGO Universe',
     args: true,
     use: `cdg [id]`,
@@ -17,16 +17,16 @@ module.exports = {
         }
 
         const cdgID = args[0]
-        message.channel.send(`This command is not ready.`)
-        return
+        // message.channel.send(`This command is not ready.`)
+        // return
         try {
-            var CDGFile = require(`./../output/cooldowngroup/${cooldowngroup}.json`)
+            var CDGFile = require(`./../output/cooldowngroup/${cdgID}.json`)
         }catch(e){
-            message.channel.send(`Cooldown Group ${args[0]} this does not exist.`)
+            message.channel.send(`Cooldown Group ${cdgID} this does not exist.`)
             err()
             return
         }
-        //console.log(skillData)
+        //console.log(CDGFile)
         //return
 
 
@@ -37,72 +37,82 @@ module.exports = {
 
         let desc = ``
 
-        // if(skillData.imaginationCost !== null && skillData.cooldownTime !== null){
-        //     desc = `${desc}Imagination Cost: **${skillData.imaginationCost}**\nCooldown Time: **${skillData.cooldownTime}** Seconds\n`
+        // if(CDGFile.imaginationCost !== null && CDGFile.cooldownTime !== null){
+        //     desc = `${desc}Imagination Cost: **${CDGFile.imaginationCost}**\nCooldown Time: **${CDGFile.cooldownTime}** Seconds\n`
         // }
-        // if(skillData.imBonusUI !== null){
-        //     desc = `${desc}Imagination Bonus: **${skillData.imBonusUI}**\n`
+        // if(CDGFile.imBonusUI !== null){
+        //     desc = `${desc}Imagination Bonus: **${CDGFile.imBonusUI}**\n`
         // }
-        // if(skillData.armorBonusUI !== null){
-        //     desc = `${desc}Armor Bonus: **${skillData.armorBonusUI}**\n`
+        // if(CDGFile.armorBonusUI !== null){
+        //     desc = `${desc}Armor Bonus: **${CDGFile.armorBonusUI}**\n`
         // }
-        // if(skillData.lifeBonusUI !== null){
-        //     desc = `${desc}Life Bonus: **${skillData.lifeBonusUI}**\n`
+        // if(CDGFile.lifeBonusUI !== null){
+        //     desc = `${desc}Life Bonus: **${CDGFile.lifeBonusUI}**\n`
         // }
 
         let embedArray = []
 
         let field1 = ''
         let field2 = ''
+        let field3 = ''
+
         let side = 0
         let total = 0
-        Object.keys(skillData.items).forEach(function(element, key, _array){
-            if(skillData.items[element].displayName !== undefined || skillData.items[element].name !== undefined) {
-                let name
-                if(skillData.items[element].displayName === ""){
-                    name = skillData.items[element].name
-                }else{
-                    name = skillData.items[element].displayName
-                }
+        Object.keys(CDGFile.skillIDs).forEach(function(element, key, _array){
+            //if(CDGFile.skillIDs[element].displayName !== undefined || CDGFile.skillIDs[element].name !== undefined) {
+                // let name
+                // if(CDGFile.skillIDs[element].displayName === ""){
+                //     name = CDGFile.skillIDs[element].name
+                // }else{
+                //     name = CDGFile.skillIDs[element].displayName
+                // }
 
-                if (side % 2 === 0) {
-                    field1 = `${field1}**${name}** [${element}]\n`
-                } else {
-                    field2 = `${field2}**${name}** [${element}]\n`
+                if (side % 3 === 0) {
+                    field1 = `${field1}SkillID: [**${element}**]\n`
+                } else if(side % 3 === 1) {
+                    field2 = `${field2}SkillID: [**${element}**]\n`
+                } else{
+                    field3 = `${field3}SkillID: [**${element}**]\n`
                 }
                 side++
-            }
+            //}
             total++
             if(field1.length > 950 || field2.length > 950){
                 embedArray.push({
                     "field1": field1,
                     "field2": field2,
+                    "field3": field3,
                 })
                 field1 = ''
                 field2 = ''
                 side = 0
             }
-            if(Object.keys(skillData.items).length === total){
+            if(Object.keys(CDGFile.skillIDs).length === total){
                 embedArray.push({
                     "field1": field1,
                     "field2": field2,
+                    "field3": field3,
                 })
             }
         })
         let num = 1
         embedArray.forEach(function(e){
-            let embed = msgEmbed.execute(`SkillID: ${cdgID} (${num})`, desc,`https://lu-explorer.web.app/skills/${cdgID}`, uIcon)
+            let embed = msgEmbed.execute(`Cooldown Group: ${cdgID}`, desc,`https://lu-explorer.web.app/dashboard`, uIcon)
 
-            embed.addField("Items:", e.field1, true)
+            embed.addField("Skills:", e.field1, true)
             if(e.field2 === ''){
                 e.field2 = invisChar
             }
             embed.addField(invisChar, e.field2, true)
+            embed.addField(invisChar, e.field3, true)
+            embed.addField(invisChar, "**Try !skill [skillID] to view all items with a skill ID**", true)
+
             if(embedArray.length === 1 && e.field1.length < 512){
                 message.channel.send(embed)
             }else {
                 message.author.send(embed)
             }
+
             num++
         })
         if(embedArray.length > 1){

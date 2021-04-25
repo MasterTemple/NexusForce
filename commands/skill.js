@@ -1,6 +1,6 @@
 module.exports = {
     name: ['skill'],
-    description: 'Get information about a skill in LEGO Universe',
+    description: 'Get all objects by its skill in LEGO Universe',
     args: true,
     use: `skill [id]`,
     example: [`skill 550`],
@@ -32,7 +32,7 @@ module.exports = {
         //return
 
 
-        const {invisChar} = require('./../config.json');
+        const {invisChar, emojis} = require('./../config.json');
 
         let msgEmbed = require(`./../functions/embedTemplate.js`)
         let uIcon = "https://images-ext-1.discordapp.net/external/yeozIqZ6L5llPU2kUINa2Y5agdt4reO0KN1Q1YAjAOQ/%3Fcb%3D20121121213649/https/static.wikia.nocookie.net/legomessageboards/images/c/ce/LU2.png/revision/latest"
@@ -40,16 +40,16 @@ module.exports = {
         let desc = ``
 
         if(skillData.imaginationCost !== null && skillData.cooldownTime !== null){
-            desc = `${desc}Imagination Cost: **${skillData.imaginationCost}**\nCooldown Time: **${skillData.cooldownTime}** Seconds\n`
+            desc = `${desc}Imagination Cost: **${skillData.imaginationCost}** ${emojis.imagination}\nCooldown Time: **${skillData.cooldownTime}** Seconds\n`
         }
         if(skillData.imBonusUI !== null){
-            desc = `${desc}Imagination Bonus: **${skillData.imBonusUI}**\n`
+            desc = `${desc}Bonus: **${skillData.imBonusUI}** ${emojis.imagination}\n`
         }
         if(skillData.armorBonusUI !== null){
-            desc = `${desc}Armor Bonus: **${skillData.armorBonusUI}**\n`
+            desc = `${desc}Bonus: **${skillData.armorBonusUI}** ${emojis.armor}\n`
         }
         if(skillData.lifeBonusUI !== null){
-            desc = `${desc}Life Bonus: **${skillData.lifeBonusUI}**\n`
+            desc = `${desc}Bonus: **${skillData.lifeBonusUI}** ${emojis.heart}\n`
         }
 
         let embedArray = []
@@ -100,6 +100,7 @@ module.exports = {
                 e.field2 = invisChar
             }
             embed.addField(invisChar, e.field2, true)
+
             if(embedArray.length === 1 && e.field1.length < 512){
                 message.channel.send(embed)
             }else {
