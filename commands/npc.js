@@ -3,7 +3,7 @@ module.exports = {
     description: 'Get information about an NPC',
     args: true,
     use: `npc [id]`,
-    example: [`npc 7570`],
+    example: ['npc sky lane', `npc 5997`],
     execute(message, args) {
         function err() {
             try {

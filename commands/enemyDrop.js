@@ -3,7 +3,7 @@ module.exports = {
     description: 'See what an enemy drops',
     args: true,
     use: `enemydrop [id]`,
-    example: [`enemydrop 13102`],
+    example: [`enemydrop GF admiral`, `enemydrop 6789`],
     execute(message, args) {
         function err() {
             try {

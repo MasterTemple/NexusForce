@@ -1,9 +1,9 @@
 module.exports = {
     name: ['activity'],
-    description: 'See what an activitys',
+    description: 'See what an activity drops',
     args: true,
-    use: `activity [id]`,
-    example: [`activity 13102`],
+    use: `activity [name]`,
+    example: [`activity Frakjaw 1 Player`],
     execute(message, args) {
         function err() {
             try {

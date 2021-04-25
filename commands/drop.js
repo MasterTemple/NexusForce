@@ -2,8 +2,8 @@ module.exports = {
     name: ['drop'],
     description: 'See what drops an item',
     args: true,
-    use: `drop [id]`,
-    example: [`drop 7570`],
+    use: `drop [name or ID]`,
+    example: ['drop red parrot', `drop 7570`],
     execute(message, args) {
         function err() {
             try {

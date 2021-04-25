@@ -1,6 +1,6 @@
 module.exports = {
     name: ['package', 'p'],
-    description: 'See what packages an item',
+    description: 'See what is in a package',
     args: true,
     use: `package [id]`,
     example: [`package 13102`],

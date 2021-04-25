@@ -2,8 +2,8 @@ module.exports = {
     name: ['earn'],
     description: 'See where to earn an item',
     args: true,
-    use: `earn [id]`,
-    example: [`earn 7570`],
+    use: `earn [name or ID]`,
+    example: ['earn blue parrot', `earn 6792`],
     execute(message, args) {
         function err() {
             try {

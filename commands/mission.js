@@ -2,8 +2,8 @@ module.exports = {
     name: ['mission', 'achievement'],
     description: 'Get information/rewards of a mission or achievement',
     args: true,
-    use: `mission [id]`,
-    example: [`mission 7570`],
+    use: `mission [name or ID]`,
+    example: ['mission Prove Yarrr Self', `mission 301`],
     execute(message, args) {
         function err() {
             try {
