@@ -1,0 +1,10 @@
+{
+    "id": 12,
+    "activities": {
+        "Empty quickbuilds": {
+            "LootMatrixIndex": null,
+            "CurrencyIndex": null,
+            "LootTableIndexes": []
+        }
+    }
+}

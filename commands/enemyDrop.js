@@ -1,6 +1,6 @@
 module.exports = {
     name: ['enemydrop', 'ed'],
-    description: 'See an enemy drops',
+    description: 'See what an enemy drops',
     args: true,
     use: `enemydrop [id]`,
     example: [`enemydrop 13102`],

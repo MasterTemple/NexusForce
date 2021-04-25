@@ -1,0 +1,366 @@
+{
+    "id": 1864,
+    "activities": {
+        "GF Shooting Gallery Rating 0": {
+            "LootMatrixIndex": 359,
+            "CurrencyIndex": null,
+            "LootTableIndexes": []
+        },
+        "GF Shooting Gallery Rating 2": {
+            "LootMatrixIndex": 624,
+            "CurrencyIndex": 16,
+            "LootTableIndexes": [
+                {
+                    "LootTableIndex": 670,
+                    "RarityTableIndex": 23,
+                    "percent": 100.0,
+                    "minToDrop": 3,
+                    "maxToDrop": 3,
+                    "size": 1,
+                    "names": {
+                        "LootTableIndex": "670",
+                        "Type": "Loot",
+                        "Name": "Faction Token Proxy"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 86,
+                            "randmax": 100.0,
+                            "rarity": 1,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 1.0,
+                            "weightedChanceForAnyItemIncludingDrop": 1.0,
+                            "weightedChanceForSpecificItemIncludingDrop": 1.0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 1,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                }
+            ]
+        },
+        "GF Shooting Gallery Rating 5": {
+            "LootMatrixIndex": 362,
+            "CurrencyIndex": 17,
+            "LootTableIndexes": [
+                {
+                    "LootTableIndex": 670,
+                    "RarityTableIndex": 23,
+                    "percent": 100.0,
+                    "minToDrop": 7,
+                    "maxToDrop": 7,
+                    "size": 1,
+                    "names": {
+                        "LootTableIndex": "670",
+                        "Type": "Loot",
+                        "Name": "Faction Token Proxy"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 86,
+                            "randmax": 100.0,
+                            "rarity": 1,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 1.0,
+                            "weightedChanceForAnyItemIncludingDrop": 1.0,
+                            "weightedChanceForSpecificItemIncludingDrop": 1.0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 1,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                }
+            ]
+        },
+        "GF Shooting Gallery Rating 6": {
+            "LootMatrixIndex": 363,
+            "CurrencyIndex": 18,
+            "LootTableIndexes": [
+                {
+                    "LootTableIndex": 670,
+                    "RarityTableIndex": 23,
+                    "percent": 100.0,
+                    "minToDrop": 8,
+                    "maxToDrop": 8,
+                    "size": 1,
+                    "names": {
+                        "LootTableIndex": "670",
+                        "Type": "Loot",
+                        "Name": "Faction Token Proxy"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 86,
+                            "randmax": 100.0,
+                            "rarity": 1,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 1.0,
+                            "weightedChanceForAnyItemIncludingDrop": 1.0,
+                            "weightedChanceForSpecificItemIncludingDrop": 1.0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 1,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                }
+            ]
+        },
+        "GF Shooting Gallery Rating 7": {
+            "LootMatrixIndex": 364,
+            "CurrencyIndex": 19,
+            "LootTableIndexes": [
+                {
+                    "LootTableIndex": 670,
+                    "RarityTableIndex": 23,
+                    "percent": 100.0,
+                    "minToDrop": 9,
+                    "maxToDrop": 9,
+                    "size": 1,
+                    "names": {
+                        "LootTableIndex": "670",
+                        "Type": "Loot",
+                        "Name": "Faction Token Proxy"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 86,
+                            "randmax": 100.0,
+                            "rarity": 1,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 1.0,
+                            "weightedChanceForAnyItemIncludingDrop": 1.0,
+                            "weightedChanceForSpecificItemIncludingDrop": 1.0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 1,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                }
+            ]
+        },
+        "GF Shooting Gallery Rating 8": {
+            "LootMatrixIndex": 365,
+            "CurrencyIndex": 20,
+            "LootTableIndexes": [
+                {
+                    "LootTableIndex": 670,
+                    "RarityTableIndex": 23,
+                    "percent": 100.0,
+                    "minToDrop": 10,
+                    "maxToDrop": 10,
+                    "size": 1,
+                    "names": {
+                        "LootTableIndex": "670",
+                        "Type": "Loot",
+                        "Name": "Faction Token Proxy"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 86,
+                            "randmax": 100.0,
+                            "rarity": 1,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 1.0,
+                            "weightedChanceForAnyItemIncludingDrop": 1.0,
+                            "weightedChanceForSpecificItemIncludingDrop": 1.0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 1,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                }
+            ]
+        },
+        "GF Shooting Gallery Rating 9": {
+            "LootMatrixIndex": 366,
+            "CurrencyIndex": 21,
+            "LootTableIndexes": [
+                {
+                    "LootTableIndex": 670,
+                    "RarityTableIndex": 23,
+                    "percent": 100.0,
+                    "minToDrop": 11,
+                    "maxToDrop": 11,
+                    "size": 1,
+                    "names": {
+                        "LootTableIndex": "670",
+                        "Type": "Loot",
+                        "Name": "Faction Token Proxy"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 86,
+                            "randmax": 100.0,
+                            "rarity": 1,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 1.0,
+                            "weightedChanceForAnyItemIncludingDrop": 1.0,
+                            "weightedChanceForSpecificItemIncludingDrop": 1.0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 1,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                }
+            ]
+        },
+        "GF Shooting Gallery Rating 10": {
+            "LootMatrixIndex": 367,
+            "CurrencyIndex": 22,
+            "LootTableIndexes": [
+                {
+                    "LootTableIndex": 670,
+                    "RarityTableIndex": 23,
+                    "percent": 100.0,
+                    "minToDrop": 11,
+                    "maxToDrop": 11,
+                    "size": 1,
+                    "names": {
+                        "LootTableIndex": "670",
+                        "Type": "Loot",
+                        "Name": "Faction Token Proxy"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 86,
+                            "randmax": 100.0,
+                            "rarity": 1,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 1.0,
+                            "weightedChanceForAnyItemIncludingDrop": 1.0,
+                            "weightedChanceForSpecificItemIncludingDrop": 1.0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 1,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                }
+            ]
+        },
+        "GF Shooting Gallery Rating 4": {
+            "LootMatrixIndex": 360,
+            "CurrencyIndex": 54,
+            "LootTableIndexes": [
+                {
+                    "LootTableIndex": 670,
+                    "RarityTableIndex": 23,
+                    "percent": 100.0,
+                    "minToDrop": 6,
+                    "maxToDrop": 6,
+                    "size": 1,
+                    "names": {
+                        "LootTableIndex": "670",
+                        "Type": "Loot",
+                        "Name": "Faction Token Proxy"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 86,
+                            "randmax": 100.0,
+                            "rarity": 1,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 1.0,
+                            "weightedChanceForAnyItemIncludingDrop": 1.0,
+                            "weightedChanceForSpecificItemIncludingDrop": 1.0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 1,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                }
+            ]
+        },
+        "GF Shooting Gallery Rating 3": {
+            "LootMatrixIndex": 625,
+            "CurrencyIndex": 53,
+            "LootTableIndexes": [
+                {
+                    "LootTableIndex": 670,
+                    "RarityTableIndex": 23,
+                    "percent": 100.0,
+                    "minToDrop": 5,
+                    "maxToDrop": 5,
+                    "size": 1,
+                    "names": {
+                        "LootTableIndex": "670",
+                        "Type": "Loot",
+                        "Name": "Faction Token Proxy"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 86,
+                            "randmax": 100.0,
+                            "rarity": 1,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 1.0,
+                            "weightedChanceForAnyItemIncludingDrop": 1.0,
+                            "weightedChanceForSpecificItemIncludingDrop": 1.0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 1,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                }
+            ]
+        },
+        "GF Shooting Gallery Rating 1": {
+            "LootMatrixIndex": 359,
+            "CurrencyIndex": 56,
+            "LootTableIndexes": []
+        }
+    }
+}

@@ -1,0 +1,2977 @@
+{
+    "id": 11279,
+    "activities": {
+        "GF Wishing Well 1": {
+            "LootMatrixIndex": 566,
+            "CurrencyIndex": 88,
+            "LootTableIndexes": [
+                {
+                    "LootTableIndex": 103,
+                    "RarityTableIndex": 4,
+                    "percent": 35.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 40,
+                    "names": {
+                        "LootTableIndex": "103",
+                        "Type": "Loot",
+                        "Name": "GF Consumables",
+                        "AlternateName": "GF Consumable Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.026786,
+                            "weightedChanceForAnyItemIncludingDrop": 0.2625,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.009375
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0,
+                            "weightedChanceForSpecificItem": 0.03,
+                            "weightedChanceForAnyItemIncludingDrop": 0.0525,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.0105
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0,
+                            "weightedChanceForSpecificItem": 0.01,
+                            "weightedChanceForAnyItemIncludingDrop": 0.007,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.0035
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 8.0,
+                            "weightedChanceForSpecificItem": 0.016,
+                            "weightedChanceForAnyItemIncludingDrop": 0.028,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.0056
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 28,
+                        "2": 5,
+                        "3": 5,
+                        "4": 2,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 88,
+                    "RarityTableIndex": 9,
+                    "percent": 10.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 1,
+                    "names": {
+                        "LootTableIndex": "88",
+                        "Type": "Loot",
+                        "Name": "Maelstrom Infected Brick",
+                        "AlternateName": "Maelstrom-Infected Brick"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 37,
+                            "randmax": 100.0,
+                            "rarity": 1,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 1.0,
+                            "weightedChanceForAnyItemIncludingDrop": 0.1,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.1
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 1,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 243,
+                    "RarityTableIndex": 19,
+                    "percent": 100.0,
+                    "minToDrop": 2,
+                    "maxToDrop": 3,
+                    "size": 307,
+                    "names": {
+                        "LootTableIndex": "243",
+                        "Type": "LEGO brick",
+                        "AlternateName": "LEGO Bricks"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 66,
+                            "randmax": 70.0,
+                            "rarity": 1,
+                            "chance": 70.0,
+                            "weightedChance": 70.0,
+                            "weightedChanceForSpecificItem": 0.00228,
+                            "weightedChanceForAnyItemIncludingDrop": 0.7,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.00228
+                        },
+                        "2": {
+                            "id": 68,
+                            "randmax": 100.0,
+                            "rarity": 2,
+                            "chance": 30.0,
+                            "weightedChance": 0,
+                            "weightedChanceForSpecificItem": 0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 307,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 105,
+                    "RarityTableIndex": 4,
+                    "percent": 5.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 95,
+                    "names": {
+                        "LootTableIndex": "105",
+                        "Type": "Loot",
+                        "Name": "GF Models",
+                        "AlternateName": "GF Model Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.019231,
+                            "weightedChanceForAnyItemIncludingDrop": 0.0375,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.000962
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0,
+                            "weightedChanceForSpecificItem": 0.0075,
+                            "weightedChanceForAnyItemIncludingDrop": 0.0075,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.000375
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0,
+                            "weightedChanceForSpecificItem": 0.003333,
+                            "weightedChanceForAnyItemIncludingDrop": 0.001,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.000167
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 8.0,
+                            "weightedChanceForSpecificItem": 0.002857,
+                            "weightedChanceForAnyItemIncludingDrop": 0.004,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.000143
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 39,
+                        "2": 20,
+                        "3": 28,
+                        "4": 6,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 191,
+                    "RarityTableIndex": 4,
+                    "percent": 1.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 639,
+                    "names": {
+                        "LootTableIndex": "191",
+                        "Type": "Loot",
+                        "Name": "Basic Shirts",
+                        "AlternateName": "Creation Shirts",
+                        "isVendor": "1",
+                        "vendorID": "3917"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.001174,
+                            "weightedChanceForAnyItemIncludingDrop": 0.0075,
+                            "weightedChanceForSpecificItemIncludingDrop": 1.2e-05
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 0,
+                            "weightedChanceForSpecificItem": 0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 639,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 192,
+                    "RarityTableIndex": 4,
+                    "percent": 1.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 16,
+                    "names": {
+                        "LootTableIndex": "192",
+                        "Type": "Loot",
+                        "Name": "Basic Pants",
+                        "AlternateName": "Creation Pants"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.046875,
+                            "weightedChanceForAnyItemIncludingDrop": 0.0075,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.000469
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 0,
+                            "weightedChanceForSpecificItem": 0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 16,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                }
+            ]
+        },
+        "GF Wishing Well 2": {
+            "LootMatrixIndex": 567,
+            "CurrencyIndex": 89,
+            "LootTableIndexes": [
+                {
+                    "LootTableIndex": 102,
+                    "RarityTableIndex": 29,
+                    "percent": 1.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 24,
+                    "names": {
+                        "LootTableIndex": "102",
+                        "Type": "Loot",
+                        "Name": "GF Weapons",
+                        "AlternateName": "GF Weapon Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 95,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.09375,
+                            "weightedChanceForAnyItemIncludingDrop": 0.0075,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.000937
+                        },
+                        "2": {
+                            "id": 96,
+                            "randmax": 100.0,
+                            "rarity": 2,
+                            "chance": 25.0,
+                            "weightedChance": 25.0,
+                            "weightedChanceForSpecificItem": 0.035714,
+                            "weightedChanceForAnyItemIncludingDrop": 0.0025,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.000357
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 8,
+                        "2": 7,
+                        "3": 9,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 103,
+                    "RarityTableIndex": 4,
+                    "percent": 50.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 40,
+                    "names": {
+                        "LootTableIndex": "103",
+                        "Type": "Loot",
+                        "Name": "GF Consumables",
+                        "AlternateName": "GF Consumable Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.026786,
+                            "weightedChanceForAnyItemIncludingDrop": 0.375,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.013393
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0,
+                            "weightedChanceForSpecificItem": 0.03,
+                            "weightedChanceForAnyItemIncludingDrop": 0.075,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.015
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0,
+                            "weightedChanceForSpecificItem": 0.01,
+                            "weightedChanceForAnyItemIncludingDrop": 0.01,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.005
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 8.0,
+                            "weightedChanceForSpecificItem": 0.016,
+                            "weightedChanceForAnyItemIncludingDrop": 0.04,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.008
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 28,
+                        "2": 5,
+                        "3": 5,
+                        "4": 2,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 88,
+                    "RarityTableIndex": 9,
+                    "percent": 25.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 1,
+                    "names": {
+                        "LootTableIndex": "88",
+                        "Type": "Loot",
+                        "Name": "Maelstrom Infected Brick",
+                        "AlternateName": "Maelstrom-Infected Brick"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 37,
+                            "randmax": 100.0,
+                            "rarity": 1,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 1.0,
+                            "weightedChanceForAnyItemIncludingDrop": 0.25,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.25
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 1,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 243,
+                    "RarityTableIndex": 19,
+                    "percent": 100.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 2,
+                    "size": 307,
+                    "names": {
+                        "LootTableIndex": "243",
+                        "Type": "LEGO brick",
+                        "AlternateName": "LEGO Bricks"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 66,
+                            "randmax": 70.0,
+                            "rarity": 1,
+                            "chance": 70.0,
+                            "weightedChance": 70.0,
+                            "weightedChanceForSpecificItem": 0.00228,
+                            "weightedChanceForAnyItemIncludingDrop": 0.7,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.00228
+                        },
+                        "2": {
+                            "id": 68,
+                            "randmax": 100.0,
+                            "rarity": 2,
+                            "chance": 30.0,
+                            "weightedChance": 0,
+                            "weightedChanceForSpecificItem": 0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 307,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 105,
+                    "RarityTableIndex": 4,
+                    "percent": 10.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 95,
+                    "names": {
+                        "LootTableIndex": "105",
+                        "Type": "Loot",
+                        "Name": "GF Models",
+                        "AlternateName": "GF Model Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.019231,
+                            "weightedChanceForAnyItemIncludingDrop": 0.075,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.001923
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0,
+                            "weightedChanceForSpecificItem": 0.0075,
+                            "weightedChanceForAnyItemIncludingDrop": 0.015,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.00075
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0,
+                            "weightedChanceForSpecificItem": 0.003333,
+                            "weightedChanceForAnyItemIncludingDrop": 0.002,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.000333
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 8.0,
+                            "weightedChanceForSpecificItem": 0.002857,
+                            "weightedChanceForAnyItemIncludingDrop": 0.008,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.000286
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 39,
+                        "2": 20,
+                        "3": 28,
+                        "4": 6,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 191,
+                    "RarityTableIndex": 4,
+                    "percent": 2.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 639,
+                    "names": {
+                        "LootTableIndex": "191",
+                        "Type": "Loot",
+                        "Name": "Basic Shirts",
+                        "AlternateName": "Creation Shirts",
+                        "isVendor": "1",
+                        "vendorID": "3917"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.001174,
+                            "weightedChanceForAnyItemIncludingDrop": 0.015,
+                            "weightedChanceForSpecificItemIncludingDrop": 2.3e-05
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 0,
+                            "weightedChanceForSpecificItem": 0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 639,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 192,
+                    "RarityTableIndex": 4,
+                    "percent": 2.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 16,
+                    "names": {
+                        "LootTableIndex": "192",
+                        "Type": "Loot",
+                        "Name": "Basic Pants",
+                        "AlternateName": "Creation Pants"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.046875,
+                            "weightedChanceForAnyItemIncludingDrop": 0.015,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.000937
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 0,
+                            "weightedChanceForSpecificItem": 0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 16,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 104,
+                    "RarityTableIndex": 29,
+                    "percent": 1.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 31,
+                    "names": {
+                        "LootTableIndex": "104",
+                        "Type": "Loot",
+                        "Name": "GF Rares",
+                        "AlternateName": "GF Gear Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 95,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0
+                        },
+                        "2": {
+                            "id": 96,
+                            "randmax": 100.0,
+                            "rarity": 2,
+                            "chance": 25.0,
+                            "weightedChance": 25.0,
+                            "weightedChanceForSpecificItem": 0.022727,
+                            "weightedChanceForAnyItemIncludingDrop": 0.0025,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.000227
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 0,
+                        "2": 11,
+                        "3": 13,
+                        "4": 7,
+                        "5": 0
+                    },
+                    "total": 100
+                }
+            ]
+        },
+        "GF Wishing Well 3": {
+            "LootMatrixIndex": 568,
+            "CurrencyIndex": 90,
+            "LootTableIndexes": [
+                {
+                    "LootTableIndex": 102,
+                    "RarityTableIndex": 29,
+                    "percent": 5.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 24,
+                    "names": {
+                        "LootTableIndex": "102",
+                        "Type": "Loot",
+                        "Name": "GF Weapons",
+                        "AlternateName": "GF Weapon Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 95,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.09375,
+                            "weightedChanceForAnyItemIncludingDrop": 0.0375,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.004688
+                        },
+                        "2": {
+                            "id": 96,
+                            "randmax": 100.0,
+                            "rarity": 2,
+                            "chance": 25.0,
+                            "weightedChance": 25.0,
+                            "weightedChanceForSpecificItem": 0.035714,
+                            "weightedChanceForAnyItemIncludingDrop": 0.0125,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.001786
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 8,
+                        "2": 7,
+                        "3": 9,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 88,
+                    "RarityTableIndex": 9,
+                    "percent": 45.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 2,
+                    "size": 1,
+                    "names": {
+                        "LootTableIndex": "88",
+                        "Type": "Loot",
+                        "Name": "Maelstrom Infected Brick",
+                        "AlternateName": "Maelstrom-Infected Brick"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 37,
+                            "randmax": 100.0,
+                            "rarity": 1,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 1.0,
+                            "weightedChanceForAnyItemIncludingDrop": 0.45,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.45
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 1,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 243,
+                    "RarityTableIndex": 19,
+                    "percent": 100.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 5,
+                    "size": 307,
+                    "names": {
+                        "LootTableIndex": "243",
+                        "Type": "LEGO brick",
+                        "AlternateName": "LEGO Bricks"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 66,
+                            "randmax": 70.0,
+                            "rarity": 1,
+                            "chance": 70.0,
+                            "weightedChance": 70.0,
+                            "weightedChanceForSpecificItem": 0.00228,
+                            "weightedChanceForAnyItemIncludingDrop": 0.7,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.00228
+                        },
+                        "2": {
+                            "id": 68,
+                            "randmax": 100.0,
+                            "rarity": 2,
+                            "chance": 30.0,
+                            "weightedChance": 0,
+                            "weightedChanceForSpecificItem": 0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 307,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 105,
+                    "RarityTableIndex": 4,
+                    "percent": 15.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 95,
+                    "names": {
+                        "LootTableIndex": "105",
+                        "Type": "Loot",
+                        "Name": "GF Models",
+                        "AlternateName": "GF Model Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.019231,
+                            "weightedChanceForAnyItemIncludingDrop": 0.1125,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.002885
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0,
+                            "weightedChanceForSpecificItem": 0.0075,
+                            "weightedChanceForAnyItemIncludingDrop": 0.0225,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.001125
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0,
+                            "weightedChanceForSpecificItem": 0.003333,
+                            "weightedChanceForAnyItemIncludingDrop": 0.003,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.0005
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 8.0,
+                            "weightedChanceForSpecificItem": 0.002857,
+                            "weightedChanceForAnyItemIncludingDrop": 0.012,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.000429
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 39,
+                        "2": 20,
+                        "3": 28,
+                        "4": 6,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 104,
+                    "RarityTableIndex": 29,
+                    "percent": 5.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 31,
+                    "names": {
+                        "LootTableIndex": "104",
+                        "Type": "Loot",
+                        "Name": "GF Rares",
+                        "AlternateName": "GF Gear Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 95,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0
+                        },
+                        "2": {
+                            "id": 96,
+                            "randmax": 100.0,
+                            "rarity": 2,
+                            "chance": 25.0,
+                            "weightedChance": 25.0,
+                            "weightedChanceForSpecificItem": 0.022727,
+                            "weightedChanceForAnyItemIncludingDrop": 0.0125,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.001136
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 0,
+                        "2": 11,
+                        "3": 13,
+                        "4": 7,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 103,
+                    "RarityTableIndex": 4,
+                    "percent": 75.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 40,
+                    "names": {
+                        "LootTableIndex": "103",
+                        "Type": "Loot",
+                        "Name": "GF Consumables",
+                        "AlternateName": "GF Consumable Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.026786,
+                            "weightedChanceForAnyItemIncludingDrop": 0.5625,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.020089
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0,
+                            "weightedChanceForSpecificItem": 0.03,
+                            "weightedChanceForAnyItemIncludingDrop": 0.1125,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.0225
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0,
+                            "weightedChanceForSpecificItem": 0.01,
+                            "weightedChanceForAnyItemIncludingDrop": 0.015,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.0075
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 8.0,
+                            "weightedChanceForSpecificItem": 0.016,
+                            "weightedChanceForAnyItemIncludingDrop": 0.06,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.012
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 28,
+                        "2": 5,
+                        "3": 5,
+                        "4": 2,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 191,
+                    "RarityTableIndex": 4,
+                    "percent": 3.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 639,
+                    "names": {
+                        "LootTableIndex": "191",
+                        "Type": "Loot",
+                        "Name": "Basic Shirts",
+                        "AlternateName": "Creation Shirts",
+                        "isVendor": "1",
+                        "vendorID": "3917"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.001174,
+                            "weightedChanceForAnyItemIncludingDrop": 0.0225,
+                            "weightedChanceForSpecificItemIncludingDrop": 3.5e-05
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 0,
+                            "weightedChanceForSpecificItem": 0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 639,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 192,
+                    "RarityTableIndex": 4,
+                    "percent": 3.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 16,
+                    "names": {
+                        "LootTableIndex": "192",
+                        "Type": "Loot",
+                        "Name": "Basic Pants",
+                        "AlternateName": "Creation Pants"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.046875,
+                            "weightedChanceForAnyItemIncludingDrop": 0.0225,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.001406
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 0,
+                            "weightedChanceForSpecificItem": 0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 16,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 670,
+                    "RarityTableIndex": 23,
+                    "percent": 75.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 1,
+                    "names": {
+                        "LootTableIndex": "670",
+                        "Type": "Loot",
+                        "Name": "Faction Token Proxy"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 86,
+                            "randmax": 100.0,
+                            "rarity": 1,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 1.0,
+                            "weightedChanceForAnyItemIncludingDrop": 0.75,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.75
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 1,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                }
+            ]
+        },
+        "GF Wishing Well 4": {
+            "LootMatrixIndex": 569,
+            "CurrencyIndex": 91,
+            "LootTableIndexes": [
+                {
+                    "LootTableIndex": 102,
+                    "RarityTableIndex": 29,
+                    "percent": 10.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 24,
+                    "names": {
+                        "LootTableIndex": "102",
+                        "Type": "Loot",
+                        "Name": "GF Weapons",
+                        "AlternateName": "GF Weapon Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 95,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.09375,
+                            "weightedChanceForAnyItemIncludingDrop": 0.075,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.009375
+                        },
+                        "2": {
+                            "id": 96,
+                            "randmax": 100.0,
+                            "rarity": 2,
+                            "chance": 25.0,
+                            "weightedChance": 25.0,
+                            "weightedChanceForSpecificItem": 0.035714,
+                            "weightedChanceForAnyItemIncludingDrop": 0.025,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.003571
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 8,
+                        "2": 7,
+                        "3": 9,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 88,
+                    "RarityTableIndex": 9,
+                    "percent": 75.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 2,
+                    "size": 1,
+                    "names": {
+                        "LootTableIndex": "88",
+                        "Type": "Loot",
+                        "Name": "Maelstrom Infected Brick",
+                        "AlternateName": "Maelstrom-Infected Brick"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 37,
+                            "randmax": 100.0,
+                            "rarity": 1,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 1.0,
+                            "weightedChanceForAnyItemIncludingDrop": 0.75,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.75
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 1,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 244,
+                    "RarityTableIndex": 19,
+                    "percent": 100.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 3,
+                    "size": 119,
+                    "names": {
+                        "LootTableIndex": "244",
+                        "Type": "LEGO brick",
+                        "AlternateName": "LEGO Bricks"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 66,
+                            "randmax": 70.0,
+                            "rarity": 1,
+                            "chance": 70.0,
+                            "weightedChance": 70.0,
+                            "weightedChanceForSpecificItem": 0.005882,
+                            "weightedChanceForAnyItemIncludingDrop": 0.7,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.005882
+                        },
+                        "2": {
+                            "id": 68,
+                            "randmax": 100.0,
+                            "rarity": 2,
+                            "chance": 30.0,
+                            "weightedChance": 0,
+                            "weightedChanceForSpecificItem": 0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 119,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 105,
+                    "RarityTableIndex": 4,
+                    "percent": 25.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 95,
+                    "names": {
+                        "LootTableIndex": "105",
+                        "Type": "Loot",
+                        "Name": "GF Models",
+                        "AlternateName": "GF Model Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.019231,
+                            "weightedChanceForAnyItemIncludingDrop": 0.1875,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.004808
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0,
+                            "weightedChanceForSpecificItem": 0.0075,
+                            "weightedChanceForAnyItemIncludingDrop": 0.0375,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.001875
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0,
+                            "weightedChanceForSpecificItem": 0.003333,
+                            "weightedChanceForAnyItemIncludingDrop": 0.005,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.000833
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 8.0,
+                            "weightedChanceForSpecificItem": 0.002857,
+                            "weightedChanceForAnyItemIncludingDrop": 0.02,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.000714
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 39,
+                        "2": 20,
+                        "3": 28,
+                        "4": 6,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 104,
+                    "RarityTableIndex": 29,
+                    "percent": 10.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 31,
+                    "names": {
+                        "LootTableIndex": "104",
+                        "Type": "Loot",
+                        "Name": "GF Rares",
+                        "AlternateName": "GF Gear Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 95,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0
+                        },
+                        "2": {
+                            "id": 96,
+                            "randmax": 100.0,
+                            "rarity": 2,
+                            "chance": 25.0,
+                            "weightedChance": 25.0,
+                            "weightedChanceForSpecificItem": 0.022727,
+                            "weightedChanceForAnyItemIncludingDrop": 0.025,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.002273
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 0,
+                        "2": 11,
+                        "3": 13,
+                        "4": 7,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 103,
+                    "RarityTableIndex": 4,
+                    "percent": 100.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 40,
+                    "names": {
+                        "LootTableIndex": "103",
+                        "Type": "Loot",
+                        "Name": "GF Consumables",
+                        "AlternateName": "GF Consumable Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.026786,
+                            "weightedChanceForAnyItemIncludingDrop": 0.75,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.026786
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0,
+                            "weightedChanceForSpecificItem": 0.03,
+                            "weightedChanceForAnyItemIncludingDrop": 0.15,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.03
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0,
+                            "weightedChanceForSpecificItem": 0.01,
+                            "weightedChanceForAnyItemIncludingDrop": 0.02,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.01
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 8.0,
+                            "weightedChanceForSpecificItem": 0.016,
+                            "weightedChanceForAnyItemIncludingDrop": 0.08,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.016
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 28,
+                        "2": 5,
+                        "3": 5,
+                        "4": 2,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 670,
+                    "RarityTableIndex": 23,
+                    "percent": 50.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 2,
+                    "size": 1,
+                    "names": {
+                        "LootTableIndex": "670",
+                        "Type": "Loot",
+                        "Name": "Faction Token Proxy"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 86,
+                            "randmax": 100.0,
+                            "rarity": 1,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 1.0,
+                            "weightedChanceForAnyItemIncludingDrop": 0.5,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.5
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 1,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 243,
+                    "RarityTableIndex": 19,
+                    "percent": 100.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 3,
+                    "size": 307,
+                    "names": {
+                        "LootTableIndex": "243",
+                        "Type": "LEGO brick",
+                        "AlternateName": "LEGO Bricks"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 66,
+                            "randmax": 70.0,
+                            "rarity": 1,
+                            "chance": 70.0,
+                            "weightedChance": 70.0,
+                            "weightedChanceForSpecificItem": 0.00228,
+                            "weightedChanceForAnyItemIncludingDrop": 0.7,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.00228
+                        },
+                        "2": {
+                            "id": 68,
+                            "randmax": 100.0,
+                            "rarity": 2,
+                            "chance": 30.0,
+                            "weightedChance": 0,
+                            "weightedChanceForSpecificItem": 0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 307,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                }
+            ]
+        },
+        "GF Wishing Well 5": {
+            "LootMatrixIndex": 570,
+            "CurrencyIndex": 92,
+            "LootTableIndexes": [
+                {
+                    "LootTableIndex": 102,
+                    "RarityTableIndex": 29,
+                    "percent": 20.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 24,
+                    "names": {
+                        "LootTableIndex": "102",
+                        "Type": "Loot",
+                        "Name": "GF Weapons",
+                        "AlternateName": "GF Weapon Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 95,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.09375,
+                            "weightedChanceForAnyItemIncludingDrop": 0.15,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.01875
+                        },
+                        "2": {
+                            "id": 96,
+                            "randmax": 100.0,
+                            "rarity": 2,
+                            "chance": 25.0,
+                            "weightedChance": 25.0,
+                            "weightedChanceForSpecificItem": 0.035714,
+                            "weightedChanceForAnyItemIncludingDrop": 0.05,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.007143
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 8,
+                        "2": 7,
+                        "3": 9,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 88,
+                    "RarityTableIndex": 9,
+                    "percent": 100.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 3,
+                    "size": 1,
+                    "names": {
+                        "LootTableIndex": "88",
+                        "Type": "Loot",
+                        "Name": "Maelstrom Infected Brick",
+                        "AlternateName": "Maelstrom-Infected Brick"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 37,
+                            "randmax": 100.0,
+                            "rarity": 1,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 1.0,
+                            "weightedChanceForAnyItemIncludingDrop": 1.0,
+                            "weightedChanceForSpecificItemIncludingDrop": 1.0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 1,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 103,
+                    "RarityTableIndex": 4,
+                    "percent": 100.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 40,
+                    "names": {
+                        "LootTableIndex": "103",
+                        "Type": "Loot",
+                        "Name": "GF Consumables",
+                        "AlternateName": "GF Consumable Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.026786,
+                            "weightedChanceForAnyItemIncludingDrop": 0.75,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.026786
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0,
+                            "weightedChanceForSpecificItem": 0.03,
+                            "weightedChanceForAnyItemIncludingDrop": 0.15,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.03
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0,
+                            "weightedChanceForSpecificItem": 0.01,
+                            "weightedChanceForAnyItemIncludingDrop": 0.02,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.01
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 8.0,
+                            "weightedChanceForSpecificItem": 0.016,
+                            "weightedChanceForAnyItemIncludingDrop": 0.08,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.016
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 28,
+                        "2": 5,
+                        "3": 5,
+                        "4": 2,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 105,
+                    "RarityTableIndex": 4,
+                    "percent": 50.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 95,
+                    "names": {
+                        "LootTableIndex": "105",
+                        "Type": "Loot",
+                        "Name": "GF Models",
+                        "AlternateName": "GF Model Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.019231,
+                            "weightedChanceForAnyItemIncludingDrop": 0.375,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.009615
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0,
+                            "weightedChanceForSpecificItem": 0.0075,
+                            "weightedChanceForAnyItemIncludingDrop": 0.075,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.00375
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0,
+                            "weightedChanceForSpecificItem": 0.003333,
+                            "weightedChanceForAnyItemIncludingDrop": 0.01,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.001667
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 8.0,
+                            "weightedChanceForSpecificItem": 0.002857,
+                            "weightedChanceForAnyItemIncludingDrop": 0.04,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.001429
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 39,
+                        "2": 20,
+                        "3": 28,
+                        "4": 6,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 244,
+                    "RarityTableIndex": 19,
+                    "percent": 100.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 3,
+                    "size": 119,
+                    "names": {
+                        "LootTableIndex": "244",
+                        "Type": "LEGO brick",
+                        "AlternateName": "LEGO Bricks"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 66,
+                            "randmax": 70.0,
+                            "rarity": 1,
+                            "chance": 70.0,
+                            "weightedChance": 70.0,
+                            "weightedChanceForSpecificItem": 0.005882,
+                            "weightedChanceForAnyItemIncludingDrop": 0.7,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.005882
+                        },
+                        "2": {
+                            "id": 68,
+                            "randmax": 100.0,
+                            "rarity": 2,
+                            "chance": 30.0,
+                            "weightedChance": 0,
+                            "weightedChanceForSpecificItem": 0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 119,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 104,
+                    "RarityTableIndex": 29,
+                    "percent": 20.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 31,
+                    "names": {
+                        "LootTableIndex": "104",
+                        "Type": "Loot",
+                        "Name": "GF Rares",
+                        "AlternateName": "GF Gear Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 95,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0
+                        },
+                        "2": {
+                            "id": 96,
+                            "randmax": 100.0,
+                            "rarity": 2,
+                            "chance": 25.0,
+                            "weightedChance": 25.0,
+                            "weightedChanceForSpecificItem": 0.022727,
+                            "weightedChanceForAnyItemIncludingDrop": 0.05,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.004545
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 0,
+                        "2": 11,
+                        "3": 13,
+                        "4": 7,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 670,
+                    "RarityTableIndex": 23,
+                    "percent": 100.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 1,
+                    "names": {
+                        "LootTableIndex": "670",
+                        "Type": "Loot",
+                        "Name": "Faction Token Proxy"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 86,
+                            "randmax": 100.0,
+                            "rarity": 1,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 1.0,
+                            "weightedChanceForAnyItemIncludingDrop": 1.0,
+                            "weightedChanceForSpecificItemIncludingDrop": 1.0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 1,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 243,
+                    "RarityTableIndex": 19,
+                    "percent": 100.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 3,
+                    "size": 307,
+                    "names": {
+                        "LootTableIndex": "243",
+                        "Type": "LEGO brick",
+                        "AlternateName": "LEGO Bricks"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 66,
+                            "randmax": 70.0,
+                            "rarity": 1,
+                            "chance": 70.0,
+                            "weightedChance": 70.0,
+                            "weightedChanceForSpecificItem": 0.00228,
+                            "weightedChanceForAnyItemIncludingDrop": 0.7,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.00228
+                        },
+                        "2": {
+                            "id": 68,
+                            "randmax": 100.0,
+                            "rarity": 2,
+                            "chance": 30.0,
+                            "weightedChance": 0,
+                            "weightedChanceForSpecificItem": 0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 307,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                }
+            ]
+        },
+        "GF Wishing Well 6": {
+            "LootMatrixIndex": 571,
+            "CurrencyIndex": 93,
+            "LootTableIndexes": [
+                {
+                    "LootTableIndex": 102,
+                    "RarityTableIndex": 29,
+                    "percent": 40.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 24,
+                    "names": {
+                        "LootTableIndex": "102",
+                        "Type": "Loot",
+                        "Name": "GF Weapons",
+                        "AlternateName": "GF Weapon Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 95,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.09375,
+                            "weightedChanceForAnyItemIncludingDrop": 0.3,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.0375
+                        },
+                        "2": {
+                            "id": 96,
+                            "randmax": 100.0,
+                            "rarity": 2,
+                            "chance": 25.0,
+                            "weightedChance": 25.0,
+                            "weightedChanceForSpecificItem": 0.035714,
+                            "weightedChanceForAnyItemIncludingDrop": 0.1,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.014286
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 8,
+                        "2": 7,
+                        "3": 9,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 88,
+                    "RarityTableIndex": 9,
+                    "percent": 100.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 3,
+                    "size": 1,
+                    "names": {
+                        "LootTableIndex": "88",
+                        "Type": "Loot",
+                        "Name": "Maelstrom Infected Brick",
+                        "AlternateName": "Maelstrom-Infected Brick"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 37,
+                            "randmax": 100.0,
+                            "rarity": 1,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 1.0,
+                            "weightedChanceForAnyItemIncludingDrop": 1.0,
+                            "weightedChanceForSpecificItemIncludingDrop": 1.0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 1,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 105,
+                    "RarityTableIndex": 4,
+                    "percent": 80.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 95,
+                    "names": {
+                        "LootTableIndex": "105",
+                        "Type": "Loot",
+                        "Name": "GF Models",
+                        "AlternateName": "GF Model Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.019231,
+                            "weightedChanceForAnyItemIncludingDrop": 0.6,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.015385
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0,
+                            "weightedChanceForSpecificItem": 0.0075,
+                            "weightedChanceForAnyItemIncludingDrop": 0.12,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.006
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0,
+                            "weightedChanceForSpecificItem": 0.003333,
+                            "weightedChanceForAnyItemIncludingDrop": 0.016,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.002667
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 8.0,
+                            "weightedChanceForSpecificItem": 0.002857,
+                            "weightedChanceForAnyItemIncludingDrop": 0.064,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.002286
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 39,
+                        "2": 20,
+                        "3": 28,
+                        "4": 6,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 104,
+                    "RarityTableIndex": 29,
+                    "percent": 40.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 31,
+                    "names": {
+                        "LootTableIndex": "104",
+                        "Type": "Loot",
+                        "Name": "GF Rares",
+                        "AlternateName": "GF Gear Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 95,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0
+                        },
+                        "2": {
+                            "id": 96,
+                            "randmax": 100.0,
+                            "rarity": 2,
+                            "chance": 25.0,
+                            "weightedChance": 25.0,
+                            "weightedChanceForSpecificItem": 0.022727,
+                            "weightedChanceForAnyItemIncludingDrop": 0.1,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.009091
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 0,
+                        "2": 11,
+                        "3": 13,
+                        "4": 7,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 670,
+                    "RarityTableIndex": 23,
+                    "percent": 100.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 2,
+                    "size": 1,
+                    "names": {
+                        "LootTableIndex": "670",
+                        "Type": "Loot",
+                        "Name": "Faction Token Proxy"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 86,
+                            "randmax": 100.0,
+                            "rarity": 1,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 1.0,
+                            "weightedChanceForAnyItemIncludingDrop": 1.0,
+                            "weightedChanceForSpecificItemIncludingDrop": 1.0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 1,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 243,
+                    "RarityTableIndex": 19,
+                    "percent": 100.0,
+                    "minToDrop": 2,
+                    "maxToDrop": 4,
+                    "size": 307,
+                    "names": {
+                        "LootTableIndex": "243",
+                        "Type": "LEGO brick",
+                        "AlternateName": "LEGO Bricks"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 66,
+                            "randmax": 70.0,
+                            "rarity": 1,
+                            "chance": 70.0,
+                            "weightedChance": 70.0,
+                            "weightedChanceForSpecificItem": 0.00228,
+                            "weightedChanceForAnyItemIncludingDrop": 0.7,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.00228
+                        },
+                        "2": {
+                            "id": 68,
+                            "randmax": 100.0,
+                            "rarity": 2,
+                            "chance": 30.0,
+                            "weightedChance": 0,
+                            "weightedChanceForSpecificItem": 0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 307,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 244,
+                    "RarityTableIndex": 19,
+                    "percent": 100.0,
+                    "minToDrop": 2,
+                    "maxToDrop": 4,
+                    "size": 119,
+                    "names": {
+                        "LootTableIndex": "244",
+                        "Type": "LEGO brick",
+                        "AlternateName": "LEGO Bricks"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 66,
+                            "randmax": 70.0,
+                            "rarity": 1,
+                            "chance": 70.0,
+                            "weightedChance": 70.0,
+                            "weightedChanceForSpecificItem": 0.005882,
+                            "weightedChanceForAnyItemIncludingDrop": 0.7,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.005882
+                        },
+                        "2": {
+                            "id": 68,
+                            "randmax": 100.0,
+                            "rarity": 2,
+                            "chance": 30.0,
+                            "weightedChance": 0,
+                            "weightedChanceForSpecificItem": 0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 119,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 103,
+                    "RarityTableIndex": 4,
+                    "percent": 100.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 2,
+                    "size": 40,
+                    "names": {
+                        "LootTableIndex": "103",
+                        "Type": "Loot",
+                        "Name": "GF Consumables",
+                        "AlternateName": "GF Consumable Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.026786,
+                            "weightedChanceForAnyItemIncludingDrop": 0.75,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.026786
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0,
+                            "weightedChanceForSpecificItem": 0.03,
+                            "weightedChanceForAnyItemIncludingDrop": 0.15,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.03
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0,
+                            "weightedChanceForSpecificItem": 0.01,
+                            "weightedChanceForAnyItemIncludingDrop": 0.02,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.01
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 8.0,
+                            "weightedChanceForSpecificItem": 0.016,
+                            "weightedChanceForAnyItemIncludingDrop": 0.08,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.016
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 28,
+                        "2": 5,
+                        "3": 5,
+                        "4": 2,
+                        "5": 0
+                    },
+                    "total": 100
+                }
+            ]
+        },
+        "GF Wishing Well 7": {
+            "LootMatrixIndex": 572,
+            "CurrencyIndex": 94,
+            "LootTableIndexes": [
+                {
+                    "LootTableIndex": 102,
+                    "RarityTableIndex": 29,
+                    "percent": 77.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 24,
+                    "names": {
+                        "LootTableIndex": "102",
+                        "Type": "Loot",
+                        "Name": "GF Weapons",
+                        "AlternateName": "GF Weapon Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 95,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.09375,
+                            "weightedChanceForAnyItemIncludingDrop": 0.5775,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.072188
+                        },
+                        "2": {
+                            "id": 96,
+                            "randmax": 100.0,
+                            "rarity": 2,
+                            "chance": 25.0,
+                            "weightedChance": 25.0,
+                            "weightedChanceForSpecificItem": 0.035714,
+                            "weightedChanceForAnyItemIncludingDrop": 0.1925,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.0275
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 8,
+                        "2": 7,
+                        "3": 9,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 104,
+                    "RarityTableIndex": 29,
+                    "percent": 77.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 31,
+                    "names": {
+                        "LootTableIndex": "104",
+                        "Type": "Loot",
+                        "Name": "GF Rares",
+                        "AlternateName": "GF Gear Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 95,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0
+                        },
+                        "2": {
+                            "id": 96,
+                            "randmax": 100.0,
+                            "rarity": 2,
+                            "chance": 25.0,
+                            "weightedChance": 25.0,
+                            "weightedChanceForSpecificItem": 0.022727,
+                            "weightedChanceForAnyItemIncludingDrop": 0.1925,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.0175
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 0,
+                        "2": 11,
+                        "3": 13,
+                        "4": 7,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 670,
+                    "RarityTableIndex": 23,
+                    "percent": 100.0,
+                    "minToDrop": 2,
+                    "maxToDrop": 3,
+                    "size": 1,
+                    "names": {
+                        "LootTableIndex": "670",
+                        "Type": "Loot",
+                        "Name": "Faction Token Proxy"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 86,
+                            "randmax": 100.0,
+                            "rarity": 1,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 1.0,
+                            "weightedChanceForAnyItemIncludingDrop": 1.0,
+                            "weightedChanceForSpecificItemIncludingDrop": 1.0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 1,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 243,
+                    "RarityTableIndex": 4,
+                    "percent": 100.0,
+                    "minToDrop": 3,
+                    "maxToDrop": 5,
+                    "size": 307,
+                    "names": {
+                        "LootTableIndex": "243",
+                        "Type": "LEGO brick",
+                        "AlternateName": "LEGO Bricks"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.002443,
+                            "weightedChanceForAnyItemIncludingDrop": 0.75,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.002443
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 0,
+                            "weightedChanceForSpecificItem": 0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 307,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 244,
+                    "RarityTableIndex": 19,
+                    "percent": 100.0,
+                    "minToDrop": 3,
+                    "maxToDrop": 5,
+                    "size": 119,
+                    "names": {
+                        "LootTableIndex": "244",
+                        "Type": "LEGO brick",
+                        "AlternateName": "LEGO Bricks"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 66,
+                            "randmax": 70.0,
+                            "rarity": 1,
+                            "chance": 70.0,
+                            "weightedChance": 70.0,
+                            "weightedChanceForSpecificItem": 0.005882,
+                            "weightedChanceForAnyItemIncludingDrop": 0.7,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.005882
+                        },
+                        "2": {
+                            "id": 68,
+                            "randmax": 100.0,
+                            "rarity": 2,
+                            "chance": 30.0,
+                            "weightedChance": 0,
+                            "weightedChanceForSpecificItem": 0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 119,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 103,
+                    "RarityTableIndex": 4,
+                    "percent": 100.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 3,
+                    "size": 40,
+                    "names": {
+                        "LootTableIndex": "103",
+                        "Type": "Loot",
+                        "Name": "GF Consumables",
+                        "AlternateName": "GF Consumable Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.026786,
+                            "weightedChanceForAnyItemIncludingDrop": 0.75,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.026786
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0,
+                            "weightedChanceForSpecificItem": 0.03,
+                            "weightedChanceForAnyItemIncludingDrop": 0.15,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.03
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0,
+                            "weightedChanceForSpecificItem": 0.01,
+                            "weightedChanceForAnyItemIncludingDrop": 0.02,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.01
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 8.0,
+                            "weightedChanceForSpecificItem": 0.016,
+                            "weightedChanceForAnyItemIncludingDrop": 0.08,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.016
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 28,
+                        "2": 5,
+                        "3": 5,
+                        "4": 2,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 105,
+                    "RarityTableIndex": 4,
+                    "percent": 100.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 95,
+                    "names": {
+                        "LootTableIndex": "105",
+                        "Type": "Loot",
+                        "Name": "GF Models",
+                        "AlternateName": "GF Model Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.019231,
+                            "weightedChanceForAnyItemIncludingDrop": 0.75,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.019231
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0,
+                            "weightedChanceForSpecificItem": 0.0075,
+                            "weightedChanceForAnyItemIncludingDrop": 0.15,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.0075
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0,
+                            "weightedChanceForSpecificItem": 0.003333,
+                            "weightedChanceForAnyItemIncludingDrop": 0.02,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.003333
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 8.0,
+                            "weightedChanceForSpecificItem": 0.002857,
+                            "weightedChanceForAnyItemIncludingDrop": 0.08,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.002857
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 39,
+                        "2": 20,
+                        "3": 28,
+                        "4": 6,
+                        "5": 0
+                    },
+                    "total": 100
+                }
+            ]
+        },
+        "GF Wishing Well 8": {
+            "LootMatrixIndex": 573,
+            "CurrencyIndex": 95,
+            "LootTableIndexes": [
+                {
+                    "LootTableIndex": 102,
+                    "RarityTableIndex": 29,
+                    "percent": 100.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 24,
+                    "names": {
+                        "LootTableIndex": "102",
+                        "Type": "Loot",
+                        "Name": "GF Weapons",
+                        "AlternateName": "GF Weapon Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 95,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.09375,
+                            "weightedChanceForAnyItemIncludingDrop": 0.75,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.09375
+                        },
+                        "2": {
+                            "id": 96,
+                            "randmax": 100.0,
+                            "rarity": 2,
+                            "chance": 25.0,
+                            "weightedChance": 25.0,
+                            "weightedChanceForSpecificItem": 0.035714,
+                            "weightedChanceForAnyItemIncludingDrop": 0.25,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.035714
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 8,
+                        "2": 7,
+                        "3": 9,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 104,
+                    "RarityTableIndex": 29,
+                    "percent": 100.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 31,
+                    "names": {
+                        "LootTableIndex": "104",
+                        "Type": "Loot",
+                        "Name": "GF Rares",
+                        "AlternateName": "GF Gear Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 95,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0
+                        },
+                        "2": {
+                            "id": 96,
+                            "randmax": 100.0,
+                            "rarity": 2,
+                            "chance": 25.0,
+                            "weightedChance": 25.0,
+                            "weightedChanceForSpecificItem": 0.022727,
+                            "weightedChanceForAnyItemIncludingDrop": 0.25,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.022727
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 0,
+                        "2": 11,
+                        "3": 13,
+                        "4": 7,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 670,
+                    "RarityTableIndex": 23,
+                    "percent": 100.0,
+                    "minToDrop": 2,
+                    "maxToDrop": 4,
+                    "size": 1,
+                    "names": {
+                        "LootTableIndex": "670",
+                        "Type": "Loot",
+                        "Name": "Faction Token Proxy"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 86,
+                            "randmax": 100.0,
+                            "rarity": 1,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 1.0,
+                            "weightedChanceForAnyItemIncludingDrop": 1.0,
+                            "weightedChanceForSpecificItemIncludingDrop": 1.0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 1,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 243,
+                    "RarityTableIndex": 4,
+                    "percent": 100.0,
+                    "minToDrop": 5,
+                    "maxToDrop": 10,
+                    "size": 307,
+                    "names": {
+                        "LootTableIndex": "243",
+                        "Type": "LEGO brick",
+                        "AlternateName": "LEGO Bricks"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.002443,
+                            "weightedChanceForAnyItemIncludingDrop": 0.75,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.002443
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 0,
+                            "weightedChanceForSpecificItem": 0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 307,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 244,
+                    "RarityTableIndex": 19,
+                    "percent": 100.0,
+                    "minToDrop": 5,
+                    "maxToDrop": 10,
+                    "size": 119,
+                    "names": {
+                        "LootTableIndex": "244",
+                        "Type": "LEGO brick",
+                        "AlternateName": "LEGO Bricks"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 66,
+                            "randmax": 70.0,
+                            "rarity": 1,
+                            "chance": 70.0,
+                            "weightedChance": 70.0,
+                            "weightedChanceForSpecificItem": 0.005882,
+                            "weightedChanceForAnyItemIncludingDrop": 0.7,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.005882
+                        },
+                        "2": {
+                            "id": 68,
+                            "randmax": 100.0,
+                            "rarity": 2,
+                            "chance": 30.0,
+                            "weightedChance": 0,
+                            "weightedChanceForSpecificItem": 0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 119,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 103,
+                    "RarityTableIndex": 4,
+                    "percent": 100.0,
+                    "minToDrop": 2,
+                    "maxToDrop": 4,
+                    "size": 40,
+                    "names": {
+                        "LootTableIndex": "103",
+                        "Type": "Loot",
+                        "Name": "GF Consumables",
+                        "AlternateName": "GF Consumable Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.026786,
+                            "weightedChanceForAnyItemIncludingDrop": 0.75,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.026786
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0,
+                            "weightedChanceForSpecificItem": 0.03,
+                            "weightedChanceForAnyItemIncludingDrop": 0.15,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.03
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0,
+                            "weightedChanceForSpecificItem": 0.01,
+                            "weightedChanceForAnyItemIncludingDrop": 0.02,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.01
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 8.0,
+                            "weightedChanceForSpecificItem": 0.016,
+                            "weightedChanceForAnyItemIncludingDrop": 0.08,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.016
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 28,
+                        "2": 5,
+                        "3": 5,
+                        "4": 2,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 105,
+                    "RarityTableIndex": 4,
+                    "percent": 100.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 2,
+                    "size": 95,
+                    "names": {
+                        "LootTableIndex": "105",
+                        "Type": "Loot",
+                        "Name": "GF Models",
+                        "AlternateName": "GF Model Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.019231,
+                            "weightedChanceForAnyItemIncludingDrop": 0.75,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.019231
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0,
+                            "weightedChanceForSpecificItem": 0.0075,
+                            "weightedChanceForAnyItemIncludingDrop": 0.15,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.0075
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0,
+                            "weightedChanceForSpecificItem": 0.003333,
+                            "weightedChanceForAnyItemIncludingDrop": 0.02,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.003333
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 8.0,
+                            "weightedChanceForSpecificItem": 0.002857,
+                            "weightedChanceForAnyItemIncludingDrop": 0.08,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.002857
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 39,
+                        "2": 20,
+                        "3": 28,
+                        "4": 6,
+                        "5": 0
+                    },
+                    "total": 100
+                }
+            ]
+        }
+    }
+}

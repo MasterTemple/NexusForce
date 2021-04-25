@@ -1,0 +1,1711 @@
+{
+    "id": 58,
+    "activities": {
+        "Frakjaw 1 Player": {
+            "LootMatrixIndex": 765,
+            "CurrencyIndex": 126,
+            "LootTableIndexes": [
+                {
+                    "LootTableIndex": 88,
+                    "RarityTableIndex": 9,
+                    "percent": 100.0,
+                    "minToDrop": 2,
+                    "maxToDrop": 4,
+                    "size": 1,
+                    "names": {
+                        "LootTableIndex": "88",
+                        "Type": "Loot",
+                        "Name": "Maelstrom Infected Brick",
+                        "AlternateName": "Maelstrom-Infected Brick"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 37,
+                            "randmax": 100.0,
+                            "rarity": 1,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 1.0,
+                            "weightedChanceForAnyItemIncludingDrop": 1.0,
+                            "weightedChanceForSpecificItemIncludingDrop": 1.0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 1,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 110,
+                    "RarityTableIndex": 18,
+                    "percent": 100.0,
+                    "minToDrop": 4,
+                    "maxToDrop": 6,
+                    "size": 22,
+                    "names": {
+                        "LootTableIndex": "110",
+                        "Type": "LEGO brick",
+                        "Name": "Rectangular LEGO Bricks"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 64,
+                            "randmax": 100.0,
+                            "rarity": 1,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 0.045455,
+                            "weightedChanceForAnyItemIncludingDrop": 1.0,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.045455
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 22,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 670,
+                    "RarityTableIndex": 23,
+                    "percent": 100.0,
+                    "minToDrop": 11,
+                    "maxToDrop": 12,
+                    "size": 1,
+                    "names": {
+                        "LootTableIndex": "670",
+                        "Type": "Loot",
+                        "Name": "Faction Token Proxy"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 86,
+                            "randmax": 100.0,
+                            "rarity": 1,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 1.0,
+                            "weightedChanceForAnyItemIncludingDrop": 1.0,
+                            "weightedChanceForSpecificItemIncludingDrop": 1.0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 1,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 844,
+                    "RarityTableIndex": 4,
+                    "percent": 60.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 24,
+                    "names": {
+                        "LootTableIndex": "844",
+                        "Type": "Loot",
+                        "AlternateName": "NM Gear Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.375,
+                            "weightedChanceForAnyItemIncludingDrop": 0.45,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.225
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0,
+                            "weightedChanceForSpecificItem": 0.021429,
+                            "weightedChanceForAnyItemIncludingDrop": 0.09,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.012857
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0,
+                            "weightedChanceForSpecificItem": 0.002857,
+                            "weightedChanceForAnyItemIncludingDrop": 0.012,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.001714
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 8.0,
+                            "weightedChanceForSpecificItem": 0.01,
+                            "weightedChanceForAnyItemIncludingDrop": 0.048,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.006
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 2,
+                        "2": 7,
+                        "3": 8,
+                        "4": 7,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 845,
+                    "RarityTableIndex": 4,
+                    "percent": 60.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 16,
+                    "names": {
+                        "LootTableIndex": "845",
+                        "Type": "Loot",
+                        "AlternateName": "NM Weapon Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.25,
+                            "weightedChanceForAnyItemIncludingDrop": 0.45,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.15
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0,
+                            "weightedChanceForSpecificItem": 0.013636,
+                            "weightedChanceForAnyItemIncludingDrop": 0.09,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.008182
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0,
+                            "weightedChanceForSpecificItem": 0.02,
+                            "weightedChanceForAnyItemIncludingDrop": 0.012,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.012
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 8.0,
+                            "weightedChanceForSpecificItem": 0.08,
+                            "weightedChanceForAnyItemIncludingDrop": 0.048,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.048
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 3,
+                        "2": 11,
+                        "3": 1,
+                        "4": 1,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 846,
+                    "RarityTableIndex": 4,
+                    "percent": 100.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 2,
+                    "size": 26,
+                    "names": {
+                        "LootTableIndex": "846",
+                        "Type": "Loot",
+                        "Name": "Ninjago Consumables"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.044118,
+                            "weightedChanceForAnyItemIncludingDrop": 0.75,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.044118
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0,
+                            "weightedChanceForSpecificItem": 0.025,
+                            "weightedChanceForAnyItemIncludingDrop": 0.15,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.025
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 8.0,
+                            "weightedChanceForSpecificItem": 0.026667,
+                            "weightedChanceForAnyItemIncludingDrop": 0.08,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.026667
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 17,
+                        "2": 6,
+                        "3": 3,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 847,
+                    "RarityTableIndex": 4,
+                    "percent": 60.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 49,
+                    "names": {
+                        "LootTableIndex": "847",
+                        "Type": "Loot",
+                        "Name": "Ninjago Models"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.039474,
+                            "weightedChanceForAnyItemIncludingDrop": 0.45,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.023684
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0,
+                            "weightedChanceForSpecificItem": 0.013636,
+                            "weightedChanceForAnyItemIncludingDrop": 0.09,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.008182
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0,
+                            "weightedChanceForSpecificItem": 0.004,
+                            "weightedChanceForAnyItemIncludingDrop": 0.012,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.0024
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 8.0,
+                            "weightedChanceForSpecificItem": 0.005714,
+                            "weightedChanceForAnyItemIncludingDrop": 0.048,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.003429
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 19,
+                        "2": 11,
+                        "3": 14,
+                        "4": 5,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 868,
+                    "RarityTableIndex": 4,
+                    "percent": 4.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 3,
+                    "names": {
+                        "LootTableIndex": "868",
+                        "Type": "Loot",
+                        "Name": "Ninjago Rares"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0,
+                            "weightedChanceForSpecificItem": 0.006667,
+                            "weightedChanceForAnyItemIncludingDrop": 0.0008,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.000267
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 0,
+                            "weightedChanceForSpecificItem": 0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 0,
+                        "2": 0,
+                        "3": 0,
+                        "4": 3,
+                        "5": 0
+                    },
+                    "total": 100
+                }
+            ]
+        },
+        "Frakjaw 2 Player": {
+            "LootMatrixIndex": 875,
+            "CurrencyIndex": 125,
+            "LootTableIndexes": [
+                {
+                    "LootTableIndex": 88,
+                    "RarityTableIndex": 9,
+                    "percent": 100.0,
+                    "minToDrop": 4,
+                    "maxToDrop": 6,
+                    "size": 1,
+                    "names": {
+                        "LootTableIndex": "88",
+                        "Type": "Loot",
+                        "Name": "Maelstrom Infected Brick",
+                        "AlternateName": "Maelstrom-Infected Brick"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 37,
+                            "randmax": 100.0,
+                            "rarity": 1,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 1.0,
+                            "weightedChanceForAnyItemIncludingDrop": 1.0,
+                            "weightedChanceForSpecificItemIncludingDrop": 1.0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 1,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 110,
+                    "RarityTableIndex": 18,
+                    "percent": 100.0,
+                    "minToDrop": 6,
+                    "maxToDrop": 10,
+                    "size": 22,
+                    "names": {
+                        "LootTableIndex": "110",
+                        "Type": "LEGO brick",
+                        "Name": "Rectangular LEGO Bricks"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 64,
+                            "randmax": 100.0,
+                            "rarity": 1,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 0.045455,
+                            "weightedChanceForAnyItemIncludingDrop": 1.0,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.045455
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 22,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 670,
+                    "RarityTableIndex": 23,
+                    "percent": 100.0,
+                    "minToDrop": 10,
+                    "maxToDrop": 12,
+                    "size": 1,
+                    "names": {
+                        "LootTableIndex": "670",
+                        "Type": "Loot",
+                        "Name": "Faction Token Proxy"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 86,
+                            "randmax": 100.0,
+                            "rarity": 1,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 1.0,
+                            "weightedChanceForAnyItemIncludingDrop": 1.0,
+                            "weightedChanceForSpecificItemIncludingDrop": 1.0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 1,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 844,
+                    "RarityTableIndex": 4,
+                    "percent": 100.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 24,
+                    "names": {
+                        "LootTableIndex": "844",
+                        "Type": "Loot",
+                        "AlternateName": "NM Gear Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.375,
+                            "weightedChanceForAnyItemIncludingDrop": 0.75,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.375
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0,
+                            "weightedChanceForSpecificItem": 0.021429,
+                            "weightedChanceForAnyItemIncludingDrop": 0.15,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.021429
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0,
+                            "weightedChanceForSpecificItem": 0.002857,
+                            "weightedChanceForAnyItemIncludingDrop": 0.02,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.002857
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 8.0,
+                            "weightedChanceForSpecificItem": 0.01,
+                            "weightedChanceForAnyItemIncludingDrop": 0.08,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.01
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 2,
+                        "2": 7,
+                        "3": 8,
+                        "4": 7,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 845,
+                    "RarityTableIndex": 4,
+                    "percent": 100.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 16,
+                    "names": {
+                        "LootTableIndex": "845",
+                        "Type": "Loot",
+                        "AlternateName": "NM Weapon Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.25,
+                            "weightedChanceForAnyItemIncludingDrop": 0.75,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.25
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0,
+                            "weightedChanceForSpecificItem": 0.013636,
+                            "weightedChanceForAnyItemIncludingDrop": 0.15,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.013636
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0,
+                            "weightedChanceForSpecificItem": 0.02,
+                            "weightedChanceForAnyItemIncludingDrop": 0.02,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.02
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 8.0,
+                            "weightedChanceForSpecificItem": 0.08,
+                            "weightedChanceForAnyItemIncludingDrop": 0.08,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.08
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 3,
+                        "2": 11,
+                        "3": 1,
+                        "4": 1,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 846,
+                    "RarityTableIndex": 4,
+                    "percent": 100.0,
+                    "minToDrop": 2,
+                    "maxToDrop": 4,
+                    "size": 26,
+                    "names": {
+                        "LootTableIndex": "846",
+                        "Type": "Loot",
+                        "Name": "Ninjago Consumables"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.044118,
+                            "weightedChanceForAnyItemIncludingDrop": 0.75,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.044118
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0,
+                            "weightedChanceForSpecificItem": 0.025,
+                            "weightedChanceForAnyItemIncludingDrop": 0.15,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.025
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 8.0,
+                            "weightedChanceForSpecificItem": 0.026667,
+                            "weightedChanceForAnyItemIncludingDrop": 0.08,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.026667
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 17,
+                        "2": 6,
+                        "3": 3,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 847,
+                    "RarityTableIndex": 4,
+                    "percent": 100.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 49,
+                    "names": {
+                        "LootTableIndex": "847",
+                        "Type": "Loot",
+                        "Name": "Ninjago Models"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.039474,
+                            "weightedChanceForAnyItemIncludingDrop": 0.75,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.039474
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0,
+                            "weightedChanceForSpecificItem": 0.013636,
+                            "weightedChanceForAnyItemIncludingDrop": 0.15,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.013636
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0,
+                            "weightedChanceForSpecificItem": 0.004,
+                            "weightedChanceForAnyItemIncludingDrop": 0.02,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.004
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 8.0,
+                            "weightedChanceForSpecificItem": 0.005714,
+                            "weightedChanceForAnyItemIncludingDrop": 0.08,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.005714
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 19,
+                        "2": 11,
+                        "3": 14,
+                        "4": 5,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 868,
+                    "RarityTableIndex": 4,
+                    "percent": 5.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 3,
+                    "names": {
+                        "LootTableIndex": "868",
+                        "Type": "Loot",
+                        "Name": "Ninjago Rares"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0,
+                            "weightedChanceForSpecificItem": 0.006667,
+                            "weightedChanceForAnyItemIncludingDrop": 0.001,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.000333
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 0,
+                            "weightedChanceForSpecificItem": 0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 0,
+                        "2": 0,
+                        "3": 0,
+                        "4": 3,
+                        "5": 0
+                    },
+                    "total": 100
+                }
+            ]
+        },
+        "Frakjaw 3 Player": {
+            "LootMatrixIndex": 876,
+            "CurrencyIndex": 124,
+            "LootTableIndexes": [
+                {
+                    "LootTableIndex": 88,
+                    "RarityTableIndex": 9,
+                    "percent": 100.0,
+                    "minToDrop": 6,
+                    "maxToDrop": 9,
+                    "size": 1,
+                    "names": {
+                        "LootTableIndex": "88",
+                        "Type": "Loot",
+                        "Name": "Maelstrom Infected Brick",
+                        "AlternateName": "Maelstrom-Infected Brick"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 37,
+                            "randmax": 100.0,
+                            "rarity": 1,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 1.0,
+                            "weightedChanceForAnyItemIncludingDrop": 1.0,
+                            "weightedChanceForSpecificItemIncludingDrop": 1.0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 1,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 110,
+                    "RarityTableIndex": 18,
+                    "percent": 100.0,
+                    "minToDrop": 9,
+                    "maxToDrop": 15,
+                    "size": 22,
+                    "names": {
+                        "LootTableIndex": "110",
+                        "Type": "LEGO brick",
+                        "Name": "Rectangular LEGO Bricks"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 64,
+                            "randmax": 100.0,
+                            "rarity": 1,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 0.045455,
+                            "weightedChanceForAnyItemIncludingDrop": 1.0,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.045455
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 22,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 670,
+                    "RarityTableIndex": 23,
+                    "percent": 100.0,
+                    "minToDrop": 14,
+                    "maxToDrop": 18,
+                    "size": 1,
+                    "names": {
+                        "LootTableIndex": "670",
+                        "Type": "Loot",
+                        "Name": "Faction Token Proxy"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 86,
+                            "randmax": 100.0,
+                            "rarity": 1,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 1.0,
+                            "weightedChanceForAnyItemIncludingDrop": 1.0,
+                            "weightedChanceForSpecificItemIncludingDrop": 1.0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 1,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 844,
+                    "RarityTableIndex": 4,
+                    "percent": 100.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 2,
+                    "size": 24,
+                    "names": {
+                        "LootTableIndex": "844",
+                        "Type": "Loot",
+                        "AlternateName": "NM Gear Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.375,
+                            "weightedChanceForAnyItemIncludingDrop": 0.75,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.375
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0,
+                            "weightedChanceForSpecificItem": 0.021429,
+                            "weightedChanceForAnyItemIncludingDrop": 0.15,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.021429
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0,
+                            "weightedChanceForSpecificItem": 0.002857,
+                            "weightedChanceForAnyItemIncludingDrop": 0.02,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.002857
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 8.0,
+                            "weightedChanceForSpecificItem": 0.01,
+                            "weightedChanceForAnyItemIncludingDrop": 0.08,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.01
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 2,
+                        "2": 7,
+                        "3": 8,
+                        "4": 7,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 845,
+                    "RarityTableIndex": 4,
+                    "percent": 100.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 2,
+                    "size": 16,
+                    "names": {
+                        "LootTableIndex": "845",
+                        "Type": "Loot",
+                        "AlternateName": "NM Weapon Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.25,
+                            "weightedChanceForAnyItemIncludingDrop": 0.75,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.25
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0,
+                            "weightedChanceForSpecificItem": 0.013636,
+                            "weightedChanceForAnyItemIncludingDrop": 0.15,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.013636
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0,
+                            "weightedChanceForSpecificItem": 0.02,
+                            "weightedChanceForAnyItemIncludingDrop": 0.02,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.02
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 8.0,
+                            "weightedChanceForSpecificItem": 0.08,
+                            "weightedChanceForAnyItemIncludingDrop": 0.08,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.08
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 3,
+                        "2": 11,
+                        "3": 1,
+                        "4": 1,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 846,
+                    "RarityTableIndex": 4,
+                    "percent": 100.0,
+                    "minToDrop": 6,
+                    "maxToDrop": 6,
+                    "size": 26,
+                    "names": {
+                        "LootTableIndex": "846",
+                        "Type": "Loot",
+                        "Name": "Ninjago Consumables"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.044118,
+                            "weightedChanceForAnyItemIncludingDrop": 0.75,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.044118
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0,
+                            "weightedChanceForSpecificItem": 0.025,
+                            "weightedChanceForAnyItemIncludingDrop": 0.15,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.025
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 8.0,
+                            "weightedChanceForSpecificItem": 0.026667,
+                            "weightedChanceForAnyItemIncludingDrop": 0.08,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.026667
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 17,
+                        "2": 6,
+                        "3": 3,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 847,
+                    "RarityTableIndex": 4,
+                    "percent": 100.0,
+                    "minToDrop": 2,
+                    "maxToDrop": 3,
+                    "size": 49,
+                    "names": {
+                        "LootTableIndex": "847",
+                        "Type": "Loot",
+                        "Name": "Ninjago Models"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.039474,
+                            "weightedChanceForAnyItemIncludingDrop": 0.75,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.039474
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0,
+                            "weightedChanceForSpecificItem": 0.013636,
+                            "weightedChanceForAnyItemIncludingDrop": 0.15,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.013636
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0,
+                            "weightedChanceForSpecificItem": 0.004,
+                            "weightedChanceForAnyItemIncludingDrop": 0.02,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.004
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 8.0,
+                            "weightedChanceForSpecificItem": 0.005714,
+                            "weightedChanceForAnyItemIncludingDrop": 0.08,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.005714
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 19,
+                        "2": 11,
+                        "3": 14,
+                        "4": 5,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 868,
+                    "RarityTableIndex": 4,
+                    "percent": 9.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 3,
+                    "names": {
+                        "LootTableIndex": "868",
+                        "Type": "Loot",
+                        "Name": "Ninjago Rares"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0,
+                            "weightedChanceForSpecificItem": 0.006667,
+                            "weightedChanceForAnyItemIncludingDrop": 0.0018,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.0006
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 0,
+                            "weightedChanceForSpecificItem": 0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 0,
+                        "2": 0,
+                        "3": 0,
+                        "4": 3,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 877,
+                    "RarityTableIndex": 26,
+                    "percent": 12.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 8,
+                    "names": {
+                        "LootTableIndex": "877",
+                        "Type": "Loot",
+                        "AlternateName": "Frakjaw DX Gear Drops"
+                    },
+                    "rarityTableInfo": {
+                        "4": {
+                            "id": 89,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 0.125,
+                            "weightedChanceForAnyItemIncludingDrop": 0.12,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.015
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 0,
+                        "2": 0,
+                        "3": 0,
+                        "4": 8,
+                        "5": 0
+                    },
+                    "total": 100
+                }
+            ]
+        },
+        "Frakjaw 4 Player": {
+            "LootMatrixIndex": 877,
+            "CurrencyIndex": 123,
+            "LootTableIndexes": [
+                {
+                    "LootTableIndex": 88,
+                    "RarityTableIndex": 9,
+                    "percent": 100.0,
+                    "minToDrop": 8,
+                    "maxToDrop": 12,
+                    "size": 1,
+                    "names": {
+                        "LootTableIndex": "88",
+                        "Type": "Loot",
+                        "Name": "Maelstrom Infected Brick",
+                        "AlternateName": "Maelstrom-Infected Brick"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 37,
+                            "randmax": 100.0,
+                            "rarity": 1,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 1.0,
+                            "weightedChanceForAnyItemIncludingDrop": 1.0,
+                            "weightedChanceForSpecificItemIncludingDrop": 1.0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 1,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 110,
+                    "RarityTableIndex": 18,
+                    "percent": 100.0,
+                    "minToDrop": 12,
+                    "maxToDrop": 20,
+                    "size": 22,
+                    "names": {
+                        "LootTableIndex": "110",
+                        "Type": "LEGO brick",
+                        "Name": "Rectangular LEGO Bricks"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 64,
+                            "randmax": 100.0,
+                            "rarity": 1,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 0.045455,
+                            "weightedChanceForAnyItemIncludingDrop": 1.0,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.045455
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 22,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 670,
+                    "RarityTableIndex": 23,
+                    "percent": 100.0,
+                    "minToDrop": 14,
+                    "maxToDrop": 18,
+                    "size": 1,
+                    "names": {
+                        "LootTableIndex": "670",
+                        "Type": "Loot",
+                        "Name": "Faction Token Proxy"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 86,
+                            "randmax": 100.0,
+                            "rarity": 1,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 1.0,
+                            "weightedChanceForAnyItemIncludingDrop": 1.0,
+                            "weightedChanceForSpecificItemIncludingDrop": 1.0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 1,
+                        "2": 0,
+                        "3": 0,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 844,
+                    "RarityTableIndex": 4,
+                    "percent": 100.0,
+                    "minToDrop": 2,
+                    "maxToDrop": 2,
+                    "size": 24,
+                    "names": {
+                        "LootTableIndex": "844",
+                        "Type": "Loot",
+                        "AlternateName": "NM Gear Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.375,
+                            "weightedChanceForAnyItemIncludingDrop": 0.75,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.375
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0,
+                            "weightedChanceForSpecificItem": 0.021429,
+                            "weightedChanceForAnyItemIncludingDrop": 0.15,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.021429
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0,
+                            "weightedChanceForSpecificItem": 0.002857,
+                            "weightedChanceForAnyItemIncludingDrop": 0.02,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.002857
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 8.0,
+                            "weightedChanceForSpecificItem": 0.01,
+                            "weightedChanceForAnyItemIncludingDrop": 0.08,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.01
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 2,
+                        "2": 7,
+                        "3": 8,
+                        "4": 7,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 845,
+                    "RarityTableIndex": 4,
+                    "percent": 100.0,
+                    "minToDrop": 2,
+                    "maxToDrop": 2,
+                    "size": 16,
+                    "names": {
+                        "LootTableIndex": "845",
+                        "Type": "Loot",
+                        "AlternateName": "NM Weapon Drops"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.25,
+                            "weightedChanceForAnyItemIncludingDrop": 0.75,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.25
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0,
+                            "weightedChanceForSpecificItem": 0.013636,
+                            "weightedChanceForAnyItemIncludingDrop": 0.15,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.013636
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0,
+                            "weightedChanceForSpecificItem": 0.02,
+                            "weightedChanceForAnyItemIncludingDrop": 0.02,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.02
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 8.0,
+                            "weightedChanceForSpecificItem": 0.08,
+                            "weightedChanceForAnyItemIncludingDrop": 0.08,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.08
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 3,
+                        "2": 11,
+                        "3": 1,
+                        "4": 1,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 846,
+                    "RarityTableIndex": 4,
+                    "percent": 100.0,
+                    "minToDrop": 8,
+                    "maxToDrop": 8,
+                    "size": 26,
+                    "names": {
+                        "LootTableIndex": "846",
+                        "Type": "Loot",
+                        "Name": "Ninjago Consumables"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.044118,
+                            "weightedChanceForAnyItemIncludingDrop": 0.75,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.044118
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0,
+                            "weightedChanceForSpecificItem": 0.025,
+                            "weightedChanceForAnyItemIncludingDrop": 0.15,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.025
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 8.0,
+                            "weightedChanceForSpecificItem": 0.026667,
+                            "weightedChanceForAnyItemIncludingDrop": 0.08,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.026667
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 17,
+                        "2": 6,
+                        "3": 3,
+                        "4": 0,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 847,
+                    "RarityTableIndex": 4,
+                    "percent": 100.0,
+                    "minToDrop": 2,
+                    "maxToDrop": 4,
+                    "size": 49,
+                    "names": {
+                        "LootTableIndex": "847",
+                        "Type": "Loot",
+                        "Name": "Ninjago Models"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0,
+                            "weightedChanceForSpecificItem": 0.039474,
+                            "weightedChanceForAnyItemIncludingDrop": 0.75,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.039474
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0,
+                            "weightedChanceForSpecificItem": 0.013636,
+                            "weightedChanceForAnyItemIncludingDrop": 0.15,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.013636
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0,
+                            "weightedChanceForSpecificItem": 0.004,
+                            "weightedChanceForAnyItemIncludingDrop": 0.02,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.004
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 8.0,
+                            "weightedChanceForSpecificItem": 0.005714,
+                            "weightedChanceForAnyItemIncludingDrop": 0.08,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.005714
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 19,
+                        "2": 11,
+                        "3": 14,
+                        "4": 5,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 868,
+                    "RarityTableIndex": 4,
+                    "percent": 12.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 3,
+                    "names": {
+                        "LootTableIndex": "868",
+                        "Type": "Loot",
+                        "Name": "Ninjago Rares"
+                    },
+                    "rarityTableInfo": {
+                        "1": {
+                            "id": 17,
+                            "randmax": 75.0,
+                            "rarity": 1,
+                            "chance": 75.0,
+                            "weightedChance": 75.0
+                        },
+                        "2": {
+                            "id": 18,
+                            "randmax": 90.0,
+                            "rarity": 2,
+                            "chance": 15.0,
+                            "weightedChance": 15.0
+                        },
+                        "4": {
+                            "id": 19,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 2.0,
+                            "weightedChance": 2.0,
+                            "weightedChanceForSpecificItem": 0.006667,
+                            "weightedChanceForAnyItemIncludingDrop": 0.0024,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.0008
+                        },
+                        "3": {
+                            "id": 22,
+                            "randmax": 98.0,
+                            "rarity": 3,
+                            "chance": 8.0,
+                            "weightedChance": 0,
+                            "weightedChanceForSpecificItem": 0
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 0,
+                        "2": 0,
+                        "3": 0,
+                        "4": 3,
+                        "5": 0
+                    },
+                    "total": 100
+                },
+                {
+                    "LootTableIndex": 877,
+                    "RarityTableIndex": 26,
+                    "percent": 16.0,
+                    "minToDrop": 1,
+                    "maxToDrop": 1,
+                    "size": 8,
+                    "names": {
+                        "LootTableIndex": "877",
+                        "Type": "Loot",
+                        "AlternateName": "Frakjaw DX Gear Drops"
+                    },
+                    "rarityTableInfo": {
+                        "4": {
+                            "id": 89,
+                            "randmax": 100.0,
+                            "rarity": 4,
+                            "chance": 100.0,
+                            "weightedChance": 100.0,
+                            "weightedChanceForSpecificItem": 0.125,
+                            "weightedChanceForAnyItemIncludingDrop": 0.16,
+                            "weightedChanceForSpecificItemIncludingDrop": 0.02
+                        }
+                    },
+                    "rarityCount": {
+                        "1": 0,
+                        "2": 0,
+                        "3": 0,
+                        "4": 8,
+                        "5": 0
+                    },
+                    "total": 100
+                }
+            ]
+        }
+    }
+}
