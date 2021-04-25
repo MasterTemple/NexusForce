@@ -1,16 +1,18 @@
 # NexusForce
 Nexus Force LEGO Universe Bot
 
-Installation/Setup:
-1. Download Node.js (see internet)
-2. In terminal type `npm i discord.js` and `npm i nodemon -g`
-3. Add a `config.json` file that looks exactly like this, except put in your own token
+# Setup:
+1. Download Node.js [here](https://nodejs.org/en/download/)
+2. Download git [here](https://git-scm.com/download)
+3. Type `git https://github.com/MasterTemple/NexusForce.git` in terminal
+4. Next, type `npm i discord.js` and `npm i nodemon -g`
+5. Add a `config.json` file that looks exactly like this, except put in your own token
 ```yaml
 {
   "prefix": "!",
   "iconURL": "https://media.discordapp.net/attachments/641133444746838016/813621671461781544/circle-cropped_1.png",
   "inviteLink": "https://www.darkflameuniverse.org/",
-  "token": "kepi",
+  "token": "YOUR_TOKEN_GOES_HERE!!!",
   "footer": "The LEGO Group has not endorsed or authorized the operation of this game and is not liable for any safety issues in relation to the operation of this game.",
   "invisChar": "឵឵",
   "botInfo": {
@@ -43,7 +45,7 @@ Installation/Setup:
 }
    ```
 
-4. Run `index.js` by typing `nodemon index.js` in your command line
+6. Run `index.js` by typing `nodemon index.js` in your command line
 
 # Three Types of Commands:
 1. Normal (Accessible by all users)\
@@ -54,8 +56,6 @@ Installation/Setup:
 3. Mythran (Accessible by only mythrans)\
     Visible with `!mythran` command
    
-# Issues:
-I don't know if the server emojis will work if someone hosts this bot without it being in the server that contains these emojis. If not, contact me and I can help you set them up.
 # Some screenshots:
 # !kit
 ![img.png](src/img.png)
@@ -79,18 +79,19 @@ I don't know if the server emojis will work if someone hosts this bot without it
 ![img_8.png](src/img_8.png)
 # !npc
 ![img_9.png](src/img_9.png)
+# !group
+![img_19.png](src/img_19.png)
 # !skill
-![img_4.png](src/img_14.png)
+![img_14.png](src/img_14.png)
 # To Prevent Spam, Some Commands With Large Messages Are DMed To The User
 Some of the content might be short, but it has the potential to be very long. To prevent abuse, the bot DM's the user the info.
-# !group
-![img_15.png](src/img_15.png)
-![img_1.png](src/img_16.png)
 # !skill
 ![img_18.png](src/img_18.png)
 ![img_13.png](src/img_13.png)
 
 
+# Issues:
+I don't know if the server emojis will work if someone hosts this bot without it being in the server that contains these emojis. If not, contact me and I can help you set them up.
 
 
 # Future
