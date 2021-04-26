@@ -68,7 +68,7 @@ module.exports = {
                 if(arr.includes(enemyFile.overview[el].attackTypes[i]) === false && enemyFile.overview[el].attackTypes[i] !== "Ranged"){
                     arr.push(enemyFile.overview[el].attackTypes[i])
                 }
-                if(enemyFile.overview[el].attackTypes[i] !== "Ranged"){
+                if(enemyFile.overview[el].attackTypes[i] === "Ranged"){
                     ranged = true
                 }
             }

@@ -78,6 +78,8 @@ Nexus Force LEGO Universe Bot
 ![img_4.png](src/img_4.png)
 # !mission
 ![img_5.png](src/img_5.png)
+# !enemy
+![img_21.png](src/img_21.png)
 # !level
 ![img_12.png](src/img_12.png)
 # !brick
@@ -108,7 +110,7 @@ I don't know if the server emojis will work if someone hosts this bot without it
 
 
 # Future
-1. Enemy stats and attacks
+1. Compare feature
 
 # Contact
 If you have any questions regarding use or any suggestions for features, feel free to contact me on Discord at `MasterTemple#0233` (my ID is `789705048035688458` just in case my name is changed). Find me in the [LEGO Universe Community Hub](https://discord.gg/Yz8yEmZ)!
