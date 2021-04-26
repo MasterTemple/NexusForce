@@ -2,8 +2,8 @@ module.exports = {
     name: ['skillitem', 'skillitems'],
     description: 'Get all objects by its skill in LEGO Universe',
     args: true,
-    use: `skill [name or ID]`,
-    example: [`skill 550`, `skill Ronin Rush`],
+    use: `skillitems [name or ID]`,
+    example: [`skillitems 550`, `skill Ronin Rush`],
     execute(message, args) {
         function err() {
             try {
@@ -57,34 +57,34 @@ module.exports = {
             console.log(e)
             var uIcon = "https://images-ext-1.discordapp.net/external/yeozIqZ6L5llPU2kUINa2Y5agdt4reO0KN1Q1YAjAOQ/%3Fcb%3D20121121213649/https/static.wikia.nocookie.net/legomessageboards/images/c/ce/LU2.png/revision/latest"
         }
-        let desc = ``
-        if(skillToCDGFile[skillID]['cdg'] !== undefined){
-            desc = `${desc}Cooldown Group: **${skillToCDGFile[skillID]['cdg']}**\n`
-        }
-        if(skillData.imaginationCost !== null && skillData.cooldownTime !== null){
-            desc = `${desc}Imagination Cost: **${skillData.imaginationCost}** ${emojis.imagination}\nCooldown Time: **${skillData.cooldownTime}** Seconds\n`
-        }
-        if(skillData.imBonusUI !== null){
-            desc = `${desc}Bonus: **${skillData.imBonusUI}** ${emojis.imagination}\n`
-        }
-        if(skillData.armorBonusUI !== null){
-            desc = `${desc}Bonus: **${skillData.armorBonusUI}** ${emojis.armor}\n`
-        }
-        if(skillData.lifeBonusUI !== null){
-            desc = `${desc}Bonus: **${skillData.lifeBonusUI}** ${emojis.heart}\n`
-        }
-
-
-        if(skillToCDGFile[skillID]['damageCombo'] !== undefined){
-            desc = `${desc}Damage Combo: **${skillToCDGFile[skillID]['damageCombo']}**\n`
-        }
-        if(skillToCDGFile[skillID]['ChargeUp'] !== undefined){
-            desc = `${desc}ChargeUp: **${skillToCDGFile[skillID]['ChargeUp']}**\n`
-        }
-
-        if(skillToCDGFile[skillID]['Description'] !== undefined){
-            desc = `${desc}**Description: **${skillToCDGFile[skillID]['Description']}\n`
-        }
+        // let desc = ``
+        // if(skillToCDGFile[skillID]['cdg'] !== undefined){
+        //     desc = `${desc}Cooldown Group: **${skillToCDGFile[skillID]['cdg']}**\n`
+        // }
+        // if(skillData.imaginationCost !== null && skillData.cooldownTime !== null){
+        //     desc = `${desc}Imagination Cost: **${skillData.imaginationCost}** ${emojis.imagination}\nCooldown Time: **${skillData.cooldownTime}** Seconds\n`
+        // }
+        // if(skillData.imBonusUI !== null){
+        //     desc = `${desc}Bonus: **${skillData.imBonusUI}** ${emojis.imagination}\n`
+        // }
+        // if(skillData.armorBonusUI !== null){
+        //     desc = `${desc}Bonus: **${skillData.armorBonusUI}** ${emojis.armor}\n`
+        // }
+        // if(skillData.lifeBonusUI !== null){
+        //     desc = `${desc}Bonus: **${skillData.lifeBonusUI}** ${emojis.heart}\n`
+        // }
+        //
+        //
+        // if(skillToCDGFile[skillID]['damageCombo'] !== undefined){
+        //     desc = `${desc}Damage Combo: **${skillToCDGFile[skillID]['damageCombo']}**\n`
+        // }
+        // if(skillToCDGFile[skillID]['ChargeUp'] !== undefined){
+        //     desc = `${desc}ChargeUp: **${skillToCDGFile[skillID]['ChargeUp']}**\n`
+        // }
+        //
+        // if(skillToCDGFile[skillID]['Description'] !== undefined){
+        //     desc = `${desc}**Description: **${skillToCDGFile[skillID]['Description']}\n`
+        // }
 
         let embedArray = []
 
@@ -128,7 +128,7 @@ module.exports = {
         let num = 1
         embedArray.forEach(function(e){
 
-            let embed = msgEmbed.execute(`${skillName}: ${skillID} (${num})`, desc,`https://lu-explorer.web.app/skills/${skillID}`, uIcon)
+            let embed = msgEmbed.execute(`${skillName}: ${skillID} (${num})`, undefined,`https://lu-explorer.web.app/skills/${skillID}`, uIcon)
 
             embed.addField("Items:", e.field1, true)
             if(e.field2 === ''){

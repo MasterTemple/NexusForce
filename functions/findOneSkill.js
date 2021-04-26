@@ -17,7 +17,7 @@ module.exports = {
         //         }
         //     }catch{}
         // }
-        let skillID
+        let skillID = []
         Object.keys(item).forEach(function(el, key,arr){
             //console.log(el,key)
 
@@ -26,14 +26,12 @@ module.exports = {
                     return item[el].name.toLowerCase().includes(e)
                 });
                 if (allMatch) {
-                    //console.log(Object.keys(item)[key], item[el])
-                    skillID = Object.keys(item)[key]
+                    skillID.push(Object.keys(item)[key])
                     return Object.keys(item)[key]
                 }
             }catch{}
         })
-        //console.log(skillID)
-        return skillID
+        return skillID[0]
 
 
 
