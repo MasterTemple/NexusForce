@@ -1,9 +1,9 @@
 module.exports = {
-    name: ['setenemypfp'],
-    description: 'Sets the pfp of an enemy',
+    name: ['setnpcpfp'],
+    description: 'Sets the pfp of an NPC',
     args: true,
-    use: `setenemypfp [id] [path]`,
-    example:[`setenemypfp 6806 textures/ui/achievments/darkling_ape.png`],
+    use: `setnpcpfp [id] [path]`,
+    example:[`setnpcpfp 13569 textures/nexustower/ui/missioncomics/nexustower/task_icons/mission_mr_ree.png`],
     execute(message, args) {
         function err() {
             try {
@@ -31,7 +31,7 @@ module.exports = {
 
         // message.reply(objectID)
         // return
-        var file = require(`./../output/enemies/${objectID}.json`)
+        var file = require(`./../output/npcs/${Math.floor(objectID/256)}/${objectID}.json`)
         let config = require('./../config.json');
         //let file = require(`./../json/Reference/LootTableIndexNames.json`)
         function err(){
@@ -51,15 +51,15 @@ module.exports = {
         const fs = require('fs')
         file.iconURL = url
 
-        fs.writeFile (`./output/enemies/${objectID}.json`, JSON.stringify(file,null,2), function(err) {
+        fs.writeFile (`./output/npcs/${Math.floor(objectID/256)}/${objectID}.json`, JSON.stringify(file,null,2), function(err) {
                 if (err) throw err;
-                let logFile = require('../output/contributor/EnemyPFPUpdates.json')
+                let logFile = require('../output/contributor/NPCPFPUpdates.json')
                 logFile.push({
-                    "enemyID": objectID,
+                    "npcID": objectID,
                     "path": url
                 })
 
-                fs.writeFile (`./output/contributor/EnemyPFPUpdates.json`, JSON.stringify(logFile,null,2), function(err) {
+                fs.writeFile (`./output/contributor/NPCPFPUpdates.json`, JSON.stringify(logFile,null,2), function(err) {
                         if (err) throw err;
                     }
                 );

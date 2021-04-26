@@ -29,9 +29,19 @@ module.exports = {
         var npcFile = require(`./../output/npcs/${Math.floor(objectID/256)}/${objectID}.json`)
 
         let msgEmbed = require(`./../functions/embedTemplate.js`)
+        let img
         const { uIcon, luExplorerURL, resURL, unknownImageURL} = require('./../config.json')
+        if(npcFile.iconURL !== "uIcon" || npcFile.iconUFL !== "unknown" && npcFile.iconURL.includes('http') === false){
+            img = `${resURL}${npcFile.iconURL}`
+        }else if(npcFile.iconURL === "unknown"){
+            img = unknownImageURL
+        }else if(npcFile.iconURL.includes('http')){
+            img = npcFile.iconURL
+        }else{
+            img = uIcon
+        }
 
-        let embed = msgEmbed.execute(`${npcFile.itemInfo.displayName} [${npcFile.objectID}]`, undefined,`${luExplorerURL}objects/${npcFile.objectID}`, npcFile.iconURL)
+        let embed = msgEmbed.execute(`${npcFile.itemInfo.displayName} [${npcFile.objectID}]`, undefined,`${luExplorerURL}objects/${npcFile.objectID}`, img)
 
 
         let missionInfo = ``
