@@ -5,7 +5,9 @@
         "displayName": "Dark Ronin Invader",
         "type": "Enemies",
         "description": null,
-        "internalNotes": "minion for FV"
+        "internalNotes": "minion for FV",
+        "life": 15,
+        "armor": 0.0
     },
     "enemyID": 11218,
     "components": {
@@ -17,6 +19,7 @@
         "31": 8,
         "60": 75
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 1600,
@@ -534,7 +537,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 52,
+        "level": 3,
+        "currencyMin": 25,
+        "currencyMax": 35
     },
     "skillIDs": [
         494
@@ -542,7 +549,31 @@
     "objectSkills": {
         "494": {
             "castOnType": null,
-            "AICombatWeight": 100
+            "AICombatWeight": 100,
+            "behaviorID": 6041,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 4.5,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        6041
+    ],
+    "stats": {},
+    "overview": {
+        "6041": {
+            "damage": [
+                2,
+                2,
+                2
+            ],
+            "attackTypes": [],
+            "cooldown": 4.5
         }
     }
 }

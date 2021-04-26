@@ -2,10 +2,12 @@
     "objectID": 7865,
     "itemInfo": {
         "name": "Car Landmine",
-        "displayName": null,
+        "displayName": "Car Landmine",
         "type": "Enemies",
         "description": "Car Landmine",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 1,
+        "armor": 0.0
     },
     "enemyID": 7865,
     "components": {
@@ -15,6 +17,7 @@
         "9": 0,
         "20": 3532
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 759,
@@ -427,7 +430,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 3,
+        "level": 1,
+        "currencyMin": 6,
+        "currencyMax": 10
     },
     "skillIDs": [
         411
@@ -435,7 +442,32 @@
     "objectSkills": {
         "411": {
             "castOnType": 0,
-            "AICombatWeight": 0
+            "AICombatWeight": 0,
+            "behaviorID": 4485,
+            "imaginationcost": 0,
+            "cooldowngroup": 0,
+            "cooldown": 0.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        4485
+    ],
+    "stats": {
+        "cooldown": 0.0,
+        "cooldowngroup": 0
+    },
+    "overview": {
+        "4485": {
+            "damage": [
+                5
+            ],
+            "attackTypes": [],
+            "cooldown": 0.0
         }
     }
 }

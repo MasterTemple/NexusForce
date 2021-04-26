@@ -5,7 +5,9 @@
         "displayName": "Dark Ronin",
         "type": "Enemies",
         "description": "minion for FV",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 12,
+        "armor": 0.0
     },
     "enemyID": 7815,
     "components": {
@@ -17,6 +19,7 @@
         "31": 33,
         "60": 27
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 748,
@@ -731,7 +734,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 4,
+        "level": 2,
+        "currencyMin": 18,
+        "currencyMax": 33
     },
     "skillIDs": [
         494
@@ -739,7 +746,31 @@
     "objectSkills": {
         "494": {
             "castOnType": null,
-            "AICombatWeight": 100
+            "AICombatWeight": 100,
+            "behaviorID": 6041,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 4.5,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        6041
+    ],
+    "stats": {},
+    "overview": {
+        "6041": {
+            "damage": [
+                2,
+                2,
+                2
+            ],
+            "attackTypes": [],
+            "cooldown": 4.5
         }
     }
 }

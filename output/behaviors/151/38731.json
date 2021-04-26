@@ -19,6 +19,21 @@
         "projectileLOTs": [],
         "projectileInfo": {},
         "projectileDamageComboArray": [],
+        "allDamage": [
+            2,
+            4,
+            4,
+            4,
+            4
+        ],
+        "attackTypes": [
+            "Knockback",
+            "Knockback",
+            "Knockback",
+            "Area of Effect",
+            "Area of Effect",
+            "Knockback"
+        ],
         "doubleJumpSmash": 2,
         "singleJumpSmash": 4
     },

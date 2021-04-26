@@ -5,7 +5,9 @@
         "displayName": "",
         "type": "Enemies",
         "description": "",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 9999,
+        "armor": 0.0
     },
     "enemyID": 12511,
     "components": {
@@ -15,12 +17,20 @@
         "7": 1736,
         "39": 103
     },
+    "iconURL": "",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 1736,
         "LootMatrixIndex": null,
-        "LootTableIndexes": []
+        "LootTableIndexes": [],
+        "CurrencyIndex": 12,
+        "level": 1,
+        "currencyMin": 0,
+        "currencyMax": 0
     },
     "skillIDs": [],
-    "objectSkills": {}
+    "objectSkills": {},
+    "behaviorIDs": [],
+    "stats": {},
+    "overview": {}
 }

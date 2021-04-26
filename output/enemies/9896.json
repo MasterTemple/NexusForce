@@ -5,7 +5,9 @@
         "displayName": "Dark Ronin",
         "type": "Enemies",
         "description": null,
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 12,
+        "armor": 0.0
     },
     "enemyID": 9896,
     "components": {
@@ -15,11 +17,14 @@
         "9": 0,
         "60": 53
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 978,
         "LootMatrixIndex": null,
-        "LootTableIndexes": []
+        "LootTableIndexes": [],
+        "CurrencyIndex": null,
+        "level": 1
     },
     "skillIDs": [
         494
@@ -27,7 +32,31 @@
     "objectSkills": {
         "494": {
             "castOnType": null,
-            "AICombatWeight": 100
+            "AICombatWeight": 100,
+            "behaviorID": 6041,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 4.5,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        6041
+    ],
+    "stats": {},
+    "overview": {
+        "6041": {
+            "damage": [
+                2,
+                2,
+                2
+            ],
+            "attackTypes": [],
+            "cooldown": 4.5
         }
     }
 }

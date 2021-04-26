@@ -2,7 +2,7 @@
     "objectID": 6268,
     "itemInfo": {
         "name": "Shark Fins",
-        "displayName": null,
+        "displayName": "Shark Fins",
         "type": "Enemies",
         "description": "shark death fins for water",
         "internalNotes": null
@@ -12,7 +12,11 @@
         "2": 5686,
         "3": 1229
     },
+    "iconURL": "unknown",
     "doesntDropAnything": true,
     "skillIDs": [],
-    "objectSkills": {}
+    "objectSkills": {},
+    "behaviorIDs": [],
+    "stats": {},
+    "overview": {}
 }

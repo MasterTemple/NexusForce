@@ -24,6 +24,21 @@
             1,
             2
         ],
+        "allDamage": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "attackTypes": [
+            "Area of Effect",
+            "Knockback",
+            "Knockback",
+            "Ranged",
+            "Area of Effect",
+            "Ranged",
+            "Ranged"
+        ],
         "doubleJumpSmash": 1,
         "singleJumpSmash": 1,
         "projectileChargeUpLOT": 12822

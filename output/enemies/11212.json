@@ -5,7 +5,9 @@
         "displayName": "Stromling Invader",
         "type": "Enemies",
         "description": null,
-        "internalNotes": "Basic Stromling"
+        "internalNotes": "Basic Stromling",
+        "life": 5,
+        "armor": 0.0
     },
     "enemyID": 11212,
     "components": {
@@ -17,6 +19,7 @@
         "31": 3,
         "60": 69
     },
+    "iconURL": "textures/ui/missioncomics/wonderland/avant_gardens/hud_icons/battle_maelstrom_hud.png",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 1594,
@@ -534,7 +537,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 52,
+        "level": 1,
+        "currencyMin": 14,
+        "currencyMax": 20
     },
     "skillIDs": [
         928
@@ -542,7 +549,31 @@
     "objectSkills": {
         "928": {
             "castOnType": null,
-            "AICombatWeight": 100
+            "AICombatWeight": 100,
+            "behaviorID": 18919,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 1.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        18919
+    ],
+    "stats": {},
+    "overview": {
+        "18919": {
+            "damage": [
+                2
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 1.0
         }
     }
 }

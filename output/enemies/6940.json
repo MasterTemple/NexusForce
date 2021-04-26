@@ -2,10 +2,12 @@
     "objectID": 6940,
     "itemInfo": {
         "name": "SG Drop Target",
-        "displayName": null,
+        "displayName": "SG Drop Target",
         "type": "Enemies",
         "description": "Shooting Gallery Target - Duck 3",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 1,
+        "armor": 0.0
     },
     "enemyID": 6940,
     "components": {
@@ -15,12 +17,18 @@
         "7": 653,
         "25": 0
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 653,
         "LootMatrixIndex": null,
-        "LootTableIndexes": []
+        "LootTableIndexes": [],
+        "CurrencyIndex": null,
+        "level": 1
     },
     "skillIDs": [],
-    "objectSkills": {}
+    "objectSkills": {},
+    "behaviorIDs": [],
+    "stats": {},
+    "overview": {}
 }

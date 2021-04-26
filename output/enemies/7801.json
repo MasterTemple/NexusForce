@@ -5,7 +5,9 @@
         "displayName": "Target",
         "type": "Enemies",
         "description": "Shooting Gallery Target - Duck 3",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 1,
+        "armor": 0.0
     },
     "enemyID": 7801,
     "components": {
@@ -15,12 +17,18 @@
         "7": 745,
         "25": 0
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 745,
         "LootMatrixIndex": null,
-        "LootTableIndexes": []
+        "LootTableIndexes": [],
+        "CurrencyIndex": null,
+        "level": 1
     },
     "skillIDs": [],
-    "objectSkills": {}
+    "objectSkills": {},
+    "behaviorIDs": [],
+    "stats": {},
+    "overview": {}
 }

@@ -5,7 +5,9 @@
         "displayName": "Stromling Pirate Invader",
         "type": "Enemies",
         "description": null,
-        "internalNotes": "NT Easy Stromling type"
+        "internalNotes": "NT Easy Stromling type",
+        "life": 11,
+        "armor": 0.0
     },
     "enemyID": 11215,
     "components": {
@@ -17,6 +19,7 @@
         "31": 6,
         "60": 72
     },
+    "iconURL": "textures/ui/missioncomics/wonderland/gnarled_forest/hud_icons/mission_301.png",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 1597,
@@ -534,7 +537,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 52,
+        "level": 2,
+        "currencyMin": 21,
+        "currencyMax": 31
     },
     "skillIDs": [
         240,
@@ -543,11 +550,54 @@
     "objectSkills": {
         "240": {
             "castOnType": null,
-            "AICombatWeight": 20
+            "AICombatWeight": 20,
+            "behaviorID": 1969,
+            "imaginationcost": 0,
+            "cooldowngroup": 2,
+            "cooldown": 4.75,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
         },
         "928": {
             "castOnType": null,
-            "AICombatWeight": 80
+            "AICombatWeight": 80,
+            "behaviorID": 18919,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 1.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        1969,
+        18919
+    ],
+    "stats": {},
+    "overview": {
+        "1969": {
+            "damage": [
+                3
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 4.75
+        },
+        "18919": {
+            "damage": [
+                2
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 1.0
         }
     }
 }

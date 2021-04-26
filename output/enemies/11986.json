@@ -5,7 +5,9 @@
         "displayName": "Admiral Flogmore - Stromling Admiral Invader",
         "type": "Enemies",
         "description": null,
-        "internalNotes": "Tough GF Enemy"
+        "internalNotes": "Tough GF Enemy",
+        "life": 56,
+        "armor": 0.0
     },
     "enemyID": 11986,
     "components": {
@@ -17,6 +19,7 @@
         "31": 14,
         "60": 83
     },
+    "iconURL": "textures/ui/missioncomics/wonderland/gnarled_forest/hud_icons/mission_460.png",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 1641,
@@ -534,7 +537,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 52,
+        "level": 15,
+        "currencyMin": 450,
+        "currencyMax": 550
     },
     "skillIDs": [
         241
@@ -542,7 +549,32 @@
     "objectSkills": {
         "241": {
             "castOnType": null,
-            "AICombatWeight": 100
+            "AICombatWeight": 100,
+            "behaviorID": 1985,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 2.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        1985
+    ],
+    "stats": {},
+    "overview": {
+        "1985": {
+            "damage": [
+                6
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Knockback"
+            ],
+            "cooldown": 2.0
         }
     }
 }

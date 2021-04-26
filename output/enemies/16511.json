@@ -5,7 +5,9 @@
         "displayName": "Skeleton Mad Scientist",
         "type": "Enemies",
         "description": null,
-        "internalNotes": "Elite Ranged Skeleton for Ninjago Boss Instance"
+        "internalNotes": "Elite Ranged Skeleton for Ninjago Boss Instance",
+        "life": 55,
+        "armor": 0.0
     },
     "enemyID": 16511,
     "components": {
@@ -18,6 +20,7 @@
         "31": 100,
         "60": 182
     },
+    "iconURL": "textures/ui/missioncomics/wonderland/avant_gardens/hud_icons/battle_maelstrom_hud.png",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 2150,
@@ -530,7 +533,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 122,
+        "level": 3,
+        "currencyMin": 50,
+        "currencyMax": 80
     },
     "skillIDs": [
         1381,
@@ -539,11 +546,62 @@
     "objectSkills": {
         "1381": {
             "castOnType": null,
-            "AICombatWeight": 90
+            "AICombatWeight": 90,
+            "behaviorID": 32245,
+            "imaginationcost": 0,
+            "cooldowngroup": 2,
+            "cooldown": 4.5,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
         },
         "1382": {
             "castOnType": null,
-            "AICombatWeight": 10
+            "AICombatWeight": 10,
+            "behaviorID": 32268,
+            "imaginationcost": 0,
+            "cooldowngroup": 2,
+            "cooldown": 9.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        32245,
+        32268
+    ],
+    "stats": {},
+    "overview": {
+        "32245": {
+            "damage": [
+                5,
+                4,
+                3,
+                2,
+                1
+            ],
+            "attackTypes": [],
+            "cooldown": 4.5
+        },
+        "32268": {
+            "damage": [
+                6,
+                5,
+                4,
+                3,
+                2
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Area of Effect",
+                "Knockback"
+            ],
+            "cooldown": 9.0
         }
     }
 }

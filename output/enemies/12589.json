@@ -5,7 +5,9 @@
         "displayName": "Stromling Pirate",
         "type": "Enemies",
         "description": null,
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 8,
+        "armor": 0.0
     },
     "enemyID": 12589,
     "components": {
@@ -17,6 +19,7 @@
         "31": 42,
         "60": 105
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 1753,
@@ -56,7 +59,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 2,
+        "level": 1,
+        "currencyMin": 3,
+        "currencyMax": 5
     },
     "skillIDs": [
         239,
@@ -65,11 +72,54 @@
     "objectSkills": {
         "239": {
             "castOnType": null,
-            "AICombatWeight": 67
+            "AICombatWeight": 67,
+            "behaviorID": 1957,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 1.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
         },
         "240": {
             "castOnType": null,
-            "AICombatWeight": 33
+            "AICombatWeight": 33,
+            "behaviorID": 1969,
+            "imaginationcost": 0,
+            "cooldowngroup": 2,
+            "cooldown": 4.75,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        1957,
+        1969
+    ],
+    "stats": {},
+    "overview": {
+        "1957": {
+            "damage": [
+                1
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 1.0
+        },
+        "1969": {
+            "damage": [
+                3
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 4.75
         }
     }
 }

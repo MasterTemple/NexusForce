@@ -2,14 +2,18 @@
     "objectID": 3045,
     "itemInfo": {
         "name": "Ninja Beacon",
-        "displayName": null,
+        "displayName": "Ninja Beacon",
         "type": "Enemies",
         "description": null,
         "internalNotes": null
     },
     "enemyID": 3045,
     "components": {},
+    "iconURL": "unknown",
     "doesntDropAnything": true,
     "skillIDs": [],
-    "objectSkills": {}
+    "objectSkills": {},
+    "behaviorIDs": [],
+    "stats": {},
+    "overview": {}
 }

@@ -17,6 +17,18 @@
         "projectileLOTs": [],
         "projectileInfo": {},
         "projectileDamageComboArray": [],
+        "allDamage": [
+            2,
+            2
+        ],
+        "attackTypes": [
+            "Ranged",
+            "Ranged",
+            "Ranged",
+            "Area of Effect",
+            "Area of Effect",
+            "Area of Effect"
+        ],
         "projectileChargeUpLOT": 7937,
         "chargeUpCombo": 2,
         "projectileChargeUpDamage": 2

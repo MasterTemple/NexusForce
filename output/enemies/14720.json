@@ -2,7 +2,7 @@
     "objectID": 14720,
     "itemInfo": {
         "name": "Property Spider Boss",
-        "displayName": null,
+        "displayName": "Property Spider Boss",
         "type": "Enemies",
         "description": "Spider Boss Property",
         "internalNotes": null
@@ -11,7 +11,11 @@
     "components": {
         "2": 14407
     },
+    "iconURL": "unknown",
     "doesntDropAnything": true,
     "skillIDs": [],
-    "objectSkills": {}
+    "objectSkills": {},
+    "behaviorIDs": [],
+    "stats": {},
+    "overview": {}
 }

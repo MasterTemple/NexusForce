@@ -5,7 +5,9 @@
         "displayName": "Stromling Admiral",
         "type": "Enemies",
         "description": "Tough GF Enemy",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 12,
+        "armor": 0.0
     },
     "enemyID": 6789,
     "components": {
@@ -17,6 +19,7 @@
         "31": 32,
         "60": 13
     },
+    "iconURL": "textures/ui/missioncomics/wonderland/gnarled_forest/hud_icons/mission_460.png",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 631,
@@ -928,7 +931,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 3,
+        "level": 3,
+        "currencyMin": 47,
+        "currencyMax": 77
     },
     "skillIDs": [
         241
@@ -936,7 +943,32 @@
     "objectSkills": {
         "241": {
             "castOnType": null,
-            "AICombatWeight": 100
+            "AICombatWeight": 100,
+            "behaviorID": 1985,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 2.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        1985
+    ],
+    "stats": {},
+    "overview": {
+        "1985": {
+            "damage": [
+                6
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Knockback"
+            ],
+            "cooldown": 2.0
         }
     }
 }

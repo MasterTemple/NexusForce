@@ -5,7 +5,9 @@
         "displayName": "Skeleton Raider",
         "type": "Enemies",
         "description": null,
-        "internalNotes": "Elite Basic Skeleton for Nijago"
+        "internalNotes": "Elite Basic Skeleton for Nijago",
+        "life": 35,
+        "armor": 0.0
     },
     "enemyID": 14025,
     "components": {
@@ -18,6 +20,7 @@
         "31": 75,
         "60": 153
     },
+    "iconURL": "textures/ui/missioncomics/wonderland/avant_gardens/hud_icons/battle_maelstrom_hud.png",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 1911,
@@ -496,7 +499,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 122,
+        "level": 2,
+        "currencyMin": 18,
+        "currencyMax": 30
     },
     "skillIDs": [
         1383,
@@ -506,15 +513,85 @@
     "objectSkills": {
         "1383": {
             "castOnType": null,
-            "AICombatWeight": 50
+            "AICombatWeight": 50,
+            "behaviorID": 32295,
+            "imaginationcost": 0,
+            "cooldowngroup": 2,
+            "cooldown": 7.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
         },
         "1386": {
             "castOnType": null,
-            "AICombatWeight": 50
+            "AICombatWeight": 50,
+            "behaviorID": 32374,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 1.25,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
         },
         "1391": {
             "castOnType": null,
-            "AICombatWeight": 10
+            "AICombatWeight": 10,
+            "behaviorID": 32497,
+            "imaginationcost": 0,
+            "cooldowngroup": 4,
+            "cooldown": 5.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        32295,
+        32374,
+        32497
+    ],
+    "stats": {},
+    "overview": {
+        "32295": {
+            "damage": [
+                6,
+                5,
+                4,
+                3,
+                2
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Area of Effect",
+                "Knockback"
+            ],
+            "cooldown": 7.0
+        },
+        "32374": {
+            "damage": [
+                5,
+                4,
+                3,
+                2,
+                1
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 1.25
+        },
+        "32497": {
+            "damage": [],
+            "attackTypes": [
+                "Ranged"
+            ],
+            "cooldown": 5.0
         }
     }
 }

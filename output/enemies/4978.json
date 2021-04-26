@@ -5,7 +5,9 @@
         "displayName": "Stromling",
         "type": "Enemies",
         "description": "Puccio & Kidd - for Dead Man's Bluff",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 20,
+        "armor": 0.0
     },
     "enemyID": 4978,
     "components": {
@@ -16,6 +18,7 @@
         "9": 0,
         "17": 91
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 470,
@@ -555,7 +558,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 1,
+        "level": 1,
+        "currencyMin": 3,
+        "currencyMax": 5
     },
     "skillIDs": [
         239
@@ -563,7 +570,31 @@
     "objectSkills": {
         "239": {
             "castOnType": null,
-            "AICombatWeight": 0
+            "AICombatWeight": 0,
+            "behaviorID": 1957,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 1.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        1957
+    ],
+    "stats": {},
+    "overview": {
+        "1957": {
+            "damage": [
+                1
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 1.0
         }
     }
 }

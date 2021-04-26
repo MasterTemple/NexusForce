@@ -25,6 +25,27 @@
             2
         ],
         "chargeUpCombo": 0,
+        "allDamage": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "attackTypes": [
+            "Area of Effect",
+            "Knockback",
+            "Knockback",
+            "Knockback",
+            "Knockback",
+            "Knockback",
+            "Knockback",
+            "Ranged",
+            "Ranged",
+            "Ranged"
+        ],
         "doubleJumpSmash": 1,
         "singleJumpSmash": 1,
         "chargeUpCost": -1

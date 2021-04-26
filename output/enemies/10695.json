@@ -5,7 +5,9 @@
         "displayName": "Stromling Mech",
         "type": "Enemies",
         "description": "Spawned from Behavior, no loot",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 3,
+        "armor": 0.0
     },
     "enemyID": 10695,
     "components": {
@@ -16,6 +18,7 @@
         "9": 0,
         "60": 7
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 1567,
@@ -172,8 +175,13 @@
                 },
                 "total": 0
             }
-        ]
+        ],
+        "CurrencyIndex": null,
+        "level": 3
     },
     "skillIDs": [],
-    "objectSkills": {}
+    "objectSkills": {},
+    "behaviorIDs": [],
+    "stats": {},
+    "overview": {}
 }

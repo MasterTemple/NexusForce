@@ -2,7 +2,7 @@
     "objectID": 2813,
     "itemInfo": {
         "name": "GC09 - Boss Burno",
-        "displayName": null,
+        "displayName": "GC09 - Boss Burno",
         "type": "Enemies",
         "description": "Team 9",
         "internalNotes": null
@@ -12,7 +12,11 @@
         "2": 2365,
         "3": 1409
     },
+    "iconURL": "unknown",
     "doesntDropAnything": true,
     "skillIDs": [],
-    "objectSkills": {}
+    "objectSkills": {},
+    "behaviorIDs": [],
+    "stats": {},
+    "overview": {}
 }

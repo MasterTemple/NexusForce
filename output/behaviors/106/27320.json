@@ -20,7 +20,17 @@
         "projectileDamageComboArray": [
             5
         ],
-        "chargeUpCombo": 0
+        "chargeUpCombo": 0,
+        "allDamage": [
+            5
+        ],
+        "attackTypes": [
+            "Area of Effect",
+            "Knockback",
+            "Ranged",
+            "Area of Effect",
+            "Knockback"
+        ]
     },
     "projectileBehaviorIDs": [
         6234

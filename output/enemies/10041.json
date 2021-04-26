@@ -5,7 +5,9 @@
         "displayName": "Stromling Ape",
         "type": "Enemies",
         "description": "Uber gorilla",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 10,
+        "armor": 0.0
     },
     "enemyID": 10041,
     "components": {
@@ -16,6 +18,7 @@
         "9": 0,
         "60": 55
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 985,
@@ -937,7 +940,11 @@
                 },
                 "total": 0
             }
-        ]
+        ],
+        "CurrencyIndex": 3,
+        "level": 4,
+        "currencyMin": 128,
+        "currencyMax": 256
     },
     "skillIDs": [
         761
@@ -945,7 +952,33 @@
     "objectSkills": {
         "761": {
             "castOnType": null,
-            "AICombatWeight": 100
+            "AICombatWeight": 100,
+            "behaviorID": 12478,
+            "imaginationcost": 0,
+            "cooldowngroup": 0,
+            "cooldown": 8.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        12478
+    ],
+    "stats": {},
+    "overview": {
+        "12478": {
+            "damage": [
+                3
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Area of Effect",
+                "Knockback"
+            ],
+            "cooldown": 8.0
         }
     }
 }

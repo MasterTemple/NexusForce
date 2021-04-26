@@ -5,7 +5,9 @@
         "displayName": "Hammer Stromling",
         "type": "Enemies",
         "description": null,
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 6,
+        "armor": 0.0
     },
     "enemyID": 12653,
     "components": {
@@ -18,6 +20,7 @@
         "31": 51,
         "60": 118
     },
+    "iconURL": "textures/ui/missioncomics/wonderland/avant_gardens/hud_icons/battle_maelstrom_hud.png",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 1771,
@@ -57,7 +60,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 1,
+        "level": 4,
+        "currencyMin": 30,
+        "currencyMax": 50
     },
     "skillIDs": [
         1013
@@ -65,7 +72,31 @@
     "objectSkills": {
         "1013": {
             "castOnType": null,
-            "AICombatWeight": 100
+            "AICombatWeight": 100,
+            "behaviorID": 21085,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 1.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        21085
+    ],
+    "stats": {},
+    "overview": {
+        "21085": {
+            "damage": [
+                3
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 1.0
         }
     }
 }

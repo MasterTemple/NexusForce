@@ -2,10 +2,12 @@
     "objectID": 8512,
     "itemInfo": {
         "name": "Spider Minions",
-        "displayName": null,
+        "displayName": "Spider Minions",
         "type": "Enemies",
         "description": "Spider Boss",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 3,
+        "armor": 0.0
     },
     "enemyID": 8512,
     "components": {
@@ -15,6 +17,7 @@
         "7": 537,
         "9": 0
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 537,
@@ -421,8 +424,13 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": null,
+        "level": 1
     },
     "skillIDs": [],
-    "objectSkills": {}
+    "objectSkills": {},
+    "behaviorIDs": [],
+    "stats": {},
+    "overview": {}
 }

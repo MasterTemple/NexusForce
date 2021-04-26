@@ -2,10 +2,12 @@
     "objectID": 2707,
     "itemInfo": {
         "name": "GC11 - Lily Pad Traffic Test",
-        "displayName": null,
+        "displayName": "GC11 - Lily Pad Traffic Test",
         "type": "Enemies",
         "description": "Like a truck but different",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 3,
+        "armor": 0.0
     },
     "enemyID": 2707,
     "components": {
@@ -15,6 +17,7 @@
         "7": 198,
         "9": 0
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 198,
@@ -216,8 +219,15 @@
                 },
                 "total": 0
             }
-        ]
+        ],
+        "CurrencyIndex": 1,
+        "level": 1,
+        "currencyMin": 3,
+        "currencyMax": 5
     },
     "skillIDs": [],
-    "objectSkills": {}
+    "objectSkills": {},
+    "behaviorIDs": [],
+    "stats": {},
+    "overview": {}
 }

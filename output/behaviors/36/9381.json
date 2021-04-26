@@ -15,6 +15,10 @@
         "projectileInfo": {},
         "projectileDamageComboArray": [],
         "chargeUpCombo": 0,
+        "allDamage": [
+            4
+        ],
+        "attackTypes": [],
         "chargeUpCost": -1
     },
     "projectileBehaviorIDs": [],

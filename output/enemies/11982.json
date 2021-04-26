@@ -5,7 +5,9 @@
         "displayName": "Talli Reeko - Stromling Invader",
         "type": "Enemies",
         "description": null,
-        "internalNotes": "Basic Stromling"
+        "internalNotes": "Basic Stromling",
+        "life": 19,
+        "armor": 0.0
     },
     "enemyID": 11982,
     "components": {
@@ -17,6 +19,7 @@
         "31": 10,
         "60": 79
     },
+    "iconURL": "textures/ui/missioncomics/wonderland/avant_gardens/hud_icons/battle_maelstrom_hud.png",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 1637,
@@ -534,7 +537,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 52,
+        "level": 11,
+        "currencyMin": 140,
+        "currencyMax": 200
     },
     "skillIDs": [
         484
@@ -542,7 +549,31 @@
     "objectSkills": {
         "484": {
             "castOnType": null,
-            "AICombatWeight": 100
+            "AICombatWeight": 100,
+            "behaviorID": 5915,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 1.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        5915
+    ],
+    "stats": {},
+    "overview": {
+        "5915": {
+            "damage": [
+                3
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 1.0
         }
     }
 }

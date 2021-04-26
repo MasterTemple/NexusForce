@@ -2,10 +2,12 @@
     "objectID": 9463,
     "itemInfo": {
         "name": "Boss Spider Minion",
-        "displayName": null,
+        "displayName": "Boss Spider Minion",
         "type": "Enemies",
         "description": "test asset for prototype spider leg",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 1,
+        "armor": 0.0
     },
     "enemyID": 9463,
     "components": {
@@ -16,6 +18,7 @@
         "9": 0,
         "60": 23
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 489,
@@ -555,7 +558,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 1,
+        "level": 2,
+        "currencyMin": 5,
+        "currencyMax": 9
     },
     "skillIDs": [
         485
@@ -563,7 +570,31 @@
     "objectSkills": {
         "485": {
             "castOnType": null,
-            "AICombatWeight": 100
+            "AICombatWeight": 100,
+            "behaviorID": 5928,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 1.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        5928
+    ],
+    "stats": {},
+    "overview": {
+        "5928": {
+            "damage": [
+                5
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 1.0
         }
     }
 }

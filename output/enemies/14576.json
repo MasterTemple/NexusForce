@@ -2,10 +2,12 @@
     "objectID": 14576,
     "itemInfo": {
         "name": "DPS NJ Skeleton Dummy",
-        "displayName": null,
+        "displayName": "DPS NJ Skeleton Dummy",
         "type": "Enemies",
         "description": null,
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 9999,
+        "armor": 0.0
     },
     "enemyID": 14576,
     "components": {
@@ -17,12 +19,20 @@
         "17": 545,
         "39": 103
     },
+    "iconURL": "textures/ui/missioncomics/wonderland/forbidden_valley/mission_givers/ninja_messenger.png",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 2033,
         "LootMatrixIndex": null,
-        "LootTableIndexes": []
+        "LootTableIndexes": [],
+        "CurrencyIndex": 12,
+        "level": 1,
+        "currencyMin": 0,
+        "currencyMax": 0
     },
     "skillIDs": [],
-    "objectSkills": {}
+    "objectSkills": {},
+    "behaviorIDs": [],
+    "stats": {},
+    "overview": {}
 }

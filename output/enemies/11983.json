@@ -5,7 +5,9 @@
         "displayName": "ED-902 - Stromling Mech Invader",
         "type": "Enemies",
         "description": null,
-        "internalNotes": "Stromling Sgt. that turns to a rebuild upon smashing."
+        "internalNotes": "Stromling Sgt. that turns to a rebuild upon smashing.",
+        "life": 23,
+        "armor": 0.0
     },
     "enemyID": 11983,
     "components": {
@@ -17,6 +19,7 @@
         "31": 11,
         "60": 80
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 1638,
@@ -534,7 +537,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 52,
+        "level": 11,
+        "currencyMin": 140,
+        "currencyMax": 200
     },
     "skillIDs": [
         489,
@@ -543,11 +550,54 @@
     "objectSkills": {
         "489": {
             "castOnType": null,
-            "AICombatWeight": 90
+            "AICombatWeight": 90,
+            "behaviorID": 5955,
+            "imaginationcost": 0,
+            "cooldowngroup": 0,
+            "cooldown": 2.0,
+            "inNpcEditor": 0,
+            "skillIcon": 2840,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
         },
         "930": {
             "castOnType": null,
-            "AICombatWeight": 10
+            "AICombatWeight": 10,
+            "behaviorID": 18945,
+            "imaginationcost": 0,
+            "cooldowngroup": 0,
+            "cooldown": 0.5,
+            "inNpcEditor": 0,
+            "skillIcon": 2840,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        5955,
+        18945
+    ],
+    "stats": {},
+    "overview": {
+        "5955": {
+            "damage": [
+                4
+            ],
+            "attackTypes": [
+                "Ranged"
+            ],
+            "cooldown": 2.0
+        },
+        "18945": {
+            "damage": [
+                2
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 0.5
         }
     }
 }

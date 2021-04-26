@@ -2,10 +2,12 @@
     "objectID": 2703,
     "itemInfo": {
         "name": "GC11 - Wocka Blonky Test",
-        "displayName": null,
+        "displayName": "GC11 - Wocka Blonky Test",
         "type": "Enemies",
         "description": "Wocka Wocka (based on 2268)",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 3,
+        "armor": 0.0
     },
     "enemyID": 2703,
     "components": {
@@ -15,6 +17,7 @@
         "7": 200,
         "9": 0
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 200,
@@ -216,8 +219,15 @@
                 },
                 "total": 0
             }
-        ]
+        ],
+        "CurrencyIndex": 1,
+        "level": 1,
+        "currencyMin": 3,
+        "currencyMax": 5
     },
     "skillIDs": [],
-    "objectSkills": {}
+    "objectSkills": {},
+    "behaviorIDs": [],
+    "stats": {},
+    "overview": {}
 }

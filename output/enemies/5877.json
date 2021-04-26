@@ -2,10 +2,12 @@
     "objectID": 5877,
     "itemInfo": {
         "name": "SG NetDevil fish",
-        "displayName": null,
+        "displayName": "SG NetDevil fish",
         "type": "Enemies",
         "description": "Shooting Gallery Target",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 1,
+        "armor": 0.0
     },
     "enemyID": 5877,
     "components": {
@@ -15,12 +17,18 @@
         "7": 119,
         "25": 0
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 119,
         "LootMatrixIndex": null,
-        "LootTableIndexes": []
+        "LootTableIndexes": [],
+        "CurrencyIndex": null,
+        "level": 1
     },
     "skillIDs": [],
-    "objectSkills": {}
+    "objectSkills": {},
+    "behaviorIDs": [],
+    "stats": {},
+    "overview": {}
 }

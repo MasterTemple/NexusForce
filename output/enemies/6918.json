@@ -2,10 +2,12 @@
     "objectID": 6918,
     "itemInfo": {
         "name": "SG Target Duck 1",
-        "displayName": null,
+        "displayName": "SG Target Duck 1",
         "type": "Enemies",
         "description": "Shooting Gallery Target - Duck 1",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 1,
+        "armor": 0.0
     },
     "enemyID": 6918,
     "components": {
@@ -15,12 +17,18 @@
         "7": 650,
         "25": 0
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 650,
         "LootMatrixIndex": null,
-        "LootTableIndexes": []
+        "LootTableIndexes": [],
+        "CurrencyIndex": null,
+        "level": 1
     },
     "skillIDs": [],
-    "objectSkills": {}
+    "objectSkills": {},
+    "behaviorIDs": [],
+    "stats": {},
+    "overview": {}
 }

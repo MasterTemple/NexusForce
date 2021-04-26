@@ -2,10 +2,12 @@
     "objectID": 7849,
     "itemInfo": {
         "name": "Duck Shooting Gallery Cannon Ball - Supercharged",
-        "displayName": null,
+        "displayName": "Duck Shooting Gallery Cannon Ball - Supercharged",
         "type": "Enemies",
         "description": "Supercharged cannonball for shooting gallery",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 1,
+        "armor": 0.0
     },
     "enemyID": 7849,
     "components": {
@@ -15,11 +17,16 @@
         "9": 0,
         "18": 3517
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 753,
         "LootMatrixIndex": null,
-        "LootTableIndexes": []
+        "LootTableIndexes": [],
+        "CurrencyIndex": 12,
+        "level": 1,
+        "currencyMin": 0,
+        "currencyMax": 0
     },
     "skillIDs": [
         400
@@ -27,7 +34,31 @@
     "objectSkills": {
         "400": {
             "castOnType": null,
-            "AICombatWeight": null
+            "AICombatWeight": null,
+            "behaviorID": 4431,
+            "imaginationcost": 0,
+            "cooldowngroup": 0,
+            "cooldown": 0.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        4431
+    ],
+    "stats": {},
+    "overview": {
+        "4431": {
+            "damage": [
+                100
+            ],
+            "attackTypes": [
+                "Area of Effect"
+            ],
+            "cooldown": 0.0
         }
     }
 }

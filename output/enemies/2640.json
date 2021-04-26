@@ -2,10 +2,12 @@
     "objectID": 2640,
     "itemInfo": {
         "name": "SG Floating Target",
-        "displayName": null,
+        "displayName": "SG Floating Target",
         "type": "Enemies",
         "description": "Moving platform target for shooting gallery",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 1,
+        "armor": 0.0
     },
     "enemyID": 2640,
     "components": {
@@ -15,12 +17,18 @@
         "7": 119,
         "25": 0
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 119,
         "LootMatrixIndex": null,
-        "LootTableIndexes": []
+        "LootTableIndexes": [],
+        "CurrencyIndex": null,
+        "level": 1
     },
     "skillIDs": [],
-    "objectSkills": {}
+    "objectSkills": {},
+    "behaviorIDs": [],
+    "stats": {},
+    "overview": {}
 }

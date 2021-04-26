@@ -2,10 +2,12 @@
     "objectID": 3284,
     "itemInfo": {
         "name": "AG - Corrupted Mower",
-        "displayName": null,
+        "displayName": "AG - Corrupted Mower",
         "type": "Enemies",
         "description": "Corrupted mowers for scene 6 NP",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 2,
+        "armor": 0.0
     },
     "enemyID": 3284,
     "components": {
@@ -15,11 +17,16 @@
         "7": 264,
         "9": 0
     },
+    "iconURL": "textures/ui/missioncomics/wonderland/avant_gardens/hud_icons/smashquickbdrobotnist_hud.png",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 264,
         "LootMatrixIndex": null,
-        "LootTableIndexes": []
+        "LootTableIndexes": [],
+        "CurrencyIndex": 1,
+        "level": 1,
+        "currencyMin": 3,
+        "currencyMax": 5
     },
     "skillIDs": [
         239
@@ -27,7 +34,31 @@
     "objectSkills": {
         "239": {
             "castOnType": null,
-            "AICombatWeight": 0
+            "AICombatWeight": 0,
+            "behaviorID": 1957,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 1.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        1957
+    ],
+    "stats": {},
+    "overview": {
+        "1957": {
+            "damage": [
+                1
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 1.0
         }
     }
 }

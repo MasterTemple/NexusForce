@@ -5,7 +5,9 @@
         "displayName": "Stromling Mech",
         "type": "Enemies",
         "description": "Stromling Sgt. that turns to a rebuild upon smashing.",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 9,
+        "armor": 0.0
     },
     "enemyID": 8222,
     "components": {
@@ -16,6 +18,7 @@
         "9": 0,
         "60": 34
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 868,
@@ -282,7 +285,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 4,
+        "level": 1,
+        "currencyMin": 12,
+        "currencyMax": 20
     },
     "skillIDs": [
         214,
@@ -291,11 +298,52 @@
     "objectSkills": {
         "214": {
             "castOnType": null,
-            "AICombatWeight": 30
+            "AICombatWeight": 30,
+            "behaviorID": 1835,
+            "imaginationcost": 0,
+            "cooldowngroup": 0,
+            "cooldown": 0.5,
+            "inNpcEditor": 0,
+            "skillIcon": 2840,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
         },
         "215": {
             "castOnType": null,
-            "AICombatWeight": 70
+            "AICombatWeight": 70,
+            "behaviorID": 1837,
+            "imaginationcost": 0,
+            "cooldowngroup": 0,
+            "cooldown": 1.0,
+            "inNpcEditor": 0,
+            "skillIcon": 2840,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        1835,
+        1837
+    ],
+    "stats": {},
+    "overview": {
+        "1835": {
+            "damage": [],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 0.5
+        },
+        "1837": {
+            "damage": [
+                1
+            ],
+            "attackTypes": [
+                "Ranged"
+            ],
+            "cooldown": 1.0
         }
     }
 }

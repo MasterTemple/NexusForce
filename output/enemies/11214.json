@@ -5,7 +5,9 @@
         "displayName": "Dark Spiderling Invader",
         "type": "Enemies",
         "description": null,
-        "internalNotes": "Small Stromling spider for scenario Survival"
+        "internalNotes": "Small Stromling spider for scenario Survival",
+        "life": 25,
+        "armor": 0.0
     },
     "enemyID": 11214,
     "components": {
@@ -17,6 +19,7 @@
         "31": 5,
         "60": 71
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 1604,
@@ -534,7 +537,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 52,
+        "level": 5,
+        "currencyMin": 45,
+        "currencyMax": 55
     },
     "skillIDs": [
         230,
@@ -544,15 +551,75 @@
     "objectSkills": {
         "230": {
             "castOnType": null,
-            "AICombatWeight": 20
+            "AICombatWeight": 20,
+            "behaviorID": 1898,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 2.0,
+            "inNpcEditor": 0,
+            "skillIcon": 2840,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
         },
         "833": {
             "castOnType": null,
-            "AICombatWeight": 10
+            "AICombatWeight": 10,
+            "behaviorID": 15556,
+            "imaginationcost": 0,
+            "cooldowngroup": 3,
+            "cooldown": 2.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
         },
         "933": {
             "castOnType": null,
-            "AICombatWeight": 80
+            "AICombatWeight": 80,
+            "behaviorID": 19025,
+            "imaginationcost": 0,
+            "cooldowngroup": 0,
+            "cooldown": 2.7,
+            "inNpcEditor": 0,
+            "skillIcon": 2840,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        1898,
+        15556,
+        19025
+    ],
+    "stats": {},
+    "overview": {
+        "1898": {
+            "damage": [
+                3
+            ],
+            "attackTypes": [],
+            "cooldown": 2.0
+        },
+        "15556": {
+            "damage": [
+                1
+            ],
+            "attackTypes": [
+                "Ranged"
+            ],
+            "cooldown": 2.0
+        },
+        "19025": {
+            "damage": [
+                3
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 2.7
         }
     }
 }

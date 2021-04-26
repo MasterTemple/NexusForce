@@ -2,10 +2,12 @@
     "objectID": 3333,
     "itemInfo": {
         "name": "AG - Ant Spawner",
-        "displayName": null,
+        "displayName": "AG - Ant Spawner",
         "type": "Enemies",
         "description": "Ant Hill for scene 6",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 3,
+        "armor": 0.0
     },
     "enemyID": 3333,
     "components": {
@@ -15,11 +17,16 @@
         "7": 268,
         "9": 0
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 268,
         "LootMatrixIndex": null,
-        "LootTableIndexes": []
+        "LootTableIndexes": [],
+        "CurrencyIndex": 12,
+        "level": 1,
+        "currencyMin": 0,
+        "currencyMax": 0
     },
     "skillIDs": [
         112
@@ -27,7 +34,30 @@
     "objectSkills": {
         "112": {
             "castOnType": 0,
-            "AICombatWeight": null
+            "AICombatWeight": null,
+            "behaviorID": 244,
+            "imaginationcost": 0,
+            "cooldowngroup": 0,
+            "cooldown": 10.0,
+            "inNpcEditor": 0,
+            "skillIcon": 2840,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        244
+    ],
+    "stats": {
+        "cooldown": 10.0,
+        "cooldowngroup": 0
+    },
+    "overview": {
+        "244": {
+            "damage": [],
+            "attackTypes": [],
+            "cooldown": 10.0
         }
     }
 }

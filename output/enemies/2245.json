@@ -2,10 +2,12 @@
     "objectID": 2245,
     "itemInfo": {
         "name": "GF - Red Siege Ninja Guard",
-        "displayName": null,
+        "displayName": "GF - Red Siege Ninja Guard",
         "type": "Enemies",
         "description": null,
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 4,
+        "armor": 0.0
     },
     "enemyID": 2245,
     "components": {
@@ -16,6 +18,7 @@
         "9": 0,
         "17": 1
     },
+    "iconURL": "textures/ui/missioncomics/wonderland/gnarled_forest/hud_icons/red_ninja.png",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 106,
@@ -706,7 +709,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 3,
+        "level": 4,
+        "currencyMin": 128,
+        "currencyMax": 256
     },
     "skillIDs": [
         239
@@ -714,7 +721,31 @@
     "objectSkills": {
         "239": {
             "castOnType": null,
-            "AICombatWeight": 0
+            "AICombatWeight": 0,
+            "behaviorID": 1957,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 1.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        1957
+    ],
+    "stats": {},
+    "overview": {
+        "1957": {
+            "damage": [
+                1
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 1.0
         }
     }
 }

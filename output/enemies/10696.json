@@ -5,7 +5,9 @@
         "displayName": "Stromling Ape",
         "type": "Enemies",
         "description": "Spawned from Behavior, no loot",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 80,
+        "armor": 25.0
     },
     "enemyID": 10696,
     "components": {
@@ -16,6 +18,7 @@
         "9": 0,
         "60": 14
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 1568,
@@ -168,8 +171,13 @@
                 },
                 "total": 0
             }
-        ]
+        ],
+        "CurrencyIndex": null,
+        "level": 4
     },
     "skillIDs": [],
-    "objectSkills": {}
+    "objectSkills": {},
+    "behaviorIDs": [],
+    "stats": {},
+    "overview": {}
 }

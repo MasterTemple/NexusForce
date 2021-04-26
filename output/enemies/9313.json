@@ -2,10 +2,12 @@
     "objectID": 9313,
     "itemInfo": {
         "name": "Boss Spider Egg",
-        "displayName": null,
+        "displayName": "Boss Spider Egg",
         "type": "Enemies",
         "description": null,
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 2,
+        "armor": 0.0
     },
     "enemyID": 9313,
     "components": {
@@ -15,12 +17,20 @@
         "7": 580,
         "9": 0
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 580,
         "LootMatrixIndex": 36,
-        "LootTableIndexes": []
+        "LootTableIndexes": [],
+        "CurrencyIndex": 4,
+        "level": 1,
+        "currencyMin": 12,
+        "currencyMax": 20
     },
     "skillIDs": [],
-    "objectSkills": {}
+    "objectSkills": {},
+    "behaviorIDs": [],
+    "stats": {},
+    "overview": {}
 }

@@ -5,7 +5,9 @@
         "displayName": "NAMED Stromling Admiral",
         "type": "Enemies",
         "description": "Named GF enemy",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 24,
+        "armor": 0.0
     },
     "enemyID": 16471,
     "components": {
@@ -17,6 +19,7 @@
         "31": 97,
         "60": 178
     },
+    "iconURL": "textures/ui/missioncomics/wonderland/gnarled_forest/hud_icons/mission_460.png",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 2145,
@@ -791,7 +794,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 3,
+        "level": 4,
+        "currencyMin": 128,
+        "currencyMax": 256
     },
     "skillIDs": [
         241
@@ -799,7 +806,32 @@
     "objectSkills": {
         "241": {
             "castOnType": null,
-            "AICombatWeight": 100
+            "AICombatWeight": 100,
+            "behaviorID": 1985,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 2.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        1985
+    ],
+    "stats": {},
+    "overview": {
+        "1985": {
+            "damage": [
+                6
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Knockback"
+            ],
+            "cooldown": 2.0
         }
     }
 }

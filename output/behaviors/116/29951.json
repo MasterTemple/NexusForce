@@ -17,7 +17,22 @@
         "chargeUpImaginationRestore": [],
         "projectileLOTs": [],
         "projectileInfo": {},
-        "projectileDamageComboArray": []
+        "projectileDamageComboArray": [],
+        "allDamage": [
+            2,
+            3,
+            3
+        ],
+        "attackTypes": [
+            "Knockback",
+            "Knockback",
+            "Area of Effect",
+            "Area of Effect",
+            "Area of Effect",
+            "Knockback",
+            "Knockback",
+            "Knockback"
+        ]
     },
     "projectileBehaviorIDs": [],
     "projectileChargeUpBehaviorIDs": [],

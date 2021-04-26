@@ -5,7 +5,9 @@
         "displayName": "Stromling Mech Invader",
         "type": "Enemies",
         "description": null,
-        "internalNotes": "Stromling Sgt. that turns to a rebuild upon smashing."
+        "internalNotes": "Stromling Sgt. that turns to a rebuild upon smashing.",
+        "life": 11,
+        "armor": 0.0
     },
     "enemyID": 11213,
     "components": {
@@ -17,6 +19,7 @@
         "31": 4,
         "60": 70
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 1595,
@@ -534,7 +537,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 52,
+        "level": 2,
+        "currencyMin": 21,
+        "currencyMax": 31
     },
     "skillIDs": [
         488,
@@ -543,11 +550,54 @@
     "objectSkills": {
         "488": {
             "castOnType": null,
-            "AICombatWeight": 90
+            "AICombatWeight": 90,
+            "behaviorID": 5947,
+            "imaginationcost": 0,
+            "cooldowngroup": 0,
+            "cooldown": 2.0,
+            "inNpcEditor": 0,
+            "skillIcon": 2840,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
         },
         "929": {
             "castOnType": null,
-            "AICombatWeight": 10
+            "AICombatWeight": 10,
+            "behaviorID": 18933,
+            "imaginationcost": 0,
+            "cooldowngroup": 0,
+            "cooldown": 0.5,
+            "inNpcEditor": 0,
+            "skillIcon": 2840,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        5947,
+        18933
+    ],
+    "stats": {},
+    "overview": {
+        "5947": {
+            "damage": [
+                3
+            ],
+            "attackTypes": [
+                "Ranged"
+            ],
+            "cooldown": 2.0
+        },
+        "18933": {
+            "damage": [
+                1
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 0.5
         }
     }
 }

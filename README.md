@@ -17,7 +17,7 @@ Nexus Force LEGO Universe Bot
   "footer": "The LEGO Group has not endorsed or authorized the operation of this game and is not liable for any safety issues in relation to the operation of this game.",
   "invisChar": "឵឵",
   "unknownImageURL": "",
-  "resURL": "https://xiphoseer.github.io/lu-res",
+  "resURL": "https://xiphoseer.github.io/lu-res/",
   "luExplorerURL": "https://lu-explorer.web.app/",
   "uIcon": "https://static.wikia.nocookie.net/legomessageboards/images/c/ce/LU2.png/revision/latest?cb=20121121213649",
   "botInfo": {

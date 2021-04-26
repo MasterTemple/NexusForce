@@ -2,7 +2,7 @@
     "objectID": 16555,
     "itemInfo": {
         "name": "OBSOLETE Ninjago Beetle Armored",
-        "displayName": null,
+        "displayName": "OBSOLETE Ninjago Beetle Armored",
         "type": "Enemies",
         "description": null,
         "internalNotes": null
@@ -11,7 +11,11 @@
     "components": {
         "2": 15333
     },
+    "iconURL": "unknown",
     "doesntDropAnything": true,
     "skillIDs": [],
-    "objectSkills": {}
+    "objectSkills": {},
+    "behaviorIDs": [],
+    "stats": {},
+    "overview": {}
 }

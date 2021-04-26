@@ -2,7 +2,7 @@
     "objectID": 2223,
     "itemInfo": {
         "name": "Ninja Randy the Rebuild Hater",
-        "displayName": null,
+        "displayName": "Ninja Randy the Rebuild Hater",
         "type": "Enemies",
         "description": "Breaks rebuilds because he has issues. He is also bad at ping-pong.",
         "internalNotes": null
@@ -14,7 +14,11 @@
         "5": 155,
         "17": 1
     },
+    "iconURL": "textures/ui/missioncomics/wonderland/forbidden_valley/mission_givers/ninja_sentry.png",
     "doesntDropAnything": true,
     "skillIDs": [],
-    "objectSkills": {}
+    "objectSkills": {},
+    "behaviorIDs": [],
+    "stats": {},
+    "overview": {}
 }

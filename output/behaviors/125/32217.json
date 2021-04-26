@@ -24,7 +24,18 @@
             3,
             2
         ],
-        "chargeUpCombo": 0
+        "chargeUpCombo": 0,
+        "allDamage": [
+            6,
+            5,
+            4,
+            3,
+            2
+        ],
+        "attackTypes": [
+            "Area of Effect",
+            "Ranged"
+        ]
     },
     "projectileBehaviorIDs": [
         32216

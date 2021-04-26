@@ -5,7 +5,9 @@
         "displayName": "Butterscorch - Maelstrom Dragon Invader",
         "type": "Enemies",
         "description": null,
-        "internalNotes": "FV Miniboss"
+        "internalNotes": "FV Miniboss",
+        "life": 300,
+        "armor": 500.0
     },
     "enemyID": 11989,
     "components": {
@@ -17,6 +19,7 @@
         "39": 11989,
         "60": 86
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 1644,
@@ -534,7 +537,11 @@
                 },
                 "total": 0
             }
-        ]
+        ],
+        "CurrencyIndex": 52,
+        "level": 18,
+        "currencyMin": 1000,
+        "currencyMax": 1250
     },
     "skillIDs": [
         832,
@@ -545,19 +552,110 @@
     "objectSkills": {
         "832": {
             "castOnType": null,
-            "AICombatWeight": 50
+            "AICombatWeight": 50,
+            "behaviorID": 15547,
+            "imaginationcost": 0,
+            "cooldowngroup": 5,
+            "cooldown": 5.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
         },
         "936": {
             "castOnType": null,
-            "AICombatWeight": 50
+            "AICombatWeight": 50,
+            "behaviorID": 19084,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 5.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
         },
         "1211": {
             "castOnType": null,
-            "AICombatWeight": 30
+            "AICombatWeight": 30,
+            "behaviorID": 27303,
+            "imaginationcost": 0,
+            "cooldowngroup": 2,
+            "cooldown": 10.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
         },
         "1212": {
             "castOnType": null,
-            "AICombatWeight": 20
+            "AICombatWeight": 20,
+            "behaviorID": 27320,
+            "imaginationcost": 0,
+            "cooldowngroup": 3,
+            "cooldown": 6.0,
+            "inNpcEditor": 0,
+            "skillIcon": 0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        15547,
+        19084,
+        27303,
+        27320
+    ],
+    "stats": {},
+    "overview": {
+        "15547": {
+            "damage": [
+                5
+            ],
+            "attackTypes": [
+                "Ranged",
+                "Area of Effect",
+                "Knockback"
+            ],
+            "cooldown": 5.0
+        },
+        "19084": {
+            "damage": [
+                5
+            ],
+            "attackTypes": [
+                "Ranged",
+                "Area of Effect",
+                "Knockback"
+            ],
+            "cooldown": 5.0
+        },
+        "27303": {
+            "damage": [
+                2
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Area of Effect",
+                "Knockback"
+            ],
+            "cooldown": 10.0
+        },
+        "27320": {
+            "damage": [
+                5
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Knockback",
+                "Ranged",
+                "Area of Effect",
+                "Knockback"
+            ],
+            "cooldown": 6.0
         }
     }
 }

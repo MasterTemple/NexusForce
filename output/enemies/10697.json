@@ -5,7 +5,9 @@
         "displayName": "Dark Spiderling",
         "type": "Enemies",
         "description": "Spawned from Behavior, no loot",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 15,
+        "armor": null
     },
     "enemyID": 10697,
     "components": {
@@ -17,6 +19,7 @@
         "31": 23,
         "60": 10
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 1569,
@@ -169,8 +172,13 @@
                 },
                 "total": 0
             }
-        ]
+        ],
+        "CurrencyIndex": null,
+        "level": 4
     },
     "skillIDs": [],
-    "objectSkills": {}
+    "objectSkills": {},
+    "behaviorIDs": [],
+    "stats": {},
+    "overview": {}
 }

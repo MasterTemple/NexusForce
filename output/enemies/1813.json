@@ -2,10 +2,12 @@
     "objectID": 1813,
     "itemInfo": {
         "name": "Test Zoo Ninja 2",
-        "displayName": null,
+        "displayName": "Test Zoo Ninja 2",
         "type": "Enemies",
         "description": "Test; don't use in a production map",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 1000,
+        "armor": 0.0
     },
     "enemyID": 1813,
     "components": {
@@ -14,6 +16,7 @@
         "5": 67,
         "7": 204
     },
+    "iconURL": "textures/ui/tooltips/rebuild_bricks.tga",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 204,
@@ -82,7 +85,9 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": null,
+        "level": 1
     },
     "skillIDs": [
         239
@@ -90,7 +95,31 @@
     "objectSkills": {
         "239": {
             "castOnType": null,
-            "AICombatWeight": 0
+            "AICombatWeight": 0,
+            "behaviorID": 1957,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 1.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        1957
+    ],
+    "stats": {},
+    "overview": {
+        "1957": {
+            "damage": [
+                1
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 1.0
         }
     }
 }

@@ -2,10 +2,12 @@
     "objectID": 3332,
     "itemInfo": {
         "name": "AG - Combat Ant 3",
-        "displayName": null,
+        "displayName": "AG - Combat Ant 3",
         "type": "Enemies",
         "description": "Combat Ant for third Hill",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 1,
+        "armor": 0.0
     },
     "enemyID": 3332,
     "components": {
@@ -14,12 +16,20 @@
         "5": 391,
         "7": 400
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 400,
         "LootMatrixIndex": null,
-        "LootTableIndexes": []
+        "LootTableIndexes": [],
+        "CurrencyIndex": 12,
+        "level": 1,
+        "currencyMin": 0,
+        "currencyMax": 0
     },
     "skillIDs": [],
-    "objectSkills": {}
+    "objectSkills": {},
+    "behaviorIDs": [],
+    "stats": {},
+    "overview": {}
 }

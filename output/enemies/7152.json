@@ -2,10 +2,12 @@
     "objectID": 7152,
     "itemInfo": {
         "name": "Spider Boss 2",
-        "displayName": null,
+        "displayName": "Spider Boss 2",
         "type": "Enemies",
         "description": "Spider boss for the spider cave",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 50,
+        "armor": 0.0
     },
     "enemyID": 7152,
     "components": {
@@ -15,11 +17,14 @@
         "9": 0,
         "60": 22
     },
+    "iconURL": "textures/ui/missioncomics/wonderland/avant_gardens/hud_icons/spider_boss_hud.png",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 686,
         "LootMatrixIndex": null,
-        "LootTableIndexes": []
+        "LootTableIndexes": [],
+        "CurrencyIndex": null,
+        "level": 4
     },
     "skillIDs": [
         312
@@ -27,7 +32,31 @@
     "objectSkills": {
         "312": {
             "castOnType": null,
-            "AICombatWeight": 100
+            "AICombatWeight": 100,
+            "behaviorID": 3672,
+            "imaginationcost": 0,
+            "cooldowngroup": 0,
+            "cooldown": 4.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        3672
+    ],
+    "stats": {},
+    "overview": {
+        "3672": {
+            "damage": [
+                5
+            ],
+            "attackTypes": [
+                "Ranged"
+            ],
+            "cooldown": 4.0
         }
     }
 }

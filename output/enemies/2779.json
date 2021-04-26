@@ -2,10 +2,12 @@
     "objectID": 2779,
     "itemInfo": {
         "name": "GC11 - Cloyde",
-        "displayName": null,
+        "displayName": "GC11 - Cloyde",
         "type": "Enemies",
         "description": "Ghost",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 4,
+        "armor": 0.0
     },
     "enemyID": 2779,
     "components": {
@@ -15,6 +17,7 @@
         "7": 364,
         "9": 0
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 364,
@@ -216,7 +219,11 @@
                 },
                 "total": 0
             }
-        ]
+        ],
+        "CurrencyIndex": 1,
+        "level": 4,
+        "currencyMin": 30,
+        "currencyMax": 50
     },
     "skillIDs": [
         75
@@ -224,7 +231,29 @@
     "objectSkills": {
         "75": {
             "castOnType": null,
-            "AICombatWeight": null
+            "AICombatWeight": null,
+            "behaviorID": 168,
+            "imaginationcost": 0,
+            "cooldowngroup": 3,
+            "cooldown": 0.0,
+            "inNpcEditor": 0,
+            "skillIcon": 2840,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        168
+    ],
+    "stats": {},
+    "overview": {
+        "168": {
+            "damage": [],
+            "attackTypes": [
+                "Area of Effect"
+            ],
+            "cooldown": 0.0
         }
     }
 }

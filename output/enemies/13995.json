@@ -5,7 +5,9 @@
         "displayName": "Bone Wolf",
         "type": "Enemies",
         "description": null,
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 100,
+        "armor": 0.0
     },
     "enemyID": 13995,
     "components": {
@@ -17,6 +19,7 @@
         "31": 63,
         "60": 141
     },
+    "iconURL": "textures/ui/missioncomics/wonderland/avant_gardens/hud_icons/battle_maelstrom_hud.png",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 1899,
@@ -641,7 +644,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 122,
+        "level": 4,
+        "currencyMin": 85,
+        "currencyMax": 120
     },
     "skillIDs": [
         1584,
@@ -651,15 +658,84 @@
     "objectSkills": {
         "1584": {
             "castOnType": 0,
-            "AICombatWeight": 50
+            "AICombatWeight": 50,
+            "behaviorID": 38427,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 2.5,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
         },
         "1585": {
             "castOnType": 0,
-            "AICombatWeight": 30
+            "AICombatWeight": 30,
+            "behaviorID": 38461,
+            "imaginationcost": 0,
+            "cooldowngroup": 2,
+            "cooldown": 9.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
         },
         "1586": {
             "castOnType": 0,
-            "AICombatWeight": 25
+            "AICombatWeight": 25,
+            "behaviorID": 38513,
+            "imaginationcost": 0,
+            "cooldowngroup": 4,
+            "cooldown": 8.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        38427,
+        38461,
+        38513
+    ],
+    "stats": {
+        "cooldown": 8.0,
+        "cooldowngroup": 4
+    },
+    "overview": {
+        "38427": {
+            "damage": [
+                5,
+                4,
+                3,
+                2,
+                1
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 2.5
+        },
+        "38461": {
+            "damage": [],
+            "attackTypes": [
+                "Area of Effect"
+            ],
+            "cooldown": 9.0
+        },
+        "38513": {
+            "damage": [
+                6,
+                5,
+                4,
+                4,
+                3
+            ],
+            "attackTypes": [],
+            "cooldown": 8.0
         }
     }
 }

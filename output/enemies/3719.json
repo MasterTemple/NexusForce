@@ -2,10 +2,12 @@
     "objectID": 3719,
     "itemInfo": {
         "name": "NS - SG -Skunk",
-        "displayName": null,
+        "displayName": "NS - SG -Skunk",
         "type": "Enemies",
         "description": null,
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 1,
+        "armor": 0.0
     },
     "enemyID": 3719,
     "components": {
@@ -15,12 +17,18 @@
         "7": 370,
         "17": 71
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 370,
         "LootMatrixIndex": null,
-        "LootTableIndexes": []
+        "LootTableIndexes": [],
+        "CurrencyIndex": null,
+        "level": 1
     },
     "skillIDs": [],
-    "objectSkills": {}
+    "objectSkills": {},
+    "behaviorIDs": [],
+    "stats": {},
+    "overview": {}
 }

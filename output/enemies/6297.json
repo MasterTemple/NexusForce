@@ -2,10 +2,12 @@
     "objectID": 6297,
     "itemInfo": {
         "name": "Shooting Gallery Cannon Ball - Supercharged",
-        "displayName": null,
+        "displayName": "Shooting Gallery Cannon Ball - Supercharged",
         "type": "Enemies",
         "description": "Supercharged cannonball for shooting gallery",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 1,
+        "armor": 0.0
     },
     "enemyID": 6297,
     "components": {
@@ -15,11 +17,14 @@
         "9": 0,
         "18": 871
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 654,
         "LootMatrixIndex": null,
-        "LootTableIndexes": []
+        "LootTableIndexes": [],
+        "CurrencyIndex": null,
+        "level": 1
     },
     "skillIDs": [
         190
@@ -27,7 +32,31 @@
     "objectSkills": {
         "190": {
             "castOnType": null,
-            "AICombatWeight": null
+            "AICombatWeight": null,
+            "behaviorID": 1674,
+            "imaginationcost": 0,
+            "cooldowngroup": 0,
+            "cooldown": 0.0,
+            "inNpcEditor": 0,
+            "skillIcon": 2840,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        1674
+    ],
+    "stats": {},
+    "overview": {
+        "1674": {
+            "damage": [
+                100
+            ],
+            "attackTypes": [
+                "Area of Effect"
+            ],
+            "cooldown": 0.0
         }
     }
 }

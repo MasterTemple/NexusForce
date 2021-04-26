@@ -13,6 +13,14 @@
         "projectileInfo": {},
         "projectileDamageComboArray": [],
         "chargeUpCombo": 0,
+        "allDamage": [
+            13
+        ],
+        "attackTypes": [
+            "Area of Effect",
+            "Area of Effect",
+            "Knockback"
+        ],
         "doubleJumpSmash": 13
     },
     "projectileBehaviorIDs": [],

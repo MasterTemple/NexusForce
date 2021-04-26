@@ -18,7 +18,14 @@
         ],
         "projectileInfo": {},
         "projectileDamageComboArray": [],
-        "chargeUpCombo": 0
+        "chargeUpCombo": 0,
+        "allDamage": [],
+        "attackTypes": [
+            "Ranged",
+            "Area of Effect",
+            "Knockback",
+            "Knockback"
+        ]
     },
     "projectileBehaviorIDs": [
         14260

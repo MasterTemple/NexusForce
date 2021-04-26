@@ -2,10 +2,12 @@
     "objectID": 6602,
     "itemInfo": {
         "name": "CT - Medusa",
-        "displayName": null,
+        "displayName": "CT - Medusa",
         "type": "Enemies",
         "description": null,
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 6,
+        "armor": 0.0
     },
     "enemyID": 6602,
     "components": {
@@ -15,6 +17,7 @@
         "7": 597,
         "9": 0
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 597,
@@ -554,7 +557,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 1,
+        "level": 2,
+        "currencyMin": 5,
+        "currencyMax": 9
     },
     "skillIDs": [
         239
@@ -562,7 +569,31 @@
     "objectSkills": {
         "239": {
             "castOnType": null,
-            "AICombatWeight": 0
+            "AICombatWeight": 0,
+            "behaviorID": 1957,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 1.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        1957
+    ],
+    "stats": {},
+    "overview": {
+        "1957": {
+            "damage": [
+                1
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 1.0
         }
     }
 }

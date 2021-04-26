@@ -5,7 +5,9 @@
         "displayName": "Elite Dark Spiderling",
         "type": "Enemies",
         "description": null,
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 25,
+        "armor": 0.0
     },
     "enemyID": 12605,
     "components": {
@@ -17,6 +19,7 @@
         "31": 47,
         "60": 111
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 1759,
@@ -56,7 +59,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 2,
+        "level": 4,
+        "currencyMin": 16,
+        "currencyMax": 28
     },
     "skillIDs": [
         230,
@@ -66,15 +73,75 @@
     "objectSkills": {
         "230": {
             "castOnType": null,
-            "AICombatWeight": 30
+            "AICombatWeight": 30,
+            "behaviorID": 1898,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 2.0,
+            "inNpcEditor": 0,
+            "skillIcon": 2840,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
         },
         "833": {
             "castOnType": null,
-            "AICombatWeight": 40
+            "AICombatWeight": 40,
+            "behaviorID": 15556,
+            "imaginationcost": 0,
+            "cooldowngroup": 3,
+            "cooldown": 2.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
         },
         "933": {
             "castOnType": null,
-            "AICombatWeight": 20
+            "AICombatWeight": 20,
+            "behaviorID": 19025,
+            "imaginationcost": 0,
+            "cooldowngroup": 0,
+            "cooldown": 2.7,
+            "inNpcEditor": 0,
+            "skillIcon": 2840,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        1898,
+        15556,
+        19025
+    ],
+    "stats": {},
+    "overview": {
+        "1898": {
+            "damage": [
+                3
+            ],
+            "attackTypes": [],
+            "cooldown": 2.0
+        },
+        "15556": {
+            "damage": [
+                1
+            ],
+            "attackTypes": [
+                "Ranged"
+            ],
+            "cooldown": 2.0
+        },
+        "19025": {
+            "damage": [
+                3
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 2.7
         }
     }
 }

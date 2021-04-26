@@ -5,7 +5,9 @@
         "displayName": "Maelstrom Horseman",
         "type": "Enemies",
         "description": "Enemy for property unlock maps",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 21,
+        "armor": 0.0
     },
     "enemyID": 10381,
     "components": {
@@ -16,6 +18,7 @@
         "9": 0,
         "60": 63
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 1553,
@@ -168,7 +171,11 @@
                 },
                 "total": 0
             }
-        ]
+        ],
+        "CurrencyIndex": 3,
+        "level": 3,
+        "currencyMin": 47,
+        "currencyMax": 77
     },
     "skillIDs": [
         498,
@@ -177,11 +184,54 @@
     "objectSkills": {
         "498": {
             "castOnType": null,
-            "AICombatWeight": 90
+            "AICombatWeight": 90,
+            "behaviorID": 6082,
+            "imaginationcost": 0,
+            "cooldowngroup": 2,
+            "cooldown": 2.25,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
         },
         "589": {
             "castOnType": null,
-            "AICombatWeight": 10
+            "AICombatWeight": 10,
+            "behaviorID": 9469,
+            "imaginationcost": 0,
+            "cooldowngroup": 0,
+            "cooldown": 4.5,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        6082,
+        9469
+    ],
+    "stats": {},
+    "overview": {
+        "6082": {
+            "damage": [
+                3
+            ],
+            "attackTypes": [
+                "Ranged"
+            ],
+            "cooldown": 2.25
+        },
+        "9469": {
+            "damage": [
+                2
+            ],
+            "attackTypes": [
+                "Area of Effect"
+            ],
+            "cooldown": 4.5
         }
     }
 }

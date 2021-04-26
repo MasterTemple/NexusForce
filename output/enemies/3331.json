@@ -2,10 +2,12 @@
     "objectID": 3331,
     "itemInfo": {
         "name": "AG - Combat Ant 2",
-        "displayName": null,
+        "displayName": "AG - Combat Ant 2",
         "type": "Enemies",
         "description": "Combat Ant for 2nd hill",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 1,
+        "armor": 0.0
     },
     "enemyID": 3331,
     "components": {
@@ -14,12 +16,20 @@
         "5": 390,
         "7": 399
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 399,
         "LootMatrixIndex": null,
-        "LootTableIndexes": []
+        "LootTableIndexes": [],
+        "CurrencyIndex": 12,
+        "level": 1,
+        "currencyMin": 0,
+        "currencyMax": 0
     },
     "skillIDs": [],
-    "objectSkills": {}
+    "objectSkills": {},
+    "behaviorIDs": [],
+    "stats": {},
+    "overview": {}
 }

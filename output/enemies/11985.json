@@ -5,7 +5,9 @@
         "displayName": "Gull Rawstew - Stromling Pirate Invader",
         "type": "Enemies",
         "description": null,
-        "internalNotes": "NT Easy Stromling type"
+        "internalNotes": "NT Easy Stromling type",
+        "life": 23,
+        "armor": 0.0
     },
     "enemyID": 11985,
     "components": {
@@ -17,6 +19,7 @@
         "31": 13,
         "60": 82
     },
+    "iconURL": "textures/ui/missioncomics/wonderland/gnarled_forest/hud_icons/mission_301.png",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 1640,
@@ -534,7 +537,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 52,
+        "level": 11,
+        "currencyMin": 140,
+        "currencyMax": 200
     },
     "skillIDs": [
         484,
@@ -543,11 +550,54 @@
     "objectSkills": {
         "484": {
             "castOnType": null,
-            "AICombatWeight": 80
+            "AICombatWeight": 80,
+            "behaviorID": 5915,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 1.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
         },
         "931": {
             "castOnType": null,
-            "AICombatWeight": 20
+            "AICombatWeight": 20,
+            "behaviorID": 18977,
+            "imaginationcost": 0,
+            "cooldowngroup": 2,
+            "cooldown": 4.75,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        5915,
+        18977
+    ],
+    "stats": {},
+    "overview": {
+        "5915": {
+            "damage": [
+                3
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 1.0
+        },
+        "18977": {
+            "damage": [
+                4
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 4.75
         }
     }
 }

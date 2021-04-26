@@ -2,10 +2,12 @@
     "objectID": 3260,
     "itemInfo": {
         "name": "AG - Picnic Ant",
-        "displayName": null,
+        "displayName": "AG - Picnic Ant",
         "type": "Enemies",
         "description": "NP scene 6 ant enemy",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 1,
+        "armor": 0.0
     },
     "enemyID": 3260,
     "components": {
@@ -15,12 +17,20 @@
         "7": 252,
         "17": 27
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 252,
         "LootMatrixIndex": null,
-        "LootTableIndexes": []
+        "LootTableIndexes": [],
+        "CurrencyIndex": 12,
+        "level": 1,
+        "currencyMin": 0,
+        "currencyMax": 0
     },
     "skillIDs": [],
-    "objectSkills": {}
+    "objectSkills": {},
+    "behaviorIDs": [],
+    "stats": {},
+    "overview": {}
 }

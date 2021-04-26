@@ -5,7 +5,9 @@
         "displayName": "Grim Daisho - Dark Ronin Invader",
         "type": "Enemies",
         "description": null,
-        "internalNotes": "minion for FV"
+        "internalNotes": "minion for FV",
+        "life": 45,
+        "armor": 0.0
     },
     "enemyID": 11988,
     "components": {
@@ -17,6 +19,7 @@
         "31": 15,
         "60": 85
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 1643,
@@ -590,7 +593,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 52,
+        "level": 12,
+        "currencyMin": 210,
+        "currencyMax": 310
     },
     "skillIDs": [
         494
@@ -598,7 +605,31 @@
     "objectSkills": {
         "494": {
             "castOnType": null,
-            "AICombatWeight": 100
+            "AICombatWeight": 100,
+            "behaviorID": 6041,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 4.5,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        6041
+    ],
+    "stats": {},
+    "overview": {
+        "6041": {
+            "damage": [
+                2,
+                2,
+                2
+            ],
+            "attackTypes": [],
+            "cooldown": 4.5
         }
     }
 }

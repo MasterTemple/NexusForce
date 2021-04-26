@@ -2,10 +2,12 @@
     "objectID": 2167,
     "itemInfo": {
         "name": "SG Target Biplane",
-        "displayName": null,
+        "displayName": "SG Target Biplane",
         "type": "Enemies",
         "description": "Shooting Gallery Target",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 1,
+        "armor": 0.0
     },
     "enemyID": 2167,
     "components": {
@@ -14,12 +16,18 @@
         "5": 179,
         "7": 119
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 119,
         "LootMatrixIndex": null,
-        "LootTableIndexes": []
+        "LootTableIndexes": [],
+        "CurrencyIndex": null,
+        "level": 1
     },
     "skillIDs": [],
-    "objectSkills": {}
+    "objectSkills": {},
+    "behaviorIDs": [],
+    "stats": {},
+    "overview": {}
 }

@@ -5,7 +5,9 @@
         "displayName": "Murgle Blotch - Stromling Champion",
         "type": "Enemies",
         "description": null,
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 30,
+        "armor": 0.0
     },
     "enemyID": 12600,
     "components": {
@@ -18,6 +20,7 @@
         "31": 44,
         "60": 108
     },
+    "iconURL": "textures/ui/missioncomics/wonderland/avant_gardens/hud_icons/battle_maelstrom_hud.png",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 1756,
@@ -332,7 +335,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 3,
+        "level": 4,
+        "currencyMin": 128,
+        "currencyMax": 256
     },
     "skillIDs": [
         485
@@ -340,7 +347,31 @@
     "objectSkills": {
         "485": {
             "castOnType": null,
-            "AICombatWeight": 100
+            "AICombatWeight": 100,
+            "behaviorID": 5928,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 1.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        5928
+    ],
+    "stats": {},
+    "overview": {
+        "5928": {
+            "damage": [
+                5
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 1.0
         }
     }
 }

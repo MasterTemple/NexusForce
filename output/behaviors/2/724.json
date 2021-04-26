@@ -13,6 +13,16 @@
         "projectileInfo": {},
         "projectileDamageComboArray": [],
         "chargeUpCombo": 3,
+        "allDamage": [
+            3
+        ],
+        "attackTypes": [
+            "Knockback",
+            "Knockback",
+            "Ranged",
+            "Knockback",
+            "Knockback"
+        ],
         "projectileChargeUpLOT": 4802,
         "chargeUpCost": -1,
         "projectileChargeUpDamage": 3

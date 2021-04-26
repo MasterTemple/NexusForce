@@ -5,7 +5,9 @@
         "displayName": "Borborygmus - Maelstrom Dragon",
         "type": "Enemies",
         "description": null,
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 100,
+        "armor": 250.0
     },
     "enemyID": 12612,
     "components": {
@@ -16,6 +18,7 @@
         "9": 0,
         "60": 115
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 1763,
@@ -55,7 +58,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 3,
+        "level": 4,
+        "currencyMin": 128,
+        "currencyMax": 256
     },
     "skillIDs": [
         508,
@@ -66,19 +73,108 @@
     "objectSkills": {
         "508": {
             "castOnType": null,
-            "AICombatWeight": 50
+            "AICombatWeight": 50,
+            "behaviorID": 6212,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 5.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
         },
         "510": {
             "castOnType": null,
-            "AICombatWeight": 30
+            "AICombatWeight": 30,
+            "behaviorID": 6227,
+            "imaginationcost": 0,
+            "cooldowngroup": 2,
+            "cooldown": 10.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
         },
         "512": {
             "castOnType": null,
-            "AICombatWeight": 20
+            "AICombatWeight": 20,
+            "behaviorID": 6252,
+            "imaginationcost": 0,
+            "cooldowngroup": 3,
+            "cooldown": 6.0,
+            "inNpcEditor": 0,
+            "skillIcon": 0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
         },
         "832": {
             "castOnType": null,
-            "AICombatWeight": 30
+            "AICombatWeight": 30,
+            "behaviorID": 15547,
+            "imaginationcost": 0,
+            "cooldowngroup": 5,
+            "cooldown": 5.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        6212,
+        6227,
+        6252,
+        15547
+    ],
+    "stats": {},
+    "overview": {
+        "6212": {
+            "damage": [
+                1
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 5.0
+        },
+        "6227": {
+            "damage": [
+                2
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Area of Effect",
+                "Knockback"
+            ],
+            "cooldown": 10.0
+        },
+        "6252": {
+            "damage": [
+                5
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Knockback",
+                "Ranged",
+                "Area of Effect",
+                "Knockback"
+            ],
+            "cooldown": 6.0
+        },
+        "15547": {
+            "damage": [
+                5
+            ],
+            "attackTypes": [
+                "Ranged",
+                "Area of Effect",
+                "Knockback"
+            ],
+            "cooldown": 5.0
         }
     }
 }

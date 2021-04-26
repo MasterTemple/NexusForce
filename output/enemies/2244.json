@@ -2,10 +2,12 @@
     "objectID": 2244,
     "itemInfo": {
         "name": "GF - Black Siege Ninja Guard",
-        "displayName": null,
+        "displayName": "GF - Black Siege Ninja Guard",
         "type": "Enemies",
         "description": null,
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 3,
+        "armor": 0.0
     },
     "enemyID": 2244,
     "components": {
@@ -17,6 +19,7 @@
         "17": 1,
         "60": 20
     },
+    "iconURL": "textures/ui/missioncomics/wonderland/gnarled_forest/hud_icons/black_ninja.png",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 104,
@@ -707,7 +710,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 3,
+        "level": 3,
+        "currencyMin": 47,
+        "currencyMax": 77
     },
     "skillIDs": [
         239
@@ -715,7 +722,31 @@
     "objectSkills": {
         "239": {
             "castOnType": null,
-            "AICombatWeight": 100
+            "AICombatWeight": 100,
+            "behaviorID": 1957,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 1.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        1957
+    ],
+    "stats": {},
+    "overview": {
+        "1957": {
+            "damage": [
+                1
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 1.0
         }
     }
 }

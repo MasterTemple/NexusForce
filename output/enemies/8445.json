@@ -2,10 +2,12 @@
     "objectID": 8445,
     "itemInfo": {
         "name": "Spider Boss Activity",
-        "displayName": null,
+        "displayName": "Spider Boss Activity",
         "type": "Enemies",
         "description": "Boss for the last room of the spider cave",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 80,
+        "armor": 40.0
     },
     "enemyID": 8445,
     "components": {
@@ -17,11 +19,14 @@
         "17": 310,
         "60": 50
     },
+    "iconURL": "textures/ui/missioncomics/wonderland/avant_gardens/hud_icons/spider_boss_hud.png",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 890,
         "LootMatrixIndex": null,
-        "LootTableIndexes": []
+        "LootTableIndexes": [],
+        "CurrencyIndex": null,
+        "level": 4
     },
     "skillIDs": [
         274,
@@ -30,11 +35,55 @@
     "objectSkills": {
         "274": {
             "castOnType": null,
-            "AICombatWeight": 95
+            "AICombatWeight": 95,
+            "behaviorID": 2221,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 1.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
         },
         "322": {
             "castOnType": null,
-            "AICombatWeight": 5
+            "AICombatWeight": 5,
+            "behaviorID": 3782,
+            "imaginationcost": 0,
+            "cooldowngroup": 10,
+            "cooldown": 9.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        2221,
+        3782
+    ],
+    "stats": {},
+    "overview": {
+        "2221": {
+            "damage": [
+                1
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 1.0
+        },
+        "3782": {
+            "damage": [
+                1
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Knockback"
+            ],
+            "cooldown": 9.0
         }
     }
 }

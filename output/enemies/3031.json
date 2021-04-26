@@ -2,10 +2,12 @@
     "objectID": 3031,
     "itemInfo": {
         "name": "FV - Grumpy Stromling",
-        "displayName": null,
+        "displayName": "FV - Grumpy Stromling",
         "type": "Enemies",
         "description": null,
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 3,
+        "armor": 0.0
     },
     "enemyID": 3031,
     "components": {
@@ -15,6 +17,7 @@
         "7": 360,
         "9": 0
     },
+    "iconURL": "textures/ui/missioncomics/wonderland/forbidden_valley/hud_icons/grumpy_darkling.png",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 360,
@@ -729,7 +732,9 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": null,
+        "level": 1
     },
     "skillIDs": [
         239
@@ -737,7 +742,31 @@
     "objectSkills": {
         "239": {
             "castOnType": null,
-            "AICombatWeight": 0
+            "AICombatWeight": 0,
+            "behaviorID": 1957,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 1.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        1957
+    ],
+    "stats": {},
+    "overview": {
+        "1957": {
+            "damage": [
+                1
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 1.0
         }
     }
 }

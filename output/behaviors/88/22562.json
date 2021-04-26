@@ -17,6 +17,23 @@
         "projectileInfo": {},
         "projectileDamageComboArray": [],
         "chargeUpCombo": 5,
+        "allDamage": [
+            1,
+            3,
+            3,
+            5,
+            3,
+            4
+        ],
+        "attackTypes": [
+            "Knockback",
+            "Knockback",
+            "Knockback",
+            "Knockback",
+            "Knockback",
+            "Knockback",
+            "Knockback"
+        ],
         "doubleJumpSmash": 1,
         "singleJumpSmash": 3,
         "chargeUpCost": -4

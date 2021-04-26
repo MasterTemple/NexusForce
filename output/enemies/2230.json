@@ -2,10 +2,12 @@
     "objectID": 2230,
     "itemInfo": {
         "name": "Passive Target Dummy",
-        "displayName": null,
+        "displayName": "Passive Target Dummy",
         "type": "Enemies",
         "description": null,
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 1000,
+        "armor": 0.0
     },
     "enemyID": 2230,
     "components": {
@@ -15,12 +17,18 @@
         "7": 141,
         "9": 0
     },
+    "iconURL": "textures/ui/missioncomics/wonderland/forbidden_valley/mission_givers/ninja_messenger.png",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 141,
         "LootMatrixIndex": null,
-        "LootTableIndexes": []
+        "LootTableIndexes": [],
+        "CurrencyIndex": null,
+        "level": 1
     },
     "skillIDs": [],
-    "objectSkills": {}
+    "objectSkills": {},
+    "behaviorIDs": [],
+    "stats": {},
+    "overview": {}
 }

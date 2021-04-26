@@ -2,10 +2,12 @@
     "objectID": 3099,
     "itemInfo": {
         "name": "Evil Robotanist",
-        "displayName": null,
+        "displayName": "Evil Robotanist",
         "type": "Enemies",
         "description": "NP Wicked Lawn Mower",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 2,
+        "armor": 0.0
     },
     "enemyID": 3099,
     "components": {
@@ -15,11 +17,14 @@
         "7": 27,
         "9": 0
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 27,
         "LootMatrixIndex": null,
-        "LootTableIndexes": []
+        "LootTableIndexes": [],
+        "CurrencyIndex": null,
+        "level": 1
     },
     "skillIDs": [
         239
@@ -27,7 +32,31 @@
     "objectSkills": {
         "239": {
             "castOnType": null,
-            "AICombatWeight": 0
+            "AICombatWeight": 0,
+            "behaviorID": 1957,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 1.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        1957
+    ],
+    "stats": {},
+    "overview": {
+        "1957": {
+            "damage": [
+                1
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 1.0
         }
     }
 }

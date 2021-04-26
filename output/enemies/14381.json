@@ -5,7 +5,9 @@
         "displayName": "Maelstrom Spider Queen",
         "type": "Enemies",
         "description": "Free Trial Spider Boss enemy",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 333,
+        "armor": 0.0
     },
     "enemyID": 14381,
     "components": {
@@ -16,6 +18,7 @@
         "9": 0,
         "60": 159
     },
+    "iconURL": "textures/ui/missioncomics/wonderland/avant_gardens/hud_icons/spider_boss_hud.png",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 1941,
@@ -132,7 +135,9 @@
                 },
                 "total": 0
             }
-        ]
+        ],
+        "CurrencyIndex": null,
+        "level": null
     },
     "skillIDs": [
         303,
@@ -142,15 +147,76 @@
     "objectSkills": {
         "303": {
             "castOnType": null,
-            "AICombatWeight": 1000
+            "AICombatWeight": 1000,
+            "behaviorID": 3563,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 4.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
         },
         "322": {
             "castOnType": null,
-            "AICombatWeight": 99
+            "AICombatWeight": 99,
+            "behaviorID": 3782,
+            "imaginationcost": 0,
+            "cooldowngroup": 10,
+            "cooldown": 9.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
         },
         "1573": {
             "castOnType": null,
-            "AICombatWeight": 1
+            "AICombatWeight": 1,
+            "behaviorID": 38338,
+            "imaginationcost": 0,
+            "cooldowngroup": 11,
+            "cooldown": 3.0,
+            "inNpcEditor": 1,
+            "skillIcon": 0,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        3563,
+        3782,
+        38338
+    ],
+    "stats": {},
+    "overview": {
+        "3563": {
+            "damage": [
+                1
+            ],
+            "attackTypes": [
+                "Ranged"
+            ],
+            "cooldown": 4.0
+        },
+        "3782": {
+            "damage": [
+                1
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Knockback"
+            ],
+            "cooldown": 9.0
+        },
+        "38338": {
+            "damage": [
+                1
+            ],
+            "attackTypes": [],
+            "cooldown": 3.0
         }
     }
 }

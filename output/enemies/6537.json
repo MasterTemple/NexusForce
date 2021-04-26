@@ -2,10 +2,12 @@
     "objectID": 6537,
     "itemInfo": {
         "name": "Spider Boss Den",
-        "displayName": null,
+        "displayName": "Spider Boss Den",
         "type": "Enemies",
         "description": "Boss for the last room of the spider cave",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 1,
+        "armor": 0.0
     },
     "enemyID": 6537,
     "components": {
@@ -16,11 +18,14 @@
         "9": 0,
         "60": 9
     },
+    "iconURL": "textures/ui/missioncomics/wonderland/avant_gardens/hud_icons/spider_boss_hud.png",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 582,
         "LootMatrixIndex": null,
-        "LootTableIndexes": []
+        "LootTableIndexes": [],
+        "CurrencyIndex": null,
+        "level": 4
     },
     "skillIDs": [
         208
@@ -28,7 +33,32 @@
     "objectSkills": {
         "208": {
             "castOnType": null,
-            "AICombatWeight": 100
+            "AICombatWeight": 100,
+            "behaviorID": 1858,
+            "imaginationcost": 0,
+            "cooldowngroup": 0,
+            "cooldown": 5.0,
+            "inNpcEditor": 0,
+            "skillIcon": 2840,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        1858
+    ],
+    "stats": {},
+    "overview": {
+        "1858": {
+            "damage": [
+                1
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Ranged"
+            ],
+            "cooldown": 5.0
         }
     }
 }

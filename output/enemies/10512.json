@@ -5,7 +5,9 @@
         "displayName": "Dark Ronin",
         "type": "Enemies",
         "description": "Ronin spawned by flying dragon fireball effect",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 4,
+        "armor": 0.0
     },
     "enemyID": 10512,
     "components": {
@@ -17,6 +19,7 @@
         "31": 35,
         "60": 67
     },
+    "iconURL": "textures/ui/missioncomics/wonderland/avant_gardens/hud_icons/battle_maelstrom_hud.png",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 1565,
@@ -169,7 +172,9 @@
                 },
                 "total": 0
             }
-        ]
+        ],
+        "CurrencyIndex": null,
+        "level": 2
     },
     "skillIDs": [
         494
@@ -177,7 +182,34 @@
     "objectSkills": {
         "494": {
             "castOnType": 0,
-            "AICombatWeight": 100
+            "AICombatWeight": 100,
+            "behaviorID": 6041,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 4.5,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        6041
+    ],
+    "stats": {
+        "cooldown": 4.5,
+        "cooldowngroup": 1
+    },
+    "overview": {
+        "6041": {
+            "damage": [
+                2,
+                2,
+                2
+            ],
+            "attackTypes": [],
+            "cooldown": 4.5
         }
     }
 }

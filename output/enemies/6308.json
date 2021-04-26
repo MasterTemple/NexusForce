@@ -13,7 +13,11 @@
         "3": 48,
         "5": 1027
     },
+    "iconURL": "textures/ui/missioncomics/wonderland/avant_gardens/hud_icons/spider_boss_hud.png",
     "doesntDropAnything": true,
     "skillIDs": [],
-    "objectSkills": {}
+    "objectSkills": {},
+    "behaviorIDs": [],
+    "stats": {},
+    "overview": {}
 }

@@ -5,7 +5,9 @@
         "displayName": "Skeleton Watchman",
         "type": "Enemies",
         "description": "Skeleton spawned by the watchrtower",
-        "internalNotes": "Basic Skeleton for watchtower"
+        "internalNotes": "Basic Skeleton for watchtower",
+        "life": 18,
+        "armor": 0.0
     },
     "enemyID": 13068,
     "components": {
@@ -17,6 +19,7 @@
         "17": 481,
         "60": 126
     },
+    "iconURL": "textures/ui/missioncomics/wonderland/avant_gardens/hud_icons/battle_maelstrom_hud.png",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 1810,
@@ -568,7 +571,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 52,
+        "level": 4,
+        "currencyMin": 30,
+        "currencyMax": 40
     },
     "skillIDs": [
         943,
@@ -577,11 +584,63 @@
     "objectSkills": {
         "943": {
             "castOnType": null,
-            "AICombatWeight": 50
+            "AICombatWeight": 50,
+            "behaviorID": 19662,
+            "imaginationcost": 0,
+            "cooldowngroup": 2,
+            "cooldown": 7.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
         },
         "1122": {
             "castOnType": null,
-            "AICombatWeight": 50
+            "AICombatWeight": 50,
+            "behaviorID": 24711,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 1.25,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        19662,
+        24711
+    ],
+    "stats": {},
+    "overview": {
+        "19662": {
+            "damage": [
+                6,
+                5,
+                4,
+                3,
+                2
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Area of Effect",
+                "Knockback"
+            ],
+            "cooldown": 7.0
+        },
+        "24711": {
+            "damage": [
+                5,
+                4,
+                3,
+                1
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 1.25
         }
     }
 }

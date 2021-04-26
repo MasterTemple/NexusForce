@@ -5,7 +5,9 @@
         "displayName": "Stromling Admiral Elite",
         "type": "Enemies",
         "description": null,
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 24,
+        "armor": 0.0
     },
     "enemyID": 13523,
     "components": {
@@ -17,6 +19,7 @@
         "31": 24,
         "60": 131
     },
+    "iconURL": "textures/ui/missioncomics/wonderland/gnarled_forest/hud_icons/mission_460.png",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 1839,
@@ -56,7 +59,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 2,
+        "level": 3,
+        "currencyMin": 9,
+        "currencyMax": 15
     },
     "skillIDs": [
         241
@@ -64,7 +71,32 @@
     "objectSkills": {
         "241": {
             "castOnType": null,
-            "AICombatWeight": 100
+            "AICombatWeight": 100,
+            "behaviorID": 1985,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 2.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        1985
+    ],
+    "stats": {},
+    "overview": {
+        "1985": {
+            "damage": [
+                6
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Knockback"
+            ],
+            "cooldown": 2.0
         }
     }
 }

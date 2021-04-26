@@ -2,10 +2,12 @@
     "objectID": 3018,
     "itemInfo": {
         "name": "TEST AI NINJA for Ian H",
-        "displayName": null,
+        "displayName": "TEST AI NINJA for Ian H",
         "type": "Enemies",
         "description": "Test AI, Ian use only.  Do not place",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 4,
+        "armor": 0.0
     },
     "enemyID": 3018,
     "components": {
@@ -16,6 +18,7 @@
         "9": 0,
         "17": 1
     },
+    "iconURL": "textures/ui/missioncomics/wonderland/gnarled_forest/hud_icons/red_ninja.png",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 363,
@@ -217,7 +220,11 @@
                 },
                 "total": 0
             }
-        ]
+        ],
+        "CurrencyIndex": 1,
+        "level": 4,
+        "currencyMin": 30,
+        "currencyMax": 50
     },
     "skillIDs": [
         239
@@ -225,7 +232,31 @@
     "objectSkills": {
         "239": {
             "castOnType": null,
-            "AICombatWeight": 0
+            "AICombatWeight": 0,
+            "behaviorID": 1957,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 1.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        1957
+    ],
+    "stats": {},
+    "overview": {
+        "1957": {
+            "damage": [
+                1
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 1.0
         }
     }
 }

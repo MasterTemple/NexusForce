@@ -5,7 +5,9 @@
         "displayName": "Muffet Bane - Dark Spiderling Invader",
         "type": "Enemies",
         "description": null,
-        "internalNotes": "Small Stromling spider for scenario Survival"
+        "internalNotes": "Small Stromling spider for scenario Survival",
+        "life": 45,
+        "armor": 0.0
     },
     "enemyID": 11984,
     "components": {
@@ -17,6 +19,7 @@
         "31": 12,
         "60": 81
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 1639,
@@ -534,7 +537,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 52,
+        "level": 16,
+        "currencyMin": 500,
+        "currencyMax": 600
     },
     "skillIDs": [
         490,
@@ -544,15 +551,75 @@
     "objectSkills": {
         "490": {
             "castOnType": null,
-            "AICombatWeight": 80
+            "AICombatWeight": 80,
+            "behaviorID": 5963,
+            "imaginationcost": 0,
+            "cooldowngroup": 0,
+            "cooldown": 2.7,
+            "inNpcEditor": 0,
+            "skillIcon": 2840,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
         },
         "833": {
             "castOnType": null,
-            "AICombatWeight": 10
+            "AICombatWeight": 10,
+            "behaviorID": 15556,
+            "imaginationcost": 0,
+            "cooldowngroup": 3,
+            "cooldown": 2.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
         },
         "932": {
             "castOnType": null,
-            "AICombatWeight": 20
+            "AICombatWeight": 20,
+            "behaviorID": 19013,
+            "imaginationcost": 0,
+            "cooldowngroup": 0,
+            "cooldown": 1.5,
+            "inNpcEditor": 0,
+            "skillIcon": 2840,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        5963,
+        15556,
+        19013
+    ],
+    "stats": {},
+    "overview": {
+        "5963": {
+            "damage": [
+                5
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 2.7
+        },
+        "15556": {
+            "damage": [
+                1
+            ],
+            "attackTypes": [
+                "Ranged"
+            ],
+            "cooldown": 2.0
+        },
+        "19013": {
+            "damage": [
+                3
+            ],
+            "attackTypes": [],
+            "cooldown": 1.5
         }
     }
 }

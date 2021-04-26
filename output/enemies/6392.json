@@ -5,7 +5,9 @@
         "displayName": "Stromling",
         "type": "Enemies",
         "description": null,
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 3,
+        "armor": 0.0
     },
     "enemyID": 6392,
     "components": {
@@ -15,6 +17,7 @@
         "7": 360,
         "9": 0
     },
+    "iconURL": "textures/ui/missioncomics/wonderland/forbidden_valley/hud_icons/grumpy_darkling.png",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 360,
@@ -729,8 +732,13 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": null,
+        "level": 1
     },
     "skillIDs": [],
-    "objectSkills": {}
+    "objectSkills": {},
+    "behaviorIDs": [],
+    "stats": {},
+    "overview": {}
 }

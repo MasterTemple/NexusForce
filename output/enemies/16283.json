@@ -5,7 +5,9 @@
         "displayName": "NAMED SPIDERLING",
         "type": "Enemies",
         "description": null,
-        "internalNotes": "Named Spiderling for AG"
+        "internalNotes": "Named Spiderling for AG",
+        "life": 25,
+        "armor": 0.0
     },
     "enemyID": 16283,
     "components": {
@@ -17,6 +19,7 @@
         "31": 94,
         "60": 176
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 2137,
@@ -548,7 +551,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 1,
+        "level": 5,
+        "currencyMin": 60,
+        "currencyMax": 100
     },
     "skillIDs": [
         229,
@@ -558,15 +565,77 @@
     "objectSkills": {
         "229": {
             "castOnType": null,
-            "AICombatWeight": 20
+            "AICombatWeight": 20,
+            "behaviorID": 1897,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 3.0,
+            "inNpcEditor": 0,
+            "skillIcon": 2840,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
         },
         "490": {
             "castOnType": null,
-            "AICombatWeight": 80
+            "AICombatWeight": 80,
+            "behaviorID": 5963,
+            "imaginationcost": 0,
+            "cooldowngroup": 0,
+            "cooldown": 2.7,
+            "inNpcEditor": 0,
+            "skillIcon": 2840,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
         },
         "833": {
             "castOnType": null,
-            "AICombatWeight": 10
+            "AICombatWeight": 10,
+            "behaviorID": 15556,
+            "imaginationcost": 0,
+            "cooldowngroup": 3,
+            "cooldown": 2.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        1897,
+        5963,
+        15556
+    ],
+    "stats": {},
+    "overview": {
+        "1897": {
+            "damage": [
+                2
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 3.0
+        },
+        "5963": {
+            "damage": [
+                5
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 2.7
+        },
+        "15556": {
+            "damage": [
+                1
+            ],
+            "attackTypes": [
+                "Ranged"
+            ],
+            "cooldown": 2.0
         }
     }
 }

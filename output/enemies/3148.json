@@ -2,7 +2,7 @@
     "objectID": 3148,
     "itemInfo": {
         "name": "AG - Robotanist Mower Boss",
-        "displayName": null,
+        "displayName": "AG - Robotanist Mower Boss",
         "type": "Enemies",
         "description": null,
         "internalNotes": null
@@ -12,7 +12,11 @@
         "2": 2609,
         "3": 2091
     },
+    "iconURL": "unknown",
     "doesntDropAnything": true,
     "skillIDs": [],
-    "objectSkills": {}
+    "objectSkills": {},
+    "behaviorIDs": [],
+    "stats": {},
+    "overview": {}
 }

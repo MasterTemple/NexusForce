@@ -2,7 +2,7 @@
     "objectID": 10145,
     "itemInfo": {
         "name": "Boss Burno Large3",
-        "displayName": null,
+        "displayName": "Boss Burno Large3",
         "type": "Enemies",
         "description": null,
         "internalNotes": null
@@ -11,7 +11,11 @@
     "components": {
         "2": 9984
     },
+    "iconURL": "unknown",
     "doesntDropAnything": true,
     "skillIDs": [],
-    "objectSkills": {}
+    "objectSkills": {},
+    "behaviorIDs": [],
+    "stats": {},
+    "overview": {}
 }

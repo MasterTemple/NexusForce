@@ -5,7 +5,9 @@
         "displayName": "Passive Stromling",
         "type": "Enemies",
         "description": "TEST Passive  Stromling",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 100,
+        "armor": 0.0
     },
     "enemyID": 13306,
     "components": {
@@ -14,6 +16,7 @@
         "5": 1452,
         "7": 1827
     },
+    "iconURL": "textures/ui/missioncomics/wonderland/avant_gardens/hud_icons/battle_maelstrom_hud.png",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 1827,
@@ -553,8 +556,15 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 1,
+        "level": 2,
+        "currencyMin": 5,
+        "currencyMax": 9
     },
     "skillIDs": [],
-    "objectSkills": {}
+    "objectSkills": {},
+    "behaviorIDs": [],
+    "stats": {},
+    "overview": {}
 }

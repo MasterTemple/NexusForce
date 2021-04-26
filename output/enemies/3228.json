@@ -2,10 +2,12 @@
     "objectID": 3228,
     "itemInfo": {
         "name": "Test - Always Loot",
-        "displayName": null,
+        "displayName": "Test - Always Loot",
         "type": "Enemies",
         "description": null,
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 1,
+        "armor": 0.0
     },
     "enemyID": 3228,
     "components": {
@@ -14,6 +16,7 @@
         "5": 67,
         "7": 246
     },
+    "iconURL": "textures/ui/tooltips/rebuild_bricks.tga",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 246,
@@ -82,8 +85,13 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": null,
+        "level": 1
     },
     "skillIDs": [],
-    "objectSkills": {}
+    "objectSkills": {},
+    "behaviorIDs": [],
+    "stats": {},
+    "overview": {}
 }

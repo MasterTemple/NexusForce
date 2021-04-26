@@ -5,7 +5,9 @@
         "displayName": "Whack Bliddo - Dark Spiderling Invader",
         "type": "Enemies",
         "description": null,
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 400,
+        "armor": 0.0
     },
     "enemyID": 12609,
     "components": {
@@ -17,6 +19,7 @@
         "31": 48,
         "60": 112
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 1760,
@@ -338,7 +341,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 3,
+        "level": 4,
+        "currencyMin": 128,
+        "currencyMax": 256
     },
     "skillIDs": [
         491,
@@ -348,15 +355,75 @@
     "objectSkills": {
         "491": {
             "castOnType": null,
-            "AICombatWeight": 10
+            "AICombatWeight": 10,
+            "behaviorID": 5977,
+            "imaginationcost": 0,
+            "cooldowngroup": 0,
+            "cooldown": 2.7,
+            "inNpcEditor": 0,
+            "skillIcon": 2840,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
         },
         "493": {
             "castOnType": null,
-            "AICombatWeight": 90
+            "AICombatWeight": 90,
+            "behaviorID": 6003,
+            "imaginationcost": 0,
+            "cooldowngroup": 0,
+            "cooldown": 4.0,
+            "inNpcEditor": 0,
+            "skillIcon": 2840,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
         },
         "833": {
             "castOnType": null,
-            "AICombatWeight": 5
+            "AICombatWeight": 5,
+            "behaviorID": 15556,
+            "imaginationcost": 0,
+            "cooldowngroup": 3,
+            "cooldown": 2.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        5977,
+        6003,
+        15556
+    ],
+    "stats": {},
+    "overview": {
+        "5977": {
+            "damage": [
+                3
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 2.7
+        },
+        "6003": {
+            "damage": [
+                7
+            ],
+            "attackTypes": [],
+            "cooldown": 4.0
+        },
+        "15556": {
+            "damage": [
+                1
+            ],
+            "attackTypes": [
+                "Ranged"
+            ],
+            "cooldown": 2.0
         }
     }
 }

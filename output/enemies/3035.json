@@ -2,10 +2,12 @@
     "objectID": 3035,
     "itemInfo": {
         "name": "FV - Hyper Stromling",
-        "displayName": null,
+        "displayName": "FV - Hyper Stromling",
         "type": "Enemies",
         "description": null,
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 2,
+        "armor": 0.0
     },
     "enemyID": 3035,
     "components": {
@@ -15,6 +17,7 @@
         "7": 637,
         "9": 0
     },
+    "iconURL": "textures/ui/missioncomics/wonderland/forbidden_valley/hud_icons/hyper_darkling.png",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 637,
@@ -729,7 +732,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 1,
+        "level": 1,
+        "currencyMin": 3,
+        "currencyMax": 5
     },
     "skillIDs": [
         239
@@ -737,7 +744,31 @@
     "objectSkills": {
         "239": {
             "castOnType": null,
-            "AICombatWeight": 0
+            "AICombatWeight": 0,
+            "behaviorID": 1957,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 1.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        1957
+    ],
+    "stats": {},
+    "overview": {
+        "1957": {
+            "damage": [
+                1
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 1.0
         }
     }
 }

@@ -5,7 +5,9 @@
         "displayName": "Stromling Skeleton",
         "type": "Enemies",
         "description": "GF Difficult Stromling",
-        "internalNotes": null
+        "internalNotes": null,
+        "life": 3,
+        "armor": 0.0
     },
     "enemyID": 6551,
     "components": {
@@ -16,6 +18,7 @@
         "9": 0,
         "60": 4
     },
+    "iconURL": "unknown",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 585,
@@ -706,7 +709,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 3,
+        "level": 2,
+        "currencyMin": 15,
+        "currencyMax": 27
     },
     "skillIDs": [
         205
@@ -714,7 +721,31 @@
     "objectSkills": {
         "205": {
             "castOnType": null,
-            "AICombatWeight": 100
+            "AICombatWeight": 100,
+            "behaviorID": 1794,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 1.0,
+            "inNpcEditor": 0,
+            "skillIcon": 2840,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        1794
+    ],
+    "stats": {},
+    "overview": {
+        "1794": {
+            "damage": [
+                1
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 1.0
         }
     }
 }

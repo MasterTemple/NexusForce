@@ -5,7 +5,9 @@
         "displayName": "Blackmarrow - Skeleton Engineer",
         "type": "Enemies",
         "description": null,
-        "internalNotes": "Basic Skeleton"
+        "internalNotes": "Basic Skeleton",
+        "life": 75,
+        "armor": 0.0
     },
     "enemyID": 12003,
     "components": {
@@ -18,6 +20,7 @@
         "31": 18,
         "60": 98
     },
+    "iconURL": "textures/ui/missioncomics/wonderland/avant_gardens/hud_icons/battle_maelstrom_hud.png",
     "doesntDropAnything": false,
     "drop": {
         "DestructibleComponent": 1649,
@@ -638,7 +641,11 @@
                 },
                 "total": 100
             }
-        ]
+        ],
+        "CurrencyIndex": 52,
+        "level": 14,
+        "currencyMin": 300,
+        "currencyMax": 400
     },
     "skillIDs": [
         948,
@@ -648,15 +655,86 @@
     "objectSkills": {
         "948": {
             "castOnType": null,
-            "AICombatWeight": 90
+            "AICombatWeight": 90,
+            "behaviorID": 19755,
+            "imaginationcost": 0,
+            "cooldowngroup": 2,
+            "cooldown": 4.5,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
         },
         "950": {
             "castOnType": null,
-            "AICombatWeight": 5
+            "AICombatWeight": 5,
+            "behaviorID": 19791,
+            "imaginationcost": 0,
+            "cooldowngroup": 3,
+            "cooldown": 3.0,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
         },
         "1123": {
             "castOnType": null,
-            "AICombatWeight": 10
+            "AICombatWeight": 10,
+            "behaviorID": 24712,
+            "imaginationcost": 0,
+            "cooldowngroup": 1,
+            "cooldown": 1.25,
+            "inNpcEditor": 0,
+            "skillIcon": null,
+            "imBonusUI": null,
+            "lifeBonusUI": null,
+            "armorBonusUI": null
+        }
+    },
+    "behaviorIDs": [
+        19755,
+        19791,
+        24712
+    ],
+    "stats": {},
+    "overview": {
+        "19755": {
+            "damage": [
+                7,
+                6,
+                5,
+                4,
+                3
+            ],
+            "attackTypes": [],
+            "cooldown": 4.5
+        },
+        "19791": {
+            "damage": [
+                8,
+                7,
+                6,
+                5,
+                4
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 3.0
+        },
+        "24712": {
+            "damage": [
+                6,
+                5,
+                4,
+                2
+            ],
+            "attackTypes": [
+                "Knockback"
+            ],
+            "cooldown": 1.25
         }
     }
 }
