@@ -47,8 +47,12 @@ module.exports = {
             var ltiName = item.nameInfo.AlternateName
 
         }
+        let total = 0
+        Object.keys(item.rarityCount).forEach(function(count){
+            total = total + item.rarityCount[count]
+        })
 
-        let embed = msgEmbed.execute(`${ltiName} [${item.nameInfo.LootTableIndex}]`, undefined, `https://lu-explorer.web.app/objects/loot/table/${itemID}`, uIcon)
+        let embed = msgEmbed.execute(`${ltiName} [${item.nameInfo.LootTableIndex}] - ${total} Items `, undefined, `https://lu-explorer.web.app/objects/loot/table/${itemID}`, uIcon)
 
         Object.keys(item.byRarity).forEach(function(el) {
             let desc1 = ``
