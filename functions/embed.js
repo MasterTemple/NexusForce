@@ -1,6 +1,6 @@
 module.exports = {
     execute(message, title, description, url, thumbnail, fields) {
-        const {inviteLink, iconURL, footer} = require('./../config.json');
+        const {inviteLink, botIconURL, footer} = require('./../config.json');
 
         const client = message.client;
         let channel = message.channel.toString();
@@ -11,7 +11,7 @@ module.exports = {
             .setColor('#00ffff')
             .setTitle(title)
             .setURL(url)
-            .setAuthor(`Nexus Force`, iconURL, inviteLink)
+            .setAuthor(`Nexus Force`, botIconURL, inviteLink)
             .setDescription(description)
 
             .setThumbnail(thumbnail)
@@ -23,7 +23,7 @@ module.exports = {
 
             //.setImage(thumbnail)
             .setTimestamp()
-            .setFooter(footer, iconURL);
+            .setFooter(footer, botIconURL);
 
         client.channels.cache.get(channel).send(embed);
     }

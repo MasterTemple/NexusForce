@@ -27,13 +27,14 @@ module.exports = {
             var objectID = args[0]
         }
         var dropFile = require(`./../output/objects/${Math.floor(objectID/256)}/${objectID}.json`)
+        const { uIcon, luExplorerURL, resURL, unknownImageURL} = require('./../config.json')
 
         let msgEmbed = require(`./../functions/embedTemplate.js`)
         if(dropFile.itemComponent.levelRequirement === undefined){
             dropFile.levelRequirement = 0
         }
 
-        let embed = msgEmbed.execute(`${dropFile.itemInfo.displayName} [${dropFile.objectID}]`, undefined,`https://lu-explorer.web.app/objects/${dropFile.objectID}`, dropFile.iconURL)
+        let embed = msgEmbed.execute(`${dropFile.itemInfo.displayName} [${dropFile.objectID}]`, undefined,`${luExplorerURL}objects/${dropFile.objectID}`, dropFile.iconURL)
 
 
         var vendorInfo = ``
@@ -88,7 +89,7 @@ module.exports = {
 
             if(embed.fields.length > 25){
                 message.author.send(embed)
-                embed = msgEmbed.execute(`${dropFile.itemInfo.displayName} [${dropFile.objectID}]`, undefined,`https://lu-explorer.web.app/objects/${dropFile.objectID}`, dropFile.iconURL)
+                embed = msgEmbed.execute(`${dropFile.itemInfo.displayName} [${dropFile.objectID}]`, undefined,`${luExplorerURL}objects/${dropFile.objectID}`, dropFile.iconURL)
                 wasDMed = true
             }
 
@@ -96,7 +97,7 @@ module.exports = {
             if(c === Object.keys(dropFile.buyAndDrop.LootMatrixIndexes).length && embed.fields.length !== 0 && wasDMed){
                 message.author.send(embed)
                 message.channel.send("Direct Messages Sent!")
-                //embed = msgEmbed.execute(`${dropFile.itemInfo.displayName} [${dropFile.objectID}]`, undefined,`https://lu-explorer.web.app/objects/${dropFile.objectID}`, dropFile.iconURL)
+                //embed = msgEmbed.execute(`${dropFile.itemInfo.displayName} [${dropFile.objectID}]`, undefined,`${luExplorerURL}objects/${dropFile.objectID}`, dropFile.iconURL)
             }else if(c === Object.keys(dropFile.buyAndDrop.LootMatrixIndexes).length && embed.fields.length !== 0){
                 message.channel.send(embed)
             }

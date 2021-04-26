@@ -18,8 +18,9 @@ module.exports = {
         if(!isNaN(args[0]) && parseInt(args[0]) < 86 && parseInt(args[0]) > 0) {
             var levelFile = require(`./../output/levelData/levels.json`)
             let msgEmbed = require(`./../functions/embedTemplate.js`)
-            var iconURL = `https://static.wikia.nocookie.net/legomessageboards/images/c/ce/LU2.png/revision/latest?cb=20121121213649`
-            let embed = msgEmbed.execute(`Level ${args[0]}!`, undefined, `https://lu-explorer.web.app/misc/level-progression`, iconURL)
+            const { uIcon, luExplorerURL, resURL, unknownImageURL} = require('./../config.json')
+
+            let embed = msgEmbed.execute(`Level ${args[0]}!`, undefined, `${luExplorerURL}misc/level-progression`, uIcon)
             //console.log(levelFile[args[0]])
             var required = levelFile[args[0]].requiredUScore
             var this_level = levelFile[args[0]].fromPreviousLevel

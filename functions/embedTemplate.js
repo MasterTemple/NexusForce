@@ -1,6 +1,6 @@
 module.exports = {
     execute(title, description, url, thumbnail) {
-        const {inviteLink, iconURL, footer} = require('./../config.json');
+        const {inviteLink, botIconURL, footer} = require('./../config.json');
 
 
         const Discord = require('discord.js');
@@ -8,7 +8,7 @@ module.exports = {
             .setColor('#00ffff')
             .setTitle(title)
             .setURL(url)
-            .setAuthor(`Nexus Force`, iconURL, inviteLink)
+            .setAuthor(`Nexus Force`, botIconURL, inviteLink)
 
             .setThumbnail(thumbnail)
             //.addFields(
@@ -19,7 +19,7 @@ module.exports = {
 
             //.setImage(thumbnail)
             .setTimestamp()
-            .setFooter(footer, iconURL);
+            .setFooter(footer, botIconURL);
 
         if(description !== undefined ){
             embed.setDescription(description)

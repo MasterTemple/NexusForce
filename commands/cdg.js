@@ -33,8 +33,7 @@ module.exports = {
         const {invisChar} = require('./../config.json');
 
         let msgEmbed = require(`./../functions/embedTemplate.js`)
-        let uIcon = "https://images-ext-1.discordapp.net/external/yeozIqZ6L5llPU2kUINa2Y5agdt4reO0KN1Q1YAjAOQ/%3Fcb%3D20121121213649/https/static.wikia.nocookie.net/legomessageboards/images/c/ce/LU2.png/revision/latest"
-
+        const { uIcon, luExplorerURL, resURL, unknownImageURL} = require('./../config.json')
         let desc = ``
 
         // if(CDGFile.imaginationCost !== null && CDGFile.cooldownTime !== null){
@@ -97,7 +96,7 @@ module.exports = {
         })
         let num = 1
         embedArray.forEach(function(e){
-            let embed = msgEmbed.execute(`Cooldown Group: ${cdgID}`, desc,`https://lu-explorer.web.app/dashboard`, uIcon)
+            let embed = msgEmbed.execute(`Cooldown Group: ${cdgID}`, desc,`${luExplorerURL}dashboard`, uIcon)
 
             embed.addField("Skills:", e.field1, true)
             if(e.field2 === ''){

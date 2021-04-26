@@ -26,7 +26,7 @@ module.exports = {
         let link = args[0]
         try{
             client.user.setAvatar(link)
-            config.iconURL = link
+            config.botIconURL = link
             message.channel.send("Done ✅")
         }catch(e){
             console.log(e)

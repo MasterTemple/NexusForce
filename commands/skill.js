@@ -48,14 +48,14 @@ module.exports = {
         //return
 
 
-        const {invisChar, emojis} = require('./../config.json');
+        const { uIcon, luExplorerURL, resURL, unknownImageURL, emojis} = require('./../config.json')
 
         let msgEmbed = require(`./../functions/embedTemplate.js`)
         try{
-            var uIcon = skillToCDGFile[skillID]['iconURL']
+            var icon = skillToCDGFile[skillID]['iconURL']
         }catch(e) {
             console.log(e)
-            var uIcon = "https://images-ext-1.discordapp.net/external/yeozIqZ6L5llPU2kUINa2Y5agdt4reO0KN1Q1YAjAOQ/%3Fcb%3D20121121213649/https/static.wikia.nocookie.net/legomessageboards/images/c/ce/LU2.png/revision/latest"
+            icon = uIcon
         }
         let desc = ``
         if(skillToCDGFile[skillID]['Description'] !== undefined){
@@ -86,7 +86,7 @@ module.exports = {
         }
 
 
-        let embed = msgEmbed.execute(`${skillName}: ${skillID} `, desc,`https://lu-explorer.web.app/skills/${skillID}`, uIcon)
+        let embed = msgEmbed.execute(`${skillName}: ${skillID} `, desc,`${luExplorerURL}skills/${skillID}`, uIcon)
         message.channel.send(embed)
 
     }

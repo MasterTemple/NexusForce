@@ -27,13 +27,13 @@ module.exports = {
         }else{
             var kitID = args[0]
         }
-        const {emojis, invisChar} = require('./../config.json');
+        const { uIcon, luExplorerURL, resURL, unknownImageURL, invisChar} = require('./../config.json')
 
         var kitFile = require(`./../output/kitData/${kitID}.json`)
 
         let msgEmbed = require(`./../functions/embedTemplate.js`)
 
-        let embed = msgEmbed.execute(kitFile.name, undefined,`https://lu-explorer.web.app/objects/item-sets/${kitFile.id}`, kitFile.iconURL)
+        let embed = msgEmbed.execute(kitFile.name, undefined,`${luExplorerURL}objects/item-sets/${kitFile.id}`, kitFile.iconURL)
 
         Object.keys(kitFile.skillSetDescriptions).forEach(function(element, key, _array){
             embed.addField(`${element[element.length-1]} Piece Ability`, kitFile.skillSetDescriptions[element], false)

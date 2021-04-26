@@ -29,8 +29,9 @@ module.exports = {
         var npcFile = require(`./../output/npcs/${Math.floor(objectID/256)}/${objectID}.json`)
 
         let msgEmbed = require(`./../functions/embedTemplate.js`)
+        const { uIcon, luExplorerURL, resURL, unknownImageURL} = require('./../config.json')
 
-        let embed = msgEmbed.execute(`${npcFile.itemInfo.displayName} [${npcFile.objectID}]`, undefined,`https://lu-explorer.web.app/objects/${npcFile.objectID}`, npcFile.iconURL)
+        let embed = msgEmbed.execute(`${npcFile.itemInfo.displayName} [${npcFile.objectID}]`, undefined,`${luExplorerURL}objects/${npcFile.objectID}`, npcFile.iconURL)
 
 
         let missionInfo = ``

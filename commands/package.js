@@ -37,7 +37,7 @@ module.exports = {
         //     packageFile.levelRequirement = 0
         // }
 
-        //let embed = msgEmbed.execute(packageFile.displayName, undefined,`https://lu-explorer.web.app/objects/${packageFile.objectID}`, packageFile.iconURL)
+        //let embed = msgEmbed.execute(packageFile.displayName, undefined,`${luExplorerURL}objects/${packageFile.objectID}`, packageFile.iconURL)
 
         // if(packageFile.itemComponent.altCurrencyCost !== null){
         //     embed.addFields(
@@ -61,7 +61,7 @@ module.exports = {
         // message.channel.send(embed)
         // return
         var description = ``
-        let config = require(`./../config.json`)
+        const { uIcon, luExplorerURL, resURL, unknownImageURL} = require('./../config.json')
         for(let p=0; p<packageFile.LootTableIndexes.length;p++){
             if(packageFile.LootTableIndexes[p].names.Name === null || packageFile.LootTableIndexes[p].names.Name === undefined){
                 packageFile.LootTableIndexes[p].names.Name = packageFile.LootTableIndexes[p].names.AlternateName
@@ -120,7 +120,7 @@ module.exports = {
             //     description = `${description}**T1:**${(packageFile.LootTableIndexes[p].rarityTableInfo['1'].weightedChanceForSpecificItemIncludingDrop * 100).toFixed()}% **T2:**${(packageFile.LootTableIndexes[p].rarityTableInfo['2'].weightedChanceForSpecificItemIncludingDrop * 100).toFixed()}% **T3:**${(packageFile.LootTableIndexes[p].rarityTableInfo['3'].weightedChanceForSpecificItemIncludingDrop * 100).toFixed()}% **T4:**${(packageFile.LootTableIndexes[p].rarityTableInfo['4'].weightedChanceForSpecificItemIncludingDrop * 100).toFixed()}% \n`
             // }catch{}
         }
-        let embed = msgEmbed.execute(`${packageFile.itemInfo.displayName} [${packageFile.objectID}]`, description,`https://lu-explorer.web.app/objects/${packageFile.objectID}`, packageFile.iconURL)
+        let embed = msgEmbed.execute(`${packageFile.itemInfo.displayName} [${packageFile.objectID}]`, description,`${luExplorerURL}objects/${packageFile.objectID}`, packageFile.iconURL)
         //console.log(description)
 
 

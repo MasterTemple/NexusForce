@@ -27,6 +27,8 @@ module.exports = {
             var objectID = args[0]
         }
         var earnFile = require(`./../output/objects/${Math.floor(objectID/256)}/${objectID}.json`)
+        const { uIcon, luExplorerURL, resURL, unknownImageURL} = require('./../config.json')
+
         //earnFile = require('./../output/references')
         //console.log(earnFile)
         //console.log(earnFile)
@@ -35,8 +37,8 @@ module.exports = {
             earnFile.levelRequirement = 0
         }
 
-        //let embed = msgEmbed.execute(earnFile.displayName, undefined,`https://lu-explorer.web.app/objects/${earnFile.objectID}`, earnFile.iconURL)
-        let embed = msgEmbed.execute(`${earnFile.itemInfo.displayName} [${earnFile.objectID}]`, undefined,`https://lu-explorer.web.app/objects/${earnFile.objectID}`, earnFile.iconURL)
+        //let embed = msgEmbed.execute(earnFile.displayName, undefined,`${luExplorerURL}objects/${earnFile.objectID}`, earnFile.iconURL)
+        let embed = msgEmbed.execute(`${earnFile.itemInfo.displayName} [${earnFile.objectID}]`, undefined,`${luExplorerURL}objects/${earnFile.objectID}`, earnFile.iconURL)
 
         // if(earnFile.itemComponent.altCurrencyCost !== null){
         //     embed.addFields(

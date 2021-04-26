@@ -28,7 +28,7 @@ module.exports = {
         }
         // const itemID = id
         const item = require(`./../output/objects/${Math.floor(itemID/256)}/${itemID}.json`);
-        const {emojis} = require('./../config.json');
+        const { uIcon, luExplorerURL, resURL, unknownImageURL} = require('./../config.json')
 
         if(item?.itemInfo?.name == undefined){
             item.itemInfo.name = "None"
@@ -60,7 +60,7 @@ module.exports = {
             description = `${description}\n**${key+1}. **${item.itemComponent.preconditionDescriptions[element]}`
         })
 
-        let embed = msgEmbed.execute(`${item.itemInfo.displayName} [${item.objectID}]`, description, `https://lu-explorer.web.app/objects/${itemID}`, item.iconURL)
+        let embed = msgEmbed.execute(`${item.itemInfo.displayName} [${item.objectID}]`, description, `${luExplorerURL}objects/${itemID}`, item.iconURL)
 
         try {
             if(args[1] !== 'dm') {

@@ -28,7 +28,7 @@ module.exports = {
         }
         // const itemID = id
         const item = require(`./../output/objects/${Math.floor(itemID/256)}/${itemID}.json`);
-        const {emojis} = require('./../config.json');
+        const { uIcon, luExplorerURL, resURL, unknownImageURL, emojis} = require('./../config.json')
 
         //console.log(item)
 
@@ -104,7 +104,7 @@ module.exports = {
         //     var description = `**Equip Location:** Consumable`
         //
         // }
-        let embed = msgEmbed.execute(`${item.itemInfo.displayName} [${item.objectID}]`, description, `https://lu-explorer.web.app/objects/${itemID}`, item.iconURL)
+        let embed = msgEmbed.execute(`${item.itemInfo.displayName} [${item.objectID}]`, description, `${luExplorerURL}objects/${itemID}`, item.iconURL)
 
         embed.addFields(
             { name: 'Name', value: item.itemInfo.name, inline: true },

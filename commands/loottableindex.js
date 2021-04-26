@@ -38,7 +38,7 @@ module.exports = {
         // return
         const {invisChar} = require('./../config.json');
 
-        let uIcon = "https://images-ext-1.discordapp.net/external/yeozIqZ6L5llPU2kUINa2Y5agdt4reO0KN1Q1YAjAOQ/%3Fcb%3D20121121213649/https/static.wikia.nocookie.net/legomessageboards/images/c/ce/LU2.png/revision/latest"
+        const { uIcon, luExplorerURL, resURL, unknownImageURL} = require('./../config.json')
         let msgEmbed = require(`./../functions/embedTemplate.js`)
 
         if(item.nameInfo.Name){
@@ -52,7 +52,7 @@ module.exports = {
             total = total + item.rarityCount[count]
         })
 
-        let embed = msgEmbed.execute(`${ltiName} [${item.nameInfo.LootTableIndex}] - ${total} Items `, undefined, `https://lu-explorer.web.app/objects/loot/table/${itemID}`, uIcon)
+        let embed = msgEmbed.execute(`${ltiName} [${item.nameInfo.LootTableIndex}] - ${total} Items `, undefined, `${luExplorerURL}objects/loot/table/${itemID}`, uIcon)
 
         Object.keys(item.byRarity).forEach(function(el) {
             let desc1 = ``

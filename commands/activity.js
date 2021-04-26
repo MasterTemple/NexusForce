@@ -31,13 +31,13 @@ module.exports = {
         // message.reply(objectID)
         // return
         let msgEmbed = require(`./../functions/embedTemplate.js`)
-        let uIcon = "https://images-ext-1.discordapp.net/external/yeozIqZ6L5llPU2kUINa2Y5agdt4reO0KN1Q1YAjAOQ/%3Fcb%3D20121121213649/https/static.wikia.nocookie.net/legomessageboards/images/c/ce/LU2.png/revision/latest"
+        const { uIcon, luExplorerURL, resURL, unknownImageURL} = require('./../config.json')
 
 
         try{
             var activityFile = require(`./../output/activities/${objectID}.json`)
         }catch{
-            let embed = msgEmbed.execute(`${activityName} [${objectID}]`, description, `https://lu-explorer.web.app/activities/${objectID}`, uIcon)
+            let embed = msgEmbed.execute(`${activityName} [${objectID}]`, description, `${luExplorerURL}activities/${objectID}`, uIcon)
             embed.addField("Nothing", "This activity has no rewards.", false)
             message.channel.send(embed)
             return
@@ -56,7 +56,7 @@ module.exports = {
         //     activityFile.levelRequirement = 0
         // }
 
-        //let embed = msgEmbed.execute(activityFile.displayName, undefined,`https://lu-explorer.web.app/activities/${objectID}`, activityFile.iuIcon
+        //let embed = msgEmbed.execute(activityFile.displayName, undefined,`${luExplorerURL}activities/${objectID}`, activityFile.iuIcon
         // if(activityFile.itemComponent.altCurrencyCost !== null){
         //     embed.addFields(
         //         {name: "Cost", value: activityFile.itemComponent.buyPrice, inline: true},
@@ -150,29 +150,29 @@ module.exports = {
 
             }
             if(description.length > 1900){
-                let embed = msgEmbed.execute(`${activityName} [${objectID}]`, description,`https://lu-explorer.web.app/activities/${objectID}`, uIcon)
+                let embed = msgEmbed.execute(`${activityName} [${objectID}]`, description,`${luExplorerURL}activities/${objectID}`, uIcon)
                 message.author.send(embed)
                 description = ''
                 wasDMed = true
             }
             c++
             if(c === activityFile.LootTableIndexes.length && description !== '' && wasDMed){
-                let embed = msgEmbed.execute(`${activityName} [${objectID}]`, description,`https://lu-explorer.web.app/activities/${objectID}`, uIcon)
+                let embed = msgEmbed.execute(`${activityName} [${objectID}]`, description,`${luExplorerURL}activities/${objectID}`, uIcon)
                 message.author.send(embed)
                 message.channel.send("Direct Messages Sent!")
             }else if(c === activityFile.LootTableIndexes.length && description !== ''){
-                let embed = msgEmbed.execute(`${activityName} [${objectID}]`, description,`https://lu-explorer.web.app/activities/${objectID}`, uIcon)
+                let embed = msgEmbed.execute(`${activityName} [${objectID}]`, description,`${luExplorerURL}activities/${objectID}`, uIcon)
                 message.channel.send(embed)
             }
 
             }
         if(activityFile.LootTableIndexes.length === 0 && wasDMed === false) {
-            let embed = msgEmbed.execute(`${activityName} [${objectID}]`, description, `https://lu-explorer.web.app/activities/${objectID}`, uIcon)
+            let embed = msgEmbed.execute(`${activityName} [${objectID}]`, description, `${luExplorerURL}activities/${objectID}`, uIcon)
             embed.addField("Nothing", "This activity has no rewards.", false)
             message.channel.send(embed)
         }
 
-        // let embed = msgEmbed.execute(`${activityName} [${activityFile.objectID}]`, description,`https://lu-explorer.web.app/activities/${objectID}`, activityFile.i
+        // let embed = msgEmbed.execute(`${activityName} [${activityFile.objectID}]`, description,`${luExplorerURL}activities/${objectID}`, activityFile.i
         // //console.log(description)
         //
         //

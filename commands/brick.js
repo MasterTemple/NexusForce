@@ -27,7 +27,7 @@ module.exports = {
         }
         // const itemID = id
         const item = require(`./../output/objects/${Math.floor(itemID/256)}/${itemID}.json`);
-        const {emojis} = require('./../config.json');
+        const { uIcon, luExplorerURL, resURL, unknownImageURL} = require('./../config.json')
 
         console.log(itemID)
 
@@ -76,7 +76,7 @@ module.exports = {
         // }else{
         //     var description = `**LEGO Brick:**}`
         // }
-        let embed = msgEmbed.execute(`${item.itemInfo.displayName} [${item.objectID}]`, undefined, `https://lu-explorer.web.app/objects/${item.objectID}`, item.iconURL)
+        let embed = msgEmbed.execute(`${item.itemInfo.displayName} [${item.objectID}]`, undefined, `${luExplorerURL}objects/${item.objectID}`, item.iconURL)
 
         embed.addFields(
             { name: 'Name', value: item.itemInfo.name, inline: true },

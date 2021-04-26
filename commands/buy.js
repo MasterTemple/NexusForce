@@ -34,9 +34,10 @@ module.exports = {
         if(buyFile.itemComponent.levelRequirement === undefined){
             buyFile.levelRequirement = 0
         }
+        const { uIcon, luExplorerURL, resURL, unknownImageURL} = require('./../config.json')
 
-        //let embed = msgEmbed.execute(buyFile.displayName, undefined,`https://lu-explorer.web.app/objects/${buyFile.objectID}`, buyFile.iconURL)
-        let embed = msgEmbed.execute(`${buyFile.itemInfo.displayName} [${buyFile.objectID}]`, undefined,`https://lu-explorer.web.app/objects/${buyFile.objectID}`, buyFile.iconURL)
+        //let embed = msgEmbed.execute(buyFile.displayName, undefined,`${luExplorerURL}objects/${buyFile.objectID}`, buyFile.iconURL)
+        let embed = msgEmbed.execute(`${buyFile.itemInfo.displayName} [${buyFile.objectID}]`, undefined,`${luExplorerURL}objects/${buyFile.objectID}`, buyFile.iconURL)
 
         if(buyFile.itemComponent.altCurrencyCost !== null){
             embed.addFields(

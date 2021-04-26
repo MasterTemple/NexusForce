@@ -28,6 +28,8 @@ module.exports = {
             var objectID = args[0]
         }
         var missionFile = require(`./../output/missions/${objectID}.json`)
+        const { uIcon, luExplorerURL, resURL, unknownImageURL} = require('./../config.json')
+
         //if(missionFile)
             //console.log(missionFile)
         //message.channel.send(`\`\`\`json\n${JSON.stringify(missionFile,null, 2)}\`\`\``)
@@ -35,22 +37,22 @@ module.exports = {
 
         // if(missionFile.isRepeatable === 0) {
         //      if (missionFile.description === undefined) {
-        //          var embed = msgEmbed.execute(`${missionFile.title} [${objectID}]`, undefined, `https://lu-explorer.web.app/missions/${objectID}`, missionFile.iconurl)
+        //          var embed = msgEmbed.execute(`${missionFile.title} [${objectID}]`, undefined, `${luExplorerURL}missions/${objectID}`, missionFile.iconurl)
         //      } else {
-        //          var embed = msgEmbed.execute(`${missionFile.title} [${objectID}]`, missionFile.description, `https://lu-explorer.web.app/missions/${objectID}`, missionFile.iconurl)
+        //          var embed = msgEmbed.execute(`${missionFile.title} [${objectID}]`, missionFile.description, `${luExplorerURL}missions/${objectID}`, missionFile.iconurl)
         //      }
         //  }else{
         //     if (missionFile.description === undefined) {
-        //         var embed = msgEmbed.execute(`${missionFile.title} (Repeatable) [${objectID}]`, undefined, `https://lu-explorer.web.app/missions/${objectID}`, missionFile.iconurl)
+        //         var embed = msgEmbed.execute(`${missionFile.title} (Repeatable) [${objectID}]`, undefined, `${luExplorerURL}missions/${objectID}`, missionFile.iconurl)
         //     } else {
-        //         var embed = msgEmbed.execute(`${missionFile.title} (Repeatable) [${objectID}]`, missionFile.description, `https://lu-explorer.web.app/missions/${objectID}`, missionFile.iconurl)
+        //         var embed = msgEmbed.execute(`${missionFile.title} (Repeatable) [${objectID}]`, missionFile.description, `${luExplorerURL}missions/${objectID}`, missionFile.iconurl)
         //     }
         // }
         if (missionFile.description === undefined) {
             missionFile.description = "None"
         }
 
-        var embed = msgEmbed.execute(`${missionFile.MissionStats.MissionText.name} [${objectID}]`, undefined, `https://lu-explorer.web.app/missions/${objectID}`, missionFile.MissionTasks.iconURL)
+        var embed = msgEmbed.execute(`${missionFile.MissionStats.MissionText.name} [${objectID}]`, undefined, `${luExplorerURL}missions/${objectID}`, missionFile.MissionTasks.iconURL)
 
         if(missionFile.MissionStats.isMission == 0){
             var type = 'Achievement'
@@ -178,7 +180,7 @@ module.exports = {
         )
 
 
-        //let embed = msgEmbed.execute(`${missionFile.title} [${objectID}]`, undefined,`https://lu-explorer.web.app/missions/${objectID}`, missionFile.iconurl)
+        //let embed = msgEmbed.execute(`${missionFile.title} [${objectID}]`, undefined,`${luExplorerURL}missions/${objectID}`, missionFile.iconurl)
 
         try {
             message.channel.send(embed)
