@@ -2,8 +2,8 @@ module.exports = {
     name: ['skill'],
     description: 'Get all objects by its skill in LEGO Universe',
     args: true,
-    use: `skill [id]`,
-    example: [`skill 550`],
+    use: `skill [name or ID]`,
+    example: [`skill 550`, `skill Ronin Rush`],
     execute(message, args) {
         function err() {
             try {
@@ -15,15 +15,31 @@ module.exports = {
                 console.error(error);
             }
         }
+        if(args.length > 1 || isNaN(args[0])){
+            let findOne = require(`./../functions/findOneSkill.js`)
+            var skillID = findOne.execute(args)
+            if(skillID===undefined){
+                message.channel.send("A Skill with this Name does not exist.")
+                //err()
+                return
+            }
+        }else{
+            var skillID = args[0]
+        }
 
-        const skillID = args[0]
         try {
             let skillToCDGFile = require(`./../output/references/Skills.json`)
-            let cooldowngroup = skillToCDGFile[`${skillID}`]
+            try{
+                var skillName = skillToCDGFile[`${skillID}`]['name']
+            }catch{
+                var skillName = `SkillID`
+            }
+            let cooldowngroup = skillToCDGFile[`${skillID}`]['cdg']
             let CDGFile = require(`./../output/cooldowngroup/${cooldowngroup}.json`)
             var skillData = CDGFile['skillIDs'][`${skillID}`]
 
         }catch(e){
+            console.log(e)
             message.channel.send("A skill with this skillID does not exist.")
             err()
             return
@@ -93,7 +109,8 @@ module.exports = {
         })
         let num = 1
         embedArray.forEach(function(e){
-            let embed = msgEmbed.execute(`SkillID: ${skillID} (${num})`, desc,`https://lu-explorer.web.app/skills/${skillID}`, uIcon)
+
+            let embed = msgEmbed.execute(`${skillName}: ${skillID} (${num})`, desc,`https://lu-explorer.web.app/skills/${skillID}`, uIcon)
 
             embed.addField("Items:", e.field1, true)
             if(e.field2 === ''){
