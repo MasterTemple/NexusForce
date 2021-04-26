@@ -5,7 +5,8 @@
     "items": {
         "14741": {
             "name": "MOD Car Dune Buggy Side Panels",
-            "displayName": "Dune Buggy Side Panels"
+            "displayName": "Dune Buggy Side Panels",
+            "rarity": 3
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 1,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [
+            14741
+        ],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "827",

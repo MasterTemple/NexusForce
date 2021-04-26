@@ -9,23 +9,28 @@
     "items": {
         "7456": {
             "name": "Inventor Head 3",
-            "displayName": "Inventor Goggles 3"
+            "displayName": "Inventor Goggles 3",
+            "rarity": 4
         },
         "7480": {
             "name": "Inventor Chest 3",
-            "displayName": "Inventor Armor 3"
+            "displayName": "Inventor Armor 3",
+            "rarity": 4
         },
         "7504": {
             "name": "Inventor Legs 3",
-            "displayName": "Inventor Pants 3"
+            "displayName": "Inventor Pants 3",
+            "rarity": 4
         },
         "7528": {
             "name": "Inventor Weapon 3",
-            "displayName": "Inventor Improved Launcher 3"
+            "displayName": "Inventor Improved Launcher 3",
+            "rarity": 4
         },
         "7542": {
             "name": "Inventor Neck/Back 3",
-            "displayName": "Inventor Shoulderpads 3"
+            "displayName": "Inventor Shoulderpads 3",
+            "rarity": 4
         }
     },
     "itemComponentValues": [
@@ -41,6 +46,19 @@
         "3": 0,
         "4": 5,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+            7456,
+            7480,
+            7504,
+            7528,
+            7542
+        ],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "640",

@@ -5,7 +5,8 @@
     "items": {
         "9435": {
             "name": "Car4_FrontBumper1_y",
-            "displayName": "Burst Tamale Front Bumper"
+            "displayName": "Burst Tamale Front Bumper",
+            "rarity": 1
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [
+            9435
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "216",

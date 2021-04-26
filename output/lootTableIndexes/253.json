@@ -5,7 +5,8 @@
     "items": {
         "9657": {
             "name": "Model Reward Castle Corner Outside",
-            "displayName": "Castle Outside Corner Model"
+            "displayName": "Castle Outside Corner Model",
+            "rarity": 4
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 1,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+            9657
+        ],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "253",

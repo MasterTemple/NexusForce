@@ -5,7 +5,8 @@
     "items": {
         "14497": {
             "name": "Diamond Gem",
-            "displayName": "Diamond Gem"
+            "displayName": "Diamond Gem",
+            "rarity": 2
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [
+            14497
+        ],
+        "3": [],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "742",

@@ -5,7 +5,8 @@
     "items": {
         "16277": {
             "name": "Fire Spinjitzu Hood Hood of Flames",
-            "displayName": "Hood of Flames"
+            "displayName": "Hood of Flames",
+            "rarity": 3
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 1,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [
+            16277
+        ],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "858",

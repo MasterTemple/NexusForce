@@ -16,68 +16,7 @@
         4035,
         6431
     ],
-    "items": {
-        "177": {
-            "name": "Life Powerup 1 point",
-            "displayName": "Life Powerup 1 point"
-        },
-        "935": {
-            "name": "Imagination Powerup 1 point",
-            "displayName": "Imagination Powerup 1 point"
-        },
-        "11910": {
-            "name": "Imagination Powerup 3 points",
-            "displayName": ""
-        },
-        "11911": {
-            "name": "Imagination Powerup 5 points",
-            "displayName": ""
-        },
-        "11912": {
-            "name": "Armor Powerup 2 points",
-            "displayName": ""
-        },
-        "11913": {
-            "name": "Armor Powerup 3 points",
-            "displayName": ""
-        },
-        "11914": {
-            "name": "Armor Powerup 5 points",
-            "displayName": ""
-        },
-        "11915": {
-            "name": "Life Powerup 2 points",
-            "displayName": ""
-        },
-        "11916": {
-            "name": "Life Powerup 3 points",
-            "displayName": ""
-        },
-        "11917": {
-            "name": "Life Powerup 5 points",
-            "displayName": ""
-        },
-        "11918": {
-            "name": "Imagination Powerup 10 points",
-            "displayName": ""
-        },
-        "11919": {
-            "name": "Armor Powerup 10 points",
-            "displayName": ""
-        },
-        "11920": {
-            "name": "Life Powerup 10 points",
-            "displayName": ""
-        },
-        "4035": {
-            "name": "Imagination Powerup 2 points",
-            "displayName": "Imagination Powerup 2 points"
-        },
-        "6431": {
-            "name": "Armor Powerup 1 point",
-            "displayName": "Armor Powerup 1 point"
-        }
-    },
+    "items": {},
     "itemComponentValues": [],
     "rarityCount": {
         "1": 0,
@@ -85,6 +24,13 @@
         "3": 0,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "414",

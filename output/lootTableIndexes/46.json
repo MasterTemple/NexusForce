@@ -18,59 +18,73 @@
     "items": {
         "1966": {
             "name": "Health Banana 1",
-            "displayName": "Healing Banana"
+            "displayName": "Healing Banana",
+            "rarity": 1
         },
         "2198": {
             "name": "Potion of Imagination 1",
-            "displayName": "Notion Potion"
+            "displayName": "Notion Potion",
+            "rarity": 1
         },
         "2993": {
             "name": "Armor Polish 1",
-            "displayName": "Armor Polish"
+            "displayName": "Armor Polish",
+            "rarity": 1
         },
         "2994": {
             "name": "Health Cherry 2",
-            "displayName": "Healing Cherry"
+            "displayName": "Healing Cherry",
+            "rarity": 1
         },
         "2996": {
             "name": "Armor Polish 2",
-            "displayName": "Armor Shine"
+            "displayName": "Armor Shine",
+            "rarity": 1
         },
         "2998": {
             "name": "Potion of Imagination 2",
-            "displayName": "Strong Notion Potion"
+            "displayName": "Strong Notion Potion",
+            "rarity": 1
         },
         "3039": {
             "name": "Green Imaginite",
-            "displayName": "Green Imaginite"
+            "displayName": "Green Imaginite",
+            "rarity": 1
         },
         "3040": {
             "name": "Red Imaginite",
-            "displayName": "Red Imaginite"
+            "displayName": "Red Imaginite",
+            "rarity": 2
         },
         "8474": {
             "name": "Great Corseque",
-            "displayName": "Great Corseque"
+            "displayName": "Great Corseque",
+            "rarity": 1
         },
         "8607": {
             "name": "Ruffled and Striped Shirt",
-            "displayName": "Ruffled and Striped Shirt"
+            "displayName": "Ruffled and Striped Shirt",
+            "rarity": 2
         },
         "8621": {
             "name": "Mail Shirt with Gorget",
-            "displayName": "Mail Shirt with Gorget"
+            "displayName": "Mail Shirt with Gorget",
+            "rarity": 2
         },
         "8636": {
             "name": "Squire's Helm",
-            "displayName": "Squire's Helm"
+            "displayName": "Squire's Helm",
+            "rarity": 3
         },
         "8640": {
             "name": "Bell Bottoms",
-            "displayName": "Bell Bottoms"
+            "displayName": "Bell Bottoms",
+            "rarity": 2
         },
         "8674": {
             "name": "Spanner",
-            "displayName": "Wrench"
+            "displayName": "Wrench",
+            "rarity": 3
         }
     },
     "itemComponentValues": [
@@ -95,6 +109,29 @@
         "3": 2,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [
+            8474,
+            1966,
+            2198,
+            2993,
+            2994,
+            2996,
+            2998,
+            3039
+        ],
+        "2": [
+            8607,
+            8621,
+            8640,
+            3040
+        ],
+        "3": [
+            8636,
+            8674
+        ],
+        "4": []
     },
     "nameInfo": {
         "LootTableIndex": "46",

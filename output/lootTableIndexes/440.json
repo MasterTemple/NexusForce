@@ -5,7 +5,8 @@
     "items": {
         "9583": {
             "name": "Model Reward Pod Model 7",
-            "displayName": "Pod 7 Model"
+            "displayName": "Pod 7 Model",
+            "rarity": 4
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 1,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+            9583
+        ],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "440",

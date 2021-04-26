@@ -38,139 +38,173 @@
     "items": {
         "7366": {
             "name": "Buccaneer Head 3",
-            "displayName": "Buccaneer Hat 3"
+            "displayName": "Buccaneer Hat 3",
+            "rarity": 4
         },
         "7378": {
             "name": "Buccaneer Chest 3",
-            "displayName": "Buccaneer Shirt 3"
+            "displayName": "Buccaneer Shirt 3",
+            "rarity": 4
         },
         "7390": {
             "name": "Buccaneer Legs 3",
-            "displayName": "Buccaneer Pantaloons 3"
+            "displayName": "Buccaneer Pantaloons 3",
+            "rarity": 4
         },
         "7402": {
             "name": "Buccaneer Weapon 3",
-            "displayName": "Buccaneer Pistol & Cutlass 3"
+            "displayName": "Buccaneer Pistol & Cutlass 3",
+            "rarity": 4
         },
         "7416": {
             "name": "Buccaneer Neck/Back 3",
-            "displayName": "Buccaneer Bandolier 3"
+            "displayName": "Buccaneer Bandolier 3",
+            "rarity": 4
         },
         "7465": {
             "name": "Daredevil Head 3",
-            "displayName": "Daredevil Helmet 3"
+            "displayName": "Daredevil Helmet 3",
+            "rarity": 4
         },
         "7489": {
             "name": "Daredevil Chest 3",
-            "displayName": "Daredevil Jacket 3"
+            "displayName": "Daredevil Jacket 3",
+            "rarity": 4
         },
         "7513": {
             "name": "Daredevil Legs 3",
-            "displayName": "Daredevil Pants 3"
+            "displayName": "Daredevil Pants 3",
+            "rarity": 4
         },
         "7537": {
             "name": "Daredevil Weapon 3",
-            "displayName": "Daredevil Flareguns 3"
+            "displayName": "Daredevil Flareguns 3",
+            "rarity": 4
         },
         "7543": {
             "name": "Daredevil Neck/Back 3",
-            "displayName": "Daredevil Shoulderpads 3"
+            "displayName": "Daredevil Shoulderpads 3",
+            "rarity": 4
         },
         "12638": {
             "name": "Buccaneer Valiant Weapon",
-            "displayName": "The Broadsider"
+            "displayName": "The Broadsider",
+            "rarity": 4
         },
         "12647": {
             "name": "Daredevil Valiant Weapon",
-            "displayName": "The Rutcarver"
+            "displayName": "The Rutcarver",
+            "rarity": 4
         },
         "12954": {
             "name": "Buccaneer Chest 3 Color Variant",
-            "displayName": "Buccaneer Shirt 3"
+            "displayName": "Buccaneer Shirt 3",
+            "rarity": 4
         },
         "12955": {
             "name": "Buccaneer Legs 3 Color Variant",
-            "displayName": "Buccaneer Pantaloons 3"
+            "displayName": "Buccaneer Pantaloons 3",
+            "rarity": 4
         },
         "12956": {
             "name": "Daredevil Chest 3 Color Variant",
-            "displayName": "Daredevil Jacket 3"
+            "displayName": "Daredevil Jacket 3",
+            "rarity": 4
         },
         "12957": {
             "name": "Daredevil Legs 3 Color Variant",
-            "displayName": "Daredevil Pants 3"
+            "displayName": "Daredevil Pants 3",
+            "rarity": 4
         },
         "12981": {
             "name": "Buccaneer Head 3 Color Variant",
-            "displayName": "Buccaneer Hat 3"
+            "displayName": "Buccaneer Hat 3",
+            "rarity": 4
         },
         "12982": {
             "name": "Buccaneer Weapon 3 Color Variant",
-            "displayName": "Buccaneer Pistol & Cutlass 3"
+            "displayName": "Buccaneer Pistol & Cutlass 3",
+            "rarity": 4
         },
         "12990": {
             "name": "Buccaneer Neck/Back 3 Color Variant",
-            "displayName": "Buccaneer Bandolier 3"
+            "displayName": "Buccaneer Bandolier 3",
+            "rarity": 4
         },
         "12993": {
             "name": "Daredevil Head 3 Color Variant",
-            "displayName": "Daredevil Helmet 3"
+            "displayName": "Daredevil Helmet 3",
+            "rarity": 4
         },
         "12994": {
             "name": "Daredevil Weapon 3 Color Variant",
-            "displayName": "Daredevil Flareguns 3"
+            "displayName": "Daredevil Flareguns 3",
+            "rarity": 4
         },
         "12995": {
             "name": "Daredevil Neck/Back 3 Color Variant",
-            "displayName": "Daredevil Shoulderpads 3"
+            "displayName": "Daredevil Shoulderpads 3",
+            "rarity": 4
         },
         "13135": {
             "name": "Large Green Imaginite Bag - Venture",
-            "displayName": "Large Bag of Green Imaginite"
+            "displayName": "Large Bag of Green Imaginite",
+            "rarity": 2
         },
         "13140": {
             "name": "Medium Red Imaginite Bag - Venture",
-            "displayName": "Medium Bag of Red Imaginite"
+            "displayName": "Medium Bag of Red Imaginite",
+            "rarity": 3
         },
         "13145": {
             "name": "Small Blue Imaginite Bag - Venture",
-            "displayName": "Small Bag of Blue Imaginite"
+            "displayName": "Small Bag of Blue Imaginite",
+            "rarity": 4
         },
         "13264": {
             "name": "MOD Venture Rockets Nose Cone",
-            "displayName": "Venture League Astroscout Rocket Nose Cone"
+            "displayName": "Venture League Astroscout Rocket Nose Cone",
+            "rarity": 4
         },
         "13265": {
             "name": "MOD Venture Rockets Cockpit",
-            "displayName": "Venture League Astroscout Rocket Cockpit"
+            "displayName": "Venture League Astroscout Rocket Cockpit",
+            "rarity": 4
         },
         "13266": {
             "name": "MOD Venture Rockets Engine",
-            "displayName": "Venture League Astroscout Rocket Engine"
+            "displayName": "Venture League Astroscout Rocket Engine",
+            "rarity": 4
         },
         "13517": {
             "name": "CarVE_FrontBumper_",
-            "displayName": "Venture League Hinterlander Front Bumper"
+            "displayName": "Venture League Hinterlander Front Bumper",
+            "rarity": 2
         },
         "13518": {
             "name": "CarVE_EnginePanel_",
-            "displayName": "Venture League Hinterlander Engine Panel"
+            "displayName": "Venture League Hinterlander Engine Panel",
+            "rarity": 2
         },
         "13519": {
             "name": "CarVE_SidePanels_",
-            "displayName": "Venture League Hinterlander Side Panels"
+            "displayName": "Venture League Hinterlander Side Panels",
+            "rarity": 3
         },
         "13520": {
             "name": "CarVE_RearPanel_",
-            "displayName": "Venture League Hinterlander Rear Panel"
+            "displayName": "Venture League Hinterlander Rear Panel",
+            "rarity": 3
         },
         "13521": {
             "name": "CarVE_RearBumper_",
-            "displayName": "Venture League Hinterlander Rear Bumper"
+            "displayName": "Venture League Hinterlander Rear Bumper",
+            "rarity": 2
         },
         "13577": {
             "name": "Venture Faction Consumable 2",
-            "displayName": "Venture Vitality Vial 2"
+            "displayName": "Venture Vitality Vial 2",
+            "rarity": 3
         }
     },
     "itemComponentValues": [
@@ -215,6 +249,50 @@
         "3": 4,
         "4": 26,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [
+            13135,
+            13517,
+            13518,
+            13521
+        ],
+        "3": [
+            13140,
+            13519,
+            13520,
+            13577
+        ],
+        "4": [
+            12638,
+            12647,
+            12954,
+            12955,
+            12956,
+            12957,
+            12981,
+            12982,
+            12990,
+            12993,
+            12994,
+            12995,
+            13145,
+            13264,
+            13265,
+            13266,
+            7366,
+            7378,
+            7390,
+            7402,
+            7416,
+            7465,
+            7489,
+            7513,
+            7537,
+            7543
+        ],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "692",

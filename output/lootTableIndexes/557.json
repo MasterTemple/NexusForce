@@ -5,7 +5,8 @@
     "items": {
         "12501": {
             "name": "Model Reward Skeleton Short Wall",
-            "displayName": "Skeleton Short Wall Model"
+            "displayName": "Skeleton Short Wall Model",
+            "rarity": 3
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 1,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [
+            12501
+        ],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "557",

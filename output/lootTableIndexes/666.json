@@ -7,15 +7,18 @@
     "items": {
         "13002": {
             "name": "Model Reward Assembly Device Core",
-            "displayName": "Assembly Device Core Model"
+            "displayName": "Assembly Device Core Model",
+            "rarity": 1
         },
         "13003": {
             "name": "Model Reward Assembly Device Cage",
-            "displayName": "Assembly Device Cage Model"
+            "displayName": "Assembly Device Cage Model",
+            "rarity": 1
         },
         "13004": {
             "name": "Model Reward Assembly Device Base",
-            "displayName": "Assembly Device Base Model"
+            "displayName": "Assembly Device Base Model",
+            "rarity": 1
         }
     },
     "itemComponentValues": [
@@ -29,6 +32,17 @@
         "3": 0,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [
+            13002,
+            13003,
+            13004
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "666",

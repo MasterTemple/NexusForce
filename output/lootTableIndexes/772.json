@@ -7,15 +7,18 @@
     "items": {
         "1966": {
             "name": "Health Banana 1",
-            "displayName": "Healing Banana"
+            "displayName": "Healing Banana",
+            "rarity": 1
         },
         "2994": {
             "name": "Health Cherry 2",
-            "displayName": "Healing Cherry"
+            "displayName": "Healing Cherry",
+            "rarity": 1
         },
         "8375": {
             "name": "Sushi",
-            "displayName": "Sushi"
+            "displayName": "Sushi",
+            "rarity": 1
         }
     },
     "itemComponentValues": [
@@ -29,6 +32,17 @@
         "3": 0,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [
+            8375,
+            1966,
+            2994
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "772",

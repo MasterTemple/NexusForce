@@ -5,7 +5,8 @@
     "items": {
         "11752": {
             "name": "Model Reward Micro City Trees",
-            "displayName": "Micro City Trees Model"
+            "displayName": "Micro City Trees Model",
+            "rarity": 4
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 1,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+            11752
+        ],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "664",

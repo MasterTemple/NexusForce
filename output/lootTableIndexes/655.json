@@ -5,7 +5,8 @@
     "items": {
         "11767": {
             "name": "Model Reward Micro City Firetruck 5",
-            "displayName": "Micro City Fire Truck 5 Model"
+            "displayName": "Micro City Fire Truck 5 Model",
+            "rarity": 2
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [
+            11767
+        ],
+        "3": [],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "655",

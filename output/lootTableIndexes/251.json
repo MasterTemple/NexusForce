@@ -5,7 +5,8 @@
     "items": {
         "9660": {
             "name": "Model Reward Castle Gate",
-            "displayName": "Castle Gate Model"
+            "displayName": "Castle Gate Model",
+            "rarity": 4
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 1,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+            9660
+        ],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "251",

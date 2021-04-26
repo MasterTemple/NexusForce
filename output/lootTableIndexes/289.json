@@ -15,45 +15,54 @@
     "items": {
         "6031": {
             "name": "Model Reward Tiny Crate",
-            "displayName": "Tiny Crate Model"
+            "displayName": "Tiny Crate Model",
+            "rarity": 2
         },
         "6032": {
             "name": "Model Reward Small Crate",
-            "displayName": "Small Crate Model"
+            "displayName": "Small Crate Model",
+            "rarity": 2
         },
         "6037": {
             "name": "Model Reward Desk",
-            "displayName": "Desk Model"
+            "displayName": "Desk Model",
+            "rarity": 2
         },
         "6056": {
             "name": "Model Reward Weaponrack",
-            "displayName": "Weapon Rack Model"
+            "displayName": "Weapon Rack Model",
+            "rarity": 2
         },
         "6065": {
             "name": "Model Reward Cart",
-            "displayName": "Cart Model"
+            "displayName": "Cart Model",
+            "rarity": 1
         },
         "6068": {
             "name": "Model Reward Raft",
-            "displayName": "Raft with Sails Model"
+            "displayName": "Raft with Sails Model",
+            "rarity": 2
         },
         "6519": {
             "name": "Model Reward Lookout",
-            "displayName": "Lookout Post Model"
+            "displayName": "Lookout Post Model",
+            "rarity": 2
         },
         "7127": {
             "name": "Model Reward Treasure Chest",
-            "displayName": "Treasure Chest Model"
+            "displayName": "Treasure Chest Model",
+            "rarity": 2
         },
         "7134": {
             "name": "Model Reward Cabinet",
-            "displayName": "Cabinet Model"
+            "displayName": "Cabinet Model",
+            "rarity": 2
         },
         "9565": {
             "name": "Model Reward Submarine",
-            "displayName": "Submarine Model"
-        },
-        "9572": {}
+            "displayName": "Submarine Model",
+            "rarity": 1
+        }
     },
     "itemComponentValues": [
         2506,
@@ -73,6 +82,25 @@
         "3": 0,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [
+            9565,
+            6065
+        ],
+        "2": [
+            6031,
+            6032,
+            6037,
+            6056,
+            6068,
+            6519,
+            7127,
+            7134
+        ],
+        "3": [],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "289",

@@ -5,7 +5,8 @@
     "items": {
         "14191": {
             "name": "Hatchling Frog's Egg - Green",
-            "displayName": "Green Frog's Egg"
+            "displayName": "Green Frog's Egg",
+            "rarity": 3
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 1,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [
+            14191
+        ],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "693",

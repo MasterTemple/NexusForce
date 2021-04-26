@@ -5,7 +5,8 @@
     "items": {
         "16147": {
             "name": "Chopov's Maelstrom Dark Blade",
-            "displayName": "Chopov's Maelstrom Dark Blade"
+            "displayName": "Chopov's Maelstrom Dark Blade",
+            "rarity": 3
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 1,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [
+            16147
+        ],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "848",

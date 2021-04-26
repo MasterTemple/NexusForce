@@ -5,7 +5,8 @@
     "items": {
         "14567": {
             "name": "Hatchling Mouse's Cheese - Dark Gray",
-            "displayName": "Dark Gray Mouse's Cheese"
+            "displayName": "Dark Gray Mouse's Cheese",
+            "rarity": 3
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 1,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [
+            14567
+        ],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "792",

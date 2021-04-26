@@ -5,7 +5,8 @@
     "items": {
         "11706": {
             "name": "Model Reward Farm Garden2",
-            "displayName": "Farm Garden Model 2"
+            "displayName": "Farm Garden Model 2",
+            "rarity": 3
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 1,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [
+            11706
+        ],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "489",

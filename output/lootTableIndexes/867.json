@@ -5,7 +5,8 @@
     "items": {
         "16149": {
             "name": "Krazi's Maelstrom Bone",
-            "displayName": "Krazi's Maelstrom Bone"
+            "displayName": "Krazi's Maelstrom Bone",
+            "rarity": 3
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 1,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [
+            16149
+        ],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "867",

@@ -5,7 +5,8 @@
     "items": {
         "16150": {
             "name": "Maelstrom Blacksmith's Hammer",
-            "displayName": "Maelstrom Blacksmith's Hammer"
+            "displayName": "Maelstrom Blacksmith's Hammer",
+            "rarity": 2
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [
+            16150
+        ],
+        "3": [],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "850",

@@ -5,7 +5,8 @@
     "items": {
         "10508": {
             "name": "WBL - Quest - Snowshoe",
-            "displayName": "Snowshoe"
+            "displayName": "Snowshoe",
+            "rarity": 3
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 1,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [
+            10508
+        ],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "367",

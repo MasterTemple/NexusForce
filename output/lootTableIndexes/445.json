@@ -14,43 +14,53 @@
     "items": {
         "12107": {
             "name": "Massive Firecracker",
-            "displayName": "Massive Firecracker"
+            "displayName": "Massive Firecracker",
+            "rarity": 2
         },
         "12319": {
             "name": "Doc in a Box",
-            "displayName": "Doc in a Box"
+            "displayName": "Doc in a Box",
+            "rarity": 1
         },
         "12762": {
             "name": "Battle Croissant",
-            "displayName": "Battle Croissant"
+            "displayName": "Battle Croissant",
+            "rarity": 1
         },
         "12763": {
             "name": "BBQ Drumstick",
-            "displayName": "BBQ Drumstick"
+            "displayName": "BBQ Drumstick",
+            "rarity": 1
         },
         "12764": {
             "name": "Big Fountain Soda",
-            "displayName": "Big Fountain Soda"
+            "displayName": "Big Fountain Soda",
+            "rarity": 2
         },
         "12765": {
             "name": "Energy Bar",
-            "displayName": "Energy Bar"
+            "displayName": "Energy Bar",
+            "rarity": 1
         },
         "12766": {
             "name": "Xpresso",
-            "displayName": "Xpresso"
+            "displayName": "Xpresso",
+            "rarity": 2
         },
         "12767": {
             "name": "Buff Out Armor Brush",
-            "displayName": "Buff Out Armor Brush"
+            "displayName": "Buff Out Armor Brush",
+            "rarity": 1
         },
         "14679": {
             "name": "Med Pack",
-            "displayName": "Med Pack"
+            "displayName": "Med Pack",
+            "rarity": 3
         },
         "14680": {
             "name": "Armor Repair Kit",
-            "displayName": "Armor Repair Kit"
+            "displayName": "Armor Repair Kit",
+            "rarity": 3
         }
     },
     "itemComponentValues": [
@@ -71,6 +81,26 @@
         "3": 2,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [
+            12319,
+            12762,
+            12763,
+            12765,
+            12767
+        ],
+        "2": [
+            12107,
+            12764,
+            12766
+        ],
+        "3": [
+            14679,
+            14680
+        ],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "445",

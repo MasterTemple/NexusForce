@@ -5,7 +5,8 @@
     "items": {
         "10771": {
             "name": "Model Reward Fortress Watch Tower",
-            "displayName": "Fortress Watch Tower Model"
+            "displayName": "Fortress Watch Tower Model",
+            "rarity": 4
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 1,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+            10771
+        ],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "348",

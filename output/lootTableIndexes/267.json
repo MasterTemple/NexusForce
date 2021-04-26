@@ -5,7 +5,8 @@
     "items": {
         "9600": {
             "name": "Model Reward Tree 3 green",
-            "displayName": "Green Tree Model 3"
+            "displayName": "Green Tree Model 3",
+            "rarity": 2
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [
+            9600
+        ],
+        "3": [],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "267",

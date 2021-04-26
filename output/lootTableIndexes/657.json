@@ -5,7 +5,8 @@
     "items": {
         "11751": {
             "name": "Model Reward Micro City Statue",
-            "displayName": "Micro City Statue Model"
+            "displayName": "Micro City Statue Model",
+            "rarity": 3
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 1,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [
+            11751
+        ],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "657",

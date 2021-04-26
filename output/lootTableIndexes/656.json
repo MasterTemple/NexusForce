@@ -5,7 +5,8 @@
     "items": {
         "11743": {
             "name": "Model Reward Micro City House 2",
-            "displayName": "Micro City House 2 Model"
+            "displayName": "Micro City House 2 Model",
+            "rarity": 3
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 1,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [
+            11743
+        ],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "656",

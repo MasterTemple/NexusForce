@@ -5,7 +5,8 @@
     "items": {
         "9429": {
             "name": "Car3_RearPanel3_g",
-            "displayName": "Paragon Warp Rear Panel 3"
+            "displayName": "Paragon Warp Rear Panel 3",
+            "rarity": 1
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [
+            9429
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "229",

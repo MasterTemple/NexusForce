@@ -7,15 +7,18 @@
     "items": {
         "3038": {
             "name": "Blue Imaginite",
-            "displayName": "Blue Imaginite"
+            "displayName": "Blue Imaginite",
+            "rarity": 3
         },
         "3039": {
             "name": "Green Imaginite",
-            "displayName": "Green Imaginite"
+            "displayName": "Green Imaginite",
+            "rarity": 1
         },
         "3040": {
             "name": "Red Imaginite",
-            "displayName": "Red Imaginite"
+            "displayName": "Red Imaginite",
+            "rarity": 2
         }
     },
     "itemComponentValues": [
@@ -29,6 +32,18 @@
         "3": 1,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [
+            3039
+        ],
+        "2": [
+            3040
+        ],
+        "3": [
+            3038
+        ],
+        "4": []
     },
     "nameInfo": {
         "LootTableIndex": "52",

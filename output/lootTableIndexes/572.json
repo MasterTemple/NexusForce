@@ -5,7 +5,8 @@
     "items": {
         "13058": {
             "name": "Cracked Ronin's Helm",
-            "displayName": "Cracked Ronin's Helm"
+            "displayName": "Cracked Ronin's Helm",
+            "rarity": 2
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [
+            13058
+        ],
+        "3": [],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "572",

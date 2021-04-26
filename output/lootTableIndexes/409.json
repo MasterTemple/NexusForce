@@ -5,7 +5,8 @@
     "items": {
         "11695": {
             "name": "Model Reward Farm Barn Back",
-            "displayName": "Farm Barn Back Model"
+            "displayName": "Farm Barn Back Model",
+            "rarity": 3
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 1,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [
+            11695
+        ],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "409",

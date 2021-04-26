@@ -19,63 +19,78 @@
     "items": {
         "2620": {
             "name": "Quicksicle",
-            "displayName": "Quicksicle"
+            "displayName": "Quicksicle",
+            "rarity": 1
         },
         "3039": {
             "name": "Green Imaginite",
-            "displayName": "Green Imaginite"
+            "displayName": "Green Imaginite",
+            "rarity": 1
         },
         "14502": {
             "name": "Dirt Sandwich",
-            "displayName": "Dirt Sandwich"
+            "displayName": "Dirt Sandwich",
+            "rarity": 2
         },
         "14503": {
             "name": "Electric Hoagie",
-            "displayName": "Electric Hoagie"
+            "displayName": "Electric Hoagie",
+            "rarity": 2
         },
         "14504": {
             "name": "Yucki-Yaki",
-            "displayName": "Yucki-Yaki"
+            "displayName": "Yucki-Yaki",
+            "rarity": 2
         },
         "14506": {
             "name": "Chilly Freezesteak",
-            "displayName": "Chilly Freezesteak"
+            "displayName": "Chilly Freezesteak",
+            "rarity": 3
         },
         "14507": {
             "name": "Bento Blocks",
-            "displayName": "Bento Blocks"
+            "displayName": "Bento Blocks",
+            "rarity": 3
         },
         "14509": {
             "name": "Flame-Roasted Popsicle",
-            "displayName": "Flame-Roasted Popsicle"
+            "displayName": "Flame-Roasted Popsicle",
+            "rarity": 3
         },
         "14511": {
             "name": "Rockolate Bar",
-            "displayName": "Rockolate Bar"
+            "displayName": "Rockolate Bar",
+            "rarity": 3
         },
         "16023": {
             "name": "Ninjago Hound Treat",
-            "displayName": "Ninjago Hound Treat"
+            "displayName": "Ninjago Hound Treat",
+            "rarity": 3
         },
         "16035": {
             "name": "Imaginite herbs",
-            "displayName": "Imaginite herbs"
+            "displayName": "Imaginite herbs",
+            "rarity": 2
         },
         "16037": {
             "name": "Old Sushi",
-            "displayName": "Old Sushi"
+            "displayName": "Old Sushi",
+            "rarity": 1
         },
         "16038": {
             "name": "Bancha Tea",
-            "displayName": "Bancha Tea"
+            "displayName": "Bancha Tea",
+            "rarity": 2
         },
         "16041": {
             "name": "Cotton Repair Kit",
-            "displayName": "Cotton Repair Kit"
+            "displayName": "Cotton Repair Kit",
+            "rarity": 2
         },
         "16059": {
             "name": "Exploding Ninjago Kunai",
-            "displayName": "Exploding Ninjago Kunai"
+            "displayName": "Exploding Ninjago Kunai",
+            "rarity": 3
         }
     },
     "itemComponentValues": [
@@ -101,6 +116,31 @@
         "3": 6,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [
+            2620,
+            3039,
+            16037
+        ],
+        "2": [
+            14502,
+            14503,
+            14504,
+            16035,
+            16038,
+            16041
+        ],
+        "3": [
+            14506,
+            14507,
+            14509,
+            14511,
+            16023,
+            16059
+        ],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "759",

@@ -5,7 +5,8 @@
     "items": {
         "10350": {
             "name": "Model Reward Cottage Wall Arch",
-            "displayName": "House Wall Arch Model"
+            "displayName": "House Wall Arch Model",
+            "rarity": 1
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [
+            10350
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "304",

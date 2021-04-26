@@ -5,7 +5,8 @@
     "items": {
         "14172": {
             "name": "Earth Spinjitzu Pants Pants of Quakes",
-            "displayName": "Pants of Quakes"
+            "displayName": "Pants of Quakes",
+            "rarity": 3
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 1,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [
+            14172
+        ],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "760",

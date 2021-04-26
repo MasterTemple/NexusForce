@@ -5,7 +5,8 @@
     "items": {
         "9649": {
             "name": "Model Reward Medieval Village Forge",
-            "displayName": "Medieval Village Forge Model"
+            "displayName": "Medieval Village Forge Model",
+            "rarity": 4
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 1,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+            9649
+        ],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "262",

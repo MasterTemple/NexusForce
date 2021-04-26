@@ -5,7 +5,8 @@
     "items": {
         "11759": {
             "name": "Model Reward Micro City Crawler Crane",
-            "displayName": "Micro City Crawler Crane Model"
+            "displayName": "Micro City Crawler Crane Model",
+            "rarity": 3
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 1,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [
+            11759
+        ],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "661",

@@ -5,7 +5,8 @@
     "items": {
         "10088": {
             "name": "Model Reward Pirate T Wall",
-            "displayName": "Pirate T-Wall Model"
+            "displayName": "Pirate T-Wall Model",
+            "rarity": 3
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 1,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [
+            10088
+        ],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "333",

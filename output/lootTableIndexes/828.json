@@ -5,7 +5,8 @@
     "items": {
         "14742": {
             "name": "MOD Car Dune Buggy Rear Panel",
-            "displayName": "Dune Buggy Rear Panel"
+            "displayName": "Dune Buggy Rear Panel",
+            "rarity": 3
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 1,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [
+            14742
+        ],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "828",

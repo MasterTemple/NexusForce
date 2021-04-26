@@ -5,7 +5,8 @@
     "items": {
         "13587": {
             "name": "Bottled Water",
-            "displayName": "Bottled Water"
+            "displayName": "Bottled Water",
+            "rarity": 1
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [
+            13587
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "672",

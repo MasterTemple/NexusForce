@@ -5,7 +5,8 @@
     "items": {
         "16012": {
             "name": "Frakjaw's Maelstrom Battle Mace",
-            "displayName": "Frakjaw's Maelstrom Battle Mace"
+            "displayName": "Frakjaw's Maelstrom Battle Mace",
+            "rarity": 2
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [
+            16012
+        ],
+        "3": [],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "738",

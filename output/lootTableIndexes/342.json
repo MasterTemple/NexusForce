@@ -5,7 +5,8 @@
     "items": {
         "10761": {
             "name": "Model Reward Fortress Large Outside Corner",
-            "displayName": "Fortress Large Outside Corner Model"
+            "displayName": "Fortress Large Outside Corner Model",
+            "rarity": 4
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 1,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+            10761
+        ],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "342",

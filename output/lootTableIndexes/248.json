@@ -5,7 +5,8 @@
     "items": {
         "9674": {
             "name": "Model Reward Castle Wall T",
-            "displayName": "Castle T-Wall Model"
+            "displayName": "Castle T-Wall Model",
+            "rarity": 4
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 1,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+            9674
+        ],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "248",

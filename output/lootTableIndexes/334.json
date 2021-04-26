@@ -5,7 +5,8 @@
     "items": {
         "10086": {
             "name": "Model Reward Pirate Medium Wall",
-            "displayName": "Pirate Medium Wall Model"
+            "displayName": "Pirate Medium Wall Model",
+            "rarity": 2
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [
+            10086
+        ],
+        "3": [],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "334",

@@ -5,7 +5,8 @@
     "items": {
         "9672": {
             "name": "Model Reward Castle Wall Straight Medium",
-            "displayName": "Castle Medium Straight Wall Model"
+            "displayName": "Castle Medium Straight Wall Model",
+            "rarity": 3
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 1,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [
+            9672
+        ],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "249",

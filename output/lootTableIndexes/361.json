@@ -9,23 +9,28 @@
     "items": {
         "8497": {
             "name": "Quality Cutlass",
-            "displayName": "Quality Cutlass"
+            "displayName": "Quality Cutlass",
+            "rarity": 3
         },
         "8499": {
             "name": "Quality Shortsword",
-            "displayName": "Quality Shortsword"
+            "displayName": "Quality Shortsword",
+            "rarity": 3
         },
         "8500": {
             "name": "Quality Woodsman's Axe",
-            "displayName": "Quality Woodsman's Axe"
+            "displayName": "Quality Woodsman's Axe",
+            "rarity": 3
         },
         "8503": {
             "name": "Quality Corseque",
-            "displayName": "Quality Corseque"
+            "displayName": "Quality Corseque",
+            "rarity": 3
         },
         "8506": {
             "name": "Quality Dirk",
-            "displayName": "Quality Dirk"
+            "displayName": "Quality Dirk",
+            "rarity": 3
         }
     },
     "itemComponentValues": [
@@ -41,6 +46,19 @@
         "3": 5,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [
+            8497,
+            8499,
+            8500,
+            8503,
+            8506
+        ],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "361",

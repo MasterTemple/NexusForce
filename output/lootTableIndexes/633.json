@@ -9,23 +9,28 @@
     "items": {
         "7453": {
             "name": "Shinobi Head 3",
-            "displayName": "Shinobi Hood 3"
+            "displayName": "Shinobi Hood 3",
+            "rarity": 4
         },
         "7477": {
             "name": "Shinobi Chest 3",
-            "displayName": "Shinobi Gi 3"
+            "displayName": "Shinobi Gi 3",
+            "rarity": 4
         },
         "7501": {
             "name": "Shinobi Legs 3",
-            "displayName": "Shinobi Leggings 3"
+            "displayName": "Shinobi Leggings 3",
+            "rarity": 4
         },
         "7525": {
             "name": "Shinobi Weapon 3",
-            "displayName": "Shinobi Katana 3"
+            "displayName": "Shinobi Katana 3",
+            "rarity": 4
         },
         "7541": {
             "name": "Shinobi Neck/Back 3",
-            "displayName": "Shinobi Shoulderpads 3"
+            "displayName": "Shinobi Shoulderpads 3",
+            "rarity": 4
         }
     },
     "itemComponentValues": [
@@ -41,6 +46,19 @@
         "3": 0,
         "4": 5,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+            7453,
+            7477,
+            7501,
+            7525,
+            7541
+        ],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "633",

@@ -5,7 +5,8 @@
     "items": {
         "11747": {
             "name": "Model Reward Micro City Townhall",
-            "displayName": "Micro City Town Hall Model"
+            "displayName": "Micro City Town Hall Model",
+            "rarity": 4
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 1,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+            11747
+        ],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "658",

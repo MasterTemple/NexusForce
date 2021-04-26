@@ -12,35 +12,43 @@
     "items": {
         "12486": {
             "name": "Red Scythe",
-            "displayName": "Scarlet Scythe"
+            "displayName": "Scarlet Scythe",
+            "rarity": 3
         },
         "12725": {
             "name": "Golden Battle Axe",
-            "displayName": "Golden Battle Axe"
+            "displayName": "Golden Battle Axe",
+            "rarity": 3
         },
         "12726": {
             "name": "The Ego Club",
-            "displayName": "Little Friend"
+            "displayName": "Little Friend",
+            "rarity": 3
         },
         "12732": {
             "name": "Massive Spear",
-            "displayName": "Massive Spear"
+            "displayName": "Massive Spear",
+            "rarity": 3
         },
         "12733": {
             "name": "Heavy Staff",
-            "displayName": "Heavy Staff"
+            "displayName": "Heavy Staff",
+            "rarity": 4
         },
         "12734": {
             "name": "Zweihander",
-            "displayName": "Zweihander"
+            "displayName": "Zweihander",
+            "rarity": 4
         },
         "12744": {
             "name": "Construction Shield",
-            "displayName": "Construction Shield"
+            "displayName": "Construction Shield",
+            "rarity": 3
         },
         "12769": {
             "name": "Visored Racing Helmet",
-            "displayName": "Visored Racing Helmet"
+            "displayName": "Visored Racing Helmet",
+            "rarity": 2
         }
     },
     "itemComponentValues": [
@@ -59,6 +67,24 @@
         "3": 5,
         "4": 2,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [
+            12769
+        ],
+        "3": [
+            12486,
+            12725,
+            12726,
+            12732,
+            12744
+        ],
+        "4": [
+            12733,
+            12734
+        ],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "607",

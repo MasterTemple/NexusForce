@@ -5,7 +5,8 @@
     "items": {
         "12495": {
             "name": "Model Reward Skeleton Ziggurat",
-            "displayName": "Skeleton Ziggurat Model"
+            "displayName": "Skeleton Ziggurat Model",
+            "rarity": 4
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 1,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+            12495
+        ],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "551",

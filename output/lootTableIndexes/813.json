@@ -5,7 +5,8 @@
     "items": {
         "14710": {
             "name": "MOD Car Duck Side Panels",
-            "displayName": "Duck Car Side Panels"
+            "displayName": "Duck Car Side Panels",
+            "rarity": 3
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 1,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [
+            14710
+        ],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "813",

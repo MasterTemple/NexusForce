@@ -5,7 +5,8 @@
     "items": {
         "11923": {
             "name": "Rank 1 Adventurer Book",
-            "displayName": "Rank 1 Adventurer Book"
+            "displayName": "Rank 1 Adventurer Book",
+            "rarity": 1
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [
+            11923
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "779",

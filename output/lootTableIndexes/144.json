@@ -5,7 +5,8 @@
     "items": {
         "7514": {
             "name": "Space Ranger Gun 1",
-            "displayName": "Space Ranger Zipgun 1"
+            "displayName": "Space Ranger Zipgun 1",
+            "rarity": 4
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 1,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+            7514
+        ],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "144",

@@ -5,7 +5,8 @@
     "items": {
         "356": {
             "name": "m4080",
-            "displayName": "Tipper Body 4x6-Base"
+            "displayName": "Tipper Body 4x6-Base",
+            "rarity": 1
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [
+            356
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "119",

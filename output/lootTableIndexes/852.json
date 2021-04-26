@@ -5,7 +5,8 @@
     "items": {
         "16146": {
             "name": "Maelstrom Double-Axe",
-            "displayName": "Maelstrom Double-Axe"
+            "displayName": "Maelstrom Double-Axe",
+            "rarity": 2
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [
+            16146
+        ],
+        "3": [],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "852",

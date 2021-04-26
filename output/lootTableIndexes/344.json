@@ -5,7 +5,8 @@
     "items": {
         "10765": {
             "name": "Model Reward Fortress Ramp",
-            "displayName": "Fortress Ramp Model"
+            "displayName": "Fortress Ramp Model",
+            "rarity": 3
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 1,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [
+            10765
+        ],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "344",

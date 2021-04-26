@@ -5,7 +5,8 @@
     "items": {
         "16898": {
             "name": "Hatchling Crocodiles Egg",
-            "displayName": "Crocodile Egg"
+            "displayName": "Crocodile Egg",
+            "rarity": 4
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 1,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+            16898
+        ],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "912",

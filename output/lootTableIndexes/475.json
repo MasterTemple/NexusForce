@@ -5,7 +5,8 @@
     "items": {
         "12038": {
             "name": "CarFV2_SidePanels_p",
-            "displayName": "Mach Lava Side Panels"
+            "displayName": "Mach Lava Side Panels",
+            "rarity": 2
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [
+            12038
+        ],
+        "3": [],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "475",

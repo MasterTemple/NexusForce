@@ -5,7 +5,8 @@
     "items": {
         "12503": {
             "name": "Model Reward Skeleton Repair Facility",
-            "displayName": "Skeleton Repair Facility Model"
+            "displayName": "Skeleton Repair Facility Model",
+            "rarity": 4
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 1,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+            12503
+        ],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "559",

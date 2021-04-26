@@ -5,7 +5,8 @@
     "items": {
         "12506": {
             "name": "Model Reward Skeleton Hover Drone",
-            "displayName": "Skeleton Hover Drone Model"
+            "displayName": "Skeleton Hover Drone Model",
+            "rarity": 4
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 1,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+            12506
+        ],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "562",

@@ -5,7 +5,8 @@
     "items": {
         "14125": {
             "name": "Faction Token Bag - 50 tokens",
-            "displayName": "Mega Bag of Faction Tokens"
+            "displayName": "Mega Bag of Faction Tokens",
+            "rarity": 1
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [
+            14125
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "697",

@@ -5,7 +5,8 @@
     "items": {
         "14711": {
             "name": "MOD Car Duck Rear Panel",
-            "displayName": "Duck Car Rear Panel"
+            "displayName": "Duck Car Rear Panel",
+            "rarity": 3
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 1,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [
+            14711
+        ],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "814",

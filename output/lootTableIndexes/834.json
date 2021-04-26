@@ -5,7 +5,8 @@
     "items": {
         "16650": {
             "name": "Urufu's Treasure 1",
-            "displayName": "Urufu's Treasure"
+            "displayName": "Urufu's Treasure",
+            "rarity": 1
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [
+            16650
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "834",

@@ -5,7 +5,8 @@
     "items": {
         "9640": {
             "name": "Broken Pirate Nose Cone",
-            "displayName": "Broken Pirate Rocket Nose Cone"
+            "displayName": "Broken Pirate Rocket Nose Cone",
+            "rarity": 1
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [
+            9640
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "255",

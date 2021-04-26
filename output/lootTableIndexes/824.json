@@ -5,7 +5,8 @@
     "items": {
         "14703": {
             "name": "MOD Rocket Duck Engine",
-            "displayName": "Duck Rocket Engine"
+            "displayName": "Duck Rocket Engine",
+            "rarity": 3
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 1,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [
+            14703
+        ],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "824",

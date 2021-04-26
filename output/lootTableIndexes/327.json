@@ -5,7 +5,8 @@
     "items": {
         "10077": {
             "name": "Model Reward Pirate Wall 3",
-            "displayName": "Pirate Wall Model 3"
+            "displayName": "Pirate Wall Model 3",
+            "rarity": 3
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 1,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [
+            10077
+        ],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "327",

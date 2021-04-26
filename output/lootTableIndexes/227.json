@@ -5,7 +5,8 @@
     "items": {
         "9415": {
             "name": "Car3_EnginePanel3_g",
-            "displayName": "Paragon Warp Engine Panel 3"
+            "displayName": "Paragon Warp Engine Panel 3",
+            "rarity": 1
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [
+            9415
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "227",

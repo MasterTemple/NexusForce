@@ -40,147 +40,183 @@
     "items": {
         "118": {
             "name": "Rank 1 Sorcerer Book",
-            "displayName": "Rank 1 Sorcerer Book"
+            "displayName": "Rank 1 Sorcerer Book",
+            "rarity": 1
         },
         "125": {
             "name": "Rank 1 Space Marauder Book",
-            "displayName": "Rank 1 Space Marauder Book"
+            "displayName": "Rank 1 Space Marauder Book",
+            "rarity": 1
         },
         "7357": {
             "name": "Sorcerer Head 1",
-            "displayName": "Sorcerer Hat 1"
+            "displayName": "Sorcerer Hat 1",
+            "rarity": 4
         },
         "7361": {
             "name": "Sorcerer Head 2",
-            "displayName": "Sorcerer Hat 2"
+            "displayName": "Sorcerer Hat 2",
+            "rarity": 4
         },
         "7373": {
             "name": "Sorcerer Chest 1",
-            "displayName": "Sorcerer Breastplate 1"
+            "displayName": "Sorcerer Breastplate 1",
+            "rarity": 4
         },
         "7374": {
             "name": "Sorcerer Chest 2",
-            "displayName": "Sorcerer Breastplate 2"
+            "displayName": "Sorcerer Breastplate 2",
+            "rarity": 4
         },
         "7385": {
             "name": "Sorcerer Legs 1",
-            "displayName": "Sorcerer Pants 1"
+            "displayName": "Sorcerer Pants 1",
+            "rarity": 4
         },
         "7386": {
             "name": "Sorcerer Legs 2",
-            "displayName": "Sorcerer Pants 2"
+            "displayName": "Sorcerer Pants 2",
+            "rarity": 4
         },
         "7397": {
             "name": "Sorcerer Weapon 1",
-            "displayName": "Sorcerer Wand 1"
+            "displayName": "Sorcerer Wand 1",
+            "rarity": 4
         },
         "7398": {
             "name": "Sorcerer Weapon 2",
-            "displayName": "Sorcerer Wand 2"
+            "displayName": "Sorcerer Wand 2",
+            "rarity": 4
         },
         "7407": {
             "name": "Sorcerer Offhand 2",
-            "displayName": "Sorcerer Orb 2"
+            "displayName": "Sorcerer Orb 2",
+            "rarity": 4
         },
         "7448": {
             "name": "Space Marauder Head 1",
-            "displayName": "Space Marauder Helm 1"
+            "displayName": "Space Marauder Helm 1",
+            "rarity": 4
         },
         "7449": {
             "name": "Space Marauder Head 2",
-            "displayName": "Space Marauder Helm 2"
+            "displayName": "Space Marauder Helm 2",
+            "rarity": 4
         },
         "7451": {
             "name": "Shinobi Head 1",
-            "displayName": "Shinobi Hood 1"
+            "displayName": "Shinobi Hood 1",
+            "rarity": 4
         },
         "7452": {
             "name": "Shinobi Head 2",
-            "displayName": "Shinobi Hood 2"
+            "displayName": "Shinobi Hood 2",
+            "rarity": 4
         },
         "7472": {
             "name": "Space Marauder Chest 1",
-            "displayName": "Space Marauder Jacket 1"
+            "displayName": "Space Marauder Jacket 1",
+            "rarity": 4
         },
         "7473": {
             "name": "Space Marauder Chest 2",
-            "displayName": "Space Marauder Jacket 2"
+            "displayName": "Space Marauder Jacket 2",
+            "rarity": 4
         },
         "7475": {
             "name": "Shinobi Chest 1",
-            "displayName": "Shinobi Gi 1"
+            "displayName": "Shinobi Gi 1",
+            "rarity": 4
         },
         "7476": {
             "name": "Shinobi Chest 2",
-            "displayName": "Shinobi Gi 2"
+            "displayName": "Shinobi Gi 2",
+            "rarity": 4
         },
         "7496": {
             "name": "Space Marauder Legs 1",
-            "displayName": "Space Marauder Pants 1"
+            "displayName": "Space Marauder Pants 1",
+            "rarity": 4
         },
         "7497": {
             "name": "Space Marauder Legs 2",
-            "displayName": "Space Marauder Pants 2"
+            "displayName": "Space Marauder Pants 2",
+            "rarity": 4
         },
         "7499": {
             "name": "Shinobi Legs 1",
-            "displayName": "Shinobi Leggings 1"
+            "displayName": "Shinobi Leggings 1",
+            "rarity": 4
         },
         "7500": {
             "name": "Shinobi Legs 2",
-            "displayName": "Shinobi Leggings 2"
+            "displayName": "Shinobi Leggings 2",
+            "rarity": 4
         },
         "7520": {
             "name": "Space Marauder Gun 1",
-            "displayName": "Space Marauder Blaster 1"
+            "displayName": "Space Marauder Blaster 1",
+            "rarity": 4
         },
         "7521": {
             "name": "Space Marauder Gun 2",
-            "displayName": "Space Marauder Blaster 2"
+            "displayName": "Space Marauder Blaster 2",
+            "rarity": 4
         },
         "7523": {
             "name": "Shinobi Weapon 1",
-            "displayName": "Shinobi Katana 1"
+            "displayName": "Shinobi Katana 1",
+            "rarity": 4
         },
         "7524": {
             "name": "Shinobi Weapon 2",
-            "displayName": "Shinobi Katana 2"
+            "displayName": "Shinobi Katana 2",
+            "rarity": 4
         },
         "7548": {
             "name": "Space Marauder Offhand 2",
-            "displayName": "Space Marauder Launcher 2"
+            "displayName": "Space Marauder Launcher 2",
+            "rarity": 4
         },
         "8459": {
             "name": "Sorcerer Neck/Back 2",
-            "displayName": "Sorcerer Shoulderpads 2"
+            "displayName": "Sorcerer Shoulderpads 2",
+            "rarity": 4
         },
         "8460": {
             "name": "Space Marauder Neck/Back 2",
-            "displayName": "Space Marauder Shoulderpads 2"
+            "displayName": "Space Marauder Shoulderpads 2",
+            "rarity": 4
         },
         "8461": {
             "name": "Shinobi Neck/Back 2",
-            "displayName": "Shinobi Shoulderpads 2"
+            "displayName": "Shinobi Shoulderpads 2",
+            "rarity": 4
         },
         "9625": {
             "name": "Paradox Faction Consumable 1",
-            "displayName": "Paradox Power Potion"
+            "displayName": "Paradox Power Potion",
+            "rarity": 2
         },
         "11922": {
             "name": "Rank 1 Shinobi Book",
-            "displayName": "Rank 1 Shinobi Book"
+            "displayName": "Rank 1 Shinobi Book",
+            "rarity": 1
         },
         "13137": {
             "name": "Large Green Imaginite Bag - Paradox",
-            "displayName": "Large Bag of Green Imaginite"
+            "displayName": "Large Bag of Green Imaginite",
+            "rarity": 2
         },
         "13138": {
             "name": "Medium Red Imaginite Bag - Paradox",
-            "displayName": "Medium Bag of Red Imaginite"
+            "displayName": "Medium Bag of Red Imaginite",
+            "rarity": 3
         },
         "13146": {
             "name": "Small Blue Imaginite Bag - Paradox",
-            "displayName": "Small Bag of Blue Imaginite"
+            "displayName": "Small Bag of Blue Imaginite",
+            "rarity": 4
         }
     },
     "itemComponentValues": [
@@ -227,6 +263,53 @@
         "3": 1,
         "4": 30,
         "5": 0
+    },
+    "byRarity": {
+        "1": [
+            118,
+            125,
+            11922
+        ],
+        "2": [
+            9625,
+            13137
+        ],
+        "3": [
+            13138
+        ],
+        "4": [
+            8459,
+            8460,
+            8461,
+            13146,
+            7357,
+            7361,
+            7373,
+            7374,
+            7385,
+            7386,
+            7397,
+            7398,
+            7407,
+            7448,
+            7449,
+            7451,
+            7452,
+            7472,
+            7473,
+            7475,
+            7476,
+            7496,
+            7497,
+            7499,
+            7500,
+            7520,
+            7521,
+            7523,
+            7524,
+            7548
+        ],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "179",

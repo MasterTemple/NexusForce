@@ -6,11 +6,13 @@
     "items": {
         "14812": {
             "name": "Yellow Cape",
-            "displayName": "Yellow Cape"
+            "displayName": "Yellow Cape",
+            "rarity": 4
         },
         "14813": {
             "name": "Orange Cape",
-            "displayName": "Orange Cape"
+            "displayName": "Orange Cape",
+            "rarity": 4
         }
     },
     "itemComponentValues": [
@@ -23,6 +25,16 @@
         "3": 0,
         "4": 2,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+            14812,
+            14813
+        ],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "799",

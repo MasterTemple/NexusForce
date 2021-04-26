@@ -5,7 +5,8 @@
     "items": {
         "14496": {
             "name": "Finger Nail",
-            "displayName": "Finger Nail"
+            "displayName": "Finger Nail",
+            "rarity": 1
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [
+            14496
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "741",

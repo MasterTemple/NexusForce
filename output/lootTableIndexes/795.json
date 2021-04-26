@@ -7,15 +7,18 @@
     "items": {
         "16185": {
             "name": "Daredevil Cape Back/Neck",
-            "displayName": "Valiant Daredevil's Cape"
+            "displayName": "Valiant Daredevil's Cape",
+            "rarity": 4
         },
         "16186": {
             "name": "Buccaneer Cape Back/Neck",
-            "displayName": "Valiant Buccaneer's Cape"
+            "displayName": "Valiant Buccaneer's Cape",
+            "rarity": 4
         },
         "16187": {
             "name": "Adventurer Cape Back/Neck",
-            "displayName": "Valiant Adventurer's Cape"
+            "displayName": "Valiant Adventurer's Cape",
+            "rarity": 4
         }
     },
     "itemComponentValues": [
@@ -29,6 +32,17 @@
         "3": 0,
         "4": 3,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+            16185,
+            16186,
+            16187
+        ],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "795",

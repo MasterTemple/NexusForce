@@ -7,15 +7,18 @@
     "items": {
         "14446": {
             "name": "MOD Rocket Classic Blue Engine",
-            "displayName": "Classic Blue Rocket Engine"
+            "displayName": "Classic Blue Rocket Engine",
+            "rarity": 1
         },
         "14453": {
             "name": "MOD Rocket Classic Pink Engine",
-            "displayName": "Classic Pink Rocket Engine"
+            "displayName": "Classic Pink Rocket Engine",
+            "rarity": 1
         },
         "14456": {
             "name": "MOD Rocket Classic Yellow Engine",
-            "displayName": "Classic Yellow Rocket Engine"
+            "displayName": "Classic Yellow Rocket Engine",
+            "rarity": 1
         }
     },
     "itemComponentValues": [
@@ -29,6 +32,17 @@
         "3": 0,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [
+            14446,
+            14453,
+            14456
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "94",

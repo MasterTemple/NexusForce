@@ -7,15 +7,18 @@
     "items": {
         "15918": {
             "name": "Athlete's Shade",
-            "displayName": "Athlete's Shade"
+            "displayName": "Athlete's Shade",
+            "rarity": 4
         },
         "15990": {
             "name": "Crimson Guard",
-            "displayName": "Crimson Guard"
+            "displayName": "Crimson Guard",
+            "rarity": 2
         },
         "16123": {
             "name": "Murasaki Hakama",
-            "displayName": "Murasaki Hakama"
+            "displayName": "Murasaki Hakama",
+            "rarity": 4
         }
     },
     "itemComponentValues": [
@@ -29,6 +32,18 @@
         "3": 0,
         "4": 2,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [
+            15990
+        ],
+        "3": [],
+        "4": [
+            15918,
+            16123
+        ],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "871",

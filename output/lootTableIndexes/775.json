@@ -10,27 +10,33 @@
     "items": {
         "4716": {
             "name": "MOD Rocket Steampunk Nose Cone",
-            "displayName": "Steampunk Rocket Nose Cone"
+            "displayName": "Steampunk Rocket Nose Cone",
+            "rarity": 1
         },
         "4717": {
             "name": "MOD Rocket Steampunk Cockpit",
-            "displayName": "Steampunk Rocket Cockpit"
+            "displayName": "Steampunk Rocket Cockpit",
+            "rarity": 1
         },
         "4718": {
             "name": "MOD Rocket Steampunk Engine",
-            "displayName": "Steampunk Rocket Engine"
+            "displayName": "Steampunk Rocket Engine",
+            "rarity": 1
         },
         "4719": {
             "name": "MOD Rocket Pod Nose Cone",
-            "displayName": "Pod Rocket Nose Cone"
+            "displayName": "Pod Rocket Nose Cone",
+            "rarity": 1
         },
         "4720": {
             "name": "MOD Rocket Pod Cockpit",
-            "displayName": "Pod Rocket Cockpit"
+            "displayName": "Pod Rocket Cockpit",
+            "rarity": 1
         },
         "4721": {
             "name": "MOD Rocket Pod Engine",
-            "displayName": "Pod Rocket Engine"
+            "displayName": "Pod Rocket Engine",
+            "rarity": 1
         }
     },
     "itemComponentValues": [
@@ -47,6 +53,20 @@
         "3": 0,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [
+            4716,
+            4717,
+            4718,
+            4719,
+            4720,
+            4721
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "775",

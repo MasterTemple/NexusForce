@@ -5,7 +5,8 @@
     "items": {
         "10360": {
             "name": "Model Reward Cottage Window 1",
-            "displayName": "House Window Model 1"
+            "displayName": "House Window Model 1",
+            "rarity": 2
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [
+            10360
+        ],
+        "3": [],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "308",

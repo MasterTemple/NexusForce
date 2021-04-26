@@ -5,7 +5,8 @@
     "items": {
         "16267": {
             "name": "Ice Spinjitzu Gi Gi of Frost",
-            "displayName": "Gi of Frost"
+            "displayName": "Gi of Frost",
+            "rarity": 3
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 1,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [
+            16267
+        ],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "860",

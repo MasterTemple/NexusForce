@@ -5,7 +5,8 @@
     "items": {
         "14702": {
             "name": "MOD Rocket Duck Cockpit",
-            "displayName": "Duck Rocket Cockpit"
+            "displayName": "Duck Rocket Cockpit",
+            "rarity": 3
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 1,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [
+            14702
+        ],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "823",

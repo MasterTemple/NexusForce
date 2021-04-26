@@ -5,7 +5,8 @@
     "items": {
         "9913": {
             "name": "Model Reward Tree 5 yellow",
-            "displayName": "Small Yellow Tree Model 2"
+            "displayName": "Small Yellow Tree Model 2",
+            "rarity": 2
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [
+            9913
+        ],
+        "3": [],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "319",

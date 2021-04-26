@@ -7,15 +7,18 @@
     "items": {
         "12503": {
             "name": "Model Reward Skeleton Repair Facility",
-            "displayName": "Skeleton Repair Facility Model"
+            "displayName": "Skeleton Repair Facility Model",
+            "rarity": 4
         },
         "12504": {
             "name": "Model Reward Skeleton Wall Pillars",
-            "displayName": "Skeleton Wall Pillars Model"
+            "displayName": "Skeleton Wall Pillars Model",
+            "rarity": 2
         },
         "12505": {
             "name": "Model Reward Skeleton Mobile Drill",
-            "displayName": "Skeleton Mobile Drilling Rig Model"
+            "displayName": "Skeleton Mobile Drilling Rig Model",
+            "rarity": 4
         }
     },
     "itemComponentValues": [
@@ -29,6 +32,18 @@
         "3": 0,
         "4": 2,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [
+            12504
+        ],
+        "3": [],
+        "4": [
+            12503,
+            12505
+        ],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "593",

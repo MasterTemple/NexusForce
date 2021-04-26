@@ -10,27 +10,33 @@
     "items": {
         "7462": {
             "name": "Adventurer Head 3",
-            "displayName": "Adventurer Hat 3"
+            "displayName": "Adventurer Hat 3",
+            "rarity": 4
         },
         "7486": {
             "name": "Adventurer Chest 3",
-            "displayName": "Adventurer Coat 3"
+            "displayName": "Adventurer Coat 3",
+            "rarity": 4
         },
         "7510": {
             "name": "Adventurer Legs 3",
-            "displayName": "Adventurer Pants 3"
+            "displayName": "Adventurer Pants 3",
+            "rarity": 4
         },
         "7534": {
             "name": "Adventurer Crossbow 3",
-            "displayName": "Adventurer Crossbow 3"
+            "displayName": "Adventurer Crossbow 3",
+            "rarity": 4
         },
         "7558": {
             "name": "Adventurer Neck/Back 3",
-            "displayName": "Adventurer Backpack 3"
+            "displayName": "Adventurer Backpack 3",
+            "rarity": 4
         },
         "11459": {
             "name": "Adventurer Whip 3",
-            "displayName": "Adventurer Whip 3"
+            "displayName": "Adventurer Whip 3",
+            "rarity": 4
         }
     },
     "itemComponentValues": [
@@ -47,6 +53,20 @@
         "3": 0,
         "4": 6,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+            11459,
+            7462,
+            7486,
+            7510,
+            7534,
+            7558
+        ],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "626",

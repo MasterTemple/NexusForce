@@ -5,7 +5,8 @@
     "items": {
         "11703": {
             "name": "Model Reward Farm Feedtrough",
-            "displayName": "Farm Feed Trough Model"
+            "displayName": "Farm Feed Trough Model",
+            "rarity": 1
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [
+            11703
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "499",

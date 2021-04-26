@@ -5,7 +5,8 @@
     "items": {
         "9658": {
             "name": "Model Reward Castle Corner Small",
-            "displayName": "Castle Small Corner Model"
+            "displayName": "Castle Small Corner Model",
+            "rarity": 3
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 1,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [
+            9658
+        ],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "247",

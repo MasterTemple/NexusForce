@@ -5,7 +5,8 @@
     "items": {
         "14568": {
             "name": "Hatchling Dog's Bone - Dark Gray",
-            "displayName": "Dark Gray Dog's Bone"
+            "displayName": "Dark Gray Dog's Bone",
+            "rarity": 3
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 1,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [
+            14568
+        ],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "785",

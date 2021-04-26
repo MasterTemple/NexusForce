@@ -5,7 +5,8 @@
     "items": {
         "11694": {
             "name": "Model Reward Farm Baler",
-            "displayName": "Farm Baler Model"
+            "displayName": "Farm Baler Model",
+            "rarity": 4
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 1,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+            11694
+        ],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "493",

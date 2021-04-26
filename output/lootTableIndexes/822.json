@@ -5,7 +5,8 @@
     "items": {
         "14701": {
             "name": "MOD Rocket Duck Nose Cone",
-            "displayName": "Duck Rocket Nose Cone"
+            "displayName": "Duck Rocket Nose Cone",
+            "rarity": 3
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 1,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [],
+        "3": [
+            14701
+        ],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "822",

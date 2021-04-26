@@ -5,7 +5,8 @@
     "items": {
         "12482": {
             "name": "NT Hello Griffy Doll",
-            "displayName": "Hello Griffy Doll"
+            "displayName": "Hello Griffy Doll",
+            "rarity": 2
         }
     },
     "itemComponentValues": [
@@ -17,6 +18,15 @@
         "3": 0,
         "4": 0,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [
+            12482
+        ],
+        "3": [],
+        "4": [],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "479",

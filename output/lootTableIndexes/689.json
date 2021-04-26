@@ -45,167 +45,208 @@
     "items": {
         "7360": {
             "name": "Knight Head 3",
-            "displayName": "Knight Helm 3"
+            "displayName": "Knight Helm 3",
+            "rarity": 4
         },
         "7369": {
             "name": "Knight Chest 3",
-            "displayName": "Knight Breastplate 3"
+            "displayName": "Knight Breastplate 3",
+            "rarity": 4
         },
         "7381": {
             "name": "Knight Legs 3",
-            "displayName": "Knight Leggings 3"
+            "displayName": "Knight Leggings 3",
+            "rarity": 4
         },
         "7393": {
             "name": "Knight Weapon 3",
-            "displayName": "Knight Greatsword 3"
+            "displayName": "Knight Greatsword 3",
+            "rarity": 4
         },
         "7404": {
             "name": "Knight Shield 3",
-            "displayName": "Knight Shield 3"
+            "displayName": "Knight Shield 3",
+            "rarity": 4
         },
         "7409": {
             "name": "Knight Neck/Back 3",
-            "displayName": "Knight Shoulderpads 3"
+            "displayName": "Knight Shoulderpads 3",
+            "rarity": 4
         },
         "7447": {
             "name": "Samurai Head 3",
-            "displayName": "Samurai Helm 3"
+            "displayName": "Samurai Helm 3",
+            "rarity": 4
         },
         "7471": {
             "name": "Samurai Chest 3",
-            "displayName": "Samurai Breastplate 3"
+            "displayName": "Samurai Breastplate 3",
+            "rarity": 4
         },
         "7495": {
             "name": "Samurai Legs 3",
-            "displayName": "Samurai Leggings 3"
+            "displayName": "Samurai Leggings 3",
+            "rarity": 4
         },
         "7519": {
             "name": "Samurai Weapon 3",
-            "displayName": "Samurai Katana 3"
+            "displayName": "Samurai Katana 3",
+            "rarity": 4
         },
         "7539": {
             "name": "Samurai Neck/Back 3",
-            "displayName": "Samurai Shoulderpads 3"
+            "displayName": "Samurai Shoulderpads 3",
+            "rarity": 4
         },
         "7547": {
             "name": "Samurai Offhand 3",
-            "displayName": "Samurai Bow 3"
+            "displayName": "Samurai Bow 3",
+            "rarity": 4
         },
         "12637": {
             "name": "Knight Valiant Weapon",
-            "displayName": "The Powerjouster"
+            "displayName": "The Powerjouster",
+            "rarity": 4
         },
         "12642": {
             "name": "Samurai Valiant Weapon",
-            "displayName": "The Samuraizor"
+            "displayName": "The Samuraizor",
+            "rarity": 4
         },
         "12950": {
             "name": "Knight Chest 3 Color Variant",
-            "displayName": "Knight Breastplate 3"
+            "displayName": "Knight Breastplate 3",
+            "rarity": 4
         },
         "12951": {
             "name": "Knight Legs 3 Color Variant",
-            "displayName": "Knight Leggings 3"
+            "displayName": "Knight Leggings 3",
+            "rarity": 4
         },
         "12952": {
             "name": "Samurai Chest 3 Color Variant",
-            "displayName": "Samurai Breastplate 3"
+            "displayName": "Samurai Breastplate 3",
+            "rarity": 4
         },
         "12953": {
             "name": "Samurai Legs 3 Color Variant",
-            "displayName": "Samurai Leggings 3"
+            "displayName": "Samurai Leggings 3",
+            "rarity": 4
         },
         "12966": {
             "name": "Knight Head 3 Color Variant",
-            "displayName": "Knight Helm 3"
+            "displayName": "Knight Helm 3",
+            "rarity": 4
         },
         "12967": {
             "name": "Knight Neck/Back 3 Color Variant",
-            "displayName": "Knight Shoulderpads 3"
+            "displayName": "Knight Shoulderpads 3",
+            "rarity": 4
         },
         "12968": {
             "name": "Knight Weapon 3 Color Variant",
-            "displayName": "Knight Greatsword 3"
+            "displayName": "Knight Greatsword 3",
+            "rarity": 4
         },
         "12969": {
             "name": "Knight Shield 3 Color Variant",
-            "displayName": "Knight Shield 3"
+            "displayName": "Knight Shield 3",
+            "rarity": 4
         },
         "12976": {
             "name": "Samurai Head 3 Color Variant",
-            "displayName": "Samurai Helm 3"
+            "displayName": "Samurai Helm 3",
+            "rarity": 4
         },
         "12977": {
             "name": "Samurai Weapon 3 Color Variant",
-            "displayName": "Samurai Katana 3"
+            "displayName": "Samurai Katana 3",
+            "rarity": 4
         },
         "12978": {
             "name": "Samurai Offhand 3 Color Variant",
-            "displayName": "Samurai Bow 3"
+            "displayName": "Samurai Bow 3",
+            "rarity": 4
         },
         "12992": {
             "name": "Samurai Neck/Back 3 Color Variant",
-            "displayName": "Samurai Shoulderpads 3"
+            "displayName": "Samurai Shoulderpads 3",
+            "rarity": 4
         },
         "13136": {
             "name": "Large Green Imaginite Bag - Sentinel",
-            "displayName": "Large Bag of Green Imaginite"
+            "displayName": "Large Bag of Green Imaginite",
+            "rarity": 2
         },
         "13141": {
             "name": "Medium Red Imaginite Bag - Sentinel",
-            "displayName": "Medium Bag of Red Imaginite"
+            "displayName": "Medium Bag of Red Imaginite",
+            "rarity": 3
         },
         "13143": {
             "name": "Small Blue Imaginite Bag - Sentinel",
-            "displayName": "Small Bag of Blue Imaginite"
+            "displayName": "Small Bag of Blue Imaginite",
+            "rarity": 4
         },
         "13261": {
             "name": "MOD Sentinel Rockets Nose Cone",
-            "displayName": "Sentinel Startalon Rocket Nose Cone"
+            "displayName": "Sentinel Startalon Rocket Nose Cone",
+            "rarity": 4
         },
         "13262": {
             "name": "MOD Sentinel Rockets Cockpit",
-            "displayName": "Sentinel Startalon Rocket Cockpit"
+            "displayName": "Sentinel Startalon Rocket Cockpit",
+            "rarity": 4
         },
         "13263": {
             "name": "MOD Sentinel Rockets Engine",
-            "displayName": "Sentinel Startalon Rocket Engine"
+            "displayName": "Sentinel Startalon Rocket Engine",
+            "rarity": 4
         },
         "13505": {
             "name": "CarSE_FrontBumper_",
-            "displayName": "Sentinel Stalwart Front Bumper"
+            "displayName": "Sentinel Stalwart Front Bumper",
+            "rarity": 2
         },
         "13506": {
             "name": "CarSE_EnginePanel_",
-            "displayName": "Sentinel Stalwart Engine Panel"
+            "displayName": "Sentinel Stalwart Engine Panel",
+            "rarity": 2
         },
         "13507": {
             "name": "CarSE_SidePanels_",
-            "displayName": "Sentinel Stalwart Side Panels"
+            "displayName": "Sentinel Stalwart Side Panels",
+            "rarity": 3
         },
         "13508": {
             "name": "CarSE_RearPanel_",
-            "displayName": "Sentinel Stalwart Rear Panel"
+            "displayName": "Sentinel Stalwart Rear Panel",
+            "rarity": 3
         },
         "13509": {
             "name": "CarSE_RearBumper_",
-            "displayName": "Sentinel Stalwart Rear Bumper"
+            "displayName": "Sentinel Stalwart Rear Bumper",
+            "rarity": 2
         },
         "13574": {
             "name": "Sentinel Faction Consumable 2",
-            "displayName": "Sentinel Super Soda 2"
+            "displayName": "Sentinel Super Soda 2",
+            "rarity": 3
         },
         "16179": {
             "name": "Knight Cape Back/Neck",
-            "displayName": "Valiant Knight's Cape"
+            "displayName": "Valiant Knight's Cape",
+            "rarity": 4
         },
         "16180": {
             "name": "Samurai Cape Back/Neck",
-            "displayName": "Valiant Samurai's Cape"
+            "displayName": "Valiant Samurai's Cape",
+            "rarity": 4
         },
         "16181": {
             "name": "Space Ranger Cape Back/Neck",
-            "displayName": "Valiant Space Ranger's Cape"
+            "displayName": "Valiant Space Ranger's Cape",
+            "rarity": 4
         }
     },
     "itemComponentValues": [
@@ -257,6 +298,57 @@
         "3": 4,
         "4": 33,
         "5": 0
+    },
+    "byRarity": {
+        "1": [],
+        "2": [
+            13136,
+            13505,
+            13506,
+            13509
+        ],
+        "3": [
+            13141,
+            13507,
+            13508,
+            13574
+        ],
+        "4": [
+            12637,
+            12642,
+            12950,
+            12951,
+            12952,
+            12953,
+            12966,
+            12967,
+            12968,
+            12969,
+            12976,
+            12977,
+            12978,
+            12992,
+            13143,
+            13261,
+            13262,
+            13263,
+            7360,
+            7369,
+            7381,
+            7393,
+            7404,
+            7409,
+            7447,
+            7471,
+            7495,
+            7519,
+            7539,
+            7547,
+            16179,
+            16180,
+            16181
+        ],
+        "5": []
     },
     "nameInfo": {
         "LootTableIndex": "689",
