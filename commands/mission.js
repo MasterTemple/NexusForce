@@ -145,7 +145,7 @@ module.exports = {
         if(parseInt(missionFile.MissionStats.rewards.item4.reward_item4) !== -1){
             description = `${description} ${missionFile.MissionStats.rewards.item4.name} **x** ${missionFile.MissionStats.rewards.item4.reward_item4_count} [${missionFile.MissionStats.rewards.item4.reward_item4}]`
         }
-        console.log(missionFile.MissionStats.rewards.item1.reward_item1)
+        //console.log(missionFile.MissionStats.rewards.item1.reward_item1)
         if(missionFile.MissionStats.isChoiceReward === 1 && missionFile.MissionStats.rewards.item1.reward_item1 !== -1){
             embed.addField("Rewards (Choose One)", description, false)
         }else if(missionFile.MissionStats.rewards.item1.reward_item1 !== -1){

@@ -1,5 +1,5 @@
 module.exports = {
-    name: ['contributor'],
+    name: ['contributor', 'con'],
     description: 'Displays contributor commands and what each one does',
     args: true,
     use: `help optional:[commandName]`,

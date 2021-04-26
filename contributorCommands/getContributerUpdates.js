@@ -1,5 +1,5 @@
 module.exports = {
-    name: ['getupdatedfields'],
+    name: ['getupdatedfields', 'file'],
     description: 'Gets updated Fields',
     args: true,
     use: `getUpdatedFields [type]`,
