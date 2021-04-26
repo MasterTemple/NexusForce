@@ -37,7 +37,7 @@ module.exports = {
         //     dropFile.levelRequirement = 0
         // }
 
-        //let embed = msgEmbed.execute(dropFile.displayName, undefined,`${luExplorerURL}objects/${dropFile.objectID}`, dropFile.iconURL)
+        //let embed = msgEmbed.execute(dropFile.displayName, undefined,`${luExplorerURL}objects/${dropFile.objectID}`, img)
 
         // if(dropFile.itemComponent.altCurrencyCost !== null){
         //     embed.addFields(
@@ -64,6 +64,14 @@ module.exports = {
         const { uIcon, luExplorerURL, resURL, unknownImageURL} = require('./../config.json')
         let c = 0
         let wasDMed = false
+        var img
+        if(dropFile.iconURL !== "uIcon" || dropFile.iconUFL !== "unknown"){
+            img = `${resURL}${dropFile.iconURL}`
+        }else if(dropFile.iconURL !== "unknown"){
+            img = unknownImageURL
+        }else{
+            img = uIcon
+        }
         for(let p=0; p<dropFile.drop.LootTableIndexes.length;p++){
             if(dropFile.drop.LootTableIndexes[p].names.Name === null || dropFile.drop.LootTableIndexes[p].names.Name === undefined){
                 dropFile.drop.LootTableIndexes[p].names.Name = dropFile.drop.LootTableIndexes[p].names.AlternateName
@@ -128,24 +136,24 @@ module.exports = {
 
             }
             if(description.length > 1900){
-                let embed = msgEmbed.execute(`${dropFile.itemInfo.displayName} [${dropFile.objectID}]`, description,`${luExplorerURL}objects/${dropFile.objectID}`, dropFile.iconURL)
+                let embed = msgEmbed.execute(`${dropFile.itemInfo.displayName} [${dropFile.objectID}]`, description,`${luExplorerURL}objects/${dropFile.objectID}`, img)
                 message.author.send(embed)
                 description = ''
                 wasDMed = true
             }
             c++
             if(c === dropFile.drop.LootTableIndexes.length && description !== '' && wasDMed){
-                let embed = msgEmbed.execute(`${dropFile.itemInfo.displayName} [${dropFile.objectID}]`, description,`${luExplorerURL}objects/${dropFile.objectID}`, dropFile.iconURL)
+                let embed = msgEmbed.execute(`${dropFile.itemInfo.displayName} [${dropFile.objectID}]`, description,`${luExplorerURL}objects/${dropFile.objectID}`, img)
                 message.author.send(embed)
                 message.channel.send("Direct Messages Sent!")
             }else if(c === dropFile.drop.LootTableIndexes.length && description !== ''){
-                let embed = msgEmbed.execute(`${dropFile.itemInfo.displayName} [${dropFile.objectID}]`, description,`${luExplorerURL}objects/${dropFile.objectID}`, dropFile.iconURL)
+                let embed = msgEmbed.execute(`${dropFile.itemInfo.displayName} [${dropFile.objectID}]`, description,`${luExplorerURL}objects/${dropFile.objectID}`, img)
                 message.channel.send(embed)
             }
 
         }
 
-        // let embed = msgEmbed.execute(`${dropFile.itemInfo.displayName} [${dropFile.objectID}]`, description,`${luExplorerURL}objects/${dropFile.objectID}`, dropFile.iconURL)
+        // let embed = msgEmbed.execute(`${dropFile.itemInfo.displayName} [${dropFile.objectID}]`, description,`${luExplorerURL}objects/${dropFile.objectID}`, img)
         // //console.log(description)
         //
         //
