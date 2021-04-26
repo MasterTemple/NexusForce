@@ -1,5 +1,5 @@
 module.exports = {
-    name: ['skill'],
+    name: ['skillitem', 'skillitems'],
     description: 'Get all objects by its skill in LEGO Universe',
     args: true,
     use: `skill [name or ID]`,
@@ -28,15 +28,15 @@ module.exports = {
         }
 
         try {
-            let skillToCDGFile = require(`./../output/references/Skills.json`)
+            var skillToCDGFile = require(`./../output/references/Skills.json`)
             try{
-                var skillName = skillToCDGFile[`${skillID}`]['name']
+                var skillName = skillToCDGFile[skillID]['name']
             }catch{
                 var skillName = `SkillID`
             }
-            let cooldowngroup = skillToCDGFile[`${skillID}`]['cdg']
+            let cooldowngroup = skillToCDGFile[skillID]['cdg']
             let CDGFile = require(`./../output/cooldowngroup/${cooldowngroup}.json`)
-            var skillData = CDGFile['skillIDs'][`${skillID}`]
+            var skillData = CDGFile['skillIDs'][skillID]
 
         }catch(e){
             console.log(e)
@@ -51,10 +51,16 @@ module.exports = {
         const {invisChar, emojis} = require('./../config.json');
 
         let msgEmbed = require(`./../functions/embedTemplate.js`)
-        let uIcon = "https://images-ext-1.discordapp.net/external/yeozIqZ6L5llPU2kUINa2Y5agdt4reO0KN1Q1YAjAOQ/%3Fcb%3D20121121213649/https/static.wikia.nocookie.net/legomessageboards/images/c/ce/LU2.png/revision/latest"
-
+        try{
+            var uIcon = skillToCDGFile[skillID]['iconURL']
+        }catch(e) {
+            console.log(e)
+            var uIcon = "https://images-ext-1.discordapp.net/external/yeozIqZ6L5llPU2kUINa2Y5agdt4reO0KN1Q1YAjAOQ/%3Fcb%3D20121121213649/https/static.wikia.nocookie.net/legomessageboards/images/c/ce/LU2.png/revision/latest"
+        }
         let desc = ``
-
+        if(skillToCDGFile[skillID]['cdg'] !== undefined){
+            desc = `${desc}Cooldown Group: **${skillToCDGFile[skillID]['cdg']}**\n`
+        }
         if(skillData.imaginationCost !== null && skillData.cooldownTime !== null){
             desc = `${desc}Imagination Cost: **${skillData.imaginationCost}** ${emojis.imagination}\nCooldown Time: **${skillData.cooldownTime}** Seconds\n`
         }
@@ -66,6 +72,18 @@ module.exports = {
         }
         if(skillData.lifeBonusUI !== null){
             desc = `${desc}Bonus: **${skillData.lifeBonusUI}** ${emojis.heart}\n`
+        }
+
+
+        if(skillToCDGFile[skillID]['damageCombo'] !== undefined){
+            desc = `${desc}Damage Combo: **${skillToCDGFile[skillID]['damageCombo']}**\n`
+        }
+        if(skillToCDGFile[skillID]['ChargeUp'] !== undefined){
+            desc = `${desc}ChargeUp: **${skillToCDGFile[skillID]['ChargeUp']}**\n`
+        }
+
+        if(skillToCDGFile[skillID]['Description'] !== undefined){
+            desc = `${desc}**Description: **${skillToCDGFile[skillID]['Description']}\n`
         }
 
         let embedArray = []
