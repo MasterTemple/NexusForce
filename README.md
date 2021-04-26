@@ -4,9 +4,10 @@ Nexus Force LEGO Universe Bot
 # Setup:
 1. Download Node.js [here](https://nodejs.org/en/download/)
 2. Download git [here](https://git-scm.com/download)
-3. Type `git https://github.com/MasterTemple/NexusForce.git` in terminal
-4. Next, type `npm i discord.js` and `npm i nodemon -g`
-5. Add a `config.json` file that looks exactly like this, except put in your own token
+3. Paste `git clone https://github.com/MasterTemple/NexusForce.git` in terminal and hit enter
+4. Next, type `cd NexusForce` to navigate to the proper directory.
+5. Paste `npm i nodemon -g;npm i discord.js` to install Nodemon and Discord.js
+6. Add a `config.json` to your current directory. The file should look exactly like this, except put in your own token.
 ```yaml
 {
   "prefix": "!",
@@ -45,16 +46,15 @@ Nexus Force LEGO Universe Bot
 }
    ```
 
-6. Run `index.js` by typing `nodemon index.js` in your command line
+7. Run `index.js` by typing `nodemon index.js` in your command line
 
 # Three Types of Commands:
 1. Normal (Accessible by all users)\
-    Visible with `!help` command
-   
+    Listed with the `!help` command
 2. Contributor (Accessible by only contributors)\
-   Visible with the `!contributor` command
+   Listed with the `!contributor` command
 3. Mythran (Accessible by only mythrans)\
-    Visible with `!mythran` command
+   Listed with `!mythran` command
    
 # Some screenshots:
 # !kit
@@ -79,6 +79,10 @@ Nexus Force LEGO Universe Bot
 ![img_8.png](src/img_8.png)
 # !npc
 ![img_9.png](src/img_9.png)
+# !activity
+![img_17.png](src/img_17.png)
+# !loottableindex
+![img_16.png](src/img_16.png)
 # !preconditions
 ![img_15.png](src/img_15.png)
 # !group
@@ -88,11 +92,11 @@ Nexus Force LEGO Universe Bot
 # To Prevent Spam, Some Commands With Large Messages Are DMed To The User
 Some of the content might be short, but it has the potential to be very long. To prevent abuse, the bot DM's the user the info.
 # !skill
-![img_18.png](src/img_18.png)
+![img_18.png](src/img_18.png)\
 ![img_13.png](src/img_13.png)
 
 
-# Issues:
+# Issues
 I don't know if the server emojis will work if someone hosts this bot without it being in the server that contains these emojis. If not, contact me and I can help you set them up.
 
 
@@ -100,4 +104,4 @@ I don't know if the server emojis will work if someone hosts this bot without it
 1. Enemy stats and attacks
 
 # Contact
-If you have any questions regarding use or any suggestions for features, feel free to contact me on Discord at `MasterTemple#0233` (my ID is `789705048035688458` just in case my name is changed)
+If you have any questions regarding use or any suggestions for features, feel free to contact me on Discord at `MasterTemple#0233` (my ID is `789705048035688458` just in case my name is changed). Find me in the [LEGO Universe Community Hub](https://discord.gg/Yz8yEmZ)!
