@@ -89,7 +89,9 @@ Nexus Force LEGO Universe Bot
 ![img_19.png](src/img_19.png)
 # !skill
 ![img_14.png](src/img_14.png)
-# To Prevent Spam, Some Commands With Large Messages Are DMed To The User
+# !skillitems
+![img_20.png](src/img_20.png)
+# To Prevent Spam, Some Commands With Large Messages Can Be DMed To The User
 Some of the content might be short, but it has the potential to be very long. To prevent abuse, the bot DM's the user the info.
 # !skillitems
 ![img_18.png](src/img_18.png)\

@@ -140,13 +140,17 @@ module.exports = {
                 message.channel.send(embed)
             }else {
                 message.author.send(embed)
+				message.channel.send("Direct Message Sent!")
             }
             num++
         })
         if(embedArray.length > 1){
             message.channel.send("Direct Messages Sent!")
 
-        }
+        }else{
+			
+
+		}
 
     }
 }
