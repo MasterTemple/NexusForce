@@ -11,26 +11,30 @@ Nexus Force LEGO Universe Bot
 ```yaml
 {
   "prefix": "!",
-  "iconURL": "https://media.discordapp.net/attachments/641133444746838016/813621671461781544/circle-cropped_1.png",
+  "botIconURL": "https://media.discordapp.net/attachments/641133444746838016/813621671461781544/circle-cropped_1.png",
   "inviteLink": "https://www.darkflameuniverse.org/",
-  "token": "YOUR_TOKEN_GOES_HERE!!!",
+  "token": "DLU_KEY_GOES_HERE_JK",
   "footer": "The LEGO Group has not endorsed or authorized the operation of this game and is not liable for any safety issues in relation to the operation of this game.",
   "invisChar": "឵឵",
+  "unknownImageURL": "",
+  "resURL": "https://xiphoseer.github.io/lu-res",
+  "luExplorerURL": "https://lu-explorer.web.app/",
+  "uIcon": "https://static.wikia.nocookie.net/legomessageboards/images/c/ce/LU2.png/revision/latest?cb=20121121213649",
   "botInfo": {
     "name": "Nexus Force",
     "version": 3
   },
   "excludeFromHelp": [
-    "object"
+      "object"
   ],
   "mythran": [
-    "789705048035688458",
-    "703120460023463986"
+      "789705048035688458",
+      "703120460023463986"
   ],
   "contributor": [
-    "703120460023463986",
-    "120841067791777792",
-    "789705048035688458"
+      "703120460023463986",
+      "120841067791777792",
+      "789705048035688458"
   ],
   "emojis": {
     "armor": "<:armor:820200969861857280>",
@@ -44,6 +48,7 @@ Nexus Force LEGO Universe Bot
   },
   "startupStatus": "LEGO Universe"
 }
+
    ```
 
 7. Run `index.js` by typing `nodemon index.js` in your command line
