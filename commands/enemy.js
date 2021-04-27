@@ -57,7 +57,7 @@ module.exports = {
         embed.addFields(
             { name: 'Name', value: enemyFile.itemInfo.name, inline: true },
             { name: 'Health', value: hpString, inline: true },
-            { name: 'Description', value: enemyFile.itemInfo.description, inline: true },
+            //{ name: 'Description', value: enemyFile.itemInfo.description, inline: true },
         )
         Object.keys(enemyFile.overview).forEach(function (el, key){
             let subHeader = invisChar

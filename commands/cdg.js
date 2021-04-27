@@ -57,6 +57,7 @@ module.exports = {
 
         let side = 0
         let total = 0
+        const skillNameFile = require('./../output/references/Skills.json')
         Object.keys(CDGFile.skillIDs).forEach(function(element, key, _array){
             //if(CDGFile.skillIDs[element].displayName !== undefined || CDGFile.skillIDs[element].name !== undefined) {
                 // let name
@@ -65,13 +66,17 @@ module.exports = {
                 // }else{
                 //     name = CDGFile.skillIDs[element].displayName
                 // }
+                let skillname = skillNameFile[element]['name']
+                if(skillname === undefined){
+                    skillname = "SkillID"
+                }
 
                 if (side % 3 === 0) {
-                    field1 = `${field1}SkillID: [**${element}**]\n`
+                    field1 = `${field1}${skillname}: [**${element}**]\n`
                 } else if(side % 3 === 1) {
-                    field2 = `${field2}SkillID: [**${element}**]\n`
+                    field2 = `${field2}${skillname}: [**${element}**]\n`
                 } else{
-                    field3 = `${field3}SkillID: [**${element}**]\n`
+                    field3 = `${field3}${skillname}: [**${element}**]\n`
                 }
                 side++
             //}

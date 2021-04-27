@@ -64,13 +64,13 @@ module.exports = {
         if(item?.itemComponent?.buyPrice == null){
             item.itemComponent.buyPrice = 0
         }
-        if(item?.itemInfo?.name == undefined){
+        if(item?.itemInfo?.name === undefined){
             item.itemInfo.name = "None"
         }
-        if(item?.itemInfo?.description == undefined || item?.itemInfo?.description == ``){
+        if(item?.itemInfo?.description === undefined || item?.itemInfo?.description === ``){
             item.itemInfo.description = "None"
         }
-        if(item?.itemInfo?.internalNotes == undefined){
+        if(item?.itemInfo?.internalNotes === undefined || item.itemInfo.internalNotes === ""){
             item.itemInfo.internalNotes = "None"
         }
         // console.log(item.itemInfo.name)
@@ -105,6 +105,8 @@ module.exports = {
         //
         // }
         let embed = msgEmbed.execute(`${item.itemInfo.displayName} [${item.objectID}]`, description, `${luExplorerURL}objects/${itemID}`, item.iconURL)
+
+
 
         embed.addFields(
             { name: 'Name', value: item.itemInfo.name, inline: true },
