@@ -40,7 +40,9 @@
                     "weightedChance": 25.0,
                     "weightedChanceForSpecificItem": 0.0625,
                     "weightedChanceForAnyItemIncludingDrop": 0.25,
-                    "weightedChanceForSpecificItemIncludingDrop": 0.0625
+                    "weightedChanceForSpecificItemIncludingDrop": 0.0625,
+                    "howManyToKillForSpecific": 16,
+                    "howManyToKillForAny": 4
                 },
                 "1": {
                     "id": 13,
@@ -50,7 +52,9 @@
                     "weightedChance": 50.0,
                     "weightedChanceForSpecificItem": 0.041667,
                     "weightedChanceForAnyItemIncludingDrop": 0.5,
-                    "weightedChanceForSpecificItemIncludingDrop": 0.041667
+                    "weightedChanceForSpecificItemIncludingDrop": 0.041667,
+                    "howManyToKillForSpecific": 24,
+                    "howManyToKillForAny": 2
                 },
                 "4": {
                     "id": 42,
@@ -60,7 +64,9 @@
                     "weightedChance": 5.0,
                     "weightedChanceForSpecificItem": 0.05,
                     "weightedChanceForAnyItemIncludingDrop": 0.05,
-                    "weightedChanceForSpecificItemIncludingDrop": 0.05
+                    "weightedChanceForSpecificItemIncludingDrop": 0.05,
+                    "howManyToKillForSpecific": 20,
+                    "howManyToKillForAny": 20
                 }
             },
             "rarityCount": {
@@ -69,8 +75,7 @@
                 "3": 0,
                 "4": 1,
                 "5": 0
-            },
-            "total": 100
+            }
         }
     ],
     "components": {
@@ -78,5 +83,5 @@
         "11": 6006,
         "53": 106
     },
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/misc/snacks.png"
+    "iconURL": "textures/auramar/ui/inventory/misc/snacks.png"
 }

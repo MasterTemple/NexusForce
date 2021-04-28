@@ -33,7 +33,9 @@
                     "weightedChance": 100.0,
                     "weightedChanceForSpecificItem": 0.045455,
                     "weightedChanceForAnyItemIncludingDrop": 1.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 0.045455
+                    "weightedChanceForSpecificItemIncludingDrop": 0.045455,
+                    "howManyToKillForSpecific": 22,
+                    "howManyToKillForAny": 1
                 }
             },
             "rarityCount": {
@@ -42,8 +44,7 @@
                 "3": 0,
                 "4": 0,
                 "5": 0
-            },
-            "total": 100
+            }
         },
         {
             "LootTableIndex": 111,
@@ -66,7 +67,9 @@
                     "weightedChance": 100.0,
                     "weightedChanceForSpecificItem": 0.004098,
                     "weightedChanceForAnyItemIncludingDrop": 1.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 0.004098
+                    "weightedChanceForSpecificItemIncludingDrop": 0.004098,
+                    "howManyToKillForSpecific": 244,
+                    "howManyToKillForAny": 1
                 }
             },
             "rarityCount": {
@@ -75,8 +78,7 @@
                 "3": 0,
                 "4": 0,
                 "5": 0
-            },
-            "total": 100
+            }
         }
     ],
     "components": {
@@ -84,5 +86,5 @@
         "11": 2473,
         "53": 5
     },
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/ag_super_brickpack.png"
+    "iconURL": "textures/ui/inventory/consumables/ag_super_brickpack.png"
 }

@@ -33,7 +33,9 @@
                     "weightedChance": 75.0,
                     "weightedChanceForSpecificItem": 0.09375,
                     "weightedChanceForAnyItemIncludingDrop": 0.75,
-                    "weightedChanceForSpecificItemIncludingDrop": 0.09375
+                    "weightedChanceForSpecificItemIncludingDrop": 0.09375,
+                    "howManyToKillForSpecific": 8,
+                    "howManyToKillForAny": 1
                 },
                 "2": {
                     "id": 18,
@@ -88,7 +90,9 @@
                     "weightedChance": 75.0,
                     "weightedChanceForSpecificItem": 0.1875,
                     "weightedChanceForAnyItemIncludingDrop": 0.75,
-                    "weightedChanceForSpecificItemIncludingDrop": 0.1875
+                    "weightedChanceForSpecificItemIncludingDrop": 0.1875,
+                    "howManyToKillForSpecific": 4,
+                    "howManyToKillForAny": 1
                 },
                 "2": {
                     "id": 18,
@@ -143,7 +147,9 @@
                     "weightedChance": 75.0,
                     "weightedChanceForSpecificItem": 0.083333,
                     "weightedChanceForAnyItemIncludingDrop": 0.75,
-                    "weightedChanceForSpecificItemIncludingDrop": 0.083333
+                    "weightedChanceForSpecificItemIncludingDrop": 0.083333,
+                    "howManyToKillForSpecific": 9,
+                    "howManyToKillForAny": 1
                 },
                 "2": {
                     "id": 18,
@@ -183,5 +189,5 @@
         "11": 6023,
         "53": 81
     },
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_winter_01.png"
+    "iconURL": "textures/ui/inventory/presents/present_winter_01.png"
 }

@@ -1,5 +1,5 @@
 module.exports = {
-    name: ['activity'],
+    name: ['activity', 'activityf'],
     description: 'See what an activity drops',
     args: true,
     use: `activity [name]`,
@@ -32,7 +32,11 @@ module.exports = {
         // return
         let msgEmbed = require(`./../functions/embedTemplate.js`)
         const { uIcon, luExplorerURL, resURL, unknownImageURL} = require('./../config.json')
-
+        const commandName = message.content.slice(1).trim().split(/ +/).shift().toLowerCase(); //each space is a new argument
+        let displayFractions = false
+        if(commandName === 'activityf'){
+            displayFractions = true
+        }
 
         try{
             var activityFile = require(`./../output/activities/${objectID}.json`)
@@ -124,20 +128,21 @@ module.exports = {
             if (arr.length !== 0) {
                 description = `${description}__(Specific)__ `
                 for (let i = 0; i < arr.length; i++) {
-
-                    try{
+                    if(displayFractions) {
+                        description = `${description}**T${arr[i]}:** 1 in ${activityFile.LootTableIndexes[p].rarityTableInfo[arr[i]].howManyToKillForSpecific} `
+                    }else{
                         description = `${description}**T${arr[i]}:** ${(activityFile.LootTableIndexes[p].rarityTableInfo[arr[i]].weightedChanceForSpecificItemIncludingDrop * 100).toFixed(4)}% `
-                    }catch{}
-                    //description = `${description} ${config.emojis[`rarity${i}`]} ${(activityFile.LootTableIndexes[p].rarityTableInfo[i].weightedChanceForSpecificItemIncludingDrop * 100).toFixed(4)}% `
+                    }
                 }
                 description = `${description}\n__(Any)__ `
 
                 for (let i = 0; i < arr.length; i++) {
-
-                    try{
+                    if(displayFractions) {
+                        description = `${description}**T${arr[i]}:** 1 in ${activityFile.LootTableIndexes[p].rarityTableInfo[arr[i]].howManyToKillForAny} `
+                    }else{
                         description = `${description}**T${arr[i]}:** ${(activityFile.LootTableIndexes[p].rarityTableInfo[arr[i]].weightedChanceForAnyItemIncludingDrop * 100).toFixed(4)}% `
-                    }catch{}
-                    //description = `${description} ${config.emojis[`rarity${i}`]} ${(activityFile.LootTableIndexes[p].rarityTableInfo[i].weightedChanceForSpecificItemIncludingDrop * 100).toFixed(4)}% `
+                    }
+                    //description = `${description} ${config.emojis[`rarity${i}`]} ${(activityFile.drop.LootTableIndexes[p].rarityTableInfo[i].weightedChanceForSpecificItemIncludingDrop * 100).toFixed(4)}% `
                 }
                 description = `${description}\n\n`
                 // try {

@@ -33,7 +33,9 @@
                     "weightedChance": 75.0,
                     "weightedChanceForSpecificItem": 0.375,
                     "weightedChanceForAnyItemIncludingDrop": 0.75,
-                    "weightedChanceForSpecificItemIncludingDrop": 0.375
+                    "weightedChanceForSpecificItemIncludingDrop": 0.375,
+                    "howManyToKillForSpecific": 2,
+                    "howManyToKillForAny": 1
                 },
                 "2": {
                     "id": 18,
@@ -43,7 +45,9 @@
                     "weightedChance": 15.0,
                     "weightedChanceForSpecificItem": 0.15,
                     "weightedChanceForAnyItemIncludingDrop": 0.15,
-                    "weightedChanceForSpecificItemIncludingDrop": 0.15
+                    "weightedChanceForSpecificItemIncludingDrop": 0.15,
+                    "howManyToKillForSpecific": 7,
+                    "howManyToKillForAny": 7
                 },
                 "4": {
                     "id": 19,
@@ -91,7 +95,9 @@
                     "weightedChance": 85.0,
                     "weightedChanceForSpecificItem": 0.85,
                     "weightedChanceForAnyItemIncludingDrop": 0.085,
-                    "weightedChanceForSpecificItemIncludingDrop": 0.085
+                    "weightedChanceForSpecificItemIncludingDrop": 0.085,
+                    "howManyToKillForSpecific": 10,
+                    "howManyToKillForAny": 10
                 },
                 "4": {
                     "id": 98,
@@ -101,7 +107,9 @@
                     "weightedChance": 100.0,
                     "weightedChanceForSpecificItem": 0.5,
                     "weightedChanceForAnyItemIncludingDrop": 0.1,
-                    "weightedChanceForSpecificItemIncludingDrop": 0.05
+                    "weightedChanceForSpecificItemIncludingDrop": 0.05,
+                    "howManyToKillForSpecific": 20,
+                    "howManyToKillForAny": 10
                 }
             },
             "rarityCount": {
@@ -110,8 +118,7 @@
                 "3": 1,
                 "4": 2,
                 "5": 0
-            },
-            "total": 100
+            }
         }
     ],
     "components": {
@@ -119,5 +126,5 @@
         "11": 6501,
         "53": 115
     },
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_green.png"
+    "iconURL": "textures/ui/inventory/presents/present_green.png"
 }

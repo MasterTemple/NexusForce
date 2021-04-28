@@ -75,7 +75,9 @@
                             "weightedChance": 100.0,
                             "weightedChanceForSpecificItem": 1.0,
                             "weightedChanceForAnyItemIncludingDrop": 0.1,
-                            "weightedChanceForSpecificItemIncludingDrop": 0.1
+                            "weightedChanceForSpecificItemIncludingDrop": 0.1,
+                            "howManyToKillForSpecific": 10,
+                            "howManyToKillForAny": 10
                         }
                     },
                     "rarityCount": {

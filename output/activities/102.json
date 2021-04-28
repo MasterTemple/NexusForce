@@ -26,7 +26,9 @@
                             "weightedChance": 75.0,
                             "weightedChanceForSpecificItem": 0.75,
                             "weightedChanceForAnyItemIncludingDrop": 0.0225,
-                            "weightedChanceForSpecificItemIncludingDrop": 0.0225
+                            "weightedChanceForSpecificItemIncludingDrop": 0.0225,
+                            "howManyToKillForSpecific": 33,
+                            "howManyToKillForAny": 33
                         },
                         "2": {
                             "id": 18,

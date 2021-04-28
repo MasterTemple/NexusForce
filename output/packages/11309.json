@@ -34,7 +34,9 @@
                     "weightedChance": 100.0,
                     "weightedChanceForSpecificItem": 1.0,
                     "weightedChanceForAnyItemIncludingDrop": 1.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 1.0
+                    "weightedChanceForSpecificItemIncludingDrop": 1.0,
+                    "howManyToKillForSpecific": 1,
+                    "howManyToKillForAny": 1
                 }
             },
             "rarityCount": {
@@ -43,8 +45,7 @@
                 "3": 1,
                 "4": 0,
                 "5": 0
-            },
-            "total": 100
+            }
         },
         {
             "LootTableIndex": 387,
@@ -67,7 +68,9 @@
                     "weightedChance": 100.0,
                     "weightedChanceForSpecificItem": 1.0,
                     "weightedChanceForAnyItemIncludingDrop": 1.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 1.0
+                    "weightedChanceForSpecificItemIncludingDrop": 1.0,
+                    "howManyToKillForSpecific": 1,
+                    "howManyToKillForAny": 1
                 }
             },
             "rarityCount": {
@@ -76,8 +79,7 @@
                 "3": 0,
                 "4": 1,
                 "5": 0
-            },
-            "total": 100
+            }
         }
     ],
     "components": {
@@ -85,5 +87,5 @@
         "11": 5526,
         "53": 65
     },
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_blue.png"
+    "iconURL": "textures/ui/inventory/presents/present_blue.png"
 }

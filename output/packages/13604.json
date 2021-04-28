@@ -34,7 +34,9 @@
                     "weightedChance": 85.0,
                     "weightedChanceForSpecificItem": 0.0425,
                     "weightedChanceForAnyItemIncludingDrop": 0.85,
-                    "weightedChanceForSpecificItemIncludingDrop": 0.0425
+                    "weightedChanceForSpecificItemIncludingDrop": 0.0425,
+                    "howManyToKillForSpecific": 20,
+                    "howManyToKillForAny": 1
                 },
                 "4": {
                     "id": 98,
@@ -44,7 +46,9 @@
                     "weightedChance": 100.0,
                     "weightedChanceForSpecificItem": 0.071429,
                     "weightedChanceForAnyItemIncludingDrop": 1.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 0.071429
+                    "weightedChanceForSpecificItemIncludingDrop": 0.071429,
+                    "howManyToKillForSpecific": 14,
+                    "howManyToKillForAny": 1
                 }
             },
             "rarityCount": {
@@ -53,8 +57,7 @@
                 "3": 20,
                 "4": 14,
                 "5": 0
-            },
-            "total": 100
+            }
         },
         {
             "LootTableIndex": 184,
@@ -78,7 +81,9 @@
                     "weightedChance": 85.0,
                     "weightedChanceForSpecificItem": 0.425,
                     "weightedChanceForAnyItemIncludingDrop": 0.85,
-                    "weightedChanceForSpecificItemIncludingDrop": 0.425
+                    "weightedChanceForSpecificItemIncludingDrop": 0.425,
+                    "howManyToKillForSpecific": 2,
+                    "howManyToKillForAny": 1
                 },
                 "4": {
                     "id": 98,
@@ -104,5 +109,5 @@
         "11": 6725,
         "53": 122
     },
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_rectangle_red_blue.png"
+    "iconURL": "textures/ui/inventory/presents/present_rectangle_red_blue.png"
 }

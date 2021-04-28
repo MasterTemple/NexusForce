@@ -26,7 +26,9 @@
                             "weightedChance": 100.0,
                             "weightedChanceForSpecificItem": 0.045455,
                             "weightedChanceForAnyItemIncludingDrop": 0.4,
-                            "weightedChanceForSpecificItemIncludingDrop": 0.018182
+                            "weightedChanceForSpecificItemIncludingDrop": 0.018182,
+                            "howManyToKillForSpecific": 44,
+                            "howManyToKillForAny": 2
                         }
                     },
                     "rarityCount": {
@@ -59,7 +61,9 @@
                             "weightedChance": 100.0,
                             "weightedChanceForSpecificItem": 0.002849,
                             "weightedChanceForAnyItemIncludingDrop": 0.01,
-                            "weightedChanceForSpecificItemIncludingDrop": 2.8e-05
+                            "weightedChanceForSpecificItemIncludingDrop": 2.8e-05,
+                            "howManyToKillForSpecific": 35100,
+                            "howManyToKillForAny": 100
                         }
                     },
                     "rarityCount": {
@@ -92,7 +96,9 @@
                             "weightedChance": 100.0,
                             "weightedChanceForSpecificItem": 1.0,
                             "weightedChanceForAnyItemIncludingDrop": 0.1,
-                            "weightedChanceForSpecificItemIncludingDrop": 0.1
+                            "weightedChanceForSpecificItemIncludingDrop": 0.1,
+                            "howManyToKillForSpecific": 10,
+                            "howManyToKillForAny": 10
                         }
                     },
                     "rarityCount": {
@@ -125,7 +131,9 @@
                             "weightedChance": 100.0,
                             "weightedChanceForSpecificItem": 0.003509,
                             "weightedChanceForAnyItemIncludingDrop": 0.01,
-                            "weightedChanceForSpecificItemIncludingDrop": 3.5e-05
+                            "weightedChanceForSpecificItemIncludingDrop": 3.5e-05,
+                            "howManyToKillForSpecific": 28500,
+                            "howManyToKillForAny": 100
                         }
                     },
                     "rarityCount": {

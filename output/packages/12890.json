@@ -33,7 +33,9 @@
                     "weightedChance": 100.0,
                     "weightedChanceForSpecificItem": 0.333333,
                     "weightedChanceForAnyItemIncludingDrop": 1.0,
-                    "weightedChanceForSpecificItemIncludingDrop": 0.333333
+                    "weightedChanceForSpecificItemIncludingDrop": 0.333333,
+                    "howManyToKillForSpecific": 3,
+                    "howManyToKillForAny": 1
                 }
             },
             "rarityCount": {
@@ -42,8 +44,7 @@
                 "3": 0,
                 "4": 0,
                 "5": 0
-            },
-            "total": 100
+            }
         }
     ],
     "components": {
@@ -51,5 +52,5 @@
         "11": 6401,
         "53": 104
     },
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_green.png"
+    "iconURL": "textures/ui/inventory/presents/present_green.png"
 }

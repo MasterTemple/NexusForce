@@ -40,7 +40,9 @@
                     "weightedChance": 25.0,
                     "weightedChanceForSpecificItem": 0.25,
                     "weightedChanceForAnyItemIncludingDrop": 0.25,
-                    "weightedChanceForSpecificItemIncludingDrop": 0.25
+                    "weightedChanceForSpecificItemIncludingDrop": 0.25,
+                    "howManyToKillForSpecific": 4,
+                    "howManyToKillForAny": 4
                 },
                 "1": {
                     "id": 13,
@@ -50,7 +52,9 @@
                     "weightedChance": 50.0,
                     "weightedChanceForSpecificItem": 0.038462,
                     "weightedChanceForAnyItemIncludingDrop": 0.5,
-                    "weightedChanceForSpecificItemIncludingDrop": 0.038462
+                    "weightedChanceForSpecificItemIncludingDrop": 0.038462,
+                    "howManyToKillForSpecific": 26,
+                    "howManyToKillForAny": 2
                 },
                 "4": {
                     "id": 42,
@@ -76,5 +80,5 @@
         "11": 2474,
         "53": 2
     },
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/ag_picnic_basket.png"
+    "iconURL": "textures/ui/inventory/consumables/ag_picnic_basket.png"
 }

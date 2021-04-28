@@ -47,7 +47,9 @@
                         "weightedChance": 100.0,
                         "weightedChanceForSpecificItem": 1.0,
                         "weightedChanceForAnyItemIncludingDrop": 1.0,
-                        "weightedChanceForSpecificItemIncludingDrop": 1.0
+                        "weightedChanceForSpecificItemIncludingDrop": 1.0,
+                        "howManyToKillForSpecific": 1,
+                        "howManyToKillForAny": 1
                     }
                 },
                 "rarityCount": {
@@ -81,7 +83,9 @@
                         "weightedChance": 75.0,
                         "weightedChanceForSpecificItem": 0.09375,
                         "weightedChanceForAnyItemIncludingDrop": 0.045,
-                        "weightedChanceForSpecificItemIncludingDrop": 0.005625
+                        "weightedChanceForSpecificItemIncludingDrop": 0.005625,
+                        "howManyToKillForSpecific": 136,
+                        "howManyToKillForAny": 17
                     },
                     "2": {
                         "id": 18,
@@ -91,7 +95,9 @@
                         "weightedChance": 15.0,
                         "weightedChanceForSpecificItem": 0.021429,
                         "weightedChanceForAnyItemIncludingDrop": 0.009,
-                        "weightedChanceForSpecificItemIncludingDrop": 0.001286
+                        "weightedChanceForSpecificItemIncludingDrop": 0.001286,
+                        "howManyToKillForSpecific": 833,
+                        "howManyToKillForAny": 119
                     },
                     "4": {
                         "id": 19,
@@ -108,7 +114,9 @@
                         "weightedChance": 8.0,
                         "weightedChanceForSpecificItem": 0.008889,
                         "weightedChanceForAnyItemIncludingDrop": 0.0048,
-                        "weightedChanceForSpecificItemIncludingDrop": 0.000533
+                        "weightedChanceForSpecificItemIncludingDrop": 0.000533,
+                        "howManyToKillForSpecific": 1836,
+                        "howManyToKillForAny": 204
                     }
                 },
                 "rarityCount": {
@@ -142,7 +150,9 @@
                         "weightedChance": 75.0,
                         "weightedChanceForSpecificItem": 0.026786,
                         "weightedChanceForAnyItemIncludingDrop": 0.09,
-                        "weightedChanceForSpecificItemIncludingDrop": 0.003214
+                        "weightedChanceForSpecificItemIncludingDrop": 0.003214,
+                        "howManyToKillForSpecific": 224,
+                        "howManyToKillForAny": 8
                     },
                     "2": {
                         "id": 18,
@@ -152,7 +162,9 @@
                         "weightedChance": 15.0,
                         "weightedChanceForSpecificItem": 0.03,
                         "weightedChanceForAnyItemIncludingDrop": 0.018,
-                        "weightedChanceForSpecificItemIncludingDrop": 0.0036
+                        "weightedChanceForSpecificItemIncludingDrop": 0.0036,
+                        "howManyToKillForSpecific": 280,
+                        "howManyToKillForAny": 56
                     },
                     "4": {
                         "id": 19,
@@ -162,7 +174,9 @@
                         "weightedChance": 2.0,
                         "weightedChanceForSpecificItem": 0.01,
                         "weightedChanceForAnyItemIncludingDrop": 0.0024,
-                        "weightedChanceForSpecificItemIncludingDrop": 0.0012
+                        "weightedChanceForSpecificItemIncludingDrop": 0.0012,
+                        "howManyToKillForSpecific": 800,
+                        "howManyToKillForAny": 400
                     },
                     "3": {
                         "id": 22,
@@ -172,7 +186,9 @@
                         "weightedChance": 8.0,
                         "weightedChanceForSpecificItem": 0.016,
                         "weightedChanceForAnyItemIncludingDrop": 0.0096,
-                        "weightedChanceForSpecificItemIncludingDrop": 0.00192
+                        "weightedChanceForSpecificItemIncludingDrop": 0.00192,
+                        "howManyToKillForSpecific": 480,
+                        "howManyToKillForAny": 96
                     }
                 },
                 "rarityCount": {
@@ -213,7 +229,9 @@
                         "weightedChance": 15.0,
                         "weightedChanceForSpecificItem": 0.013636,
                         "weightedChanceForAnyItemIncludingDrop": 0.009,
-                        "weightedChanceForSpecificItemIncludingDrop": 0.000818
+                        "weightedChanceForSpecificItemIncludingDrop": 0.000818,
+                        "howManyToKillForSpecific": 1309,
+                        "howManyToKillForAny": 119
                     },
                     "4": {
                         "id": 19,
@@ -223,7 +241,9 @@
                         "weightedChance": 2.0,
                         "weightedChanceForSpecificItem": 0.002857,
                         "weightedChanceForAnyItemIncludingDrop": 0.0012,
-                        "weightedChanceForSpecificItemIncludingDrop": 0.000171
+                        "weightedChanceForSpecificItemIncludingDrop": 0.000171,
+                        "howManyToKillForSpecific": 5950,
+                        "howManyToKillForAny": 850
                     },
                     "3": {
                         "id": 22,
@@ -233,7 +253,9 @@
                         "weightedChance": 8.0,
                         "weightedChanceForSpecificItem": 0.006154,
                         "weightedChanceForAnyItemIncludingDrop": 0.0048,
-                        "weightedChanceForSpecificItemIncludingDrop": 0.000369
+                        "weightedChanceForSpecificItemIncludingDrop": 0.000369,
+                        "howManyToKillForSpecific": 2652,
+                        "howManyToKillForAny": 204
                     }
                 },
                 "rarityCount": {
@@ -267,7 +289,9 @@
                         "weightedChance": 75.0,
                         "weightedChanceForSpecificItem": 0.019231,
                         "weightedChanceForAnyItemIncludingDrop": 0.1125,
-                        "weightedChanceForSpecificItemIncludingDrop": 0.002885
+                        "weightedChanceForSpecificItemIncludingDrop": 0.002885,
+                        "howManyToKillForSpecific": 273,
+                        "howManyToKillForAny": 7
                     },
                     "2": {
                         "id": 18,
@@ -277,7 +301,9 @@
                         "weightedChance": 15.0,
                         "weightedChanceForSpecificItem": 0.0075,
                         "weightedChanceForAnyItemIncludingDrop": 0.0225,
-                        "weightedChanceForSpecificItemIncludingDrop": 0.001125
+                        "weightedChanceForSpecificItemIncludingDrop": 0.001125,
+                        "howManyToKillForSpecific": 980,
+                        "howManyToKillForAny": 49
                     },
                     "4": {
                         "id": 19,
@@ -287,7 +313,9 @@
                         "weightedChance": 2.0,
                         "weightedChanceForSpecificItem": 0.003333,
                         "weightedChanceForAnyItemIncludingDrop": 0.003,
-                        "weightedChanceForSpecificItemIncludingDrop": 0.0005
+                        "weightedChanceForSpecificItemIncludingDrop": 0.0005,
+                        "howManyToKillForSpecific": 2100,
+                        "howManyToKillForAny": 350
                     },
                     "3": {
                         "id": 22,
@@ -297,7 +325,9 @@
                         "weightedChance": 8.0,
                         "weightedChanceForSpecificItem": 0.002857,
                         "weightedChanceForAnyItemIncludingDrop": 0.012,
-                        "weightedChanceForSpecificItemIncludingDrop": 0.000429
+                        "weightedChanceForSpecificItemIncludingDrop": 0.000429,
+                        "howManyToKillForSpecific": 2352,
+                        "howManyToKillForAny": 84
                     }
                 },
                 "rarityCount": {
@@ -330,7 +360,9 @@
                         "weightedChance": 100.0,
                         "weightedChanceForSpecificItem": 0.045455,
                         "weightedChanceForAnyItemIncludingDrop": 1.0,
-                        "weightedChanceForSpecificItemIncludingDrop": 0.045455
+                        "weightedChanceForSpecificItemIncludingDrop": 0.045455,
+                        "howManyToKillForSpecific": 22,
+                        "howManyToKillForAny": 1
                     }
                 },
                 "rarityCount": {
@@ -366,7 +398,9 @@
                         "weightedChance": 75.0,
                         "weightedChanceForSpecificItem": 0.001174,
                         "weightedChanceForAnyItemIncludingDrop": 0.045,
-                        "weightedChanceForSpecificItemIncludingDrop": 7e-05
+                        "weightedChanceForSpecificItemIncludingDrop": 7e-05,
+                        "howManyToKillForSpecific": 10863,
+                        "howManyToKillForAny": 17
                     },
                     "2": {
                         "id": 18,
@@ -422,7 +456,9 @@
                         "weightedChance": 75.0,
                         "weightedChanceForSpecificItem": 0.046875,
                         "weightedChanceForAnyItemIncludingDrop": 0.045,
-                        "weightedChanceForSpecificItemIncludingDrop": 0.002812
+                        "weightedChanceForSpecificItemIncludingDrop": 0.002812,
+                        "howManyToKillForSpecific": 272,
+                        "howManyToKillForAny": 17
                     },
                     "2": {
                         "id": 18,
@@ -477,7 +513,9 @@
                         "weightedChance": 60.0,
                         "weightedChanceForSpecificItem": 0.001954,
                         "weightedChanceForAnyItemIncludingDrop": 0.054,
-                        "weightedChanceForSpecificItemIncludingDrop": 0.000176
+                        "weightedChanceForSpecificItemIncludingDrop": 0.000176,
+                        "howManyToKillForSpecific": 6754,
+                        "howManyToKillForAny": 22
                     },
                     "2": {
                         "id": 70,
@@ -525,7 +563,9 @@
                         "weightedChance": 55.0,
                         "weightedChanceForSpecificItem": 0.004622,
                         "weightedChanceForAnyItemIncludingDrop": 0.033,
-                        "weightedChanceForSpecificItemIncludingDrop": 0.000277
+                        "weightedChanceForSpecificItemIncludingDrop": 0.000277,
+                        "howManyToKillForSpecific": 4046,
+                        "howManyToKillForAny": 34
                     },
                     "2": {
                         "id": 73,
@@ -580,7 +620,9 @@
                         "weightedChance": 75.0,
                         "weightedChanceForSpecificItem": 0.75,
                         "weightedChanceForAnyItemIncludingDrop": 0.75,
-                        "weightedChanceForSpecificItemIncludingDrop": 0.75
+                        "weightedChanceForSpecificItemIncludingDrop": 0.75,
+                        "howManyToKillForSpecific": 1,
+                        "howManyToKillForAny": 1
                     },
                     "2": {
                         "id": 18,
@@ -782,7 +824,9 @@
                         "weightedChance": 100.0,
                         "weightedChanceForSpecificItem": 1.0,
                         "weightedChanceForAnyItemIncludingDrop": 1.0,
-                        "weightedChanceForSpecificItemIncludingDrop": 1.0
+                        "weightedChanceForSpecificItemIncludingDrop": 1.0,
+                        "howManyToKillForSpecific": 1,
+                        "howManyToKillForAny": 1
                     }
                 },
                 "rarityCount": {
