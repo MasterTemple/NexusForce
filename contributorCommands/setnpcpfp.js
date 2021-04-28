@@ -55,7 +55,7 @@ module.exports = {
                 if (err) throw err;
                 let logFile = require('../output/contributor/NPCPFPUpdates.json')
                 logFile.push({
-                    "npcID": objectID,
+                    "objectID": objectID,
                     "path": url
                 })
 

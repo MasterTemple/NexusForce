@@ -38,14 +38,16 @@ module.exports = {
         const { uIcon, luExplorerURL, resURL, unknownImageURL, emojis, invisChar} = require('./../config.json')
         let c = 0
         let wasDMed = false
-        let img
-        if(enemyFile.iconURL !== "uIcon" || enemyFile.iconUFL !== "unknown"){
-            img = `${resURL}${enemyFile.iconURL}`
-        }else if(enemyFile.iconURL !== "unknown"){
-            img = unknownImageURL
-        }else{
-            img = uIcon
-        }
+        let img = resURL.concat(enemyFile.iconURL)
+        // if(enemyFile.iconURL !== "uIcon" || enemyFile.iconUFL !== "unknown"){
+        //     img = `${resURL}${enemyFile.iconURL}`
+        // }else if(enemyFile.iconURL !== "unknown"){
+        //     img = unknownImageURL
+        // }else{
+        //     img = uIcon
+        // }
+        // console.log(img)
+
 
 
         let embed = msgEmbed.execute(`${enemyFile.itemInfo.displayName} [${enemyFile.objectID}]`, description,`${luExplorerURL}objects/${enemyFile.objectID}`, img)

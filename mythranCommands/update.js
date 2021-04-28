@@ -6,6 +6,8 @@ module.exports = {
     example: [`update`],
     execute(message, args) {
         //message.channel.send('Updating')
+        message.author.send("Enemy", {files: ["./output/contributor/EnemyPFPUpdates.json"]});
+        message.author.send("NPC", {files: ["./output/contributor/NPCPFPUpdates.json"]});
 
         const { exec } = require("child_process");
         try{

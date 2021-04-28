@@ -52,10 +52,10 @@ module.exports = {
 
         let msgEmbed = require(`./../functions/embedTemplate.js`)
         try{
-            var icon = skillToCDGFile[skillID]['iconURL']
+            var img = skillToCDGFile[skillID]['iconURL']
         }catch(e) {
             console.log(e)
-            icon = uIcon
+            img = uIcon
         }
         let desc = ``
         if(skillToCDGFile[skillID]['Description'] !== undefined){
@@ -86,7 +86,7 @@ module.exports = {
         }
 
 
-        let embed = msgEmbed.execute(`${skillName}: ${skillID} `, desc,`${luExplorerURL}skills/${skillID}`, uIcon)
+        let embed = msgEmbed.execute(`${skillName}: ${skillID} `, desc,`${luExplorerURL}skills/${skillID}`, img)
         message.channel.send(embed)
 
     }

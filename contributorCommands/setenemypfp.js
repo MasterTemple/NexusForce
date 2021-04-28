@@ -55,7 +55,7 @@ module.exports = {
                 if (err) throw err;
                 let logFile = require('../output/contributor/EnemyPFPUpdates.json')
                 logFile.push({
-                    "enemyID": objectID,
+                    "objectID": objectID,
                     "path": url
                 })
 
