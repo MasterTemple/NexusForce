@@ -112,7 +112,10 @@ module.exports = {
             //let c = 0
             for(let k=0;k<Object.keys(activityFile.LootTableIndexes[p].rarityCount).length;k++){
                 //console.log(k, activityFile.LootTableIndexes[p].rarityCount[k])
-                if(activityFile.LootTableIndexes[p].rarityCount[k] > 0) {
+                //console.log(k, activityFile.LootTableIndexes[p].rarityCount[k], Object.keys(activityFile.LootTableIndexes[p].rarityTableInfo))
+                if(activityFile.LootTableIndexes[p].rarityCount[k] > 0 && Object.keys(activityFile.LootTableIndexes[p].rarityTableInfo).includes(k.toString())) {
+                    //console.log("--", k, activityFile.LootTableIndexes[p].rarityCount[k])
+
                     arr.push(k)
                 }
                 //console.log(activityFile.LootTableIndexes[p].rarityCount[k])

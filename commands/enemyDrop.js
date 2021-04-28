@@ -70,7 +70,7 @@ module.exports = {
         const { uIcon, luExplorerURL, resURL, unknownImageURL} = require('./../config.json')
         let c = 0
         let wasDMed = false
-        let img = resURL.concat(enemyFile.iconURL)
+        let img = resURL.concat(dropFile.iconURL)
 
         for(let p=0; p<dropFile.drop.LootTableIndexes.length;p++){
             if(dropFile.drop.LootTableIndexes[p].names.Name === null || dropFile.drop.LootTableIndexes[p].names.Name === undefined){
