@@ -26,6 +26,7 @@ module.exports = {
         }else{
             var objectID = args[0]
         }
+        // const commandName = message.content.slice(1).trim().split(/ +/).shift().toLowerCase(); //each space is a new argument
         var dropFile = require(`./../output/objects/${Math.floor(objectID/256)}/${objectID}.json`)
         const { uIcon, luExplorerURL, resURL, unknownImageURL} = require('./../config.json')
 

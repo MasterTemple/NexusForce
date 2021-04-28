@@ -1,5 +1,5 @@
 module.exports = {
-    name: ['enemydrop', 'ed'],
+    name: ['enemydrop', 'ed', 'enemydropfraction', 'edfrac', 'enemydropfractions', 'edfraction', 'edfractions'],
     description: 'See what an enemy drops',
     args: true,
     use: `enemydrop [id]`,
@@ -26,6 +26,7 @@ module.exports = {
         }else{
             var objectID = args[0]
         }
+
         // message.reply(objectID)
         // return
         var dropFile = require(`./../output/enemies/${objectID}.json`)
@@ -33,6 +34,11 @@ module.exports = {
         //console.log(dropFile)
         //console.log(dropFile)
         let msgEmbed = require(`./../functions/embedTemplate.js`)
+        const commandName = message.content.slice(1).trim().split(/ +/).shift().toLowerCase(); //each space is a new argument
+        let displayFractions = false
+        if(commandName.includes('frac')){
+            displayFractions = true
+        }
         // if(dropFile.itemComponent.levelRequirement === undefined){
         //     dropFile.levelRequirement = 0
         // }
@@ -77,13 +83,24 @@ module.exports = {
                 dropFile.drop.LootTableIndexes[p].names.Name = dropFile.drop.LootTableIndexes[p].names.AlternateName
             }
 			if(dropFile.drop.LootTableIndexes[p].maxToDrop === 1){
-				description = `${description}**${dropFile.drop.LootTableIndexes[p].names.Name}** [${dropFile.drop.LootTableIndexes[p].LootTableIndex}] - **${dropFile.drop.LootTableIndexes[p].percent}%** For **1** Item\n`
+			    if(displayFractions){
+                    description = `${description}**${dropFile.drop.LootTableIndexes[p].names.Name}** [${dropFile.drop.LootTableIndexes[p].LootTableIndex}] - **${dropFile.drop.LootTableIndexes[p].percent}/100** For **1** Item\n`
+                }else{
+                    description = `${description}**${dropFile.drop.LootTableIndexes[p].names.Name}** [${dropFile.drop.LootTableIndexes[p].LootTableIndex}] - **${dropFile.drop.LootTableIndexes[p].percent}%** For **1** Item\n`
+                }
 			}
 			else if(dropFile.drop.LootTableIndexes[p].minToDrop === dropFile.drop.LootTableIndexes[p].maxToDrop){
-				description = `${description}**${dropFile.drop.LootTableIndexes[p].names.Name}** [${dropFile.drop.LootTableIndexes[p].LootTableIndex}] - **${dropFile.drop.LootTableIndexes[p].percent}%** For **${dropFile.drop.LootTableIndexes[p].minToDrop}** Items\n`
-			}else{
-				description = `${description}**${dropFile.drop.LootTableIndexes[p].names.Name}** [${dropFile.drop.LootTableIndexes[p].LootTableIndex}] - **${dropFile.drop.LootTableIndexes[p].percent}%** For **${dropFile.drop.LootTableIndexes[p].minToDrop} - ${dropFile.drop.LootTableIndexes[p].maxToDrop}** Items\n`
-
+                if(displayFractions){
+                    description = `${description}**${dropFile.drop.LootTableIndexes[p].names.Name}** [${dropFile.drop.LootTableIndexes[p].LootTableIndex}] - **${dropFile.drop.LootTableIndexes[p].percent}/100** For **${dropFile.drop.LootTableIndexes[p].minToDrop}** Items\n`
+                }else {
+                    description = `${description}**${dropFile.drop.LootTableIndexes[p].names.Name}** [${dropFile.drop.LootTableIndexes[p].LootTableIndex}] - **${dropFile.drop.LootTableIndexes[p].percent}%** For **${dropFile.drop.LootTableIndexes[p].minToDrop}** Items\n`
+                }
+            }else{
+                if(displayFractions){
+                    description = `${description}**${dropFile.drop.LootTableIndexes[p].names.Name}** [${dropFile.drop.LootTableIndexes[p].LootTableIndex}] - **${dropFile.drop.LootTableIndexes[p].percent}/100** For **${dropFile.drop.LootTableIndexes[p].minToDrop} - ${dropFile.drop.LootTableIndexes[p].maxToDrop}** Items\n`
+                }else{
+                    description = `${description}**${dropFile.drop.LootTableIndexes[p].names.Name}** [${dropFile.drop.LootTableIndexes[p].LootTableIndex}] - **${dropFile.drop.LootTableIndexes[p].percent}%** For **${dropFile.drop.LootTableIndexes[p].minToDrop} - ${dropFile.drop.LootTableIndexes[p].maxToDrop}** Items\n`
+                }
 			}
             let arr = []
             //console.log(Object.keys(dropFile.drop.LootTableIndexes[p].rarityTableInfo))
@@ -114,15 +131,28 @@ module.exports = {
             if (arr.length !== 0) {
                 description = `${description}__(Specific)__ `
                 for (let i = 0; i < arr.length; i++) {
-                    description = `${description}**T${arr[i]}:** ${(dropFile.drop.LootTableIndexes[p].rarityTableInfo[arr[i]].weightedChanceForSpecificItemIncludingDrop * 100).toFixed(4)}% `
+                    if(displayFractions) {
+                        // description = `${description}**T${arr[i]}:** 1 in ${Math.round(1/dropFile.drop.LootTableIndexes[p].rarityTableInfo[arr[i]].weightedChanceForSpecificItemIncludingDrop * 100)} `
+                        description = `${description}**T${arr[i]}:** 1 in ${Math.round(100/dropFile.drop.LootTableIndexes[p].percent) * Math.round(100/dropFile.drop.LootTableIndexes[p].rarityTableInfo[arr[i]].chance)} `
 
+                    }else{
+                        description = `${description}**T${arr[i]}:** ${(dropFile.drop.LootTableIndexes[p].rarityTableInfo[arr[i]].weightedChanceForSpecificItemIncludingDrop * 100).toFixed(4)}% `
+                    }
                     //description = `${description} ${config.emojis[`rarity${i}`]} ${(dropFile.drop.LootTableIndexes[p].rarityTableInfo[i].weightedChanceForSpecificItemIncludingDrop * 100).toFixed(4)}% `
                 }
                 description = `${description}\n__(Any)__ `
 
                 for (let i = 0; i < arr.length; i++) {
-                    description = `${description}**T${arr[i]}:** ${(dropFile.drop.LootTableIndexes[p].rarityTableInfo[arr[i]].weightedChanceForAnyItemIncludingDrop * 100).toFixed(4)}% `
+                    if(displayFractions) {
+                        // description = `${description}**T${arr[i]}:** 1 in ${Math.round(1/dropFile.drop.LootTableIndexes[p].rarityTableInfo[arr[i]].weightedChanceForAnyItemIncludingDrop * 100)} `
+                        // console.log(`percent: ${dropFile.drop.LootTableIndexes[p].percent}`)
+                        // console.log(`chance: ${dropFile.drop.LootTableIndexes[p].rarityTableInfo[arr[i]].chance}`)
+                        // console.log(`rarCount: ${dropFile.drop.LootTableIndexes[p].rarityCount[arr[i]]}`)
+                        description = `${description}**T${arr[i]}:** 1 in ${Math.round(100/dropFile.drop.LootTableIndexes[p].percent) * Math.round(100/dropFile.drop.LootTableIndexes[p].rarityTableInfo[arr[i]].chance) * dropFile.drop.LootTableIndexes[p].rarityCount[arr[i]]} `
 
+                    }else{
+                        description = `${description}**T${arr[i]}:** ${(dropFile.drop.LootTableIndexes[p].rarityTableInfo[arr[i]].weightedChanceForAnyItemIncludingDrop * 100).toFixed(4)}% `
+                    }
                     //description = `${description} ${config.emojis[`rarity${i}`]} ${(dropFile.drop.LootTableIndexes[p].rarityTableInfo[i].weightedChanceForSpecificItemIncludingDrop * 100).toFixed(4)}% `
                 }
                 description = `${description}\n\n`
