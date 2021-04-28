@@ -36,31 +36,29 @@ module.exports = {
         if(earnFile.itemComponent.levelRequirement === undefined){
             earnFile.levelRequirement = 0
         }
+        let earnLen = Object.keys(earnFile.earn).length
+
+        let img
+        if(earnFile.iconURL !== "uIcon" || earnFile.iconUFL !== "unknown" && earnFile.iconURL.includes('http') === false){
+            img = `${resURL}${earnFile.iconURL}`
+        }else if(earnFile.iconURL.includes('http')){
+            img = earnFile.iconURL
+        }else if(earnFile.iconURL === "unknown"){
+            img = unknownImageURL
+        }else{
+            img = uIcon
+        }
+        if(earnLen < 2){
+            var description = `You can earn this item **${earnLen}** times`
+        }
 
         //let embed = msgEmbed.execute(earnFile.displayName, undefined,`${luExplorerURL}objects/${earnFile.objectID}`, earnFile.iconURL)
-        let embed = msgEmbed.execute(`${earnFile.itemInfo.displayName} [${earnFile.objectID}]`, undefined,`${luExplorerURL}objects/${earnFile.objectID}`, earnFile.iconURL)
+        let embed = msgEmbed.execute(`${earnFile.itemInfo.displayName} [${earnFile.objectID}]`, description,`${luExplorerURL}objects/${earnFile.objectID}`, img)
 
-        // if(earnFile.itemComponent.altCurrencyCost !== null){
-        //     embed.addFields(
-        //         {name: "Cost", value: earnFile.itemComponent.earnPrice, inline: true},
-        //         {name: `${earnFile.itemComponent.altCurrencyDisplayName} Cost`, value: earnFile.itemComponent.altCurrencyCost, inline: true},
-        //         {name: "Level Requirement", value: earnFile.itemComponent.levelRequirement, inline: true},
-        //     )
-        // }else if(earnFile.itemComponent.commendationCurrencyCost !== null){
-        //     embed.addFields(
-        //         {name: "Cost", value: earnFile.itemComponent.earnPrice, inline: true},
-        //         {name: `${earnFile.itemComponent.commendationCurrencyDisplayName} Cost`, value: earnFile.itemComponent.commendationCurrencyCost, inline: true},
-        //         {name: "Level Requirement", value: earnFile.itemComponent.levelRequirement, inline: true},
-        //     )
-        // }else if(earnFile.itemComponent.commendationCurrencyCost === null){
-        //     embed.addFields(
-        //         {name: "Cost", value: earnFile.itemComponent.earnPrice, inline: true},
-        //         {name: "Stack Size", value: earnFile.itemComponent.stackSize, inline: true},
-        //         {name: "Level Requirement", value: earnFile.itemComponent.levelRequirement, inline: true},
-        //     )
-        // }
+
 
         var earnInfo = ``
+        let wasDMed = false
 
         for(var e=0;e<Object.keys(earnFile.earn).length;e++){
             //console.log([Object.keys(earnFile.earn)])
@@ -74,24 +72,27 @@ module.exports = {
                 embed.addField(`${earnFile.earn[Object.keys(earnFile.earn)[e]]['defined_type']} > ${earnFile.earn[Object.keys(earnFile.earn)[e]]['defined_subtype']} > ${earnFile.earn[Object.keys(earnFile.earn)[e]]['missionName']}`, `${earnFile.earn[Object.keys(earnFile.earn)[e]]['missionDescription']} [Gives ${earnFile.earn[Object.keys(earnFile.earn)[e]]['rewardCount']}]`, false)
 
             }
-            // if(earnFile.earn[Object.keys(earnFile.earn)][e].displayName !== null) {
-            //     earnInfo = `${earnInfo}${earnFile.earn[Object.keys(earnFile.earn)][e]} [${earnFile.earn.Vendors[e].id}]\n`
-            // }
+            if(embed.fields.length > 25){
+                message.author.send(embed)
+                embed = msgEmbed.execute(`${earnFile.itemInfo.displayName} [${earnFile.objectID}]`, undefined,`${luExplorerURL}objects/${earnFile.objectID}`, img)
+                wasDMed = true
+            }
+
+            if(e === Object.keys(earnFile.earn).length-1 && embed.fields.length !== 0 && wasDMed){
+                message.author.send(embed)
+                message.channel.send("Direct Messages Sent!")
+                //embed = msgEmbed.execute(`${earnFile.itemInfo.displayName} [${earnFile.objectID}]`, undefined,`${luExplorerURL}objects/${earnFile.objectID}`, earnFile.iconURL)
+            }else if(e === Object.keys(earnFile.earn).length-1 && embed.fields.length !== 0){
+                message.channel.send(embed)
+            }
+
+
         }
 
-        // if(Object.keys(earnFile.earn).length === 1){
-        //     embed.addField(`Earn:`, earnInfo, false)
-        // }else if(earnFile.earn.Vendors.length > 1){
-        //     embed.addField(`Vendors:`, earnInfo, false)
-        // }else if(earnFile.commendationVendor.length === 1 && earnFile.commendationCost !== null){
-        //     embed.addField(`Vendor:`, `Honor Accolade - Commendation Vendor [13806]`, false)
-        // }else if(earnFile.type === "LEGO brick"){
-        //     embed.addField(`Vendor:`, `${earnFile.brickVendorDisplayName} [${earnFile.brickVendorID}]`, false)
-        // }else{
-        //     embed.addField(`This Item Is Not Sold!`, "Try **!earn** or **!drop** to see how to unlock this item!", false)
-        // }
         if(Object.keys(earnFile.earn).length === 0){
             embed.addField(`This Item Is Not Earned!`, "Try **!buy** or **!drop** to see how to unlock this item!", false)
+            message.channel.send(embed)
+
         }
 
 
@@ -99,7 +100,6 @@ module.exports = {
         //message.channel.send(`\`\`\`json\n${JSON.stringify(earnFile,null, 2)}\`\`\``)
 
         try {
-            message.channel.send(embed)
         }catch{
             err()
         }

@@ -65,7 +65,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m30135_199.png",
+    "iconURL": "textures/ui/inventory/hats/m30135_199.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             66,
@@ -674,7 +674,7 @@
                         "displayName": "Surprise Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "686": {
                 "LootMatrixIndex": 686,
@@ -729,7 +729,7 @@
                         "displayName": "Nexus Tower Gift Bag"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "720": {
                 "LootMatrixIndex": 720,

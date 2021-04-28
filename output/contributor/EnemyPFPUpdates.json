@@ -136,11 +136,31 @@
     "path": "textures/ui/missioncomics/wonderland/avant_gardens/task_icons/mission_313.png"
   },
   {
+    "enemyID": "8238",
+    "path": "textures/ui/missioncomics/wonderland/ns_instance/hud_icons/mission_1246.png?raw=true"
+  },
+  {
+    "enemyID": "12542",
+    "path": "textures/ui/missioncomics/wonderland/ns_instance/hud_icons/mission_1246.png?raw=true"
+  },
+  {
     "enemyID": "12542",
     "path": "textures/ui/missioncomics/wonderland/ns_instance/hud_icons/mission_1246.png"
   },
   {
     "enemyID": "8238",
+    "path": "textures/ui/missioncomics/wonderland/ns_instance/hud_icons/mission_1246.png"
+  },
+  {
+    "enemyID": "6668",
+    "path": "textures/ui/missioncomics/wonderland/avant_gardens/task_icons/turret_task.png"
+  },
+  {
+    "enemyID": "6454",
+    "path": "textures/ui/missioncomics/wonderland/avant_gardens/task_icons/mission_313.png"
+  },
+  {
+    "enemyID": "8089",
     "path": "textures/ui/missioncomics/wonderland/ns_instance/hud_icons/mission_1246.png"
   }
 ]

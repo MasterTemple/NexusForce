@@ -86,7 +86,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/m2546_21.png",
+    "iconURL": "textures/ui/inventory/models/m2546_21.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             104,
@@ -149,7 +149,7 @@
                 },
                 "LootTableIndexItems": 31,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "217": {
                 "LootMatrixIndex": 217,
@@ -207,7 +207,7 @@
                 },
                 "LootTableIndexItems": 31,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "218": {
                 "LootMatrixIndex": 218,
@@ -265,7 +265,7 @@
                 },
                 "LootTableIndexItems": 31,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "445": {
                 "LootMatrixIndex": 445,
@@ -302,7 +302,7 @@
                         "displayName": "Beta Testing Gear Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "567": {
                 "LootMatrixIndex": 567,
@@ -640,7 +640,7 @@
                 },
                 "LootTableIndexItems": 31,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "665": {
                 "LootMatrixIndex": 665,
@@ -695,7 +695,7 @@
                         "displayName": "Quality Surprise Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],
