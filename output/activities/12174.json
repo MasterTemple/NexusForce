@@ -1,9 +1,13 @@
 {
     "id": 12174,
+    "activityRatings": {
+        "B": 1
+    },
     "activities": {
         "Aura Mar Jukebox QB": {
             "LootMatrixIndex": 499,
             "CurrencyIndex": 52,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 415,

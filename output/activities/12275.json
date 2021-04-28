@@ -1,9 +1,13 @@
 {
     "id": 12275,
+    "activityRatings": {
+        "m": 1
+    },
     "activities": {
         "AM venture moving platform": {
             "LootMatrixIndex": 499,
             "CurrencyIndex": 52,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 415,

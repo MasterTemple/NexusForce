@@ -1,9 +1,13 @@
 {
     "id": 106,
+    "activityRatings": {
+        "s": 1
+    },
     "activities": {
         "Aura Mar Quickbuilds": {
             "LootMatrixIndex": 499,
             "CurrencyIndex": 52,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 415,

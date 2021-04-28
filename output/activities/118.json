@@ -1,9 +1,13 @@
 {
     "id": 118,
+    "activityRatings": {
+        "s": 1
+    },
     "activities": {
         "NJ Monastery QBs": {
             "LootMatrixIndex": 753,
             "CurrencyIndex": 1,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 110,

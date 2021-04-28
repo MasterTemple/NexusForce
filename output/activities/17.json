@@ -1,9 +1,13 @@
 {
     "id": 17,
+    "activityRatings": {
+        "B": 1
+    },
     "activities": {
         "GF Pet X QB": {
             "LootMatrixIndex": 196,
             "CurrencyIndex": 1,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 3,

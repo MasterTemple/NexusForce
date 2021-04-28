@@ -1,9 +1,13 @@
 {
     "id": 121,
+    "activityRatings": {
+        "s": 1
+    },
     "activities": {
         "NJ Ice QBs": {
             "LootMatrixIndex": 756,
             "CurrencyIndex": 1,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 110,

@@ -1,9 +1,13 @@
 {
     "id": 110,
+    "activityRatings": {
+        "s": 1
+    },
     "activities": {
         "NT Quickbuilds": {
             "LootMatrixIndex": 690,
             "CurrencyIndex": 1,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 110,

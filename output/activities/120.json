@@ -1,9 +1,13 @@
 {
     "id": 120,
+    "activityRatings": {
+        "s": 1
+    },
     "activities": {
         "NJ Lightning QBs": {
             "LootMatrixIndex": 755,
             "CurrencyIndex": 1,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 110,

@@ -1,9 +1,13 @@
 {
     "id": 55,
+    "activityRatings": {
+        "r": 4
+    },
     "activities": {
         "FV Dragon 3 Player": {
             "LootMatrixIndex": 484,
             "CurrencyIndex": 31,
+            "activityRating": 3,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 72,
@@ -1021,6 +1025,7 @@
         "FV Dragon 2 Player": {
             "LootMatrixIndex": 483,
             "CurrencyIndex": 32,
+            "activityRating": 2,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 72,
@@ -2038,6 +2043,7 @@
         "FV Dragon 1 Player": {
             "LootMatrixIndex": 314,
             "CurrencyIndex": 33,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 197,
@@ -3055,6 +3061,7 @@
         "FV Dragon 4 Player": {
             "LootMatrixIndex": 485,
             "CurrencyIndex": 34,
+            "activityRating": 4,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 72,

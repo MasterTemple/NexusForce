@@ -1,9 +1,13 @@
 {
     "id": 22,
+    "activityRatings": {
+        "e": 1
+    },
     "activities": {
         "AG Quickbuilds - Monument finish line": {
             "LootMatrixIndex": 196,
             "CurrencyIndex": 1,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 3,

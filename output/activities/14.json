@@ -1,9 +1,13 @@
 {
     "id": 14,
+    "activityRatings": {
+        "r": 200
+    },
     "activities": {
         "AG Spider Queen 1 Player": {
             "LootMatrixIndex": 860,
             "CurrencyIndex": 120,
+            "activityRating": 100,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 72,
@@ -474,6 +478,7 @@
         "AG Spider Queen 2 Player": {
             "LootMatrixIndex": 861,
             "CurrencyIndex": 121,
+            "activityRating": 200,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 72,

@@ -1,9 +1,17 @@
 {
     "id": 37,
+    "activityRatings": {
+        "1": 0,
+        "2": 5,
+        "3": 15,
+        "4": 30,
+        "5": 40
+    },
     "activities": {
         "PvP Siege Winner T1": {
             "LootMatrixIndex": 199,
             "CurrencyIndex": 16,
+            "activityRating": 0,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 102,
@@ -77,6 +85,7 @@
         "PvP Siege Winner T2": {
             "LootMatrixIndex": 198,
             "CurrencyIndex": 17,
+            "activityRating": 500,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 102,
@@ -150,6 +159,7 @@
         "PvP Siege Winner T3": {
             "LootMatrixIndex": 197,
             "CurrencyIndex": 18,
+            "activityRating": 1500,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 102,
@@ -223,6 +233,7 @@
         "PvP Siege Winner T4": {
             "LootMatrixIndex": 239,
             "CurrencyIndex": 19,
+            "activityRating": 3000,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 102,
@@ -296,6 +307,7 @@
         "PvP Siege Winner T5": {
             "LootMatrixIndex": 241,
             "CurrencyIndex": 20,
+            "activityRating": 4000,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 102,
@@ -369,6 +381,7 @@
         "PvP Siege Loser T1": {
             "LootMatrixIndex": 202,
             "CurrencyIndex": 16,
+            "activityRating": 0,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 118,
@@ -432,6 +445,7 @@
         "PvP Siege Loser T2": {
             "LootMatrixIndex": 201,
             "CurrencyIndex": 16,
+            "activityRating": 5,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 118,
@@ -495,6 +509,7 @@
         "PvP Siege Loser T3": {
             "LootMatrixIndex": 200,
             "CurrencyIndex": 16,
+            "activityRating": 15,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 118,
@@ -558,6 +573,7 @@
         "PvP Siege Loser T4": {
             "LootMatrixIndex": 240,
             "CurrencyIndex": 16,
+            "activityRating": 30,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 118,
@@ -621,6 +637,7 @@
         "PvP Siege Loser T5": {
             "LootMatrixIndex": 242,
             "CurrencyIndex": 16,
+            "activityRating": 40,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 118,

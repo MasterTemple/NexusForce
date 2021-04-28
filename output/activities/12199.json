@@ -1,9 +1,13 @@
 {
     "id": 12199,
+    "activityRatings": {
+        "d": -1
+    },
     "activities": {
         "AM - Blue Flowers to be watered": {
             "LootMatrixIndex": 501,
             "CurrencyIndex": 12,
+            "activityRating": -1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 415,

@@ -1,9 +1,13 @@
 {
     "id": 122,
+    "activityRatings": {
+        "s": 1
+    },
     "activities": {
         "NJ Fire QBs": {
             "LootMatrixIndex": 757,
             "CurrencyIndex": 1,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 110,

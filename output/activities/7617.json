@@ -1,9 +1,13 @@
 {
     "id": 7617,
+    "activityRatings": {
+        "s": 1
+    },
     "activities": {
         "PC Quickbuilds": {
             "LootMatrixIndex": 297,
             "CurrencyIndex": 1,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 421,

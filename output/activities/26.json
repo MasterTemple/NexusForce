@@ -1,9 +1,13 @@
 {
     "id": 26,
+    "activityRatings": {
+        "s": 1
+    },
     "activities": {
         "NS Quickbuilds - Bass": {
             "LootMatrixIndex": 196,
             "CurrencyIndex": 1,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 3,

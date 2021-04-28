@@ -1,9 +1,13 @@
 {
     "id": 6511,
+    "activityRatings": {
+        "h": 1
+    },
     "activities": {
         "GF Tiki Torch Extinguish": {
             "LootMatrixIndex": 196,
             "CurrencyIndex": 1,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 3,

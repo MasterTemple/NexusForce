@@ -1,9 +1,13 @@
 {
     "id": 34,
+    "activityRatings": {
+        "s": 1
+    },
     "activities": {
         "NS Quickbuilds - Lasers": {
             "LootMatrixIndex": 196,
             "CurrencyIndex": 1,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 3,

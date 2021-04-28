@@ -1,9 +1,13 @@
 {
     "id": 12408,
+    "activityRatings": {
+        "1": 1
+    },
     "activities": {
         "NT Imagination Collector 1": {
             "LootMatrixIndex": 690,
             "CurrencyIndex": 4,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 110,

@@ -1,9 +1,13 @@
 {
     "id": 27,
+    "activityRatings": {
+        "d": 1
+    },
     "activities": {
         "NS Quickbuilds - Keyboard": {
             "LootMatrixIndex": 196,
             "CurrencyIndex": 1,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 3,

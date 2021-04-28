@@ -1,9 +1,13 @@
 {
     "id": 11227,
+    "activityRatings": {
+        "t": -1
+    },
     "activities": {
         "Loot Table Tester Object": {
             "LootMatrixIndex": 314,
             "CurrencyIndex": 31,
+            "activityRating": -1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 197,

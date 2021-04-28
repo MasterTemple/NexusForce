@@ -1,9 +1,13 @@
 {
     "id": 45,
+    "activityRatings": {
+        "s": 1
+    },
     "activities": {
         "VE Quickbuilds": {
             "LootMatrixIndex": 307,
             "CurrencyIndex": 1,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 32,

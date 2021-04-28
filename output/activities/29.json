@@ -1,9 +1,13 @@
 {
     "id": 29,
+    "activityRatings": {
+        "h": 1
+    },
     "activities": {
         "GF Quickbuilds - Pirate Arch": {
             "LootMatrixIndex": 196,
             "CurrencyIndex": 1,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 3,

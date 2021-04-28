@@ -1,9 +1,13 @@
 {
     "id": 30,
+    "activityRatings": {
+        "k": 1
+    },
     "activities": {
         "NS Quickbuilds - Duck": {
             "LootMatrixIndex": 196,
             "CurrencyIndex": 1,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 3,

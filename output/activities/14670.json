@@ -1,9 +1,13 @@
 {
     "id": 14670,
+    "activityRatings": {
+        "t": 1
+    },
     "activities": {
         "AG Mech QB non turret": {
             "LootMatrixIndex": 196,
             "CurrencyIndex": 1,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 3,

@@ -1,9 +1,13 @@
 {
     "id": 58,
+    "activityRatings": {
+        "r": 4
+    },
     "activities": {
         "Frakjaw 1 Player": {
             "LootMatrixIndex": 765,
             "CurrencyIndex": 126,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 88,
@@ -452,6 +456,7 @@
         "Frakjaw 2 Player": {
             "LootMatrixIndex": 875,
             "CurrencyIndex": 125,
+            "activityRating": 2,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 88,
@@ -900,6 +905,7 @@
         "Frakjaw 3 Player": {
             "LootMatrixIndex": 876,
             "CurrencyIndex": 124,
+            "activityRating": 3,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 88,
@@ -1383,6 +1389,7 @@
         "Frakjaw 4 Player": {
             "LootMatrixIndex": 877,
             "CurrencyIndex": 123,
+            "activityRating": 4,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 88,

@@ -1,9 +1,13 @@
 {
     "id": 44,
+    "activityRatings": {
+        "e": -1
+    },
     "activities": {
         "Foot Race": {
             "LootMatrixIndex": 598,
             "CurrencyIndex": 1,
+            "activityRating": -1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 110,

@@ -1,9 +1,13 @@
 {
     "id": 42,
+    "activityRatings": {
+        "s": 22
+    },
     "activities": {
         "NS Racetrack 1st Place - 6 players": {
             "LootMatrixIndex": 629,
             "CurrencyIndex": 58,
+            "activityRating": 61,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 188,
@@ -80,6 +84,7 @@
         "NS Racetrack 2nd Place - 6 players": {
             "LootMatrixIndex": 630,
             "CurrencyIndex": 59,
+            "activityRating": 62,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 670,
@@ -121,6 +126,7 @@
         "NS Racetrack 3rd Place - 6 players": {
             "LootMatrixIndex": 631,
             "CurrencyIndex": 60,
+            "activityRating": 63,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 670,
@@ -162,6 +168,7 @@
         "NS Racetrack 4th Place - 6 players": {
             "LootMatrixIndex": 633,
             "CurrencyIndex": 61,
+            "activityRating": 64,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 670,
@@ -203,6 +210,7 @@
         "NS Racetrack 5th Place - 6 players": {
             "LootMatrixIndex": 634,
             "CurrencyIndex": 62,
+            "activityRating": 65,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 670,
@@ -244,6 +252,7 @@
         "NS Racetrack 6th Place - 6 players": {
             "LootMatrixIndex": 635,
             "CurrencyIndex": 63,
+            "activityRating": 66,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 670,
@@ -285,6 +294,7 @@
         "NS Racetrack 1st Place - 5 players": {
             "LootMatrixIndex": 629,
             "CurrencyIndex": 58,
+            "activityRating": 51,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 188,
@@ -361,6 +371,7 @@
         "NS Racetrack 2nd Place - 5 players": {
             "LootMatrixIndex": 630,
             "CurrencyIndex": 59,
+            "activityRating": 52,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 670,
@@ -402,6 +413,7 @@
         "NS Racetrack 3rd Place - 5 players": {
             "LootMatrixIndex": 631,
             "CurrencyIndex": 60,
+            "activityRating": 53,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 670,
@@ -443,6 +455,7 @@
         "NS Racetrack 4th Place - 5 players": {
             "LootMatrixIndex": 633,
             "CurrencyIndex": 61,
+            "activityRating": 54,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 670,
@@ -484,6 +497,7 @@
         "NS Racetrack 5th Place - 5 players": {
             "LootMatrixIndex": 634,
             "CurrencyIndex": 62,
+            "activityRating": 55,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 670,
@@ -525,6 +539,7 @@
         "NS Racetrack 1st Place - 4 players": {
             "LootMatrixIndex": 629,
             "CurrencyIndex": 58,
+            "activityRating": 41,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 188,
@@ -601,6 +616,7 @@
         "NS Racetrack 2nd Place - 4 players": {
             "LootMatrixIndex": 630,
             "CurrencyIndex": 59,
+            "activityRating": 42,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 670,
@@ -642,6 +658,7 @@
         "NS Racetrack 3rd Place - 4 players": {
             "LootMatrixIndex": 631,
             "CurrencyIndex": 60,
+            "activityRating": 43,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 670,
@@ -683,6 +700,7 @@
         "NS Racetrack 4th Place - 4 players": {
             "LootMatrixIndex": 633,
             "CurrencyIndex": 61,
+            "activityRating": 44,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 670,
@@ -724,6 +742,7 @@
         "NS Racetrack 1st Place - 3 players": {
             "LootMatrixIndex": 637,
             "CurrencyIndex": 64,
+            "activityRating": 31,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 188,
@@ -800,6 +819,7 @@
         "NS Racetrack 2nd Place - 3 players": {
             "LootMatrixIndex": 638,
             "CurrencyIndex": 65,
+            "activityRating": 32,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 670,
@@ -841,6 +861,7 @@
         "NS Racetrack 3rd Place - 3 players": {
             "LootMatrixIndex": 639,
             "CurrencyIndex": 66,
+            "activityRating": 33,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 670,
@@ -882,6 +903,7 @@
         "NS Racetrack 1st Place - 2 players": {
             "LootMatrixIndex": 640,
             "CurrencyIndex": 67,
+            "activityRating": 21,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 670,
@@ -923,6 +945,7 @@
         "NS Racetrack 2nd Place - 2 players": {
             "LootMatrixIndex": 641,
             "CurrencyIndex": 68,
+            "activityRating": 22,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 670,

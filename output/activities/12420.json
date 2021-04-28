@@ -1,9 +1,13 @@
 {
     "id": 12420,
+    "activityRatings": {
+        "e": 1
+    },
     "activities": {
         "NT - Parrot Collectable": {
             "LootMatrixIndex": 690,
             "CurrencyIndex": 4,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 110,

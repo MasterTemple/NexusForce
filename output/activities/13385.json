@@ -1,9 +1,13 @@
 {
     "id": 13385,
+    "activityRatings": {
+        "r": 4
+    },
     "activities": {
         "AM Dragon Invader - 1 Player": {
             "LootMatrixIndex": 512,
             "CurrencyIndex": 52,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 415,
@@ -554,6 +558,7 @@
         "AM Dragon Invader - 2 Player": {
             "LootMatrixIndex": 677,
             "CurrencyIndex": 52,
+            "activityRating": 2,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 88,
@@ -1104,6 +1109,7 @@
         "AM Dragon Invader - 3 Player": {
             "LootMatrixIndex": 678,
             "CurrencyIndex": 52,
+            "activityRating": 3,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 88,
@@ -1654,6 +1660,7 @@
         "AM Dragon Invader - 4 Player": {
             "LootMatrixIndex": 679,
             "CurrencyIndex": 52,
+            "activityRating": 4,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 88,

@@ -1,9 +1,13 @@
 {
     "id": 114,
+    "activityRatings": {
+        "4": 1
+    },
     "activities": {
         "AG Quickbuilds - Sentinel Beacon 4": {
             "LootMatrixIndex": 196,
             "CurrencyIndex": 1,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 3,

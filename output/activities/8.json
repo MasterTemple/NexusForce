@@ -1,9 +1,13 @@
 {
     "id": 8,
+    "activityRatings": {
+        "s": 1
+    },
     "activities": {
         "GF Quickbuilds": {
             "LootMatrixIndex": 196,
             "CurrencyIndex": 1,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 3,

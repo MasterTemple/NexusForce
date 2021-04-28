@@ -1,14 +1,21 @@
 {
     "id": 5,
+    "activityRatings": {
+        "t": -1,
+        "e": 60,
+        "s": 660
+    },
     "activities": {
         "AG Survival Instance Default": {
             "LootMatrixIndex": 209,
             "CurrencyIndex": 57,
+            "activityRating": -1,
             "LootTableIndexes": []
         },
         "AG Survival Instance 1 minute": {
             "LootMatrixIndex": 210,
             "CurrencyIndex": 39,
+            "activityRating": 60,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 670,
@@ -50,6 +57,7 @@
         "AG Survival Instance 2 minutes": {
             "LootMatrixIndex": 211,
             "CurrencyIndex": 40,
+            "activityRating": 120,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 670,
@@ -91,6 +99,7 @@
         "AG Survival Instance 3 minutes": {
             "LootMatrixIndex": 212,
             "CurrencyIndex": 41,
+            "activityRating": 180,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 670,
@@ -132,6 +141,7 @@
         "AG Survival Instance 4 minutes": {
             "LootMatrixIndex": 213,
             "CurrencyIndex": 42,
+            "activityRating": 240,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 670,
@@ -173,6 +183,7 @@
         "AG Survival Instance 5 minutes": {
             "LootMatrixIndex": 214,
             "CurrencyIndex": 43,
+            "activityRating": 300,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 670,
@@ -214,6 +225,7 @@
         "AG Survival Instance 6 minutes": {
             "LootMatrixIndex": 413,
             "CurrencyIndex": 44,
+            "activityRating": 360,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 670,
@@ -255,6 +267,7 @@
         "AG Survival Instance 7 minutes": {
             "LootMatrixIndex": 449,
             "CurrencyIndex": 45,
+            "activityRating": 420,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 670,
@@ -296,6 +309,7 @@
         "AG Survival Instance 8 minutes": {
             "LootMatrixIndex": 455,
             "CurrencyIndex": 46,
+            "activityRating": 480,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 670,
@@ -337,6 +351,7 @@
         "AG Survival Instance 9 minutes": {
             "LootMatrixIndex": 456,
             "CurrencyIndex": 47,
+            "activityRating": 540,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 670,
@@ -378,6 +393,7 @@
         "AG Survival Instance 10 minutes": {
             "LootMatrixIndex": 457,
             "CurrencyIndex": 48,
+            "activityRating": 600,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 670,
@@ -419,6 +435,7 @@
         "AG Survival Instance 11 minutes": {
             "LootMatrixIndex": 458,
             "CurrencyIndex": 49,
+            "activityRating": 660,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 670,

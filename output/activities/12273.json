@@ -1,9 +1,13 @@
 {
     "id": 12273,
+    "activityRatings": {
+        "m": 1
+    },
     "activities": {
         "AM sentinel moving platform": {
             "LootMatrixIndex": 499,
             "CurrencyIndex": 52,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 415,

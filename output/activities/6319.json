@@ -1,9 +1,13 @@
 {
     "id": 6319,
+    "activityRatings": {
+        "l": 1
+    },
     "activities": {
         "AG Quickbuilds - Rebuildable Wall": {
             "LootMatrixIndex": 196,
             "CurrencyIndex": 1,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 3,

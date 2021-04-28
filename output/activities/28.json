@@ -1,9 +1,13 @@
 {
     "id": 28,
+    "activityRatings": {
+        "s": 1
+    },
     "activities": {
         "NS Quickbuilds - Drums": {
             "LootMatrixIndex": 196,
             "CurrencyIndex": 1,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 3,

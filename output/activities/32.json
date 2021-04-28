@@ -1,9 +1,13 @@
 {
     "id": 32,
+    "activityRatings": {
+        "n": 1
+    },
     "activities": {
         "GF Quickbuilds - Siren": {
             "LootMatrixIndex": 196,
             "CurrencyIndex": 1,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 3,

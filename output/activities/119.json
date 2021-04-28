@@ -1,9 +1,13 @@
 {
     "id": 119,
+    "activityRatings": {
+        "s": 1
+    },
     "activities": {
         "NJ Earth QBs": {
             "LootMatrixIndex": 754,
             "CurrencyIndex": 1,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 110,

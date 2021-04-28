@@ -1,9 +1,13 @@
 {
     "id": 47,
+    "activityRatings": {
+        "2": -1
+    },
     "activities": {
         "FV Foot Race 2": {
             "LootMatrixIndex": 598,
             "CurrencyIndex": 1,
+            "activityRating": -1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 110,

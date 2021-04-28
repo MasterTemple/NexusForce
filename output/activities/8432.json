@@ -1,9 +1,13 @@
 {
     "id": 8432,
+    "activityRatings": {
+        "t": 1
+    },
     "activities": {
         "AG Quickbuilds - Sentinel Turret": {
             "LootMatrixIndex": 196,
             "CurrencyIndex": 1,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 3,

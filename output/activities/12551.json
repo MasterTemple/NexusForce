@@ -1,9 +1,13 @@
 {
     "id": 12551,
+    "activityRatings": {
+        "s": -1
+    },
     "activities": {
         "Venture Explore Consoles": {
             "LootMatrixIndex": 611,
             "CurrencyIndex": 12,
+            "activityRating": -1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 416,

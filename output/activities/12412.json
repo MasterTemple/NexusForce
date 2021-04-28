@@ -1,9 +1,13 @@
 {
     "id": 12412,
+    "activityRatings": {
+        "2": 1
+    },
     "activities": {
         "NT Pipe Rebuild 2": {
             "LootMatrixIndex": 690,
             "CurrencyIndex": 4,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 110,

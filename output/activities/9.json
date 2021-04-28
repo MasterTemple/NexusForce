@@ -1,9 +1,13 @@
 {
     "id": 9,
+    "activityRatings": {
+        "s": 1
+    },
     "activities": {
         "FV Quickbuilds": {
             "LootMatrixIndex": 196,
             "CurrencyIndex": 1,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 3,

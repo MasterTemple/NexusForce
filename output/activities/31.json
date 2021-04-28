@@ -1,9 +1,13 @@
 {
     "id": 31,
+    "activityRatings": {
+        "s": 1
+    },
     "activities": {
         "Test Spider Cave quickbuilds": {
             "LootMatrixIndex": 196,
             "CurrencyIndex": 1,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 3,

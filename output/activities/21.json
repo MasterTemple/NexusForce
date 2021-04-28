@@ -1,9 +1,13 @@
 {
     "id": 21,
+    "activityRatings": {
+        "l": 1
+    },
     "activities": {
         "AG Quickbuilds - AG wall": {
             "LootMatrixIndex": 196,
             "CurrencyIndex": 1,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 3,

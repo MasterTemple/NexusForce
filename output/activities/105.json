@@ -1,9 +1,13 @@
 {
     "id": 105,
+    "activityRatings": {
+        "B": 1
+    },
     "activities": {
         "Winter 2010 QB": {
             "LootMatrixIndex": 506,
             "CurrencyIndex": 51,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 415,

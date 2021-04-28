@@ -1,9 +1,13 @@
 {
     "id": 109,
+    "activityRatings": {
+        "r": -1
+    },
     "activities": {
         "Winter Watered Flower": {
             "LootMatrixIndex": 438,
             "CurrencyIndex": 12,
+            "activityRating": -1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 670,

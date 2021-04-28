@@ -1,9 +1,13 @@
 {
     "id": 13386,
+    "activityRatings": {
+        "r": 4
+    },
     "activities": {
         "AM Dragon Named - 1 Player": {
             "LootMatrixIndex": 521,
             "CurrencyIndex": 52,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 443,
@@ -554,6 +558,7 @@
         "AM Dragon Named - 2 Player": {
             "LootMatrixIndex": 680,
             "CurrencyIndex": 52,
+            "activityRating": 2,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 88,
@@ -1251,6 +1256,7 @@
         "AM Dragon Named - 3 Player": {
             "LootMatrixIndex": 681,
             "CurrencyIndex": 52,
+            "activityRating": 3,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 88,
@@ -1948,6 +1954,7 @@
         "AM Dragon Named - 4 Player": {
             "LootMatrixIndex": 682,
             "CurrencyIndex": 52,
+            "activityRating": 4,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 88,

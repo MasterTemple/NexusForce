@@ -27,7 +27,7 @@ module.exports = {
         }else{
             var kitID = args[0]
         }
-        const { uIcon, luExplorerURL, resURL, unknownImageURL, invisChar} = require('./../config.json')
+        const { uIcon, luExplorerURL, resURL, unknownImageURL, invisChar, emojis} = require('./../config.json')
 
         var kitFile = require(`./../output/kitData/${kitID}.json`)
 

@@ -1,9 +1,13 @@
 {
     "id": 12279,
+    "activityRatings": {
+        "m": 1
+    },
     "activities": {
         "AM sentinel large platfrom": {
             "LootMatrixIndex": 499,
             "CurrencyIndex": 52,
+            "activityRating": 1,
             "LootTableIndexes": [
                 {
                     "LootTableIndex": 415,
