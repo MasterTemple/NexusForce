@@ -26,6 +26,9 @@ module.exports = {
         // }else{
         //     var itemID = args[0]
         // }
+        let msgEmbed = require(`./../functions/embedTemplate.js`)
+        const { uIcon, luExplorerURL, resURL, unknownImageURL} = require('./../config.json')
+
         let findOneItem = require(`./../functions/findOneItem.js`)
         let findOneEnemy = require(`./../functions/findOneEnemy.js`)
         let findOneActivity = require(`./../functions/findOneActivity.js`)
@@ -34,6 +37,7 @@ module.exports = {
         const params = message.content.slice(10).trim().toLowerCase().split(" from "); //each space is a new argument
         //const commandName = params.shift().toLowerCase();
         // message.channel.send(params)
+
         try{
 
             try{
@@ -44,8 +48,19 @@ module.exports = {
                 }else {
                     var itemID = findOneItem.execute(paramName)
                 }
+                var item = require(`./../output/objects/${Math.floor(itemID/256)}/${itemID}.json`);
+
             }catch{
                 message.channel.send('Item not found')
+            }
+            if(item.buyAndDrop.LootTableIndexes.length === 0){
+                let img = `${resURL}${item.iconURL}`
+
+                var embed = msgEmbed.execute(`${item.itemInfo.displayName} [${item.objectID}]`, undefined,`${luExplorerURL}objects/${item.objectID}`, img)
+
+                embed.addField(`This Item Is Not Dropped`, "Try **!earn** or **!buy** to see how to unlock this item!", false)
+                message.channel.send(embed)
+                return
             }
             // message.channel.send(itemID)
             try{
@@ -88,7 +103,7 @@ module.exports = {
         }
         //console.log(itemID, enemyID)
         //message.channel.send(itemID, enemyID)
-        var item = require(`./../output/objects/${Math.floor(itemID/256)}/${itemID}.json`);
+
         // console.log(enemyID)
         // console.log(activityID)
         // if(enemyID) {
@@ -108,15 +123,12 @@ module.exports = {
             }
         }
 
-        const { uIcon, luExplorerURL, resURL, unknownImageURL} = require('./../config.json')
         // for(let key=0;key<Object.keys(item.buyAndDrop.LootMatrixIndexes);key++){
         //
         // }
-        let msgEmbed = require(`./../functions/embedTemplate.js`)
         if(item.itemComponent.levelRequirement === undefined){
             item.levelRequirement = 0
         }
-        let img = `${resURL}${item.iconURL}`
         // if(item.iconURL !== "uIcon" || item.iconUFL !== "unknown" && item.iconURL.includes('http') === false){
         //     img = `${resURL}${item.iconURL}`
         // }else if(item.iconURL.includes('http')){
@@ -128,7 +140,8 @@ module.exports = {
         // }
         //console.log(img)
 
-        let embed = msgEmbed.execute(`${item.itemInfo.displayName} [${item.objectID}]`, undefined,`${luExplorerURL}objects/${item.objectID}`, img)
+
+
         //Object.keys(item['buyAndDrop']['LootMatrixIndexes'][LMI]['DestructibleComponent'])[0]
         try {
             var name = item['buyAndDrop']['LootMatrixIndexes'][LMI]['DestructibleComponent'][Object.keys(item['buyAndDrop']['LootMatrixIndexes'][LMI]['DestructibleComponent'])[0]]['enemyNames']['displayName']
@@ -137,7 +150,9 @@ module.exports = {
                 try{
                     var name = enemyFile.itemInfo.displayName
                 }catch{
+
                     var name = activityName
+
                 }
                 //var name = activityName
             }catch {
@@ -146,7 +161,14 @@ module.exports = {
                 return
             }
         }
-        let total_chance = item['buyAndDrop']['LootMatrixIndexes'][LMI]['overallChance']['howManyToKill']
+
+        try {
+            var total_chance = item['buyAndDrop']['LootMatrixIndexes'][LMI]['overallChance']['howManyToKill']
+        }catch{
+            embed.addField(`This Item Is Not Dropped By '${params[1]}'`, "Try **!drop** to see what drops this item!", false)
+            message.channel.send(embed)
+            return
+        }
         let not_rolled = true
         let roll = 0
         function getRndInteger(min, max) {
