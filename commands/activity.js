@@ -132,7 +132,7 @@ module.exports = {
                 description = `${description}__(Specific)__ `
                 for (let i = 0; i < arr.length; i++) {
                     if(displayFractions) {
-                        description = `${description}**T${arr[i]}:** 1 in ${activityFile.LootTableIndexes[p].rarityTableInfo[arr[i]].howManyToKillForSpecific} `
+                        description = `${description}**T${arr[i]}:** 1 in ${Math.round(activityFile.LootTableIndexes[p].rarityTableInfo[arr[i]].howManyToKillForSpecific)} `
                     }else{
                         description = `${description}**T${arr[i]}:** ${(activityFile.LootTableIndexes[p].rarityTableInfo[arr[i]].weightedChanceForSpecificItemIncludingDrop * 100).toFixed(4)}% `
                     }
@@ -141,7 +141,7 @@ module.exports = {
 
                 for (let i = 0; i < arr.length; i++) {
                     if(displayFractions) {
-                        description = `${description}**T${arr[i]}:** 1 in ${activityFile.LootTableIndexes[p].rarityTableInfo[arr[i]].howManyToKillForAny} `
+                        description = `${description}**T${arr[i]}:** 1 in ${Math.round(activityFile.LootTableIndexes[p].rarityTableInfo[arr[i]].howManyToKillForAny)} `
                     }else{
                         description = `${description}**T${arr[i]}:** ${(activityFile.LootTableIndexes[p].rarityTableInfo[arr[i]].weightedChanceForAnyItemIncludingDrop * 100).toFixed(4)}% `
                     }
