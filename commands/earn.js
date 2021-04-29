@@ -38,7 +38,7 @@ module.exports = {
         }
         let earnLen = Object.keys(earnFile.earn).length
 
-        let img = `${resURL}${item.iconURL}`
+        let img = `${resURL}${earnFile.iconURL}`
 
         if(earnLen < 2){
             var description = `You can earn this item **${earnLen}** times`

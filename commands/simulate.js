@@ -28,6 +28,8 @@ module.exports = {
         // }
         let findOneItem = require(`./../functions/findOneItem.js`)
         let findOneEnemy = require(`./../functions/findOneEnemy.js`)
+        let findOneActivity = require(`./../functions/findOneActivity.js`)
+        let findOnePackage = require(`./../functions/findOnePackage.js`)
 
         const params = message.content.slice(10).trim().toLowerCase().split(" from "); //each space is a new argument
         //const commandName = params.shift().toLowerCase();
@@ -50,8 +52,31 @@ module.exports = {
                 let paramName = params[1].split(/ +/)
                 if(paramName.length === 1 && isNaN(paramName[0]) === false){
                     var enemyID = paramName[0]
+                    try {
+                        var enemyFile = require(`./../output/enemies/${enemyID}.json`)
+                    }catch{
+                        var enemyFile = require(`./../output/activities/${enemyID}.json`)
+                    }
+
                 }else {
-                    var enemyID = findOneEnemy.execute(paramName)
+                    try {
+                        var enemyID = findOneEnemy.execute(paramName)
+                        var enemyFile = require(`./../output/enemies/${enemyID}.json`)
+
+                    }catch{
+
+                        try{
+                            var enemyID = findOnePackage.execute(paramName)
+                            var enemyFile = require(`./../output/packages/${enemyID}.json`)
+
+                        }catch{
+                            var enemyIDArray = findOneActivity.execute(paramName)
+                            var enemyID = enemyIDArray[0]
+                            var activityName = enemyIDArray[1]
+                            var enemyFile = require(`./../output/activities/${enemyID}.json`)
+                        }
+
+                    }
                 }
             }catch{
                 message.channel.send('Enemy not found')
@@ -64,8 +89,24 @@ module.exports = {
         //console.log(itemID, enemyID)
         //message.channel.send(itemID, enemyID)
         var item = require(`./../output/objects/${Math.floor(itemID/256)}/${itemID}.json`);
-        var enemyFile = require(`./../output/enemies/${enemyID}.json`)
-        const LMI = enemyFile.drop.LootMatrixIndex
+        // console.log(enemyID)
+        // console.log(activityID)
+        // if(enemyID) {
+        //     var enemyFile = require(`./../output/enemies/${enemyID}.json`)
+        // }
+        // if(activityID){
+        //     var enemyFile = require(`./../output/activities/${objectID}.json`)
+        // }
+        //console.log(activityID)
+        try {
+            var LMI = enemyFile.drop.LootMatrixIndex
+        }catch{
+            try{
+                var LMI = enemyFile.LootMatrixIndex
+            }catch {
+                var LMI = enemyFile.activities[activityName].LootMatrixIndex
+            }
+        }
 
         const { uIcon, luExplorerURL, resURL, unknownImageURL} = require('./../config.json')
         // for(let key=0;key<Object.keys(item.buyAndDrop.LootMatrixIndexes);key++){
@@ -92,9 +133,18 @@ module.exports = {
         try {
             var name = item['buyAndDrop']['LootMatrixIndexes'][LMI]['DestructibleComponent'][Object.keys(item['buyAndDrop']['LootMatrixIndexes'][LMI]['DestructibleComponent'])[0]]['enemyNames']['displayName']
         }catch{
-            embed.addField(`This Item Is Not Dropped`, "Try **!earn** or **!buy** to see how to unlock this item!", false)
-            message.channel.send(embed)
-            return
+            try{
+                try{
+                    var name = enemyFile.itemInfo.displayName
+                }catch{
+                    var name = activityName
+                }
+                //var name = activityName
+            }catch {
+                embed.addField(`This Item Is Not Dropped`, "Try **!earn** or **!buy** to see how to unlock this item!", false)
+                message.channel.send(embed)
+                return
+            }
         }
         let total_chance = item['buyAndDrop']['LootMatrixIndexes'][LMI]['overallChance']['howManyToKill']
         let not_rolled = true

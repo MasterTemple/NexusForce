@@ -30,6 +30,8 @@ module.exports = {
         const item = require(`./../output/objects/${Math.floor(itemID/256)}/${itemID}.json`);
         const { uIcon, luExplorerURL, resURL, unknownImageURL} = require('./../config.json')
 
+        let img = `${resURL}${item.iconURL}`
+
         if(item?.itemInfo?.name == undefined){
             item.itemInfo.name = "None"
         }
@@ -55,12 +57,15 @@ module.exports = {
         let msgEmbed = require(`./../functions/embedTemplate.js`)
 
         var description = `**Preconditions:**`
+        try {
+            Object.keys(item?.itemComponent?.preconditionDescriptions).forEach(function (element, key) {
+                description = `${description}\n**${key + 1}. **${item.itemComponent.preconditionDescriptions[element]}`
+            })
+        }catch{
+            description = `${description}\nThis item has no preconditions.`
+        }
 
-        Object.keys(item.itemComponent.preconditionDescriptions).forEach(function(element, key){
-            description = `${description}\n**${key+1}. **${item.itemComponent.preconditionDescriptions[element]}`
-        })
-
-        let embed = msgEmbed.execute(`${item.itemInfo.displayName} [${item.objectID}]`, description, `${luExplorerURL}objects/${itemID}`, item.iconURL)
+        let embed = msgEmbed.execute(`${item.itemInfo.displayName} [${item.objectID}]`, description, `${luExplorerURL}objects/${itemID}`, img)
 
         try {
             if(args[1] !== 'dm') {

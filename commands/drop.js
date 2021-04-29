@@ -38,7 +38,7 @@ module.exports = {
         if(dropFile.itemComponent.levelRequirement === undefined){
             dropFile.levelRequirement = 0
         }
-        let img = `${resURL}${item.iconURL}`
+        let img = `${resURL}${dropFile.iconURL}`
 
         //console.log(img)
 
