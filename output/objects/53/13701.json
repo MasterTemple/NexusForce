@@ -46,7 +46,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_zoo_aviary_wall_endcap.png",
+    "iconURL": "textures/ui/inventory/models/rew_zoo_aviary_wall_endcap.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             669

@@ -86,7 +86,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/hands/kiteshield_2ndplace.png",
+    "iconURL": "textures/nexustower/ui/inventory/hands/kiteshield_2ndplace.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

@@ -123,7 +123,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m2544_26.png",
+    "iconURL": "textures/ui/inventory/hats/m2544_26.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             21

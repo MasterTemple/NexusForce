@@ -118,7 +118,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/icons/cat-fish.png",
+    "iconURL": "textures/freetrial/ui/inventory/icons/cat-fish.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             695

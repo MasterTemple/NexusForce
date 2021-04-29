@@ -83,7 +83,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/flannelshirt.png",
+    "iconURL": "textures/ui/inventory/torsos/flannelshirt.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             447

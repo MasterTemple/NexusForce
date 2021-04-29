@@ -177,7 +177,7 @@
             }
         }
     },
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/faction%20kits/fackit_spacemaraudevaliant_master.png",
+    "iconURL": "textures/auramar/ui/inventory/faction%20kits/fackit_spacemaraudevaliant_master.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             605,

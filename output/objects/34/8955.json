@@ -2,7 +2,7 @@
     "objectID": 8955,
     "itemInfo": {
         "name": "m32009",
-        "displayName": "Technic Angular Beam 3x7 45°/90° ",
+        "displayName": "Technic Angular Beam 3x7 45Â°/90Â° ",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m32009.png",
+    "iconURL": "textures/ui/bricks/dds/m32009.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             242

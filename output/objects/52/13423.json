@@ -110,7 +110,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/march2011content/ui/inventory/hands/props_peashooter2.png",
+    "iconURL": "textures/march2011content/ui/inventory/hands/props_peashooter2.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

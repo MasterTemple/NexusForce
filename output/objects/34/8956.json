@@ -2,7 +2,7 @@
     "objectID": 8956,
     "itemInfo": {
         "name": "m32013",
-        "displayName": "Technic Angle Connector 0°",
+        "displayName": "Technic Angle Connector 0Â°",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m32013.png",
+    "iconURL": "textures/ui/bricks/dds/m32013.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             242

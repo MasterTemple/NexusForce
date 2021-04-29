@@ -2,7 +2,7 @@
     "objectID": 16379,
     "itemInfo": {
         "name": "m47576",
-        "displayName": "Puck Ø16 x 2/3",
+        "displayName": "Puck Ã˜16 x 2/3",
         "type": "LEGO brick",
         "description": "",
         "internalNotes": ""
@@ -45,7 +45,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m47576.png",
+    "iconURL": "textures/ui/bricks/dds/m47576.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             242

@@ -46,7 +46,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_shed_wall_short_type1.png",
+    "iconURL": "textures/ui/inventory/models/rew_shed_wall_short_type1.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             550,

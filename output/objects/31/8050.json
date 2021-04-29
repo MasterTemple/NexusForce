@@ -46,7 +46,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/smash_won_gnar_ninja_medium.png",
+    "iconURL": "textures/ui/inventory/models/smash_won_gnar_ninja_medium.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             278,

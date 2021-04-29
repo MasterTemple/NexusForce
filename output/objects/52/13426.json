@@ -74,7 +74,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/march2011content/ui/inventory/misc/obj_anchor.png",
+    "iconURL": "textures/march2011content/ui/inventory/misc/obj_anchor.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             103

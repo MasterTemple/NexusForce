@@ -2,7 +2,7 @@
     "objectID": 16408,
     "itemInfo": {
         "name": "m87408",
-        "displayName": "Beam 3M Ø4.85 with Fork",
+        "displayName": "Beam 3M Ã˜4.85 with Fork",
         "type": "LEGO brick",
         "description": "",
         "internalNotes": ""
@@ -45,7 +45,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m87408.png",
+    "iconURL": "textures/ui/bricks/dds/m87408.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             242

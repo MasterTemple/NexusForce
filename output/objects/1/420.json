@@ -2,7 +2,7 @@
     "objectID": 420,
     "itemInfo": {
         "name": "m4854",
-        "displayName": "Slope Brick 45° 4x4 Inverted Double with Cut-Out",
+        "displayName": "Slope Brick 45Â° 4x4 Inverted Double with Cut-Out",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m4854.png",
+    "iconURL": "textures/ui/bricks/dds/m4854.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

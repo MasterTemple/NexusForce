@@ -2,7 +2,7 @@
     "objectID": 16422,
     "itemInfo": {
         "name": "m89650",
-        "displayName": "Ball Cup Double Ø10.2, 5M",
+        "displayName": "Ball Cup Double Ã˜10.2, 5M",
         "type": "LEGO brick",
         "description": "",
         "internalNotes": ""
@@ -45,7 +45,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m89650.png",
+    "iconURL": "textures/ui/bricks/dds/m89650.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             242

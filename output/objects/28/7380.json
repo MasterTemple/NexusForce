@@ -94,7 +94,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/legs/faction/knight_02.png",
+    "iconURL": "textures/ui/inventory/legs/faction/knight_02.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             178,

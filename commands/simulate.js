@@ -75,16 +75,16 @@ module.exports = {
         if(item.itemComponent.levelRequirement === undefined){
             item.levelRequirement = 0
         }
-        let img
-        if(item.iconURL !== "uIcon" || item.iconUFL !== "unknown" && item.iconURL.includes('http') === false){
-            img = `${resURL}${item.iconURL}`
-        }else if(item.iconURL.includes('http')){
-            img = item.iconURL
-        }else if(item.iconURL === "unknown"){
-            img = unknownImageURL
-        }else{
-            img = uIcon
-        }
+        let img = `${resURL}${item.iconURL}`
+        // if(item.iconURL !== "uIcon" || item.iconUFL !== "unknown" && item.iconURL.includes('http') === false){
+        //     img = `${resURL}${item.iconURL}`
+        // }else if(item.iconURL.includes('http')){
+        //     img = item.iconURL
+        // }else if(item.iconURL === "unknown"){
+        //     img = unknownImageURL
+        // }else{
+        //     img = uIcon
+        // }
         //console.log(img)
 
         let embed = msgEmbed.execute(`${item.itemInfo.displayName} [${item.objectID}]`, undefined,`${luExplorerURL}objects/${item.objectID}`, img)

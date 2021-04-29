@@ -101,7 +101,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/factionkits/adventurer3_whip.png",
+    "iconURL": "textures/freetrial/ui/inventory/factionkits/adventurer3_whip.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             626

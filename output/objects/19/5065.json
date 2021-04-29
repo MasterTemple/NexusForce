@@ -2,7 +2,7 @@
     "objectID": 5065,
     "itemInfo": {
         "name": "m2696",
-        "displayName": "Tire Ø43.2",
+        "displayName": "Tire Ã˜43.2",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m2696.png",
+    "iconURL": "textures/ui/bricks/dds/m2696.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

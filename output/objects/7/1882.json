@@ -44,7 +44,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/tgas/minifig_accessory_torch_m23306.tga",
+    "iconURL": "textures/ui/inventory/tgas/minifig_accessory_torch_m23306.tga",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

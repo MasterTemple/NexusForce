@@ -2,7 +2,7 @@
     "objectID": 8961,
     "itemInfo": {
         "name": "m32056",
-        "displayName": "Technic Angular Half-beam 90° 3x3",
+        "displayName": "Technic Angular Half-beam 90Â° 3x3",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m32056.png",
+    "iconURL": "textures/ui/bricks/dds/m32056.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             242

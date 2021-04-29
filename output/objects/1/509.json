@@ -2,7 +2,7 @@
     "objectID": 509,
     "itemInfo": {
         "name": "m30028",
-        "displayName": "Tire Ø14.4 Smooth, Wide",
+        "displayName": "Tire Ã˜14.4 Smooth, Wide",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30028.png",
+    "iconURL": "textures/ui/bricks/dds/m30028.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

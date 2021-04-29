@@ -70,7 +70,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/acc_bag_of_glitter.png",
+    "iconURL": "textures/ui/inventory/hands/acc_bag_of_glitter.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             29,

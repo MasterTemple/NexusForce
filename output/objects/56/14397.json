@@ -42,7 +42,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/icons/ninjago_package.png",
+    "iconURL": "textures/freetrial/ui/inventory/icons/ninjago_package.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

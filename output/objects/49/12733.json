@@ -171,7 +171,7 @@
             }
         }
     },
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/hands/heavystaff.png",
+    "iconURL": "textures/nexustower/ui/inventory/hands/heavystaff.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             607

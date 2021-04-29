@@ -72,7 +72,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/lup_wrm_birdbath.png",
+    "iconURL": "textures/ui/inventory/models/lup_wrm_birdbath.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

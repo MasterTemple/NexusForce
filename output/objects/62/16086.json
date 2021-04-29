@@ -103,7 +103,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/torsos/minifig_redkimono.png",
+    "iconURL": "textures/ng_ninjago/ui/inventory/torsos/minifig_redkimono.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

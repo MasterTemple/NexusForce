@@ -65,7 +65,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/achievements/smashsmall.png",
+    "iconURL": "textures/ui/achievements/smashsmall.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             121,

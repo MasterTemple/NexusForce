@@ -2,7 +2,7 @@
     "objectID": 9107,
     "itemInfo": {
         "name": "m61481",
-        "displayName": "Balloon Tire Ø43",
+        "displayName": "Balloon Tire Ã˜43",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m61481.png",
+    "iconURL": "textures/ui/bricks/dds/m61481.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

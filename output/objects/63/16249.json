@@ -48,7 +48,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/models/rew_modularcastlealtcolor_gate.png",
+    "iconURL": "textures/freetrial/ui/inventory/models/rew_modularcastlealtcolor_gate.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

@@ -2,7 +2,7 @@
     "objectID": 16428,
     "itemInfo": {
         "name": "m90616",
-        "displayName": "Beam B 6M Ball/Cup Ø10.2",
+        "displayName": "Beam B 6M Ball/Cup Ã˜10.2",
         "type": "LEGO brick",
         "description": "",
         "internalNotes": ""
@@ -45,7 +45,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m90616.png",
+    "iconURL": "textures/ui/bricks/dds/m90616.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             242

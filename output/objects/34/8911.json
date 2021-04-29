@@ -2,7 +2,7 @@
     "objectID": 8911,
     "itemInfo": {
         "name": "m6629",
-        "displayName": "Technic Angular Beam 45° 4x6",
+        "displayName": "Technic Angular Beam 45Â° 4x6",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m6629.png",
+    "iconURL": "textures/ui/bricks/dds/m6629.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             242

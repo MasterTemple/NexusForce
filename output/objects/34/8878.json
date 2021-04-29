@@ -2,7 +2,7 @@
     "objectID": 8878,
     "itemInfo": {
         "name": "m6043",
-        "displayName": "Brick 2x2x3x1/3 Octagonal with 90° Angle",
+        "displayName": "Brick 2x2x3x1/3 Octagonal with 90Â° Angle",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m6043.png",
+    "iconURL": "textures/ui/bricks/dds/m6043.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             245

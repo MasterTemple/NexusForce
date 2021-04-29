@@ -2,7 +2,7 @@
     "objectID": 5620,
     "itemInfo": {
         "name": "m85544",
-        "displayName": "V-Belt Ø24 Red",
+        "displayName": "V-Belt Ã˜24 Red",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m85544.png",
+    "iconURL": "textures/ui/bricks/dds/m85544.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             242

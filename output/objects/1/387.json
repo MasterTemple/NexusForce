@@ -2,7 +2,7 @@
     "objectID": 387,
     "itemInfo": {
         "name": "m4447",
-        "displayName": "Frame Skylight 4x4x3/45°",
+        "displayName": "Frame Skylight 4x4x3/45Â°",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m4447.png",
+    "iconURL": "textures/ui/bricks/dds/m4447.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             245

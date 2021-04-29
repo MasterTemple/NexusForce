@@ -108,7 +108,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/hands/props_lasergatlingun.png",
+    "iconURL": "textures/nexustower/ui/inventory/hands/props_lasergatlingun.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             643

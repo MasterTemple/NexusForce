@@ -44,7 +44,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/misc/bone_bucket_instructions.png",
+    "iconURL": "textures/ng_ninjago/ui/inventory/misc/bone_bucket_instructions.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             734

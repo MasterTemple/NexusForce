@@ -103,7 +103,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/legs/minifig_tanninjagilegs.png",
+    "iconURL": "textures/ng_ninjago/ui/inventory/legs/minifig_tanninjagilegs.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

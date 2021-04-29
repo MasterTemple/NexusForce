@@ -2,7 +2,7 @@
     "objectID": 593,
     "itemInfo": {
         "name": "m30505",
-        "displayName": "Corner Brick 45° 3x3",
+        "displayName": "Corner Brick 45Â° 3x3",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30505.png",
+    "iconURL": "textures/ui/bricks/dds/m30505.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             111

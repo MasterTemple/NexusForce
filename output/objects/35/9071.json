@@ -2,7 +2,7 @@
     "objectID": 9071,
     "itemInfo": {
         "name": "m57520",
-        "displayName": "Cam Wheel Ø26",
+        "displayName": "Cam Wheel Ã˜26",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m57520.png",
+    "iconURL": "textures/ui/bricks/dds/m57520.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

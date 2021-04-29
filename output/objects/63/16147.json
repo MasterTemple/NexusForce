@@ -117,7 +117,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/hands/maelstromdarksword.png",
+    "iconURL": "textures/ng_ninjago/ui/inventory/hands/maelstromdarksword.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             848

@@ -2,7 +2,7 @@
     "objectID": 5489,
     "itemInfo": {
         "name": "m58181",
-        "displayName": "Windscreen 3x6 25°",
+        "displayName": "Windscreen 3x6 25Â°",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m58181.png",
+    "iconURL": "textures/ui/bricks/dds/m58181.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             111

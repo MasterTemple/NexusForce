@@ -50,7 +50,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/faction_bag_sm.png",
+    "iconURL": "textures/ui/inventory/presents/faction_bag_sm.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

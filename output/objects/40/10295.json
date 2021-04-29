@@ -70,7 +70,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/back_neck/cat_in_bag_white.png",
+    "iconURL": "textures/ui/inventory/back_neck/cat_in_bag_white.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

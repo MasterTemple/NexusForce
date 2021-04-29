@@ -144,7 +144,7 @@
             }
         }
     },
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/hands/brownstaff.png",
+    "iconURL": "textures/ng_ninjago/ui/inventory/hands/brownstaff.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             845,

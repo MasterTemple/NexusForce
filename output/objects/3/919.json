@@ -2,7 +2,7 @@
     "objectID": 919,
     "itemInfo": {
         "name": "m3685",
-        "displayName": "Slope Brick 75° 2x2x3 Corner",
+        "displayName": "Slope Brick 75Â° 2x2x3 Corner",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3685.png",
+    "iconURL": "textures/ui/bricks/dds/m3685.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             111

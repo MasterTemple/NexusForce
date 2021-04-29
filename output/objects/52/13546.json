@@ -67,7 +67,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/legs/legs_parrotpants.png",
+    "iconURL": "textures/nexustower/ui/inventory/legs/legs_parrotpants.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

@@ -2,7 +2,7 @@
     "objectID": 16407,
     "itemInfo": {
         "name": "m87407",
-        "displayName": "Cone Wheel Z20 Ø4.85",
+        "displayName": "Cone Wheel Z20 Ã˜4.85",
         "type": "LEGO brick",
         "description": "",
         "internalNotes": ""
@@ -45,7 +45,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m87407.png",
+    "iconURL": "textures/ui/bricks/dds/m87407.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             242

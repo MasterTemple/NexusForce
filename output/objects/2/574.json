@@ -2,7 +2,7 @@
     "objectID": 574,
     "itemInfo": {
         "name": "m30363",
-        "displayName": "Slope Brick 18° 2x4",
+        "displayName": "Slope Brick 18Â° 2x4",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30363.png",
+    "iconURL": "textures/ui/bricks/dds/m30363.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             111

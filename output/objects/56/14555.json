@@ -44,7 +44,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/icons/hamster_wheel.png",
+    "iconURL": "textures/freetrial/ui/inventory/icons/hamster_wheel.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             769

@@ -86,7 +86,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/hats/dragonhelmmk3gold.png",
+    "iconURL": "textures/auramar/ui/inventory/hats/dragonhelmmk3gold.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             444

@@ -2,7 +2,7 @@
     "objectID": 16444,
     "itemInfo": {
         "name": "m92690",
-        "displayName": "Ø3.2 Shaft with Cored Knob",
+        "displayName": "Ã˜3.2 Shaft with Cored Knob",
         "type": "LEGO brick",
         "description": "",
         "internalNotes": ""
@@ -45,7 +45,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m92690.png",
+    "iconURL": "textures/ui/bricks/dds/m92690.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             243

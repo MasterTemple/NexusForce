@@ -2,7 +2,7 @@
     "objectID": 16466,
     "itemInfo": {
         "name": "m93252",
-        "displayName": "Shaft Ø3.2 with Cored Ø3.2 Hole",
+        "displayName": "Shaft Ã˜3.2 with Cored Ã˜3.2 Hole",
         "type": "LEGO brick",
         "description": "",
         "internalNotes": ""
@@ -45,7 +45,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m93252.png",
+    "iconURL": "textures/ui/bricks/dds/m93252.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             243

@@ -71,7 +71,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/consumables/yucki_yaki.png",
+    "iconURL": "textures/ng_ninjago/ui/inventory/consumables/yucki_yaki.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             759

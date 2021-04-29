@@ -182,7 +182,7 @@
             }
         }
     },
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/helms/yellow_ninja_hood_spear.png",
+    "iconURL": "textures/ng_ninjago/ui/inventory/helms/yellow_ninja_hood_spear.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             844,

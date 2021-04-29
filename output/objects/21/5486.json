@@ -2,7 +2,7 @@
     "objectID": 5486,
     "itemInfo": {
         "name": "m58090",
-        "displayName": "Racing Tire Ø30.4",
+        "displayName": "Racing Tire Ã˜30.4",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m58090.png",
+    "iconURL": "textures/ui/bricks/dds/m58090.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

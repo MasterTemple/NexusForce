@@ -2,7 +2,7 @@
     "objectID": 562,
     "itemInfo": {
         "name": "m30332",
-        "displayName": "Propeller Ø7 with 3 Blades and Pin Hole",
+        "displayName": "Propeller Ã˜7 with 3 Blades and Pin Hole",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30332.png",
+    "iconURL": "textures/ui/bricks/dds/m30332.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

@@ -65,7 +65,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/m3899_rootbeer.png",
+    "iconURL": "textures/ui/inventory/consumables/m3899_rootbeer.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             31,

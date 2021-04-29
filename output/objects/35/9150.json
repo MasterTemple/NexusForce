@@ -2,7 +2,7 @@
     "objectID": 9150,
     "itemInfo": {
         "name": "m64711",
-        "displayName": "Technic Wheel Ø62 with Spikes",
+        "displayName": "Technic Wheel Ã˜62 with Spikes",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m64711.png",
+    "iconURL": "textures/ui/bricks/dds/m64711.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

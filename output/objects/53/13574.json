@@ -74,7 +74,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/consumables/sentinel_faction_consumable_2.png",
+    "iconURL": "textures/nexustower/ui/inventory/consumables/sentinel_faction_consumable_2.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             617,

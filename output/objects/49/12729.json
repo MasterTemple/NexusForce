@@ -110,7 +110,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/hands/props_longbarrelpistol.png",
+    "iconURL": "textures/auramar/ui/inventory/hands/props_longbarrelpistol.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             443

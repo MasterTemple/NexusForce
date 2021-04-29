@@ -42,7 +42,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/misc/pq_sabercat.png",
+    "iconURL": "textures/nexustower/ui/inventory/misc/pq_sabercat.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             480

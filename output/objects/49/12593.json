@@ -88,7 +88,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_rugby.png",
+    "iconURL": "textures/ui/inventory/torsos/torso_rugby.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

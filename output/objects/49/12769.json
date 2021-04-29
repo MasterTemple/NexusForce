@@ -86,7 +86,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/hats/whiteracing_bluevisor.png",
+    "iconURL": "textures/nexustower/ui/inventory/hats/whiteracing_bluevisor.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             607

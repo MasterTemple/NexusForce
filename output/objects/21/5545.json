@@ -2,7 +2,7 @@
     "objectID": 5545,
     "itemInfo": {
         "name": "m87697",
-        "displayName": "Tire Ø21, Wide",
+        "displayName": "Tire Ã˜21, Wide",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m87697.png",
+    "iconURL": "textures/ui/bricks/dds/m87697.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

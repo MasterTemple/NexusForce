@@ -2,7 +2,7 @@
     "objectID": 5454,
     "itemInfo": {
         "name": "m55982",
-        "displayName": "Rim Ø18 Wide with Cross Axle Hole",
+        "displayName": "Rim Ã˜18 Wide with Cross Axle Hole",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m55982.png",
+    "iconURL": "textures/ui/bricks/dds/m55982.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

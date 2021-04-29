@@ -144,7 +144,7 @@
             }
         }
     },
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m43899_21.png",
+    "iconURL": "textures/ui/inventory/hands/m43899_21.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             845

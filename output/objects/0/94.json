@@ -2,7 +2,7 @@
     "objectID": 94,
     "itemInfo": {
         "name": "m30391",
-        "displayName": "Tire Ø30.4",
+        "displayName": "Tire Ã˜30.4",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30391.png",
+    "iconURL": "textures/ui/bricks/dds/m30391.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

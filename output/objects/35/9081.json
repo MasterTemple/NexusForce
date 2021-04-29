@@ -2,7 +2,7 @@
     "objectID": 9081,
     "itemInfo": {
         "name": "m57878",
-        "displayName": "Train Wheel for Metal Axle Ø16.6x23",
+        "displayName": "Train Wheel for Metal Axle Ã˜16.6x23",
         "type": "LEGO brick",
         "description": "Sub-Assembly",
         "internalNotes": "sub assembly - do not drop"
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m57878.png",
+    "iconURL": "textures/ui/bricks/dds/m57878.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

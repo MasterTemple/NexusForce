@@ -38,16 +38,8 @@ module.exports = {
         }
         let earnLen = Object.keys(earnFile.earn).length
 
-        let img
-        if(earnFile.iconURL !== "uIcon" || earnFile.iconUFL !== "unknown" && earnFile.iconURL.includes('http') === false){
-            img = `${resURL}${earnFile.iconURL}`
-        }else if(earnFile.iconURL.includes('http')){
-            img = earnFile.iconURL
-        }else if(earnFile.iconURL === "unknown"){
-            img = unknownImageURL
-        }else{
-            img = uIcon
-        }
+        let img = `${resURL}${item.iconURL}`
+
         if(earnLen < 2){
             var description = `You can earn this item **${earnLen}** times`
         }

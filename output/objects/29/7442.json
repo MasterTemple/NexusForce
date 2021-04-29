@@ -105,7 +105,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/factionkits/spaceranger1_helmut.png",
+    "iconURL": "textures/freetrial/ui/inventory/factionkits/spaceranger1_helmut.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             141,

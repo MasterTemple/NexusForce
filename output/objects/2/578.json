@@ -2,7 +2,7 @@
     "objectID": 578,
     "itemInfo": {
         "name": "m30373",
-        "displayName": "Slope Brick 65° 6x6x2 Inverted Quadruple",
+        "displayName": "Slope Brick 65Â° 6x6x2 Inverted Quadruple",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30373.png",
+    "iconURL": "textures/ui/bricks/dds/m30373.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             245

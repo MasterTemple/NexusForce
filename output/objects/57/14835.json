@@ -99,7 +99,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/hammer_monkey.png",
+    "iconURL": "textures/ui/inventory/hands/hammer_monkey.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

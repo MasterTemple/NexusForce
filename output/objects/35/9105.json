@@ -2,7 +2,7 @@
     "objectID": 9105,
     "itemInfo": {
         "name": "m61403",
-        "displayName": "Saw Blade, Round Ø71.32",
+        "displayName": "Saw Blade, Round Ã˜71.32",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m61403.png",
+    "iconURL": "textures/ui/bricks/dds/m61403.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

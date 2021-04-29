@@ -2,7 +2,7 @@
     "objectID": 5470,
     "itemInfo": {
         "name": "m56891",
-        "displayName": "Balloon Tire Ø37",
+        "displayName": "Balloon Tire Ã˜37",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m56891.png",
+    "iconURL": "textures/ui/bricks/dds/m56891.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

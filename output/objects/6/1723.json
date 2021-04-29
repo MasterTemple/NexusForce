@@ -44,7 +44,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/tgas/helmet_02.tga",
+    "iconURL": "textures/ui/inventory/tgas/helmet_02.tga",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

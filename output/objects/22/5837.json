@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/ag_super_picnic_basket.png",
+    "iconURL": "textures/ui/inventory/consumables/ag_super_picnic_basket.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             73,

@@ -74,7 +74,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/misc/book_venture.png",
+    "iconURL": "textures/ui/inventory/misc/book_venture.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             370,

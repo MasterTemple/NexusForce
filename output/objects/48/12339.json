@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/present_winter_01.png",
+    "iconURL": "textures/ui/inventory/presents/present_winter_01.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             450

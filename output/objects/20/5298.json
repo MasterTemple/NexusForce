@@ -2,7 +2,7 @@
     "objectID": 5298,
     "itemInfo": {
         "name": "m32192",
-        "displayName": "Technic Angle Connector 135°",
+        "displayName": "Technic Angle Connector 135Â°",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m32192.png",
+    "iconURL": "textures/ui/bricks/dds/m32192.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             242

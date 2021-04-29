@@ -2,7 +2,7 @@
     "objectID": 815,
     "itemInfo": {
         "name": "m2450",
-        "displayName": "Corner Plate 45° 3x3",
+        "displayName": "Corner Plate 45Â° 3x3",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m2450.png",
+    "iconURL": "textures/ui/bricks/dds/m2450.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             111

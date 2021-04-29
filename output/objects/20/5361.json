@@ -2,7 +2,7 @@
     "objectID": 5361,
     "itemInfo": {
         "name": "m42611",
-        "displayName": "Tire Ø17.6",
+        "displayName": "Tire Ã˜17.6",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m42611.png",
+    "iconURL": "textures/ui/bricks/dds/m42611.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

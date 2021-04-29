@@ -2,7 +2,7 @@
     "objectID": 9068,
     "itemInfo": {
         "name": "m56904",
-        "displayName": "Rim Ø30",
+        "displayName": "Rim Ã˜30",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m56904.png",
+    "iconURL": "textures/ui/bricks/dds/m56904.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

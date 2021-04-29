@@ -92,7 +92,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/faction%20kits/legs_fackit_sorcerer3_var.png",
+    "iconURL": "textures/auramar/ui/inventory/faction%20kits/legs_fackit_sorcerer3_var.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             597,

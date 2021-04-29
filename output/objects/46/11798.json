@@ -46,7 +46,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_office_stapler.png",
+    "iconURL": "textures/ui/inventory/models/rew_office_stapler.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             833

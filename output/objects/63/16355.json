@@ -2,7 +2,7 @@
     "objectID": 16355,
     "itemInfo": {
         "name": "m33212",
-        "displayName": "Spoked Wheel Ø56",
+        "displayName": "Spoked Wheel Ã˜56",
         "type": "LEGO brick",
         "description": "",
         "internalNotes": ""
@@ -45,7 +45,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m33212.png",
+    "iconURL": "textures/ui/bricks/dds/m33212.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

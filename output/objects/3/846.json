@@ -2,7 +2,7 @@
     "objectID": 846,
     "itemInfo": {
         "name": "m2577",
-        "displayName": "Brick 4x4 ¼-Circle",
+        "displayName": "Brick 4x4 Â¼-Circle",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m2577.png",
+    "iconURL": "textures/ui/bricks/dds/m2577.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             111

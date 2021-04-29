@@ -120,7 +120,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/icons/rat-cheese.png",
+    "iconURL": "textures/freetrial/ui/inventory/icons/rat-cheese.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             791

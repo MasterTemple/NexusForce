@@ -101,7 +101,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/hats/exploriendroidhat.png",
+    "iconURL": "textures/auramar/ui/inventory/hats/exploriendroidhat.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             444

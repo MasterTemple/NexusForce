@@ -2,7 +2,7 @@
     "objectID": 9151,
     "itemInfo": {
         "name": "m64712",
-        "displayName": "Sprocket Wheel with Spikes Ø62",
+        "displayName": "Sprocket Wheel with Spikes Ã˜62",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m64712.png",
+    "iconURL": "textures/ui/bricks/dds/m64712.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

@@ -64,7 +64,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/factionkits/adventurer3_hat.png",
+    "iconURL": "textures/freetrial/ui/inventory/factionkits/adventurer3_hat.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

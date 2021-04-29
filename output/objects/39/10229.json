@@ -2,7 +2,7 @@
     "objectID": 10229,
     "itemInfo": {
         "name": "m2585",
-        "displayName": "Drum Ø11",
+        "displayName": "Drum Ã˜11",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m2585.png",
+    "iconURL": "textures/ui/bricks/dds/m2585.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

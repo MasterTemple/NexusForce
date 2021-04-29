@@ -1,8 +1,8 @@
 {
     "objectID": 9550,
     "itemInfo": {
-        "name": "Model Reward Temple 1",
-        "displayName": "Temple Model 1",
+        "name": "Model Reward TempleÂ 1",
+        "displayName": "TempleÂ Model 1",
         "type": "Loot",
         "description": "A model for your Property!",
         "internalNotes": null
@@ -46,7 +46,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_asiantemple1.png",
+    "iconURL": "textures/ui/inventory/models/rew_asiantemple1.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             286,

@@ -92,7 +92,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/faction/daredevil_01.png",
+    "iconURL": "textures/ui/inventory/torsos/faction/daredevil_01.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             169,

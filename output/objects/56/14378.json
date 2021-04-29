@@ -110,7 +110,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/icons/plunger_gun.png",
+    "iconURL": "textures/freetrial/ui/inventory/icons/plunger_gun.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

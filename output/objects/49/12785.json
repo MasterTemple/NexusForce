@@ -86,7 +86,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/hats/minerhelmwithvisor2.png",
+    "iconURL": "textures/auramar/ui/inventory/hats/minerhelmwithvisor2.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             444

@@ -143,7 +143,7 @@
             }
         }
     },
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/misc/venturecratedisguise.png",
+    "iconURL": "textures/nexustower/ui/inventory/misc/venturecratedisguise.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             673,

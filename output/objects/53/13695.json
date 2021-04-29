@@ -46,7 +46,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_zoo_building_wall_doorsopen.png",
+    "iconURL": "textures/ui/inventory/models/rew_zoo_building_wall_doorsopen.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             669

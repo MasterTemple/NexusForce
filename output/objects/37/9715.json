@@ -42,7 +42,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/common/maelstrom_infected.png",
+    "iconURL": "textures/ui/inventory/common/maelstrom_infected.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             246

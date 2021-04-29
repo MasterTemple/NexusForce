@@ -26,7 +26,7 @@
         "isWeapon": false
     },
     "overview": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hats/m3833_24.png",
+    "iconURL": "textures/ui/inventory/hats/m3833_24.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

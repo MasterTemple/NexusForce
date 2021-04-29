@@ -152,7 +152,7 @@
             }
         }
     },
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/hands/golden_shuriken_icon.png",
+    "iconURL": "textures/ng_ninjago/ui/inventory/hands/golden_shuriken_icon.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             758

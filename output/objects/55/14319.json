@@ -92,7 +92,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/faction%20kits/knight_shield_2.png",
+    "iconURL": "textures/ui/inventory/faction%20kits/knight_shield_2.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

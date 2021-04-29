@@ -2,7 +2,7 @@
     "objectID": 16398,
     "itemInfo": {
         "name": "m64276",
-        "displayName": "Beam 2 with Ball Ø 10.2",
+        "displayName": "Beam 2 with Ball Ã˜ 10.2",
         "type": "LEGO brick",
         "description": "",
         "internalNotes": ""
@@ -45,7 +45,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m64276.png",
+    "iconURL": "textures/ui/bricks/dds/m64276.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             242

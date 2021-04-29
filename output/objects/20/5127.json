@@ -2,7 +2,7 @@
     "objectID": 5127,
     "itemInfo": {
         "name": "m4445",
-        "displayName": "Slope Brick 45° 8x2",
+        "displayName": "Slope Brick 45Â° 8x2",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m4445.png",
+    "iconURL": "textures/ui/bricks/dds/m4445.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             111

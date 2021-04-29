@@ -2,7 +2,7 @@
     "objectID": 5453,
     "itemInfo": {
         "name": "m55978",
-        "displayName": "Tire Ø37 Wide",
+        "displayName": "Tire Ã˜37 Wide",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m55978.png",
+    "iconURL": "textures/ui/bricks/dds/m55978.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

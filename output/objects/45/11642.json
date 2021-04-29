@@ -46,7 +46,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_construction_lighttrailer.png",
+    "iconURL": "textures/ui/inventory/models/rew_construction_lighttrailer.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             610

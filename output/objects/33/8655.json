@@ -42,7 +42,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/missioncomics/wonderland/forbidden_valley/hud_icons/mission_740_741_742.png",
+    "iconURL": "textures/ui/missioncomics/wonderland/forbidden_valley/hud_icons/mission_740_741_742.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             29

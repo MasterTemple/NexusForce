@@ -70,7 +70,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/misc/bancha_tea.png",
+    "iconURL": "textures/ng_ninjago/ui/inventory/misc/bancha_tea.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             759,

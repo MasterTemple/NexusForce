@@ -119,7 +119,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/factionkits/spaceranger3_gizmo.png",
+    "iconURL": "textures/freetrial/ui/inventory/factionkits/spaceranger3_gizmo.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             618

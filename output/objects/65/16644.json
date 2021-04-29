@@ -113,7 +113,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/helms/dragonmask.png",
+    "iconURL": "textures/ng_ninjago/ui/inventory/helms/dragonmask.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

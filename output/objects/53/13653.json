@@ -46,7 +46,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_zoo_pathway_6x24.png",
+    "iconURL": "textures/ui/inventory/models/rew_zoo_pathway_6x24.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             669

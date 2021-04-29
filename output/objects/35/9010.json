@@ -2,7 +2,7 @@
     "objectID": 9010,
     "itemInfo": {
         "name": "m42610",
-        "displayName": "Hub Ø11.2 x 7.84mm",
+        "displayName": "Hub Ã˜11.2 x 7.84mm",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m42610.png",
+    "iconURL": "textures/ui/bricks/dds/m42610.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

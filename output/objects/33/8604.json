@@ -44,7 +44,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/reward/m73200_footballer_hex.png",
+    "iconURL": "textures/ui/inventory/torsos/reward/m73200_footballer_hex.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             89,

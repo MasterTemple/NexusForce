@@ -67,7 +67,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/m73200_damageboost_shirt_01.png",
+    "iconURL": "textures/ui/inventory/torsos/m73200_damageboost_shirt_01.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             117

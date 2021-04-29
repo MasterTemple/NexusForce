@@ -2,7 +2,7 @@
     "objectID": 587,
     "itemInfo": {
         "name": "m30390",
-        "displayName": "Slope Brick 45° Inverted, Double with 2 Pins",
+        "displayName": "Slope Brick 45Â° Inverted, Double with 2 Pins",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30390.png",
+    "iconURL": "textures/ui/bricks/dds/m30390.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             112

@@ -2,7 +2,7 @@
     "objectID": 91,
     "itemInfo": {
         "name": "m30285",
-        "displayName": "Hub Ø17.6 x 14mm",
+        "displayName": "Hub Ã˜17.6 x 14mm",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30285.png",
+    "iconURL": "textures/ui/bricks/dds/m30285.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

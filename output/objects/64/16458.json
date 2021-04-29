@@ -2,7 +2,7 @@
     "objectID": 16458,
     "itemInfo": {
         "name": "m93068",
-        "displayName": "Headtop with Ø3.2 Grip",
+        "displayName": "Headtop with Ã˜3.2 Grip",
         "type": "LEGO brick",
         "description": "",
         "internalNotes": ""
@@ -45,7 +45,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m93068.png",
+    "iconURL": "textures/ui/bricks/dds/m93068.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             382

@@ -2,7 +2,7 @@
     "objectID": 862,
     "itemInfo": {
         "name": "m2876",
-        "displayName": "Train Roof Front 45°/33° 6x6 with Cut-Out",
+        "displayName": "Train Roof Front 45Â°/33Â° 6x6 with Cut-Out",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m2876.png",
+    "iconURL": "textures/ui/bricks/dds/m2876.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

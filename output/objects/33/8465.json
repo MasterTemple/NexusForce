@@ -92,7 +92,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/factionkits/adventurer2_vest.png",
+    "iconURL": "textures/freetrial/ui/inventory/factionkits/adventurer2_vest.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             180

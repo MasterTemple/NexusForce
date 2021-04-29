@@ -2,7 +2,7 @@
     "objectID": 9194,
     "itemInfo": {
         "name": "m86500",
-        "displayName": "Dome 4x4 Smooth Ø32",
+        "displayName": "Dome 4x4 Smooth Ã˜32",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m86500.png",
+    "iconURL": "textures/ui/bricks/dds/m86500.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             111

@@ -2,7 +2,7 @@
     "objectID": 16457,
     "itemInfo": {
         "name": "m93067",
-        "displayName": "Head with Underjaw with Ø3.2 Shaft",
+        "displayName": "Head with Underjaw with Ã˜3.2 Shaft",
         "type": "LEGO brick",
         "description": "",
         "internalNotes": ""
@@ -45,7 +45,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m93067.png",
+    "iconURL": "textures/ui/bricks/dds/m93067.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             382

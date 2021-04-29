@@ -141,7 +141,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/hats/forrestershood.png",
+    "iconURL": "textures/auramar/ui/inventory/hats/forrestershood.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

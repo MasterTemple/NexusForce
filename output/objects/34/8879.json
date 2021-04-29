@@ -2,7 +2,7 @@
     "objectID": 8879,
     "itemInfo": {
         "name": "m6044",
-        "displayName": "Slope Brick 53° 1x3x3 1/3 with Studs",
+        "displayName": "Slope Brick 53Â° 1x3x3 1/3 with Studs",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m6044.png",
+    "iconURL": "textures/ui/bricks/dds/m6044.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             111

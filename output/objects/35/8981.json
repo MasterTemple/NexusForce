@@ -2,7 +2,7 @@
     "objectID": 8981,
     "itemInfo": {
         "name": "m32526",
-        "displayName": "Technic Angular Beam 3x5 90°",
+        "displayName": "Technic Angular Beam 3x5 90Â°",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m32526.png",
+    "iconURL": "textures/ui/bricks/dds/m32526.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             242

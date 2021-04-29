@@ -88,7 +88,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/reward/m73200_captain_fancy.png",
+    "iconURL": "textures/ui/inventory/torsos/reward/m73200_captain_fancy.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

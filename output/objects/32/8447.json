@@ -99,7 +99,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m2542_192.png",
+    "iconURL": "textures/ui/inventory/hands/m2542_192.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             279

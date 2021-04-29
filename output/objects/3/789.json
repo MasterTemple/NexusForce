@@ -2,7 +2,7 @@
     "objectID": 789,
     "itemInfo": {
         "name": "m2341",
-        "displayName": "Slope Brick 1x3 45° Inverted Double",
+        "displayName": "Slope Brick 1x3 45Â° Inverted Double",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m2341.png",
+    "iconURL": "textures/ui/bricks/dds/m2341.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             111

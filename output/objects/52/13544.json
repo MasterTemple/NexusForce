@@ -164,7 +164,7 @@
             }
         }
     },
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/misc/imaginationbackpack.png",
+    "iconURL": "textures/nexustower/ui/inventory/misc/imaginationbackpack.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

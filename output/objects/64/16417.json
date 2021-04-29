@@ -2,7 +2,7 @@
     "objectID": 16417,
     "itemInfo": {
         "name": "m88516",
-        "displayName": "Motorcycle Tire Ø 94.2",
+        "displayName": "Motorcycle Tire Ã˜ 94.2",
         "type": "LEGO brick",
         "description": "",
         "internalNotes": ""
@@ -45,7 +45,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m88516.png",
+    "iconURL": "textures/ui/bricks/dds/m88516.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

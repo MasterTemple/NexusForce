@@ -2,7 +2,7 @@
     "objectID": 9064,
     "itemInfo": {
         "name": "m55976",
-        "displayName": "Balloon Tire Ø56",
+        "displayName": "Balloon Tire Ã˜56",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m55976.png",
+    "iconURL": "textures/ui/bricks/dds/m55976.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

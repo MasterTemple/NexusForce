@@ -90,7 +90,7 @@
             }
         }
     },
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/m73200_club_lego.png",
+    "iconURL": "textures/ui/inventory/torsos/m73200_club_lego.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             258

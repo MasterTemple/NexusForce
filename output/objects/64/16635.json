@@ -101,7 +101,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/torsos/torsos_dxice.png",
+    "iconURL": "textures/ng_ninjago/ui/inventory/torsos/torsos_dxice.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             877

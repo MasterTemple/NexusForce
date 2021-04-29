@@ -2,7 +2,7 @@
     "objectID": 5515,
     "itemInfo": {
         "name": "m60208",
-        "displayName": "Technic Hub Ø31.37",
+        "displayName": "Technic Hub Ã˜31.37",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m60208.png",
+    "iconURL": "textures/ui/bricks/dds/m60208.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             242

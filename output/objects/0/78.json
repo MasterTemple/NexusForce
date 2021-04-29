@@ -2,7 +2,7 @@
     "objectID": 78,
     "itemInfo": {
         "name": "m6014",
-        "displayName": "Rim Ø11 Wide",
+        "displayName": "Rim Ã˜11 Wide",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m6014.png",
+    "iconURL": "textures/ui/bricks/dds/m6014.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

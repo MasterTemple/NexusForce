@@ -2,7 +2,7 @@
     "objectID": 5565,
     "itemInfo": {
         "name": "m61510",
-        "displayName": "Spool Ø16",
+        "displayName": "Spool Ã˜16",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m61510.png",
+    "iconURL": "textures/ui/bricks/dds/m61510.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

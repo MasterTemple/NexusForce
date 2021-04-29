@@ -2,7 +2,7 @@
     "objectID": 736,
     "itemInfo": {
         "name": "m50862",
-        "displayName": "Rim with Axle Ø14.58",
+        "displayName": "Rim with Axle Ã˜14.58",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m50862.png",
+    "iconURL": "textures/ui/bricks/dds/m50862.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

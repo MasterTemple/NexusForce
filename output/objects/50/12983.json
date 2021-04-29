@@ -118,7 +118,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/faction%20kits/sorcerer_hat_3_variant.png",
+    "iconURL": "textures/auramar/ui/inventory/faction%20kits/sorcerer_hat_3_variant.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             597,

@@ -2,7 +2,7 @@
     "objectID": 8914,
     "itemInfo": {
         "name": "m23065",
-        "displayName": "Ball Ø52mm",
+        "displayName": "Ball Ã˜52mm",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m23065.png",
+    "iconURL": "textures/ui/bricks/dds/m23065.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             111

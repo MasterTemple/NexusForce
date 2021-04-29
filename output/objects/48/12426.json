@@ -88,7 +88,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/legs/legs_exploriandroidsuit.png",
+    "iconURL": "textures/auramar/ui/inventory/legs/legs_exploriandroidsuit.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

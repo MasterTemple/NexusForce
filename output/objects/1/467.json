@@ -2,7 +2,7 @@
     "objectID": 467,
     "itemInfo": {
         "name": "m6118",
-        "displayName": "Wheel Hard-Plastic Ø24 Small",
+        "displayName": "Wheel Hard-Plastic Ã˜24 Small",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m6118.png",
+    "iconURL": "textures/ui/bricks/dds/m6118.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

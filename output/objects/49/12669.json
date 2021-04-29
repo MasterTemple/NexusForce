@@ -117,7 +117,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/hands/bluegemscepter.png",
+    "iconURL": "textures/nexustower/ui/inventory/hands/bluegemscepter.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             643

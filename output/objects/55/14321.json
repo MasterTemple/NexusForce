@@ -174,7 +174,7 @@
             }
         }
     },
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/icons/marauder_kit.png",
+    "iconURL": "textures/freetrial/ui/inventory/icons/marauder_kit.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

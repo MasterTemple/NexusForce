@@ -2,7 +2,7 @@
     "objectID": 9066,
     "itemInfo": {
         "name": "m56897",
-        "displayName": "Tire Ø30.4 Narrow",
+        "displayName": "Tire Ã˜30.4 Narrow",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m56897.png",
+    "iconURL": "textures/ui/bricks/dds/m56897.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

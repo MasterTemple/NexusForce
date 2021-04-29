@@ -2,7 +2,7 @@
     "objectID": 906,
     "itemInfo": {
         "name": "m3483",
-        "displayName": "Tire Ø17 Narrow",
+        "displayName": "Tire Ã˜17 Narrow",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3483.png",
+    "iconURL": "textures/ui/bricks/dds/m3483.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

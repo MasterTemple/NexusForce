@@ -2,7 +2,7 @@
     "objectID": 16335,
     "itemInfo": {
         "name": "m2903",
-        "displayName": "Rim Ø61.6 x 13.6",
+        "displayName": "Rim Ã˜61.6 x 13.6",
         "type": "LEGO brick",
         "description": "",
         "internalNotes": ""
@@ -45,7 +45,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m2903.png",
+    "iconURL": "textures/ui/bricks/dds/m2903.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             242

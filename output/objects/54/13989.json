@@ -67,7 +67,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/legs/ag_metal_legs.png",
+    "iconURL": "textures/ui/inventory/legs/ag_metal_legs.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

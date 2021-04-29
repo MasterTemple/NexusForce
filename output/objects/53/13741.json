@@ -81,7 +81,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/misc/dragondisguise.png",
+    "iconURL": "textures/nexustower/ui/inventory/misc/dragondisguise.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

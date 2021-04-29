@@ -141,7 +141,7 @@
             }
         }
     },
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/acc_scythe.png",
+    "iconURL": "textures/ui/inventory/hands/acc_scythe.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             190

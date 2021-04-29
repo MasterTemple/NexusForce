@@ -2,7 +2,7 @@
     "objectID": 561,
     "itemInfo": {
         "name": "m30324",
-        "displayName": "Wheel Hard-Plastic Ø43 with Treads",
+        "displayName": "Wheel Hard-Plastic Ã˜43 with Treads",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30324.png",
+    "iconURL": "textures/ui/bricks/dds/m30324.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

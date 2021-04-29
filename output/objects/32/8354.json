@@ -169,7 +169,7 @@
             }
         }
     },
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/reward/m73200_mantis_gi.png",
+    "iconURL": "textures/ui/inventory/torsos/reward/m73200_mantis_gi.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

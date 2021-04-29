@@ -93,7 +93,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/m330853_24.png",
+    "iconURL": "textures/ui/inventory/consumables/m330853_24.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             441

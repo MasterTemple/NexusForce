@@ -28,8 +28,9 @@ module.exports = {
         // const itemID = id
         const item = require(`./../output/objects/${Math.floor(itemID/256)}/${itemID}.json`);
         const { uIcon, luExplorerURL, resURL, unknownImageURL} = require('./../config.json')
+        let img = `${resURL}${item.iconURL}`
 
-        console.log(itemID)
+        //console.log(itemID)
 
         // message.channel.send(`\`\`\`${JSON.stringify(item,null,2)}\`\`\``)
 
@@ -76,7 +77,7 @@ module.exports = {
         // }else{
         //     var description = `**LEGO Brick:**}`
         // }
-        let embed = msgEmbed.execute(`${item.itemInfo.displayName} [${item.objectID}]`, undefined, `${luExplorerURL}objects/${item.objectID}`, item.iconURL)
+        let embed = msgEmbed.execute(`${item.itemInfo.displayName} [${item.objectID}]`, undefined, `${luExplorerURL}objects/${item.objectID}`, img)
 
         embed.addFields(
             { name: 'Name', value: item.itemInfo.name, inline: true },

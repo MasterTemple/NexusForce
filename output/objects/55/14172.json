@@ -100,7 +100,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/legs/legs_earthbasekit.png",
+    "iconURL": "textures/ng_ninjago/ui/inventory/legs/legs_earthbasekit.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             760,

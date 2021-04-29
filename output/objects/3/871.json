@@ -2,7 +2,7 @@
     "objectID": 871,
     "itemInfo": {
         "name": "m3038",
-        "displayName": "Slope Brick 45° 3x2",
+        "displayName": "Slope Brick 45Â° 3x2",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3038.png",
+    "iconURL": "textures/ui/bricks/dds/m3038.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             111

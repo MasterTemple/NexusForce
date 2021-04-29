@@ -2,7 +2,7 @@
     "objectID": 927,
     "itemInfo": {
         "name": "m3747",
-        "displayName": "Slope Brick 25° 2x3 Inverted",
+        "displayName": "Slope Brick 25Â° 2x3 Inverted",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3747.png",
+    "iconURL": "textures/ui/bricks/dds/m3747.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             111

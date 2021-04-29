@@ -24,7 +24,7 @@
         "isWeapon": false
     },
     "overview": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/amb_rat.png",
+    "iconURL": "textures/ui/inventory/models/amb_rat.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

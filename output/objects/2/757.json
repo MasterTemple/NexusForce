@@ -2,7 +2,7 @@
     "objectID": 757,
     "itemInfo": {
         "name": "m55817",
-        "displayName": "Wheel Hard-Plastic with Spokes Ø56x22",
+        "displayName": "Wheel Hard-Plastic with Spokes Ã˜56x22",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m55817.png",
+    "iconURL": "textures/ui/bricks/dds/m55817.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

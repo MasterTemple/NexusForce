@@ -138,7 +138,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/helms/rice_hat.png",
+    "iconURL": "textures/ng_ninjago/ui/inventory/helms/rice_hat.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             844,

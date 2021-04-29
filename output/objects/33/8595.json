@@ -65,7 +65,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/pet/m73200_tort.png",
+    "iconURL": "textures/ui/inventory/torsos/pet/m73200_tort.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             258

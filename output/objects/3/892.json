@@ -2,7 +2,7 @@
     "objectID": 892,
     "itemInfo": {
         "name": "m3299",
-        "displayName": "Slope Brick 25° Ridged 2x4",
+        "displayName": "Slope Brick 25Â° Ridged 2x4",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3299.png",
+    "iconURL": "textures/ui/bricks/dds/m3299.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             111

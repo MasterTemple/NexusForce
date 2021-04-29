@@ -2,7 +2,7 @@
     "objectID": 792,
     "itemInfo": {
         "name": "m2346",
-        "displayName": "Tire Ø30.4 Narrow",
+        "displayName": "Tire Ã˜30.4 Narrow",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m2346.png",
+    "iconURL": "textures/ui/bricks/dds/m2346.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

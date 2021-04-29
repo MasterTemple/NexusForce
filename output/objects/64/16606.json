@@ -98,7 +98,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/torsos/torsos_earthkit%20copy.png",
+    "iconURL": "textures/ng_ninjago/ui/inventory/torsos/torsos_earthkit%20copy.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             758

@@ -140,7 +140,7 @@
             }
         }
     },
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/hands/molewhacker.png",
+    "iconURL": "textures/nexustower/ui/inventory/hands/molewhacker.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             643

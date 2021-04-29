@@ -63,7 +63,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/tgas/tgas/minifig_accessory_jetpack.tga",
+    "iconURL": "textures/ui/inventory/tgas/tgas/minifig_accessory_jetpack.tga",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

@@ -88,7 +88,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/hats/visoredspacehelm.png",
+    "iconURL": "textures/auramar/ui/inventory/hats/visoredspacehelm.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

@@ -109,7 +109,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/misc/evergivinggoblet.png",
+    "iconURL": "textures/auramar/ui/inventory/misc/evergivinggoblet.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             444

@@ -2,7 +2,7 @@
     "objectID": 9067,
     "itemInfo": {
         "name": "m56898",
-        "displayName": "Tire Ø43 Narrow",
+        "displayName": "Tire Ã˜43 Narrow",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m56898.png",
+    "iconURL": "textures/ui/bricks/dds/m56898.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

@@ -2,7 +2,7 @@
     "objectID": 462,
     "itemInfo": {
         "name": "m6106",
-        "displayName": "Corner Plate 6x6x45°",
+        "displayName": "Corner Plate 6x6x45Â°",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m6106.png",
+    "iconURL": "textures/ui/bricks/dds/m6106.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             111

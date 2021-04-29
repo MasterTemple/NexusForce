@@ -2,7 +2,7 @@
     "objectID": 592,
     "itemInfo": {
         "name": "m30504",
-        "displayName": "Corner Plate 45° 8x8",
+        "displayName": "Corner Plate 45Â° 8x8",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30504.png",
+    "iconURL": "textures/ui/bricks/dds/m30504.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             111

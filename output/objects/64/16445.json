@@ -2,7 +2,7 @@
     "objectID": 16445,
     "itemInfo": {
         "name": "m92691",
-        "displayName": "5 M. Ø3.2 Bone",
+        "displayName": "5 M. Ã˜3.2 Bone",
         "type": "LEGO brick",
         "description": "",
         "internalNotes": ""
@@ -45,7 +45,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m92691.png",
+    "iconURL": "textures/ui/bricks/dds/m92691.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             243

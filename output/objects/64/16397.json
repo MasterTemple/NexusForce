@@ -2,7 +2,7 @@
     "objectID": 16397,
     "itemInfo": {
         "name": "m64179",
-        "displayName": "Beam Frame 5x7 Ø 4.85",
+        "displayName": "Beam Frame 5x7 Ã˜ 4.85",
         "type": "LEGO brick",
         "description": "",
         "internalNotes": ""
@@ -45,7 +45,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m64179.png",
+    "iconURL": "textures/ui/bricks/dds/m64179.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             242

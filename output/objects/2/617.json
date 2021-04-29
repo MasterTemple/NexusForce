@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m32125.png",
+    "iconURL": "textures/ui/bricks/dds/m32125.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             242

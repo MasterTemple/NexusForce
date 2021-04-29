@@ -44,7 +44,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/torso_2_106.png",
+    "iconURL": "textures/ui/inventory/torsos/torso_2_106.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             191

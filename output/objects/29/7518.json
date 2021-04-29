@@ -121,7 +121,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/faction%20kits/samurai_sword_2.png",
+    "iconURL": "textures/ui/inventory/faction%20kits/samurai_sword_2.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             178,

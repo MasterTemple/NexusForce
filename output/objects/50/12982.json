@@ -149,7 +149,7 @@
             }
         }
     },
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/faction%20kits/buccaneer__swordgun_3_variant.png",
+    "iconURL": "textures/auramar/ui/inventory/faction%20kits/buccaneer__swordgun_3_variant.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             598,

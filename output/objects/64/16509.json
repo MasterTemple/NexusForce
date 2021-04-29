@@ -2,7 +2,7 @@
     "objectID": 16509,
     "itemInfo": {
         "name": "m87781",
-        "displayName": "Helmet with Ø3.2 Shaft at Front",
+        "displayName": "Helmet with Ã˜3.2 Shaft at Front",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m87781.png",
+    "iconURL": "textures/ui/bricks/dds/m87781.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             243

@@ -2,7 +2,7 @@
     "objectID": 5235,
     "itemInfo": {
         "name": "m30183",
-        "displayName": "Slope Brick 45° 4x6 Double Inverted",
+        "displayName": "Slope Brick 45Â° 4x6 Double Inverted",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30183.png",
+    "iconURL": "textures/ui/bricks/dds/m30183.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

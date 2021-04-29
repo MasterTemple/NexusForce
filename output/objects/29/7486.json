@@ -108,7 +108,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/factionkits/torsos_adventurer3.png",
+    "iconURL": "textures/freetrial/ui/inventory/factionkits/torsos_adventurer3.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             626

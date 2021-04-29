@@ -92,7 +92,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/factionkits/shinobi3_sword.png",
+    "iconURL": "textures/freetrial/ui/inventory/factionkits/shinobi3_sword.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

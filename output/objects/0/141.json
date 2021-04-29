@@ -2,7 +2,7 @@
     "objectID": 141,
     "itemInfo": {
         "name": "m3675",
-        "displayName": "Slope Brick 25° 3x3 Outside Corner",
+        "displayName": "Slope Brick 25Â° 3x3 Outside Corner",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3675.png",
+    "iconURL": "textures/ui/bricks/dds/m3675.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             111

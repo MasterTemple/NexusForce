@@ -2,7 +2,7 @@
     "objectID": 5072,
     "itemInfo": {
         "name": "m2952",
-        "displayName": "Propeller Ø9 with 2 Blades and Pin Hole",
+        "displayName": "Propeller Ã˜9 with 2 Blades and Pin Hole",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m2952.png",
+    "iconURL": "textures/ui/bricks/dds/m2952.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

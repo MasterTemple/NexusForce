@@ -70,7 +70,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/misc/gonzogulp.png",
+    "iconURL": "textures/auramar/ui/inventory/misc/gonzogulp.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             445,

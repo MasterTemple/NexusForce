@@ -67,7 +67,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/torsos/torsos_darkatect.png",
+    "iconURL": "textures/nexustower/ui/inventory/torsos/torsos_darkatect.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

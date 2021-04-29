@@ -2,7 +2,7 @@
     "objectID": 16391,
     "itemInfo": {
         "name": "m6139",
-        "displayName": "Wall Hinge 45°",
+        "displayName": "Wall Hinge 45Â°",
         "type": "LEGO brick",
         "description": "",
         "internalNotes": ""
@@ -45,7 +45,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m6139.png",
+    "iconURL": "textures/ui/bricks/dds/m6139.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             112

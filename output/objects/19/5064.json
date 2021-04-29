@@ -2,7 +2,7 @@
     "objectID": 5064,
     "itemInfo": {
         "name": "m2695",
-        "displayName": "Technic Hub Ø30",
+        "displayName": "Technic Hub Ã˜30",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m2695.png",
+    "iconURL": "textures/ui/bricks/dds/m2695.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             242

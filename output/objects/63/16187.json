@@ -129,7 +129,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/icons/cape_venture.png",
+    "iconURL": "textures/freetrial/ui/inventory/icons/cape_venture.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             795

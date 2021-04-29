@@ -118,7 +118,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/icons/frog-eggs.png",
+    "iconURL": "textures/freetrial/ui/inventory/icons/frog-eggs.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             693

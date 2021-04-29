@@ -107,7 +107,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/skills/oilcan.png",
+    "iconURL": "textures/ui/inventory/skills/oilcan.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             643

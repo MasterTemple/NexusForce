@@ -70,7 +70,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/torsos/torsos_scalemailshirt.png",
+    "iconURL": "textures/auramar/ui/inventory/torsos/torsos_scalemailshirt.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             444

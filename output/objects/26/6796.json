@@ -88,7 +88,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/misc/m3608_blueprint.png",
+    "iconURL": "textures/ui/inventory/misc/m3608_blueprint.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

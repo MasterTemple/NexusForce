@@ -140,7 +140,7 @@
             }
         }
     },
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/hands/red_scythe_master.png",
+    "iconURL": "textures/nexustower/ui/inventory/hands/red_scythe_master.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             607

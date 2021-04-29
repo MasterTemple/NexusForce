@@ -47,7 +47,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/m73200_ag_rocket_02.png",
+    "iconURL": "textures/ui/inventory/torsos/m73200_ag_rocket_02.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

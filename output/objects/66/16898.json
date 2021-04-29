@@ -69,7 +69,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/misc/petegg.png",
+    "iconURL": "textures/nexustower/ui/inventory/misc/petegg.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             912

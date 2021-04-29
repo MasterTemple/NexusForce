@@ -38,16 +38,8 @@ module.exports = {
         if(dropFile.itemComponent.levelRequirement === undefined){
             dropFile.levelRequirement = 0
         }
-        let img
-        if(dropFile.iconURL !== "uIcon" || dropFile.iconUFL !== "unknown" && dropFile.iconURL.includes('http') === false){
-            img = `${resURL}${dropFile.iconURL}`
-        }else if(dropFile.iconURL.includes('http')){
-            img = dropFile.iconURL
-        }else if(dropFile.iconURL === "unknown"){
-            img = unknownImageURL
-        }else{
-            img = uIcon
-        }
+        let img = `${resURL}${item.iconURL}`
+
         //console.log(img)
 
         let embed = msgEmbed.execute(`${dropFile.itemInfo.displayName} [${dropFile.objectID}]`, undefined,`${luExplorerURL}objects/${dropFile.objectID}`, img)

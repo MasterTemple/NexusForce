@@ -44,7 +44,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/icons/spareparts.png",
+    "iconURL": "textures/freetrial/ui/inventory/icons/spareparts.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             771

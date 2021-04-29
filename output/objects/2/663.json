@@ -2,7 +2,7 @@
     "objectID": 663,
     "itemInfo": {
         "name": "m43708",
-        "displayName": "Slope Brick 18° 4x4 Corner",
+        "displayName": "Slope Brick 18Â° 4x4 Corner",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m43708.png",
+    "iconURL": "textures/ui/bricks/dds/m43708.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             111

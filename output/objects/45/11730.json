@@ -46,7 +46,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_mechbay_ballbotboss.png",
+    "iconURL": "textures/ui/inventory/models/rew_mechbay_ballbotboss.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             801

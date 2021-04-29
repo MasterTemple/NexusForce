@@ -65,7 +65,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/ag_imagination_drink.png",
+    "iconURL": "textures/ui/inventory/consumables/ag_imagination_drink.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             116,

@@ -99,7 +99,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/hands/javelin.png",
+    "iconURL": "textures/auramar/ui/inventory/hands/javelin.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             443

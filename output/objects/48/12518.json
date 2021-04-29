@@ -72,7 +72,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/misc/qb_guitar.png",
+    "iconURL": "textures/auramar/ui/inventory/misc/qb_guitar.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

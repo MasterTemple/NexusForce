@@ -89,7 +89,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/misc/pirate_flag.png",
+    "iconURL": "textures/ui/inventory/misc/pirate_flag.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

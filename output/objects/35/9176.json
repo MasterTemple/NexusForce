@@ -2,7 +2,7 @@
     "objectID": 9176,
     "itemInfo": {
         "name": "m85546",
-        "displayName": "V-Belt Ø33 Yellow",
+        "displayName": "V-Belt Ã˜33 Yellow",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m85546.png",
+    "iconURL": "textures/ui/bricks/dds/m85546.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             242

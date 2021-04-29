@@ -115,7 +115,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/factionkits/inventor1_gunbase.png",
+    "iconURL": "textures/freetrial/ui/inventory/factionkits/inventor1_gunbase.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             164,

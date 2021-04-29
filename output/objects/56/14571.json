@@ -123,7 +123,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/icons/scorpion-stinger.png",
+    "iconURL": "textures/freetrial/ui/inventory/icons/scorpion-stinger.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             832

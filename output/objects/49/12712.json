@@ -86,7 +86,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/torsos/torsos_bikerwomans.png",
+    "iconURL": "textures/nexustower/ui/inventory/torsos/torsos_bikerwomans.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             608

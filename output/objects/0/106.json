@@ -2,7 +2,7 @@
     "objectID": 106,
     "itemInfo": {
         "name": "m55981",
-        "displayName": "Rim Ø18 Wide ",
+        "displayName": "Rim Ã˜18 Wide ",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m55981.png",
+    "iconURL": "textures/ui/bricks/dds/m55981.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

@@ -65,7 +65,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/fish_tasty.png",
+    "iconURL": "textures/ui/inventory/consumables/fish_tasty.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             117,

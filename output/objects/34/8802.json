@@ -2,7 +2,7 @@
     "objectID": 8802,
     "itemInfo": {
         "name": "m2515",
-        "displayName": "Wheel Hard-Plastic Ø56 Large",
+        "displayName": "Wheel Hard-Plastic Ã˜56 Large",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m2515.png",
+    "iconURL": "textures/ui/bricks/dds/m2515.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

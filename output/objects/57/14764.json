@@ -105,7 +105,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/hands/boneaxe.png",
+    "iconURL": "textures/ng_ninjago/ui/inventory/hands/boneaxe.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             758

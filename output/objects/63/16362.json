@@ -2,7 +2,7 @@
     "objectID": 16362,
     "itemInfo": {
         "name": "m42608",
-        "displayName": "Plate 2x4 with Snap 4xØ4.85",
+        "displayName": "Plate 2x4 with Snap 4xÃ˜4.85",
         "type": "LEGO brick",
         "description": "",
         "internalNotes": ""
@@ -45,7 +45,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m42608.png",
+    "iconURL": "textures/ui/bricks/dds/m42608.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             242

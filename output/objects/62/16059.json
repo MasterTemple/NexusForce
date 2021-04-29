@@ -72,7 +72,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/misc/exploding_kunai.png",
+    "iconURL": "textures/ng_ninjago/ui/inventory/misc/exploding_kunai.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             759,

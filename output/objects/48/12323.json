@@ -42,7 +42,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/misc/datacard.png",
+    "iconURL": "textures/auramar/ui/inventory/misc/datacard.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             548

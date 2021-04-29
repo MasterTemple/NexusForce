@@ -44,7 +44,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/icons/flashlight.png",
+    "iconURL": "textures/freetrial/ui/inventory/icons/flashlight.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             770

@@ -72,7 +72,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/ag_hotdog.png",
+    "iconURL": "textures/ui/inventory/consumables/ag_hotdog.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             116,

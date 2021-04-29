@@ -2,7 +2,7 @@
     "objectID": 9061,
     "itemInfo": {
         "name": "m54821",
-        "displayName": "Ball Ø16",
+        "displayName": "Ball Ã˜16",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m54821.png",
+    "iconURL": "textures/ui/bricks/dds/m54821.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             244

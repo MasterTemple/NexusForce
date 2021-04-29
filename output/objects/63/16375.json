@@ -2,7 +2,7 @@
     "objectID": 16375,
     "itemInfo": {
         "name": "m47507",
-        "displayName": "Brick 6x6x2 W. Ø4.85",
+        "displayName": "Brick 6x6x2 W. Ã˜4.85",
         "type": "LEGO brick",
         "description": "",
         "internalNotes": ""
@@ -45,7 +45,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m47507.png",
+    "iconURL": "textures/ui/bricks/dds/m47507.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             111

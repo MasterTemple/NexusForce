@@ -2,7 +2,7 @@
     "objectID": 9087,
     "itemInfo": {
         "name": "m59895",
-        "displayName": "Tire Ø14 Smooth",
+        "displayName": "Tire Ã˜14 Smooth",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m59895.png",
+    "iconURL": "textures/ui/bricks/dds/m59895.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

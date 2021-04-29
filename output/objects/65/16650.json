@@ -44,7 +44,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/misc/paper-package.png",
+    "iconURL": "textures/nexustower/ui/inventory/misc/paper-package.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             834

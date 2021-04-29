@@ -100,7 +100,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/hands/goldenaxe.png",
+    "iconURL": "textures/nexustower/ui/inventory/hands/goldenaxe.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             607

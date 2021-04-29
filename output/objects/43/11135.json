@@ -2,7 +2,7 @@
     "objectID": 11135,
     "itemInfo": {
         "name": "m6015",
-        "displayName": "Tire Ø21x12 Normal, Wide",
+        "displayName": "Tire Ã˜21x12 Normal, Wide",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m6015.png",
+    "iconURL": "textures/ui/bricks/dds/m6015.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

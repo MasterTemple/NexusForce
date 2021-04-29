@@ -98,7 +98,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/factionkits/inventor2_beejar.png",
+    "iconURL": "textures/freetrial/ui/inventory/factionkits/inventor2_beejar.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

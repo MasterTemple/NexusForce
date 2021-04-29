@@ -72,7 +72,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/missioncomics/wonderland/nimbus_station/task_icons/mission_863.png",
+    "iconURL": "textures/ui/missioncomics/wonderland/nimbus_station/task_icons/mission_863.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

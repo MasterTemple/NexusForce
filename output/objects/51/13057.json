@@ -42,7 +42,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/missioncomics/wonderland/gnarled_forest/hud_icons/map_blueprint.png",
+    "iconURL": "textures/ui/missioncomics/wonderland/gnarled_forest/hud_icons/map_blueprint.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             571

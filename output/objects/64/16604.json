@@ -19,7 +19,7 @@
         "equipLocationNames": [],
         "isWeapon": false
     },
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/consumables/bento_blocks.png",
+    "iconURL": "textures/ng_ninjago/ui/inventory/consumables/bento_blocks.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

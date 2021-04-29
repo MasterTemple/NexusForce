@@ -92,7 +92,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/factionkits/shinobi2_armor.png",
+    "iconURL": "textures/freetrial/ui/inventory/factionkits/shinobi2_armor.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             179

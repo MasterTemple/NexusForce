@@ -46,7 +46,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/lup_dh_stepstool.png",
+    "iconURL": "textures/ui/inventory/models/lup_dh_stepstool.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             282,

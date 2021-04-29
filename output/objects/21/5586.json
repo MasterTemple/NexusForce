@@ -2,7 +2,7 @@
     "objectID": 5586,
     "itemInfo": {
         "name": "m62701",
-        "displayName": "Hub Cap Ø24",
+        "displayName": "Hub Cap Ã˜24",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m62701.png",
+    "iconURL": "textures/ui/bricks/dds/m62701.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

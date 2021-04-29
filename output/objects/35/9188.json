@@ -2,7 +2,7 @@
     "objectID": 9188,
     "itemInfo": {
         "name": "m85962",
-        "displayName": "Cockpit Egg-shaped with Vertical Fork Ø64x48",
+        "displayName": "Cockpit Egg-shaped with Vertical Fork Ã˜64x48",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m85962.png",
+    "iconURL": "textures/ui/bricks/dds/m85962.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

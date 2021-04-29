@@ -101,7 +101,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/legs/minifig_villager3_legs.png",
+    "iconURL": "textures/ng_ninjago/ui/inventory/legs/minifig_villager3_legs.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

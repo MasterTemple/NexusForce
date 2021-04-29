@@ -2,7 +2,7 @@
     "objectID": 394,
     "itemInfo": {
         "name": "m4509",
-        "displayName": "Slope Brick 25° 6x6 Double",
+        "displayName": "Slope Brick 25Â° 6x6 Double",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m4509.png",
+    "iconURL": "textures/ui/bricks/dds/m4509.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             111

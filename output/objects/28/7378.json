@@ -108,7 +108,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/faction/buccaneer_03.png",
+    "iconURL": "textures/ui/inventory/torsos/faction/buccaneer_03.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             687,

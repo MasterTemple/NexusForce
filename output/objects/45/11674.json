@@ -46,7 +46,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_doomstarmodule08.png",
+    "iconURL": "textures/ui/inventory/models/rew_doomstarmodule08.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             528

@@ -2,7 +2,7 @@
     "objectID": 804,
     "itemInfo": {
         "name": "m2419",
-        "displayName": "Corner Plate 3x6 Double 45°",
+        "displayName": "Corner Plate 3x6 Double 45Â°",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m2419.png",
+    "iconURL": "textures/ui/bricks/dds/m2419.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             111

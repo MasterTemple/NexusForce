@@ -2,7 +2,7 @@
     "objectID": 901,
     "itemInfo": {
         "name": "m3464",
-        "displayName": "Hub Ø8mm for Fork Bearing",
+        "displayName": "Hub Ã˜8mm for Fork Bearing",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3464.png",
+    "iconURL": "textures/ui/bricks/dds/m3464.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

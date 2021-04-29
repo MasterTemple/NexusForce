@@ -2,7 +2,7 @@
     "objectID": 16430,
     "itemInfo": {
         "name": "m90622",
-        "displayName": "Beam C 5M Cup/Cup Ø10.2",
+        "displayName": "Beam C 5M Cup/Cup Ã˜10.2",
         "type": "LEGO brick",
         "description": "",
         "internalNotes": ""
@@ -45,7 +45,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m90622.png",
+    "iconURL": "textures/ui/bricks/dds/m90622.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             242

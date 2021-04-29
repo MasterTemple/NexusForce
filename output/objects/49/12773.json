@@ -86,7 +86,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/hands/heatershield_wood.png",
+    "iconURL": "textures/auramar/ui/inventory/hands/heatershield_wood.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             442

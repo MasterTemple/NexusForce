@@ -2,7 +2,7 @@
     "objectID": 16322,
     "itemInfo": {
         "name": "m2470",
-        "displayName": "Wheel with Spokes Ø27.4",
+        "displayName": "Wheel with Spokes Ã˜27.4",
         "type": "LEGO brick",
         "description": "",
         "internalNotes": ""
@@ -45,7 +45,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m2470.png",
+    "iconURL": "textures/ui/bricks/dds/m2470.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

@@ -2,7 +2,7 @@
     "objectID": 16450,
     "itemInfo": {
         "name": "m93058",
-        "displayName": "Star with Ø3.2 Wheel",
+        "displayName": "Star with Ã˜3.2 Wheel",
         "type": "LEGO brick",
         "description": "",
         "internalNotes": ""
@@ -45,7 +45,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m93058.png",
+    "iconURL": "textures/ui/bricks/dds/m93058.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             243

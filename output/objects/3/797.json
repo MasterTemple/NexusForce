@@ -2,7 +2,7 @@
     "objectID": 797,
     "itemInfo": {
         "name": "m2401",
-        "displayName": "Corner Plate 10x10 45°",
+        "displayName": "Corner Plate 10x10 45Â°",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m2401.png",
+    "iconURL": "textures/ui/bricks/dds/m2401.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             111

@@ -86,7 +86,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/hands/heatershieldfluedelis.png",
+    "iconURL": "textures/nexustower/ui/inventory/hands/heatershieldfluedelis.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             643

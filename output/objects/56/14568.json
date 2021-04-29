@@ -120,7 +120,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/icons/dog-bone.png",
+    "iconURL": "textures/freetrial/ui/inventory/icons/dog-bone.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             785

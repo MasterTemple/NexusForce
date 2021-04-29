@@ -2,7 +2,7 @@
     "objectID": 5188,
     "itemInfo": {
         "name": "m6256",
-        "displayName": "Dish Ø24",
+        "displayName": "Dish Ã˜24",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m6256.png",
+    "iconURL": "textures/ui/bricks/dds/m6256.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             243

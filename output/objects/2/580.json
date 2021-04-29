@@ -2,7 +2,7 @@
     "objectID": 580,
     "itemInfo": {
         "name": "m30382",
-        "displayName": "Wedge 11° Double 2x16",
+        "displayName": "Wedge 11Â° Double 2x16",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30382.png",
+    "iconURL": "textures/ui/bricks/dds/m30382.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

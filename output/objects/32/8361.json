@@ -86,7 +86,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/reward/m73200_belted_ninja.png",
+    "iconURL": "textures/ui/inventory/torsos/reward/m73200_belted_ninja.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             276

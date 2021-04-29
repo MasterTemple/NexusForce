@@ -2,7 +2,7 @@
     "objectID": 5067,
     "itemInfo": {
         "name": "m2723",
-        "displayName": "Technic Dish Ø24",
+        "displayName": "Technic Dish Ã˜24",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m2723.png",
+    "iconURL": "textures/ui/bricks/dds/m2723.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             242

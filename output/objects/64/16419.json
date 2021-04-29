@@ -2,7 +2,7 @@
     "objectID": 16419,
     "itemInfo": {
         "name": "m88517",
-        "displayName": "Motorcycle Rim Ø 75",
+        "displayName": "Motorcycle Rim Ã˜ 75",
         "type": "LEGO brick",
         "description": "",
         "internalNotes": ""
@@ -45,7 +45,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m88517.png",
+    "iconURL": "textures/ui/bricks/dds/m88517.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

@@ -90,7 +90,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/m61856_sentinel.png",
+    "iconURL": "textures/ui/inventory/hands/m61856_sentinel.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

@@ -2,7 +2,7 @@
     "objectID": 8808,
     "itemInfo": {
         "name": "m2573",
-        "displayName": "Wheel Hard-Plastic Ø75 Giant",
+        "displayName": "Wheel Hard-Plastic Ã˜75 Giant",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m2573.png",
+    "iconURL": "textures/ui/bricks/dds/m2573.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

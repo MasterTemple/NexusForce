@@ -2,7 +2,7 @@
     "objectID": 492,
     "itemInfo": {
         "name": "m6248",
-        "displayName": "Hub Ø17mm with 4 Studs",
+        "displayName": "Hub Ã˜17mm with 4 Studs",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m6248.png",
+    "iconURL": "textures/ui/bricks/dds/m6248.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

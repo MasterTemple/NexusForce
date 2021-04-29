@@ -94,7 +94,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/missioncomics/wonderland/seasonal/winter/hud_icons/mission_1029.png",
+    "iconURL": "textures/ui/missioncomics/wonderland/seasonal/winter/hud_icons/mission_1029.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

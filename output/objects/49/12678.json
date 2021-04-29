@@ -141,7 +141,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/hands/kiteshield_bat.png",
+    "iconURL": "textures/auramar/ui/inventory/hands/kiteshield_bat.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             444

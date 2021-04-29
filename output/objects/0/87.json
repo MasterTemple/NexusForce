@@ -2,7 +2,7 @@
     "objectID": 87,
     "itemInfo": {
         "name": "m30027",
-        "displayName": "Rim Ø8 Wide",
+        "displayName": "Rim Ã˜8 Wide",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30027.png",
+    "iconURL": "textures/ui/bricks/dds/m30027.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

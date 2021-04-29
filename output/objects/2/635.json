@@ -2,7 +2,7 @@
     "objectID": 635,
     "itemInfo": {
         "name": "m41530",
-        "displayName": "Saw Blade, Round Ø36.7",
+        "displayName": "Saw Blade, Round Ã˜36.7",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m41530.png",
+    "iconURL": "textures/ui/bricks/dds/m41530.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

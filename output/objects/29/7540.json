@@ -155,7 +155,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/faction%20kits/spacemaurader_shoulder_3.png",
+    "iconURL": "textures/ui/inventory/faction%20kits/spacemaurader_shoulder_3.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             688,

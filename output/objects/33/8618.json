@@ -86,7 +86,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/reward/m73200_pirate_princess.png",
+    "iconURL": "textures/ui/inventory/torsos/reward/m73200_pirate_princess.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             71,

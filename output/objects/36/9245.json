@@ -2,7 +2,7 @@
     "objectID": 9245,
     "itemInfo": {
         "name": "m89762",
-        "displayName": "Cockpit 19° Bowed Type 2",
+        "displayName": "Cockpit 19Â° Bowed Type 2",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m89762.png",
+    "iconURL": "textures/ui/bricks/dds/m89762.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

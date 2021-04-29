@@ -46,7 +46,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/act_won_gnar_shooting_gallery_pirate-duck.png",
+    "iconURL": "textures/ui/inventory/models/act_won_gnar_shooting_gallery_pirate-duck.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             105,

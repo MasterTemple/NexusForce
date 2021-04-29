@@ -48,7 +48,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/models/rew_ninjagomonastery_wall_small1.png",
+    "iconURL": "textures/ng_ninjago/ui/inventory/models/rew_ninjagomonastery_wall_small1.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             763,

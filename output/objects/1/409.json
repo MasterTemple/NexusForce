@@ -2,7 +2,7 @@
     "objectID": 409,
     "itemInfo": {
         "name": "m4617",
-        "displayName": "Propeller 3 Blades Ø5.5",
+        "displayName": "Propeller 3 Blades Ã˜5.5",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m4617.png",
+    "iconURL": "textures/ui/bricks/dds/m4617.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

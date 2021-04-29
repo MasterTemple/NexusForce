@@ -125,7 +125,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/hands/scutumshield_medic.png",
+    "iconURL": "textures/auramar/ui/inventory/hands/scutumshield_medic.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

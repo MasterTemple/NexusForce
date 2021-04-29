@@ -44,7 +44,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/missioncomics/wonderland/avant_gardens/task_icons/salute_emote_task.png",
+    "iconURL": "textures/ui/missioncomics/wonderland/avant_gardens/task_icons/salute_emote_task.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

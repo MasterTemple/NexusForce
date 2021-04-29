@@ -118,7 +118,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/shoulders/gem_pack.png",
+    "iconURL": "textures/ng_ninjago/ui/inventory/shoulders/gem_pack.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             870,

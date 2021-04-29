@@ -180,7 +180,7 @@
             }
         }
     },
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/faction%20kits/fackit_samuraivaliant_master.png",
+    "iconURL": "textures/auramar/ui/inventory/faction%20kits/fackit_samuraivaliant_master.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             603,

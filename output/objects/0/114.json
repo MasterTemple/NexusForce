@@ -2,7 +2,7 @@
     "objectID": 114,
     "itemInfo": {
         "name": "m4287",
-        "displayName": "Slope Brick 25° 1x3 Inverted",
+        "displayName": "Slope Brick 25Â° 1x3 Inverted",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m4287.png",
+    "iconURL": "textures/ui/bricks/dds/m4287.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             111

@@ -70,7 +70,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/consumables/4_pound_hammer.png",
+    "iconURL": "textures/ui/inventory/consumables/4_pound_hammer.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             116,

@@ -2,7 +2,7 @@
     "objectID": 805,
     "itemInfo": {
         "name": "m2421",
-        "displayName": "Propeller Ø3.5 with 3 Blades",
+        "displayName": "Propeller Ã˜3.5 with 3 Blades",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m2421.png",
+    "iconURL": "textures/ui/bricks/dds/m2421.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

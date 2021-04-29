@@ -2,7 +2,7 @@
     "objectID": 8957,
     "itemInfo": {
         "name": "m32019",
-        "displayName": "Tire Ø62.4",
+        "displayName": "Tire Ã˜62.4",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m32019.png",
+    "iconURL": "textures/ui/bricks/dds/m32019.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

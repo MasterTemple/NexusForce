@@ -65,7 +65,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/missioncomics/wonderland/avant_gardens/task_icons/mission_healthpack.png",
+    "iconURL": "textures/ui/missioncomics/wonderland/avant_gardens/task_icons/mission_healthpack.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

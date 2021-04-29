@@ -42,7 +42,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/misc/leakymaelstrombucket.png",
+    "iconURL": "textures/nexustower/ui/inventory/misc/leakymaelstrombucket.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             484

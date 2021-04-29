@@ -45,7 +45,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/presents/bag_blue_green.png",
+    "iconURL": "textures/ui/inventory/presents/bag_blue_green.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             178,

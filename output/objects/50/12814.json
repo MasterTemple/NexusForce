@@ -47,7 +47,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/missioncomics/wonderland/gnarled_forest/hud_icons/black_ninja.png",
+    "iconURL": "textures/ui/missioncomics/wonderland/gnarled_forest/hud_icons/black_ninja.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

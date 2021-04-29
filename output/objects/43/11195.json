@@ -104,7 +104,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/hands/doubledagger.png",
+    "iconURL": "textures/ng_ninjago/ui/inventory/hands/doubledagger.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             442

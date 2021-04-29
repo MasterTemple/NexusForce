@@ -2,7 +2,7 @@
     "objectID": 682,
     "itemInfo": {
         "name": "m44571",
-        "displayName": "Slope Brick 45° Double with Vertical Fork",
+        "displayName": "Slope Brick 45Â° Double with Vertical Fork",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m44571.png",
+    "iconURL": "textures/ui/bricks/dds/m44571.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             112

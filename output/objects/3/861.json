@@ -2,7 +2,7 @@
     "objectID": 861,
     "itemInfo": {
         "name": "m2875",
-        "displayName": "Train Roof 45° 2x6 with Cut-Out",
+        "displayName": "Train Roof 45Â° 2x6 with Cut-Out",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m2875.png",
+    "iconURL": "textures/ui/bricks/dds/m2875.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             111

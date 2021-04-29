@@ -1,8 +1,8 @@
 {
     "objectID": 7970,
     "itemInfo": {
-        "name": "Test UGC Model - Café Corner",
-        "displayName": "Test UGC Model - Café Corner",
+        "name": "Test UGC Model - CafÃ© Corner",
+        "displayName": "Test UGC Model - CafÃ© Corner",
         "type": "Loot",
         "description": "For testing only",
         "internalNotes": "For testing only"
@@ -46,7 +46,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/model_icon.png",
+    "iconURL": "textures/ui/inventory/model_icon.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

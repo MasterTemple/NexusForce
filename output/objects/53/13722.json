@@ -46,7 +46,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_safarirover.png",
+    "iconURL": "textures/ui/inventory/models/rew_safarirover.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             668

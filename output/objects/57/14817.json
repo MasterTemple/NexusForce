@@ -70,7 +70,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/icons/owl_white.png",
+    "iconURL": "textures/freetrial/ui/inventory/icons/owl_white.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             29

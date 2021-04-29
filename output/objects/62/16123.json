@@ -101,7 +101,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/legs/minifig_purplehakamalegs.png",
+    "iconURL": "textures/ng_ninjago/ui/inventory/legs/minifig_purplehakamalegs.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             871

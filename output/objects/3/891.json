@@ -2,7 +2,7 @@
     "objectID": 891,
     "itemInfo": {
         "name": "m3297",
-        "displayName": "Slope Brick 25° 4x3",
+        "displayName": "Slope Brick 25Â° 4x3",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3297.png",
+    "iconURL": "textures/ui/bricks/dds/m3297.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             111

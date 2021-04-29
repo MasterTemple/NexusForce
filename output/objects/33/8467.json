@@ -92,7 +92,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/faction%20kits/buccaneer_shoulder_2.png",
+    "iconURL": "textures/ui/inventory/faction%20kits/buccaneer_shoulder_2.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             180,

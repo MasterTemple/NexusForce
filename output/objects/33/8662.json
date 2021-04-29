@@ -42,7 +42,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/golden_brick.png",
+    "iconURL": "textures/ui/inventory/golden_brick.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             196

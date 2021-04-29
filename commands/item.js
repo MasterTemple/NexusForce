@@ -29,6 +29,7 @@ module.exports = {
         // const itemID = id
         const item = require(`./../output/objects/${Math.floor(itemID/256)}/${itemID}.json`);
         const { uIcon, luExplorerURL, resURL, unknownImageURL, emojis} = require('./../config.json')
+        let img = `${resURL}${item.iconURL}`
 
         //console.log(item)
 
@@ -104,7 +105,7 @@ module.exports = {
         //     var description = `**Equip Location:** Consumable`
         //
         // }
-        let embed = msgEmbed.execute(`${item.itemInfo.displayName} [${item.objectID}]`, description, `${luExplorerURL}objects/${itemID}`, item.iconURL)
+        let embed = msgEmbed.execute(`${item.itemInfo.displayName} [${item.objectID}]`, description, `${luExplorerURL}objects/${itemID}`, img)
 
 
 

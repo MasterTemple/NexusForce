@@ -2,7 +2,7 @@
     "objectID": 16409,
     "itemInfo": {
         "name": "m87421",
-        "displayName": "Wall 3x3x6, 45°",
+        "displayName": "Wall 3x3x6, 45Â°",
         "type": "LEGO brick",
         "description": "",
         "internalNotes": ""
@@ -45,7 +45,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m87421.png",
+    "iconURL": "textures/ui/bricks/dds/m87421.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             245

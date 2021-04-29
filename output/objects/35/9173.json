@@ -2,7 +2,7 @@
     "objectID": 9173,
     "itemInfo": {
         "name": "m76033",
-        "displayName": "Slope Brick 45° 4x10x2 Double with Windows",
+        "displayName": "Slope Brick 45Â° 4x10x2 Double with Windows",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m76033.png",
+    "iconURL": "textures/ui/bricks/dds/m76033.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

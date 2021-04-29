@@ -165,7 +165,7 @@
             }
         }
     },
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/freetrial/ui/inventory/factionkits/shinobi2_sword.png",
+    "iconURL": "textures/freetrial/ui/inventory/factionkits/shinobi2_sword.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             179

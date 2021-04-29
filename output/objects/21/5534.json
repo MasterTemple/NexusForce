@@ -2,7 +2,7 @@
     "objectID": 5534,
     "itemInfo": {
         "name": "m60614",
-        "displayName": "Lid ½ for Frame 1x4x3",
+        "displayName": "Lid Â½ for Frame 1x4x3",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m60614.png",
+    "iconURL": "textures/ui/bricks/dds/m60614.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             245

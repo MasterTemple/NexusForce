@@ -107,7 +107,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/hands/scutumshieldwarning.png",
+    "iconURL": "textures/nexustower/ui/inventory/hands/scutumshieldwarning.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             607

@@ -2,7 +2,7 @@
     "objectID": 917,
     "itemInfo": {
         "name": "m3678",
-        "displayName": "Slope Brick 65° 2x2x2",
+        "displayName": "Slope Brick 65Â° 2x2x2",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3678.png",
+    "iconURL": "textures/ui/bricks/dds/m3678.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             111

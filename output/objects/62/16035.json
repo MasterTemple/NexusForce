@@ -70,7 +70,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/misc/imaginite_herbs.png",
+    "iconURL": "textures/ng_ninjago/ui/inventory/misc/imaginite_herbs.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             759,

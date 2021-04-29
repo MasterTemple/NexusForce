@@ -98,7 +98,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/hands/prismaticwand.png",
+    "iconURL": "textures/auramar/ui/inventory/hands/prismaticwand.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             443

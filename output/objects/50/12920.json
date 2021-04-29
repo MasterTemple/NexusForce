@@ -104,7 +104,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/legs/legs_spinjitzu.png",
+    "iconURL": "textures/auramar/ui/inventory/legs/legs_spinjitzu.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             442

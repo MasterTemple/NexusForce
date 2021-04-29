@@ -2,7 +2,7 @@
     "objectID": 95,
     "itemInfo": {
         "name": "m30648",
-        "displayName": "Tire Ø24 Wide",
+        "displayName": "Tire Ã˜24 Wide",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m30648.png",
+    "iconURL": "textures/ui/bricks/dds/m30648.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

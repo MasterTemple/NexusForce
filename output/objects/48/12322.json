@@ -42,7 +42,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/inventory/misc/skeletonbone.png",
+    "iconURL": "textures/auramar/ui/inventory/misc/skeletonbone.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             453

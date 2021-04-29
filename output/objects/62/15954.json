@@ -182,7 +182,7 @@
             }
         }
     },
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/helms/gray_ninja_hood_katana.png",
+    "iconURL": "textures/ng_ninjago/ui/inventory/helms/gray_ninja_hood_katana.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             844,

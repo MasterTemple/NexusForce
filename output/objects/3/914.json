@@ -2,7 +2,7 @@
     "objectID": 914,
     "itemInfo": {
         "name": "m3641",
-        "displayName": "Tire Ø15 Narrow",
+        "displayName": "Tire Ã˜15 Narrow",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3641.png",
+    "iconURL": "textures/ui/bricks/dds/m3641.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

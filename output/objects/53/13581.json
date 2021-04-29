@@ -123,7 +123,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/hands/skeletonkey.png",
+    "iconURL": "textures/nexustower/ui/inventory/hands/skeletonkey.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             643

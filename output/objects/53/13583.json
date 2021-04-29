@@ -99,7 +99,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/nexustower/ui/inventory/hands/gemhammer.png",
+    "iconURL": "textures/nexustower/ui/inventory/hands/gemhammer.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             643

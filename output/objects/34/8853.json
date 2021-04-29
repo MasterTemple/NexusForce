@@ -2,7 +2,7 @@
     "objectID": 8853,
     "itemInfo": {
         "name": "m4185",
-        "displayName": "Technic Wedge-Belt Wheel Ø24",
+        "displayName": "Technic Wedge-Belt Wheel Ã˜24",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m4185.png",
+    "iconURL": "textures/ui/bricks/dds/m4185.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             242

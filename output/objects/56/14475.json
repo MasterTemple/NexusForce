@@ -44,7 +44,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/misc/skull_a_ton_instructions.png",
+    "iconURL": "textures/ng_ninjago/ui/inventory/misc/skull_a_ton_instructions.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             736

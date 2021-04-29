@@ -42,7 +42,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/auramar/ui/missioncomics/crux_prime/task_icons/mission_1296.png",
+    "iconURL": "textures/auramar/ui/missioncomics/crux_prime/task_icons/mission_1296.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             572

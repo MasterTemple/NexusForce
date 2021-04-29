@@ -48,7 +48,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/models/rew_present_blueyellow_curlyribbon.png",
+    "iconURL": "textures/ui/inventory/models/rew_present_blueyellow_curlyribbon.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             449

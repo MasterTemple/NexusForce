@@ -2,7 +2,7 @@
     "objectID": 874,
     "itemInfo": {
         "name": "m3044",
-        "displayName": "Slope Brick 45° Ridged 1x2",
+        "displayName": "Slope Brick 45Â° Ridged 1x2",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m3044.png",
+    "iconURL": "textures/ui/bricks/dds/m3044.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             111

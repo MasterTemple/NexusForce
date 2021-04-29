@@ -2,7 +2,7 @@
     "objectID": 758,
     "itemInfo": {
         "name": "m56902",
-        "displayName": "Rim Ø18",
+        "displayName": "Rim Ã˜18",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m56902.png",
+    "iconURL": "textures/ui/bricks/dds/m56902.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

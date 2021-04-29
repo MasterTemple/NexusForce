@@ -2,7 +2,7 @@
     "objectID": 8958,
     "itemInfo": {
         "name": "m32020",
-        "displayName": "Rim Ø43.2",
+        "displayName": "Rim Ã˜43.2",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -43,7 +43,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m32020.png",
+    "iconURL": "textures/ui/bricks/dds/m32020.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             113

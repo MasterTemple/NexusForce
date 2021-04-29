@@ -122,7 +122,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/hands/ag_gold_wrench.png",
+    "iconURL": "textures/ui/inventory/hands/ag_gold_wrench.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

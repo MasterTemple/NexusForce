@@ -44,7 +44,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ng_ninjago/ui/inventory/misc/lucky_wolf_paw.png",
+    "iconURL": "textures/ng_ninjago/ui/inventory/misc/lucky_wolf_paw.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             745

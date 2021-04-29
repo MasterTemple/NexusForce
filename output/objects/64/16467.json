@@ -2,7 +2,7 @@
     "objectID": 16467,
     "itemInfo": {
         "name": "m93575",
-        "displayName": "Hand 2x3x2 Ball Cup Ø10.2",
+        "displayName": "Hand 2x3x2 Ball Cup Ã˜10.2",
         "type": "LEGO brick",
         "description": "",
         "internalNotes": ""
@@ -45,7 +45,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/bricks/dds/m93575.png",
+    "iconURL": "textures/ui/bricks/dds/m93575.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             242

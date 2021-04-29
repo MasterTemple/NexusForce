@@ -83,7 +83,7 @@
     "overview": {},
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/torsos/m73200_lego_universe.png",
+    "iconURL": "textures/ui/inventory/torsos/m73200_lego_universe.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

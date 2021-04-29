@@ -115,7 +115,7 @@
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "https://xiphoseer.github.io/lu-res/textures/ui/inventory/faction%20kits/sorcerer_staff_1.png",
+    "iconURL": "textures/ui/inventory/faction%20kits/sorcerer_staff_1.png",
     "buyAndDrop": {
         "LootTableIndexes": [
             146,
