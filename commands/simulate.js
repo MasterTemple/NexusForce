@@ -33,16 +33,37 @@ module.exports = {
         //const commandName = params.shift().toLowerCase();
         // message.channel.send(params)
         try{
-            var itemID = findOneItem.execute(params[0].split(/ +/))
+
+            try{
+
+                let paramName = params[0].split(/ +/)
+                if(paramName.length === 1 && isNaN(paramName[0]) === false){
+                    var itemID = paramName[0]
+                }else {
+                    var itemID = findOneItem.execute(paramName)
+                }
+            }catch{
+                message.channel.send('Item not found')
+            }
             // message.channel.send(itemID)
-            var enemyID = findOneEnemy.execute(params[1].split(/ +/))
-        }catch{
+            try{
+                let paramName = params[1].split(/ +/)
+                if(paramName.length === 1 && isNaN(paramName[0]) === false){
+                    var enemyID = paramName[0]
+                }else {
+                    var enemyID = findOneEnemy.execute(paramName)
+                }
+            }catch{
+                message.channel.send('Enemy not found')
+            }
+        }catch(e){
+            console.log(e)
             err()
             return
         }
         //console.log(itemID, enemyID)
         //message.channel.send(itemID, enemyID)
-        const item = require(`./../output/objects/${Math.floor(itemID/256)}/${itemID}.json`);
+        var item = require(`./../output/objects/${Math.floor(itemID/256)}/${itemID}.json`);
         var enemyFile = require(`./../output/enemies/${enemyID}.json`)
         const LMI = enemyFile.drop.LootMatrixIndex
 
@@ -68,7 +89,13 @@ module.exports = {
 
         let embed = msgEmbed.execute(`${item.itemInfo.displayName} [${item.objectID}]`, undefined,`${luExplorerURL}objects/${item.objectID}`, img)
         //Object.keys(item['buyAndDrop']['LootMatrixIndexes'][LMI]['DestructibleComponent'])[0]
-        let name = item['buyAndDrop']['LootMatrixIndexes'][LMI]['DestructibleComponent'][Object.keys(item['buyAndDrop']['LootMatrixIndexes'][LMI]['DestructibleComponent'])[0]]['enemyNames']['displayName']
+        try {
+            var name = item['buyAndDrop']['LootMatrixIndexes'][LMI]['DestructibleComponent'][Object.keys(item['buyAndDrop']['LootMatrixIndexes'][LMI]['DestructibleComponent'])[0]]['enemyNames']['displayName']
+        }catch{
+            embed.addField(`This Item Is Not Dropped`, "Try **!earn** or **!buy** to see how to unlock this item!", false)
+            message.channel.send(embed)
+            return
+        }
         let total_chance = item['buyAndDrop']['LootMatrixIndexes'][LMI]['overallChance']['howManyToKill']
         let not_rolled = true
         let roll = 0
