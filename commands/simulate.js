@@ -48,9 +48,14 @@ module.exports = {
                 }else {
                     var itemID = findOneItem.execute(paramName)
                 }
-                var item = require(`./../output/objects/${Math.floor(itemID/256)}/${itemID}.json`);
+                var item = require(`./../output/objects/${Math.floor(itemID/256)}/${itemID}.json`)
+                let img = `${resURL}${item.iconURL}`
 
-            }catch{
+                var embed = msgEmbed.execute(`${item.itemInfo.displayName} [${item.objectID}]`, undefined,`${luExplorerURL}objects/${item.objectID}`, img)
+
+
+            }catch(e){
+                console.log(e)
                 message.channel.send('Item not found')
             }
             if(item.buyAndDrop.LootTableIndexes.length === 0){
@@ -72,28 +77,33 @@ module.exports = {
                     }catch{
                         var enemyFile = require(`./../output/activities/${enemyID}.json`)
                     }
+                    var embed = msgEmbed.execute(`${item.itemInfo.displayName} [${item.objectID}]`, undefined,`${luExplorerURL}objects/${item.objectID}`, img)
+
 
                 }else {
                     try {
                         var enemyID = findOneEnemy.execute(paramName)
                         var enemyFile = require(`./../output/enemies/${enemyID}.json`)
+                        //var embed = msgEmbed.execute(`${item.itemInfo.displayName} [${item.objectID}]`, undefined,`${luExplorerURL}objects/${item.objectID}`, img)
 
                     }catch{
-
                         try{
                             var enemyID = findOnePackage.execute(paramName)
                             var enemyFile = require(`./../output/packages/${enemyID}.json`)
 
                         }catch{
                             var enemyIDArray = findOneActivity.execute(paramName)
+                            //console.log(enemyIDArray)
                             var enemyID = enemyIDArray[0]
                             var activityName = enemyIDArray[1]
                             var enemyFile = require(`./../output/activities/${enemyID}.json`)
+                            //enemyFile = enemyFile['activites'][activityName]
                         }
 
                     }
                 }
-            }catch{
+            }catch(e){
+                console.log(e)
                 message.channel.send('Enemy not found')
             }
         }catch(e){
@@ -115,10 +125,16 @@ module.exports = {
         //console.log(activityID)
         try {
             var LMI = enemyFile.drop.LootMatrixIndex
+            if(LMI === undefined){
+                throw new Error("undefined")
+            }
         }catch{
             try{
                 var LMI = enemyFile.LootMatrixIndex
-            }catch {
+                if(LMI === undefined){
+                    throw new Error("undefined")
+                }
+            }catch{
                 var LMI = enemyFile.activities[activityName].LootMatrixIndex
             }
         }
@@ -163,8 +179,11 @@ module.exports = {
         }
 
         try {
-            var total_chance = item['buyAndDrop']['LootMatrixIndexes'][LMI]['overallChance']['howManyToKill']
-        }catch{
+           //console.log(LMI)
+           var total_chance = item['buyAndDrop']['LootMatrixIndexes'][LMI]['overallChance']['howManyToKill']
+
+        }catch(e){
+            //console.log(e)
             embed.addField(`This Item Is Not Dropped By '${params[1]}'`, "Try **!drop** to see what drops this item!", false)
             message.channel.send(embed)
             return
@@ -175,6 +194,11 @@ module.exports = {
             return Math.floor(Math.random() * (max - min) ) + min;
         }
         //console.log(total_chance)
+        //var embed = msgEmbed.execute(`${item.itemInfo.displayName} [${item.objectID}]`, undefined,`${luExplorerURL}objects/${item.objectID}`, img)
+        // let img = `${resURL}${item.iconURL}`
+        //
+        // var embed = msgEmbed.execute(`${item.itemInfo.displayName} [${item.objectID}]`, undefined,`${luExplorerURL}objects/${item.objectID}`, img)
+
         while(not_rolled){
             let num = getRndInteger(0, total_chance+1)
             //console.log(num)
