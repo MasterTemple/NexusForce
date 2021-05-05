@@ -27,7 +27,7 @@ module.exports = {
             required = required.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
             this_level = this_level.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
             embed.addFields(
-                { name: 'Requiremsents', value: `**For Level ${args[0]}:**`, inline: true },
+                { name: 'Requirements', value: `**For Level ${args[0]}:**`, inline: true },
                 { name: `From Level ${parseInt(args[0])-1}`, value: `${this_level} Experience`, inline: true },
                 { name: 'Total', value: `${required} Experience`, inline: true },
             )
