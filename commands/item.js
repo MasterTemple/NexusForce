@@ -50,8 +50,10 @@ module.exports = {
         if(item?.itemInfo?.internalNotes === null){
             item.itemInfo.internalNotes = "None"
         }
-        if(item?.itemComponent?.levelRequriement === null || item?.itemComponent?.levelRequriement === undefined){
+        if(item?.itemComponent?.levelRequirement === null || item?.itemComponent?.levelRequirement === undefined){
+            //console.log(item.itemComponent.levelRequirement)
             item.itemComponent.levelRequirement = 0
+
         }
         if(item.name === null){
             item.name = "None"
