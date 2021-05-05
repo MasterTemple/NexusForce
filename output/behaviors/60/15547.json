@@ -27,6 +27,7 @@
         "attackTypes": [
             "Ranged",
             "Area of Effect",
+            "Interruption",
             "Knockback"
         ]
     },

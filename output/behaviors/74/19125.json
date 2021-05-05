@@ -25,7 +25,8 @@
             4
         ],
         "attackTypes": [
-            "Ranged"
+            "Ranged",
+            "Interruption"
         ]
     },
     "projectileBehaviorIDs": [

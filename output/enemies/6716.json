@@ -624,6 +624,7 @@
                 1
             ],
             "attackTypes": [],
+            "projectileBehaviorID": "None",
             "cooldown": 0.1
         }
     }

@@ -18,7 +18,9 @@
         "allDamage": [
             10
         ],
-        "attackTypes": []
+        "attackTypes": [
+            "Interruption"
+        ]
     },
     "projectileBehaviorIDs": [],
     "projectileChargeUpBehaviorIDs": [],

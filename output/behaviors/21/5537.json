@@ -27,12 +27,17 @@
         ],
         "attackTypes": [
             "Area of Effect",
+            "Interruption",
+            "Interruption",
             "Knockback",
+            "Interruption",
             "Knockback",
+            "Interruption",
             "Knockback",
             "Area of Effect",
             "Knockback",
             "Knockback",
+            "Interruption",
             "Knockback"
         ],
         "doubleJumpSmash": 1,

@@ -14,7 +14,9 @@
         "projectileDamageComboArray": [],
         "chargeUpCombo": 0,
         "allDamage": [],
-        "attackTypes": []
+        "attackTypes": [
+            "Interruption"
+        ]
     },
     "projectileBehaviorIDs": [],
     "projectileChargeUpBehaviorIDs": [],

@@ -58,6 +58,7 @@
             "attackTypes": [
                 "Area of Effect"
             ],
+            "projectileBehaviorID": "None",
             "cooldown": 5.0
         }
     }

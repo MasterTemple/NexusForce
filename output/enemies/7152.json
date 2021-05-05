@@ -56,6 +56,7 @@
             "attackTypes": [
                 "Ranged"
             ],
+            "projectileBehaviorID": 3684,
             "cooldown": 4.0
         }
     }

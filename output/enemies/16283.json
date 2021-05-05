@@ -647,8 +647,10 @@
                 2
             ],
             "attackTypes": [
+                "Interruption",
                 "Knockback"
             ],
+            "projectileBehaviorID": "None",
             "cooldown": 3.0
         },
         "5963": {
@@ -656,8 +658,10 @@
                 5
             ],
             "attackTypes": [
+                "Interruption",
                 "Knockback"
             ],
+            "projectileBehaviorID": "None",
             "cooldown": 2.7
         },
         "15556": {
@@ -665,8 +669,10 @@
                 1
             ],
             "attackTypes": [
-                "Ranged"
+                "Ranged",
+                "Interruption"
             ],
+            "projectileBehaviorID": 216,
             "cooldown": 2.0
         }
     }

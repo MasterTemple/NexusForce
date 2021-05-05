@@ -19,6 +19,7 @@
             9
         ],
         "attackTypes": [
+            "Interruption",
             "Area of Effect"
         ]
     },

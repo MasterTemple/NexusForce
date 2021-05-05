@@ -17,7 +17,8 @@
             5
         ],
         "attackTypes": [
-            "Knockback"
+            "Knockback",
+            "Interruption"
         ]
     },
     "projectileBehaviorIDs": [],

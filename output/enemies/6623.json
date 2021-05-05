@@ -54,8 +54,10 @@
             "damage": [],
             "attackTypes": [
                 "Area of Effect",
+                "Interruption",
                 "Knockback"
             ],
+            "projectileBehaviorID": "None",
             "cooldown": 1.0
         }
     }

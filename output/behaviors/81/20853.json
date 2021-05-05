@@ -27,7 +27,8 @@
         "attackTypes": [
             "Ranged",
             "Area of Effect",
-            "Knockback"
+            "Knockback",
+            "Interruption"
         ]
     },
     "projectileBehaviorIDs": [

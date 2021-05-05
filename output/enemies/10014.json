@@ -799,8 +799,10 @@
                 1
             ],
             "attackTypes": [
-                "Knockback"
+                "Knockback",
+                "Interruption"
             ],
+            "projectileBehaviorID": "None",
             "cooldown": 1.0
         },
         "1969": {
@@ -808,8 +810,10 @@
                 3
             ],
             "attackTypes": [
+                "Interruption",
                 "Knockback"
             ],
+            "projectileBehaviorID": "None",
             "cooldown": 4.75
         }
     }

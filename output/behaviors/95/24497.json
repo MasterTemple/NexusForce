@@ -25,9 +25,14 @@
         ],
         "attackTypes": [
             "Knockback",
+            "Interruption",
+            "Interruption",
             "Knockback",
             "Knockback",
+            "Interruption",
             "Knockback",
+            "Interruption",
+            "Interruption",
             "Knockback",
             "Knockback"
         ],

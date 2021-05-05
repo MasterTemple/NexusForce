@@ -976,8 +976,10 @@
                 3
             ],
             "attackTypes": [
-                "Ranged"
+                "Ranged",
+                "Interruption"
             ],
+            "projectileBehaviorID": 6074,
             "cooldown": 2.25
         },
         "9469": {
@@ -985,8 +987,10 @@
                 2
             ],
             "attackTypes": [
-                "Area of Effect"
+                "Area of Effect",
+                "Interruption"
             ],
+            "projectileBehaviorID": "None",
             "cooldown": 4.5
         }
     }
