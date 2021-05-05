@@ -66,10 +66,18 @@ module.exports = {
             // if()
             let arr = []
             let ranged = false
+            if (enemyFile.overview[el].projectileBehaviorID !== "None") {
+                let projectileFile = require(`./../output/behaviors/${Math.floor(enemyFile.overview[el].projectileBehaviorID/256)}/${enemyFile.overview[el].projectileBehaviorID}.json`)
+                enemyFile.overview[el].attackTypes = enemyFile.overview[el].attackTypes.concat(projectileFile.overview.attackTypes)
+                console.log(enemyFile.overview[el].attackTypes)
+                console.log('projectile')
+            }
             for(let i=0;i<enemyFile.overview[el].attackTypes.length;i++){
                 // if(arr.includes(enemyFile.overview[el].attackTypes[i]) === false && enemyFile.overview[el].attackTypes[i] !== "Ranged"){
                 //     arr.push(enemyFile.overview[el].attackTypes[i])
                 // }
+
+
                 if(arr.includes(enemyFile.overview[el].attackTypes[i]) === false){
                     arr.push(enemyFile.overview[el].attackTypes[i])
                 }
