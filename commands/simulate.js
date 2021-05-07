@@ -57,6 +57,7 @@ module.exports = {
             }catch(e){
                 console.log(e)
                 message.channel.send('Item not found')
+                return
             }
             if(item.buyAndDrop.LootTableIndexes.length === 0){
                 let img = `${resURL}${item.iconURL}`
@@ -105,6 +106,7 @@ module.exports = {
             }catch(e){
                 console.log(e)
                 message.channel.send('Enemy not found')
+                return
             }
         }catch(e){
             console.log(e)
