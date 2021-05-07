@@ -14,7 +14,8 @@ module.exports = {
             exec("git remote add NexusForce https://github.com/MasterTemple/NexusForce.git master", (error, stdout, stderr) => {});
         }catch{}
 
-        exec("git pull", (error, stdout, stderr) => {
+
+        exec("git reset --hard", (error, stdout, stderr) => {
             if (error) {
                 console.log(`error: ${error.message}`);
                 return;
@@ -23,7 +24,19 @@ module.exports = {
                 console.log(`stderr: ${stderr}`);
                 return;
             }
-        });
+        }).then( ()=> {
+            exec("git pull", (error, stdout, stderr) => {
+                if (error) {
+                    console.log(`error: ${error.message}`);
+                    return;
+                }
+                if (stderr) {
+                    console.log(`stderr: ${stderr}`);
+                    return;
+                }
+            });
+        })
+
 
         message.channel.send('Update Complete.')
 
