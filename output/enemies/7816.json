@@ -976,7 +976,8 @@
                 3
             ],
             "attackTypes": [
-                "Ranged"
+                "Ranged",
+                "Interruption"
             ],
             "projectileBehaviorID": 6074,
             "cooldown": 2.25

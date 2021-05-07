@@ -19,7 +19,8 @@
             1
         ],
         "attackTypes": [
-            "Area of Effect"
+            "Area of Effect",
+            "Interruption"
         ]
     },
     "projectileBehaviorIDs": [],

@@ -650,8 +650,10 @@
             "attackTypes": [
                 "Ranged",
                 "Area of Effect",
+                "Interruption",
                 "Knockback"
             ],
+            "projectileBehaviorID": 6234,
             "cooldown": 5.0
         },
         "19084": {
@@ -661,8 +663,10 @@
             "attackTypes": [
                 "Ranged",
                 "Area of Effect",
+                "Interruption",
                 "Knockback"
             ],
+            "projectileBehaviorID": 6234,
             "cooldown": 5.0
         },
         "27303": {
@@ -672,8 +676,10 @@
             "attackTypes": [
                 "Area of Effect",
                 "Area of Effect",
+                "Interruption",
                 "Knockback"
             ],
+            "projectileBehaviorID": "None",
             "cooldown": 10.0
         },
         "27320": {
@@ -682,11 +688,14 @@
             ],
             "attackTypes": [
                 "Area of Effect",
+                "Interruption",
                 "Knockback",
                 "Ranged",
                 "Area of Effect",
+                "Interruption",
                 "Knockback"
             ],
+            "projectileBehaviorID": 6234,
             "cooldown": 6.0
         }
     }

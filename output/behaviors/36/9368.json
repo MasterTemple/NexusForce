@@ -20,7 +20,9 @@
             3
         ],
         "attackTypes": [
+            "Interruption",
             "Knockback",
+            "Interruption",
             "Knockback",
             "Ranged",
             "Knockback",

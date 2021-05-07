@@ -20,10 +20,13 @@
         ],
         "attackTypes": [
             "Knockback",
+            "Interruption",
+            "Knockback",
+            "Interruption",
             "Knockback",
             "Knockback",
             "Knockback",
-            "Knockback"
+            "Interruption"
         ]
     },
     "projectileBehaviorIDs": [],

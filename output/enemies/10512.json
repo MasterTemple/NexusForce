@@ -208,7 +208,12 @@
                 2,
                 2
             ],
-            "attackTypes": [],
+            "attackTypes": [
+                "Interruption",
+                "Interruption",
+                "Interruption"
+            ],
+            "projectileBehaviorID": "None",
             "cooldown": 4.5
         }
     }

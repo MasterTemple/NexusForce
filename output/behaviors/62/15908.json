@@ -18,7 +18,11 @@
             1,
             2
         ],
-        "attackTypes": []
+        "attackTypes": [
+            "Interruption",
+            "Interruption",
+            "Interruption"
+        ]
     },
     "projectileBehaviorIDs": [],
     "projectileChargeUpBehaviorIDs": [],

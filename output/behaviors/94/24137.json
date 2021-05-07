@@ -15,7 +15,8 @@
         "chargeUpCombo": 0,
         "allDamage": [],
         "attackTypes": [
-            "Area of Effect"
+            "Area of Effect",
+            "Interruption"
         ]
     },
     "projectileBehaviorIDs": [],

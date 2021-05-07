@@ -27,7 +27,11 @@
         ],
         "attackTypes": [
             "Area of Effect",
+            "Interruption",
+            "Interruption",
             "Knockback",
+            "Interruption",
+            "Interruption",
             "Knockback",
             "Knockback",
             "Knockback",

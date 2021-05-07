@@ -17,6 +17,7 @@
             1
         ],
         "attackTypes": [
+            "Interruption",
             "Knockback"
         ]
     },

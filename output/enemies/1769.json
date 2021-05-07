@@ -39,6 +39,7 @@
             "attackTypes": [
                 "Knockback"
             ],
+            "projectileBehaviorID": "None",
             "cooldown": 3.0
         }
     }

@@ -71,8 +71,10 @@
         "1835": {
             "damage": [],
             "attackTypes": [
+                "Interruption",
                 "Knockback"
             ],
+            "projectileBehaviorID": "None",
             "cooldown": 0.5
         },
         "19117": {
@@ -80,8 +82,10 @@
                 3
             ],
             "attackTypes": [
-                "Ranged"
+                "Ranged",
+                "Interruption"
             ],
+            "projectileBehaviorID": 5944,
             "cooldown": 2.0
         }
     }

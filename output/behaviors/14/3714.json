@@ -15,6 +15,7 @@
         "chargeUpCombo": 0,
         "allDamage": [],
         "attackTypes": [
+            "Interruption",
             "Knockback"
         ]
     },

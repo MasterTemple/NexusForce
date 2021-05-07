@@ -56,8 +56,10 @@
             ],
             "attackTypes": [
                 "Area of Effect",
-                "Ranged"
+                "Ranged",
+                "Interruption"
             ],
+            "projectileBehaviorID": 216,
             "cooldown": 5.0
         }
     }

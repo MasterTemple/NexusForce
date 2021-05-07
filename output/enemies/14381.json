@@ -197,8 +197,10 @@
                 1
             ],
             "attackTypes": [
-                "Ranged"
+                "Ranged",
+                "Interruption"
             ],
+            "projectileBehaviorID": 216,
             "cooldown": 4.0
         },
         "3782": {
@@ -207,15 +209,20 @@
             ],
             "attackTypes": [
                 "Area of Effect",
+                "Interruption",
                 "Knockback"
             ],
+            "projectileBehaviorID": "None",
             "cooldown": 9.0
         },
         "38338": {
             "damage": [
                 1
             ],
-            "attackTypes": [],
+            "attackTypes": [
+                "Interruption"
+            ],
+            "projectileBehaviorID": "None",
             "cooldown": 3.0
         }
     }

@@ -56,8 +56,10 @@
                 1
             ],
             "attackTypes": [
-                "Knockback"
+                "Knockback",
+                "Interruption"
             ],
+            "projectileBehaviorID": "None",
             "cooldown": 1.0
         }
     }

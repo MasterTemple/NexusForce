@@ -24,8 +24,10 @@
         "attackTypes": [
             "Ranged",
             "Ranged",
+            "Interruption",
             "Ranged",
             "Area of Effect",
+            "Interruption",
             "Area of Effect"
         ],
         "projectileChargeUpLOT": 7604,

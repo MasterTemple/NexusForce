@@ -57,6 +57,7 @@
         "246": {
             "damage": [],
             "attackTypes": [],
+            "projectileBehaviorID": "None",
             "cooldown": 10.0
         }
     }
