@@ -55,7 +55,7 @@ module.exports = {
 
 
             }catch(e){
-                console.log(e)
+                // console.log(e)
                 message.channel.send('Item not found')
                 return
             }
@@ -104,12 +104,12 @@ module.exports = {
                     }
                 }
             }catch(e){
-                console.log(e)
+                // console.log(e)
                 message.channel.send('Enemy not found')
                 return
             }
         }catch(e){
-            console.log(e)
+            // console.log(e)
             err()
             return
         }
@@ -137,8 +137,13 @@ module.exports = {
                     throw new Error("undefined")
                 }
             }catch{
-                var LMI = enemyFile.activities[activityName].LootMatrixIndex
+                try {
+                    var LMI = enemyFile.activities[activityName].LootMatrixIndex
+                }catch{
+                    return
+                }
             }
+
         }
 
         // for(let key=0;key<Object.keys(item.buyAndDrop.LootMatrixIndexes);key++){
@@ -186,7 +191,7 @@ module.exports = {
 
         }catch(e){
             //console.log(e)
-            embed.addField(`This Item Is Not Dropped By '${params[1]}'`, "Try **!drop** to see what drops this item!", false)
+            embed.addField(`This Item Is Not Dropped By '${name}'`, "Try **!drop** to see what drops this item!", false)
             message.channel.send(embed)
             return
         }
