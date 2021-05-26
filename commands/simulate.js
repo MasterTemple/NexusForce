@@ -214,11 +214,11 @@ module.exports = {
                 not_rolled = false
                 roll = roll.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
                 total_chance = total_chance.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-                if(roll[roll.length-1] === '1'){
+                if(roll[roll.length-1] === '1' && roll[roll.length-2] !== '1' ){
                     embed.addField(`1 in ${total_chance} chance to drop ${item.itemInfo.displayName} from ${name}`, `You got one on your ${roll}st roll!`, false)
-                }else if(roll[roll.length-1] === '2'){
+                }else if(roll[roll.length-1] === '2' && roll[roll.length-2] !== '1' ){
                     embed.addField(`1 in ${total_chance} chance to drop ${item.itemInfo.displayName} from ${name}`, `You got one on your ${roll}nd roll!`, false)
-                }else if(roll[roll.length-1] === '3'){
+                }else if(roll[roll.length-1] === '3' && roll[roll.length-2] !== '1' ){
                     embed.addField(`1 in ${total_chance} chance to drop ${item.itemInfo.displayName} from ${name}`, `You got one on your ${roll}rd roll!`, false)
                 }else {
                     embed.addField(`1 in ${total_chance} chance to drop ${item.itemInfo.displayName} from ${name}`, `You got one on your ${roll}th roll!`, false)
