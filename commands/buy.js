@@ -69,7 +69,7 @@ module.exports = {
         }
         for(var e=0;e<buyFile.buyAndDrop.Vendors.length;e++){
             if(buyFile.buyAndDrop.Vendors[e].displayName !== null) {
-                vendorInfo = `${vendorInfo}${buyFile.buyAndDrop.Vendors[e].displayName} [${buyFile.buyAndDrop.Vendors[e].id}]\n`
+                vendorInfo = `${vendorInfo}${buyFile.buyAndDrop.Vendors[e].displayName} [[${buyFile.buyAndDrop.Vendors[e].id}]](https://lu-explorer.web.app/objects/${buyFile.buyAndDrop.Vendors[e].id}/16)\n`
             }
         }
 
@@ -78,7 +78,7 @@ module.exports = {
         }else if(buyFile.buyAndDrop.Vendors.length > 1){
             embed.addField(`Vendors:`, vendorInfo, false)
         }else if(buyFile.commendationVendor.length === 1 && buyFile.commendationCost !== null){
-            embed.addField(`Vendor:`, `Honor Accolade - Commendation Vendor [13806]`, false)
+            embed.addField(`Vendor:`, `Honor Accolade - Commendation Vendor [[13806]](https://lu-explorer.web.app/objects/13806/16`, false)
         }else if(buyFile.type === "LEGO brick"){
             embed.addField(`Vendor:`, `${buyFile.brickVendorDisplayName} [${buyFile.brickVendorID}]`, false)
         }else{
