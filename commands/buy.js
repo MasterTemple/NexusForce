@@ -37,7 +37,8 @@ module.exports = {
         const { uIcon, luExplorerURL, resURL, unknownImageURL} = require('./../config.json')
 
         //let embed = msgEmbed.execute(buyFile.displayName, undefined,`${luExplorerURL}objects/${buyFile.objectID}`, buyFile.iconURL)
-        let embed = msgEmbed.execute(`${buyFile.itemInfo.displayName} [${buyFile.objectID}]`, undefined,`${luExplorerURL}objects/${buyFile.objectID}`, buyFile.iconURL)
+        // console.log(`${resURL}${buyFile.iconUR}`)
+        let embed = msgEmbed.execute(`${buyFile.itemInfo.displayName} [${buyFile.objectID}]`, undefined,`${luExplorerURL}objects/${buyFile.objectID}`, `${resURL}${buyFile.iconURL}`)
 
         if(buyFile.itemComponent.altCurrencyCost !== null){
             embed.addFields(
