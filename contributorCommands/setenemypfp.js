@@ -52,20 +52,21 @@ module.exports = {
         file.iconURL = url
 
         fs.writeFile (`./output/enemies/${objectID}.json`, JSON.stringify(file,null,2), function(err) {
-                if (err) throw err;
-                let logFile = require('../output/contributor/EnemyPFPUpdates.json')
-                logFile.push({
-                    "objectID": objectID,
-                    "path": url
-                })
+            if (err) throw err;
+            let logFile = require('../output/contributor/EnemyPFPUpdates.json')
+            logFile[objectID] = url
+            // logFile.push({
+            //     "objectID": objectID,
+            //     "path": url
+            // })
 
-                fs.writeFile (`./output/contributor/EnemyPFPUpdates.json`, JSON.stringify(logFile,null,2), function(err) {
-                        if (err) throw err;
-                    }
-                );
-                message.channel.send("Done ✅")
-            }
-        );
+            fs.writeFile (`./output/contributor/EnemyPFPUpdates.json`, JSON.stringify(logFile,null,2), function(err) {
+                    if (err) throw err;
+                }
+            );
+            message.channel.send("Done ✅")
+        }
+    );
 
     }
 }

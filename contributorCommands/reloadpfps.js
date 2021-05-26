@@ -31,6 +31,7 @@ module.exports = {
 
         // message.reply(objectID)
         // return
+        const fs = require('fs')
         let pathName
         let dir
         let hasSubDir
@@ -45,15 +46,32 @@ module.exports = {
             hasSubDir = true
         }
         var presetFile = require('./../output/contributor/'+pathName+'.json')
-        for(let c=0;c<presetFile.length;c++){
-            let objectID = presetFile[c]['objectID']
-            let url = presetFile[c]['path']
+
+        // for(let c=0;c<presetFile.length;c++){
+        //     let objectID = presetFile[c]['objectID']
+        //     let url = presetFile[c]['path']
+        //     if(hasSubDir){
+        //         subdir = `/${Math.floor(parseInt(objectID)/256)}`
+        //     }
+        //     let file = require(`./../output/${dir}${subdir}/${objectID}.json`)
+        //
+        //     file.iconURL = url
+        //
+        //     fs.writeFile(`./output/${dir}${subdir}/${objectID}.json`, JSON.stringify(file, null, 2), function (err) {
+        //             if (err) throw err;
+        //
+        //         }
+        //     );
+        // }
+
+        Object.keys(presetFile).forEach(function(e){
+            let objectID = e
+            let url = presetFile[e]
             if(hasSubDir){
                 subdir = `/${Math.floor(parseInt(objectID)/256)}`
             }
-            var file = require(`./../output/${dir}${subdir}/${objectID}.json`)
+            let file = require(`./../output/${dir}${subdir}/${objectID}.json`)
 
-            const fs = require('fs')
             file.iconURL = url
 
             fs.writeFile(`./output/${dir}${subdir}/${objectID}.json`, JSON.stringify(file, null, 2), function (err) {
@@ -61,7 +79,7 @@ module.exports = {
 
                 }
             );
-        }
+        })
 
         message.channel.send("Please wait a minute for changes to finish.")
 

@@ -977,7 +977,6 @@
       ],
       "attackTypes": [
         "Ranged",
-        "Interruption",
         "Interruption"
       ],
       "projectileBehaviorID": 6074,

@@ -52,19 +52,21 @@ module.exports = {
         file.iconURL = url
 
         fs.writeFile (`./output/npcs/${Math.floor(objectID/256)}/${objectID}.json`, JSON.stringify(file,null,2), function(err) {
-                if (err) throw err;
-                let logFile = require('../output/contributor/NPCPFPUpdates.json')
-                logFile.push({
-                    "objectID": objectID,
-                    "path": url
-                })
+            if (err) throw err;
+            let logFile = require('../output/contributor/NPCPFPUpdates.json')
+            logFile[objectID] = url
 
-                fs.writeFile (`./output/contributor/NPCPFPUpdates.json`, JSON.stringify(logFile,null,2), function(err) {
-                        if (err) throw err;
-                    }
-                );
-                message.channel.send("Done ✅")
-            }
+            // logFile.push({
+            //         "objectID": objectID,
+            //         "path": url
+            //     })
+
+            fs.writeFile (`./output/contributor/NPCPFPUpdates.json`, JSON.stringify(logFile,null,2), function(err) {
+                    if (err) throw err;
+                }
+            );
+            message.channel.send("Done ✅")
+        }
         );
 
     }

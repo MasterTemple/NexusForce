@@ -1,6 +1,4 @@
-[
-  {
-    "objectID": "13569",
-    "path": "textures/nexustower/ui/missioncomics/nexustower/task_icons/mission_mr_ree.png"
-  }
-]
+{
+    "13569": "textures/nexustower/ui/missioncomics/nexustower/task_icons/mission_mr_ree.png"
+}
+

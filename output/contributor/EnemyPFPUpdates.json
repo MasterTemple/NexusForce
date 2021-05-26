@@ -1,194 +1,46 @@
-[
-  {
-    "objectID": "6806",
-    "path": "textures/ui/missioncomics/wonderland/nimbus_station/hud_icons/mission_835.png"
-  },
-  {
-    "objectID": "7815",
-    "path": "textures/ui/missioncomics/wonderland/forbidden_valley/hud_icons/mission_498.png"
-  },
-  {
-    "objectID": "6253",
-    "path": "textures/ui/missioncomics/wonderland/avant_gardens/task_icons/turret_task.png?width=80&height=80"
-  },
-  {
-    "objectID": "6359",
-    "path": "textures/ui/missioncomics/wonderland/avant_gardens/task_icons/mission_313.png"
-  },
-  {
-    "objectID": "6789",
-    "path": "textures/ui/missioncomics/wonderland/gnarled_forest/task_icons/mission_460.png?width=80&height=80"
-  },
-  {
-    "objectID": "7816",
-    "path": "textures/ui//missioncomics/wonderland/forbidden_valley/task_icons/mission_497.png"
-  },
-  {
-    "objectID": "6444",
-    "path": "textures/ui/missioncomics/wonderland/avant_gardens/task_icons/mission_313.png"
-  },
-  {
-    "objectID": "6253",
-    "path": "textures/ui/missioncomics/wonderland/avant_gardens/task_icons/turret_task.png"
-  },
-  {
-    "objectID": "8433",
-    "path": "textures/ui/missioncomics/wonderland/avant_gardens/task_icons/turret_task.png"
-  },
-  {
-    "objectID": "11216",
-    "path": "textures/auramar/ui/missioncomics/crux_prime/task_icons/mission_980.png"
-  },
-  {
-    "objectID": "11212",
-    "path": "textures/auramar/ui/achievements/cp_stromling.png"
-  },
-  {
-    "objectID": "11213",
-    "path": "textures/auramar/ui/achievements/cp_mech.png"
-  },
-  {
-    "objectID": "11215",
-    "path": "textures/auramar/ui/achievements/cp_pirate.png"
-  },
-  {
-    "objectID": "11212",
-    "path": "textures/auramar/ui/achievements/cp_stromling.png"
-  },
-  {
-    "objectID": "11218",
-    "path": "textures/auramar/ui/achievements/cp_ronin.png"
-  },
-  {
-    "objectID": "11219",
-    "path": "textures/auramar/ui/achievements/cp_cavalry.png"
-  },
-  {
-    "objectID": "11217",
-    "path": "textures/auramar/ui/achievements/cp_gorilla.png"
-  },
-  {
-    "objectID": "11987",
-    "path": "textures/auramar/ui/achievements/cp_gorilla.png"
-  },
-  {
-    "objectID": "11982",
-    "path": "textures/auramar/ui/achievements/cp_stromling.png"
-  },
-  {
-    "objectID": "11983",
-    "path": "textures/auramar/ui/achievements/cp_mech.png"
-  },
-  {
-    "objectID": "11214",
-    "path": "textures/auramar/ui/achievements/cp_spiderling.png"
-  },
-  {
-    "objectID": "11984",
-    "path": "textures/auramar/ui/achievements/cp_spiderling.png"
-  },
-  {
-    "objectID": "11985",
-    "path": "textures/auramar/ui/achievements/cp_pirate.png"
-  },
-  {
-    "objectID": "11986",
-    "path": "textures/auramar/ui/missioncomics/crux_prime/task_icons/mission_980.png"
-  },
-  {
-    "objectID": "11988",
-    "path": "textures/auramar/ui/achievements/cp_ronin.png"
-  },
-  {
-    "objectID": "12654",
-    "path": "textures/auramar/ui/achievements/cp_cavalry.png"
-  },
-  {
-    "objectID": "12002",
-    "path": "textures/auramar/ui/achievements/cp_skullkin_engineer.png"
-  },
-  {
-    "objectID": "12004",
-    "path": "textures/auramar/ui/achievements/cp_skullkin_pitboss.png"
-  },
-  {
-    "objectID": "7805",
-    "path": "textures/ui/missioncomics/wonderland/forbidden_valley/hud_icons/mission_513.png"
-  },
-  {
-    "objectID": "11225",
-    "path": "textures/ui/missioncomics/wonderland/forbidden_valley/hud_icons/mission_513.png"
-  },
-  {
-    "objectID": "11226",
-    "path": "textures/ui/missioncomics/wonderland/forbidden_valley/hud_icons/mission_513.png"
-  },
-  {
-    "objectID": "11989",
-    "path": "textures/ui/missioncomics/wonderland/forbidden_valley/hud_icons/mission_513.png"
-  },
-  {
-    "objectID": "12005",
-    "path": "textures/ui/missioncomics/nexus_tower/hud_icons/mission_967.png"
-  },
-  {
-    "objectID": "12387",
-    "path": "textures/ui/missioncomics/wonderland/avant_gardens/task_icons/mission_313.png"
-  },
-  {
-    "objectID": "8238",
-    "path": "textures/ui/missioncomics/wonderland/ns_instance/hud_icons/mission_1246.png?raw=true"
-  },
-  {
-    "objectID": "12542",
-    "path": "textures/ui/missioncomics/wonderland/ns_instance/hud_icons/mission_1246.png?raw=true"
-  },
-  {
-    "objectID": "12542",
-    "path": "textures/ui/missioncomics/wonderland/ns_instance/hud_icons/mission_1246.png"
-  },
-  {
-    "objectID": "8238",
-    "path": "textures/ui/missioncomics/wonderland/ns_instance/hud_icons/mission_1246.png"
-  },
-  {
-    "objectID": "6668",
-    "path": "textures/ui/missioncomics/wonderland/avant_gardens/task_icons/turret_task.png"
-  },
-  {
-    "objectID": "6454",
-    "path": "textures/ui/missioncomics/wonderland/avant_gardens/task_icons/mission_313.png"
-  },
-  {
-    "objectID": "8089",
-    "path": "textures/ui/missioncomics/wonderland/ns_instance/hud_icons/mission_1246.png"
-  },
-  {
-    "objectID": "12600",
-    "path": "textures/ui/missioncomics/wonderland/ve_instance/task_icons/mission_1247.png"
-  },
-  {
-    "objectID": "12591",
-    "path": "textures/ui/missioncomics/wonderland/nimbus_station/hud_icons/mission_835.png?width=80&height=80"
-  },
-  {
-    "objectID": "12609",
-    "path": "textures/auramar/ui/achievements/cp_spiderling.png"
-  },
-  {
-    "objectID": "12468",
-    "path": "textures/auramar/ui/achievements/cp_cavalry.png"
-  },
-  {
-    "objectID": "12467",
-    "path": "textures/auramar/ui/achievements/cp_cavalry.png"
-  },
-  {
-    "objectID": "11999",
-    "path": "textures/auramar/ui/achievements/cp_cavalry.png"
-  },
-  {
-    "objectID": "12469",
-    "path": "textures/auramar/ui/achievements/cp_cavalry.png"
-  }
-]
+{
+  "6253": "textures/ui/missioncomics/wonderland/avant_gardens/task_icons/turret_task.png",
+  "6359": "textures/ui/missioncomics/wonderland/avant_gardens/task_icons/mission_313.png",
+  "6444": "textures/ui/missioncomics/wonderland/avant_gardens/task_icons/mission_313.png",
+  "6454": "textures/ui/missioncomics/wonderland/avant_gardens/task_icons/mission_313.png",
+  "6668": "textures/ui/missioncomics/wonderland/avant_gardens/task_icons/turret_task.png",
+  "6789": "textures/ui/missioncomics/wonderland/gnarled_forest/task_icons/mission_460.png?width=80&height=80",
+  "6806": "textures/ui/missioncomics/wonderland/nimbus_station/hud_icons/mission_835.png",
+  "7805": "textures/ui/missioncomics/wonderland/forbidden_valley/hud_icons/mission_513.png",
+  "7815": "textures/ui/missioncomics/wonderland/forbidden_valley/hud_icons/mission_498.png",
+  "7816": "textures/ui//missioncomics/wonderland/forbidden_valley/task_icons/mission_497.png",
+  "8089": "textures/ui/missioncomics/wonderland/ns_instance/hud_icons/mission_1246.png",
+  "8238": "textures/ui/missioncomics/wonderland/ns_instance/hud_icons/mission_1246.png",
+  "8433": "textures/ui/missioncomics/wonderland/avant_gardens/task_icons/turret_task.png",
+  "11212": "textures/auramar/ui/achievements/cp_stromling.png",
+  "11213": "textures/auramar/ui/achievements/cp_mech.png",
+  "11214": "textures/auramar/ui/achievements/cp_spiderling.png",
+  "11215": "textures/auramar/ui/achievements/cp_pirate.png",
+  "11216": "textures/auramar/ui/missioncomics/crux_prime/task_icons/mission_980.png",
+  "11217": "textures/auramar/ui/achievements/cp_gorilla.png",
+  "11218": "textures/auramar/ui/achievements/cp_ronin.png",
+  "11219": "textures/auramar/ui/achievements/cp_cavalry.png",
+  "11225": "textures/ui/missioncomics/wonderland/forbidden_valley/hud_icons/mission_513.png",
+  "11226": "textures/ui/missioncomics/wonderland/forbidden_valley/hud_icons/mission_513.png",
+  "11982": "textures/auramar/ui/achievements/cp_stromling.png",
+  "11983": "textures/auramar/ui/achievements/cp_mech.png",
+  "11984": "textures/auramar/ui/achievements/cp_spiderling.png",
+  "11985": "textures/auramar/ui/achievements/cp_pirate.png",
+  "11986": "textures/auramar/ui/missioncomics/crux_prime/task_icons/mission_980.png",
+  "11987": "textures/auramar/ui/achievements/cp_gorilla.png",
+  "11988": "textures/auramar/ui/achievements/cp_ronin.png",
+  "11989": "textures/ui/missioncomics/wonderland/forbidden_valley/hud_icons/mission_513.png",
+  "11999": "textures/auramar/ui/achievements/cp_cavalry.png",
+  "12002": "textures/auramar/ui/achievements/cp_skullkin_engineer.png",
+  "12004": "textures/auramar/ui/achievements/cp_skullkin_pitboss.png",
+  "12005": "textures/ui/missioncomics/nexus_tower/hud_icons/mission_967.png",
+  "12387": "textures/ui/missioncomics/wonderland/avant_gardens/task_icons/mission_313.png",
+  "12467": "textures/auramar/ui/achievements/cp_cavalry.png",
+  "12468": "textures/auramar/ui/achievements/cp_cavalry.png",
+  "12469": "textures/auramar/ui/achievements/cp_cavalry.png",
+  "12542": "textures/ui/missioncomics/wonderland/ns_instance/hud_icons/mission_1246.png",
+  "12591": "textures/ui/missioncomics/wonderland/nimbus_station/hud_icons/mission_835.png?width=80&height=80",
+  "12600": "textures/ui/missioncomics/wonderland/ve_instance/task_icons/mission_1247.png",
+  "12609": "textures/auramar/ui/achievements/cp_spiderling.png",
+  "12654": "textures/auramar/ui/achievements/cp_cavalry.png"
+}
