@@ -134,16 +134,16 @@ module.exports = {
 
         var description = ``
         if(parseInt(missionFile.MissionStats.rewards.item1.reward_item1) !== -1){
-            description = `${description} ${missionFile.MissionStats.rewards.item1.name} **x** ${missionFile.MissionStats.rewards.item1.reward_item1_count} [[${missionFile.MissionStats.rewards.item1.reward_item1}]](https://lu-explorer.web.app/objects/${missionFile.MissionStats.rewards.item1.reward_item1})\n`
+            description = `${description} ${missionFile.MissionStats.rewards.item1.name} **x** ${missionFile.MissionStats.rewards.item1.reward_item1_count} [[${missionFile.MissionStats.rewards.item1.reward_item1}]](${luExplorerURL}objects/${missionFile.MissionStats.rewards.item1.reward_item1})\n`
         }
         if(parseInt(missionFile.MissionStats.rewards.item2.reward_item2) !== -1){
-            description = `${description} ${missionFile.MissionStats.rewards.item2.name} **x** ${missionFile.MissionStats.rewards.item2.reward_item2_count} [[${missionFile.MissionStats.rewards.item2.reward_item2}]](https://lu-explorer.web.app/objects/${missionFile.MissionStats.rewards.item2.reward_item2})\n`
+            description = `${description} ${missionFile.MissionStats.rewards.item2.name} **x** ${missionFile.MissionStats.rewards.item2.reward_item2_count} [[${missionFile.MissionStats.rewards.item2.reward_item2}]](${luExplorerURL}objects/${missionFile.MissionStats.rewards.item2.reward_item2})\n`
         }
         if(parseInt(missionFile.MissionStats.rewards.item3.reward_item3) !== -1){
-            description = `${description} ${missionFile.MissionStats.rewards.item3.name} **x** ${missionFile.MissionStats.rewards.item3.reward_item3_count} [[${missionFile.MissionStats.rewards.item3.reward_item3}]](https://lu-explorer.web.app/objects/${missionFile.MissionStats.rewards.item3.reward_item3})\n`
+            description = `${description} ${missionFile.MissionStats.rewards.item3.name} **x** ${missionFile.MissionStats.rewards.item3.reward_item3_count} [[${missionFile.MissionStats.rewards.item3.reward_item3}]](${luExplorerURL}objects/${missionFile.MissionStats.rewards.item3.reward_item3})\n`
         }
         if(parseInt(missionFile.MissionStats.rewards.item4.reward_item4) !== -1){
-            description = `${description} ${missionFile.MissionStats.rewards.item4.name} **x** ${missionFile.MissionStats.rewards.item4.reward_item4_count} [[${missionFile.MissionStats.rewards.item4.reward_item4}]](https://lu-explorer.web.app/objects/${missionFile.MissionStats.rewards.item4.reward_item4})`
+            description = `${description} ${missionFile.MissionStats.rewards.item4.name} **x** ${missionFile.MissionStats.rewards.item4.reward_item4_count} [[${missionFile.MissionStats.rewards.item4.reward_item4}]](${luExplorerURL}objects/${missionFile.MissionStats.rewards.item4.reward_item4})`
         }
         //console.log(missionFile.MissionStats.rewards.item1.reward_item1)
         if(missionFile.MissionStats.isChoiceReward === 1 && missionFile.MissionStats.rewards.item1.reward_item1 !== -1){

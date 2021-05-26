@@ -102,9 +102,9 @@ module.exports = {
                 }
 
                 if (side % 2 === 0) {
-                    field1 = `${field1}**${name}** [${element}]\n`
+                    field1 = `${field1}**${name}** [[${element}]](${luExplorerURL}objects/${element})\n`
                 } else {
-                    field2 = `${field2}**${name}** [${element}]\n`
+                    field2 = `${field2}**${name}** [[${element}]](${luExplorerURL}objects/${element})\n`
                 }
                 side++
             }

@@ -60,9 +60,9 @@ module.exports = {
 
             item.byRarity[el].forEach(function(itemIDFromRarity, key){
                 if(key % 2 === 0) {
-                    desc1 = `${desc1} ${item.items[itemIDFromRarity]['displayName']} [${itemIDFromRarity}]\n`
+                    desc1 = `${desc1} ${item.items[itemIDFromRarity]['displayName']} [[${itemIDFromRarity}]](${luExplorerURL}objects/${itemIDFromRarity})\n`
                 }else{
-                    desc2 = `${desc2} ${item.items[itemIDFromRarity]['displayName']} [${itemIDFromRarity}]\n`
+                    desc2 = `${desc2} ${item.items[itemIDFromRarity]['displayName']} [[${itemIDFromRarity}]](${luExplorerURL}objects/${itemIDFromRarity})\n`
                 }
             })
             if(desc1 !== '') {

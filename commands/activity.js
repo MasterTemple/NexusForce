@@ -91,12 +91,12 @@ module.exports = {
                 activityFile.LootTableIndexes[p].names.Name = activityFile.LootTableIndexes[p].names.AlternateName
             }
             if(activityFile.LootTableIndexes[p].maxToDrop === 1){
-                description = `${description}**${activityFile.LootTableIndexes[p].names.Name}** [${activityFile.LootTableIndexes[p].LootTableIndex}] - **${activityFile.LootTableIndexes[p].percent.toFixed(2)}%** For **1** Item\n`
+                description = `${description}**${activityFile.LootTableIndexes[p].names.Name}** [[${activityFile.LootTableIndexes[p].LootTableIndex}]](${luExplorerURL}objects/loot/table/${activityFile.LootTableIndexes[p].LootTableIndex}) - **${activityFile.LootTableIndexes[p].percent.toFixed(2)}%** For **1** Item\n`
             }
             else if(activityFile.LootTableIndexes[p].minToDrop === activityFile.LootTableIndexes[p].maxToDrop){
-                description = `${description}**${activityFile.LootTableIndexes[p].names.Name}** [${activityFile.LootTableIndexes[p].LootTableIndex}] - **${activityFile.LootTableIndexes[p].percent.toFixed(2)}%** For **${activityFile.LootTableIndexes[p].minToDrop}** Items\n`
+                description = `${description}**${activityFile.LootTableIndexes[p].names.Name}** [[${activityFile.LootTableIndexes[p].LootTableIndex}]](${luExplorerURL}objects/loot/table/${activityFile.LootTableIndexes[p].LootTableIndex}) - **${activityFile.LootTableIndexes[p].percent.toFixed(2)}%** For **${activityFile.LootTableIndexes[p].minToDrop}** Items\n`
             }else{
-                description = `${description}**${activityFile.LootTableIndexes[p].names.Name}** [${activityFile.LootTableIndexes[p].LootTableIndex}] - **${activityFile.LootTableIndexes[p].percent.toFixed(2)}%** For **${activityFile.LootTableIndexes[p].minToDrop} - ${activityFile.LootTableIndexes[p].maxToDrop}** Items\n`
+                description = `${description}**${activityFile.LootTableIndexes[p].names.Name}** [[${activityFile.LootTableIndexes[p].LootTableIndex}]](${luExplorerURL}objects/loot/table/${activityFile.LootTableIndexes[p].LootTableIndex}) - **${activityFile.LootTableIndexes[p].percent.toFixed(2)}%** For **${activityFile.LootTableIndexes[p].minToDrop} - ${activityFile.LootTableIndexes[p].maxToDrop}** Items\n`
 
             }
             let arr = []

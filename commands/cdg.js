@@ -72,11 +72,11 @@ module.exports = {
                 }
 
                 if (side % 3 === 0) {
-                    field1 = `${field1}${skillname}: [**${element}**]\n`
+                    field1 = `${field1}${skillname}: [[${element}]](${luExplorerURL}skills/${element})\n`
                 } else if(side % 3 === 1) {
-                    field2 = `${field2}${skillname}: [**${element}**]\n`
+                    field2 = `${field2}${skillname}: [[${element}]](${luExplorerURL}skills/${element})\n`
                 } else{
-                    field3 = `${field3}${skillname}: [**${element}**]\n`
+                    field3 = `${field3}${skillname}: [[${element}]](${luExplorerURL}skills/${element})\n`
                 }
                 side++
             //}

@@ -78,25 +78,25 @@ module.exports = {
             }
 			if(dropFile.drop.LootTableIndexes[p].maxToDrop === 1){
 			    if(displayFractions){
-                    description = `${description}**${dropFile.drop.LootTableIndexes[p].names.Name}** [${dropFile.drop.LootTableIndexes[p].LootTableIndex}] - **${dropFile.drop.LootTableIndexes[p].percent}%** For **1** Item\n`
+                    description = `${description}**${dropFile.drop.LootTableIndexes[p].names.Name}** [[${dropFile.drop.LootTableIndexes[p].LootTableIndex}]](${luExplorerURL}objects/loot/table/${dropFile.drop.LootTableIndexes[p].LootTableIndex}) - **${dropFile.drop.LootTableIndexes[p].percent}%** For **1** Item\n`
                     // description = `${description}**${dropFile.drop.LootTableIndexes[p].names.Name}** [${dropFile.drop.LootTableIndexes[p].LootTableIndex}] - **${dropFile.drop.LootTableIndexes[p].percent}/100** For **1** Item\n`
                 }else{
-                    description = `${description}**${dropFile.drop.LootTableIndexes[p].names.Name}** [${dropFile.drop.LootTableIndexes[p].LootTableIndex}] - **${dropFile.drop.LootTableIndexes[p].percent}%** For **1** Item\n`
+                    description = `${description}**${dropFile.drop.LootTableIndexes[p].names.Name}** [[${dropFile.drop.LootTableIndexes[p].LootTableIndex}]](${luExplorerURL}objects/loot/table/${dropFile.drop.LootTableIndexes[p].LootTableIndex}) - **${dropFile.drop.LootTableIndexes[p].percent}%** For **1** Item\n`
                 }
 			}
 			else if(dropFile.drop.LootTableIndexes[p].minToDrop === dropFile.drop.LootTableIndexes[p].maxToDrop){
                 if(displayFractions){
-                    description = `${description}**${dropFile.drop.LootTableIndexes[p].names.Name}** [${dropFile.drop.LootTableIndexes[p].LootTableIndex}] - **${dropFile.drop.LootTableIndexes[p].percent}%** For **${dropFile.drop.LootTableIndexes[p].minToDrop}** Items\n`
+                    description = `${description}**${dropFile.drop.LootTableIndexes[p].names.Name}** [[${dropFile.drop.LootTableIndexes[p].LootTableIndex}]](${luExplorerURL}objects/loot/table/${dropFile.drop.LootTableIndexes[p].LootTableIndex}) - **${dropFile.drop.LootTableIndexes[p].percent}%** For **${dropFile.drop.LootTableIndexes[p].minToDrop}** Items\n`
                     // description = `${description}**${dropFile.drop.LootTableIndexes[p].names.Name}** [${dropFile.drop.LootTableIndexes[p].LootTableIndex}] - **${dropFile.drop.LootTableIndexes[p].percent}/100** For **${dropFile.drop.LootTableIndexes[p].minToDrop}** Items\n`
                 }else {
-                    description = `${description}**${dropFile.drop.LootTableIndexes[p].names.Name}** [${dropFile.drop.LootTableIndexes[p].LootTableIndex}] - **${dropFile.drop.LootTableIndexes[p].percent}%** For **${dropFile.drop.LootTableIndexes[p].minToDrop}** Items\n`
+                    description = `${description}**${dropFile.drop.LootTableIndexes[p].names.Name}** [[${dropFile.drop.LootTableIndexes[p].LootTableIndex}]](${luExplorerURL}objects/loot/table/${dropFile.drop.LootTableIndexes[p].LootTableIndex}) - **${dropFile.drop.LootTableIndexes[p].percent}%** For **${dropFile.drop.LootTableIndexes[p].minToDrop}** Items\n`
                 }
             }else{
                 if(displayFractions){
-                    description = `${description}**${dropFile.drop.LootTableIndexes[p].names.Name}** [${dropFile.drop.LootTableIndexes[p].LootTableIndex}] - **${dropFile.drop.LootTableIndexes[p].percent}%** For **${dropFile.drop.LootTableIndexes[p].minToDrop} - ${dropFile.drop.LootTableIndexes[p].maxToDrop}** Items\n`
+                    description = `${description}**${dropFile.drop.LootTableIndexes[p].names.Name}** [[${dropFile.drop.LootTableIndexes[p].LootTableIndex}]](${luExplorerURL}objects/loot/table/${dropFile.drop.LootTableIndexes[p].LootTableIndex}) - **${dropFile.drop.LootTableIndexes[p].percent}%** For **${dropFile.drop.LootTableIndexes[p].minToDrop} - ${dropFile.drop.LootTableIndexes[p].maxToDrop}** Items\n`
                     // description = `${description}**${dropFile.drop.LootTableIndexes[p].names.Name}** [${dropFile.drop.LootTableIndexes[p].LootTableIndex}] - **${dropFile.drop.LootTableIndexes[p].percent}/100** For **${dropFile.drop.LootTableIndexes[p].minToDrop} - ${dropFile.drop.LootTableIndexes[p].maxToDrop}** Items\n`
                 }else{
-                    description = `${description}**${dropFile.drop.LootTableIndexes[p].names.Name}** [${dropFile.drop.LootTableIndexes[p].LootTableIndex}] - **${dropFile.drop.LootTableIndexes[p].percent}%** For **${dropFile.drop.LootTableIndexes[p].minToDrop} - ${dropFile.drop.LootTableIndexes[p].maxToDrop}** Items\n`
+                    description = `${description}**${dropFile.drop.LootTableIndexes[p].names.Name}** [[${dropFile.drop.LootTableIndexes[p].LootTableIndex}]](${luExplorerURL}objects/loot/table/${dropFile.drop.LootTableIndexes[p].LootTableIndex}) - **${dropFile.drop.LootTableIndexes[p].percent}%** For **${dropFile.drop.LootTableIndexes[p].minToDrop} - ${dropFile.drop.LootTableIndexes[p].maxToDrop}** Items\n`
                 }
 			}
             let arr = []

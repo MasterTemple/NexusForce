@@ -47,12 +47,12 @@ module.exports = {
             }
             //description = `${description}**${packageFile.LootTableIndexes[p].names.Name}** [${packageFile.LootTableIndexes[p].LootTableIndex}] - **${packageFile.LootTableIndexes[p].percent}%**\n`
 			if(packageFile.LootTableIndexes[p].maxToDrop === 1){
-				description = `${description}**${packageFile.LootTableIndexes[p].names.Name}** [${packageFile.LootTableIndexes[p].LootTableIndex}] - **${packageFile.LootTableIndexes[p].percent}%** For **1** Item\n`
+				description = `${description}**${packageFile.LootTableIndexes[p].names.Name}** [[${packageFile.LootTableIndexes[p].LootTableIndex}]](${luExplorerURL}objects/loot/table/${packageFile.LootTableIndexes[p].LootTableIndex}) - **${packageFile.LootTableIndexes[p].percent}%** For **1** Item\n`
 			}
 			else if(packageFile.LootTableIndexes[p].minToDrop === packageFile.LootTableIndexes[p].maxToDrop){
-				description = `${description}**${packageFile.LootTableIndexes[p].names.Name}** [${packageFile.LootTableIndexes[p].LootTableIndex}] - **${packageFile.LootTableIndexes[p].percent}%** For **${packageFile.LootTableIndexes[p].minToDrop}** Items\n`
+				description = `${description}**${packageFile.LootTableIndexes[p].names.Name}** [[${packageFile.LootTableIndexes[p].LootTableIndex}]](${luExplorerURL}objects/loot/table/${packageFile.LootTableIndexes[p].LootTableIndex}) - **${packageFile.LootTableIndexes[p].percent}%** For **${packageFile.LootTableIndexes[p].minToDrop}** Items\n`
 			}else{
-				description = `${description}**${packageFile.LootTableIndexes[p].names.Name}** [${packageFile.LootTableIndexes[p].LootTableIndex}] - **${packageFile.LootTableIndexes[p].percent}%** For **${packageFile.LootTableIndexes[p].minToDrop} - ${packageFile.LootTableIndexes[p].maxToDrop}** Items\n`
+				description = `${description}**${packageFile.LootTableIndexes[p].names.Name}** [[${packageFile.LootTableIndexes[p].LootTableIndex}]](${luExplorerURL}objects/loot/table/${packageFile.LootTableIndexes[p].LootTableIndex}) - **${packageFile.LootTableIndexes[p].percent}%** For **${packageFile.LootTableIndexes[p].minToDrop} - ${packageFile.LootTableIndexes[p].maxToDrop}** Items\n`
 			}
             let arr = []
 

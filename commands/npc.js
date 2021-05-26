@@ -49,7 +49,7 @@ module.exports = {
             for (let e = 0; e < Object.keys(npcFile?.missions).length; e++) {
                 //console.log(e)
                 try {
-                    missionInfo = `${missionInfo}**${e + 1}.** __${npcFile.missions[Object.keys(npcFile?.missions)[e]].MissionStats.MissionText.name}__ [[${Object.keys(npcFile?.missions)[e]}]](https://lu-explorer.web.app/missions/${Object.keys(npcFile?.missions)[e]})\n`
+                    missionInfo = `${missionInfo}**${e + 1}.** __${npcFile.missions[Object.keys(npcFile?.missions)[e]].MissionStats.MissionText.name}__ [[${Object.keys(npcFile?.missions)[e]}]](${luExplorerURL}missions/${Object.keys(npcFile?.missions)[e]})\n`
                     let missionDescription = npcFile.missions[Object.keys(npcFile?.missions)[e]].MissionStats.MissionText.description
                     var descriptionArray = missionDescription.split(`<`)
                     for(var i=0;i<descriptionArray.length-1;i++){
@@ -75,9 +75,9 @@ module.exports = {
             for (let e = 0; e < Object.keys(npcFile?.LootTables).length; e++) {
                 for (let j = 0; j < Object.keys(npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items).length; j++) {
                     if(count % 2 !== 0){
-                        vendorInfo1 = `${vendorInfo1}**${count}.** ${npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items[Object.keys(npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items)[j]].displayName} [[${Object.keys(npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items)[j]}]](https://lu-explorer.web.app/objects/${Object.keys(npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items)[j]})\n`
+                        vendorInfo1 = `${vendorInfo1}**${count}.** ${npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items[Object.keys(npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items)[j]].displayName} [[${Object.keys(npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items)[j]}]](${luExplorerURL}objects/${Object.keys(npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items)[j]})\n`
                     }else{
-                        vendorInfo2 = `${vendorInfo2}**${count}.** ${npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items[Object.keys(npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items)[j]].displayName} [[${Object.keys(npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items)[j]}]](https://lu-explorer.web.app/objects/${Object.keys(npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items)[j]})\n`
+                        vendorInfo2 = `${vendorInfo2}**${count}.** ${npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items[Object.keys(npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items)[j]].displayName} [[${Object.keys(npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items)[j]}]](${luExplorerURL}objects/${Object.keys(npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items)[j]})\n`
                     }
                     count++
                 }
