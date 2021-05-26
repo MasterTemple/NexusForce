@@ -162,11 +162,17 @@ module.exports = {
                     if((item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.chargeUpArmorRestore.length !== 0 || item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.chargeUpImaginationRestore.length !== 0) && item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.projectileChargeUpDamage > 0){
                         projectileArray.unshift(item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.projectileChargeUpDamage)
                     }
+                    if(projectileArray.length > 0) {
+                        var combo = projectileArray.join('+')
+                    }else{
+                        var combo = item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.info?.damageCombo
+                    }
+
 
                     embed.addFields(
                         {
                             name: item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.info?.name,
-                            value: projectileArray.join('+'),
+                            value: combo,
                             inline: true
                         },
                         {
@@ -182,10 +188,15 @@ module.exports = {
                     )
                 }
                 else if(item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.damageComboArray) {
+                    if(item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.damageComboArray.length > 0){
+                        var combo = item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.damageComboArray.join('+')
+                    }else{
+                        var combo = item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.info?.damageCombo
+                    }
                     embed.addFields(
                         {
                             name: item['objectSkills'][Object.keys(item.objectSkills)[skill]]?.info?.name,
-                            value: item['overview'][item['objectSkills'][Object.keys(item.objectSkills)[skill]]['behaviorID']]?.damageComboArray.join('+'),
+                            value: combo,
                             inline: true
                         },
                         {

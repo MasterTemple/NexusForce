@@ -141,7 +141,7 @@
             "projectileAttack": false,
             "projectileAttackChargeUp": false,
             "damageComboArray": [
-                5,
+                5
             ],
             "chargeUpArmorRestore": [],
             "chargeUpImaginationRestore": [],
