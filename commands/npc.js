@@ -30,7 +30,7 @@ module.exports = {
 
         let msgEmbed = require(`./../functions/embedTemplate.js`)
         let img
-        const { uIcon, luExplorerURL, resURL, unknownImageURL} = require('./../config.json')
+        const { uIcon, luExplorerURL, resURL, unknownImageURL, invisChar} = require('./../config.json')
         if(npcFile.iconURL !== "uIcon" || npcFile.iconUFL !== "unknown" && npcFile.iconURL.includes('http') === false){
             img = `${resURL}${npcFile.iconURL}`
         }else if(npcFile.iconURL === "unknown"){
@@ -49,7 +49,7 @@ module.exports = {
             for (let e = 0; e < Object.keys(npcFile?.missions).length; e++) {
                 //console.log(e)
                 try {
-                    missionInfo = `${missionInfo}**${e + 1}.** __${npcFile.missions[Object.keys(npcFile?.missions)[e]].MissionStats.MissionText.name}__ [${Object.keys(npcFile?.missions)[e]}]\n`
+                    missionInfo = `${missionInfo}**${e + 1}.** __${npcFile.missions[Object.keys(npcFile?.missions)[e]].MissionStats.MissionText.name}__ [[${Object.keys(npcFile?.missions)[e]}]](https://lu-explorer.web.app/missions/${Object.keys(npcFile?.missions)[e]})\n`
                     let missionDescription = npcFile.missions[Object.keys(npcFile?.missions)[e]].MissionStats.MissionText.description
                     var descriptionArray = missionDescription.split(`<`)
                     for(var i=0;i<descriptionArray.length-1;i++){
@@ -68,12 +68,17 @@ module.exports = {
             embed.addField(`Missions: [${npcFile.missionsList.length}]`, missionInfo, false)
         }
         var vendorInfo = ``
+        var vendorInfo1 = ``
+        var vendorInfo2 = ``
         let count = 1
         if(npcFile.isVendor === 1){
             for (let e = 0; e < Object.keys(npcFile?.LootTables).length; e++) {
                 for (let j = 0; j < Object.keys(npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items).length; j++) {
-
-                    vendorInfo = `${vendorInfo}**${count}.** ${npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items[Object.keys(npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items)[j]].displayName} [${Object.keys(npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items)[j]}]\n`
+                    if(count % 2 !== 0){
+                        vendorInfo1 = `${vendorInfo1}**${count}.** ${npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items[Object.keys(npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items)[j]].displayName} [[${Object.keys(npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items)[j]}]](https://lu-explorer.web.app/objects/${Object.keys(npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items)[j]})\n`
+                    }else{
+                        vendorInfo2 = `${vendorInfo2}**${count}.** ${npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items[Object.keys(npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items)[j]].displayName} [[${Object.keys(npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items)[j]}]](https://lu-explorer.web.app/objects/${Object.keys(npcFile.LootTables[Object.keys(npcFile?.LootTables)[e]].items)[j]})\n`
+                    }
                     count++
                 }
             }
@@ -84,7 +89,8 @@ module.exports = {
         //     embed.addField(`Sells:`, vendorInfo, false)
         // }
         if(npcFile.isVendor === 1){
-            embed.addField(`Sells: [${npcFile.totalItemsSold}]`, vendorInfo, false)
+            embed.addField(`Sells: [${npcFile.totalItemsSold}]`, vendorInfo1, true)
+            embed.addField(invisChar, vendorInfo2, true)
         }
 
 

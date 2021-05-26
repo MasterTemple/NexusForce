@@ -42,7 +42,7 @@ client.on('message', message => {
     if(message.author.id === client.user.id){return}
     const args = message.content.slice(prefix.length).trim().split(/ +/); //each space is a new argument
     const commandName = args.shift().toLowerCase();
-    //if (message.content[0] !== prefix){return}
+    if (message.content[0] !== prefix){return}
     if (client.mythranCommands.has(commandName) && (mythran.includes(message.author.id) || message.author.id === '703120460023463986' || message.author.id === '789705048035688458')){
         const command = client.mythranCommands.get(commandName);
         try {
