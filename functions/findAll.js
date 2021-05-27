@@ -7,8 +7,8 @@ module.exports = {
         }
         sorted.sort();
         let results = []
-
-        for (var j = 0; j < (Object.keys(item).length);j++) {
+        let keys = Object.keys(item)
+        for (var j = 0; j < (keys.length);j++) {
             try{
                 var allMatch = sorted.every(function (e) {
                     return item[j].name.toLowerCase().includes(e) + item[j].displayName.toLowerCase().includes(e)
