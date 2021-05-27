@@ -7,35 +7,11 @@ module.exports = {
         }
         sorted.sort();
 
-        // for (var j = 0; j < (Object.keys(item).length);j++) {
-        //     try{
-        //         var allMatch = sorted.every(function (e) {
-        //             return item[j].name.toLowerCase().includes(e) + item[j].displayName.toLowerCase().includes(e)
-        //         });
-        //         if (allMatch) {
-        //             return item[j].cdg
-        //         }
-        //     }catch{}
-        // }
-        let skillID = []
-        Object.keys(item).forEach(function(el, key,arr){
-            //console.log(el,key)
+        let match = Object.keys(item).find(e => sorted.every(function (el) {
+            return item[e].name?.toLowerCase()?.includes(el)
+        }))
+        return match
 
-            try{
-                var allMatch = sorted.every(function (e) {
-                    return item[el].name.toLowerCase().includes(e)
-                });
-                if (allMatch) {
-                    skillID.push(Object.keys(item)[key])
-                    return Object.keys(item)[key]
-                }
-            }catch{}
-        })
-        return skillID[0]
-
-
-
-        //return
 
     }
 }

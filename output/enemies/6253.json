@@ -699,9 +699,7 @@
   "stats": {},
   "overview": {
     "1835": {
-      "damage": [
-        0
-      ],
+      "damage": [],
       "attackTypes": [
         "Interruption",
         "Knockback"
@@ -715,7 +713,6 @@
       ],
       "attackTypes": [
         "Ranged",
-        "Interruption",
         "Interruption"
       ],
       "projectileBehaviorID": 216,
