@@ -8,7 +8,7 @@ module.exports = {
         sorted.sort();
 
         let match = item.find(e => sorted.every(function (el) {
-            return e.name.toLowerCase().includes(el) + e.displayName.toLowerCase().includes(el)
+            return e?.name?.toLowerCase().includes(el) + e?.displayName?.toLowerCase().includes(el)
         }))
         return match.id
 

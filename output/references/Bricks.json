@@ -1094,8 +1094,7 @@
     {
         "id": 16515,
         "name": "m61280",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 141,
@@ -4142,8 +4141,7 @@
     {
         "id": 918,
         "name": "m3679",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 919,
@@ -4496,8 +4494,7 @@
     {
         "id": 5085,
         "name": "m3680",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 5086,
@@ -5504,8 +5501,7 @@
     {
         "id": 5283,
         "name": "m30658",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 5284,
@@ -5852,8 +5848,7 @@
     {
         "id": 5349,
         "name": "m41141",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 5350,
@@ -6986,14 +6981,12 @@
     {
         "id": 5574,
         "name": "m62360",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 5575,
         "name": "m62361",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 5576,
@@ -7100,8 +7093,7 @@
     {
         "id": 5596,
         "name": "m64248",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 5597,
@@ -7874,14 +7866,12 @@
     {
         "id": 8901,
         "name": "m6236",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 8902,
         "name": "m6237",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 8903,
@@ -8540,8 +8530,7 @@
     {
         "id": 9013,
         "name": "m43890",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 9014,
@@ -8648,8 +8637,7 @@
     {
         "id": 9032,
         "name": "m48168",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 9034,
@@ -8660,8 +8648,7 @@
     {
         "id": 9035,
         "name": "m48452",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 9036,
@@ -9140,14 +9127,12 @@
     {
         "id": 9119,
         "name": "m62273",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 9120,
         "name": "m62274",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 9121,
@@ -9164,8 +9149,7 @@
     {
         "id": 9123,
         "name": "m62520",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 9124,
@@ -9836,8 +9820,7 @@
     {
         "id": 9235,
         "name": "m87780",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 9237,
@@ -10352,20 +10335,17 @@
     {
         "id": 11036,
         "name": "m93170",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11037,
         "name": "m62604",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11038,
         "name": "m92285",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11039,
@@ -10382,308 +10362,257 @@
     {
         "id": 11041,
         "name": "m2429",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11042,
         "name": "m2430",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11043,
         "name": "m2531",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11044,
         "name": "m2532",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11045,
         "name": "m2533",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11046,
         "name": "m2534",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11047,
         "name": "m2550",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11048,
         "name": "m30289",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11049,
         "name": "m30291",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11050,
         "name": "m30488",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11051,
         "name": "m30491",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11052,
         "name": "m30516",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11054,
         "name": "m32075",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11055,
         "name": "m3326",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11056,
         "name": "m3403",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11057,
         "name": "m3404",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11060,
         "name": "m3814",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11061,
         "name": "m3815",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11062,
         "name": "m3816",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11063,
         "name": "m3817",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11064,
         "name": "m3818",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11065,
         "name": "m3819",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11066,
         "name": "m3820",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11067,
         "name": "m3828",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11068,
         "name": "m3829",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11070,
         "name": "m4254",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11071,
         "name": "m4255",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11073,
         "name": "m4492",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11074,
         "name": "m4493",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11075,
         "name": "m4518",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11076,
         "name": "m45707",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11077,
         "name": "m4592",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11078,
         "name": "m4593",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11079,
         "name": "m4719",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11082,
         "name": "m57029",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11083,
         "name": "m59220",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11084,
         "name": "m59222",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11085,
         "name": "m62271",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11088,
         "name": "m62275",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11093,
         "name": "m62691",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11095,
         "name": "m64415",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11096,
         "name": "m64417",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11097,
         "name": "m64424",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11098,
         "name": "m64778",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11099,
         "name": "m64780",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11100,
         "name": "m64783",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11101,
         "name": "m64784",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11102,
         "name": "m64785",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11103,
         "name": "m85059",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11105,
         "name": "m92284",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11108,
         "name": "m93173",
-        "type": "LEGO brick",
-        "displayName": null
+        "type": "LEGO brick"
     },
     {
         "id": 11113,

@@ -38,7 +38,7 @@ module.exports = {
             if(name === ''){
                 name = r.name
             }
-            if(desc.length < 2000){
+            if(counter < 20){
                 //desc = `${desc}**${counter+1}.** ${name} [[${r.id}]](${luExplorerURL}objects/${r.id}) - (${r.type})\n`
                 desc = `${desc}**${counter+1}.** [[${r.id}]](${luExplorerURL}objects/${r.id}) ${name} **-** (${r.type})\n`
 
