@@ -53,13 +53,16 @@ module.exports = {
             for (let e = 0; e < missionLength; e++) {
                 //console.log(e)
                 // try {
-                    let missionDescription = npcFile.missions[Object.keys(npcFile?.missions)[e]].MissionStats.MissionText.description
+                if(npcFile?.missions[Object.keys(npcFile?.missions)[e]].MissionStats === null){
+                    continue
+                }
+                    let missionDescription = npcFile?.missions[Object.keys(npcFile?.missions)[e]].MissionStats.MissionText.description
                     var descriptionArray = missionDescription.split(`<`)
                     for(var i=0;i<descriptionArray.length-1;i++){
                         missionDescription = missionDescription.replace(/<[^>]*>/, '')
                     }
                     // missionDescription = missionDescription.replaceAll(/<[^>]*>/, '')
-                    if(missionInfo.length + `${missionInfo}**${e + 1}.** __${npcFile.missions[Object.keys(npcFile?.missions)[e]].MissionStats.MissionText.name}__ [[${Object.keys(npcFile?.missions)[e]}]](${luExplorerURL}missions/${Object.keys(npcFile?.missions)[e]})\n`.length + missionDescription.length >= 1024){
+                    if(missionInfo.length + `**${e + 1}.** __${npcFile.missions[Object.keys(npcFile?.missions)[e]].MissionStats.MissionText.name}__ [[${Object.keys(npcFile?.missions)[e]}]](${luExplorerURL}missions/${Object.keys(npcFile?.missions)[e]})\n`.length + missionDescription.length >= 1024){
                         tooLong = true
                     }
                     // console.log(`${e}, M1:${missionInfo?.length}+${missionDescription?.length}=${missionInfo.length + missionDescription.length} => ${tooLong}`)
@@ -95,9 +98,12 @@ module.exports = {
             if(index === 0){
                 embed.addField(`Missions: [${missionCount}]`, element, false)
             }else{
-                embed.addField('Extended:', element, false)
+                embed.addField(invisChar, element, false)
 
             }
+        })
+        embed.fields.forEach(function(e, i){
+            console.log(`Field ${i}: ${e.value.length} characters`)
         })
 
         // if(missionInfo2.length !== 0){

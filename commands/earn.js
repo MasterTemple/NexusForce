@@ -36,7 +36,9 @@ module.exports = {
         if(earnFile.itemComponent.levelRequirement === undefined){
             earnFile.levelRequirement = 0
         }
-        let earnLen = Object.keys(earnFile.earn).length
+        let earnKey = Object.keys(earnFile.earn)
+
+        let earnLen = earnKey.length
 
         let img = `${resURL}${earnFile.iconURL}`
 
@@ -51,17 +53,16 @@ module.exports = {
 
         var earnInfo = ``
         let wasDMed = false
-
-        for(var e=0;e<Object.keys(earnFile.earn).length;e++){
-            //console.log([Object.keys(earnFile.earn)])
-
-            // console.log([Object.keys(earnFile.earn)][e])
-            // console.log(earnFile.earn[Object.keys(earnFile.earn)[e]])
-            //earnInfo = `${earnInfo}${earnFile.earn[Object.keys(earnFile.earn)]['defined_type']} > ${earnFile.earn[Object.keys(earnFile.earn)]['defined_subtype']} > ${earnFile.earn[Object.keys(earnFile.earn)]['missionName']}\n${earnFile.earn[Object.keys(earnFile.earn)]['missionDescription']}\n`
-            if(earnFile?.earn[Object.keys(earnFile.earn)[e]]?.rewardCount === 1) {
-                embed.addField(`${earnFile.earn[Object.keys(earnFile.earn)[e]]['defined_type']} > ${earnFile.earn[Object.keys(earnFile.earn)[e]]['defined_subtype']} > ${earnFile.earn[Object.keys(earnFile.earn)[e]]['missionName']}`, `${earnFile.earn[Object.keys(earnFile.earn)[e]]['missionDescription']}`, false)
+        for(var e=0;e<earnKey.length;e++){
+            //console.log([earnKey])
+            console.log(earnKey[e])
+            // console.log([earnKey][e])
+            // console.log(earnFile.earn[earnKey[e]])
+            //earnInfo = `${earnInfo}${earnFile.earn[earnKey]['defined_type']} > ${earnFile.earn[earnKey]['defined_subtype']} > ${earnFile.earn[earnKey]['missionName']}\n${earnFile.earn[earnKey]['missionDescription']}\n`
+            if(earnFile?.earn[earnKey[e]]?.rewardCount === 1) {
+                embed.addField(`${earnFile.earn[earnKey[e]]['defined_type']} > ${earnFile.earn[earnKey[e]]['defined_subtype']} > ${earnFile.earn[earnKey[e]]['missionName']}`, `${earnFile.earn[earnKey[e]]['missionDescription']} [[${earnKey[e]}]](${luExplorerURL}missions/${earnKey[e]})`, false)
             }else{
-                embed.addField(`${earnFile.earn[Object.keys(earnFile.earn)[e]]['defined_type']} > ${earnFile.earn[Object.keys(earnFile.earn)[e]]['defined_subtype']} > ${earnFile.earn[Object.keys(earnFile.earn)[e]]['missionName']}`, `${earnFile.earn[Object.keys(earnFile.earn)[e]]['missionDescription']} [Gives ${earnFile.earn[Object.keys(earnFile.earn)[e]]['rewardCount']}]`, false)
+                embed.addField(`${earnFile.earn[earnKey[e]]['defined_type']} > ${earnFile.earn[earnKey[e]]['defined_subtype']} > ${earnFile.earn[earnKey[e]]['missionName']}`, `${earnFile.earn[earnKey[e]]['missionDescription']} [Gives ${earnFile.earn[earnKey[e]]['rewardCount']}] [[${earnKey[e]}]](${luExplorerURL}missions/${earnKey[e]})`, false)
 
             }
             if(embed.fields.length > 25){
@@ -70,18 +71,18 @@ module.exports = {
                 wasDMed = true
             }
 
-            if(e === Object.keys(earnFile.earn).length-1 && embed.fields.length !== 0 && wasDMed){
+            if(e === earnKey.length-1 && embed.fields.length !== 0 && wasDMed){
                 message.author.send(embed)
                 message.channel.send("Direct Messages Sent!")
                 //embed = msgEmbed.execute(`${earnFile.itemInfo.displayName} [${earnFile.objectID}]`, undefined,`${luExplorerURL}objects/${earnFile.objectID}`, earnFile.iconURL)
-            }else if(e === Object.keys(earnFile.earn).length-1 && embed.fields.length !== 0){
+            }else if(e === earnKey.length-1 && embed.fields.length !== 0){
                 message.channel.send(embed)
             }
 
 
         }
 
-        if(Object.keys(earnFile.earn).length === 0){
+        if(earnKey.length === 0){
             embed.addField(`This Item Is Not Earned!`, "Try **!buy** or **!drop** to see how to unlock this item!", false)
             message.channel.send(embed)
 
