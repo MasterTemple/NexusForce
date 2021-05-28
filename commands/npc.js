@@ -41,32 +41,68 @@ module.exports = {
             img = uIcon
         }
 
-        let embed = msgEmbed.execute(`${npcFile.itemInfo.displayName} [${npcFile.objectID}]`, undefined,`${luExplorerURL}objects/${npcFile.objectID}`, img)
+        let embed = msgEmbed.execute(`${npcFile.itemInfo.displayName} [${npcFile.objectID}]`, undefined,`${luExplorerURL}objects/${npcFile.objectID}/73`, img)
 
 
         let missionInfo = ``
+        let missionInfoArray = []
+        var tooLong = false
+        var missionCount = 0
+        let missionLength = Object.keys(npcFile?.missions).length
         if(npcFile.isMissionGiver === 1){
-            for (let e = 0; e < Object.keys(npcFile?.missions).length; e++) {
+            for (let e = 0; e < missionLength; e++) {
                 //console.log(e)
-                try {
-                    missionInfo = `${missionInfo}**${e + 1}.** __${npcFile.missions[Object.keys(npcFile?.missions)[e]].MissionStats.MissionText.name}__ [[${Object.keys(npcFile?.missions)[e]}]](${luExplorerURL}missions/${Object.keys(npcFile?.missions)[e]})\n`
+                // try {
                     let missionDescription = npcFile.missions[Object.keys(npcFile?.missions)[e]].MissionStats.MissionText.description
                     var descriptionArray = missionDescription.split(`<`)
                     for(var i=0;i<descriptionArray.length-1;i++){
                         missionDescription = missionDescription.replace(/<[^>]*>/, '')
                     }
-                    missionInfo = `${missionInfo}${missionDescription}\n`
+                    // missionDescription = missionDescription.replaceAll(/<[^>]*>/, '')
+                    if(missionInfo.length + `${missionInfo}**${e + 1}.** __${npcFile.missions[Object.keys(npcFile?.missions)[e]].MissionStats.MissionText.name}__ [[${Object.keys(npcFile?.missions)[e]}]](${luExplorerURL}missions/${Object.keys(npcFile?.missions)[e]})\n`.length + missionDescription.length >= 1024){
+                        tooLong = true
+                    }
+                    // console.log(`${e}, M1:${missionInfo?.length}+${missionDescription?.length}=${missionInfo.length + missionDescription.length} => ${tooLong}`)
+                    // console.log(`${e}, M2:${missionInfo2?.length}+${missionDescription?.length}=${missionInfo2.length + missionDescription.length} => ${tooLong}`)
+                    //console.log(`${missionInfo}**${e + 1}.** __${npcFile.missions[Object.keys(npcFile?.missions)[e]].MissionStats.MissionText.name}__ [[${Object.keys(npcFile?.missions)[e]}]](${luExplorerURL}missions/${Object.keys(npcFile?.missions)[e]})\n${missionDescription}\n`)
+                    if(tooLong){
+                        missionInfoArray.push(missionInfo)
+                        missionInfo = ''
+                        tooLong = false
+                        missionInfo = `${missionInfo}**${e + 1}.** __${npcFile.missions[Object.keys(npcFile?.missions)[e]].MissionStats.MissionText.name}__ [[${Object.keys(npcFile?.missions)[e]}]](${luExplorerURL}missions/${Object.keys(npcFile?.missions)[e]})\n`
+                        missionInfo = `${missionInfo}${missionDescription}\n`
+                        missionCount++
+                    }else{
+                        missionInfo = `${missionInfo}**${e + 1}.** __${npcFile.missions[Object.keys(npcFile?.missions)[e]].MissionStats.MissionText.name}__ [[${Object.keys(npcFile?.missions)[e]}]](${luExplorerURL}missions/${Object.keys(npcFile?.missions)[e]})\n`
+                        missionInfo = `${missionInfo}${missionDescription}\n`
+                        missionCount++
 
-                }catch{}
+                    }
+                    if(e === missionLength-1){
+                        missionInfoArray.push(missionInfo)
+                    }
+                // }catch{}
                 //console.log(missionInfo)
 
 
             }
         }
 
-        if(Object.keys(npcFile?.missions).length > 0){
-            embed.addField(`Missions: [${npcFile.missionsList.length}]`, missionInfo, false)
-        }
+        // if(Object.keys(npcFile?.missions).length > 0){
+        //     embed.addField(`Missions: [${npcFile.missionsList.length}]`, missionInfo, false)
+        // }
+        missionInfoArray.forEach(function(element, index){
+            if(index === 0){
+                embed.addField(`Missions: [${missionCount}]`, element, false)
+            }else{
+                embed.addField('Extended:', element, false)
+
+            }
+        })
+
+        // if(missionInfo2.length !== 0){
+        //     embed.addField('Extended:', missionInfo2, false)
+        // }
         var vendorInfo = ``
         var vendorInfo1 = ``
         var vendorInfo2 = ``
@@ -97,7 +133,10 @@ module.exports = {
 
 
         //message.channel.send(`\`\`\`json\n${JSON.stringify(npcFile,null, 2)}\`\`\``)
-
+        //console.log(`${JSON.stringify(embed, null, 2)}`)
+        // embed.fields.forEach(function(e){
+        //     console.log(e.name, e.value.length)
+        // })
         try {
             message.channel.send(embed)
         }catch{
