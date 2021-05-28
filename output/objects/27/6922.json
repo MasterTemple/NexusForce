@@ -30,8 +30,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Restores up to 6 Life to nearby characters over time",
-                "name": "Team Heal 1"
+                "name": "Team Heal 1",
+                "rawDescription": "Restores up to 6 Life to nearby characters over time"
             }
         },
         "371": {
@@ -104,7 +104,11 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": [
+                "Area of Effect"
+            ]
         }
     },
     "proxySkillIDs": [],

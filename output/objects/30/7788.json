@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Creates a fountain that releases Imagination Power-ups",
-                "name": "Deploy Fountain of Imagination"
+                "name": "Deploy Fountain of Imagination",
+                "rawDescription": "Creates a fountain that releases Imagination Power-ups"
             }
         }
     },

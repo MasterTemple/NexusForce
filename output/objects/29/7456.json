@@ -59,8 +59,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 2 %(Description)Creates a faster firing Invention that assists you in battle",
                 "name": "Summon Make-Shift Buddy 3",
+                "rawDescription": "%(DamageCombo) 2 %(Description)Creates a faster firing Invention that assists you in battle",
                 "damageCombo": " 2 ",
                 "Description": "Creates a faster firing Invention that assists you in battle"
             }
@@ -128,7 +128,9 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": []
         }
     },
     "proxySkillIDs": [],

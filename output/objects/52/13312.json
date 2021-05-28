@@ -61,8 +61,7 @@
         "equipLocationNames": [
             "Neck/Back"
         ],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {},
     "proxySkillIDs": [],

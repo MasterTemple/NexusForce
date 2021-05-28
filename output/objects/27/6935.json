@@ -30,8 +30,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Stuns enemies",
-                "name": "Stun"
+                "name": "Stun",
+                "rawDescription": "Stuns enemies"
             }
         },
         "361": {
@@ -104,7 +104,11 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": [
+                "Interruption"
+            ]
         }
     },
     "proxySkillIDs": [],

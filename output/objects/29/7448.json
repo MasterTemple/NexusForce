@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 6 %(Description)Tosses an energy sphere that does 6 damage to enemies",
                 "name": "Plasma Ball 1",
+                "rawDescription": "%(DamageCombo) 6 %(Description)Tosses an energy sphere that does 6 damage to enemies",
                 "damageCombo": " 6 ",
                 "Description": "Tosses an energy sphere that does 6 damage to enemies"
             }
@@ -102,7 +102,14 @@
             "projectileDamageComboArray": [
                 6
             ],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                6
+            ],
+            "attackTypes": [
+                "Ranged",
+                "Area of Effect"
+            ]
         }
     },
     "proxySkillIDs": [],
@@ -150,7 +157,7 @@
                         "displayName": "Rank 1 Space Marauder Kit Package"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

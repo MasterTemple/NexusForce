@@ -134,7 +134,7 @@
                         "displayName": "Rank 1 Shinobi Kit Package"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

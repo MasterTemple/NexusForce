@@ -31,8 +31,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 12 %(Description)Launches a mass of bees at your enemies that deal damage over time",
                 "name": "Beehive Surprise 2",
+                "rawDescription": "%(DamageCombo) 12 %(Description)Launches a mass of bees at your enemies that deal damage over time",
                 "damageCombo": " 12 ",
                 "Description": "Launches a mass of bees at your enemies that deal damage over time"
             }
@@ -93,7 +93,12 @@
             ],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": [
+                "Ranged",
+                "Area of Effect"
+            ]
         }
     },
     "proxySkillIDs": [],

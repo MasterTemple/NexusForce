@@ -32,8 +32,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Lifts enemies into the air",
-                "name": "Magnetize 1"
+                "name": "Magnetize 1",
+                "rawDescription": "Lifts enemies into the air"
             }
         },
         "369": {
@@ -110,7 +110,11 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": [
+                "Interruption"
+            ]
         }
     },
     "proxySkillIDs": [],

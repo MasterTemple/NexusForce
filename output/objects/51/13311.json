@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Gives a speed boost for 15 seconds that does 5 damage over time",
-                "name": "Fig on Fire 3"
+                "name": "Fig on Fire 3",
+                "rawDescription": "Gives a speed boost for 15 seconds that does 5 damage over time"
             }
         }
     },
@@ -81,7 +81,20 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                1,
+                1,
+                1
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Knockback"
+            ]
         }
     },
     "proxySkillIDs": [],

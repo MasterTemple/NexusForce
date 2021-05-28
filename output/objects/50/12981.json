@@ -43,8 +43,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 8 %(Description)Makes you leap on enemies, doing 8 damage",
                 "name": "Super Jump 3",
+                "rawDescription": "%(DamageCombo) 8 %(Description)Makes you leap on enemies, doing 8 damage",
                 "damageCombo": " 8 ",
                 "Description": "Makes you leap on enemies, doing 8 damage"
             }
@@ -112,7 +112,15 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                8
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Knockback",
+                "Interruption"
+            ]
         }
     },
     "proxySkillIDs": [],

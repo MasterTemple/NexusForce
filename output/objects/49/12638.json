@@ -58,8 +58,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 4+4+4 %(ChargeUp)Fires all Cannons to do 11 damage to enemies",
                 "name": "Valiant Attack",
+                "rawDescription": "%(DamageCombo) 4+4+4 %(ChargeUp)Fires all Cannons to do 11 damage to enemies",
                 "damageCombo": " 4+4+4 ",
                 "ChargeUp": "Fires all Cannons to do 11 damage to enemies"
             }
@@ -82,8 +82,7 @@
         4243,
         4253,
         21327,
-        11183,
-        20561
+        11183
     ],
     "stats": {
         "armorBonusUI": 2,
@@ -151,33 +150,38 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 11,
+            "allDamage": [
+                1,
+                1,
+                4,
+                4,
+                11,
+                4,
+                4
+            ],
+            "attackTypes": [
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Knockback"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 4,
             "chargeUpCost": -5
         }
     },
-    "proxySkillIDs": [
-        980
-    ],
-    "proxySkills": {
-        "980": {
-            "castOnType": 0,
-            "AICombatWeight": 0,
-            "behaviorID": 20561,
-            "imaginationcost": 10,
-            "cooldowngroup": 24,
-            "cooldown": 2.0,
-            "inNpcEditor": 0,
-            "skillIcon": 4225,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null,
-            "info": {
-                "rawDescription": "Creates a schooner that rams an enemy for 15 damage",
-                "name": "Create Schooner"
-            }
-        }
-    },
+    "proxySkillIDs": [],
+    "proxySkills": {},
     "iconURL": "textures/auramar/ui/inventory/faction%20kits/fackit_buccaneervaliant_master.png",
     "buyAndDrop": {
         "LootTableIndexes": [

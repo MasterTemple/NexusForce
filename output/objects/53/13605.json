@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 1+1+1 [DNL]%(Description)Attack enemies with your box disguise",
                 "name": "Boxing Box",
+                "rawDescription": "%(DamageCombo) 1+1+1 [DNL]%(Description)Attack enemies with your box disguise",
                 "damageCombo": " 1+1+1 [DNL]",
                 "Description": "Attack enemies with your box disguise"
             }
@@ -68,8 +68,7 @@
         "equipLocationNames": [
             "Right Hand"
         ],
-        "isWeapon": true,
-        "preconditionDescriptions": {}
+        "isWeapon": true
     },
     "overview": {
         "29329": {
@@ -90,6 +89,25 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 0,
+            "allDamage": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "attackTypes": [
+                "Interruption",
+                "Knockback",
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Knockback",
+                "Knockback"
+            ],
             "doubleJumpSmash": 1
         }
     },

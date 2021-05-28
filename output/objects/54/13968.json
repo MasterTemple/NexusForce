@@ -63,8 +63,7 @@
         "equipLocationNames": [
             "Headgear"
         ],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {
         "29582": {
@@ -80,7 +79,9 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": []
         }
     },
     "proxySkillIDs": [],

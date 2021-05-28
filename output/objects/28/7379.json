@@ -121,7 +121,7 @@
                         "displayName": "Rank 1 Knight Kit Package"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Restores 5 Life and 10 Armor",
-                "name": "Eat Yucki-Yaki"
+                "name": "Eat Yucki-Yaki",
+                "rawDescription": "Restores 5 Life and 10 Armor"
             }
         }
     },
@@ -63,10 +63,7 @@
         "commendationCurrencyCost": null,
         "equipLocationNames": [],
         "isWeapon": false,
-        "levelRequirement": "10",
-        "preconditionDescriptions": {
-            "248": "You must be Level 10 or greater to use this item."
-        }
+        "levelRequirement": "10"
     },
     "overview": {},
     "proxySkillIDs": [],

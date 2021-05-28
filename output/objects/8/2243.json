@@ -78,7 +78,13 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                1000
+            ],
+            "attackTypes": [
+                "Area of Effect"
+            ]
         }
     },
     "proxySkillIDs": [],

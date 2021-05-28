@@ -694,7 +694,7 @@
                         "displayName": "Surprise Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "686": {
                 "LootMatrixIndex": 686,
@@ -749,7 +749,7 @@
                         "displayName": "Nexus Tower Gift Bag"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "720": {
                 "LootMatrixIndex": 720,

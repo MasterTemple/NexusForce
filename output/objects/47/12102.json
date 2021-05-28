@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Creates a sunflower that drops Imagination Power-ups",
-                "name": "Sunflower Sprout"
+                "name": "Sunflower Sprout",
+                "rawDescription": "Creates a sunflower that drops Imagination Power-ups"
             }
         }
     },

@@ -100,11 +100,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 18.75,
-                    "howManyToKill": 5
+                    "howManyToKill": 4
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "523": {
                 "LootMatrixIndex": 523,
@@ -158,11 +158,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 18.75,
-                    "howManyToKill": 5
+                    "howManyToKill": 4
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

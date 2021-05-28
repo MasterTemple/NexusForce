@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Freezes your enemies in fear",
-                "name": "Vision of the Dragon"
+                "name": "Vision of the Dragon",
+                "rawDescription": "Freezes your enemies in fear"
             }
         }
     },

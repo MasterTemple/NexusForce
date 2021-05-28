@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Boosts your Life by 3 for 120 seconds",
-                "name": "Life Boost 3"
+                "name": "Life Boost 3",
+                "rawDescription": "Boosts your Life by 3 for 120 seconds"
             }
         }
     },
@@ -124,7 +124,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.875,
-                    "howManyToKill": 53
+                    "howManyToKill": 40
                 },
                 "LootTableIndexItems": 5,
                 "PackageComponent": {},
@@ -177,7 +177,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 3.9474,
-                    "howManyToKill": 25
+                    "howManyToKill": 19
                 },
                 "LootTableIndexItems": 19,
                 "PackageComponent": {
@@ -186,7 +186,7 @@
                         "displayName": "Pirate's Picnic Basket"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

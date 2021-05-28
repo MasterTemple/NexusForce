@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Deploys a Property Scanner Device",
-                "name": "Deploy Property Scanner"
+                "name": "Deploy Property Scanner",
+                "rawDescription": "Deploys a Property Scanner Device"
             }
         }
     },

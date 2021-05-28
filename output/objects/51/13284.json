@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 7 %(Description)Makes you rush forward, doing 7 damage to enemies",
                 "name": "Moto Rush",
+                "rawDescription": "%(DamageCombo) 7 %(Description)Makes you rush forward, doing 7 damage to enemies",
                 "damageCombo": " 7 ",
                 "Description": "Makes you rush forward, doing 7 damage to enemies"
             }
@@ -68,8 +68,7 @@
         "equipLocationNames": [
             "Left Hand"
         ],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {
         "21991": {
@@ -87,7 +86,15 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                7
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback"
+            ]
         }
     },
     "proxySkillIDs": [],

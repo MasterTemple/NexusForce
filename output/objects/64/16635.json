@@ -133,7 +133,7 @@
                 "inNpcEditor": 1,
                 "overallChance": {
                     "percent": 1.5,
-                    "howManyToKill": 67
+                    "howManyToKill": 64
                 },
                 "LootTableIndexItems": 8,
                 "PackageComponent": {},
@@ -167,7 +167,7 @@
                 "inNpcEditor": 1,
                 "overallChance": {
                     "percent": 2.0,
-                    "howManyToKill": 50
+                    "howManyToKill": 48
                 },
                 "LootTableIndexItems": 8,
                 "PackageComponent": {},

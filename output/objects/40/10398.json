@@ -60,7 +60,7 @@
             "defined_type": "Location",
             "defined_subtype": "Avant Gardens",
             "missionName": "Infested!",
-            "missionDescription": "<font color='#FF7F00'>Talk to Crash Helmut</font> at the infected Launch Area in Avant Gardens.",
+            "missionDescription": "Talk to Crash Helmut at the infected Launch Area in Avant Gardens.",
             "isMission": 1,
             "rewardCount": 1
         }

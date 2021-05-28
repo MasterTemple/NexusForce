@@ -111,7 +111,7 @@
                         "displayName": "BestBuy Reward Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

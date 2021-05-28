@@ -71,8 +71,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Shields you from up to 10 damage for 30 seconds",
-                "name": "Lightning Force Field"
+                "name": "Lightning Force Field",
+                "rawDescription": "Shields you from up to 10 damage for 30 seconds"
             }
         }
     },
@@ -117,8 +117,7 @@
             "Headgear",
             "Neck/Back"
         ],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {
         "38289": {
@@ -134,7 +133,9 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": []
         }
     },
     "proxySkillIDs": [],

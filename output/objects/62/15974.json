@@ -71,8 +71,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 10 %(AltCombo) 30 %(Description)Turtle-up and slide",
                 "name": "Ninjago Turtle Slide",
+                "rawDescription": "%(DamageCombo) 10 %(AltCombo) 30 %(Description)Turtle-up and slide",
                 "damageCombo": " 10 %(AltCombo) 30 ",
                 "Description": "Turtle-up and slide"
             }
@@ -138,7 +138,14 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                10,
+                30
+            ],
+            "attackTypes": [
+                "Interruption"
+            ]
         }
     },
     "proxySkillIDs": [],
@@ -193,7 +200,7 @@
                 "inNpcEditor": 1,
                 "overallChance": {
                     "percent": 0.026699999999999998,
-                    "howManyToKill": 3745
+                    "howManyToKill": 3750
                 },
                 "LootTableIndexItems": 3,
                 "PackageComponent": {},
@@ -253,11 +260,11 @@
                 "inNpcEditor": 1,
                 "overallChance": {
                     "percent": 0.0007,
-                    "howManyToKill": 142857
+                    "howManyToKill": 150000
                 },
                 "LootTableIndexItems": 3,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "875": {
                 "LootMatrixIndex": 875,
@@ -303,7 +310,7 @@
                 "inNpcEditor": 1,
                 "overallChance": {
                     "percent": 0.0333,
-                    "howManyToKill": 3003
+                    "howManyToKill": 3000
                 },
                 "LootTableIndexItems": 3,
                 "PackageComponent": {},
@@ -355,7 +362,7 @@
                 "inNpcEditor": 1,
                 "overallChance": {
                     "percent": 0.06,
-                    "howManyToKill": 1667
+                    "howManyToKill": 1650
                 },
                 "LootTableIndexItems": 3,
                 "PackageComponent": {},
@@ -407,7 +414,7 @@
                 "inNpcEditor": 1,
                 "overallChance": {
                     "percent": 0.08,
-                    "howManyToKill": 1250
+                    "howManyToKill": 1200
                 },
                 "LootTableIndexItems": 3,
                 "PackageComponent": {},

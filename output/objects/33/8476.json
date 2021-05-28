@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 3+3+3 %(ChargeUp)Calls down lightning that does 4 damage to enemies",
                 "name": "Elite Attack with Lightning",
+                "rawDescription": "%(DamageCombo) 3+3+3 %(ChargeUp)Calls down lightning that does 4 damage to enemies",
                 "damageCombo": " 3+3+3 ",
                 "ChargeUp": "Calls down lightning that does 4 damage to enemies"
             }
@@ -95,6 +95,29 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 4,
+            "allDamage": [
+                2,
+                3,
+                3,
+                4,
+                3,
+                3
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Knockback"
+            ],
             "doubleJumpSmash": 2,
             "singleJumpSmash": 3,
             "chargeUpCost": -3

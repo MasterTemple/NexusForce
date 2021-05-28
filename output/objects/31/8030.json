@@ -65,7 +65,7 @@
             "defined_type": "Location",
             "defined_subtype": "Nimbus Station",
             "missionName": "Get your Paradox Gear!",
-            "missionDescription": "<font color='#FF7F00'>Talk to Cog Blammo</font> in Nimbus Plaza and pick your first Specialty Kit!",
+            "missionDescription": "Talk to Cog Blammo in Nimbus Plaza and pick your first Specialty Kit!",
             "isMission": 1,
             "rewardCount": 1
         }

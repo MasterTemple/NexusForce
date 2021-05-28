@@ -58,8 +58,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 3+3+4 %(ChargeUp)Spins you around, doing 8 damage to nearby enemies",
                 "name": "Valiant Attack",
+                "rawDescription": "%(DamageCombo) 3+3+4 %(ChargeUp)Spins you around, doing 8 damage to nearby enemies",
                 "damageCombo": " 3+3+4 ",
                 "ChargeUp": "Spins you around, doing 8 damage to nearby enemies"
             }
@@ -82,8 +82,7 @@
         4244,
         4254,
         22446,
-        11183,
-        22269
+        11183
     ],
     "stats": {
         "armorBonusUI": 3,
@@ -151,33 +150,36 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 8,
+            "allDamage": [
+                1,
+                3,
+                3,
+                8,
+                3,
+                4
+            ],
+            "attackTypes": [
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Knockback"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 3,
             "chargeUpCost": -6
         }
     },
-    "proxySkillIDs": [
-        1029
-    ],
-    "proxySkills": {
-        "1029": {
-            "castOnType": 0,
-            "AICombatWeight": 0,
-            "behaviorID": 22269,
-            "imaginationcost": 7,
-            "cooldowngroup": 24,
-            "cooldown": 45.0,
-            "inNpcEditor": 0,
-            "skillIcon": 4227,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null,
-            "info": {
-                "rawDescription": "Creates a Spiderling that assists you in battle",
-                "name": "Create Spiderling"
-            }
-        }
-    },
+    "proxySkillIDs": [],
+    "proxySkills": {},
     "iconURL": "textures/auramar/ui/inventory/faction%20kits/fackit_sorcerervaliant_master.png",
     "buyAndDrop": {
         "LootTableIndexes": [

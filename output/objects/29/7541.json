@@ -71,8 +71,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 12 %(Description)Throws shuriken that do 12 damage to enemies",
                 "name": "Shuriken Barrage",
+                "rawDescription": "%(DamageCombo) 12 %(Description)Throws shuriken that do 12 damage to enemies",
                 "damageCombo": " 12 ",
                 "Description": "Throws shuriken that do 12 damage to enemies"
             }
@@ -143,6 +143,12 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 0,
+            "allDamage": [
+                3
+            ],
+            "attackTypes": [
+                "Area of Effect"
+            ],
             "doubleJumpSmash": 3
         }
     },

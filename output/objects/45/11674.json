@@ -40,8 +40,7 @@
         "commendationCurrencyType": null,
         "commendationCurrencyCost": null,
         "equipLocationNames": [],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {},
     "proxySkillIDs": [],
@@ -87,7 +86,7 @@
                         "displayName": "Doom Star Model Pack 2"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

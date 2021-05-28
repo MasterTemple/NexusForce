@@ -30,8 +30,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Allows you to build in a Build Area",
-                "name": "Modular Building Skill"
+                "name": "Modular Building Skill",
+                "rawDescription": "Allows you to build in a Build Area"
             }
         }
     },
@@ -86,7 +86,9 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": []
         }
     },
     "proxySkillIDs": [],
@@ -106,7 +108,7 @@
             "defined_type": "Location",
             "defined_subtype": "Venture Explorer",
             "missionName": "Not Enough Lifepods?",
-            "missionDescription": "Smash crates to <font color='#FF7F00'>collect 3 rocket parts</font>. You'll need a Nose Cone, a Cockpit and an Engine.",
+            "missionDescription": "Smash crates to collect 3 rocket parts. You'll need a Nose Cone, a Cockpit and an Engine.",
             "isMission": 1,
             "rewardCount": 1
         }

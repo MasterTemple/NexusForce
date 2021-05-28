@@ -38,8 +38,7 @@
         "commendationCurrencyType": null,
         "commendationCurrencyCost": null,
         "equipLocationNames": [],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {},
     "proxySkillIDs": [],
@@ -88,7 +87,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "196": {
                 "LootMatrixIndex": 196,
@@ -370,7 +369,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "217": {
                 "LootMatrixIndex": 217,
@@ -410,7 +409,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "218": {
                 "LootMatrixIndex": 218,
@@ -450,7 +449,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "230": {
                 "LootMatrixIndex": 230,
@@ -490,7 +489,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "231": {
                 "LootMatrixIndex": 231,
@@ -544,7 +543,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "285": {
                 "LootMatrixIndex": 285,
@@ -692,7 +691,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "348": {
                 "LootMatrixIndex": 348,
@@ -732,7 +731,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "353": {
                 "LootMatrixIndex": 353,
@@ -1395,7 +1394,7 @@
                         "displayName": "Small Bag of Faction Tokens"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "411": {
                 "LootMatrixIndex": 411,
@@ -1432,7 +1431,7 @@
                         "displayName": "Medium Bag of Faction Tokens"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "412": {
                 "LootMatrixIndex": 412,
@@ -1469,7 +1468,7 @@
                         "displayName": "Large Bag of Faction Tokens"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "413": {
                 "LootMatrixIndex": 413,
@@ -1549,7 +1548,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.25,
-                    "howManyToKill": 44
+                    "howManyToKill": 33
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
@@ -1627,7 +1626,7 @@
                         "displayName": "Daily Token Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "455": {
                 "LootMatrixIndex": 455,
@@ -2109,7 +2108,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "496": {
                 "LootMatrixIndex": 496,
@@ -2149,7 +2148,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "497": {
                 "LootMatrixIndex": 497,
@@ -2189,7 +2188,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "499": {
                 "LootMatrixIndex": 499,
@@ -2310,7 +2309,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "508": {
                 "LootMatrixIndex": 508,
@@ -2350,7 +2349,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "509": {
                 "LootMatrixIndex": 509,
@@ -2390,7 +2389,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "510": {
                 "LootMatrixIndex": 510,
@@ -2430,7 +2429,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "511": {
                 "LootMatrixIndex": 511,
@@ -2470,7 +2469,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "512": {
                 "LootMatrixIndex": 512,
@@ -2552,7 +2551,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "514": {
                 "LootMatrixIndex": 514,
@@ -2592,7 +2591,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "515": {
                 "LootMatrixIndex": 515,
@@ -2632,7 +2631,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "516": {
                 "LootMatrixIndex": 516,
@@ -2672,7 +2671,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "517": {
                 "LootMatrixIndex": 517,
@@ -2712,7 +2711,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "518": {
                 "LootMatrixIndex": 518,
@@ -2752,7 +2751,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "519": {
                 "LootMatrixIndex": 519,
@@ -2792,7 +2791,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "520": {
                 "LootMatrixIndex": 520,
@@ -2832,7 +2831,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "521": {
                 "LootMatrixIndex": 521,
@@ -2914,7 +2913,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "523": {
                 "LootMatrixIndex": 523,
@@ -2954,7 +2953,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "524": {
                 "LootMatrixIndex": 524,
@@ -2994,7 +2993,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "525": {
                 "LootMatrixIndex": 525,
@@ -3034,7 +3033,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "526": {
                 "LootMatrixIndex": 526,
@@ -3074,7 +3073,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "527": {
                 "LootMatrixIndex": 527,
@@ -3114,7 +3113,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "568": {
                 "LootMatrixIndex": 568,
@@ -3766,7 +3765,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "593": {
                 "LootMatrixIndex": 593,
@@ -3806,7 +3805,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "596": {
                 "LootMatrixIndex": 596,
@@ -3843,7 +3842,7 @@
                         "displayName": "Very Large Bag of Faction Tokens"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "597": {
                 "LootMatrixIndex": 597,
@@ -3880,7 +3879,7 @@
                         "displayName": "Extra Large Bag of Faction Tokens"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "598": {
                 "LootMatrixIndex": 598,
@@ -3961,7 +3960,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "620": {
                 "LootMatrixIndex": 620,
@@ -4001,7 +4000,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "621": {
                 "LootMatrixIndex": 621,
@@ -4041,7 +4040,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "624": {
                 "LootMatrixIndex": 624,
@@ -4937,7 +4936,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "656": {
                 "LootMatrixIndex": 656,
@@ -4974,7 +4973,7 @@
                         "displayName": "Nexus Force Supply Crate"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "662": {
                 "LootMatrixIndex": 662,
@@ -5011,7 +5010,7 @@
                         "displayName": "Premium Surprise Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "665": {
                 "LootMatrixIndex": 665,
@@ -5048,7 +5047,7 @@
                         "displayName": "Quality Surprise Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "666": {
                 "LootMatrixIndex": 666,
@@ -5085,7 +5084,7 @@
                         "displayName": "Superior Surprise Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "677": {
                 "LootMatrixIndex": 677,
@@ -5574,7 +5573,7 @@
                         "displayName": "Mega Bag of Faction Tokens"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "728": {
                 "LootMatrixIndex": 728,
@@ -5611,7 +5610,7 @@
                         "displayName": "Ultra Bag of Faction Tokens"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "729": {
                 "LootMatrixIndex": 729,
@@ -5648,7 +5647,7 @@
                         "displayName": "Ultra-Mega Bag of Faction Tokens"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "753": {
                 "LootMatrixIndex": 753,
@@ -5859,7 +5858,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "761": {
                 "LootMatrixIndex": 761,
@@ -5906,7 +5905,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "763": {
                 "LootMatrixIndex": 763,
@@ -5946,7 +5945,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "765": {
                 "LootMatrixIndex": 765,
@@ -6020,7 +6019,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "860": {
                 "LootMatrixIndex": 860,
@@ -6230,7 +6229,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "880": {
                 "LootMatrixIndex": 880,
@@ -6270,7 +6269,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "881": {
                 "LootMatrixIndex": 881,
@@ -6338,7 +6337,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "882": {
                 "LootMatrixIndex": 882,
@@ -6378,7 +6377,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "883": {
                 "LootMatrixIndex": 883,
@@ -6418,7 +6417,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "884": {
                 "LootMatrixIndex": 884,
@@ -6458,7 +6457,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "893": {
                 "LootMatrixIndex": 893,
@@ -6498,7 +6497,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

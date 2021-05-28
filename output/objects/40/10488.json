@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 2+2+3 %(ChargeUp)Makes you roll into enemies, doing 2 damage",
                 "name": "Panda Style Attack",
+                "rawDescription": "%(DamageCombo) 2+2+3 %(ChargeUp)Makes you roll into enemies, doing 2 damage",
                 "damageCombo": " 2+2+3 ",
                 "ChargeUp": "Makes you roll into enemies, doing 2 damage"
             }
@@ -68,8 +68,7 @@
         "equipLocationNames": [
             "Right Hand"
         ],
-        "isWeapon": true,
-        "preconditionDescriptions": {}
+        "isWeapon": true
     },
     "overview": {
         "11901": {
@@ -90,6 +89,30 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 2,
+            "allDamage": [
+                1,
+                1,
+                2,
+                2,
+                2,
+                3
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Knockback"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 1,
             "chargeUpCost": -1

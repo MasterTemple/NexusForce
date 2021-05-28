@@ -61,8 +61,7 @@
         "equipLocationNames": [
             "Right Hand"
         ],
-        "isWeapon": true,
-        "preconditionDescriptions": {}
+        "isWeapon": true
     },
     "overview": {},
     "proxySkillIDs": [],

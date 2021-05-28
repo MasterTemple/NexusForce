@@ -57,8 +57,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 14 %(Description)Freezes enemies solid",
                 "name": "Fire Extinguisher 3",
+                "rawDescription": "%(DamageCombo) 14 %(Description)Freezes enemies solid",
                 "damageCombo": " 14 ",
                 "Description": "Freezes enemies solid"
             }
@@ -128,7 +128,13 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                14
+            ],
+            "attackTypes": [
+                "Interruption"
+            ]
         }
     },
     "proxySkillIDs": [],

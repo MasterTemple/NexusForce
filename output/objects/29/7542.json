@@ -59,8 +59,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Does 3 ongoing damage to enemies",
-                "name": "Gadgets Extreme"
+                "name": "Gadgets Extreme",
+                "rawDescription": "Does 3 ongoing damage to enemies"
             }
         }
     },
@@ -128,7 +128,15 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                3
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback"
+            ]
         }
     },
     "proxySkillIDs": [],

@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Creates a cauldron that releases Life Power-ups",
-                "name": "Deploy Cauldron of Life"
+                "name": "Deploy Cauldron of Life",
+                "rawDescription": "Creates a cauldron that releases Life Power-ups"
             }
         }
     },

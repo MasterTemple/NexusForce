@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 8 %(AltCombo) 22 %(Description)Calls down a bolt of lightning to strike an enemy",
                 "name": "Lightning Spinjitzu Strike",
+                "rawDescription": "%(DamageCombo) 8 %(AltCombo) 22 %(Description)Calls down a bolt of lightning to strike an enemy",
                 "damageCombo": " 8 %(AltCombo) 22 ",
                 "Description": "Calls down a bolt of lightning to strike an enemy"
             }
@@ -86,12 +86,19 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                8,
+                22
+            ],
+            "attackTypes": [
+                "Interruption"
+            ]
         }
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "bot/blob/master/src/unknown.png?raw=true",
+    "iconURL": "unknown",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

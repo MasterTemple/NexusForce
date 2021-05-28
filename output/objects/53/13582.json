@@ -30,8 +30,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 3+3+4 %(ChargeUp)Does 5 damage and knocks down enemies",
                 "name": "Heroic Attack with Slam",
+                "rawDescription": "%(DamageCombo) 3+3+4 %(ChargeUp)Does 5 damage and knocks down enemies",
                 "damageCombo": " 3+3+4 ",
                 "ChargeUp": "Does 5 damage and knocks down enemies"
             }
@@ -52,8 +52,7 @@
     },
     "behaviorIDs": [
         28140,
-        11860,
-        24951
+        11860
     ],
     "stats": {
         "cooldown": 0.0,
@@ -113,33 +112,33 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 5,
+            "allDamage": [
+                2,
+                3,
+                3,
+                5,
+                3,
+                4
+            ],
+            "attackTypes": [
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Knockback"
+            ],
             "doubleJumpSmash": 2,
             "singleJumpSmash": 3,
             "chargeUpCost": -2
         }
     },
-    "proxySkillIDs": [
-        335
-    ],
-    "proxySkills": {
-        "335": {
-            "castOnType": 0,
-            "AICombatWeight": 0,
-            "behaviorID": 24951,
-            "imaginationcost": 2,
-            "cooldowngroup": 50,
-            "cooldown": 40.0,
-            "inNpcEditor": 0,
-            "skillIcon": 2951,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null,
-            "info": {
-                "rawDescription": "Gives a speed boost for 15 seconds",
-                "name": "Speed Boost"
-            }
-        }
-    },
+    "proxySkillIDs": [],
+    "proxySkills": {},
     "iconURL": "textures/nexustower/ui/inventory/hands/molewhacker.png",
     "buyAndDrop": {
         "LootTableIndexes": [

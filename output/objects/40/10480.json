@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": " %(ChargeUp)Restores up to 10 Imagination to nearby characters - charge longer for more Imagination",
                 "name": "Team Cheer",
+                "rawDescription": " %(ChargeUp)Restores up to 10 Imagination to nearby characters - charge longer for more Imagination",
                 "ChargeUp": "Restores up to 10 Imagination to nearby characters - charge longer for more Imagination"
             }
         }
@@ -67,8 +67,7 @@
         "equipLocationNames": [
             "Left Hand"
         ],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {
         "12292": {
@@ -84,7 +83,12 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": [
+                "Interruption",
+                "Area of Effect"
+            ]
         }
     },
     "proxySkillIDs": [],

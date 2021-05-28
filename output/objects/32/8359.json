@@ -106,7 +106,7 @@
                         "displayName": "Amazon Reward Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 2+2+3 %(ChargeUp)Calls down lightning that does 4 damage to enemies",
                 "name": "Great Attack with Lightning",
+                "rawDescription": "%(DamageCombo) 2+2+3 %(ChargeUp)Calls down lightning that does 4 damage to enemies",
                 "damageCombo": " 2+2+3 ",
                 "ChargeUp": "Calls down lightning that does 4 damage to enemies"
             }
@@ -93,6 +93,29 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 4,
+            "allDamage": [
+                1,
+                2,
+                2,
+                4,
+                2,
+                3
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Knockback"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 2,
             "chargeUpCost": -3
@@ -211,11 +234,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.004699999999999999,
-                    "howManyToKill": 21277
+                    "howManyToKill": 21450
                 },
                 "LootTableIndexItems": 27,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "348": {
                 "LootMatrixIndex": 348,
@@ -269,11 +292,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0023,
-                    "howManyToKill": 43478
+                    "howManyToKill": 42900
                 },
                 "LootTableIndexItems": 27,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "393": {
                 "LootMatrixIndex": 393,
@@ -767,7 +790,7 @@
                 },
                 "LootTableIndexItems": 27,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "666": {
                 "LootMatrixIndex": 666,
@@ -813,7 +836,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.5333,
-                    "howManyToKill": 188
+                    "howManyToKill": 150
                 },
                 "LootTableIndexItems": 27,
                 "PackageComponent": {
@@ -822,7 +845,7 @@
                         "displayName": "Superior Surprise Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

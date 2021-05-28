@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 7 %(Description)Strikes enemies with lightning, doing 7 damage",
                 "name": "Dark Lightning 2",
+                "rawDescription": "%(DamageCombo) 7 %(Description)Strikes enemies with lightning, doing 7 damage",
                 "damageCombo": " 7 ",
                 "Description": "Strikes enemies with lightning, doing 7 damage"
             }
@@ -96,7 +96,14 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                7
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption"
+            ]
         }
     },
     "proxySkillIDs": [],

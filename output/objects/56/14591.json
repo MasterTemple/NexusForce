@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Digs for buried treasure",
-                "name": "Dig for booty"
+                "name": "Dig for booty",
+                "rawDescription": "Digs for buried treasure"
             }
         }
     },
@@ -61,8 +61,7 @@
         "commendationCurrencyType": null,
         "commendationCurrencyCost": null,
         "equipLocationNames": [],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {},
     "proxySkillIDs": [],

@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Summons a Crocodile that assists you in battle",
-                "name": "Summon Crocodile"
+                "name": "Summon Crocodile",
+                "rawDescription": "Summons a Crocodile that assists you in battle"
             }
         }
     },

@@ -2,7 +2,7 @@
     "objectID": 609,
     "itemInfo": {
         "name": "m30663",
-        "displayName": "Steering Wheel Ã˜16 for Console 2x2",
+        "displayName": "Steering Wheel Ø16 for Console 2x2",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -84,7 +84,7 @@
                         "displayName": "Mega Brick Booster Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

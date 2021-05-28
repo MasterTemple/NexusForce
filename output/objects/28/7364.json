@@ -45,8 +45,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Creates a Quick Build turret that attacks enemies",
-                "name": "Deploy Turret 3"
+                "name": "Deploy Turret 3",
+                "rawDescription": "Creates a Quick Build turret that attacks enemies"
             }
         }
     },
@@ -110,7 +110,9 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": []
         }
     },
     "proxySkillIDs": [],

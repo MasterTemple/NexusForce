@@ -40,8 +40,7 @@
         "commendationCurrencyType": null,
         "commendationCurrencyCost": null,
         "equipLocationNames": [],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {},
     "proxySkillIDs": [],
@@ -96,7 +95,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.7143,
-                    "howManyToKill": 58
+                    "howManyToKill": 49
                 },
                 "LootTableIndexItems": 11,
                 "PackageComponent": {
@@ -105,7 +104,7 @@
                         "displayName": "Nexus Force Supply Crate"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

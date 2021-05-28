@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Slows enemies",
-                "name": "Stink Blast"
+                "name": "Stink Blast",
+                "rawDescription": "Slows enemies"
             }
         }
     },

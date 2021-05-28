@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Shields you from up to 4 damage for 20 seconds",
-                "name": "Blow Bubbles"
+                "name": "Blow Bubbles",
+                "rawDescription": "Shields you from up to 4 damage for 20 seconds"
             }
         }
     },

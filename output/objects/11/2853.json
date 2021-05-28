@@ -19,7 +19,7 @@
         "equipLocationNames": [],
         "isWeapon": false
     },
-    "iconURL": "bot/blob/master/src/unknown.png?raw=true",
+    "iconURL": "https://github.com/MasterTemple/lu_bot/blob/master/src/unknown.png?raw=true",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

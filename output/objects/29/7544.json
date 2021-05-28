@@ -45,8 +45,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 4 %(Description)Calls an orbital laser that does 4 damage to enemies and briefly stuns them",
                 "name": "Orbital Strike 1",
+                "rawDescription": "%(DamageCombo) 4 %(Description)Calls an orbital laser that does 4 damage to enemies and briefly stuns them",
                 "damageCombo": " 4 ",
                 "Description": "Calls an orbital laser that does 4 damage to enemies and briefly stuns them"
             }
@@ -114,7 +114,14 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                4
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption"
+            ]
         }
     },
     "proxySkillIDs": [],

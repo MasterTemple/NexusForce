@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 3+3+3 %(ChargeUp)Sticks enemies' feet to the ground",
                 "name": "Elite Attack with Rooting",
+                "rawDescription": "%(DamageCombo) 3+3+3 %(ChargeUp)Sticks enemies' feet to the ground",
                 "damageCombo": " 3+3+3 ",
                 "ChargeUp": "Sticks enemies' feet to the ground"
             }
@@ -95,6 +95,27 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 0,
+            "allDamage": [
+                2,
+                3,
+                3,
+                3,
+                3
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Knockback",
+                "Knockback"
+            ],
             "doubleJumpSmash": 2,
             "singleJumpSmash": 3,
             "chargeUpCost": -1

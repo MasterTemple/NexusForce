@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 2+2+3 %(AltCombo) 7+7+7 %(Description)Fires a Seeking Fish",
                 "name": "Ninjago Sashimi Attack",
+                "rawDescription": "%(DamageCombo) 2+2+3 %(AltCombo) 7+7+7 %(Description)Fires a Seeking Fish",
                 "damageCombo": " 2+2+3 %(AltCombo) 7+7+7 ",
                 "Description": "Fires a Seeking Fish"
             }
@@ -105,6 +105,36 @@
                 7
             ],
             "chargeUpCombo": 0,
+            "allDamage": [
+                1,
+                5,
+                2,
+                7,
+                1,
+                1,
+                1,
+                2,
+                7,
+                3,
+                7
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Knockback",
+                "Knockback",
+                "Ranged",
+                "Ranged",
+                "Ranged",
+                "Interruption",
+                "Interruption"
+            ],
             "doubleJumpSmash": 5,
             "singleJumpSmash": 7,
             "chargeUpCost": -1

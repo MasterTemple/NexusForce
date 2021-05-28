@@ -42,8 +42,7 @@
         "equipLocationNames": [],
         "isWeapon": false,
         "commendationCurrencyName": "Faction Token Proxy",
-        "commendationCurrencyDisplayName": "Faction Token",
-        "preconditionDescriptions": {}
+        "commendationCurrencyDisplayName": "Faction Token"
     },
     "overview": {},
     "proxySkillIDs": [],
@@ -98,7 +97,7 @@
                 "inNpcEditor": 1,
                 "overallChance": {
                     "percent": 1.6875,
-                    "howManyToKill": 59
+                    "howManyToKill": 56
                 },
                 "LootTableIndexItems": 4,
                 "PackageComponent": {},
@@ -150,7 +149,7 @@
                 "inNpcEditor": 1,
                 "overallChance": {
                     "percent": 3.75,
-                    "howManyToKill": 27
+                    "howManyToKill": 28
                 },
                 "LootTableIndexItems": 4,
                 "PackageComponent": {},

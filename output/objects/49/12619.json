@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 3 %(Description)Creates a Bot Quick Build that assists you in battle",
                 "name": "Create Bot",
+                "rawDescription": "%(DamageCombo) 3 %(Description)Creates a Bot Quick Build that assists you in battle",
                 "damageCombo": " 3 ",
                 "Description": "Creates a Bot Quick Build that assists you in battle"
             }
@@ -83,7 +83,9 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": []
         }
     },
     "proxySkillIDs": [],

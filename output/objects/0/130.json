@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Read this book to learn the secrets of a Rank 1 Engineer!",
-                "name": "Secrets of an Engineer 1"
+                "name": "Secrets of an Engineer 1",
+                "rawDescription": "Read this book to learn the secrets of a Rank 1 Engineer!"
             }
         }
     },
@@ -117,7 +117,7 @@
                         "displayName": "Rank 1 Engineer Kit Package"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

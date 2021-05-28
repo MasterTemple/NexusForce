@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Restores 3 Imagination",
-                "name": "Hiccup"
+                "name": "Hiccup",
+                "rawDescription": "Restores 3 Imagination"
             }
         }
     },

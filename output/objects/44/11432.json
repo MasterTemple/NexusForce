@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 1+1+2 %(Description)Fires a projectile",
                 "name": "Improved Ranged Attack",
+                "rawDescription": "%(DamageCombo) 1+1+2 %(Description)Fires a projectile",
                 "damageCombo": " 1+1+2 ",
                 "Description": "Fires a projectile"
             }
@@ -96,6 +96,31 @@
                 2
             ],
             "chargeUpCombo": 0,
+            "allDamage": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                2
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Knockback",
+                "Knockback",
+                "Ranged",
+                "Ranged",
+                "Ranged",
+                "Interruption"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 1,
             "chargeUpCost": -1
@@ -154,7 +179,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.3125,
-                    "howManyToKill": 320
+                    "howManyToKill": 336
                 },
                 "LootTableIndexItems": 85,
                 "PackageComponent": {
@@ -163,7 +188,7 @@
                         "displayName": "Nexus Tower Gift Bag"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

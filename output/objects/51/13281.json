@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Creates a schooner that rams an enemy for 15 damage",
-                "name": "Create Schooner"
+                "name": "Create Schooner",
+                "rawDescription": "Creates a schooner that rams an enemy for 15 damage"
             }
         }
     },
@@ -66,8 +66,7 @@
         "equipLocationNames": [
             "Left Hand"
         ],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {
         "20561": {
@@ -83,7 +82,9 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": []
         }
     },
     "proxySkillIDs": [],

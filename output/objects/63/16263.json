@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 4 %(AltCombo) 21 %(Description)Pulls an enemy to you",
                 "name": "Fire Spinjitzu Back Draft",
+                "rawDescription": "%(DamageCombo) 4 %(AltCombo) 21 %(Description)Pulls an enemy to you",
                 "damageCombo": " 4 %(AltCombo) 21 ",
                 "Description": "Pulls an enemy to you"
             }
@@ -86,12 +86,19 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                4,
+                21
+            ],
+            "attackTypes": [
+                "Interruption"
+            ]
         }
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "bot/blob/master/src/unknown.png?raw=true",
+    "iconURL": "unknown",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

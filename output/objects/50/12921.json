@@ -45,8 +45,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 2+3+3 %(ChargeUp)Restores up to 12 Armor to nearby characters - charge longer for more Armor",
                 "name": "Gnarled Staff 3",
+                "rawDescription": "%(DamageCombo) 2+3+3 %(ChargeUp)Restores up to 12 Armor to nearby characters - charge longer for more Armor",
                 "damageCombo": " 2+3+3 ",
                 "ChargeUp": "Restores up to 12 Armor to nearby characters - charge longer for more Armor"
             }
@@ -120,6 +120,32 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
+            "allDamage": [
+                1,
+                2,
+                2,
+                3,
+                3
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Area of Effect",
+                "Interruption",
+                "Area of Effect",
+                "Area of Effect",
+                "Knockback",
+                "Knockback",
+                "Interruption",
+                "Knockback"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 2
         }

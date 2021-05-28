@@ -58,8 +58,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 1+2+2+3 %(ChargeUp)Fires a 3 damage projectile",
                 "name": "Flare Guns 1",
+                "rawDescription": "%(DamageCombo) 1+2+2+3 %(ChargeUp)Fires a 3 damage projectile",
                 "damageCombo": " 1+2+2+3 ",
                 "ChargeUp": "Fires a 3 damage projectile"
             }
@@ -82,8 +82,7 @@
         4241,
         4251,
         10312,
-        11183,
-        11453
+        11183
     ],
     "stats": {
         "armorBonusUI": 1,
@@ -152,6 +151,28 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 1,
+            "allDamage": [
+                1,
+                1,
+                1,
+                2,
+                2,
+                3,
+                1
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Interruption",
+                "Knockback",
+                "Ranged",
+                "Knockback",
+                "Area of Effect"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 1,
             "chargeUpCost": -3,
@@ -159,28 +180,8 @@
             "projectileChargeUpDamage": 1
         }
     },
-    "proxySkillIDs": [
-        699
-    ],
-    "proxySkills": {
-        "699": {
-            "castOnType": 0,
-            "AICombatWeight": 0,
-            "behaviorID": 11453,
-            "imaginationcost": 6,
-            "cooldowngroup": 24,
-            "cooldown": 30.0,
-            "inNpcEditor": 0,
-            "skillIcon": 3475,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null,
-            "info": {
-                "rawDescription": "Gives a speed boost for 9 seconds that does 3 damage over time",
-                "name": "Fig on Fire 1"
-            }
-        }
-    },
+    "proxySkillIDs": [],
+    "proxySkills": {},
     "iconURL": "textures/ui/inventory/faction%20kits/daredevil_flareguns_1.png",
     "buyAndDrop": {
         "LootTableIndexes": [
@@ -224,7 +225,7 @@
                         "displayName": "Rank 1 Daredevil Kit Package"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

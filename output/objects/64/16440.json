@@ -39,8 +39,7 @@
         "commendationCurrencyType": null,
         "commendationCurrencyCost": null,
         "equipLocationNames": [],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {},
     "proxySkillIDs": [],
@@ -83,7 +82,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.3571,
-                    "howManyToKill": 280
+                    "howManyToKill": 196
                 },
                 "LootTableIndexItems": 196,
                 "PackageComponent": {
@@ -92,7 +91,7 @@
                         "displayName": "Mega Brick Booster Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "585": {
                 "LootMatrixIndex": 585,
@@ -126,7 +125,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.3571,
-                    "howManyToKill": 280
+                    "howManyToKill": 196
                 },
                 "LootTableIndexItems": 196,
                 "PackageComponent": {},
@@ -166,7 +165,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.3571,
-                    "howManyToKill": 280
+                    "howManyToKill": 196
                 },
                 "LootTableIndexItems": 196,
                 "PackageComponent": {},
@@ -206,7 +205,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.3571,
-                    "howManyToKill": 280
+                    "howManyToKill": 196
                 },
                 "LootTableIndexItems": 196,
                 "PackageComponent": {},
@@ -246,7 +245,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.3571,
-                    "howManyToKill": 280
+                    "howManyToKill": 196
                 },
                 "LootTableIndexItems": 196,
                 "PackageComponent": {},
@@ -286,7 +285,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.3571,
-                    "howManyToKill": 280
+                    "howManyToKill": 196
                 },
                 "LootTableIndexItems": 196,
                 "PackageComponent": {},

@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 3 %(Description)Throw a fan of shuriken at enemies",
                 "name": "Shuriken Throw",
+                "rawDescription": "%(DamageCombo) 3 %(Description)Throw a fan of shuriken at enemies",
                 "damageCombo": " 3 ",
                 "Description": "Throw a fan of shuriken at enemies"
             }
@@ -117,7 +117,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.0096,
-                    "howManyToKill": 99
+                    "howManyToKill": 78
                 },
                 "LootTableIndexItems": 36,
                 "PackageComponent": {},
@@ -169,7 +169,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.8846,
-                    "howManyToKill": 35
+                    "howManyToKill": 26
                 },
                 "LootTableIndexItems": 36,
                 "PackageComponent": {},
@@ -230,11 +230,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0433,
-                    "howManyToKill": 2309
+                    "howManyToKill": 1742
                 },
                 "LootTableIndexItems": 36,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "348": {
                 "LootMatrixIndex": 348,
@@ -288,11 +288,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0288,
-                    "howManyToKill": 3472
+                    "howManyToKill": 2600
                 },
                 "LootTableIndexItems": 36,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "393": {
                 "LootMatrixIndex": 393,
@@ -338,7 +338,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.4423,
-                    "howManyToKill": 69
+                    "howManyToKill": 52
                 },
                 "LootTableIndexItems": 36,
                 "PackageComponent": {},
@@ -390,7 +390,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.1635,
-                    "howManyToKill": 46
+                    "howManyToKill": 26
                 },
                 "LootTableIndexItems": 36,
                 "PackageComponent": {},
@@ -442,7 +442,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.8846,
-                    "howManyToKill": 35
+                    "howManyToKill": 26
                 },
                 "LootTableIndexItems": 36,
                 "PackageComponent": {},
@@ -494,7 +494,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.8846,
-                    "howManyToKill": 35
+                    "howManyToKill": 26
                 },
                 "LootTableIndexItems": 36,
                 "PackageComponent": {},
@@ -546,7 +546,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.8846,
-                    "howManyToKill": 35
+                    "howManyToKill": 26
                 },
                 "LootTableIndexItems": 36,
                 "PackageComponent": {},
@@ -598,7 +598,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.8846,
-                    "howManyToKill": 35
+                    "howManyToKill": 26
                 },
                 "LootTableIndexItems": 36,
                 "PackageComponent": {},
@@ -650,7 +650,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.8846,
-                    "howManyToKill": 35
+                    "howManyToKill": 26
                 },
                 "LootTableIndexItems": 36,
                 "PackageComponent": {},
@@ -702,7 +702,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.0192,
-                    "howManyToKill": 50
+                    "howManyToKill": 26
                 },
                 "LootTableIndexItems": 36,
                 "PackageComponent": {},
@@ -754,7 +754,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.0192,
-                    "howManyToKill": 50
+                    "howManyToKill": 26
                 },
                 "LootTableIndexItems": 36,
                 "PackageComponent": {},
@@ -806,7 +806,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.0192,
-                    "howManyToKill": 50
+                    "howManyToKill": 26
                 },
                 "LootTableIndexItems": 36,
                 "PackageComponent": {},
@@ -866,11 +866,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.8846,
-                    "howManyToKill": 35
+                    "howManyToKill": 26
                 },
                 "LootTableIndexItems": 36,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "666": {
                 "LootMatrixIndex": 666,
@@ -916,7 +916,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.4423,
-                    "howManyToKill": 69
+                    "howManyToKill": 52
                 },
                 "LootTableIndexItems": 36,
                 "PackageComponent": {
@@ -925,7 +925,7 @@
                         "displayName": "Superior Surprise Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

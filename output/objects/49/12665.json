@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Creates a Mech that assists you in battle",
-                "name": "Create Mech"
+                "name": "Create Mech",
+                "rawDescription": "Creates a Mech that assists you in battle"
             }
         }
     },
@@ -66,8 +66,7 @@
         "equipLocationNames": [
             "Left Hand"
         ],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {
         "22257": {
@@ -83,7 +82,9 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": []
         }
     },
     "proxySkillIDs": [],

@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 6 %(AltCombo) 23 %(Description)Throws shurikens in front of you",
                 "name": "Ice Spinjitzu Throwing Stars",
+                "rawDescription": "%(DamageCombo) 6 %(AltCombo) 23 %(Description)Throws shurikens in front of you",
                 "damageCombo": " 6 %(AltCombo) 23 ",
                 "Description": "Throws shurikens in front of you"
             }
@@ -86,12 +86,19 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                6,
+                23
+            ],
+            "attackTypes": [
+                "Interruption"
+            ]
         }
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "bot/blob/master/src/unknown.png?raw=true",
+    "iconURL": "unknown",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

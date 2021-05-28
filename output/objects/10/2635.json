@@ -31,8 +31,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Restores 3 Imagination to nearby characters",
-                "name": "Everyone Jig"
+                "name": "Everyone Jig",
+                "rawDescription": "Restores 3 Imagination to nearby characters"
             }
         },
         "361": {
@@ -120,7 +120,11 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": [
+                "Area of Effect"
+            ]
         }
     },
     "proxySkillIDs": [],

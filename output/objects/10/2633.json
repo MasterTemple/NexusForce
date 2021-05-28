@@ -31,8 +31,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Restores 3 Imagination",
-                "name": "Pirate Jig"
+                "name": "Pirate Jig",
+                "rawDescription": "Restores 3 Imagination"
             }
         },
         "360": {
@@ -118,7 +118,9 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": []
         }
     },
     "proxySkillIDs": [],

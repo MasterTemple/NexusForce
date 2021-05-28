@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 5 %(Description)Strikes enemies with lightning, doing 5 damage",
                 "name": "Dark Lightning 1",
+                "rawDescription": "%(DamageCombo) 5 %(Description)Strikes enemies with lightning, doing 5 damage",
                 "damageCombo": " 5 ",
                 "Description": "Strikes enemies with lightning, doing 5 damage"
             }
@@ -96,7 +96,14 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                5
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption"
+            ]
         }
     },
     "proxySkillIDs": [],
@@ -143,7 +150,7 @@
                         "displayName": "Rank 1 Shinobi Kit Package"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

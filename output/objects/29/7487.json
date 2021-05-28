@@ -135,7 +135,7 @@
                         "displayName": "Rank 1 Daredevil Kit Package"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

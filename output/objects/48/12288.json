@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Throws a snowball at a nearby player",
-                "name": "Throw Snowball"
+                "name": "Throw Snowball",
+                "rawDescription": "Throws a snowball at a nearby player"
             }
         }
     },
@@ -117,7 +117,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 24.75,
-                    "howManyToKill": 4
+                    "howManyToKill": 3
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},

@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Restores 1 Life",
-                "name": "Eat Bamboo Bite"
+                "name": "Eat Bamboo Bite",
+                "rawDescription": "Restores 1 Life"
             }
         }
     },
@@ -61,8 +61,7 @@
         "commendationCurrencyType": null,
         "commendationCurrencyCost": null,
         "equipLocationNames": [],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {},
     "proxySkillIDs": [],

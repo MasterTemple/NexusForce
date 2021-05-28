@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 2+2+3 %(ChargeUp)Fires a spread of bolts that do 3 damage each",
                 "name": "Adventurer Crossbow 2",
+                "rawDescription": "%(DamageCombo) 2+2+3 %(ChargeUp)Fires a spread of bolts that do 3 damage each",
                 "damageCombo": " 2+2+3 ",
                 "ChargeUp": "Fires a spread of bolts that do 3 damage each"
             }
@@ -105,6 +105,35 @@
                 2,
                 2,
                 3
+            ],
+            "allDamage": [
+                1,
+                2,
+                1,
+                1,
+                1,
+                2,
+                3,
+                3
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Ranged",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Knockback",
+                "Knockback",
+                "Ranged",
+                "Ranged",
+                "Ranged",
+                "Interruption",
+                "Interruption"
             ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 2,

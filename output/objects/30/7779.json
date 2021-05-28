@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Grows flowers on nearby characters and restores 6 Imagination to them",
-                "name": "Chuck Dirt Clods"
+                "name": "Chuck Dirt Clods",
+                "rawDescription": "Grows flowers on nearby characters and restores 6 Imagination to them"
             }
         }
     },

@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 12 %(Description)Breath a cone of Maelstrom energy that does up to 12 damage to enemies over time",
                 "name": "Maelstrom Breath 2",
+                "rawDescription": "%(DamageCombo) 12 %(Description)Breath a cone of Maelstrom energy that does up to 12 damage to enemies over time",
                 "damageCombo": " 12 ",
                 "Description": "Breath a cone of Maelstrom energy that does up to 12 damage to enemies over time"
             }
@@ -97,6 +97,19 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 3,
+            "allDamage": [
+                3,
+                3
+            ],
+            "attackTypes": [
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Ranged",
+                "Knockback",
+                "Knockback"
+            ],
             "projectileChargeUpLOT": 4802,
             "chargeUpCost": -1,
             "projectileChargeUpDamage": 3

@@ -57,16 +57,15 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Makes nearby characters strike a Crane pose and restores 5 Imagination",
-                "name": "Crane Kata"
+                "name": "Crane Kata",
+                "rawDescription": "Makes nearby characters strike a Crane pose and restores 5 Imagination"
             }
         }
     },
     "behaviorIDs": [
         4244,
         4253,
-        10741,
-        4254
+        10741
     ],
     "stats": {
         "armorBonusUI": 3,
@@ -125,27 +124,15 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": [
+                "Area of Effect"
+            ]
         }
     },
-    "proxySkillIDs": [
-        372
-    ],
-    "proxySkills": {
-        "372": {
-            "castOnType": 1,
-            "AICombatWeight": 0,
-            "behaviorID": 4254,
-            "imaginationcost": 0,
-            "cooldowngroup": 16,
-            "cooldown": 0.0,
-            "inNpcEditor": 0,
-            "skillIcon": 1032,
-            "imBonusUI": 4,
-            "lifeBonusUI": null,
-            "armorBonusUI": null
-        }
-    },
+    "proxySkillIDs": [],
+    "proxySkills": {},
     "iconURL": "textures/ui/inventory/hats/m30177_1.png",
     "buyAndDrop": {
         "LootTableIndexes": [],

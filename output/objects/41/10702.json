@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Makes you perform a special salute known only to LEGO Club members and restores 5 Imagination",
-                "name": "LEGO Club Salute"
+                "name": "LEGO Club Salute",
+                "rawDescription": "Makes you perform a special salute known only to LEGO Club members and restores 5 Imagination"
             }
         }
     },
@@ -66,8 +66,7 @@
         "equipLocationNames": [
             "Neck/Back"
         ],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {
         "15569": {
@@ -83,12 +82,14 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": []
         }
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "bot/blob/master/src/unknown.png?raw=true",
+    "iconURL": "unknown",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

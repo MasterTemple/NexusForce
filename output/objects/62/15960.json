@@ -59,8 +59,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Restores 3 Armor",
-                "name": "Mend Armor"
+                "name": "Mend Armor",
+                "rawDescription": "Restores 3 Armor"
             }
         },
         "1537": {
@@ -95,8 +95,7 @@
         4257,
         36249,
         37628,
-        11860,
-        36236
+        11860
     ],
     "stats": {
         "armorBonusUI": 4,
@@ -157,33 +156,13 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": []
         }
     },
-    "proxySkillIDs": [
-        1462
-    ],
-    "proxySkills": {
-        "1462": {
-            "castOnType": 0,
-            "AICombatWeight": 0,
-            "behaviorID": 36236,
-            "imaginationcost": 9,
-            "cooldowngroup": 2,
-            "cooldown": 25.0,
-            "inNpcEditor": 0,
-            "skillIcon": 4707,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null,
-            "info": {
-                "rawDescription": "%(DamageCombo) 10 %(AltCombo) 25 %(Description)Throws your spear through enemies",
-                "name": "Ninjago Spear Throw",
-                "damageCombo": " 10 %(AltCombo) 25 ",
-                "Description": "Throws your spear through enemies"
-            }
-        }
-    },
+    "proxySkillIDs": [],
+    "proxySkills": {},
     "iconURL": "textures/ng_ninjago/ui/inventory/helms/gray_ninja_hood_spear.png",
     "buyAndDrop": {
         "LootTableIndexes": [],

@@ -30,8 +30,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 2+2+2 %(AltCombo) 7+7+8 %(ChargeUp) Transform into a whirlwind that slows enemies; release to deal 4 damage to enemies or 10 damage to Skeletons and freeze them in place",
                 "name": "Ice Spinjitzu Attack",
+                "rawDescription": "%(DamageCombo) 2+2+2 %(AltCombo) 7+7+8 %(ChargeUp) Transform into a whirlwind that slows enemies; release to deal 4 damage to enemies or 10 damage to Skeletons and freeze them in place",
                 "damageCombo": " 2+2+2 %(AltCombo) 7+7+8 ",
                 "ChargeUp": " Transform into a whirlwind that slows enemies; release to deal 4 damage to enemies or 10 damage to Skeletons and freeze them in place"
             }
@@ -52,8 +52,7 @@
     },
     "behaviorIDs": [
         37971,
-        11860,
-        38355
+        11860
     ],
     "stats": {
         "cooldown": 0.4,
@@ -90,8 +89,7 @@
         ],
         "isWeapon": true,
         "commendationCurrencyName": "Faction Token Proxy",
-        "commendationCurrencyDisplayName": "Faction Token",
-        "preconditionDescriptions": {}
+        "commendationCurrencyDisplayName": "Faction Token"
     },
     "overview": {
         "37971": {
@@ -124,34 +122,40 @@
                 8
             ],
             "chargeUpCombo": 0,
+            "allDamage": [
+                1,
+                4,
+                4,
+                10,
+                2,
+                7,
+                2,
+                8
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Ranged",
+                "Interruption",
+                "Area of Effect",
+                "Interruption",
+                "Interruption",
+                "Interruption",
+                "Area of Effect",
+                "Area of Effect",
+                "Ranged",
+                "Ranged",
+                "Ranged",
+                "Interruption",
+                "Interruption"
+            ],
             "doubleJumpSmash": 4,
             "chargeUpCost": -2
         }
     },
-    "proxySkillIDs": [
-        1574
-    ],
-    "proxySkills": {
-        "1574": {
-            "castOnType": 0,
-            "AICombatWeight": null,
-            "behaviorID": 38355,
-            "imaginationcost": 6,
-            "cooldowngroup": 24,
-            "cooldown": 8.0,
-            "inNpcEditor": 0,
-            "skillIcon": 4703,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null,
-            "info": {
-                "rawDescription": "%(DamageCombo) 6 %(AltCombo) 23 %(Description)Throws shurikens in front of you",
-                "name": "Ice Spinjitzu Throwing Stars",
-                "damageCombo": " 6 %(AltCombo) 23 ",
-                "Description": "Throws shurikens in front of you"
-            }
-        }
-    },
+    "proxySkillIDs": [],
+    "proxySkills": {},
     "iconURL": "textures/ng_ninjago/ui/inventory/hands/golden_shuriken_icon.png",
     "buyAndDrop": {
         "LootTableIndexes": [

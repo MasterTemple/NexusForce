@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 3+3+3 %(ChargeUp)Does 2 damage and freezes enemies",
                 "name": "Elite Attack with Freezing",
+                "rawDescription": "%(DamageCombo) 3+3+3 %(ChargeUp)Does 2 damage and freezes enemies",
                 "damageCombo": " 3+3+3 ",
                 "ChargeUp": "Does 2 damage and freezes enemies"
             }
@@ -95,6 +95,26 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 2,
+            "allDamage": [
+                2,
+                3,
+                3,
+                2,
+                3,
+                3
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Knockback",
+                "Knockback"
+            ],
             "doubleJumpSmash": 2,
             "singleJumpSmash": 3,
             "chargeUpCost": -2
@@ -162,7 +182,7 @@
                         "displayName": "Test Package"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

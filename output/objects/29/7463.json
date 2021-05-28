@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 4 %(Description)Makes you leap on enemies, doing 4 damage",
                 "name": "Super Jump 1",
+                "rawDescription": "%(DamageCombo) 4 %(Description)Makes you leap on enemies, doing 4 damage",
                 "damageCombo": " 4 ",
                 "Description": "Makes you leap on enemies, doing 4 damage"
             }
@@ -96,7 +96,15 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                4
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Knockback",
+                "Interruption"
+            ]
         }
     },
     "proxySkillIDs": [],
@@ -144,7 +152,7 @@
                         "displayName": "Rank 1 Daredevil Kit Package"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

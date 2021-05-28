@@ -57,8 +57,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Sends out a pulse of energy that restores 10 Life Points to nearby characters",
-                "name": "Healing Pulse"
+                "name": "Healing Pulse",
+                "rawDescription": "Sends out a pulse of energy that restores 10 Life Points to nearby characters"
             }
         }
     },
@@ -120,7 +120,11 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": [
+                "Area of Effect"
+            ]
         }
     },
     "proxySkillIDs": [],

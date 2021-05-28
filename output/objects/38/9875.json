@@ -30,8 +30,7 @@
         }
     },
     "behaviorIDs": [
-        11860,
-        15569
+        11860
     ],
     "stats": {},
     "itemComponent": {
@@ -68,28 +67,8 @@
         "levelRequirement": 0
     },
     "overview": {},
-    "proxySkillIDs": [
-        838
-    ],
-    "proxySkills": {
-        "838": {
-            "castOnType": 0,
-            "AICombatWeight": 0,
-            "behaviorID": 15569,
-            "imaginationcost": 0,
-            "cooldowngroup": 13,
-            "cooldown": 60.0,
-            "inNpcEditor": 0,
-            "skillIcon": 2965,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null,
-            "info": {
-                "rawDescription": "Makes you perform a special salute known only to LEGO Club members and restores 5 Imagination",
-                "name": "LEGO Club Salute"
-            }
-        }
-    },
+    "proxySkillIDs": [],
+    "proxySkills": {},
     "iconURL": "textures/ui/inventory/torsos/m73200_club_lego.png",
     "buyAndDrop": {
         "LootTableIndexes": [

@@ -60,7 +60,7 @@
             "defined_type": "Location",
             "defined_subtype": "Avant Gardens",
             "missionName": "Model Movers",
-            "missionDescription": "<font color='#FF7F00'>Pick up, rotate and put away a model</font> on your Block Yard Property.",
+            "missionDescription": "Pick up, rotate and put away a model on your Block Yard Property.",
             "isMission": 1,
             "rewardCount": 1
         }

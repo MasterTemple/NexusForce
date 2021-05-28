@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Restores 3 Life",
-                "name": "Heal Life 3"
+                "name": "Heal Life 3",
+                "rawDescription": "Restores 3 Life"
             }
         }
     },

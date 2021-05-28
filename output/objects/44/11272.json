@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Shields you from up to 3 damage for 30 seconds",
-                "name": "Shielding 1"
+                "name": "Shielding 1",
+                "rawDescription": "Shields you from up to 3 damage for 30 seconds"
             }
         }
     },
@@ -81,7 +81,9 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": []
         }
     },
     "proxySkillIDs": [],

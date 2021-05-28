@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Restores 6 Life",
-                "name": "Heal Life 6"
+                "name": "Heal Life 6",
+                "rawDescription": "Restores 6 Life"
             }
         }
     },
@@ -63,10 +63,7 @@
         "commendationCurrencyCost": null,
         "equipLocationNames": [],
         "isWeapon": false,
-        "levelRequirement": "15",
-        "preconditionDescriptions": {
-            "214": "You must be Level 15 or greater to use this item."
-        }
+        "levelRequirement": "15"
     },
     "overview": {},
     "proxySkillIDs": [],

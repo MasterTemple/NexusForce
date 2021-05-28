@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 2+2+2 %(Description)Launches firecrackers that do 2 damage",
                 "name": "Launcher",
+                "rawDescription": "%(DamageCombo) 2+2+2 %(Description)Launches firecrackers that do 2 damage",
                 "damageCombo": " 2+2+2 ",
                 "Description": "Launches firecrackers that do 2 damage"
             }
@@ -101,6 +101,30 @@
                 2
             ],
             "chargeUpCombo": 0,
+            "allDamage": [
+                1,
+                2,
+                1,
+                1,
+                1,
+                2
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Knockback",
+                "Knockback",
+                "Ranged",
+                "Ranged",
+                "Ranged",
+                "Area of Effect"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 2,
             "chargeUpCost": -1

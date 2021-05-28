@@ -2,7 +2,7 @@
     "objectID": 16458,
     "itemInfo": {
         "name": "m93068",
-        "displayName": "Headtop with Ã˜3.2 Grip",
+        "displayName": "Headtop with Ø3.2 Grip",
         "type": "LEGO brick",
         "description": "",
         "internalNotes": ""
@@ -39,8 +39,7 @@
         "commendationCurrencyType": null,
         "commendationCurrencyCost": null,
         "equipLocationNames": [],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {},
     "proxySkillIDs": [],
@@ -86,7 +85,7 @@
                         "displayName": "Mega Brick Booster Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

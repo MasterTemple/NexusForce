@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Read this book to learn the secrets of a Rank 1 Space Marauder!",
-                "name": "Secrets of a Space Marauder 1"
+                "name": "Secrets of a Space Marauder 1",
+                "rawDescription": "Read this book to learn the secrets of a Rank 1 Space Marauder!"
             }
         }
     },
@@ -117,7 +117,7 @@
                         "displayName": "Rank 1 Space Marauder Kit Package"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

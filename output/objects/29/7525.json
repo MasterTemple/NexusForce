@@ -58,8 +58,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 3+3+3 %(ChargeUp)Restores up to 11 Imagination for nearby characters - charge longer for more Imagination",
                 "name": "Shadow Blade 3",
+                "rawDescription": "%(DamageCombo) 3+3+3 %(ChargeUp)Restores up to 11 Imagination for nearby characters - charge longer for more Imagination",
                 "damageCombo": " 3+3+3 ",
                 "ChargeUp": "Restores up to 11 Imagination for nearby characters - charge longer for more Imagination"
             }
@@ -82,8 +82,7 @@
         4243,
         4253,
         24016,
-        11860,
-        23782
+        11860
     ],
     "stats": {
         "armorBonusUI": 2,
@@ -154,34 +153,32 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
+            "allDamage": [
+                2,
+                3,
+                3,
+                3,
+                3
+            ],
+            "attackTypes": [
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Interruption",
+                "Knockback",
+                "Area of Effect",
+                "Interruption",
+                "Area of Effect",
+                "Area of Effect"
+            ],
             "doubleJumpSmash": 2,
             "singleJumpSmash": 3
         }
     },
-    "proxySkillIDs": [
-        1079
-    ],
-    "proxySkills": {
-        "1079": {
-            "castOnType": 0,
-            "AICombatWeight": null,
-            "behaviorID": 23782,
-            "imaginationcost": 7,
-            "cooldowngroup": 24,
-            "cooldown": 8.0,
-            "inNpcEditor": 0,
-            "skillIcon": 3477,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null,
-            "info": {
-                "rawDescription": "%(DamageCombo) 8 %(Description)Makes you rush forward, doing 8 damage to enemies that you strike",
-                "name": "Shinobi Rush 2",
-                "damageCombo": " 8 ",
-                "Description": "Makes you rush forward, doing 8 damage to enemies that you strike"
-            }
-        }
-    },
+    "proxySkillIDs": [],
+    "proxySkills": {},
     "iconURL": "textures/freetrial/ui/inventory/factionkits/shinobi3_sword.png",
     "buyAndDrop": {
         "LootTableIndexes": [

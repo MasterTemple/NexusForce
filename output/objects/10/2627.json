@@ -116,7 +116,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 3.0,
-                    "howManyToKill": 33
+                    "howManyToKill": 35
                 },
                 "LootTableIndexItems": 13,
                 "PackageComponent": {
@@ -125,7 +125,7 @@
                         "displayName": "Test Package"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Gives a speed boost for 60 seconds",
-                "name": "Eat Shock fruit"
+                "name": "Eat Shock fruit",
+                "rawDescription": "Gives a speed boost for 60 seconds"
             }
         }
     },

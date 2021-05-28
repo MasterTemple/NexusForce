@@ -86,7 +86,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "525": {
                 "LootMatrixIndex": 525,
@@ -126,7 +126,7 @@
                 },
                 "LootTableIndexItems": 1,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

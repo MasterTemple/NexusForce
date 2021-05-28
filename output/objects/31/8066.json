@@ -1,8 +1,8 @@
 {
     "objectID": 8066,
     "itemInfo": {
-        "name": "Model Reward CafÃ© Table",
-        "displayName": "CafÃ© Table Model",
+        "name": "Model Reward Café Table",
+        "displayName": "Café Table Model",
         "type": "Loot",
         "description": "A model for your Property!",
         "internalNotes": "Promo Item"
@@ -40,8 +40,7 @@
         "commendationCurrencyType": null,
         "commendationCurrencyCost": null,
         "equipLocationNames": [],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {},
     "proxySkillIDs": [],

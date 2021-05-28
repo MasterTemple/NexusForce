@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Read this book to learn the secrets of a Rank 1 Adventurer!",
-                "name": "Secrets of an Adventurer 1"
+                "name": "Secrets of an Adventurer 1",
+                "rawDescription": "Read this book to learn the secrets of a Rank 1 Adventurer!"
             }
         }
     },
@@ -116,7 +116,7 @@
                         "displayName": "Rank 1 Adventurer Kit Package"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

@@ -119,7 +119,7 @@
                         "displayName": "Rank 1 Sorcerer Kit Package"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

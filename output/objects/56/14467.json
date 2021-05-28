@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Boosts your Life by 1 for 60 seconds",
-                "name": "Eat Rock Fruit"
+                "name": "Eat Rock Fruit",
+                "rawDescription": "Boosts your Life by 1 for 60 seconds"
             }
         }
     },

@@ -58,8 +58,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 5 %(ChargeUp)Hold down to do up to 30 damage over time",
                 "name": "Valiant Attack",
+                "rawDescription": "%(DamageCombo) 5 %(ChargeUp)Hold down to do up to 30 damage over time",
                 "damageCombo": " 5 ",
                 "ChargeUp": "Hold down to do up to 30 damage over time"
             }
@@ -82,8 +82,7 @@
         4244,
         4254,
         22316,
-        11183,
-        22257
+        11183
     ],
     "stats": {
         "armorBonusUI": 3,
@@ -141,6 +140,7 @@
             "projectileAttack": false,
             "projectileAttackChargeUp": false,
             "damageComboArray": [
+                3,
                 5
             ],
             "chargeUpArmorRestore": [],
@@ -148,34 +148,30 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 3,
+            "chargeUpCombo": 0,
+            "allDamage": [
+                1,
+                3,
+                3,
+                5
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Interruption",
+                "Knockback"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 3,
             "chargeUpCost": -1
         }
     },
-    "proxySkillIDs": [
-        1028
-    ],
-    "proxySkills": {
-        "1028": {
-            "castOnType": 0,
-            "AICombatWeight": 0,
-            "behaviorID": 22257,
-            "imaginationcost": 8,
-            "cooldowngroup": 24,
-            "cooldown": 45.0,
-            "inNpcEditor": 0,
-            "skillIcon": 4224,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null,
-            "info": {
-                "rawDescription": "Creates a Mech that assists you in battle",
-                "name": "Create Mech"
-            }
-        }
-    },
+    "proxySkillIDs": [],
+    "proxySkills": {},
     "iconURL": "textures/auramar/ui/inventory/faction%20kits/fackit_spacemaraudevaliant_master.png",
     "buyAndDrop": {
         "LootTableIndexes": [

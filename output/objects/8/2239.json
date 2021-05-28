@@ -79,6 +79,17 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 3,
+            "allDamage": [
+                3
+            ],
+            "attackTypes": [
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Ranged",
+                "Knockback",
+                "Knockback"
+            ],
             "projectileChargeUpLOT": 4802,
             "chargeUpCost": -1,
             "projectileChargeUpDamage": 3
@@ -145,7 +156,7 @@
                         "displayName": "Test Package"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

@@ -2,7 +2,7 @@
     "objectID": 587,
     "itemInfo": {
         "name": "m30390",
-        "displayName": "Slope Brick 45Â° Inverted, Double with 2 Pins",
+        "displayName": "Slope Brick 45° Inverted, Double with 2 Pins",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -81,7 +81,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.7143,
-                    "howManyToKill": 140
+                    "howManyToKill": 98
                 },
                 "LootTableIndexItems": 98,
                 "PackageComponent": {
@@ -90,7 +90,7 @@
                         "displayName": "Mega Brick Booster Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "577": {
                 "LootMatrixIndex": 577,
@@ -124,7 +124,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.7143,
-                    "howManyToKill": 140
+                    "howManyToKill": 98
                 },
                 "LootTableIndexItems": 98,
                 "PackageComponent": {},
@@ -164,7 +164,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.7143,
-                    "howManyToKill": 140
+                    "howManyToKill": 98
                 },
                 "LootTableIndexItems": 98,
                 "PackageComponent": {},
@@ -204,7 +204,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.7143,
-                    "howManyToKill": 140
+                    "howManyToKill": 98
                 },
                 "LootTableIndexItems": 98,
                 "PackageComponent": {},
@@ -244,7 +244,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.7143,
-                    "howManyToKill": 140
+                    "howManyToKill": 98
                 },
                 "LootTableIndexItems": 98,
                 "PackageComponent": {},
@@ -284,7 +284,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.7143,
-                    "howManyToKill": 140
+                    "howManyToKill": 98
                 },
                 "LootTableIndexItems": 98,
                 "PackageComponent": {},
@@ -318,7 +318,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0714,
-                    "howManyToKill": 1401
+                    "howManyToKill": 1372
                 },
                 "LootTableIndexItems": 98,
                 "PackageComponent": {},
@@ -365,7 +365,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.7143,
-                    "howManyToKill": 140
+                    "howManyToKill": 98
                 },
                 "LootTableIndexItems": 98,
                 "PackageComponent": {},
@@ -405,7 +405,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.7143,
-                    "howManyToKill": 140
+                    "howManyToKill": 98
                 },
                 "LootTableIndexItems": 98,
                 "PackageComponent": {},
@@ -445,7 +445,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.7143,
-                    "howManyToKill": 140
+                    "howManyToKill": 98
                 },
                 "LootTableIndexItems": 98,
                 "PackageComponent": {},
@@ -485,7 +485,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.7143,
-                    "howManyToKill": 140
+                    "howManyToKill": 98
                 },
                 "LootTableIndexItems": 98,
                 "PackageComponent": {},
@@ -525,7 +525,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.7143,
-                    "howManyToKill": 140
+                    "howManyToKill": 98
                 },
                 "LootTableIndexItems": 98,
                 "PackageComponent": {},

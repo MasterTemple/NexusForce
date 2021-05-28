@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 8 %(Description)Stuns enemies",
                 "name": "Whip Snap 2",
+                "rawDescription": "%(DamageCombo) 8 %(Description)Stuns enemies",
                 "damageCombo": " 8 ",
                 "Description": "Stuns enemies"
             }
@@ -96,7 +96,13 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                8
+            ],
+            "attackTypes": [
+                "Interruption"
+            ]
         }
     },
     "proxySkillIDs": [],

@@ -91,7 +91,7 @@
                         "displayName": "Game Card Reward Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "733": {
                 "LootMatrixIndex": 733,
@@ -128,7 +128,7 @@
                         "displayName": "Game Card Reward Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "734": {
                 "LootMatrixIndex": 734,
@@ -165,7 +165,7 @@
                         "displayName": "Game Card Reward Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "735": {
                 "LootMatrixIndex": 735,
@@ -202,7 +202,7 @@
                         "displayName": "Game Card Reward Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "810": {
                 "LootMatrixIndex": 810,
@@ -239,7 +239,7 @@
                         "displayName": "Game Card Reward Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "811": {
                 "LootMatrixIndex": 811,
@@ -276,7 +276,7 @@
                         "displayName": "Game Card Reward Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "812": {
                 "LootMatrixIndex": 812,
@@ -313,7 +313,7 @@
                         "displayName": "Game Card Reward Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "813": {
                 "LootMatrixIndex": 813,
@@ -350,7 +350,7 @@
                         "displayName": "Game Card Reward Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "814": {
                 "LootMatrixIndex": 814,
@@ -387,7 +387,7 @@
                         "displayName": "Game Card Reward Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "815": {
                 "LootMatrixIndex": 815,
@@ -424,7 +424,7 @@
                         "displayName": "Game Card Reward Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "816": {
                 "LootMatrixIndex": 816,
@@ -461,7 +461,7 @@
                         "displayName": "Game Card Reward Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "817": {
                 "LootMatrixIndex": 817,
@@ -498,7 +498,7 @@
                         "displayName": "Game Card Reward Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "818": {
                 "LootMatrixIndex": 818,
@@ -535,7 +535,7 @@
                         "displayName": "Game Card Reward Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "819": {
                 "LootMatrixIndex": 819,
@@ -572,7 +572,7 @@
                         "displayName": "Game Card Reward Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "820": {
                 "LootMatrixIndex": 820,
@@ -609,7 +609,7 @@
                         "displayName": "Game Card Reward Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "821": {
                 "LootMatrixIndex": 821,
@@ -646,7 +646,7 @@
                         "displayName": "Game Card Reward Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

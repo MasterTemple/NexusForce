@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Gives a speed boost for 120 seconds",
-                "name": "Eat Electric Hoagie"
+                "name": "Eat Electric Hoagie",
+                "rawDescription": "Gives a speed boost for 120 seconds"
             }
         }
     },
@@ -63,10 +63,7 @@
         "commendationCurrencyCost": null,
         "equipLocationNames": [],
         "isWeapon": false,
-        "levelRequirement": "10",
-        "preconditionDescriptions": {
-            "248": "You must be Level 10 or greater to use this item."
-        }
+        "levelRequirement": "10"
     },
     "overview": {},
     "proxySkillIDs": [],

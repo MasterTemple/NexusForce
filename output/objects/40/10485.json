@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 3 %(Description)Throws shuriken that do 3 damage to enemies",
                 "name": "Shuriken Throw",
+                "rawDescription": "%(DamageCombo) 3 %(Description)Throws shuriken that do 3 damage to enemies",
                 "damageCombo": " 3 ",
                 "Description": "Throws shuriken that do 3 damage to enemies"
             }
@@ -68,8 +68,7 @@
         "equipLocationNames": [
             "Left Hand"
         ],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {
         "5896": {
@@ -93,7 +92,14 @@
             "projectileDamageComboArray": [
                 3
             ],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                3
+            ],
+            "attackTypes": [
+                "Ranged",
+                "Interruption"
+            ]
         }
     },
     "proxySkillIDs": [],

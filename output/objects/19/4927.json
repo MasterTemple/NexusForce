@@ -87,6 +87,15 @@
                 1
             ],
             "chargeUpCombo": 3,
+            "allDamage": [
+                1,
+                3
+            ],
+            "attackTypes": [
+                "Ranged",
+                "Ranged",
+                "Interruption"
+            ],
             "projectileChargeUpLOT": 4794,
             "chargeUpCost": -1,
             "projectileChargeUpDamage": 3

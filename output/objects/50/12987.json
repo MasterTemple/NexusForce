@@ -43,8 +43,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 2+3+3 %(ChargeUp)Restores up to 5 Imagination for nearby characters - charge longer for more Imagination",
                 "name": "Blaster Master 3",
+                "rawDescription": "%(DamageCombo) 2+3+3 %(ChargeUp)Restores up to 5 Imagination for nearby characters - charge longer for more Imagination",
                 "damageCombo": " 2+3+3 ",
                 "ChargeUp": "Restores up to 5 Imagination for nearby characters - charge longer for more Imagination"
             }
@@ -118,6 +118,28 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
+            "allDamage": [
+                1,
+                2,
+                2,
+                3,
+                3
+            ],
+            "attackTypes": [
+                "Knockback",
+                "Interruption",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Area of Effect",
+                "Area of Effect",
+                "Area of Effect",
+                "Interruption",
+                "Knockback"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 2
         }

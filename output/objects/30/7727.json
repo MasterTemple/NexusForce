@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 2 %(ChargeUp)Does 4 damage and freezes enemies",
                 "name": "Freeze Wand 2",
+                "rawDescription": "%(DamageCombo) 2 %(ChargeUp)Does 4 damage and freezes enemies",
                 "damageCombo": " 2 ",
                 "ChargeUp": "Does 4 damage and freezes enemies"
             }
@@ -93,6 +93,21 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 4,
+            "allDamage": [
+                1,
+                2,
+                2,
+                4
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Interruption"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 2,
             "chargeUpCost": -3

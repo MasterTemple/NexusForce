@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 6 %(Description)Makes you leap on enemies, doing 6 damage",
                 "name": "Super Jump 2",
+                "rawDescription": "%(DamageCombo) 6 %(Description)Makes you leap on enemies, doing 6 damage",
                 "damageCombo": " 6 ",
                 "Description": "Makes you leap on enemies, doing 6 damage"
             }
@@ -96,7 +96,15 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                6
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Knockback",
+                "Interruption"
+            ]
         }
     },
     "proxySkillIDs": [],

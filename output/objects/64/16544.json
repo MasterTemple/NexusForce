@@ -42,8 +42,7 @@
         "equipLocationNames": [],
         "isWeapon": false,
         "commendationCurrencyName": "Faction Token Proxy",
-        "commendationCurrencyDisplayName": "Faction Token",
-        "preconditionDescriptions": {}
+        "commendationCurrencyDisplayName": "Faction Token"
     },
     "overview": {},
     "proxySkillIDs": [],
@@ -160,11 +159,11 @@
                 "inNpcEditor": 1,
                 "overallChance": {
                     "percent": 0.0005,
-                    "howManyToKill": 200000
+                    "howManyToKill": 208250
                 },
                 "LootTableIndexItems": 49,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "761": {
                 "LootMatrixIndex": 761,
@@ -229,7 +228,7 @@
                 },
                 "LootTableIndexItems": 49,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "763": {
                 "LootMatrixIndex": 763,
@@ -287,7 +286,7 @@
                 },
                 "LootTableIndexItems": 49,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "765": {
                 "LootMatrixIndex": 765,
@@ -333,7 +332,7 @@
                 "inNpcEditor": 1,
                 "overallChance": {
                     "percent": 0.24,
-                    "howManyToKill": 417
+                    "howManyToKill": 500
                 },
                 "LootTableIndexItems": 49,
                 "PackageComponent": {},
@@ -397,7 +396,7 @@
                 },
                 "LootTableIndexItems": 49,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "875": {
                 "LootMatrixIndex": 875,
@@ -611,7 +610,7 @@
                 },
                 "LootTableIndexItems": 49,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "880": {
                 "LootMatrixIndex": 880,
@@ -669,7 +668,7 @@
                 },
                 "LootTableIndexItems": 49,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "881": {
                 "LootMatrixIndex": 881,
@@ -751,11 +750,11 @@
                 "inNpcEditor": 1,
                 "overallChance": {
                     "percent": 0.0005,
-                    "howManyToKill": 200000
+                    "howManyToKill": 208250
                 },
                 "LootTableIndexItems": 49,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "882": {
                 "LootMatrixIndex": 882,
@@ -809,11 +808,11 @@
                 "inNpcEditor": 1,
                 "overallChance": {
                     "percent": 0.0005,
-                    "howManyToKill": 200000
+                    "howManyToKill": 208250
                 },
                 "LootTableIndexItems": 49,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "883": {
                 "LootMatrixIndex": 883,
@@ -871,7 +870,7 @@
                 },
                 "LootTableIndexItems": 49,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "884": {
                 "LootMatrixIndex": 884,
@@ -925,11 +924,11 @@
                 "inNpcEditor": 1,
                 "overallChance": {
                     "percent": 0.0005,
-                    "howManyToKill": 200000
+                    "howManyToKill": 208250
                 },
                 "LootTableIndexItems": 49,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "893": {
                 "LootMatrixIndex": 893,
@@ -987,7 +986,7 @@
                 },
                 "LootTableIndexItems": 49,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

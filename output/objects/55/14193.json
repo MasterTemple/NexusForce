@@ -57,8 +57,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Creates a mouse that will follow you",
-                "name": "Summon Light Gray Mouse"
+                "name": "Summon Light Gray Mouse",
+                "rawDescription": "Creates a mouse that will follow you"
             }
         }
     },
@@ -113,7 +113,9 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": []
         }
     },
     "proxySkillIDs": [],
@@ -159,7 +161,7 @@
                         "displayName": "Game Card Reward Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

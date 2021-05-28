@@ -76,9 +76,7 @@
         4247,
         4258,
         11860,
-        11860,
-        5896,
-        12022
+        11860
     ],
     "stats": {
         "armorBonusUI": 6,
@@ -125,50 +123,8 @@
         }
     },
     "overview": {},
-    "proxySkillIDs": [
-        481,
-        750
-    ],
-    "proxySkills": {
-        "481": {
-            "castOnType": 0,
-            "AICombatWeight": 0,
-            "behaviorID": 5896,
-            "imaginationcost": 4,
-            "cooldowngroup": 2,
-            "cooldown": 2.0,
-            "inNpcEditor": 0,
-            "skillIcon": 3680,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null,
-            "info": {
-                "rawDescription": "%(DamageCombo) 3 %(Description)Throws shuriken that do 3 damage to enemies",
-                "name": "Shuriken Throw",
-                "damageCombo": " 3 ",
-                "Description": "Throws shuriken that do 3 damage to enemies"
-            }
-        },
-        "750": {
-            "castOnType": 0,
-            "AICombatWeight": 0,
-            "behaviorID": 12022,
-            "imaginationcost": 0,
-            "cooldowngroup": 1,
-            "cooldown": 0.0,
-            "inNpcEditor": 0,
-            "skillIcon": 2825,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null,
-            "info": {
-                "rawDescription": "%(DamageCombo) 2+2+3 %(ChargeUp)Launches you into the air, doing 1 damage to enemies you strike",
-                "name": "Dragon Style Attack",
-                "damageCombo": " 2+2+3 ",
-                "ChargeUp": "Launches you into the air, doing 1 damage to enemies you strike"
-            }
-        }
-    },
+    "proxySkillIDs": [],
+    "proxySkills": {},
     "iconURL": "textures/ui/inventory/torsos/reward/m73200_dragon_gi.png",
     "buyAndDrop": {
         "LootTableIndexes": [],

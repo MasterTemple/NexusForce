@@ -31,8 +31,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 1+1+2 %(ChargeUp)Restores up to 2 Armor to nearby characters",
                 "name": "Improvised Launcher 1",
+                "rawDescription": "%(DamageCombo) 1+1+2 %(ChargeUp)Restores up to 2 Armor to nearby characters",
                 "damageCombo": " 1+1+2 ",
                 "ChargeUp": "Restores up to 2 Armor to nearby characters"
             }
@@ -108,6 +108,26 @@
                 1,
                 2
             ],
+            "allDamage": [
+                1,
+                1,
+                1,
+                2
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Ranged",
+                "Area of Effect",
+                "Ranged",
+                "Ranged",
+                "Interruption",
+                "Interruption"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 1,
             "projectileChargeUpLOT": 12822
@@ -157,7 +177,7 @@
                         "displayName": "Rank 1 Inventor Kit Package"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

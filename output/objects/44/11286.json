@@ -111,7 +111,7 @@
                         "displayName": "6 Month Membership Reward"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

@@ -71,8 +71,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Restores 3 Life",
-                "name": "Ninja Healing"
+                "name": "Ninja Healing",
+                "rawDescription": "Restores 3 Life"
             }
         }
     },
@@ -133,7 +133,9 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": []
         }
     },
     "proxySkillIDs": [],

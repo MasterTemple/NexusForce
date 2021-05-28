@@ -31,8 +31,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Creates a Quick Build turret that attacks enemies",
-                "name": "Deploy Turret 1"
+                "name": "Deploy Turret 1",
+                "rawDescription": "Creates a Quick Build turret that attacks enemies"
             }
         }
     },
@@ -94,7 +94,9 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": []
         }
     },
     "proxySkillIDs": [],
@@ -142,7 +144,7 @@
                         "displayName": "Rank 1 Engineer Kit Package"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

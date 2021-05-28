@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 3+3+4 %(ChargeUp)Calls down lightning that does 7 damage to enemies",
                 "name": "Heroic Attack with Lightning",
+                "rawDescription": "%(DamageCombo) 3+3+4 %(ChargeUp)Calls down lightning that does 7 damage to enemies",
                 "damageCombo": " 3+3+4 ",
                 "ChargeUp": "Calls down lightning that does 7 damage to enemies"
             }
@@ -93,6 +93,29 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 7,
+            "allDamage": [
+                2,
+                3,
+                3,
+                7,
+                3,
+                4
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Knockback"
+            ],
             "doubleJumpSmash": 2,
             "singleJumpSmash": 3,
             "chargeUpCost": -6
@@ -158,11 +181,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0024000000000000002,
-                    "howManyToKill": 41667
+                    "howManyToKill": 41750
                 },
                 "LootTableIndexItems": 12,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "496": {
                 "LootMatrixIndex": 496,
@@ -216,11 +239,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0028,
-                    "howManyToKill": 35714
+                    "howManyToKill": 35750
                 },
                 "LootTableIndexItems": 12,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "497": {
                 "LootMatrixIndex": 497,
@@ -278,7 +301,7 @@
                 },
                 "LootTableIndexItems": 12,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "507": {
                 "LootMatrixIndex": 507,
@@ -332,11 +355,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0024000000000000002,
-                    "howManyToKill": 41667
+                    "howManyToKill": 41750
                 },
                 "LootTableIndexItems": 12,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "508": {
                 "LootMatrixIndex": 508,
@@ -394,7 +417,7 @@
                 },
                 "LootTableIndexItems": 12,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "509": {
                 "LootMatrixIndex": 509,
@@ -452,7 +475,7 @@
                 },
                 "LootTableIndexItems": 12,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "510": {
                 "LootMatrixIndex": 510,
@@ -506,11 +529,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0024000000000000002,
-                    "howManyToKill": 41667
+                    "howManyToKill": 41750
                 },
                 "LootTableIndexItems": 12,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "511": {
                 "LootMatrixIndex": 511,
@@ -568,7 +591,7 @@
                 },
                 "LootTableIndexItems": 12,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "512": {
                 "LootMatrixIndex": 512,
@@ -686,7 +709,7 @@
                 },
                 "LootTableIndexItems": 12,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "514": {
                 "LootMatrixIndex": 514,
@@ -744,7 +767,7 @@
                 },
                 "LootTableIndexItems": 12,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "515": {
                 "LootMatrixIndex": 515,
@@ -802,7 +825,7 @@
                 },
                 "LootTableIndexItems": 12,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "516": {
                 "LootMatrixIndex": 516,
@@ -860,7 +883,7 @@
                 },
                 "LootTableIndexItems": 12,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "517": {
                 "LootMatrixIndex": 517,
@@ -918,7 +941,7 @@
                 },
                 "LootTableIndexItems": 12,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "518": {
                 "LootMatrixIndex": 518,
@@ -976,7 +999,7 @@
                 },
                 "LootTableIndexItems": 12,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "519": {
                 "LootMatrixIndex": 519,
@@ -1034,7 +1057,7 @@
                 },
                 "LootTableIndexItems": 12,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "520": {
                 "LootMatrixIndex": 520,
@@ -1092,7 +1115,7 @@
                 },
                 "LootTableIndexItems": 12,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "521": {
                 "LootMatrixIndex": 521,
@@ -1210,7 +1233,7 @@
                 },
                 "LootTableIndexItems": 12,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "523": {
                 "LootMatrixIndex": 523,
@@ -1268,7 +1291,7 @@
                 },
                 "LootTableIndexItems": 12,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "524": {
                 "LootMatrixIndex": 524,
@@ -1326,7 +1349,7 @@
                 },
                 "LootTableIndexItems": 12,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "525": {
                 "LootMatrixIndex": 525,
@@ -1384,7 +1407,7 @@
                 },
                 "LootTableIndexItems": 12,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "526": {
                 "LootMatrixIndex": 526,
@@ -1442,7 +1465,7 @@
                 },
                 "LootTableIndexItems": 12,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "527": {
                 "LootMatrixIndex": 527,
@@ -1500,7 +1523,7 @@
                 },
                 "LootTableIndexItems": 12,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "655": {
                 "LootMatrixIndex": 655,
@@ -1558,7 +1581,7 @@
                 },
                 "LootTableIndexItems": 12,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "656": {
                 "LootMatrixIndex": 656,
@@ -1613,7 +1636,7 @@
                         "displayName": "Nexus Force Supply Crate"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "662": {
                 "LootMatrixIndex": 662,
@@ -1668,7 +1691,7 @@
                         "displayName": "Premium Surprise Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "677": {
                 "LootMatrixIndex": 677,

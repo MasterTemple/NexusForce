@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 8 %(Description)Tosses an energy sphere that does 8 damage to enemies",
                 "name": "Plasma Ball 2",
+                "rawDescription": "%(DamageCombo) 8 %(Description)Tosses an energy sphere that does 8 damage to enemies",
                 "damageCombo": " 8 ",
                 "Description": "Tosses an energy sphere that does 8 damage to enemies"
             }
@@ -102,7 +102,14 @@
             "projectileDamageComboArray": [
                 8
             ],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                8
+            ],
+            "attackTypes": [
+                "Ranged",
+                "Area of Effect"
+            ]
         }
     },
     "proxySkillIDs": [],

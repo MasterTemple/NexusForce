@@ -57,7 +57,7 @@
             "defined_type": "Location",
             "defined_subtype": "Nimbus Station",
             "missionName": "A Thunderous Collection",
-            "missionDescription": "<font color='#FF7F00'>Find 3 floating treasure chests</font> hidden around Nimbus Station.",
+            "missionDescription": "Find 3 floating treasure chests hidden around Nimbus Station.",
             "isMission": 1,
             "rewardCount": 1
         }

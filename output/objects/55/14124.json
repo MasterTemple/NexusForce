@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 2+3+3 %(ChargeUp)Fire a 5 damage projectile",
                 "name": "Super Ranged Attack",
+                "rawDescription": "%(DamageCombo) 2+3+3 %(ChargeUp)Fire a 5 damage projectile",
                 "damageCombo": " 2+3+3 ",
                 "ChargeUp": "Fire a 5 damage projectile"
             }
@@ -101,6 +101,35 @@
                 3
             ],
             "chargeUpCombo": 5,
+            "allDamage": [
+                1,
+                2,
+                1,
+                1,
+                1,
+                2,
+                3,
+                5
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Knockback",
+                "Knockback",
+                "Ranged",
+                "Ranged",
+                "Ranged",
+                "Ranged",
+                "Interruption",
+                "Interruption"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 2,
             "chargeUpCost": -3,

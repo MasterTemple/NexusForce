@@ -86,7 +86,7 @@
             "defined_type": "Location",
             "defined_subtype": "Avant Gardens",
             "missionName": "Sentinel Shine",
-            "missionDescription": "<font color='#FF7F00'>Buy 3 cans of Armor Polish</font> from Klaus Zett, the Gear Vendor, and return to Beck Strongheart.",
+            "missionDescription": "Buy 3 cans of Armor Polish from Klaus Zett, the Gear Vendor, and return to Beck Strongheart.",
             "isMission": 1,
             "rewardCount": 0
         }

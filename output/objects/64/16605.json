@@ -58,8 +58,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Restores 1 Imgagination per 3 seconds for 60 seconds",
-                "name": "Earth Endurance"
+                "name": "Earth Endurance",
+                "rawDescription": "Restores 1 Imgagination per 3 seconds for 60 seconds"
             }
         },
         "1537": {
@@ -117,8 +117,7 @@
             "Headgear",
             "Neck/Back"
         ],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {
         "32053": {
@@ -134,7 +133,9 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": []
         }
     },
     "proxySkillIDs": [],

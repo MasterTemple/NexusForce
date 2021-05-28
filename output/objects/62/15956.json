@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 10 %(AltCombo) 25 %(Description)Throws your spear through enemies",
                 "name": "Ninjago Spear Throw",
+                "rawDescription": "%(DamageCombo) 10 %(AltCombo) 25 %(Description)Throws your spear through enemies",
                 "damageCombo": " 10 %(AltCombo) 25 ",
                 "Description": "Throws your spear through enemies"
             }
@@ -68,8 +68,7 @@
         "equipLocationNames": [
             "Neck/Back"
         ],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {
         "36236": {
@@ -88,7 +87,12 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                10,
+                25
+            ],
+            "attackTypes": []
         }
     },
     "proxySkillIDs": [],

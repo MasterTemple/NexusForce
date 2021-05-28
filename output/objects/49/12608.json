@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 2+2+3 %(ChargeUp)Blocks 3 attacks while charged",
                 "name": "Great Attack with Block",
+                "rawDescription": "%(DamageCombo) 2+2+3 %(ChargeUp)Blocks 3 attacks while charged",
                 "damageCombo": " 2+2+3 ",
                 "ChargeUp": "Blocks 3 attacks while charged"
             }
@@ -68,8 +68,7 @@
         "equipLocationNames": [
             "Right Hand"
         ],
-        "isWeapon": true,
-        "preconditionDescriptions": {}
+        "isWeapon": true
     },
     "overview": {
         "20237": {
@@ -89,6 +88,28 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 2,
+            "allDamage": [
+                1,
+                2,
+                2,
+                2,
+                3
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Knockback"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 2
         }

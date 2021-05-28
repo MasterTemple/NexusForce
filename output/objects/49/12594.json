@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Restores up to 20 Imagination to nearby characters over time",
-                "name": "Microphone Riff"
+                "name": "Microphone Riff",
+                "rawDescription": "Restores up to 20 Imagination to nearby characters over time"
             }
         }
     },

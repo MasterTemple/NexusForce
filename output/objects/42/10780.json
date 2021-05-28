@@ -42,8 +42,7 @@
         "equipLocationNames": [],
         "isWeapon": false,
         "commendationCurrencyName": "Faction Token Proxy",
-        "commendationCurrencyDisplayName": "Faction Token",
-        "preconditionDescriptions": {}
+        "commendationCurrencyDisplayName": "Faction Token"
     },
     "overview": {},
     "proxySkillIDs": [],
@@ -99,7 +98,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.1786,
-                    "howManyToKill": 560
+                    "howManyToKill": 420
                 },
                 "LootTableIndexItems": 54,
                 "PackageComponent": {},
@@ -151,7 +150,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.8571,
-                    "howManyToKill": 35
+                    "howManyToKill": 21
                 },
                 "LootTableIndexItems": 54,
                 "PackageComponent": {},
@@ -212,11 +211,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0089,
-                    "howManyToKill": 11236
+                    "howManyToKill": 8400
                 },
                 "LootTableIndexItems": 54,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "348": {
                 "LootMatrixIndex": 348,
@@ -270,11 +269,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0043,
-                    "howManyToKill": 23256
+                    "howManyToKill": 17493
                 },
                 "LootTableIndexItems": 54,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "393": {
                 "LootMatrixIndex": 393,
@@ -320,7 +319,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.3571,
-                    "howManyToKill": 280
+                    "howManyToKill": 210
                 },
                 "LootTableIndexItems": 54,
                 "PackageComponent": {},
@@ -372,7 +371,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.5357,
-                    "howManyToKill": 187
+                    "howManyToKill": 147
                 },
                 "LootTableIndexItems": 54,
                 "PackageComponent": {},
@@ -424,7 +423,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.8928999999999999,
-                    "howManyToKill": 112
+                    "howManyToKill": 84
                 },
                 "LootTableIndexItems": 54,
                 "PackageComponent": {},
@@ -476,7 +475,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.7857,
-                    "howManyToKill": 56
+                    "howManyToKill": 42
                 },
                 "LootTableIndexItems": 54,
                 "PackageComponent": {},
@@ -528,7 +527,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.8571,
-                    "howManyToKill": 35
+                    "howManyToKill": 21
                 },
                 "LootTableIndexItems": 54,
                 "PackageComponent": {},
@@ -580,7 +579,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 3.5714,
-                    "howManyToKill": 28
+                    "howManyToKill": 21
                 },
                 "LootTableIndexItems": 54,
                 "PackageComponent": {},
@@ -632,7 +631,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 3.5714,
-                    "howManyToKill": 28
+                    "howManyToKill": 21
                 },
                 "LootTableIndexItems": 54,
                 "PackageComponent": {},
@@ -684,7 +683,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.1429,
-                    "howManyToKill": 47
+                    "howManyToKill": 42
                 },
                 "LootTableIndexItems": 54,
                 "PackageComponent": {},
@@ -736,7 +735,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.1429,
-                    "howManyToKill": 47
+                    "howManyToKill": 42
                 },
                 "LootTableIndexItems": 54,
                 "PackageComponent": {},
@@ -788,7 +787,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.1429,
-                    "howManyToKill": 47
+                    "howManyToKill": 42
                 },
                 "LootTableIndexItems": 54,
                 "PackageComponent": {},
@@ -848,11 +847,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 3.5714,
-                    "howManyToKill": 28
+                    "howManyToKill": 21
                 },
                 "LootTableIndexItems": 54,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "666": {
                 "LootMatrixIndex": 666,
@@ -898,7 +897,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.5,
-                    "howManyToKill": 40
+                    "howManyToKill": 21
                 },
                 "LootTableIndexItems": 54,
                 "PackageComponent": {
@@ -907,7 +906,7 @@
                         "displayName": "Superior Surprise Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

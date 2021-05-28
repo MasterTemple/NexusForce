@@ -45,8 +45,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Tosses a gadget that pulls enemies to it and stuns them",
-                "name": "Gravity Well 2"
+                "name": "Gravity Well 2",
+                "rawDescription": "Tosses a gadget that pulls enemies to it and stuns them"
             }
         }
     },
@@ -116,7 +116,13 @@
             ],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": [
+                "Ranged",
+                "Area of Effect",
+                "Interruption"
+            ]
         }
     },
     "proxySkillIDs": [],

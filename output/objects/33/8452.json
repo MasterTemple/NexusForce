@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 2+3+3 %(Description)Slashes enemies",
                 "name": "Super Attack",
+                "rawDescription": "%(DamageCombo) 2+3+3 %(Description)Slashes enemies",
                 "damageCombo": " 2+3+3 ",
                 "Description": "Slashes enemies"
             }
@@ -93,6 +93,25 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 0,
+            "allDamage": [
+                1,
+                2,
+                2,
+                3,
+                3
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Knockback"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 2
         }
@@ -149,7 +168,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.41669999999999996,
-                    "howManyToKill": 240
+                    "howManyToKill": 252
                 },
                 "LootTableIndexItems": 27,
                 "PackageComponent": {},
@@ -210,11 +229,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0117,
-                    "howManyToKill": 8547
+                    "howManyToKill": 9009
                 },
                 "LootTableIndexItems": 27,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "348": {
                 "LootMatrixIndex": 348,
@@ -268,11 +287,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0058,
-                    "howManyToKill": 17241
+                    "howManyToKill": 18018
                 },
                 "LootTableIndexItems": 27,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "393": {
                 "LootMatrixIndex": 393,
@@ -306,7 +325,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0278,
-                    "howManyToKill": 3597
+                    "howManyToKill": 3600
                 },
                 "LootTableIndexItems": 27,
                 "PackageComponent": {},
@@ -466,7 +485,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.1111,
-                    "howManyToKill": 90
+                    "howManyToKill": 72
                 },
                 "LootTableIndexItems": 27,
                 "PackageComponent": {},
@@ -506,7 +525,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.1389,
-                    "howManyToKill": 47
+                    "howManyToKill": 36
                 },
                 "LootTableIndexItems": 27,
                 "PackageComponent": {},
@@ -598,7 +617,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.8333,
-                    "howManyToKill": 120
+                    "howManyToKill": 126
                 },
                 "LootTableIndexItems": 27,
                 "PackageComponent": {},
@@ -650,7 +669,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.6667,
-                    "howManyToKill": 60
+                    "howManyToKill": 63
                 },
                 "LootTableIndexItems": 27,
                 "PackageComponent": {},
@@ -702,7 +721,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.6667,
-                    "howManyToKill": 60
+                    "howManyToKill": 63
                 },
                 "LootTableIndexItems": 27,
                 "PackageComponent": {},
@@ -762,11 +781,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.6667,
-                    "howManyToKill": 60
+                    "howManyToKill": 63
                 },
                 "LootTableIndexItems": 27,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "666": {
                 "LootMatrixIndex": 666,
@@ -812,7 +831,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.3333,
-                    "howManyToKill": 75
+                    "howManyToKill": 63
                 },
                 "LootTableIndexItems": 27,
                 "PackageComponent": {
@@ -821,7 +840,7 @@
                         "displayName": "Superior Surprise Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

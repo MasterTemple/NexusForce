@@ -137,7 +137,7 @@
                         "displayName": "Rank 1 Engineer Kit Package"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

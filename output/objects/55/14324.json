@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 4+4+4 %(ChargeUp)Restores up to 5 Imagination for nearby characters - charge longer for more Imagination",
                 "name": "Rental Blaster Master",
+                "rawDescription": "%(DamageCombo) 4+4+4 %(ChargeUp)Restores up to 5 Imagination for nearby characters - charge longer for more Imagination",
                 "damageCombo": " 4+4+4 ",
                 "ChargeUp": "Restores up to 5 Imagination for nearby characters - charge longer for more Imagination"
             }
@@ -68,8 +68,7 @@
         "equipLocationNames": [
             "Right Hand"
         ],
-        "isWeapon": true,
-        "preconditionDescriptions": {}
+        "isWeapon": true
     },
     "overview": {
         "38731": {
@@ -92,6 +91,27 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
+            "allDamage": [
+                2,
+                4,
+                4,
+                4,
+                4
+            ],
+            "attackTypes": [
+                "Knockback",
+                "Interruption",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Area of Effect",
+                "Area of Effect",
+                "Interruption",
+                "Knockback"
+            ],
             "doubleJumpSmash": 2,
             "singleJumpSmash": 4
         }

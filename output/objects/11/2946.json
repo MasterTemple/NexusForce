@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Creates a boom box that restores 10 Imagination to nearby characters",
-                "name": "Boom Box"
+                "name": "Boom Box",
+                "rawDescription": "Creates a boom box that restores 10 Imagination to nearby characters"
             }
         }
     },

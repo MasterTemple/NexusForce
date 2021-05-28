@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Creates a mini-blizzard",
-                "name": "Snow Storm"
+                "name": "Snow Storm",
+                "rawDescription": "Creates a mini-blizzard"
             }
         }
     },
@@ -122,7 +122,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.75,
-                    "howManyToKill": 133
+                    "howManyToKill": 140
                 },
                 "LootTableIndexItems": 5,
                 "PackageComponent": {},

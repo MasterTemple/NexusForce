@@ -57,8 +57,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 1+1+1 %(Description)Attack enemies with your crate",
                 "name": "[DNL] UI Crate Fighting Attack",
+                "rawDescription": "%(DamageCombo) 1+1+1 %(Description)Attack enemies with your crate",
                 "damageCombo": " 1+1+1 ",
                 "Description": "Attack enemies with your crate"
             }
@@ -67,8 +67,7 @@
     "behaviorIDs": [
         4253,
         29328,
-        11860,
-        29329
+        11860
     ],
     "stats": {
         "imBonusUI": 3
@@ -119,30 +118,8 @@
         }
     },
     "overview": {},
-    "proxySkillIDs": [
-        1263
-    ],
-    "proxySkills": {
-        "1263": {
-            "castOnType": 0,
-            "AICombatWeight": null,
-            "behaviorID": 29329,
-            "imaginationcost": 0,
-            "cooldowngroup": 1,
-            "cooldown": 0.4,
-            "inNpcEditor": 0,
-            "skillIcon": 2825,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null,
-            "info": {
-                "rawDescription": "%(DamageCombo) 1+1+1 [DNL]%(Description)Attack enemies with your box disguise",
-                "name": "Boxing Box",
-                "damageCombo": " 1+1+1 [DNL]",
-                "Description": "Attack enemies with your box disguise"
-            }
-        }
-    },
+    "proxySkillIDs": [],
+    "proxySkills": {},
     "iconURL": "textures/nexustower/ui/inventory/misc/assemblycratedisguise.png",
     "buyAndDrop": {
         "LootTableIndexes": [

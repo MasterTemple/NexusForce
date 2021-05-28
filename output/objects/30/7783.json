@@ -43,8 +43,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Restores 4 Imagination to nearby characters",
-                "name": "Video Camera Emote"
+                "name": "Video Camera Emote",
+                "rawDescription": "Restores 4 Imagination to nearby characters"
             }
         }
     },
@@ -104,7 +104,9 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": []
         }
     },
     "proxySkillIDs": [],

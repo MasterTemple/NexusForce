@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 1+2+3 %(Description)Smashes enemies",
                 "name": "Superior Attack",
+                "rawDescription": "%(DamageCombo) 1+2+3 %(Description)Smashes enemies",
                 "damageCombo": " 1+2+3 ",
                 "Description": "Smashes enemies"
             }
@@ -92,6 +92,23 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 0,
+            "allDamage": [
+                1,
+                1,
+                2,
+                3
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Knockback"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 1
         }
@@ -149,7 +166,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.3125,
-                    "howManyToKill": 320
+                    "howManyToKill": 336
                 },
                 "LootTableIndexItems": 85,
                 "PackageComponent": {
@@ -158,7 +175,7 @@
                         "displayName": "Nexus Tower Gift Bag"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

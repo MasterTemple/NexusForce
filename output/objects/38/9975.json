@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Read this book to learn the secrets of a Rank 3 Samurai and unlock an Imagination Point!",
-                "name": "Secrets of a Samurai 3"
+                "name": "Secrets of a Samurai 3",
+                "rawDescription": "Read this book to learn the secrets of a Rank 3 Samurai and unlock an Imagination Point!"
             }
         }
     },

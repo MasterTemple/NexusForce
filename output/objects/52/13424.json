@@ -63,8 +63,7 @@
         "equipLocationNames": [
             "Right Hand"
         ],
-        "isWeapon": true,
-        "preconditionDescriptions": {}
+        "isWeapon": true
     },
     "overview": {
         "27503": {
@@ -84,6 +83,29 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 100,
+            "allDamage": [
+                10,
+                10,
+                10,
+                100,
+                10,
+                10
+            ],
+            "attackTypes": [
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Knockback"
+            ],
             "doubleJumpSmash": 10,
             "singleJumpSmash": 10
         }

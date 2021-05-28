@@ -43,8 +43,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 1+1+2 %(Description)Smashes enemies",
                 "name": "Improved Attack",
+                "rawDescription": "%(DamageCombo) 1+1+2 %(Description)Smashes enemies",
                 "damageCombo": " 1+1+2 ",
                 "Description": "Smashes enemies"
             }
@@ -104,6 +104,22 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 0,
+            "allDamage": [
+                1,
+                1,
+                2
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Knockback"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 1
         }

@@ -57,8 +57,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Creates a scorpion that will follow you",
-                "name": "Summon Scorpion Hatchling"
+                "name": "Summon Scorpion Hatchling",
+                "rawDescription": "Creates a scorpion that will follow you"
             }
         }
     },
@@ -118,7 +118,9 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": []
         }
     },
     "proxySkillIDs": [],
@@ -164,7 +166,7 @@
                         "displayName": "Subscription Reward Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

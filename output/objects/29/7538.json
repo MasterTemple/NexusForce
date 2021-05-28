@@ -59,8 +59,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 14 %(Description)Releases stored energy that does 14 damage to enemies",
                 "name": "Sentinel Blast",
+                "rawDescription": "%(DamageCombo) 14 %(Description)Releases stored energy that does 14 damage to enemies",
                 "damageCombo": " 14 ",
                 "Description": "Releases stored energy that does 14 damage to enemies"
             }
@@ -130,7 +130,15 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                14
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback"
+            ]
         }
     },
     "proxySkillIDs": [],

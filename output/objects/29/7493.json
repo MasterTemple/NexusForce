@@ -121,7 +121,7 @@
                         "displayName": "Rank 1 Samurai Kit Package"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

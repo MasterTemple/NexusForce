@@ -86,7 +86,7 @@
                         "displayName": "Pre-Order Astronaut Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

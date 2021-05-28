@@ -107,8 +107,7 @@
         "equipLocationNames": [
             "Headgear"
         ],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {},
     "proxySkillIDs": [],

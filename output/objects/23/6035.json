@@ -40,8 +40,7 @@
         "commendationCurrencyType": null,
         "commendationCurrencyCost": null,
         "equipLocationNames": [],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {},
     "proxySkillIDs": [],
@@ -108,11 +107,11 @@
                 "inNpcEditor": 1,
                 "overallChance": {
                     "percent": 0.046900000000000004,
-                    "howManyToKill": 2132
+                    "howManyToKill": 1600
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "196": {
                 "LootMatrixIndex": 196,
@@ -158,7 +157,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0234,
-                    "howManyToKill": 4274
+                    "howManyToKill": 3200
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
@@ -256,11 +255,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0023,
-                    "howManyToKill": 43478
+                    "howManyToKill": 32487
                 },
-                "LootTableIndexItems": 95,
+                "LootTableIndexItems": 93,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "217": {
                 "LootMatrixIndex": 217,
@@ -314,11 +313,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0048000000000000004,
-                    "howManyToKill": 20833
+                    "howManyToKill": 15600
                 },
-                "LootTableIndexItems": 95,
+                "LootTableIndexItems": 93,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "218": {
                 "LootMatrixIndex": 218,
@@ -372,11 +371,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0962,
-                    "howManyToKill": 1040
+                    "howManyToKill": 780
                 },
-                "LootTableIndexItems": 95,
+                "LootTableIndexItems": 93,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "230": {
                 "LootMatrixIndex": 230,
@@ -430,11 +429,11 @@
                 "inNpcEditor": 1,
                 "overallChance": {
                     "percent": 0.11720000000000001,
-                    "howManyToKill": 853
+                    "howManyToKill": 640
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "231": {
                 "LootMatrixIndex": 231,
@@ -502,11 +501,11 @@
                 "inNpcEditor": 1,
                 "overallChance": {
                     "percent": 0.11720000000000001,
-                    "howManyToKill": 853
+                    "howManyToKill": 640
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "314": {
                 "LootMatrixIndex": 314,
@@ -552,7 +551,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.46880000000000005,
-                    "howManyToKill": 213
+                    "howManyToKill": 160
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
@@ -605,7 +604,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.9375,
-                    "howManyToKill": 107
+                    "howManyToKill": 64
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
@@ -657,7 +656,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.875,
-                    "howManyToKill": 53
+                    "howManyToKill": 32
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
@@ -709,7 +708,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.3438,
-                    "howManyToKill": 43
+                    "howManyToKill": 32
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
@@ -761,9 +760,9 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0962,
-                    "howManyToKill": 1040
+                    "howManyToKill": 780
                 },
-                "LootTableIndexItems": 95,
+                "LootTableIndexItems": 93,
                 "PackageComponent": {},
                 "ActivityComponent": [
                     "GF Wishing Well 1"
@@ -813,9 +812,9 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.1923,
-                    "howManyToKill": 520
+                    "howManyToKill": 390
                 },
-                "LootTableIndexItems": 95,
+                "LootTableIndexItems": 93,
                 "PackageComponent": {},
                 "ActivityComponent": [
                     "GF Wishing Well 2"
@@ -865,9 +864,9 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.2885,
-                    "howManyToKill": 347
+                    "howManyToKill": 273
                 },
-                "LootTableIndexItems": 95,
+                "LootTableIndexItems": 93,
                 "PackageComponent": {},
                 "ActivityComponent": [
                     "GF Wishing Well 3"
@@ -917,9 +916,9 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.4808,
-                    "howManyToKill": 208
+                    "howManyToKill": 156
                 },
-                "LootTableIndexItems": 95,
+                "LootTableIndexItems": 93,
                 "PackageComponent": {},
                 "ActivityComponent": [
                     "GF Wishing Well 4"
@@ -969,9 +968,9 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.9615,
-                    "howManyToKill": 104
+                    "howManyToKill": 78
                 },
-                "LootTableIndexItems": 95,
+                "LootTableIndexItems": 93,
                 "PackageComponent": {},
                 "ActivityComponent": [
                     "GF Wishing Well 5"
@@ -1021,9 +1020,9 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.5385,
-                    "howManyToKill": 65
+                    "howManyToKill": 39
                 },
-                "LootTableIndexItems": 95,
+                "LootTableIndexItems": 93,
                 "PackageComponent": {},
                 "ActivityComponent": [
                     "GF Wishing Well 6"
@@ -1073,9 +1072,9 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.9231000000000003,
-                    "howManyToKill": 52
+                    "howManyToKill": 39
                 },
-                "LootTableIndexItems": 95,
+                "LootTableIndexItems": 93,
                 "PackageComponent": {},
                 "ActivityComponent": [
                     "GF Wishing Well 7"
@@ -1125,9 +1124,9 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.9231000000000003,
-                    "howManyToKill": 52
+                    "howManyToKill": 39
                 },
-                "LootTableIndexItems": 95,
+                "LootTableIndexItems": 93,
                 "PackageComponent": {},
                 "ActivityComponent": [
                     "GF Wishing Well 8"
@@ -1177,7 +1176,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.11720000000000001,
-                    "howManyToKill": 853
+                    "howManyToKill": 640
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
@@ -1229,7 +1228,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.23440000000000003,
-                    "howManyToKill": 427
+                    "howManyToKill": 320
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
@@ -1281,7 +1280,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.3516,
-                    "howManyToKill": 284
+                    "howManyToKill": 224
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
@@ -1333,7 +1332,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.5859,
-                    "howManyToKill": 171
+                    "howManyToKill": 128
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
@@ -1385,7 +1384,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.1719,
-                    "howManyToKill": 85
+                    "howManyToKill": 64
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
@@ -1437,7 +1436,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.875,
-                    "howManyToKill": 53
+                    "howManyToKill": 32
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
@@ -1489,7 +1488,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.3438,
-                    "howManyToKill": 43
+                    "howManyToKill": 32
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
@@ -1541,7 +1540,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.3438,
-                    "howManyToKill": 43
+                    "howManyToKill": 32
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
@@ -1601,11 +1600,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.3438,
-                    "howManyToKill": 43
+                    "howManyToKill": 32
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "620": {
                 "LootMatrixIndex": 620,
@@ -1659,11 +1658,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.9231000000000003,
-                    "howManyToKill": 52
+                    "howManyToKill": 39
                 },
-                "LootTableIndexItems": 95,
+                "LootTableIndexItems": 93,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "665": {
                 "LootMatrixIndex": 665,
@@ -1709,16 +1708,16 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.9615,
-                    "howManyToKill": 104
+                    "howManyToKill": 78
                 },
-                "LootTableIndexItems": 95,
+                "LootTableIndexItems": 93,
                 "PackageComponent": {
                     "665": {
                         "name": "GF Loot Surprise Pack",
                         "displayName": "Quality Surprise Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "705": {
                 "LootMatrixIndex": 705,
@@ -1761,7 +1760,7 @@
                         "displayName": "Surprise Model Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "860": {
                 "LootMatrixIndex": 860,
@@ -1807,7 +1806,7 @@
                 "inNpcEditor": 1,
                 "overallChance": {
                     "percent": 1.1719,
-                    "howManyToKill": 85
+                    "howManyToKill": 64
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
@@ -1859,7 +1858,7 @@
                 "inNpcEditor": 1,
                 "overallChance": {
                     "percent": 2.3438,
-                    "howManyToKill": 43
+                    "howManyToKill": 32
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},

@@ -44,8 +44,7 @@
         "altCurrencyName": "Candy Cane",
         "altCurrencyDisplayName": "Candy Cane",
         "commendationCurrencyName": "Faction Token Proxy",
-        "commendationCurrencyDisplayName": "Faction Token",
-        "preconditionDescriptions": {}
+        "commendationCurrencyDisplayName": "Faction Token"
     },
     "overview": {},
     "proxySkillIDs": [],
@@ -101,7 +100,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0179,
-                    "howManyToKill": 5587
+                    "howManyToKill": 4200
                 },
                 "LootTableIndexItems": 27,
                 "PackageComponent": {},
@@ -154,7 +153,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 8.333300000000001,
-                    "howManyToKill": 12
+                    "howManyToKill": 9
                 },
                 "LootTableIndexItems": 9,
                 "PackageComponent": {
@@ -163,7 +162,7 @@
                         "displayName": "Winter Model Surprise Giftbox"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

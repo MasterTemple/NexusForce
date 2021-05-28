@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Read this book to unlock your Bradford Rant reward!",
-                "name": "Secrets of Bradford Rant"
+                "name": "Secrets of Bradford Rant",
+                "rawDescription": "Read this book to unlock your Bradford Rant reward!"
             }
         }
     },

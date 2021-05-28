@@ -121,7 +121,7 @@
                         "displayName": "Small Candy Cane Giftbox"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "540": {
                 "LootMatrixIndex": 540,
@@ -158,7 +158,7 @@
                         "displayName": "Large Candy Cane Giftbox"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

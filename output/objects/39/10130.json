@@ -106,7 +106,7 @@
                         "displayName": "Target Reward Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

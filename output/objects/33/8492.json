@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 2 %(ChargeUp)Puts enemies to sleep",
                 "name": "Sleep Wand 2",
+                "rawDescription": "%(DamageCombo) 2 %(ChargeUp)Puts enemies to sleep",
                 "damageCombo": " 2 ",
                 "ChargeUp": "Puts enemies to sleep"
             }
@@ -91,6 +91,21 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 0,
+            "allDamage": [
+                1,
+                2,
+                2
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Interruption",
+                "Interruption"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 2,
             "chargeUpCost": -2
@@ -148,7 +163,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.8888999999999999,
-                    "howManyToKill": 112
+                    "howManyToKill": 108
                 },
                 "LootTableIndexItems": 24,
                 "PackageComponent": {},
@@ -200,7 +215,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.8888999999999999,
-                    "howManyToKill": 112
+                    "howManyToKill": 108
                 },
                 "LootTableIndexItems": 24,
                 "PackageComponent": {},
@@ -252,7 +267,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.8888999999999999,
-                    "howManyToKill": 112
+                    "howManyToKill": 108
                 },
                 "LootTableIndexItems": 24,
                 "PackageComponent": {},
@@ -312,11 +327,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0031000000000000003,
-                    "howManyToKill": 32258
+                    "howManyToKill": 30888
                 },
                 "LootTableIndexItems": 24,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "217": {
                 "LootMatrixIndex": 217,
@@ -370,11 +385,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.006200000000000001,
-                    "howManyToKill": 16129
+                    "howManyToKill": 15444
                 },
                 "LootTableIndexItems": 24,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "218": {
                 "LootMatrixIndex": 218,
@@ -428,11 +443,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0178,
-                    "howManyToKill": 5618
+                    "howManyToKill": 5400
                 },
                 "LootTableIndexItems": 24,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "239": {
                 "LootMatrixIndex": 239,
@@ -478,7 +493,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.8888999999999999,
-                    "howManyToKill": 112
+                    "howManyToKill": 108
                 },
                 "LootTableIndexItems": 24,
                 "PackageComponent": {},
@@ -530,7 +545,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.8888999999999999,
-                    "howManyToKill": 112
+                    "howManyToKill": 108
                 },
                 "LootTableIndexItems": 24,
                 "PackageComponent": {},
@@ -870,11 +885,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.8888999999999999,
-                    "howManyToKill": 112
+                    "howManyToKill": 108
                 },
                 "LootTableIndexItems": 24,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "665": {
                 "LootMatrixIndex": 665,
@@ -920,7 +935,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.6222,
-                    "howManyToKill": 161
+                    "howManyToKill": 108
                 },
                 "LootTableIndexItems": 24,
                 "PackageComponent": {
@@ -929,7 +944,7 @@
                         "displayName": "Quality Surprise Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

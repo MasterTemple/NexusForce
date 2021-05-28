@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Read this book to learn the secrets of a Rank 1 Space Ranger!",
-                "name": "Secrets of a Space Ranger 1"
+                "name": "Secrets of a Space Ranger 1",
+                "rawDescription": "Read this book to learn the secrets of a Rank 1 Space Ranger!"
             }
         }
     },
@@ -116,7 +116,7 @@
                         "displayName": "Rank 1 Space Ranger Kit Package"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

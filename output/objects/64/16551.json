@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 1+2+2 %(AltCombo) 6+7+8 %(ChargeUp)Turns you into a whirlwind that knocks back enemies - release to do 6 damage to normal enemies or 18 damage to Skeletons",
                 "name": "Imagination Spinjitzu",
+                "rawDescription": "%(DamageCombo) 1+2+2 %(AltCombo) 6+7+8 %(ChargeUp)Turns you into a whirlwind that knocks back enemies - release to do 6 damage to normal enemies or 18 damage to Skeletons",
                 "damageCombo": " 1+2+2 %(AltCombo) 6+7+8 ",
                 "ChargeUp": "Turns you into a whirlwind that knocks back enemies - release to do 6 damage to normal enemies or 18 damage to Skeletons"
             }
@@ -70,8 +70,7 @@
         ],
         "isWeapon": true,
         "commendationCurrencyName": "Faction Token Proxy",
-        "commendationCurrencyDisplayName": "Faction Token",
-        "preconditionDescriptions": {}
+        "commendationCurrencyDisplayName": "Faction Token"
     },
     "overview": {
         "16595": {
@@ -97,6 +96,38 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 0,
+            "allDamage": [
+                1,
+                4,
+                1,
+                6,
+                6,
+                18,
+                1,
+                6,
+                2,
+                7,
+                2,
+                8
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Interruption",
+                "Knockback",
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Knockback"
+            ],
             "doubleJumpSmash": 4,
             "singleJumpSmash": 6,
             "chargeUpCost": -2

@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Read this book to learn the secrets of a Rank 1 Daredevil!",
-                "name": "Secrets of a Daredevil 1"
+                "name": "Secrets of a Daredevil 1",
+                "rawDescription": "Read this book to learn the secrets of a Rank 1 Daredevil!"
             }
         }
     },
@@ -117,7 +117,7 @@
                         "displayName": "Rank 1 Daredevil Kit Package"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

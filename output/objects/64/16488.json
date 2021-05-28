@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 1+1+3 %(AltCombo) 6+6+9 %(Description)Slashes enemies",
                 "name": "Ninjago Attack",
+                "rawDescription": "%(DamageCombo) 1+1+3 %(AltCombo) 6+6+9 %(Description)Slashes enemies",
                 "damageCombo": " 1+1+3 %(AltCombo) 6+6+9 ",
                 "Description": "Slashes enemies"
             }
@@ -72,10 +72,7 @@
         ],
         "isWeapon": true,
         "commendationCurrencyName": "Faction Token Proxy",
-        "commendationCurrencyDisplayName": "Faction Token",
-        "preconditionDescriptions": {
-            "248": "You must be Level 10 or greater to use this item."
-        }
+        "commendationCurrencyDisplayName": "Faction Token"
     },
     "overview": {
         "33455": {
@@ -99,6 +96,30 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 0,
+            "allDamage": [
+                1,
+                4,
+                1,
+                6,
+                1,
+                6,
+                1,
+                6,
+                3,
+                9
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Knockback"
+            ],
             "doubleJumpSmash": 4,
             "singleJumpSmash": 6
         }

@@ -78,7 +78,22 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 1
+            "chargeUpCombo": 1,
+            "allDamage": [
+                2,
+                3,
+                1
+            ],
+            "attackTypes": [
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Knockback",
+                "Interruption"
+            ]
         }
     },
     "proxySkillIDs": [],

@@ -127,7 +127,7 @@
                         "displayName": "Subscription Reward Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

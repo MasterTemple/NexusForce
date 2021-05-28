@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 4+4+6+6 %(ChargeUp)Fires a 4 damage projectile",
                 "name": "Rental Flare Guns",
+                "rawDescription": "%(DamageCombo) 4+4+6+6 %(ChargeUp)Fires a 4 damage projectile",
                 "damageCombo": " 4+4+6+6 ",
                 "ChargeUp": "Fires a 4 damage projectile"
             }
@@ -68,8 +68,7 @@
         "equipLocationNames": [
             "Right Hand"
         ],
-        "isWeapon": true,
-        "preconditionDescriptions": {}
+        "isWeapon": true
     },
     "overview": {
         "38848": {
@@ -91,6 +90,28 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 1,
+            "allDamage": [
+                2,
+                2,
+                3,
+                3,
+                3,
+                4,
+                1
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Interruption",
+                "Knockback",
+                "Ranged",
+                "Knockback",
+                "Area of Effect"
+            ],
             "doubleJumpSmash": 2,
             "singleJumpSmash": 2,
             "chargeUpCost": -4,

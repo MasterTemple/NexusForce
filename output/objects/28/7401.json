@@ -30,8 +30,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 2+2+3+3 %(ChargeUp)Fires a 7 damage projectile",
                 "name": "Cutlass and Pistol 2",
+                "rawDescription": "%(DamageCombo) 2+2+3+3 %(ChargeUp)Fires a 7 damage projectile",
                 "damageCombo": " 2+2+3+3 ",
                 "ChargeUp": "Fires a 7 damage projectile"
             }
@@ -52,8 +52,7 @@
     },
     "behaviorIDs": [
         9637,
-        11183,
-        11425
+        11183
     ],
     "stats": {
         "cooldown": 0.0,
@@ -120,6 +119,28 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 7,
+            "allDamage": [
+                1,
+                2,
+                2,
+                2,
+                3,
+                3,
+                7
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Interruption",
+                "Knockback",
+                "Ranged",
+                "Knockback",
+                "Interruption"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 2,
             "chargeUpCost": -4,
@@ -127,28 +148,8 @@
             "projectileChargeUpDamage": 7
         }
     },
-    "proxySkillIDs": [
-        696
-    ],
-    "proxySkills": {
-        "696": {
-            "castOnType": 0,
-            "AICombatWeight": 0,
-            "behaviorID": 11425,
-            "imaginationcost": 7,
-            "cooldowngroup": 24,
-            "cooldown": 30.0,
-            "inNpcEditor": 0,
-            "skillIcon": 3463,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null,
-            "info": {
-                "rawDescription": "Gives a speed boost for 12 seconds that knocks down enemies",
-                "name": "Full Steam Ahead 2"
-            }
-        }
-    },
+    "proxySkillIDs": [],
+    "proxySkills": {},
     "iconURL": "textures/ui/inventory/faction%20kits/buccaneer_pistolcutlass_2.png",
     "buyAndDrop": {
         "LootTableIndexes": [

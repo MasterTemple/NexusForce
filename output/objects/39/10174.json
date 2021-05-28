@@ -86,7 +86,7 @@
                         "displayName": ""
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

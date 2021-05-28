@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 1+2+2 %(ChargeUp)Restores 2 Imagination for nearby characters",
                 "name": "Wand Mastery 1",
+                "rawDescription": "%(DamageCombo) 1+2+2 %(ChargeUp)Restores 2 Imagination for nearby characters",
                 "damageCombo": " 1+2+2 ",
                 "ChargeUp": "Restores 2 Imagination for nearby characters"
             }
@@ -106,6 +106,27 @@
                 2,
                 2
             ],
+            "allDamage": [
+                1,
+                1,
+                2,
+                2,
+                1
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Ranged",
+                "Area of Effect",
+                "Ranged",
+                "Ranged",
+                "Interruption",
+                "Area of Effect"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 1,
             "projectileChargeUpLOT": 7604,
@@ -158,7 +179,7 @@
                         "displayName": "Rank 1 Sorcerer Kit Package"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

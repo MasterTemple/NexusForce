@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Stuns enemies",
-                "name": "Sonic Blast"
+                "name": "Sonic Blast",
+                "rawDescription": "Stuns enemies"
             }
         }
     },
@@ -81,7 +81,11 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": [
+                "Interruption"
+            ]
         }
     },
     "proxySkillIDs": [],
@@ -138,7 +142,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.0,
-                    "howManyToKill": 50
+                    "howManyToKill": 48
                 },
                 "LootTableIndexItems": 23,
                 "PackageComponent": {},
@@ -191,7 +195,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 4.0,
-                    "howManyToKill": 25
+                    "howManyToKill": 24
                 },
                 "LootTableIndexItems": 23,
                 "PackageComponent": {},
@@ -627,7 +631,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.08,
-                    "howManyToKill": 1250
+                    "howManyToKill": 1200
                 },
                 "LootTableIndexItems": 23,
                 "PackageComponent": {},
@@ -686,7 +690,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 4.0,
-                    "howManyToKill": 25
+                    "howManyToKill": 24
                 },
                 "LootTableIndexItems": 23,
                 "PackageComponent": {
@@ -695,7 +699,7 @@
                         "displayName": "Surprise Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "686": {
                 "LootMatrixIndex": 686,
@@ -741,7 +745,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.7273,
-                    "howManyToKill": 137
+                    "howManyToKill": 132
                 },
                 "LootTableIndexItems": 85,
                 "PackageComponent": {
@@ -750,7 +754,7 @@
                         "displayName": "Nexus Tower Gift Bag"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "720": {
                 "LootMatrixIndex": 720,

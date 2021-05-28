@@ -43,8 +43,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 7 %(Description)Launches a rocket that does 7 damage",
                 "name": "Maelstrom Rocket 1",
+                "rawDescription": "%(DamageCombo) 7 %(Description)Launches a rocket that does 7 damage",
                 "damageCombo": " 7 ",
                 "Description": "Launches a rocket that does 7 damage"
             }
@@ -118,7 +118,14 @@
             "projectileDamageComboArray": [
                 7
             ],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                7
+            ],
+            "attackTypes": [
+                "Ranged",
+                "Area of Effect"
+            ]
         }
     },
     "proxySkillIDs": [],

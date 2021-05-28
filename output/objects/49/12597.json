@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Fires a blast that does 12 damage to an enemy",
-                "name": "Impact Blast"
+                "name": "Impact Blast",
+                "rawDescription": "Fires a blast that does 12 damage to an enemy"
             }
         }
     },
@@ -90,7 +90,14 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                12
+            ],
+            "attackTypes": [
+                "Interruption",
+                "Knockback"
+            ]
         }
     },
     "proxySkillIDs": [],

@@ -78,9 +78,7 @@
         4253,
         11860,
         11860,
-        30781,
-        29299,
-        29103
+        30781
     ],
     "stats": {
         "imBonusUI": 3
@@ -124,46 +122,8 @@
         "commendationCurrencyDisplayName": "Faction Token"
     },
     "overview": {},
-    "proxySkillIDs": [
-        1257,
-        1251
-    ],
-    "proxySkills": {
-        "1257": {
-            "castOnType": 0,
-            "AICombatWeight": null,
-            "behaviorID": 29299,
-            "imaginationcost": 0,
-            "cooldowngroup": 1,
-            "cooldown": 3.0,
-            "inNpcEditor": 0,
-            "skillIcon": 4277,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null,
-            "info": {
-                "rawDescription": "Restores 100 Imagination to nearby characters, and heals certain kinds of Maelstrom sickness",
-                "name": "Unload Imagination Backpack"
-            }
-        },
-        "1251": {
-            "castOnType": 0,
-            "AICombatWeight": 0,
-            "behaviorID": 29103,
-            "imaginationcost": 0,
-            "cooldowngroup": 1,
-            "cooldown": 3.0,
-            "inNpcEditor": 0,
-            "skillIcon": 4249,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null,
-            "info": {
-                "rawDescription": "When used near the Nexus Tower Imagination Beam, gathers massive amounts of Imagination",
-                "name": "Gather Imagination"
-            }
-        }
-    },
+    "proxySkillIDs": [],
+    "proxySkills": {},
     "iconURL": "textures/nexustower/ui/inventory/misc/imaginationbackpack.png",
     "buyAndDrop": {
         "LootTableIndexes": [],

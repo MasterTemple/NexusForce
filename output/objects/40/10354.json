@@ -40,8 +40,7 @@
         "commendationCurrencyType": null,
         "commendationCurrencyCost": null,
         "equipLocationNames": [],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {},
     "proxySkillIDs": [],
@@ -106,11 +105,11 @@
                 "inNpcEditor": 1,
                 "overallChance": {
                     "percent": 0.046900000000000004,
-                    "howManyToKill": 2132
+                    "howManyToKill": 1600
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "196": {
                 "LootMatrixIndex": 196,
@@ -156,7 +155,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0234,
-                    "howManyToKill": 4274
+                    "howManyToKill": 3200
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
@@ -254,11 +253,11 @@
                 "inNpcEditor": 1,
                 "overallChance": {
                     "percent": 0.11720000000000001,
-                    "howManyToKill": 853
+                    "howManyToKill": 640
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "231": {
                 "LootMatrixIndex": 231,
@@ -326,11 +325,11 @@
                 "inNpcEditor": 1,
                 "overallChance": {
                     "percent": 0.11720000000000001,
-                    "howManyToKill": 853
+                    "howManyToKill": 640
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "314": {
                 "LootMatrixIndex": 314,
@@ -376,7 +375,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.46880000000000005,
-                    "howManyToKill": 213
+                    "howManyToKill": 160
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
@@ -420,7 +419,7 @@
                         "displayName": "House Model Pack 2"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "421": {
                 "LootMatrixIndex": 421,
@@ -457,7 +456,7 @@
                         "displayName": "House Model Pack 4"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "422": {
                 "LootMatrixIndex": 422,
@@ -494,7 +493,7 @@
                         "displayName": "House Model Pack 5"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "483": {
                 "LootMatrixIndex": 483,
@@ -540,7 +539,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.9375,
-                    "howManyToKill": 107
+                    "howManyToKill": 64
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
@@ -592,7 +591,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.875,
-                    "howManyToKill": 53
+                    "howManyToKill": 32
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
@@ -644,7 +643,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.3438,
-                    "howManyToKill": 43
+                    "howManyToKill": 32
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
@@ -696,7 +695,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.11720000000000001,
-                    "howManyToKill": 853
+                    "howManyToKill": 640
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
@@ -748,7 +747,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.23440000000000003,
-                    "howManyToKill": 427
+                    "howManyToKill": 320
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
@@ -800,7 +799,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.3516,
-                    "howManyToKill": 284
+                    "howManyToKill": 224
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
@@ -852,7 +851,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.5859,
-                    "howManyToKill": 171
+                    "howManyToKill": 128
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
@@ -904,7 +903,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.1719,
-                    "howManyToKill": 85
+                    "howManyToKill": 64
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
@@ -956,7 +955,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.875,
-                    "howManyToKill": 53
+                    "howManyToKill": 32
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
@@ -1008,7 +1007,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.3438,
-                    "howManyToKill": 43
+                    "howManyToKill": 32
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
@@ -1060,7 +1059,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.3438,
-                    "howManyToKill": 43
+                    "howManyToKill": 32
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
@@ -1120,11 +1119,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.3438,
-                    "howManyToKill": 43
+                    "howManyToKill": 32
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "705": {
                 "LootMatrixIndex": 705,
@@ -1167,7 +1166,7 @@
                         "displayName": "Surprise Model Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "860": {
                 "LootMatrixIndex": 860,
@@ -1213,7 +1212,7 @@
                 "inNpcEditor": 1,
                 "overallChance": {
                     "percent": 1.1719,
-                    "howManyToKill": 85
+                    "howManyToKill": 64
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},
@@ -1265,7 +1264,7 @@
                 "inNpcEditor": 1,
                 "overallChance": {
                     "percent": 2.3438,
-                    "howManyToKill": 43
+                    "howManyToKill": 32
                 },
                 "LootTableIndexItems": 105,
                 "PackageComponent": {},

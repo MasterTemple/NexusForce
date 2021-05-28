@@ -42,8 +42,7 @@
         "equipLocationNames": [],
         "isWeapon": false,
         "altCurrencyName": "Candy Cane",
-        "altCurrencyDisplayName": "Candy Cane",
-        "preconditionDescriptions": {}
+        "altCurrencyDisplayName": "Candy Cane"
     },
     "overview": {},
     "proxySkillIDs": [],
@@ -98,7 +97,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.025,
-                    "howManyToKill": 4000
+                    "howManyToKill": 4200
                 },
                 "LootTableIndexItems": 27,
                 "PackageComponent": {},

@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 1+2+2 %(AltCombo) 6+7+8 %(ChargeUp)Turns you into a whirlwind that knocks back enemies - release to do 6 damage to normal enemies or 18 damage to Skeletons",
                 "name": "Imagination Spinjitzu",
+                "rawDescription": "%(DamageCombo) 1+2+2 %(AltCombo) 6+7+8 %(ChargeUp)Turns you into a whirlwind that knocks back enemies - release to do 6 damage to normal enemies or 18 damage to Skeletons",
                 "damageCombo": " 1+2+2 %(AltCombo) 6+7+8 ",
                 "ChargeUp": "Turns you into a whirlwind that knocks back enemies - release to do 6 damage to normal enemies or 18 damage to Skeletons"
             }

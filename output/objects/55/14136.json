@@ -58,8 +58,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Restores 1 Imgagination per 3 seconds for 60 seconds",
-                "name": "Earth Endurance"
+                "name": "Earth Endurance",
+                "rawDescription": "Restores 1 Imgagination per 3 seconds for 60 seconds"
             }
         },
         "1537": {
@@ -119,8 +119,7 @@
         ],
         "isWeapon": false,
         "commendationCurrencyName": "Faction Token Proxy",
-        "commendationCurrencyDisplayName": "Faction Token",
-        "preconditionDescriptions": {}
+        "commendationCurrencyDisplayName": "Faction Token"
     },
     "overview": {
         "32053": {
@@ -136,7 +135,9 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": []
         }
     },
     "proxySkillIDs": [],

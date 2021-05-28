@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 8 %(Description)Drops an anchor that does 8 damage to an enemey",
                 "name": "Anchors Away",
+                "rawDescription": "%(DamageCombo) 8 %(Description)Drops an anchor that does 8 damage to an enemey",
                 "damageCombo": " 8 ",
                 "Description": "Drops an anchor that does 8 damage to an enemey"
             }
@@ -132,11 +132,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.03,
-                    "howManyToKill": 3333
+                    "howManyToKill": 3500
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "217": {
                 "LootMatrixIndex": 217,
@@ -190,11 +190,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.045,
-                    "howManyToKill": 2222
+                    "howManyToKill": 2345
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "218": {
                 "LootMatrixIndex": 218,
@@ -248,11 +248,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.2,
-                    "howManyToKill": 83
+                    "howManyToKill": 70
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "566": {
                 "LootMatrixIndex": 566,
@@ -298,7 +298,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.05,
-                    "howManyToKill": 95
+                    "howManyToKill": 105
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
@@ -350,7 +350,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.5,
-                    "howManyToKill": 67
+                    "howManyToKill": 70
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
@@ -402,7 +402,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.25,
-                    "howManyToKill": 44
+                    "howManyToKill": 35
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
@@ -454,7 +454,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 3.0,
-                    "howManyToKill": 33
+                    "howManyToKill": 35
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
@@ -506,7 +506,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 3.0,
-                    "howManyToKill": 33
+                    "howManyToKill": 35
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
@@ -558,7 +558,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 3.0,
-                    "howManyToKill": 33
+                    "howManyToKill": 35
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
@@ -610,7 +610,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 3.0,
-                    "howManyToKill": 33
+                    "howManyToKill": 35
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
@@ -662,7 +662,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 3.0,
-                    "howManyToKill": 33
+                    "howManyToKill": 35
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
@@ -722,11 +722,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 3.0,
-                    "howManyToKill": 33
+                    "howManyToKill": 35
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "665": {
                 "LootMatrixIndex": 665,
@@ -772,7 +772,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.5,
-                    "howManyToKill": 67
+                    "howManyToKill": 70
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {
@@ -781,7 +781,7 @@
                         "displayName": "Quality Surprise Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

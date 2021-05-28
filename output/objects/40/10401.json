@@ -60,7 +60,7 @@
             "defined_type": "Location",
             "defined_subtype": "Avant Gardens",
             "missionName": "Brick Collection",
-            "missionDescription": "<font color='#FF7F00'>Smash lumber piles</font> near the Monument to find <font color='#FF7F00'>bricks</font> for the wall at the Sentinel Base Camp.",
+            "missionDescription": "Smash lumber piles near the Monument to find bricks for the wall at the Sentinel Base Camp.",
             "isMission": 1,
             "rewardCount": 1
         }

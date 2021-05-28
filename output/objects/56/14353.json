@@ -63,10 +63,7 @@
     "behaviorIDs": [
         4250,
         4263,
-        38570,
-        15498,
-        38967,
-        11349
+        38570
     ],
     "stats": {
         "armorBonusUI": 9,
@@ -116,62 +113,8 @@
         "levelRequirement": 0
     },
     "overview": {},
-    "proxySkillIDs": [
-        830,
-        1631,
-        689
-    ],
-    "proxySkills": {
-        "830": {
-            "castOnType": 1,
-            "AICombatWeight": 0,
-            "behaviorID": 15498,
-            "imaginationcost": 0,
-            "cooldowngroup": 29,
-            "cooldown": 30.0,
-            "inNpcEditor": 0,
-            "skillIcon": 0,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null
-        },
-        "1631": {
-            "castOnType": 0,
-            "AICombatWeight": 0,
-            "behaviorID": 38967,
-            "imaginationcost": 0,
-            "cooldowngroup": 1,
-            "cooldown": 0.0,
-            "inNpcEditor": 0,
-            "skillIcon": 3365,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null,
-            "info": {
-                "rawDescription": "%(DamageCombo) 4+4+6 %(ChargeUp)Restores up to 6 Armor to nearby characters - charge longer for more Armor",
-                "name": "Rental Gnarled Staff",
-                "damageCombo": " 4+4+6 ",
-                "ChargeUp": "Restores up to 6 Armor to nearby characters - charge longer for more Armor"
-            }
-        },
-        "689": {
-            "castOnType": 0,
-            "AICombatWeight": 0,
-            "behaviorID": 11349,
-            "imaginationcost": 4,
-            "cooldowngroup": 24,
-            "cooldown": 45.0,
-            "inNpcEditor": 0,
-            "skillIcon": 3684,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null,
-            "info": {
-                "rawDescription": "Creates a Thwok that assists you in battle",
-                "name": "Summon Thwok 1"
-            }
-        }
-    },
+    "proxySkillIDs": [],
+    "proxySkills": {},
     "iconURL": "textures/freetrial/ui/inventory/icons/summoner_kit.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
@@ -187,7 +130,7 @@
             "defined_type": "Location",
             "defined_subtype": "Avant Gardens",
             "missionName": "Back-up Bulwark!",
-            "missionDescription": "<font color='#FF7F00'>Fly to the Block Yard Property</font> and provide back-up for <font color='#FF7F00'>Vance Bulwark</font>.",
+            "missionDescription": "Fly to the Block Yard Property and provide back-up for Vance Bulwark.",
             "isMission": 1,
             "rewardCount": 0
         },
@@ -195,7 +138,7 @@
             "defined_type": "Location",
             "defined_subtype": "Avant Gardens",
             "missionName": "Agent Foxtrot",
-            "missionDescription": "Report to <font color='#FF7F00'>Melodie Foxtrot</font> by the caves behind the Paradox Lab in Avant Gardens to <font color='#FF7F00'>borrow Faction Gear</font>.",
+            "missionDescription": "Report to Melodie Foxtrot by the caves behind the Paradox Lab in Avant Gardens to borrow Faction Gear.",
             "isMission": 1,
             "rewardCount": 0
         }

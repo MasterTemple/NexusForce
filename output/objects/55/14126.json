@@ -92,7 +92,7 @@
                         "displayName": "6 Month Membership Reward"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "834": {
                 "LootMatrixIndex": 834,
@@ -129,7 +129,7 @@
                         "displayName": "Subscription Reward Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "835": {
                 "LootMatrixIndex": 835,
@@ -166,7 +166,7 @@
                         "displayName": "Subscription Reward Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

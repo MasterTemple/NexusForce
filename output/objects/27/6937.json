@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 1+1+1 %(Description)Fires a projectile",
                 "name": "Basic Ranged Attack",
+                "rawDescription": "%(DamageCombo) 1+1+1 %(Description)Fires a projectile",
                 "damageCombo": " 1+1+1 ",
                 "Description": "Fires a projectile"
             }
@@ -98,6 +98,30 @@
                 1
             ],
             "chargeUpCombo": 0,
+            "allDamage": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Knockback",
+                "Knockback",
+                "Ranged",
+                "Ranged",
+                "Ranged",
+                "Interruption"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 1,
             "chargeUpCost": -1

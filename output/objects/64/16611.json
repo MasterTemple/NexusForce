@@ -71,8 +71,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Restores 10 Armor",
-                "name": "Ice Trade Off"
+                "name": "Ice Trade Off",
+                "rawDescription": "Restores 10 Armor"
             }
         }
     },
@@ -117,8 +117,7 @@
             "Headgear",
             "Neck/Back"
         ],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {
         "38301": {
@@ -134,7 +133,9 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": []
         }
     },
     "proxySkillIDs": [],

@@ -30,8 +30,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Stuns enemies",
-                "name": "Flash Bulb"
+                "name": "Flash Bulb",
+                "rawDescription": "Stuns enemies"
             }
         }
     },

@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 4+4+6 %(ChargeUp)Restores up to 6 Armor to nearby characters - charge longer for more Armor",
                 "name": "Rental Gnarled Staff",
+                "rawDescription": "%(DamageCombo) 4+4+6 %(ChargeUp)Restores up to 6 Armor to nearby characters - charge longer for more Armor",
                 "damageCombo": " 4+4+6 ",
                 "ChargeUp": "Restores up to 6 Armor to nearby characters - charge longer for more Armor"
             }
@@ -68,8 +68,7 @@
         "equipLocationNames": [
             "Right Hand"
         ],
-        "isWeapon": true,
-        "preconditionDescriptions": {}
+        "isWeapon": true
     },
     "overview": {
         "38967": {
@@ -92,6 +91,30 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
+            "allDamage": [
+                2,
+                4,
+                4,
+                4,
+                4
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Area of Effect",
+                "Interruption",
+                "Area of Effect",
+                "Knockback",
+                "Knockback",
+                "Interruption",
+                "Knockback"
+            ],
             "doubleJumpSmash": 2,
             "singleJumpSmash": 4
         }

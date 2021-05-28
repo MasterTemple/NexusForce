@@ -32,8 +32,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 2+3+3 %(ChargeUp)Blocks 8 attacks while charged",
                 "name": "Ripple Gun 3",
+                "rawDescription": "%(DamageCombo) 2+3+3 %(ChargeUp)Blocks 8 attacks while charged",
                 "damageCombo": " 2+3+3 ",
                 "ChargeUp": "Blocks 8 attacks while charged"
             }
@@ -115,6 +115,26 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 2,
+            "allDamage": [
+                1,
+                2,
+                2,
+                3,
+                3
+            ],
+            "attackTypes": [
+                "Knockback",
+                "Interruption",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Interruption",
+                "Knockback",
+                "Knockback"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 2
         }

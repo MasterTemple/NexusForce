@@ -57,8 +57,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 6 %(Description)Does 6 damage to enemies",
                 "name": "Ripsaw Buzz",
+                "rawDescription": "%(DamageCombo) 6 %(Description)Does 6 damage to enemies",
                 "damageCombo": " 6 ",
                 "Description": "Does 6 damage to enemies"
             }
@@ -124,7 +124,15 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                6
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback"
+            ]
         }
     },
     "proxySkillIDs": [],

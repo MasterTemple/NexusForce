@@ -124,11 +124,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0015,
-                    "howManyToKill": 66667
+                    "howManyToKill": 62400
                 },
                 "LootTableIndexItems": 31,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "217": {
                 "LootMatrixIndex": 217,
@@ -182,11 +182,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0031000000000000003,
-                    "howManyToKill": 32258
+                    "howManyToKill": 31200
                 },
                 "LootTableIndexItems": 31,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "218": {
                 "LootMatrixIndex": 218,
@@ -240,11 +240,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0123,
-                    "howManyToKill": 8130
+                    "howManyToKill": 7800
                 },
                 "LootTableIndexItems": 31,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "445": {
                 "LootMatrixIndex": 445,
@@ -281,7 +281,7 @@
                         "displayName": "Beta Testing Gear Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "567": {
                 "LootMatrixIndex": 567,
@@ -615,11 +615,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.6154,
-                    "howManyToKill": 162
+                    "howManyToKill": 156
                 },
                 "LootTableIndexItems": 31,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "665": {
                 "LootMatrixIndex": 665,
@@ -665,7 +665,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.3077,
-                    "howManyToKill": 325
+                    "howManyToKill": 312
                 },
                 "LootTableIndexItems": 31,
                 "PackageComponent": {
@@ -674,7 +674,7 @@
                         "displayName": "Quality Surprise Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

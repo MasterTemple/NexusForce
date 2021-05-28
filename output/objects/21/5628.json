@@ -86,12 +86,18 @@
             "projectileDamageComboArray": [
                 3
             ],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                3
+            ],
+            "attackTypes": [
+                "Ranged"
+            ]
         }
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "bot/blob/master/src/unknown.png?raw=true",
+    "iconURL": "unknown",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

@@ -42,8 +42,7 @@
         "equipLocationNames": [],
         "isWeapon": false,
         "altCurrencyName": "Candy Cane",
-        "altCurrencyDisplayName": "Candy Cane",
-        "preconditionDescriptions": {}
+        "altCurrencyDisplayName": "Candy Cane"
     },
     "overview": {},
     "proxySkillIDs": [],
@@ -100,7 +99,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0179,
-                    "howManyToKill": 5587
+                    "howManyToKill": 4200
                 },
                 "LootTableIndexItems": 27,
                 "PackageComponent": {},
@@ -162,7 +161,7 @@
                         "displayName": "Winter Model Giftbox"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "538": {
                 "LootMatrixIndex": 538,
@@ -208,7 +207,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 9.375,
-                    "howManyToKill": 11
+                    "howManyToKill": 8
                 },
                 "LootTableIndexItems": 8,
                 "PackageComponent": {
@@ -217,7 +216,7 @@
                         "displayName": "Winter Model Surprise Giftbox"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

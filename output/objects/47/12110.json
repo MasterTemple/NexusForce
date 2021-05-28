@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 5 %(Description)Makes you leap on enemies, doing 5 damage",
                 "name": "Spring Step",
+                "rawDescription": "%(DamageCombo) 5 %(Description)Makes you leap on enemies, doing 5 damage",
                 "damageCombo": " 5 ",
                 "Description": "Makes you leap on enemies, doing 5 damage"
             }

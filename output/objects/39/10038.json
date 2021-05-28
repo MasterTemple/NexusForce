@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Restores up to 5 Life, 10 Imagination and 10 Armor over time",
-                "name": "Yo Ho Ho"
+                "name": "Yo Ho Ho",
+                "rawDescription": "Restores up to 5 Life, 10 Imagination and 10 Armor over time"
             }
         }
     },
@@ -130,11 +130,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.016,
-                    "howManyToKill": 6250
+                    "howManyToKill": 6000
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "217": {
                 "LootMatrixIndex": 217,
@@ -188,11 +188,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.024,
-                    "howManyToKill": 4167
+                    "howManyToKill": 4020
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "218": {
                 "LootMatrixIndex": 218,
@@ -246,11 +246,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.64,
-                    "howManyToKill": 156
+                    "howManyToKill": 120
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "566": {
                 "LootMatrixIndex": 566,
@@ -296,7 +296,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.5599999999999999,
-                    "howManyToKill": 179
+                    "howManyToKill": 180
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
@@ -348,7 +348,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.8,
-                    "howManyToKill": 125
+                    "howManyToKill": 120
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
@@ -400,7 +400,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.2,
-                    "howManyToKill": 83
+                    "howManyToKill": 60
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
@@ -452,7 +452,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.6,
-                    "howManyToKill": 62
+                    "howManyToKill": 60
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
@@ -504,7 +504,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.6,
-                    "howManyToKill": 62
+                    "howManyToKill": 60
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
@@ -556,7 +556,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.6,
-                    "howManyToKill": 62
+                    "howManyToKill": 60
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
@@ -608,7 +608,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.6,
-                    "howManyToKill": 62
+                    "howManyToKill": 60
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
@@ -660,7 +660,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.6,
-                    "howManyToKill": 62
+                    "howManyToKill": 60
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
@@ -720,11 +720,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.6,
-                    "howManyToKill": 62
+                    "howManyToKill": 60
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "665": {
                 "LootMatrixIndex": 665,
@@ -770,7 +770,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.8,
-                    "howManyToKill": 125
+                    "howManyToKill": 120
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {
@@ -779,7 +779,7 @@
                         "displayName": "Quality Surprise Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "686": {
                 "LootMatrixIndex": 686,
@@ -825,7 +825,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.7273,
-                    "howManyToKill": 137
+                    "howManyToKill": 132
                 },
                 "LootTableIndexItems": 85,
                 "PackageComponent": {
@@ -834,7 +834,7 @@
                         "displayName": "Nexus Tower Gift Bag"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

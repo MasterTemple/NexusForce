@@ -57,7 +57,7 @@
             "defined_type": "Location",
             "defined_subtype": "Avant Gardens",
             "missionName": "Impress the Sentinel Faction",
-            "missionDescription": "Interact with the <font color='#FF7F00'>Battle Tower</font> to enter the <font color='#FF7F00'>Avant Gardens Survival</font> challenge, then <font color='#FF7F00'>last for 1 minute</font>. Survival requires 1 Green Imaginite.",
+            "missionDescription": "Interact with the Battle Tower to enter the Avant Gardens Survival challenge, then last for 1 minute. Survival requires 1 Green Imaginite.",
             "isMission": 1,
             "rewardCount": 1
         }

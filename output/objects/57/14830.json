@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 4 %(AltCombo) 20 %(Description)Spin around and deal damage to enemies",
                 "name": "Ninjago Roundhouse",
+                "rawDescription": "%(DamageCombo) 4 %(AltCombo) 20 %(Description)Spin around and deal damage to enemies",
                 "damageCombo": " 4 %(AltCombo) 20 ",
                 "Description": "Spin around and deal damage to enemies"
             }
@@ -86,7 +86,16 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                4,
+                20
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback"
+            ]
         }
     },
     "proxySkillIDs": [],

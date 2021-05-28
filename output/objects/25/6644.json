@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Restores 4 Imagination",
-                "name": "Restore Imagination 4"
+                "name": "Restore Imagination 4",
+                "rawDescription": "Restores 4 Imagination"
             }
         }
     },

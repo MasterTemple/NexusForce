@@ -43,8 +43,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Makes you howl like a wolf and stuns enemies in fear",
-                "name": "Howl"
+                "name": "Howl",
+                "rawDescription": "Makes you howl like a wolf and stuns enemies in fear"
             }
         }
     },
@@ -104,7 +104,11 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": [
+                "Area of Effect"
+            ]
         }
     },
     "proxySkillIDs": [],

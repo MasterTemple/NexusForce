@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Read this book to learn the secrets of a Rank 1 Knight!",
-                "name": "Secrets of a Knight 1"
+                "name": "Secrets of a Knight 1",
+                "rawDescription": "Read this book to learn the secrets of a Rank 1 Knight!"
             }
         }
     },
@@ -117,7 +117,7 @@
                         "displayName": "Rank 1 Knight Kit Package"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

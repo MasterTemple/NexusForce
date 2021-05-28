@@ -60,7 +60,7 @@
             "defined_type": "Location",
             "defined_subtype": "Avant Gardens",
             "missionName": "Arachnophobia",
-            "missionDescription": "<font color='#FF7F00'>Smash the Spider Queen</font> on Block Yard.",
+            "missionDescription": "Smash the Spider Queen on Block Yard.",
             "isMission": 1,
             "rewardCount": 1
         }

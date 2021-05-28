@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 2+2+2 %(Description)Fires a projectile",
                 "name": "Exceptional Ranged Attack",
+                "rawDescription": "%(DamageCombo) 2+2+2 %(Description)Fires a projectile",
                 "damageCombo": " 2+2+2 ",
                 "Description": "Fires a projectile"
             }
@@ -103,6 +103,37 @@
                 2
             ],
             "chargeUpCombo": 0,
+            "allDamage": [
+                1,
+                2,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                2
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Knockback",
+                "Knockback",
+                "Ranged",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Knockback",
+                "Knockback",
+                "Ranged",
+                "Ranged"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 2,
             "chargeUpCost": -1

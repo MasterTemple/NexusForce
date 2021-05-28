@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Attracts coins and other rewards towards you",
-                "name": "Money Magnet"
+                "name": "Money Magnet",
+                "rawDescription": "Attracts coins and other rewards towards you"
             }
         }
     },
@@ -83,7 +83,9 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": []
         }
     },
     "proxySkillIDs": [],
@@ -103,7 +105,7 @@
             "defined_type": "Location",
             "defined_subtype": "Avant Gardens",
             "missionName": "Know Thy Enemy",
-            "missionDescription": "Smash Stromlings and <font color='#FF7F00'>collect 25 Maelstrom-infected bricks</font> for Wisp Lee.",
+            "missionDescription": "Smash Stromlings and collect 25 Maelstrom-infected bricks for Wisp Lee.",
             "isMission": 1,
             "rewardCount": 1
         }

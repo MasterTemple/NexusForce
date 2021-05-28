@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 1 %(ChargeUp)Restores 4 Imagination",
                 "name": "Imagination Wand 1",
+                "rawDescription": "%(DamageCombo) 1 %(ChargeUp)Restores 4 Imagination",
                 "damageCombo": " 1 ",
                 "ChargeUp": "Restores 4 Imagination"
             }
@@ -89,6 +89,20 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
+            "allDamage": [
+                1,
+                1,
+                1
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Interruption"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 1
         }

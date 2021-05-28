@@ -43,8 +43,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Stuns enemies",
-                "name": "Paperwork Burst"
+                "name": "Paperwork Burst",
+                "rawDescription": "Stuns enemies"
             }
         }
     },
@@ -104,7 +104,9 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": []
         }
     },
     "proxySkillIDs": [],

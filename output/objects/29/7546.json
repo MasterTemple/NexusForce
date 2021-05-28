@@ -45,8 +45,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 5 %(Description)Shoots a flaming arrow that does up to 5 damage over time",
                 "name": "Flaming Arrow 1",
+                "rawDescription": "%(DamageCombo) 5 %(Description)Shoots a flaming arrow that does up to 5 damage over time",
                 "damageCombo": " 5 ",
                 "Description": "Shoots a flaming arrow that does up to 5 damage over time"
             }
@@ -120,7 +120,17 @@
             "projectileDamageComboArray": [
                 1
             ],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                1
+            ],
+            "attackTypes": [
+                "Ranged",
+                "Area of Effect",
+                "Knockback",
+                "Interruption",
+                "Knockback"
+            ]
         }
     },
     "proxySkillIDs": [],

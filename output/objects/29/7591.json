@@ -65,7 +65,7 @@
             "defined_type": "Location",
             "defined_subtype": "Nimbus Station",
             "missionName": "Get your Assembly Gear!",
-            "missionDescription": "<font color='#FF7F00'>Talk to Meldric Steamvalve</font> in Nimbus Plaza and pick your first Specialty Kit!",
+            "missionDescription": "Talk to Meldric Steamvalve in Nimbus Plaza and pick your first Specialty Kit!",
             "isMission": 1,
             "rewardCount": 1
         }

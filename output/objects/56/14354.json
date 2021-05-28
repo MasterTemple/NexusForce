@@ -59,8 +59,7 @@
         "equipLocationNames": [
             "Torso"
         ],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {},
     "proxySkillIDs": [],

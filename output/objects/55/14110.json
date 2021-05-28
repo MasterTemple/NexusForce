@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 6 %(AltCombo) 16 %(Description)Drops a boulder on an enemy",
                 "name": "Earth Gravity Drop",
+                "rawDescription": "%(DamageCombo) 6 %(AltCombo) 16 %(Description)Drops a boulder on an enemy",
                 "damageCombo": " 6 %(AltCombo) 16 ",
                 "Description": "Drops a boulder on an enemy"
             }
@@ -86,12 +86,19 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                6,
+                16
+            ],
+            "attackTypes": [
+                "Interruption"
+            ]
         }
     },
     "proxySkillIDs": [],
     "proxySkills": {},
-    "iconURL": "bot/blob/master/src/unknown.png?raw=true",
+    "iconURL": "unknown",
     "buyAndDrop": {
         "LootTableIndexes": [],
         "LootMatrixIndexes": {},

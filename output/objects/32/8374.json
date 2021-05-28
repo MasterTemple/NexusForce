@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Tosses a firecracker that does 3 damage to enemies",
-                "name": "Throw Firecracker"
+                "name": "Throw Firecracker",
+                "rawDescription": "Tosses a firecracker that does 3 damage to enemies"
             }
         }
     },
@@ -61,8 +61,7 @@
         "commendationCurrencyType": null,
         "commendationCurrencyCost": null,
         "equipLocationNames": [],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {},
     "proxySkillIDs": [],

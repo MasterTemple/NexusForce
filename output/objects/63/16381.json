@@ -2,7 +2,7 @@
     "objectID": 16381,
     "itemInfo": {
         "name": "m4857",
-        "displayName": "Roof Tile 4x4/45Â° with Hinge",
+        "displayName": "Roof Tile 4x4/45° with Hinge",
         "type": "LEGO brick",
         "description": "",
         "internalNotes": ""
@@ -39,8 +39,7 @@
         "commendationCurrencyType": null,
         "commendationCurrencyCost": null,
         "equipLocationNames": [],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {},
     "proxySkillIDs": [],
@@ -83,7 +82,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.7143,
-                    "howManyToKill": 140
+                    "howManyToKill": 98
                 },
                 "LootTableIndexItems": 98,
                 "PackageComponent": {
@@ -92,7 +91,7 @@
                         "displayName": "Mega Brick Booster Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "577": {
                 "LootMatrixIndex": 577,
@@ -126,7 +125,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.7143,
-                    "howManyToKill": 140
+                    "howManyToKill": 98
                 },
                 "LootTableIndexItems": 98,
                 "PackageComponent": {},
@@ -166,7 +165,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.7143,
-                    "howManyToKill": 140
+                    "howManyToKill": 98
                 },
                 "LootTableIndexItems": 98,
                 "PackageComponent": {},
@@ -206,7 +205,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.7143,
-                    "howManyToKill": 140
+                    "howManyToKill": 98
                 },
                 "LootTableIndexItems": 98,
                 "PackageComponent": {},
@@ -246,7 +245,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.7143,
-                    "howManyToKill": 140
+                    "howManyToKill": 98
                 },
                 "LootTableIndexItems": 98,
                 "PackageComponent": {},
@@ -286,7 +285,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.7143,
-                    "howManyToKill": 140
+                    "howManyToKill": 98
                 },
                 "LootTableIndexItems": 98,
                 "PackageComponent": {},
@@ -320,7 +319,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0714,
-                    "howManyToKill": 1401
+                    "howManyToKill": 1372
                 },
                 "LootTableIndexItems": 98,
                 "PackageComponent": {},
@@ -367,7 +366,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.7143,
-                    "howManyToKill": 140
+                    "howManyToKill": 98
                 },
                 "LootTableIndexItems": 98,
                 "PackageComponent": {},
@@ -407,7 +406,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.7143,
-                    "howManyToKill": 140
+                    "howManyToKill": 98
                 },
                 "LootTableIndexItems": 98,
                 "PackageComponent": {},
@@ -447,7 +446,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.7143,
-                    "howManyToKill": 140
+                    "howManyToKill": 98
                 },
                 "LootTableIndexItems": 98,
                 "PackageComponent": {},
@@ -487,7 +486,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.7143,
-                    "howManyToKill": 140
+                    "howManyToKill": 98
                 },
                 "LootTableIndexItems": 98,
                 "PackageComponent": {},
@@ -527,7 +526,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.7143,
-                    "howManyToKill": 140
+                    "howManyToKill": 98
                 },
                 "LootTableIndexItems": 98,
                 "PackageComponent": {},

@@ -45,8 +45,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Boosts Armor of nearby characters by 4 for 60 seconds and angers enemies",
-                "name": "Strengthen Armor 2"
+                "name": "Strengthen Armor 2",
+                "rawDescription": "Boosts Armor of nearby characters by 4 for 60 seconds and angers enemies"
             }
         }
     },
@@ -110,7 +110,12 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": [
+                "Area of Effect",
+                "Area of Effect"
+            ]
         }
     },
     "proxySkillIDs": [],

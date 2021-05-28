@@ -43,8 +43,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Causes enemies to slip and stumble",
-                "name": "Oil Spray"
+                "name": "Oil Spray",
+                "rawDescription": "Causes enemies to slip and stumble"
             }
         }
     },
@@ -102,7 +102,11 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": [
+                "Interruption"
+            ]
         }
     },
     "proxySkillIDs": [],

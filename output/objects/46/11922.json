@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Read this book to learn the secrets of a Rank 1 Shinobi!",
-                "name": "Secrets of a Shinobi 1"
+                "name": "Secrets of a Shinobi 1",
+                "rawDescription": "Read this book to learn the secrets of a Rank 1 Shinobi!"
             }
         }
     },
@@ -116,7 +116,7 @@
                         "displayName": "Rank 1 Shinobi Kit Package"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 1+1+1 %(ChargeUp)Bees swarm enemies, doing up to 3 damage to them over time",
                 "name": "Basic Attack with Bees",
+                "rawDescription": "%(DamageCombo) 1+1+1 %(ChargeUp)Bees swarm enemies, doing up to 3 damage to them over time",
                 "damageCombo": " 1+1+1 ",
                 "ChargeUp": "Bees swarm enemies, doing up to 3 damage to them over time"
             }
@@ -93,6 +93,24 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 0,
+            "allDamage": [
+                1,
+                1,
+                1
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Knockback"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 1,
             "chargeUpCost": -2

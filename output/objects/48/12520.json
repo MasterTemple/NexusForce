@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Restores 11 Imagination to nearby characters",
-                "name": "Keyboard Riff"
+                "name": "Keyboard Riff",
+                "rawDescription": "Restores 11 Imagination to nearby characters"
             }
         }
     },

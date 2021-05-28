@@ -108,7 +108,7 @@
                         "displayName": "Best Buy Reward Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

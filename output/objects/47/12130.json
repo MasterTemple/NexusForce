@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 5 %(Description)Makes you rush forward, doing 5 damage and knocking down the enemy that you strike",
                 "name": "Shield Slam 1",
+                "rawDescription": "%(DamageCombo) 5 %(Description)Makes you rush forward, doing 5 damage and knocking down the enemy that you strike",
                 "damageCombo": " 5 ",
                 "Description": "Makes you rush forward, doing 5 damage and knocking down the enemy that you strike"
             }
@@ -68,8 +68,7 @@
         "equipLocationNames": [
             "Neck/Back"
         ],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {
         "4036": {
@@ -87,7 +86,13 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                5
+            ],
+            "attackTypes": [
+                "Interruption"
+            ]
         }
     },
     "proxySkillIDs": [],

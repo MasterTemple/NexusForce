@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Deploy this device to absorb Maelstrom energy",
-                "name": "Deploy Maelstrom Vacuum"
+                "name": "Deploy Maelstrom Vacuum",
+                "rawDescription": "Deploy this device to absorb Maelstrom energy"
             }
         }
     },
@@ -61,8 +61,7 @@
         "commendationCurrencyType": null,
         "commendationCurrencyCost": null,
         "equipLocationNames": [],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {},
     "proxySkillIDs": [],
@@ -82,7 +81,7 @@
             "defined_type": "Location",
             "defined_subtype": "Avant Gardens",
             "missionName": "Secrets of the Maelstrom",
-            "missionDescription": "Smash enemies and <font color='#FF7F00'>collect 15 Maelstrom-infected bricks</font>. Then take them back to <font color='#FF7F00'>Wisp Lee</font>.",
+            "missionDescription": "Smash enemies and collect 15 Maelstrom-infected bricks. Then take them back to Wisp Lee.",
             "isMission": 1,
             "rewardCount": 1
         }

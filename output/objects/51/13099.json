@@ -513,7 +513,7 @@
             "defined_type": "Hidden",
             "defined_subtype": "Hidden",
             "missionName": "Do the Monster Smash",
-            "missionDescription": "<font color='#FF7F00'>Smash 20 Stromlings</font> on the Avant Gardens battlefield.",
+            "missionDescription": "Smash 20 Stromlings on the Avant Gardens battlefield.",
             "isMission": 1,
             "rewardCount": 1
         },
@@ -521,7 +521,7 @@
             "defined_type": "Hidden",
             "defined_subtype": "Hidden",
             "missionName": "Web of Destruction",
-            "missionDescription": "<font color='#FF7F00'>Smash 10 Dark Spiderlings</font> in the Avant Gardens caves.",
+            "missionDescription": "Smash 10 Dark Spiderlings in the Avant Gardens caves.",
             "isMission": 1,
             "rewardCount": 1
         },

@@ -57,7 +57,7 @@
             "defined_type": "Location",
             "defined_subtype": "Avant Gardens",
             "missionName": "Lightning Strikes Twice",
-            "missionDescription": "<font color='#FF7F00'>Interact with the bricks</font> in the cage to use the Maelstrom Cube on them and repeat Wisp's experiment.",
+            "missionDescription": "Interact with the bricks in the cage to use the Maelstrom Cube on them and repeat Wisp's experiment.",
             "isMission": 1,
             "rewardCount": 1
         }

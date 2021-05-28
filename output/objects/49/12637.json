@@ -60,8 +60,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 3+4+4 %(ChargeUp)Does 12 damage to enemies",
                 "name": "Valiant Attack",
+                "rawDescription": "%(DamageCombo) 3+4+4 %(ChargeUp)Does 12 damage to enemies",
                 "damageCombo": " 3+4+4 ",
                 "ChargeUp": "Does 12 damage to enemies"
             }
@@ -84,8 +84,7 @@
         4245,
         4253,
         21267,
-        11183,
-        21294
+        11183
     ],
     "stats": {
         "armorBonusUI": 4,
@@ -153,35 +152,33 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 12,
+            "allDamage": [
+                1,
+                3,
+                3,
+                12,
+                4,
+                4
+            ],
+            "attackTypes": [
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Knockback"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 3,
             "chargeUpCost": -8
         }
     },
-    "proxySkillIDs": [
-        1016
-    ],
-    "proxySkills": {
-        "1016": {
-            "castOnType": 0,
-            "AICombatWeight": 0,
-            "behaviorID": 21294,
-            "imaginationcost": 11,
-            "cooldowngroup": 24,
-            "cooldown": 8.0,
-            "inNpcEditor": 0,
-            "skillIcon": 3646,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null,
-            "info": {
-                "rawDescription": "%(DamageCombo) 6 %(Description)Makes you charge forward, doing up to 30 damage over time and knocking down enemies",
-                "name": "Lance Lunge",
-                "damageCombo": " 6 ",
-                "Description": "Makes you charge forward, doing up to 30 damage over time and knocking down enemies"
-            }
-        }
-    },
+    "proxySkillIDs": [],
+    "proxySkills": {},
     "iconURL": "textures/auramar/ui/inventory/faction%20kits/fackit_knightvaliant_master.png",
     "buyAndDrop": {
         "LootTableIndexes": [

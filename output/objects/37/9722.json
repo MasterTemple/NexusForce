@@ -60,7 +60,7 @@
             "defined_type": "Location",
             "defined_subtype": "Avant Gardens",
             "missionName": "A Monumental View",
-            "missionDescription": "Climb up the Monument to reach the road and <font color='#FF7F00'>talk to Vector Longview</font>.",
+            "missionDescription": "Climb up the Monument to reach the road and talk to Vector Longview.",
             "isMission": 1,
             "rewardCount": 1
         }

@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Restores up to 10 Life, 30 Imagination and 20 Armor over time",
-                "name": "Eat Bento Blocks"
+                "name": "Eat Bento Blocks",
+                "rawDescription": "Restores up to 10 Life, 30 Imagination and 20 Armor over time"
             }
         }
     },
@@ -63,10 +63,7 @@
         "commendationCurrencyCost": null,
         "equipLocationNames": [],
         "isWeapon": false,
-        "levelRequirement": "15",
-        "preconditionDescriptions": {
-            "214": "You must be Level 15 or greater to use this item."
-        }
+        "levelRequirement": "15"
     },
     "overview": {},
     "proxySkillIDs": [],

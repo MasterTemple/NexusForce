@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 1+1+1 %(Description)Pokes enemies",
                 "name": "Basic Attack",
+                "rawDescription": "%(DamageCombo) 1+1+1 %(Description)Pokes enemies",
                 "damageCombo": " 1+1+1 ",
                 "Description": "Pokes enemies"
             }
@@ -86,6 +86,22 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 0,
+            "allDamage": [
+                1,
+                1
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Knockback"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 1
         }
@@ -107,7 +123,7 @@
             "defined_type": "Location",
             "defined_subtype": "Avant Gardens",
             "missionName": "Get Help!",
-            "missionDescription": "Find <font color='#FF7F00'>Epsilon Starcracker</font> in Avant Gardens.",
+            "missionDescription": "Find Epsilon Starcracker in Avant Gardens.",
             "isMission": 1,
             "rewardCount": 1
         }

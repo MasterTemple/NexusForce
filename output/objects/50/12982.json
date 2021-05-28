@@ -30,8 +30,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 2+2+3+4 %(ChargeUp)Fires a 10 damage projectile",
                 "name": "Cutlass and Pistol 3",
+                "rawDescription": "%(DamageCombo) 2+2+3+4 %(ChargeUp)Fires a 10 damage projectile",
                 "damageCombo": " 2+2+3+4 ",
                 "ChargeUp": "Fires a 10 damage projectile"
             }
@@ -52,8 +52,7 @@
     },
     "behaviorIDs": [
         9752,
-        11183,
-        11431
+        11183
     ],
     "stats": {
         "cooldown": 0.0,
@@ -120,6 +119,28 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 10,
+            "allDamage": [
+                1,
+                2,
+                2,
+                2,
+                3,
+                4,
+                10
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Interruption",
+                "Knockback",
+                "Ranged",
+                "Knockback",
+                "Interruption"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 2,
             "chargeUpCost": -6,
@@ -127,28 +148,8 @@
             "projectileChargeUpDamage": 10
         }
     },
-    "proxySkillIDs": [
-        697
-    ],
-    "proxySkills": {
-        "697": {
-            "castOnType": 0,
-            "AICombatWeight": 0,
-            "behaviorID": 11431,
-            "imaginationcost": 8,
-            "cooldowngroup": 24,
-            "cooldown": 30.0,
-            "inNpcEditor": 0,
-            "skillIcon": 3464,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null,
-            "info": {
-                "rawDescription": "Gives a speed boost for 15 seconds that knocks down enemies",
-                "name": "Full Steam Ahead 3"
-            }
-        }
-    },
+    "proxySkillIDs": [],
+    "proxySkills": {},
     "iconURL": "textures/auramar/ui/inventory/faction%20kits/buccaneer__swordgun_3_variant.png",
     "buyAndDrop": {
         "LootTableIndexes": [

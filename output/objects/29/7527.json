@@ -58,8 +58,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 2+2+3 %(ChargeUp)Restores up to 6 Armor to nearby characters - charge longer for more Armor",
                 "name": "Improvised Launcher 2",
+                "rawDescription": "%(DamageCombo) 2+2+3 %(ChargeUp)Restores up to 6 Armor to nearby characters - charge longer for more Armor",
                 "damageCombo": " 2+2+3 ",
                 "ChargeUp": "Restores up to 6 Armor to nearby characters - charge longer for more Armor"
             }
@@ -82,8 +82,7 @@
         4241,
         4251,
         22830,
-        11860,
-        23043
+        11860
     ],
     "stats": {
         "armorBonusUI": 1,
@@ -159,35 +158,35 @@
                 2,
                 3
             ],
+            "allDamage": [
+                1,
+                2,
+                2,
+                3
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Ranged",
+                "Area of Effect",
+                "Interruption",
+                "Area of Effect",
+                "Ranged",
+                "Ranged",
+                "Interruption",
+                "Interruption"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 2,
             "projectileChargeUpLOT": 12821
         }
     },
-    "proxySkillIDs": [
-        1048
-    ],
-    "proxySkills": {
-        "1048": {
-            "castOnType": 0,
-            "AICombatWeight": 0,
-            "behaviorID": 23043,
-            "imaginationcost": 5,
-            "cooldowngroup": 24,
-            "cooldown": 6.0,
-            "inNpcEditor": 0,
-            "skillIcon": 4494,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null,
-            "info": {
-                "rawDescription": "%(DamageCombo) 6 %(Description)Launches a mass of bees at your enemies that deal damage over time",
-                "name": "Beehive Surprise 1",
-                "damageCombo": " 6 ",
-                "Description": "Launches a mass of bees at your enemies that deal damage over time"
-            }
-        }
-    },
+    "proxySkillIDs": [],
+    "proxySkills": {},
     "iconURL": "textures/freetrial/ui/inventory/factionkits/inventor2_gun.png",
     "buyAndDrop": {
         "LootTableIndexes": [

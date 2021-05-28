@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Summons a Ninja dog that assists you in battle",
-                "name": "Summon Ninjago Hound"
+                "name": "Summon Ninjago Hound",
+                "rawDescription": "Summons a Ninja dog that assists you in battle"
             }
         }
     },
@@ -65,10 +65,7 @@
         "isWeapon": false,
         "levelRequirement": "10",
         "commendationCurrencyName": "Faction Token Proxy",
-        "commendationCurrencyDisplayName": "Faction Token",
-        "preconditionDescriptions": {
-            "248": "You must be Level 10 or greater to use this item."
-        }
+        "commendationCurrencyDisplayName": "Faction Token"
     },
     "overview": {},
     "proxySkillIDs": [],

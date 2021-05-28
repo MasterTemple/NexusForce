@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 9 %(Description)Drops an exploding piano that does 9 damage to an enemy",
                 "name": "Radio For Assistance",
+                "rawDescription": "%(DamageCombo) 9 %(Description)Drops an exploding piano that does 9 damage to an enemy",
                 "damageCombo": " 9 ",
                 "Description": "Drops an exploding piano that does 9 damage to an enemy"
             }
@@ -90,7 +90,14 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                9
+            ],
+            "attackTypes": [
+                "Interruption",
+                "Area of Effect"
+            ]
         }
     },
     "proxySkillIDs": [],

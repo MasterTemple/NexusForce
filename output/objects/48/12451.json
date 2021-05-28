@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Restores 11 Armor to nearby characters",
-                "name": "Bass Riff"
+                "name": "Bass Riff",
+                "rawDescription": "Restores 11 Armor to nearby characters"
             }
         }
     },

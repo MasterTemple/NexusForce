@@ -128,7 +128,7 @@
                         "displayName": "Beta Testing Gear Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

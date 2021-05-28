@@ -63,10 +63,7 @@
     "behaviorIDs": [
         4263,
         38555,
-        38568,
-        15494,
-        38848,
-        11454
+        38568
     ],
     "stats": {
         "lifeBonusUI": 4,
@@ -116,62 +113,8 @@
         "levelRequirement": 0
     },
     "overview": {},
-    "proxySkillIDs": [
-        828,
-        1630,
-        700
-    ],
-    "proxySkills": {
-        "828": {
-            "castOnType": 1,
-            "AICombatWeight": 0,
-            "behaviorID": 15494,
-            "imaginationcost": 0,
-            "cooldowngroup": 29,
-            "cooldown": 30.0,
-            "inNpcEditor": 0,
-            "skillIcon": 0,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null
-        },
-        "1630": {
-            "castOnType": 0,
-            "AICombatWeight": 0,
-            "behaviorID": 38848,
-            "imaginationcost": 0,
-            "cooldowngroup": 1,
-            "cooldown": 0.0,
-            "inNpcEditor": 0,
-            "skillIcon": 3344,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null,
-            "info": {
-                "rawDescription": "%(DamageCombo) 4+4+6+6 %(ChargeUp)Fires a 4 damage projectile",
-                "name": "Rental Flare Guns",
-                "damageCombo": " 4+4+6+6 ",
-                "ChargeUp": "Fires a 4 damage projectile"
-            }
-        },
-        "700": {
-            "castOnType": 0,
-            "AICombatWeight": 0,
-            "behaviorID": 11454,
-            "imaginationcost": 7,
-            "cooldowngroup": 24,
-            "cooldown": 30.0,
-            "inNpcEditor": 0,
-            "skillIcon": 3476,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null,
-            "info": {
-                "rawDescription": "Gives a speed boost for 12 seconds that does 4 damage over time",
-                "name": "Fig on Fire 2"
-            }
-        }
-    },
+    "proxySkillIDs": [],
+    "proxySkills": {},
     "iconURL": "textures/freetrial/ui/inventory/icons/daredevil_kit.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
@@ -187,7 +130,7 @@
             "defined_type": "Location",
             "defined_subtype": "Avant Gardens",
             "missionName": "Back-up Bulwark!",
-            "missionDescription": "<font color='#FF7F00'>Fly to the Block Yard Property</font> and provide back-up for <font color='#FF7F00'>Vance Bulwark</font>.",
+            "missionDescription": "Fly to the Block Yard Property and provide back-up for Vance Bulwark.",
             "isMission": 1,
             "rewardCount": 0
         },
@@ -195,7 +138,7 @@
             "defined_type": "Location",
             "defined_subtype": "Avant Gardens",
             "missionName": "Agent Foxtrot",
-            "missionDescription": "Report to <font color='#FF7F00'>Melodie Foxtrot</font> by the caves behind the Paradox Lab in Avant Gardens to <font color='#FF7F00'>borrow Faction Gear</font>.",
+            "missionDescription": "Report to Melodie Foxtrot by the caves behind the Paradox Lab in Avant Gardens to borrow Faction Gear.",
             "isMission": 1,
             "rewardCount": 0
         }

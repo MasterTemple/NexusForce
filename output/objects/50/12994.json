@@ -30,8 +30,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 2+2+3+4 %(ChargeUp)Fires a 5 damage projectile",
                 "name": "Flare Guns 3",
+                "rawDescription": "%(DamageCombo) 2+2+3+4 %(ChargeUp)Fires a 5 damage projectile",
                 "damageCombo": " 2+2+3+4 ",
                 "ChargeUp": "Fires a 5 damage projectile"
             }
@@ -52,8 +52,7 @@
     },
     "behaviorIDs": [
         10884,
-        11183,
-        11467
+        11183
     ],
     "stats": {
         "cooldown": 0.0,
@@ -120,6 +119,28 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 1,
+            "allDamage": [
+                1,
+                1,
+                2,
+                2,
+                3,
+                4,
+                1
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Interruption",
+                "Knockback",
+                "Ranged",
+                "Knockback",
+                "Area of Effect"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 1,
             "chargeUpCost": -6,
@@ -127,28 +148,8 @@
             "projectileChargeUpDamage": 1
         }
     },
-    "proxySkillIDs": [
-        701
-    ],
-    "proxySkills": {
-        "701": {
-            "castOnType": 0,
-            "AICombatWeight": 0,
-            "behaviorID": 11467,
-            "imaginationcost": 8,
-            "cooldowngroup": 24,
-            "cooldown": 30.0,
-            "inNpcEditor": 0,
-            "skillIcon": 3477,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null,
-            "info": {
-                "rawDescription": "Gives a speed boost for 15 seconds that does 5 damage over time",
-                "name": "Fig on Fire 3"
-            }
-        }
-    },
+    "proxySkillIDs": [],
+    "proxySkills": {},
     "iconURL": "textures/auramar/ui/inventory/faction%20kits/daredevil_gun_3_variant.png",
     "buyAndDrop": {
         "LootTableIndexes": [

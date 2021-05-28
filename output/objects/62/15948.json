@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 4 %(AltCombo) 18 %(Description)Sends a wave of energy that cuts through enemies",
                 "name": "Ninjago Katana Strike",
+                "rawDescription": "%(DamageCombo) 4 %(AltCombo) 18 %(Description)Sends a wave of energy that cuts through enemies",
                 "damageCombo": " 4 %(AltCombo) 18 ",
                 "Description": "Sends a wave of energy that cuts through enemies"
             }
@@ -68,8 +68,7 @@
         "equipLocationNames": [
             "Neck/Back"
         ],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {
         "36653": {
@@ -88,7 +87,14 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                4,
+                18
+            ],
+            "attackTypes": [
+                "Interruption"
+            ]
         }
     },
     "proxySkillIDs": [],

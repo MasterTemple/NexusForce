@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Shields you from up to 10 damage for 30 seconds",
-                "name": "Shielding 2"
+                "name": "Shielding 2",
+                "rawDescription": "Shields you from up to 10 damage for 30 seconds"
             }
         }
     },
@@ -66,8 +66,7 @@
         "equipLocationNames": [
             "Left Hand"
         ],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {
         "17567": {
@@ -83,7 +82,9 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": []
         }
     },
     "proxySkillIDs": [],

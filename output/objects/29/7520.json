@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 1+2+2 %(ChargeUp)Restores 2 Imagination for nearby characters",
                 "name": "Blaster Master 1",
+                "rawDescription": "%(DamageCombo) 1+2+2 %(ChargeUp)Restores 2 Imagination for nearby characters",
                 "damageCombo": " 1+2+2 ",
                 "ChargeUp": "Restores 2 Imagination for nearby characters"
             }
@@ -100,6 +100,23 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
+            "allDamage": [
+                1,
+                1,
+                1,
+                2,
+                2
+            ],
+            "attackTypes": [
+                "Knockback",
+                "Interruption",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Interruption",
+                "Knockback",
+                "Area of Effect"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 1
         }
@@ -149,7 +166,7 @@
                         "displayName": "Rank 1 Space Marauder Kit Package"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

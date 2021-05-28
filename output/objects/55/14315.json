@@ -63,10 +63,7 @@
     "behaviorIDs": [
         4258,
         4263,
-        38559,
-        15493,
-        38610,
-        4036
+        38559
     ],
     "stats": {
         "imBonusUI": 8,
@@ -116,64 +113,8 @@
         "levelRequirement": 0
     },
     "overview": {},
-    "proxySkillIDs": [
-        827,
-        1628,
-        342
-    ],
-    "proxySkills": {
-        "827": {
-            "castOnType": 1,
-            "AICombatWeight": 0,
-            "behaviorID": 15493,
-            "imaginationcost": 0,
-            "cooldowngroup": 29,
-            "cooldown": 30.0,
-            "inNpcEditor": 0,
-            "skillIcon": 0,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null
-        },
-        "1628": {
-            "castOnType": 0,
-            "AICombatWeight": 0,
-            "behaviorID": 38610,
-            "imaginationcost": 0,
-            "cooldowngroup": 1,
-            "cooldown": 0.0,
-            "inNpcEditor": 0,
-            "skillIcon": 3486,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null,
-            "info": {
-                "rawDescription": "%(DamageCombo) 4+4+6 %(ChargeUp)Blocks 6 attacks while charged",
-                "name": "Rental Knights Blade",
-                "damageCombo": " 4+4+6 ",
-                "ChargeUp": "Blocks 6 attacks while charged"
-            }
-        },
-        "342": {
-            "castOnType": 0,
-            "AICombatWeight": 0,
-            "behaviorID": 4036,
-            "imaginationcost": 4,
-            "cooldowngroup": 24,
-            "cooldown": 7.0,
-            "inNpcEditor": 0,
-            "skillIcon": 3320,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null,
-            "info": {
-                "rawDescription": "%(DamageCombo) 5 %(Description)Makes you rush forward, doing 5 damage and knocking down the enemy that you strike",
-                "name": "Shield Slam 1",
-                "damageCombo": " 5 ",
-                "Description": "Makes you rush forward, doing 5 damage and knocking down the enemy that you strike"
-            }
-        }
-    },
+    "proxySkillIDs": [],
+    "proxySkills": {},
     "iconURL": "textures/freetrial/ui/inventory/icons/knight_kit.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
@@ -189,7 +130,7 @@
             "defined_type": "Location",
             "defined_subtype": "Avant Gardens",
             "missionName": "Back-up Bulwark!",
-            "missionDescription": "<font color='#FF7F00'>Fly to the Block Yard Property</font> and provide back-up for <font color='#FF7F00'>Vance Bulwark</font>.",
+            "missionDescription": "Fly to the Block Yard Property and provide back-up for Vance Bulwark.",
             "isMission": 1,
             "rewardCount": 0
         },
@@ -197,7 +138,7 @@
             "defined_type": "Location",
             "defined_subtype": "Avant Gardens",
             "missionName": "Agent Foxtrot",
-            "missionDescription": "Report to <font color='#FF7F00'>Melodie Foxtrot</font> by the caves behind the Paradox Lab in Avant Gardens to <font color='#FF7F00'>borrow Faction Gear</font>.",
+            "missionDescription": "Report to Melodie Foxtrot by the caves behind the Paradox Lab in Avant Gardens to borrow Faction Gear.",
             "isMission": 1,
             "rewardCount": 0
         }

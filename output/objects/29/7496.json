@@ -135,7 +135,7 @@
                         "displayName": "Rank 1 Space Marauder Kit Package"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

@@ -30,8 +30,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 2+2+2 %(AltCombo) 7+8+10 %(ChargeUp)Turns you into a whirlwind that stuns enemies - release to set enemies ablaze for 5 damage to normal enemies or 16 damage to Skeletons",
                 "name": "Fire Spinjitzu Attack",
+                "rawDescription": "%(DamageCombo) 2+2+2 %(AltCombo) 7+8+10 %(ChargeUp)Turns you into a whirlwind that stuns enemies - release to set enemies ablaze for 5 damage to normal enemies or 16 damage to Skeletons",
                 "damageCombo": " 2+2+2 %(AltCombo) 7+8+10 ",
                 "ChargeUp": "Turns you into a whirlwind that stuns enemies - release to set enemies ablaze for 5 damage to normal enemies or 16 damage to Skeletons"
             }
@@ -52,8 +52,7 @@
     },
     "behaviorIDs": [
         38113,
-        11860,
-        38358
+        11860
     ],
     "stats": {
         "cooldown": 0.4,
@@ -90,8 +89,7 @@
         ],
         "isWeapon": true,
         "commendationCurrencyName": "Faction Token Proxy",
-        "commendationCurrencyDisplayName": "Faction Token",
-        "preconditionDescriptions": {}
+        "commendationCurrencyDisplayName": "Faction Token"
     },
     "overview": {
         "38113": {
@@ -116,35 +114,42 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 0,
+            "allDamage": [
+                1,
+                4,
+                1,
+                6,
+                1,
+                2,
+                7,
+                2,
+                8,
+                2,
+                10
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Area of Effect",
+                "Interruption",
+                "Interruption",
+                "Area of Effect",
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Knockback"
+            ],
             "doubleJumpSmash": 4,
             "singleJumpSmash": 6,
             "chargeUpCost": -2
         }
     },
-    "proxySkillIDs": [
-        1575
-    ],
-    "proxySkills": {
-        "1575": {
-            "castOnType": 0,
-            "AICombatWeight": null,
-            "behaviorID": 38358,
-            "imaginationcost": 4,
-            "cooldowngroup": 24,
-            "cooldown": 7.0,
-            "inNpcEditor": 0,
-            "skillIcon": 4710,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null,
-            "info": {
-                "rawDescription": "%(DamageCombo) 4 %(AltCombo) 21 %(Description)Pulls an enemy to you",
-                "name": "Fire Spinjitzu Back Draft",
-                "damageCombo": " 4 %(AltCombo) 21 ",
-                "Description": "Pulls an enemy to you"
-            }
-        }
-    },
+    "proxySkillIDs": [],
+    "proxySkills": {},
     "iconURL": "textures/ng_ninjago/ui/inventory/hands/golden_sword_icon.png",
     "buyAndDrop": {
         "LootTableIndexes": [

@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Read this book to learn the secrets of a Rank 2 Sorcerer and unlock an Imagination Point!",
-                "name": "Secrets of a Sorcerer 2"
+                "name": "Secrets of a Sorcerer 2",
+                "rawDescription": "Read this book to learn the secrets of a Rank 2 Sorcerer and unlock an Imagination Point!"
             }
         }
     },

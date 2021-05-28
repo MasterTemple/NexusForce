@@ -118,7 +118,7 @@
                         "displayName": "Rank 1 Adventurer Kit Package"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

@@ -107,7 +107,7 @@
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "217": {
                 "LootMatrixIndex": 217,
@@ -161,11 +161,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.015,
-                    "howManyToKill": 6667
+                    "howManyToKill": 6700
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "218": {
                 "LootMatrixIndex": 218,
@@ -219,11 +219,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.4,
-                    "howManyToKill": 250
+                    "howManyToKill": 200
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "309": {
                 "LootMatrixIndex": 309,
@@ -269,7 +269,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.35000000000000003,
-                    "howManyToKill": 286
+                    "howManyToKill": 300
                 },
                 "LootTableIndexItems": 36,
                 "PackageComponent": {},
@@ -382,11 +382,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.015,
-                    "howManyToKill": 6667
+                    "howManyToKill": 6700
                 },
                 "LootTableIndexItems": 36,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "348": {
                 "LootMatrixIndex": 348,
@@ -444,7 +444,7 @@
                 },
                 "LootTableIndexItems": 36,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "393": {
                 "LootMatrixIndex": 393,
@@ -542,7 +542,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.75,
-                    "howManyToKill": 133
+                    "howManyToKill": 100
                 },
                 "LootTableIndexItems": 36,
                 "PackageComponent": {},
@@ -845,7 +845,7 @@
                         "displayName": "Beta Testing Gear Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "483": {
                 "LootMatrixIndex": 483,
@@ -891,7 +891,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.7000000000000001,
-                    "howManyToKill": 143
+                    "howManyToKill": 100
                 },
                 "LootTableIndexItems": 36,
                 "PackageComponent": {},
@@ -943,7 +943,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.7000000000000001,
-                    "howManyToKill": 143
+                    "howManyToKill": 100
                 },
                 "LootTableIndexItems": 36,
                 "PackageComponent": {},
@@ -995,7 +995,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.7000000000000001,
-                    "howManyToKill": 143
+                    "howManyToKill": 100
                 },
                 "LootTableIndexItems": 36,
                 "PackageComponent": {},
@@ -1047,7 +1047,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.35000000000000003,
-                    "howManyToKill": 286
+                    "howManyToKill": 300
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
@@ -1151,7 +1151,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.75,
-                    "howManyToKill": 133
+                    "howManyToKill": 100
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
@@ -1475,7 +1475,7 @@
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "621": {
                 "LootMatrixIndex": 621,
@@ -1533,7 +1533,7 @@
                 },
                 "LootTableIndexItems": 36,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "656": {
                 "LootMatrixIndex": 656,
@@ -1570,7 +1570,7 @@
                         "displayName": "Nexus Force Supply Crate"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "662": {
                 "LootMatrixIndex": 662,
@@ -1607,7 +1607,7 @@
                         "displayName": "Premium Surprise Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "665": {
                 "LootMatrixIndex": 665,
@@ -1662,7 +1662,7 @@
                         "displayName": "Quality Surprise Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "666": {
                 "LootMatrixIndex": 666,
@@ -1717,7 +1717,7 @@
                         "displayName": "Superior Surprise Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "668": {
                 "LootMatrixIndex": 668,
@@ -1751,7 +1751,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 15.0,
-                    "howManyToKill": 7
+                    "howManyToKill": 6
                 },
                 "LootTableIndexItems": 3,
                 "PackageComponent": {
@@ -1760,7 +1760,7 @@
                         "displayName": "Premium Gem Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "669": {
                 "LootMatrixIndex": 669,
@@ -1803,7 +1803,7 @@
                         "displayName": "Gem Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "671": {
                 "LootMatrixIndex": 671,
@@ -1846,7 +1846,7 @@
                         "displayName": "Quality Gem Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "672": {
                 "LootMatrixIndex": 672,
@@ -1889,7 +1889,7 @@
                         "displayName": "Superior Gem Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

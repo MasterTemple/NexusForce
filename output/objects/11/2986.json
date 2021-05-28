@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Makes you play a funky tune that restores 6 Imagination",
-                "name": "Funky Music"
+                "name": "Funky Music",
+                "rawDescription": "Makes you play a funky tune that restores 6 Imagination"
             }
         }
     },

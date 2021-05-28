@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 2+2+3 %(ChargeUp)Slows enemies",
                 "name": "Great Attack with Freezing",
+                "rawDescription": "%(DamageCombo) 2+2+3 %(ChargeUp)Slows enemies",
                 "damageCombo": " 2+2+3 ",
                 "ChargeUp": "Slows enemies"
             }
@@ -95,6 +95,27 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 2,
+            "allDamage": [
+                1,
+                2,
+                2,
+                2,
+                2,
+                3
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Knockback",
+                "Knockback"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 2,
             "chargeUpCost": -2

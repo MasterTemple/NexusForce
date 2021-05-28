@@ -2,7 +2,7 @@
     "objectID": 16509,
     "itemInfo": {
         "name": "m87781",
-        "displayName": "Helmet with Ã˜3.2 Shaft at Front",
+        "displayName": "Helmet with Ø3.2 Shaft at Front",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -89,11 +89,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0046,
-                    "howManyToKill": 21739
+                    "howManyToKill": 15350
                 },
                 "LootTableIndexItems": 307,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "217": {
                 "LootMatrixIndex": 217,
@@ -141,11 +141,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0059,
-                    "howManyToKill": 16949
+                    "howManyToKill": 20262
                 },
                 "LootTableIndexItems": 307,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "218": {
                 "LootMatrixIndex": 218,
@@ -193,11 +193,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0059,
-                    "howManyToKill": 16949
+                    "howManyToKill": 20262
                 },
                 "LootTableIndexItems": 307,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "395": {
                 "LootMatrixIndex": 395,
@@ -231,7 +231,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.22799999999999998,
-                    "howManyToKill": 439
+                    "howManyToKill": 307
                 },
                 "LootTableIndexItems": 307,
                 "PackageComponent": {},
@@ -271,7 +271,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.22799999999999998,
-                    "howManyToKill": 439
+                    "howManyToKill": 307
                 },
                 "LootTableIndexItems": 307,
                 "PackageComponent": {},
@@ -311,7 +311,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.22799999999999998,
-                    "howManyToKill": 439
+                    "howManyToKill": 307
                 },
                 "LootTableIndexItems": 307,
                 "PackageComponent": {
@@ -320,7 +320,7 @@
                         "displayName": "Mega Brick Booster Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "566": {
                 "LootMatrixIndex": 566,
@@ -354,7 +354,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.22799999999999998,
-                    "howManyToKill": 439
+                    "howManyToKill": 307
                 },
                 "LootTableIndexItems": 307,
                 "PackageComponent": {},
@@ -394,7 +394,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.22799999999999998,
-                    "howManyToKill": 439
+                    "howManyToKill": 307
                 },
                 "LootTableIndexItems": 307,
                 "PackageComponent": {},
@@ -434,7 +434,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.22799999999999998,
-                    "howManyToKill": 439
+                    "howManyToKill": 307
                 },
                 "LootTableIndexItems": 307,
                 "PackageComponent": {},
@@ -474,7 +474,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.22799999999999998,
-                    "howManyToKill": 439
+                    "howManyToKill": 307
                 },
                 "LootTableIndexItems": 307,
                 "PackageComponent": {},
@@ -514,7 +514,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.22799999999999998,
-                    "howManyToKill": 439
+                    "howManyToKill": 307
                 },
                 "LootTableIndexItems": 307,
                 "PackageComponent": {},
@@ -554,7 +554,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.22799999999999998,
-                    "howManyToKill": 439
+                    "howManyToKill": 307
                 },
                 "LootTableIndexItems": 307,
                 "PackageComponent": {},
@@ -606,7 +606,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.2443,
-                    "howManyToKill": 409
+                    "howManyToKill": 307
                 },
                 "LootTableIndexItems": 307,
                 "PackageComponent": {},
@@ -658,7 +658,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.2443,
-                    "howManyToKill": 409
+                    "howManyToKill": 307
                 },
                 "LootTableIndexItems": 307,
                 "PackageComponent": {},

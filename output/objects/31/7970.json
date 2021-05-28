@@ -1,8 +1,8 @@
 {
     "objectID": 7970,
     "itemInfo": {
-        "name": "Test UGC Model - CafÃ© Corner",
-        "displayName": "Test UGC Model - CafÃ© Corner",
+        "name": "Test UGC Model - Café Corner",
+        "displayName": "Test UGC Model - Café Corner",
         "type": "Loot",
         "description": "For testing only",
         "internalNotes": "For testing only"
@@ -40,8 +40,7 @@
         "commendationCurrencyType": null,
         "commendationCurrencyCost": null,
         "equipLocationNames": [],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {},
     "proxySkillIDs": [],

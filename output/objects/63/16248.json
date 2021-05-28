@@ -42,8 +42,7 @@
         "equipLocationNames": [],
         "isWeapon": false,
         "commendationCurrencyName": "Faction Token Proxy",
-        "commendationCurrencyDisplayName": "Faction Token",
-        "preconditionDescriptions": {}
+        "commendationCurrencyDisplayName": "Faction Token"
     },
     "overview": {},
     "proxySkillIDs": [],
@@ -63,7 +62,7 @@
             "defined_type": "Location",
             "defined_subtype": "Avant Gardens",
             "missionName": "Stake a Claim",
-            "missionDescription": "<font color='#FF7F00'>Interact with the Property Console</font> to claim this Block Yard Property.",
+            "missionDescription": "Interact with the Property Console to claim this Block Yard Property.",
             "isMission": 1,
             "rewardCount": 1
         }

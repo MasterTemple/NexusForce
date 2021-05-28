@@ -45,8 +45,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Creates a Thwok that assists you in battle",
-                "name": "Summon Thwok 1"
+                "name": "Summon Thwok 1",
+                "rawDescription": "Creates a Thwok that assists you in battle"
             }
         }
     },
@@ -110,7 +110,9 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": []
         }
     },
     "proxySkillIDs": [],

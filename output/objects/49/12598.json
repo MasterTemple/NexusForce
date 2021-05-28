@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 20 %(Description)Makes you rush forward, doing 20 damage and knocking down the enemy that you strike",
                 "name": "Broom Boost",
+                "rawDescription": "%(DamageCombo) 20 %(Description)Makes you rush forward, doing 20 damage and knocking down the enemy that you strike",
                 "damageCombo": " 20 ",
                 "Description": "Makes you rush forward, doing 20 damage and knocking down the enemy that you strike"
             }

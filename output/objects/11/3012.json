@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 3 %(Description)Breath a cone of flame that does 3 damage to enemies",
                 "name": "Fire Breath",
+                "rawDescription": "%(DamageCombo) 3 %(Description)Breath a cone of flame that does 3 damage to enemies",
                 "damageCombo": " 3 ",
                 "Description": "Breath a cone of flame that does 3 damage to enemies"
             }

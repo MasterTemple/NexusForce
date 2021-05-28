@@ -57,8 +57,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Sticks an enemy's feet to the ground",
-                "name": "Entrapment"
+                "name": "Entrapment",
+                "rawDescription": "Sticks an enemy's feet to the ground"
             }
         }
     },
@@ -120,7 +120,9 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": []
         }
     },
     "proxySkillIDs": [],

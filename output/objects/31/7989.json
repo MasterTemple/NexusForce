@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Rolls a 6-sided die",
-                "name": "Roll the Dice"
+                "name": "Roll the Dice",
+                "rawDescription": "Rolls a 6-sided die"
             }
         }
     },

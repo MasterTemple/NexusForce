@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 3 %(Description)Does 3 damage and knocks back enemies",
                 "name": "Repulsion Wand",
+                "rawDescription": "%(DamageCombo) 3 %(Description)Does 3 damage and knocks back enemies",
                 "damageCombo": " 3 ",
                 "Description": "Does 3 damage and knocks back enemies"
             }
@@ -91,6 +91,21 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 0,
+            "allDamage": [
+                2,
+                3,
+                3
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Interruption",
+                "Knockback"
+            ],
             "doubleJumpSmash": 2,
             "singleJumpSmash": 3
         }

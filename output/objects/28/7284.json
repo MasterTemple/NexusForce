@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 3+3+3 %(ChargeUp)Knocks down enemies",
                 "name": "Elite Attack with Knockdown",
+                "rawDescription": "%(DamageCombo) 3+3+3 %(ChargeUp)Knocks down enemies",
                 "damageCombo": " 3+3+3 ",
                 "ChargeUp": "Knocks down enemies"
             }
@@ -93,6 +93,26 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 0,
+            "allDamage": [
+                2,
+                3,
+                3,
+                3,
+                3
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Knockback"
+            ],
             "doubleJumpSmash": 2,
             "singleJumpSmash": 3,
             "chargeUpCost": -1
@@ -211,11 +231,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.004699999999999999,
-                    "howManyToKill": 21277
+                    "howManyToKill": 21450
                 },
                 "LootTableIndexItems": 27,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "348": {
                 "LootMatrixIndex": 348,
@@ -269,11 +289,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0023,
-                    "howManyToKill": 43478
+                    "howManyToKill": 42900
                 },
                 "LootTableIndexItems": 27,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "393": {
                 "LootMatrixIndex": 393,
@@ -767,7 +787,7 @@
                 },
                 "LootTableIndexItems": 27,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "666": {
                 "LootMatrixIndex": 666,
@@ -813,7 +833,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.5333,
-                    "howManyToKill": 188
+                    "howManyToKill": 150
                 },
                 "LootTableIndexItems": 27,
                 "PackageComponent": {
@@ -822,7 +842,7 @@
                         "displayName": "Superior Surprise Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

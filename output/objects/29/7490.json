@@ -120,7 +120,7 @@
                         "displayName": "Rank 1 Space Ranger Kit Package"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

@@ -40,8 +40,7 @@
         "commendationCurrencyType": null,
         "commendationCurrencyCost": null,
         "equipLocationNames": [],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {},
     "proxySkillIDs": [],
@@ -98,7 +97,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.8,
-                    "howManyToKill": 125
+                    "howManyToKill": 120
                 },
                 "LootTableIndexItems": 30,
                 "PackageComponent": {},
@@ -151,7 +150,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.6,
-                    "howManyToKill": 62
+                    "howManyToKill": 48
                 },
                 "LootTableIndexItems": 30,
                 "PackageComponent": {},
@@ -203,7 +202,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 3.2,
-                    "howManyToKill": 31
+                    "howManyToKill": 24
                 },
                 "LootTableIndexItems": 30,
                 "PackageComponent": {},
@@ -255,7 +254,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 4.0,
-                    "howManyToKill": 25
+                    "howManyToKill": 24
                 },
                 "LootTableIndexItems": 30,
                 "PackageComponent": {},
@@ -307,7 +306,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.2,
-                    "howManyToKill": 500
+                    "howManyToKill": 480
                 },
                 "LootTableIndexItems": 30,
                 "PackageComponent": {},
@@ -359,7 +358,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.4,
-                    "howManyToKill": 250
+                    "howManyToKill": 240
                 },
                 "LootTableIndexItems": 30,
                 "PackageComponent": {},
@@ -411,7 +410,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.6,
-                    "howManyToKill": 167
+                    "howManyToKill": 168
                 },
                 "LootTableIndexItems": 30,
                 "PackageComponent": {},
@@ -463,7 +462,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.0,
-                    "howManyToKill": 100
+                    "howManyToKill": 96
                 },
                 "LootTableIndexItems": 30,
                 "PackageComponent": {},
@@ -515,7 +514,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.0,
-                    "howManyToKill": 50
+                    "howManyToKill": 48
                 },
                 "LootTableIndexItems": 30,
                 "PackageComponent": {},
@@ -567,7 +566,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 3.2,
-                    "howManyToKill": 31
+                    "howManyToKill": 24
                 },
                 "LootTableIndexItems": 30,
                 "PackageComponent": {},
@@ -619,7 +618,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 4.0,
-                    "howManyToKill": 25
+                    "howManyToKill": 24
                 },
                 "LootTableIndexItems": 30,
                 "PackageComponent": {},
@@ -671,7 +670,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 4.0,
-                    "howManyToKill": 25
+                    "howManyToKill": 24
                 },
                 "LootTableIndexItems": 30,
                 "PackageComponent": {},
@@ -723,7 +722,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.00039999999999999996,
-                    "howManyToKill": 250000
+                    "howManyToKill": 240000
                 },
                 "LootTableIndexItems": 30,
                 "PackageComponent": {},
@@ -782,7 +781,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.0,
-                    "howManyToKill": 50
+                    "howManyToKill": 48
                 },
                 "LootTableIndexItems": 30,
                 "PackageComponent": {
@@ -791,7 +790,7 @@
                         "displayName": "Surprise Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "705": {
                 "LootMatrixIndex": 705,
@@ -834,7 +833,7 @@
                         "displayName": "Surprise Model Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "719": {
                 "LootMatrixIndex": 719,
@@ -880,7 +879,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.22,
-                    "howManyToKill": 455
+                    "howManyToKill": 432
                 },
                 "LootTableIndexItems": 30,
                 "PackageComponent": {},
@@ -932,7 +931,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.6,
-                    "howManyToKill": 167
+                    "howManyToKill": 168
                 },
                 "LootTableIndexItems": 30,
                 "PackageComponent": {},
@@ -984,7 +983,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.62,
-                    "howManyToKill": 161
+                    "howManyToKill": 144
                 },
                 "LootTableIndexItems": 30,
                 "PackageComponent": {},
@@ -1036,7 +1035,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.02,
-                    "howManyToKill": 98
+                    "howManyToKill": 96
                 },
                 "LootTableIndexItems": 30,
                 "PackageComponent": {},
@@ -1088,7 +1087,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.1999999999999997,
-                    "howManyToKill": 45
+                    "howManyToKill": 48
                 },
                 "LootTableIndexItems": 30,
                 "PackageComponent": {},
@@ -1140,7 +1139,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 3.5999999999999996,
-                    "howManyToKill": 28
+                    "howManyToKill": 24
                 },
                 "LootTableIndexItems": 30,
                 "PackageComponent": {},
@@ -1192,7 +1191,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 4.0,
-                    "howManyToKill": 25
+                    "howManyToKill": 24
                 },
                 "LootTableIndexItems": 30,
                 "PackageComponent": {},
@@ -1244,7 +1243,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 4.0,
-                    "howManyToKill": 25
+                    "howManyToKill": 24
                 },
                 "LootTableIndexItems": 30,
                 "PackageComponent": {},

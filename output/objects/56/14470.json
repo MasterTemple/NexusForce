@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Boosts your maximum Armor by 1 for 60 seconds",
-                "name": "Eat Flame Fruit"
+                "name": "Eat Flame Fruit",
+                "rawDescription": "Boosts your maximum Armor by 1 for 60 seconds"
             }
         }
     },

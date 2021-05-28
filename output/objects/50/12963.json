@@ -59,8 +59,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 1x16 %(Description)Creates a fortified turret that attacks enemies",
                 "name": "Personal Fortress",
+                "rawDescription": "%(DamageCombo) 1x16 %(Description)Creates a fortified turret that attacks enemies",
                 "damageCombo": " 1x16 ",
                 "Description": "Creates a fortified turret that attacks enemies"
             }
@@ -128,7 +128,9 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": []
         }
     },
     "proxySkillIDs": [],

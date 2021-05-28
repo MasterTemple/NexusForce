@@ -95,7 +95,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.3125,
-                    "howManyToKill": 320
+                    "howManyToKill": 336
                 },
                 "LootTableIndexItems": 85,
                 "PackageComponent": {
@@ -104,7 +104,7 @@
                         "displayName": "Nexus Tower Gift Bag"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

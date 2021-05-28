@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 2+2+2 %(ChargeUp)Fires a 10 damage projectile that explodes for 10 damage",
                 "name": "Exceptional Ranged Attack",
+                "rawDescription": "%(DamageCombo) 2+2+2 %(ChargeUp)Fires a 10 damage projectile that explodes for 10 damage",
                 "damageCombo": " 2+2+2 ",
                 "ChargeUp": "Fires a 10 damage projectile that explodes for 10 damage"
             }
@@ -101,6 +101,32 @@
                 2
             ],
             "chargeUpCombo": 10,
+            "allDamage": [
+                1,
+                2,
+                1,
+                1,
+                1,
+                2,
+                10
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Knockback",
+                "Knockback",
+                "Ranged",
+                "Ranged",
+                "Ranged",
+                "Ranged"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 2,
             "chargeUpCost": -3,

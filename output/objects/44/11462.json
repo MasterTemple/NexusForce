@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 6 %(Description)Makes you rush forward, doing N damage to enemies that you strike",
                 "name": "Shinobi Rush 1",
+                "rawDescription": "%(DamageCombo) 6 %(Description)Makes you rush forward, doing N damage to enemies that you strike",
                 "damageCombo": " 6 ",
                 "Description": "Makes you rush forward, doing N damage to enemies that you strike"
             }
@@ -87,7 +87,14 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                6
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption"
+            ]
         }
     },
     "proxySkillIDs": [],

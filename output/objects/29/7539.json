@@ -59,8 +59,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 12 %(Description)Makes you perform a flying kick, doing 12 damage and knocking down enemies",
                 "name": "Ronin Rush",
+                "rawDescription": "%(DamageCombo) 12 %(Description)Makes you perform a flying kick, doing 12 damage and knocking down enemies",
                 "damageCombo": " 12 ",
                 "Description": "Makes you perform a flying kick, doing 12 damage and knocking down enemies"
             }
@@ -130,7 +130,14 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                12
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption"
+            ]
         }
     },
     "proxySkillIDs": [],

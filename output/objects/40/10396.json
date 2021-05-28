@@ -60,7 +60,7 @@
             "defined_type": "Location",
             "defined_subtype": "Avant Gardens",
             "missionName": "Scarecrow",
-            "missionDescription": "<font color='#FF7F00'>Scare 5 birds</font> off of the top of the Monument.",
+            "missionDescription": "Scare 5 birds off of the top of the Monument.",
             "isMission": 1,
             "rewardCount": 1
         }

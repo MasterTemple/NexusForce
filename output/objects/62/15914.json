@@ -71,8 +71,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Shields you from up to 10 damage for 30 seconds",
-                "name": "Ninjago Defense"
+                "name": "Ninjago Defense",
+                "rawDescription": "Shields you from up to 10 damage for 30 seconds"
             }
         }
     },
@@ -133,7 +133,9 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": []
         }
     },
     "proxySkillIDs": [],

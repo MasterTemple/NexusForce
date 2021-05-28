@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 1+2+2 %(ChargeUp)Fires a 5 damage projectile",
                 "name": "Quality Ranged Attack",
+                "rawDescription": "%(DamageCombo) 1+2+2 %(ChargeUp)Fires a 5 damage projectile",
                 "damageCombo": " 1+2+2 ",
                 "ChargeUp": "Fires a 5 damage projectile"
             }
@@ -103,6 +103,35 @@
                 2
             ],
             "chargeUpCombo": 5,
+            "allDamage": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                2,
+                5
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Knockback",
+                "Knockback",
+                "Ranged",
+                "Ranged",
+                "Ranged",
+                "Ranged",
+                "Interruption",
+                "Interruption"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 1,
             "chargeUpCost": -3,

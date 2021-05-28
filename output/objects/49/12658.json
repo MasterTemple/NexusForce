@@ -30,8 +30,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 2+2+2 %(AltCombo) 8+9+9 %(ChargeUp)Turns you into a whirlwind that shocks enemies - release to do 6 damage to normal enemies or 21 damage to Skeletons and knock them back",
                 "name": "Lightning Spinjitzu Attack",
+                "rawDescription": "%(DamageCombo) 2+2+2 %(AltCombo) 8+9+9 %(ChargeUp)Turns you into a whirlwind that shocks enemies - release to do 6 damage to normal enemies or 21 damage to Skeletons and knock them back",
                 "damageCombo": " 2+2+2 %(AltCombo) 8+9+9 ",
                 "ChargeUp": "Turns you into a whirlwind that shocks enemies - release to do 6 damage to normal enemies or 21 damage to Skeletons and knock them back"
             }
@@ -52,8 +52,7 @@
     },
     "behaviorIDs": [
         37781,
-        11860,
-        38288
+        11860
     ],
     "stats": {
         "cooldown": 0.4,
@@ -90,8 +89,7 @@
         ],
         "isWeapon": true,
         "commendationCurrencyName": "Faction Token Proxy",
-        "commendationCurrencyDisplayName": "Faction Token",
-        "preconditionDescriptions": {}
+        "commendationCurrencyDisplayName": "Faction Token"
     },
     "overview": {
         "37781": {
@@ -119,35 +117,46 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 0,
+            "allDamage": [
+                1,
+                4,
+                1,
+                6,
+                1,
+                2,
+                6,
+                21,
+                2,
+                8,
+                2,
+                9,
+                2,
+                9
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Area of Effect",
+                "Interruption",
+                "Interruption",
+                "Knockback",
+                "Area of Effect",
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Knockback"
+            ],
             "doubleJumpSmash": 4,
             "singleJumpSmash": 6,
             "chargeUpCost": -2
         }
     },
-    "proxySkillIDs": [
-        1569
-    ],
-    "proxySkills": {
-        "1569": {
-            "castOnType": 0,
-            "AICombatWeight": null,
-            "behaviorID": 38288,
-            "imaginationcost": 5,
-            "cooldowngroup": 21,
-            "cooldown": 5.0,
-            "inNpcEditor": 0,
-            "skillIcon": 4702,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null,
-            "info": {
-                "rawDescription": "%(DamageCombo) 8 %(AltCombo) 22 %(Description)Calls down a bolt of lightning to strike an enemy",
-                "name": "Lightning Spinjitzu Strike",
-                "damageCombo": " 8 %(AltCombo) 22 ",
-                "Description": "Calls down a bolt of lightning to strike an enemy"
-            }
-        }
-    },
+    "proxySkillIDs": [],
+    "proxySkills": {},
     "iconURL": "textures/ng_ninjago/ui/inventory/hands/golden_nunchuck_icon.png",
     "buyAndDrop": {
         "LootTableIndexes": [

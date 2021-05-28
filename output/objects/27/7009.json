@@ -30,8 +30,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Allows you to build in a Build Area",
-                "name": "Modular Building Skill"
+                "name": "Modular Building Skill",
+                "rawDescription": "Allows you to build in a Build Area"
             }
         }
     },
@@ -86,7 +86,9 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": []
         }
     },
     "proxySkillIDs": [],

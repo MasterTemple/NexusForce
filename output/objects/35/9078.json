@@ -2,7 +2,7 @@
     "objectID": 9078,
     "itemInfo": {
         "name": "m57587",
-        "displayName": "Technic Dome 7x7x5 Ã˜4.85",
+        "displayName": "Technic Dome 7x7x5 Ø4.85",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -89,11 +89,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0118,
-                    "howManyToKill": 8475
+                    "howManyToKill": 5950
                 },
                 "LootTableIndexItems": 119,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "218": {
                 "LootMatrixIndex": 218,
@@ -147,11 +147,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0092,
-                    "howManyToKill": 10870
+                    "howManyToKill": 11900
                 },
                 "LootTableIndexItems": 119,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "414": {
                 "LootMatrixIndex": 414,
@@ -185,7 +185,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.5882000000000001,
-                    "howManyToKill": 170
+                    "howManyToKill": 119
                 },
                 "LootTableIndexItems": 119,
                 "PackageComponent": {
@@ -194,7 +194,7 @@
                         "displayName": "Mega Brick Booster Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "569": {
                 "LootMatrixIndex": 569,
@@ -228,7 +228,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.5882000000000001,
-                    "howManyToKill": 170
+                    "howManyToKill": 119
                 },
                 "LootTableIndexItems": 119,
                 "PackageComponent": {},
@@ -268,7 +268,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.5882000000000001,
-                    "howManyToKill": 170
+                    "howManyToKill": 119
                 },
                 "LootTableIndexItems": 119,
                 "PackageComponent": {},
@@ -308,7 +308,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.5882000000000001,
-                    "howManyToKill": 170
+                    "howManyToKill": 119
                 },
                 "LootTableIndexItems": 119,
                 "PackageComponent": {},
@@ -348,7 +348,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.5882000000000001,
-                    "howManyToKill": 170
+                    "howManyToKill": 119
                 },
                 "LootTableIndexItems": 119,
                 "PackageComponent": {},
@@ -388,7 +388,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.5882000000000001,
-                    "howManyToKill": 170
+                    "howManyToKill": 119
                 },
                 "LootTableIndexItems": 119,
                 "PackageComponent": {},

@@ -45,8 +45,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Creates a Bulper that assists you in battle",
-                "name": "Summon Bulper 3"
+                "name": "Summon Bulper 3",
+                "rawDescription": "Creates a Bulper that assists you in battle"
             }
         }
     },
@@ -110,7 +110,9 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": []
         }
     },
     "proxySkillIDs": [],

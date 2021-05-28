@@ -57,8 +57,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Restores 5 Armor to nearby characters and 5 Life to Assembly bots",
-                "name": "Assembly's Repair"
+                "name": "Assembly's Repair",
+                "rawDescription": "Restores 5 Armor to nearby characters and 5 Life to Assembly bots"
             }
         }
     },
@@ -118,7 +118,12 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": [
+                "Area of Effect",
+                "Area of Effect"
+            ]
         }
     },
     "proxySkillIDs": [],

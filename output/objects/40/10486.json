@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 2+2+3 %(ChargeUp)Launches you into the air, doing 1 damage to enemies you strike",
                 "name": "Dragon Style Attack",
+                "rawDescription": "%(DamageCombo) 2+2+3 %(ChargeUp)Launches you into the air, doing 1 damage to enemies you strike",
                 "damageCombo": " 2+2+3 ",
                 "ChargeUp": "Launches you into the air, doing 1 damage to enemies you strike"
             }
@@ -68,8 +68,7 @@
         "equipLocationNames": [
             "Right Hand"
         ],
-        "isWeapon": true,
-        "preconditionDescriptions": {}
+        "isWeapon": true
     },
     "overview": {
         "12022": {
@@ -90,6 +89,28 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 1,
+            "allDamage": [
+                1,
+                1,
+                2,
+                1,
+                2,
+                3
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Knockback",
+                "Knockback"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 1,
             "chargeUpCost": -1

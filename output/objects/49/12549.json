@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 2+2+2 %(Description)Knocks down enemies",
                 "name": "Pea Shot",
+                "rawDescription": "%(DamageCombo) 2+2+2 %(Description)Knocks down enemies",
                 "damageCombo": " 2+2+2 ",
                 "Description": "Knocks down enemies"
             }
@@ -101,6 +101,30 @@
                 2
             ],
             "chargeUpCombo": 0,
+            "allDamage": [
+                1,
+                2,
+                1,
+                1,
+                1,
+                2
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Knockback",
+                "Knockback",
+                "Ranged",
+                "Ranged",
+                "Ranged",
+                "Interruption"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 2,
             "chargeUpCost": -2

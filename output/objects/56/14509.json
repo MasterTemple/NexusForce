@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Boosts your maximum Armor and Imagination for 300 seconds",
-                "name": "Eat Flame-Roasted Popsicle"
+                "name": "Eat Flame-Roasted Popsicle",
+                "rawDescription": "Boosts your maximum Armor and Imagination for 300 seconds"
             }
         }
     },
@@ -63,10 +63,7 @@
         "commendationCurrencyCost": null,
         "equipLocationNames": [],
         "isWeapon": false,
-        "levelRequirement": "15",
-        "preconditionDescriptions": {
-            "214": "You must be Level 15 or greater to use this item."
-        }
+        "levelRequirement": "15"
     },
     "overview": {},
     "proxySkillIDs": [],

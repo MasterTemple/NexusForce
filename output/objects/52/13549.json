@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Restores 100 Imagination to nearby characters, and heals certain kinds of Maelstrom sickness",
-                "name": "Unload Imagination Backpack"
+                "name": "Unload Imagination Backpack",
+                "rawDescription": "Restores 100 Imagination to nearby characters, and heals certain kinds of Maelstrom sickness"
             }
         }
     },
@@ -66,8 +66,7 @@
         "equipLocationNames": [
             "Headgear"
         ],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {
         "29299": {
@@ -83,7 +82,11 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": [
+                "Area of Effect"
+            ]
         }
     },
     "proxySkillIDs": [],

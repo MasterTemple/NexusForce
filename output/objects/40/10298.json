@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Makes you dig up a chest full of Power-ups",
-                "name": "X-Marks-the-Spot 1"
+                "name": "X-Marks-the-Spot 1",
+                "rawDescription": "Makes you dig up a chest full of Power-ups"
             }
         }
     },

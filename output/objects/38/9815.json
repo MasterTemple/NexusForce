@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Gives a speed boost for 9 seconds that knocks down enemies",
-                "name": "Full Steam Ahead 1"
+                "name": "Full Steam Ahead 1",
+                "rawDescription": "Gives a speed boost for 9 seconds that knocks down enemies"
             }
         }
     },
@@ -83,7 +83,12 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption"
+            ]
         }
     },
     "proxySkillIDs": [],

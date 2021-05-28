@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Read this book to learn the secrets of a Rank 3 Space Marauder and unlock an Imagination Point!",
-                "name": "Secrets of a Space Marauder 3"
+                "name": "Secrets of a Space Marauder 3",
+                "rawDescription": "Read this book to learn the secrets of a Rank 3 Space Marauder and unlock an Imagination Point!"
             }
         }
     },

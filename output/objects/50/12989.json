@@ -71,8 +71,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 13 %(Description)Releases a blast that does 13 damage and restores 30 Imagination to nearby characters",
                 "name": "Last Blast",
+                "rawDescription": "%(DamageCombo) 13 %(Description)Releases a blast that does 13 damage and restores 30 Imagination to nearby characters",
                 "damageCombo": " 13 ",
                 "Description": "Releases a blast that does 13 damage and restores 30 Imagination to nearby characters"
             }
@@ -143,6 +143,15 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 0,
+            "allDamage": [
+                13
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Area of Effect",
+                "Interruption",
+                "Knockback"
+            ],
             "doubleJumpSmash": 13
         }
     },

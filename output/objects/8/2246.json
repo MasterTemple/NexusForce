@@ -103,7 +103,7 @@
                         "displayName": "Test Package"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

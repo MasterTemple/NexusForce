@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Gives a speed boost to nearby characters for 300 seconds",
-                "name": "Path Cutter 2"
+                "name": "Path Cutter 2",
+                "rawDescription": "Gives a speed boost to nearby characters for 300 seconds"
             }
         }
     },
@@ -92,7 +92,11 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": [
+                "Area of Effect"
+            ]
         }
     },
     "proxySkillIDs": [],

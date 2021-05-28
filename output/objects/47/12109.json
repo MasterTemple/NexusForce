@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Boosts your Life and Imagination by 5 for 180 seconds and restores 5 Life and 5 Imagination",
-                "name": "Tea Boost"
+                "name": "Tea Boost",
+                "rawDescription": "Boosts your Life and Imagination by 5 for 180 seconds and restores 5 Life and 5 Imagination"
             }
         }
     },
@@ -129,7 +129,7 @@
                         "displayName": "S.N.A.C.K."
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

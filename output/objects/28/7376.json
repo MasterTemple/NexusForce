@@ -119,7 +119,7 @@
                         "displayName": "Rank 1 Buccaneer Kit Package"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

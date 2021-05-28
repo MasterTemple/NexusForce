@@ -43,8 +43,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 6 %(AltCombo) 25 %(Description)Pulls an enemy to you and performs a massive uppercut",
                 "name": "Ninjago Scorpion Sting",
+                "rawDescription": "%(DamageCombo) 6 %(AltCombo) 25 %(Description)Pulls an enemy to you and performs a massive uppercut",
                 "damageCombo": " 6 %(AltCombo) 25 ",
                 "Description": "Pulls an enemy to you and performs a massive uppercut"
             }
@@ -107,7 +107,15 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                6,
+                25
+            ],
+            "attackTypes": [
+                "Interruption",
+                "Interruption"
+            ]
         }
     },
     "proxySkillIDs": [],
@@ -163,7 +171,7 @@
                 "inNpcEditor": 1,
                 "overallChance": {
                     "percent": 0.026699999999999998,
-                    "howManyToKill": 3745
+                    "howManyToKill": 3750
                 },
                 "LootTableIndexItems": 3,
                 "PackageComponent": {},
@@ -223,11 +231,11 @@
                 "inNpcEditor": 1,
                 "overallChance": {
                     "percent": 0.0007,
-                    "howManyToKill": 142857
+                    "howManyToKill": 150000
                 },
                 "LootTableIndexItems": 3,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "875": {
                 "LootMatrixIndex": 875,
@@ -273,7 +281,7 @@
                 "inNpcEditor": 1,
                 "overallChance": {
                     "percent": 0.0333,
-                    "howManyToKill": 3003
+                    "howManyToKill": 3000
                 },
                 "LootTableIndexItems": 3,
                 "PackageComponent": {},
@@ -325,7 +333,7 @@
                 "inNpcEditor": 1,
                 "overallChance": {
                     "percent": 0.06,
-                    "howManyToKill": 1667
+                    "howManyToKill": 1650
                 },
                 "LootTableIndexItems": 3,
                 "PackageComponent": {},
@@ -377,7 +385,7 @@
                 "inNpcEditor": 1,
                 "overallChance": {
                     "percent": 0.08,
-                    "howManyToKill": 1250
+                    "howManyToKill": 1200
                 },
                 "LootTableIndexItems": 3,
                 "PackageComponent": {},

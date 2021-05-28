@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Gives a speed boost for 9 seconds that knocks down enemies",
-                "name": "Hot Cocoa Rush"
+                "name": "Hot Cocoa Rush",
+                "rawDescription": "Gives a speed boost for 9 seconds that knocks down enemies"
             }
         }
     },
@@ -123,7 +123,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.875,
-                    "howManyToKill": 53
+                    "howManyToKill": 40
                 },
                 "LootTableIndexItems": 5,
                 "PackageComponent": {},

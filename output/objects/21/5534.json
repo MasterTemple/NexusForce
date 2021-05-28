@@ -2,7 +2,7 @@
     "objectID": 5534,
     "itemInfo": {
         "name": "m60614",
-        "displayName": "Lid Â½ for Frame 1x4x3",
+        "displayName": "Lid ½ for Frame 1x4x3",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -81,7 +81,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.3571,
-                    "howManyToKill": 280
+                    "howManyToKill": 196
                 },
                 "LootTableIndexItems": 196,
                 "PackageComponent": {
@@ -90,7 +90,7 @@
                         "displayName": "Mega Brick Booster Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "585": {
                 "LootMatrixIndex": 585,
@@ -124,7 +124,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.3571,
-                    "howManyToKill": 280
+                    "howManyToKill": 196
                 },
                 "LootTableIndexItems": 196,
                 "PackageComponent": {},
@@ -164,7 +164,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.3571,
-                    "howManyToKill": 280
+                    "howManyToKill": 196
                 },
                 "LootTableIndexItems": 196,
                 "PackageComponent": {},
@@ -204,7 +204,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.3571,
-                    "howManyToKill": 280
+                    "howManyToKill": 196
                 },
                 "LootTableIndexItems": 196,
                 "PackageComponent": {},
@@ -244,7 +244,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.3571,
-                    "howManyToKill": 280
+                    "howManyToKill": 196
                 },
                 "LootTableIndexItems": 196,
                 "PackageComponent": {},
@@ -284,7 +284,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.3571,
-                    "howManyToKill": 280
+                    "howManyToKill": 196
                 },
                 "LootTableIndexItems": 196,
                 "PackageComponent": {},

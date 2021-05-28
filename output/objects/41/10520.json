@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Read this book to unlock your Beta Tester Bonus!",
-                "name": "Secrets of a Beta Tester"
+                "name": "Secrets of a Beta Tester",
+                "rawDescription": "Read this book to unlock your Beta Tester Bonus!"
             }
         }
     },

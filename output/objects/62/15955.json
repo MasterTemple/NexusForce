@@ -59,8 +59,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Restores 9 Imagination",
-                "name": "Meditate"
+                "name": "Meditate",
+                "rawDescription": "Restores 9 Imagination"
             }
         },
         "1537": {
@@ -95,8 +95,7 @@
         4255,
         36257,
         37628,
-        11860,
-        36653
+        11860
     ],
     "stats": {
         "armorBonusUI": 5,
@@ -157,33 +156,13 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": []
         }
     },
-    "proxySkillIDs": [
-        1481
-    ],
-    "proxySkills": {
-        "1481": {
-            "castOnType": 0,
-            "AICombatWeight": 0,
-            "behaviorID": 36653,
-            "imaginationcost": 7,
-            "cooldowngroup": 2,
-            "cooldown": 20.0,
-            "inNpcEditor": 0,
-            "skillIcon": 4706,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null,
-            "info": {
-                "rawDescription": "%(DamageCombo) 4 %(AltCombo) 18 %(Description)Sends a wave of energy that cuts through enemies",
-                "name": "Ninjago Katana Strike",
-                "damageCombo": " 4 %(AltCombo) 18 ",
-                "Description": "Sends a wave of energy that cuts through enemies"
-            }
-        }
-    },
+    "proxySkillIDs": [],
+    "proxySkills": {},
     "iconURL": "textures/ng_ninjago/ui/inventory/helms/purple_ninja_hood_katana.png",
     "buyAndDrop": {
         "LootTableIndexes": [],

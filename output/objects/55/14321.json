@@ -63,10 +63,7 @@
     "behaviorIDs": [
         4263,
         38555,
-        38567,
-        15496,
-        38731,
-        10520
+        38567
     ],
     "stats": {
         "lifeBonusUI": 4,
@@ -116,64 +113,8 @@
         "levelRequirement": 0
     },
     "overview": {},
-    "proxySkillIDs": [
-        829,
-        1629,
-        609
-    ],
-    "proxySkills": {
-        "829": {
-            "castOnType": 1,
-            "AICombatWeight": 0,
-            "behaviorID": 15496,
-            "imaginationcost": 0,
-            "cooldowngroup": 29,
-            "cooldown": 30.0,
-            "inNpcEditor": 0,
-            "skillIcon": 0,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null
-        },
-        "1629": {
-            "castOnType": 0,
-            "AICombatWeight": 0,
-            "behaviorID": 38731,
-            "imaginationcost": 0,
-            "cooldowngroup": 1,
-            "cooldown": 0.0,
-            "inNpcEditor": 0,
-            "skillIcon": 3357,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null,
-            "info": {
-                "rawDescription": "%(DamageCombo) 4+4+4 %(ChargeUp)Restores up to 5 Imagination for nearby characters - charge longer for more Imagination",
-                "name": "Rental Blaster Master",
-                "damageCombo": " 4+4+4 ",
-                "ChargeUp": "Restores up to 5 Imagination for nearby characters - charge longer for more Imagination"
-            }
-        },
-        "609": {
-            "castOnType": 0,
-            "AICombatWeight": 0,
-            "behaviorID": 10520,
-            "imaginationcost": 6,
-            "cooldowngroup": 24,
-            "cooldown": 5.0,
-            "inNpcEditor": 0,
-            "skillIcon": 3359,
-            "imBonusUI": null,
-            "lifeBonusUI": null,
-            "armorBonusUI": null,
-            "info": {
-                "rawDescription": "%(DamageCombo) 7 %(Description)Launches a rocket that does 7 damage",
-                "name": "Maelstrom Rocket 1",
-                "damageCombo": " 7 ",
-                "Description": "Launches a rocket that does 7 damage"
-            }
-        }
-    },
+    "proxySkillIDs": [],
+    "proxySkills": {},
     "iconURL": "textures/freetrial/ui/inventory/icons/marauder_kit.png",
     "buyAndDrop": {
         "LootTableIndexes": [],
@@ -189,7 +130,7 @@
             "defined_type": "Location",
             "defined_subtype": "Avant Gardens",
             "missionName": "Back-up Bulwark!",
-            "missionDescription": "<font color='#FF7F00'>Fly to the Block Yard Property</font> and provide back-up for <font color='#FF7F00'>Vance Bulwark</font>.",
+            "missionDescription": "Fly to the Block Yard Property and provide back-up for Vance Bulwark.",
             "isMission": 1,
             "rewardCount": 0
         },
@@ -197,7 +138,7 @@
             "defined_type": "Location",
             "defined_subtype": "Avant Gardens",
             "missionName": "Agent Foxtrot",
-            "missionDescription": "Report to <font color='#FF7F00'>Melodie Foxtrot</font> by the caves behind the Paradox Lab in Avant Gardens to <font color='#FF7F00'>borrow Faction Gear</font>.",
+            "missionDescription": "Report to Melodie Foxtrot by the caves behind the Paradox Lab in Avant Gardens to borrow Faction Gear.",
             "isMission": 1,
             "rewardCount": 0
         }

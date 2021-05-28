@@ -30,8 +30,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 8 %(Description)Knocks back enemies",
                 "name": "Dark Thunder 1",
+                "rawDescription": "%(DamageCombo) 8 %(Description)Knocks back enemies",
                 "damageCombo": " 8 ",
                 "Description": "Knocks back enemies"
             }
@@ -112,7 +112,14 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                8
+            ],
+            "attackTypes": [
+                "Interruption",
+                "Knockback"
+            ]
         }
     },
     "proxySkillIDs": [],

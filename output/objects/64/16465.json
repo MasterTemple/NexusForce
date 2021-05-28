@@ -2,7 +2,7 @@
     "objectID": 16465,
     "itemInfo": {
         "name": "m93251",
-        "displayName": "Scarab Shield with Ã˜ 3.2 Shaft",
+        "displayName": "Scarab Shield with Ø 3.2 Shaft",
         "type": "LEGO brick",
         "description": "",
         "internalNotes": ""
@@ -39,8 +39,7 @@
         "commendationCurrencyType": null,
         "commendationCurrencyCost": null,
         "equipLocationNames": [],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {},
     "proxySkillIDs": [],
@@ -91,11 +90,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0118,
-                    "howManyToKill": 8475
+                    "howManyToKill": 5950
                 },
                 "LootTableIndexItems": 119,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "218": {
                 "LootMatrixIndex": 218,
@@ -149,11 +148,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0092,
-                    "howManyToKill": 10870
+                    "howManyToKill": 11900
                 },
                 "LootTableIndexItems": 119,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "414": {
                 "LootMatrixIndex": 414,
@@ -187,7 +186,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.5882000000000001,
-                    "howManyToKill": 170
+                    "howManyToKill": 119
                 },
                 "LootTableIndexItems": 119,
                 "PackageComponent": {
@@ -196,7 +195,7 @@
                         "displayName": "Mega Brick Booster Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "569": {
                 "LootMatrixIndex": 569,
@@ -230,7 +229,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.5882000000000001,
-                    "howManyToKill": 170
+                    "howManyToKill": 119
                 },
                 "LootTableIndexItems": 119,
                 "PackageComponent": {},
@@ -270,7 +269,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.5882000000000001,
-                    "howManyToKill": 170
+                    "howManyToKill": 119
                 },
                 "LootTableIndexItems": 119,
                 "PackageComponent": {},
@@ -310,7 +309,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.5882000000000001,
-                    "howManyToKill": 170
+                    "howManyToKill": 119
                 },
                 "LootTableIndexItems": 119,
                 "PackageComponent": {},
@@ -350,7 +349,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.5882000000000001,
-                    "howManyToKill": 170
+                    "howManyToKill": 119
                 },
                 "LootTableIndexItems": 119,
                 "PackageComponent": {},
@@ -390,7 +389,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.5882000000000001,
-                    "howManyToKill": 170
+                    "howManyToKill": 119
                 },
                 "LootTableIndexItems": 119,
                 "PackageComponent": {},

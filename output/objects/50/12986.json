@@ -43,8 +43,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 10 %(Description)Tosses an energy sphere that does 10 damage to enemies",
                 "name": "Plasma Ball 3",
+                "rawDescription": "%(DamageCombo) 10 %(Description)Tosses an energy sphere that does 10 damage to enemies",
                 "damageCombo": " 10 ",
                 "Description": "Tosses an energy sphere that does 10 damage to enemies"
             }
@@ -118,7 +118,14 @@
             "projectileDamageComboArray": [
                 10
             ],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                10
+            ],
+            "attackTypes": [
+                "Ranged",
+                "Area of Effect"
+            ]
         }
     },
     "proxySkillIDs": [],

@@ -106,7 +106,7 @@
                         "displayName": "Sears Reward Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

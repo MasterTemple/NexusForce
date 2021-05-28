@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Deploy this device to absorb Maelstrom energy",
-                "name": "Deploy Maelstrom Vacuum"
+                "name": "Deploy Maelstrom Vacuum",
+                "rawDescription": "Deploy this device to absorb Maelstrom energy"
             }
         }
     },
@@ -81,7 +81,9 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [],
+            "attackTypes": []
         }
     },
     "proxySkillIDs": [],

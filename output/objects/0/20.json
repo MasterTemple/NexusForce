@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Read this book to learn the secrets of a Rank 1 Buccaneer!",
-                "name": "Secrets of a Buccaneer 1"
+                "name": "Secrets of a Buccaneer 1",
+                "rawDescription": "Read this book to learn the secrets of a Rank 1 Buccaneer!"
             }
         }
     },
@@ -117,7 +117,7 @@
                         "displayName": "Rank 1 Buccaneer Kit Package"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

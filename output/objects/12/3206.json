@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 1 %(Description)Sprays water",
                 "name": "Water Spray",
+                "rawDescription": "%(DamageCombo) 1 %(Description)Sprays water",
                 "damageCombo": " 1 ",
                 "Description": "Sprays water"
             }
@@ -88,6 +88,18 @@
             "projectileInfo": {},
             "projectileDamageComboArray": [],
             "chargeUpCombo": 0,
+            "allDamage": [
+                1,
+                1,
+                1
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback",
+                "Interruption",
+                "Knockback"
+            ],
             "doubleJumpSmash": 1,
             "singleJumpSmash": 1
         }

@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Creates a Quick Build trap that does 5 damage to an enemy",
-                "name": "Summon Boom Trap"
+                "name": "Summon Boom Trap",
+                "rawDescription": "Creates a Quick Build trap that does 5 damage to an enemy"
             }
         }
     },
@@ -126,11 +126,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0268,
-                    "howManyToKill": 3731
+                    "howManyToKill": 2800
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "217": {
                 "LootMatrixIndex": 217,
@@ -184,11 +184,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.0402,
-                    "howManyToKill": 2488
+                    "howManyToKill": 1876
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "218": {
                 "LootMatrixIndex": 218,
@@ -242,11 +242,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.0714,
-                    "howManyToKill": 93
+                    "howManyToKill": 56
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "566": {
                 "LootMatrixIndex": 566,
@@ -292,7 +292,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 0.9375,
-                    "howManyToKill": 107
+                    "howManyToKill": 84
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
@@ -344,7 +344,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.3393,
-                    "howManyToKill": 75
+                    "howManyToKill": 56
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
@@ -396,7 +396,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.0089,
-                    "howManyToKill": 50
+                    "howManyToKill": 28
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
@@ -448,7 +448,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.6786,
-                    "howManyToKill": 37
+                    "howManyToKill": 28
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
@@ -500,7 +500,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.6786,
-                    "howManyToKill": 37
+                    "howManyToKill": 28
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
@@ -552,7 +552,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.6786,
-                    "howManyToKill": 37
+                    "howManyToKill": 28
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
@@ -604,7 +604,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.6786,
-                    "howManyToKill": 37
+                    "howManyToKill": 28
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
@@ -656,7 +656,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.6786,
-                    "howManyToKill": 37
+                    "howManyToKill": 28
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
@@ -716,11 +716,11 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 2.6786,
-                    "howManyToKill": 37
+                    "howManyToKill": 28
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "665": {
                 "LootMatrixIndex": 665,
@@ -766,7 +766,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 1.3393,
-                    "howManyToKill": 75
+                    "howManyToKill": 56
                 },
                 "LootTableIndexItems": 40,
                 "PackageComponent": {
@@ -775,7 +775,7 @@
                         "displayName": "Quality Surprise Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             },
             "686": {
                 "LootMatrixIndex": 686,
@@ -821,7 +821,7 @@
                 "inNpcEditor": 0,
                 "overallChance": {
                     "percent": 3.125,
-                    "howManyToKill": 32
+                    "howManyToKill": 24
                 },
                 "LootTableIndexItems": 85,
                 "PackageComponent": {
@@ -830,7 +830,7 @@
                         "displayName": "Nexus Tower Gift Bag"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

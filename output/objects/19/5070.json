@@ -2,7 +2,7 @@
     "objectID": 5070,
     "itemInfo": {
         "name": "m2819",
-        "displayName": "Steering Wheel Ã˜24",
+        "displayName": "Steering Wheel Ø24",
         "type": "LEGO brick",
         "description": null,
         "internalNotes": null
@@ -84,7 +84,7 @@
                         "displayName": "Mega Brick Booster Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

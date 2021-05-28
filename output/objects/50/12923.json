@@ -59,8 +59,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 2x8 %(Description)Creates Scratch, a creature who assists you in battle",
                 "name": "Summon Scratch",
+                "rawDescription": "%(DamageCombo) 2x8 %(Description)Creates Scratch, a creature who assists you in battle",
                 "damageCombo": " 2x8 ",
                 "Description": "Creates Scratch, a creature who assists you in battle"
             }
@@ -130,7 +130,15 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                2
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption",
+                "Knockback"
+            ]
         }
     },
     "proxySkillIDs": [],

@@ -120,7 +120,7 @@
                         "displayName": "Rank 1 Inventor Kit Package"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

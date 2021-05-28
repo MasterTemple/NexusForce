@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Gives a speed boost for 12 seconds that does 4 damage over time",
-                "name": "Fig on Fire 2"
+                "name": "Fig on Fire 2",
+                "rawDescription": "Gives a speed boost for 12 seconds that does 4 damage over time"
             }
         }
     },
@@ -66,8 +66,7 @@
         "equipLocationNames": [
             "Left Hand"
         ],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {
         "11454": {
@@ -83,7 +82,20 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                1,
+                1,
+                1
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Knockback",
+                "Interruption",
+                "Knockback",
+                "Knockback",
+                "Knockback"
+            ]
         }
     },
     "proxySkillIDs": [],

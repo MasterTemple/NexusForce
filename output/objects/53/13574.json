@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Restores 10 Life, 15 Armor, and 25 Imagination",
-                "name": "Replenish Minifigure 2"
+                "name": "Replenish Minifigure 2",
+                "rawDescription": "Restores 10 Life, 15 Armor, and 25 Imagination"
             }
         }
     },

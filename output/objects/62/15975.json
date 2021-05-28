@@ -188,7 +188,7 @@
                 },
                 "LootTableIndexItems": 2,
                 "PackageComponent": {},
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

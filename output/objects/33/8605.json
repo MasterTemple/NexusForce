@@ -111,7 +111,7 @@
                         "displayName": "GameStop Reward Pack"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [],

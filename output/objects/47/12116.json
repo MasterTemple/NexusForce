@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Restores up to 8 Life, 24 Armor and 32 Imagination over time",
-                "name": "Juggle"
+                "name": "Juggle",
+                "rawDescription": "Restores up to 8 Life, 24 Armor and 32 Imagination over time"
             }
         }
     },

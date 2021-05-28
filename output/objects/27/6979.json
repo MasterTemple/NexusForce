@@ -59,7 +59,7 @@
             "defined_type": "Location",
             "defined_subtype": "Nimbus Station",
             "missionName": "Choose a Faction",
-            "missionDescription": "<font color='#FF7F00'>Talk to Nexus Jay</font> in Nimbus Plaza. Then select a Faction to join!",
+            "missionDescription": "Talk to Nexus Jay in Nimbus Plaza. Then select a Faction to join!",
             "isMission": 1,
             "rewardCount": 1
         }

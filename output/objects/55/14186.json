@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Read this book to unlock your Nexus Tower bonus!",
-                "name": "Secrets of the Builders"
+                "name": "Secrets of the Builders",
+                "rawDescription": "Read this book to unlock your Nexus Tower bonus!"
             }
         }
     },

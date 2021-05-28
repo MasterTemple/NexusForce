@@ -92,8 +92,7 @@
         "equipLocationNames": [
             "Pants"
         ],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {},
     "proxySkillIDs": [],

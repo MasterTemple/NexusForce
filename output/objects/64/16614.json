@@ -71,8 +71,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "%(DamageCombo) 4 %(AltCombo) 19 %(Description)Heals 1 Life per enemy struck",
                 "name": "Fire Power Drain",
+                "rawDescription": "%(DamageCombo) 4 %(AltCombo) 19 %(Description)Heals 1 Life per enemy struck",
                 "damageCombo": " 4 %(AltCombo) 19 ",
                 "Description": "Heals 1 Life per enemy struck"
             }
@@ -119,8 +119,7 @@
             "Headgear",
             "Neck/Back"
         ],
-        "isWeapon": false,
-        "preconditionDescriptions": {}
+        "isWeapon": false
     },
     "overview": {
         "38325": {
@@ -139,7 +138,15 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0
+            "chargeUpCombo": 0,
+            "allDamage": [
+                4,
+                19
+            ],
+            "attackTypes": [
+                "Area of Effect",
+                "Interruption"
+            ]
         }
     },
     "proxySkillIDs": [],

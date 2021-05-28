@@ -121,7 +121,7 @@
                         "displayName": "Rank 1 Summoner Kit Package"
                     }
                 },
-                "ActivityComponent": {}
+                "ActivityComponent": []
             }
         },
         "VendorComponents": [

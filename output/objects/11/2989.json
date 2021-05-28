@@ -29,8 +29,8 @@
             "lifeBonusUI": null,
             "armorBonusUI": null,
             "info": {
-                "rawDescription": "Restores up to 5 Life, 10 Imagination and 10 Armor over time",
-                "name": "Yo Ho Ho"
+                "name": "Yo Ho Ho",
+                "rawDescription": "Restores up to 5 Life, 10 Imagination and 10 Armor over time"
             }
         }
     },
