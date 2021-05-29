@@ -40,7 +40,7 @@ client.once('ready', () => {
 })
 
 client.on('clickButton', async (button) => {
-    console.log('button clicked')
+    //console.log('button clicked')
     button_handler.execute(button)
 });
 

@@ -9,7 +9,7 @@ module.exports = {
         }catch{
 
         }
-        console.log(itemID)
+        //console.log(itemID)
         switch(button.id) {
             case 'test':
                 let embed = button.message.embeds[0]
