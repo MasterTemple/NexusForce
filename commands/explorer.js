@@ -1,13 +1,13 @@
 module.exports = {
-    name: ['test'],
-    description: 'Just testing perms',
+    name: ['explorer'],
+    description: 'LEGO Universe Explorer preview',
     args: true,
-    use: `test`,
-    example: [`test`],
+    use: `explorer`,
+    example: [`explorer`],
     execute(message, args) {
         function err() {
             try {
-                const help = require(`./contributor.js`);
+                const help = require(`./help.js`);
                 help.execute(message, module.exports.name)
                 console.log(`fail`)
                 return
@@ -26,6 +26,8 @@ module.exports = {
             .setAuthor(`Nexus Force`, botIconURL, inviteLink)
             .setURL('https://lu-explorer.web.app/dashboard')
             .setImage('https://pbs.twimg.com/profile_banners/1108450464541097985/1554476978')
+            .setTimestamp()
+            .setFooter('This project was created by @Xiphoseer and has a GitHub repository located at https://github.com/xiphoseer/lu-explorer. Feel free to report any issues or suggestions there.', botIconURL);
 
         let btn = new buttons.MessageButton()
             .setStyle('red') //default: blurple

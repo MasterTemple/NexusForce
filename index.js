@@ -7,7 +7,8 @@ client.contributorCommands = new Discord.Collection();
 const commandFiles = fs.readdirSync('./commands').filter(file => file.endsWith('.js'));
 const mythranCommandFiles = fs.readdirSync('./mythranCommands').filter(file => file.endsWith('.js'));
 const contributorCommandFiles = fs.readdirSync('./contributorCommands').filter(file => file.endsWith('.js'));
-
+const buttons = require('discord-buttons')(client);
+const button_handler = require(`./functions/buttons/button_handler`)
 const {prefix, token, startupStatus, botInfo, mythran, contributor} = require('./config.json');
 
 for (const file of commandFiles) {
@@ -37,6 +38,11 @@ client.once('ready', () => {
     }
 
 })
+
+client.on('clickButton', async (button) => {
+    console.log('button clicked')
+    button_handler.execute(button)
+});
 
 client.on('message', message => {
     if(message.author.id === client.user.id){return}
