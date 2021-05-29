@@ -9,6 +9,11 @@ module.exports = {
         }catch{
 
         }
+        try{
+            let page_regex = /\((?<number>\d)+\)/g
+            var page_arrray = [...old_embed.title.matchAll(page_regex)]
+            params['page'] = page_arrray[0]['groups']['number'] - 1
+        }catch{}
         //console.log(itemID)
         switch(button.id) {
             case 'test':
@@ -82,7 +87,35 @@ module.exports = {
                     ], embed: old_embed })
                 break
             case 'drop':
-
+                let drop = require('./../../commands/drop')
+                params['edit_message'] = true
+                drop.execute(button.message, [itemID], params)
+                break
+            case 'buy_to_percent':
+                let buy_to_percent_drop = require('./../../commands/drop')
+                params['edit_message'] = true
+                params['fractions'] = false
+                buy_to_percent_drop.execute(button.message, [itemID], params)
+                break
+            case 'buy_to_fraction':
+                let buy_to_fraction_drop = require('./../../commands/drop')
+                params['edit_message'] = true
+                params['fractions'] = true
+                buy_to_fraction_drop.execute(button.message, [itemID], params)
+                break
+            case 'previous_result':
+                let previous_result_drop = require('./../../commands/drop')
+                params['edit_message'] = true
+                params['fractions'] = true
+                params['page']--
+                previous_result_drop.execute(button.message, [itemID], params)
+                break
+            case 'next_result':
+                let next_result_drop = require('./../../commands/drop')
+                params['edit_message'] = true
+                params['fractions'] = true
+                params['page']++
+                next_result_drop.execute(button.message, [itemID], params)
                 break
             case 'earn':
                 let earn = require('./../../commands/earn')

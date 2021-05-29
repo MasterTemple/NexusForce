@@ -70,6 +70,15 @@ module.exports = {
         //     .setLabel('Scripts') //default: NO_LABEL_PROVIDED
         //     .setID('click_to_function') //note: if you use the style "url" you must provide url using .setURL('https://example.com')
 
+
+        var embedField = function(name, value, inline){
+            this.name =  name
+            this.value = value
+            this.inline = inline
+            return this
+        };
+        let field = embedField('name', 'text', false)
+        myembed.addField(field['name'], field['value'], field['inline'])
         message.channel.send({ buttons: [
                 btn
             ], embed: myembed });
