@@ -101,6 +101,8 @@ module.exports = {
 
                 break
         }
+        params['edit_message'] = false
+        params['send_to_dm'] = false
         button.defer()
     }
 }

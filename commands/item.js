@@ -402,37 +402,46 @@ module.exports = {
 
         try {
 
-            let drop = new params.buttons.MessageButton()
+            let drop_button = new params.buttons.MessageButton()
                 .setStyle('blurple')
                 .setLabel('Drop')
                 .setID('drop')
-            let earn = new params.buttons.MessageButton()
+            let earn_button = new params.buttons.MessageButton()
                 .setStyle('blurple')
                 .setLabel('Earn')
                 .setID('earn')
-
-            let buy = new params.buttons.MessageButton()
+            let buy_button = new params.buttons.MessageButton()
                 .setStyle('blurple')
                 .setLabel('Buy')
                 .setID('buy')
-            let back = new params.buttons.MessageButton()
+            let back_button = new params.buttons.MessageButton()
                 .setStyle('blurple')
                 .setLabel('Back')
                 .setID('back_to_item')
 
+            if(item.buyAndDrop.Vendors.length === 0){
+                buy_button.setDisabled(true)
+            }
+            if(Object.keys(item.earn).length === 0){
+                earn_button.setDisabled(true)
+            }
+            if(item.buyAndDrop.EnemyIDs.length === 0){
+                drop_button.setDisabled(true)
+            }
+
             if(params['send_to_dm'] === true){
                 message.author.send({ buttons: [
-                        drop, earn, buy, back
+                        drop_button, earn_button, buy_button, back_button
                     ], embed: embed })
             }
             else if(params['edit_message'] === true) {
                 message.edit({ buttons: [
-                        drop, earn, buy, back
+                        drop_button, earn_button, buy_button, back_button
                     ], embed: embed })
             }
             else {
                 message.channel.send({ buttons: [
-                        drop, earn, buy, back
+                        drop_button, earn_button, buy_button, back_button
                     ], embed: embed })
             }
 
