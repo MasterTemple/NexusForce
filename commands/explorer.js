@@ -24,6 +24,7 @@ module.exports = {
             //.setDescription('HERE IS A BUTTON FOR A DLU KEY')
             .setTitle('LEGO Universe Explorer')
             .setAuthor(`Nexus Force`, botIconURL, inviteLink)
+            .setDescription('This web-application is designed to be an exhaustive resource on the content of the latest published version of the now discontinued game LEGO Universe. It is implemented as a wiki-esque interface to [LU-JSON](https://github.com/xiphoseer/lu-json), which is a machine-readable and preprocessed export of the games\' database and files. The images that this app uses are taken from [LU-RES](https://github.com/xiphoseer/lu-res), which mirrors the game resources but in modern / web-compatible formats.')
             .setURL('https://lu-explorer.web.app/dashboard')
             .setImage('https://pbs.twimg.com/profile_banners/1108450464541097985/1554476978')
             .setTimestamp()

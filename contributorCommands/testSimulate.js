@@ -1,5 +1,5 @@
 module.exports = {
-    name: ['simulate',],
+    name: ['testsimulate',],
     description: 'Simulates a drop from LEGO Universe',
     args: true,
     use: `simulate [item name or ID] FROM [enemy Name or ID`,
@@ -34,7 +34,7 @@ module.exports = {
         let findOneActivity = require(`./../functions/findOneActivity.js`)
         let findOnePackage = require(`./../functions/findOnePackage.js`)
 
-        const params = message.content.slice(10).trim().toLowerCase().split(" from "); //each space is a new argument
+        const params = message.content.slice(14).trim().toLowerCase().split(" from "); //each space is a new argument
         //const commandName = params.shift().toLowerCase();
         // message.channel.send(params)
 
