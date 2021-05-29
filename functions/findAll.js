@@ -1,7 +1,7 @@
 module.exports = {
     execute(args) {
-        //const item = require(`./../output/references/Objects.json`);
-        const item = require(`./../../../../IdeaProjects/playground_javascript/test.json`);
+        const item = require(`./../output/references/Objects.json`);
+        //?const item = require(`./../../../../IdeaProjects/playground_javascript/test.json`);
 
         let sorted = [];
         for (var i = 0; i < args.length; i++) {
