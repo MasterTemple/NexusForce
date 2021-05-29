@@ -4,7 +4,7 @@ module.exports = {
     args: true,
     use: `npc [id]`,
     example: ['npc sky lane', `npc 5997`],
-    execute(message, args) {
+    execute(message, args, params) {
         function err() {
             try {
                 const help = require(`./help.js`);

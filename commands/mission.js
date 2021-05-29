@@ -4,7 +4,7 @@ module.exports = {
     args: true,
     use: `mission [name or ID]`,
     example: ['mission Prove Yarrr Self', `mission 301`],
-    execute(message, args) {
+    execute(message, args, params) {
         function err() {
             try {
                 const help = require(`./help.js`);

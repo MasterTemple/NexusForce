@@ -4,7 +4,7 @@ module.exports = {
     args: true,
     use: `buy [name or ID]`,
     example: [`buy grey kepi`, `buy 7793`],
-    execute(message, args) {
+    execute(message, args, params) {
         function err() {
             try {
                 const help = require(`./help.js`);
@@ -15,7 +15,7 @@ module.exports = {
                 console.error(error);
             }
         }
-        if(args.length > 1 || isNaN(args[0])){
+        if((args.length > 1 || isNaN(args[0])) && (params['send_to_dm'] === false && params['edit_message'] === false) ){
             let findOne = require(`./../functions/fineOneBrickOrItem.js`)
             var objectID = findOne.execute(args)
             if(objectID===undefined){
@@ -90,7 +90,39 @@ module.exports = {
         //message.channel.send(`\`\`\`json\n${JSON.stringify(buyFile,null, 2)}\`\`\``)
 
         try {
-            message.channel.send(embed)
+            let drop = new params.buttons.MessageButton()
+                .setStyle('blurple')
+                .setLabel('Drop')
+                .setID('drop')
+            let earn = new params.buttons.MessageButton()
+                .setStyle('blurple')
+                .setLabel('Earn')
+                .setID('earn')
+
+            let buy = new params.buttons.MessageButton()
+                .setStyle('green')
+                .setLabel('Buy')
+                .setID('buy')
+            let back = new params.buttons.MessageButton()
+                .setStyle('blurple')
+                .setLabel('Back')
+                .setID('back_to_item')
+
+            if(params['send_to_dm'] === true){
+                message.author.send({ buttons: [
+                        drop, earn, buy, back
+                    ], embed: embed })
+            }
+            else if(params['edit_message'] === true) {
+                message.edit({ buttons: [
+                        drop, earn, buy, back
+                    ], embed: embed })
+            }
+            else {
+                message.channel.send({ buttons: [
+                        drop, earn, buy, back
+                    ], embed: embed })
+            }
         }catch{
             err()
         }

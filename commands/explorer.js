@@ -4,7 +4,7 @@ module.exports = {
     args: true,
     use: `explorer`,
     example: [`explorer`],
-    execute(message, args) {
+    execute(message, args, params) {
         function err() {
             try {
                 const help = require(`./help.js`);

@@ -4,7 +4,7 @@ module.exports = {
     args: true,
     use: `getUpdatedFields [type]`,
     example:[`getUpdatedFields npc`, `getUpdatedFields enemy`],
-    execute(message, args) {
+    execute(message, args, params) {
         function err() {
             try {
                 const help = require(`./contributor.js`);

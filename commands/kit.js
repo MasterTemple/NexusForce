@@ -4,7 +4,7 @@ module.exports = {
     args: true,
     use: `kit [id]`,
     example: [`kit engineer 3`],
-    execute(message, args) {
+    execute(message, args, params) {
         function err() {
             try {
                 const help = require(`./help.js`);

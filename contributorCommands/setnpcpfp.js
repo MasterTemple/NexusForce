@@ -4,7 +4,7 @@ module.exports = {
     args: true,
     use: `setnpcpfp [id] [path]`,
     example:[`setnpcpfp 13569 textures/nexustower/ui/missioncomics/nexustower/task_icons/mission_mr_ree.png`],
-    execute(message, args) {
+    execute(message, args, params) {
         function err() {
             try {
                 const help = require(`./contributor.js`);

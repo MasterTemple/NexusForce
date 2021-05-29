@@ -4,7 +4,7 @@ module.exports = {
     args: true,
     use: `setltiname [id] [args]`,
     example:[`setltiname 104 GF Rares`],
-    execute(message, args) {
+    execute(message, args, params) {
         let config = require('./../config.json');
         let file = require(`./../json/Reference/LootTableIndexNames.json`)
         function err(){

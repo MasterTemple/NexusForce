@@ -4,7 +4,7 @@ module.exports = {
     args: true,
     use: `skill [name or ID]`,
     example: [`skill 550`, `skill Ronin Rush`],
-    execute(message, args) {
+    execute(message, args, params) {
         function err() {
             try {
                 const help = require(`./help.js`);

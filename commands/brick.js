@@ -4,7 +4,7 @@ module.exports = {
     args: true,
     use: `brick [name or ID]`,
     example: [`brick tail fin 2x3x2`,`brick 3`],
-    execute(message, args) {
+    execute(message, args, params) {
         function err() {
             try {
                 const help = require(`./help.js`);

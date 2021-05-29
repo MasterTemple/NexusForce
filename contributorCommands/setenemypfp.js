@@ -4,7 +4,7 @@ module.exports = {
     args: true,
     use: `setenemypfp [id] [path]`,
     example:[`setenemypfp 6806 textures/ui/achievments/darkling_ape.png`],
-    execute(message, args) {
+    execute(message, args, params) {
         function err() {
             try {
                 const help = require(`./contributor.js`);

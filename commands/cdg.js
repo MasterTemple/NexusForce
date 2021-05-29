@@ -4,7 +4,7 @@ module.exports = {
     args: true,
     use: `cdg [id]`,
     example: [`cdg 21`],
-    execute(message, args) {
+    execute(message, args, params) {
         function err() {
             try {
                 const help = require(`./help.js`);

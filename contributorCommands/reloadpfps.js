@@ -4,7 +4,7 @@ module.exports = {
     args: true,
     use: `reloadpfps [group]`,
     example:[`reloadpfps enemy`],
-    execute(message, args) {
+    execute(message, args, params) {
         function err() {
             try {
                 const help = require(`mythranCommands/mythran`);

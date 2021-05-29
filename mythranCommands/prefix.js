@@ -4,7 +4,7 @@ module.exports = {
     args: true,
     use: `setprefix [char]`,
     example:[`setprefix +`],
-    execute(message, args) {
+    execute(message, args, params) {
         let config = require('./../config.json');
         function err(){
             try {

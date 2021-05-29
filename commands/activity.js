@@ -4,7 +4,7 @@ module.exports = {
     args: true,
     use: `activity [name]`,
     example: [`activity Frakjaw 1 Player`],
-    execute(message, args) {
+    execute(message, args, params) {
         function err() {
             try {
                 const help = require(`./help.js`);

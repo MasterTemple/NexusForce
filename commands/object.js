@@ -4,7 +4,7 @@ module.exports = {
     args: true,
     use: `type [id]`,
     example:[`type 7415`],
-    execute(message, args) {
+    execute(message, args, params) {
         function err(){
             try {
                 const help = require(`./help.js`);
@@ -55,7 +55,7 @@ module.exports = {
                 const func = require(`./enemies.js`);
                 //func.execute()
                 try {
-                    func.execute(message, args);
+                    func.execute(message, args, params);
                 } catch (error) {
                     console.error(error);
                 }

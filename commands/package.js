@@ -4,7 +4,7 @@ module.exports = {
     args: true,
     use: `package [id]`,
     example: ['package quality surprise pack', `package 13102`],
-    execute(message, args) {
+    execute(message, args, params) {
         function err() {
             try {
                 const help = require(`./help.js`);

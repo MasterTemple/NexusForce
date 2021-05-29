@@ -4,7 +4,7 @@ module.exports = {
     args: true,
     use: `play [args]`,
     example:[`play LEGO Universe`],
-    execute(message, args) {
+    execute(message, args, params) {
         const client = message.client
         if(args.length >0) {
             var new_status = args[0]

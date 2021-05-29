@@ -3,8 +3,8 @@ module.exports = {
     description: 'Get Items From ID List',
     args: true,
     use: `items [id]`,
-    example: [`items 7415`],
-    execute(message, args) {
+    example: [`!items 7570 7415 7416`],
+    execute(message, args, params) {
         function err() {
             try {
                 const help = require(`./help.js`);
@@ -22,7 +22,9 @@ module.exports = {
         }
         let itemFile = require(`./item.js`)
         for(let arg in args){
-            itemFile.execute(message, [args[arg], 'dm'])
+            // itemFile.execute(message, [args[arg], 'dm'])
+            params['send_to_dm'] = true
+            itemFile.execute(message, [args[arg]], params)
         }
         message.channel.send("DMs Sent.")
 

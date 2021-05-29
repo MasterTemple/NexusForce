@@ -4,7 +4,7 @@ module.exports = {
     args: true,
     use: `status [presence]`,
     example:[`status online`, `status idle`, `status dnd`],
-    execute(message, args) {
+    execute(message, args, params) {
         const client = message.client
 
         if (args[0] == `online`) {

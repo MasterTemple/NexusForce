@@ -4,7 +4,7 @@ module.exports = {
     args: true,
     use: `update`,
     example: [`update`],
-    execute(message, args) {
+    execute(message, args, params) {
         //message.channel.send('Updating')
         message.author.send("Enemy", {files: ["./output/contributor/EnemyPFPUpdates.json"]});
         message.author.send("NPC", {files: ["./output/contributor/NPCPFPUpdates.json"]});

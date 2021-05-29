@@ -4,7 +4,7 @@ module.exports = {
     args: true,
     use: `search [query]`,
     example: [`search parrot`],
-    execute(message, args) {
+    execute(message, args, params) {
         function err() {
             try {
                 const help = require(`./help.js`);

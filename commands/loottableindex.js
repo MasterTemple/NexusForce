@@ -4,7 +4,7 @@ module.exports = {
     args: true,
     use: `lti [name or ID]`,
     example: ['lti GF Rares', `lti 104`],
-    execute(message, args) {
+    execute(message, args, params) {
         function err() {
             try {
                 const help = require(`./help.js`);

@@ -4,7 +4,7 @@ module.exports = {
     args: true,
     use: `enemydrop [id]`,
     example: [`enemydrop GF admiral`, `enemydrop 6789`],
-    execute(message, args) {
+    execute(message, args, params) {
         function err() {
             try {
                 const help = require(`./help.js`);

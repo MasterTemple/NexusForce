@@ -4,7 +4,7 @@ module.exports = {
     args: true,
     use: `item [id]`,
     example: [`item 7415`],
-    execute(message, args) {
+    execute(message, args, params) {
         function err() {
             try {
                 const help = require(`./help.js`);
@@ -15,7 +15,8 @@ module.exports = {
                 console.error(error);
             }
         }
-        if((args.length > 1 || isNaN(args[0])) && args[1] !== 'dm' ){
+        if((args.length > 1 || isNaN(args[0])) && (params['send_to_dm'] === false && params['edit_message'] === false) ){
+            //console.log(args, params['send_to_dm'], params['edit_message'])
             let findOne = require(`./../functions/findOneItem.js`)
             var itemID = findOne.execute(args)
             if(itemID===undefined){
@@ -26,6 +27,7 @@ module.exports = {
         }else{
             var itemID = args[0]
         }
+        //console.log(args.length > 1, isNaN(args[0]), params['send_to_dm'] === false, params['edit_message'] === false)
         // const itemID = id
         const item = require(`./../output/objects/${Math.floor(itemID/256)}/${itemID}.json`);
         const { uIcon, luExplorerURL, resURL, unknownImageURL, emojis} = require('./../config.json')
@@ -399,12 +401,48 @@ module.exports = {
         }
 
         try {
-            if(args[1] !== 'dm') {
-                message.channel.send(embed)
-            }else if(args[1] === 'dm'){
-                message.author.send(embed)
+
+            let drop = new params.buttons.MessageButton()
+                .setStyle('blurple')
+                .setLabel('Drop')
+                .setID('drop')
+            let earn = new params.buttons.MessageButton()
+                .setStyle('blurple')
+                .setLabel('Earn')
+                .setID('earn')
+
+            let buy = new params.buttons.MessageButton()
+                .setStyle('blurple')
+                .setLabel('Buy')
+                .setID('buy')
+            let back = new params.buttons.MessageButton()
+                .setStyle('blurple')
+                .setLabel('Back')
+                .setID('back_to_item')
+
+            if(params['send_to_dm'] === true){
+                message.author.send({ buttons: [
+                        drop, earn, buy, back
+                    ], embed: embed })
             }
-        }catch{
+            else if(params['edit_message'] === true) {
+                message.edit({ buttons: [
+                        drop, earn, buy, back
+                    ], embed: embed })
+            }
+            else {
+                message.channel.send({ buttons: [
+                        drop, earn, buy, back
+                    ], embed: embed })
+            }
+
+            // if(args[1] !== 'dm') {
+            //     message.channel.send(embed)
+            // }else if(args[1] === 'dm'){
+            //     message.author.send(embed)
+            // }
+        }catch(e){
+            console.log(e)
             err()
         }
     }

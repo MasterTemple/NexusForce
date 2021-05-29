@@ -4,7 +4,7 @@ module.exports = {
     args: true,
     use: `preconditions [id]`,
     example: ['preconditions power jouster', `preconditions 12637`],
-    execute(message, args) {
+    execute(message, args, params) {
         function err() {
             try {
                 const help = require(`./help.js`);

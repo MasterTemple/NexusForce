@@ -4,7 +4,7 @@ module.exports = {
     args: true,
     use: `drop [name or ID]`,
     example: ['drop red parrot', `drop 7570`],
-    execute(message, args) {
+    execute(message, args, params) {
         function err() {
             try {
                 const help = require(`./help.js`);

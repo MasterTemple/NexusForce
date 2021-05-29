@@ -4,7 +4,7 @@ module.exports = {
     args: true,
     use: `test`,
     example: [`test`],
-    execute(message, args) {
+    execute(message, args, params) {
         function err() {
             try {
                 const help = require(`./contributor.js`);

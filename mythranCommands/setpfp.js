@@ -4,7 +4,7 @@ module.exports = {
     args: true,
     use: `setpfp [url]`,
     example:[`setpfp https://media.discordapp.net/attachments/641133444746838016/813621671461781544/circle-cropped_1.png`],
-    execute(message, args) {
+    execute(message, args, params) {
         let config = require('./../config.json');
         function err(){
             try {

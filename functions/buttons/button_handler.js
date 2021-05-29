@@ -1,5 +1,5 @@
 module.exports = {
-    execute(button){
+    execute(button, params){
         //console.log(button.id, button.message.id, button.clicker)
         let old_embed = button.message.embeds[0]
         let id_regex = /\[(?<number>\d+)\]/g
@@ -85,10 +85,20 @@ module.exports = {
 
                 break
             case 'earn':
+                let earn = require('./../../commands/earn')
+                params['edit_message'] = true
+                earn.execute(button.message, [itemID], params)
                 break
             case 'buy':
+                let buy = require('./../../commands/buy')
+                params['edit_message'] = true
+                buy.execute(button.message, [itemID], params)
                 break
-            case 'back':
+            case 'back_to_item':
+                let item = require('./../../commands/item')
+                params['edit_message'] = true
+                item.execute(button.message, [itemID], params)
+
                 break
         }
         button.defer()

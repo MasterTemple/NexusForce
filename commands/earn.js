@@ -4,7 +4,7 @@ module.exports = {
     args: true,
     use: `earn [name or ID]`,
     example: ['earn blue parrot', `earn 6792`],
-    execute(message, args) {
+    execute(message, args, params) {
         function err() {
             try {
                 const help = require(`./help.js`);
@@ -15,7 +15,7 @@ module.exports = {
                 console.error(error);
             }
         }
-        if(args.length > 1 || isNaN(args[0])){
+        if((args.length > 1 || isNaN(args[0])) && (params['send_to_dm'] === false && params['edit_message'] === false) ){
             let findOne = require(`./../functions/fineOneBrickOrItem.js`)
             var objectID = findOne.execute(args)
             if(objectID===undefined){
@@ -65,34 +65,76 @@ module.exports = {
                 embed.addField(`${earnFile.earn[earnKey[e]]['defined_type']} > ${earnFile.earn[earnKey[e]]['defined_subtype']} > ${earnFile.earn[earnKey[e]]['missionName']}`, `${earnFile.earn[earnKey[e]]['missionDescription']} [Gives ${earnFile.earn[earnKey[e]]['rewardCount']}] [[${earnKey[e]}]](${luExplorerURL}missions/${earnKey[e]})`, false)
 
             }
-            if(embed.fields.length > 25){
-                message.author.send(embed)
-                embed = msgEmbed.execute(`${earnFile.itemInfo.displayName} [${earnFile.objectID}]`, undefined,`${luExplorerURL}objects/${earnFile.objectID}`, img)
-                wasDMed = true
-            }
 
-            if(e === earnKey.length-1 && embed.fields.length !== 0 && wasDMed){
-                message.author.send(embed)
-                message.channel.send("Direct Messages Sent!")
-                //embed = msgEmbed.execute(`${earnFile.itemInfo.displayName} [${earnFile.objectID}]`, undefined,`${luExplorerURL}objects/${earnFile.objectID}`, earnFile.iconURL)
-            }else if(e === earnKey.length-1 && embed.fields.length !== 0){
-                message.channel.send(embed)
-            }
+            // if(embed.fields.length > 25){
+            //     message.author.send(embed)
+            //     embed = msgEmbed.execute(`${earnFile.itemInfo.displayName} [${earnFile.objectID}]`, undefined,`${luExplorerURL}objects/${earnFile.objectID}`, img)
+            //     wasDMed = true
+            // }
+            //
+            // if(e === earnKey.length-1 && embed.fields.length !== 0 && wasDMed){
+            //     message.author.send(embed)
+            //     message.channel.send("Direct Messages Sent!")
+            //     //embed = msgEmbed.execute(`${earnFile.itemInfo.displayName} [${earnFile.objectID}]`, undefined,`${luExplorerURL}objects/${earnFile.objectID}`, earnFile.iconURL)
+            // }else if(e === earnKey.length-1 && embed.fields.length !== 0){
+            //     message.channel.send(embed)
+            // }
 
 
         }
+        if(embed.fields.length > 25){
+            embed.fields.slice(0, 26)
+        }
 
-        if(earnKey.length === 0){
+        if(embed.fields.length === 0){
             embed.addField(`This Item Is Not Earned!`, "Try **!buy** or **!drop** to see how to unlock this item!", false)
-            message.channel.send(embed)
-
         }
+
+
+        // if(earnKey.length === 0){
+        //     embed.addField(`This Item Is Not Earned!`, "Try **!buy** or **!drop** to see how to unlock this item!", false)
+        //     message.channel.send(embed)
+        //
+        // }
 
 
 
         //message.channel.send(`\`\`\`json\n${JSON.stringify(earnFile,null, 2)}\`\`\``)
 
         try {
+            let drop = new params.buttons.MessageButton()
+                .setStyle('blurple')
+                .setLabel('Drop')
+                .setID('drop')
+            let earn = new params.buttons.MessageButton()
+                .setStyle('green')
+                .setLabel('Earn')
+                .setID('earn')
+
+            let buy = new params.buttons.MessageButton()
+                .setStyle('blurple')
+                .setLabel('Buy')
+                .setID('buy')
+            let back = new params.buttons.MessageButton()
+                .setStyle('blurple')
+                .setLabel('Back')
+                .setID('back_to_item')
+
+            if(params['send_to_dm'] === true){
+                message.author.send({ buttons: [
+                        drop, earn, buy, back
+                    ], embed: embed })
+            }
+            else if(params['edit_message'] === true) {
+                message.edit({ buttons: [
+                        drop, earn, buy, back
+                    ], embed: embed })
+            }
+            else {
+                message.channel.send({ buttons: [
+                        drop, earn, buy, back
+                    ], embed: embed })
+            }
         }catch{
             err()
         }

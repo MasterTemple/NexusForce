@@ -4,7 +4,7 @@ module.exports = {
     args: true,
     use: `testitem [id]`,
     example: [`testitem 7415`],
-    execute(message, args) {
+    execute(message, args, params) {
         function err() {
             try {
                 const help = require(`./help.js`);

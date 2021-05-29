@@ -4,7 +4,7 @@ module.exports = {
     args: true,
     use: `help optional:[commandName]`,
     example:[`help`, `help type`],
-    execute(message, args) {
+    execute(message, args, params) {
         //console.log(args.length, args)
         const client = message.client
         var channel = message.channel.id

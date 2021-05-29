@@ -4,7 +4,7 @@ module.exports = {
     args: true,
     use: `startupstatus [args]`,
     example:[`startupstatus LEGO Universe`],
-    execute(message, args) {
+    execute(message, args, params) {
         let config = require('./../config.json');
         const fs = require('fs')
 

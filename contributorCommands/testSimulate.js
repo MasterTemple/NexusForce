@@ -4,7 +4,7 @@ module.exports = {
     args: true,
     use: `simulate [item name or ID] FROM [enemy Name or ID`,
     example: ['simulate red parrot from gf ape'],
-    execute(message, args) {
+    execute(message, args, params) {
         function err() {
             try {
                 const help = require(`./help.js`);
@@ -34,15 +34,15 @@ module.exports = {
         let findOneActivity = require(`./../functions/findOneActivity.js`)
         let findOnePackage = require(`./../functions/findOnePackage.js`)
 
-        const params = message.content.slice(14).trim().toLowerCase().split(" from "); //each space is a new argument
-        //const commandName = params.shift().toLowerCase();
-        // message.channel.send(params)
+        const sim_params = message.content.slice(14).trim().toLowerCase().split(" from "); //each space is a new argument
+        //const commandName = sim_params.shift().toLowerCase();
+        // message.channel.send(sim_params)
 
         try{
 
             try{
 
-                let paramName = params[0].split(/ +/)
+                let paramName = sim_params[0].split(/ +/)
                 if(paramName.length === 1 && isNaN(paramName[0]) === false){
                     var itemID = paramName[0]
                 }else {
@@ -70,7 +70,7 @@ module.exports = {
             }
             // message.channel.send(itemID)
             try{
-                let paramName = params[1].split(/ +/)
+                let paramName = sim_params[1].split(/ +/)
                 if(paramName.length === 1 && isNaN(paramName[0]) === false){
                     var enemyID = paramName[0]
                     try {

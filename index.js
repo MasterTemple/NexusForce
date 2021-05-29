@@ -10,7 +10,12 @@ const contributorCommandFiles = fs.readdirSync('./contributorCommands').filter(f
 const buttons = require('discord-buttons')(client);
 const button_handler = require(`./functions/buttons/button_handler`)
 const {prefix, token, startupStatus, botInfo, mythran, contributor} = require('./config.json');
-
+let params = {
+    send_to_dm: false,
+    buttons: buttons,
+    config: require('./config.json'),
+    edit_message: false
+}
 for (const file of commandFiles) {
     const command = require(`./commands/${file}`);
     for(var i=0; i < command.name.length; i++) {
@@ -23,13 +28,13 @@ for (const file of mythranCommandFiles) {
         client.mythranCommands.set(mythranCommand.name[i], mythranCommand);
     }
 }
-
 for (const file of contributorCommandFiles) {
     const contributorCommand = require(`./contributorCommands/${file}`);
     for(var i=0; i < contributorCommand.name.length; i++) {
         client.contributorCommands.set(contributorCommand.name[i], contributorCommand);
     }
 }
+
 
 client.once('ready', () => {
     console.log(`${botInfo.name} ${parseFloat(botInfo.version).toFixed( 1)} reporting for duty!`);
@@ -41,7 +46,7 @@ client.once('ready', () => {
 
 client.on('clickButton', async (button) => {
     //console.log('button clicked')
-    button_handler.execute(button)
+    button_handler.execute(button, params)
 });
 
 client.on('message', message => {
@@ -52,10 +57,10 @@ client.on('message', message => {
     if (client.mythranCommands.has(commandName) && (mythran.includes(message.author.id) || message.author.id === '703120460023463986' || message.author.id === '789705048035688458')){
         const command = client.mythranCommands.get(commandName);
         try {
-            command.execute(message);
+            command.execute(message, args, params);
         } catch (error) {
             try {
-                command.execute(message, args);
+                command.execute(message, args, params);
             } catch (error) {
                 console.error(error);
                 message.reply('The Maelstrom have broken this command!');
@@ -68,10 +73,10 @@ client.on('message', message => {
     if (client.contributorCommands.has(commandName) && contributor.includes(message.author.id)){
         const command = client.contributorCommands.get(commandName);
         try {
-            command.execute(message);
+            command.execute(message, args, params);
         } catch (error) {
             try {
-                command.execute(message, args);
+                command.execute(message, args, params);
             } catch (error) {
                 console.error(error);
                 message.reply('The Maelstrom have broken this command!');
@@ -87,10 +92,10 @@ client.on('message', message => {
     const command = client.commands.get(commandName);
 
     try {
-        command.execute(message);
+        command.execute(message, args, params);
     } catch (error) {
         try {
-            command.execute(message, args);
+            command.execute(message, args, params);
         } catch (error) {
             console.error(error);
             message.reply('The Maelstrom have broken this command!');

@@ -4,7 +4,7 @@ module.exports = {
     args: true,
     use: `setContributor [id]`,
     example:[`setContributor 789705048035688458`],
-    execute(message, args) {
+    execute(message, args, params) {
         let config = require('./../config.json');
         function err(){
             try {
