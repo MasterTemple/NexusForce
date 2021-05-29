@@ -39,7 +39,7 @@ module.exports = {
         let desc_array = []
         results.forEach(function(r, counter){
             c++
-            let name = r.displayName
+            let name = r.name
             if(name === ''){
                 name = r.name
             }
@@ -53,7 +53,7 @@ module.exports = {
             }
         })
         desc_array.forEach(async function(d){
-            console.log(d.length)
+            //console.log(d.length)
             // await embed.setDescription(d)
             embed = msgEmbed.execute(`Searching for: ${args.join(' ')}`, d,`${luExplorerURL}objects`, uIcon)
             //console.log(embed.description)
