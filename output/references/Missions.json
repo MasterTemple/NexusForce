@@ -396,7 +396,7 @@
         "defined_type": "Location",
         "defined_subtype": "Venture Explorer",
         "name": "Your Creative Spark",
-        "description": "<font color='#FF7F00'>Collect 6 Imagination power-ups</font> and return to <font color='#FF7F00'>Bob</font>.",
+        "description": "Collect 6 Imagination power-ups and return to Bob.",
         "isMission": 1
     },
     {
@@ -804,7 +804,7 @@
         "defined_type": "Location",
         "defined_subtype": "Venture Explorer",
         "name": "Not Enough Lifepods?",
-        "description": "Smash crates to <font color='#FF7F00'>collect 3 rocket parts</font>. You'll need a Nose Cone, a Cockpit and an Engine.",
+        "description": "Smash crates to collect 3 rocket parts. You'll need a Nose Cone, a Cockpit and an Engine.",
         "isMission": 1
     },
     {
@@ -812,7 +812,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Get Help!",
-        "description": "Find <font color='#FF7F00'>Epsilon Starcracker</font> in Avant Gardens.",
+        "description": "Find Epsilon Starcracker in Avant Gardens.",
         "isMission": 1
     },
     {
@@ -820,7 +820,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Smash Or Be Smashed",
-        "description": "<font color='#FF7F00'>Smash 15 Stromlings</font> and report back to Epsilon Starcracker.",
+        "description": "Smash 15 Stromlings and report back to Epsilon Starcracker.",
         "isMission": 1
     },
     {
@@ -828,7 +828,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Spider Fighter",
-        "description": "<font color='#FF7F00'>Smash Dark Spiderlings</font> until you find <font color='#FF7F00'>5 clues</font> that might reveal where the Spider Queen is hiding.",
+        "description": "Smash Dark Spiderlings until you find 5 clues that might reveal where the Spider Queen is hiding.",
         "isMission": 1
     },
     {
@@ -836,7 +836,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Report In!",
-        "description": "Report to <font color='#FF7F00'>Beck Strongheart</font> at the <font color='#FF7F00'>Sentinel Base Camp</font>.",
+        "description": "Report to Beck Strongheart at the Sentinel Base Camp.",
         "isMission": 1
     },
     {
@@ -844,7 +844,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Respect My Authority",
-        "description": "Use the <font color='#FF7F00'>Speedchat</font> button on the lower left, choose <font color='#FF7F00'>Actions</font> and then choose <font color='#FF7F00'>Salute</font>.",
+        "description": "Use the Speedchat button on the lower left, choose Actions and then choose Salute.",
         "isMission": 1
     },
     {
@@ -852,7 +852,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Fortify The Front",
-        "description": "Smash and <font color='#FF7F00'>Quick Build 6 Stromling Mechs into turrets</font> on the Avant Gardens battlefield.",
+        "description": "Smash and Quick Build 6 Stromling Mechs into turrets on the Avant Gardens battlefield.",
         "isMission": 1
     },
     {
@@ -860,7 +860,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Talk to Rusty",
-        "description": "Pass through the tunnel to find the Monument and <font color='#FF7F00'>speak to Rusty Steele</font>.",
+        "description": "Pass through the tunnel to find the Monument and speak to Rusty Steele.",
         "isMission": 1
     },
     {
@@ -868,7 +868,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "A Monumental View",
-        "description": "Climb up the Monument to reach the road and <font color='#FF7F00'>talk to Vector Longview</font>.",
+        "description": "Climb up the Monument to reach the road and talk to Vector Longview.",
         "isMission": 1
     },
     {
@@ -876,7 +876,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Finish Line",
-        "description": "<font color='#FF7F00'>Quick Build the Finish Line</font> to unlock the Monument Race.",
+        "description": "Quick Build the Finish Line to unlock the Monument Race.",
         "isMission": 1
     },
     {
@@ -884,7 +884,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Check In with Sky Lane",
-        "description": "You saved Avant Gardens! <font color='#FF7F00'>Report to Sky Lane</font> at the launch area in Avant Gardens.",
+        "description": "You saved Avant Gardens! Report to Sky Lane at the launch area in Avant Gardens.",
         "isMission": 1
     },
     {
@@ -892,7 +892,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Avant Gardens Air Strike",
-        "description": "<font color='#FF7F00'>Rebuild a Satellite Beacon</font> out on the battlefield.",
+        "description": "Rebuild a Satellite Beacon out on the battlefield.",
         "isMission": 1
     },
     {
@@ -900,7 +900,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Know Thy Enemy",
-        "description": "Smash Stromlings and <font color='#FF7F00'>collect 25 Maelstrom-infected bricks</font> for Wisp Lee.",
+        "description": "Smash Stromlings and collect 25 Maelstrom-infected bricks for Wisp Lee.",
         "isMission": 1
     },
     {
@@ -908,7 +908,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "A Real Hole in the Wall",
-        "description": "<font color='#FF7F00'>Quick Build the wall</font> at the Sentinel Base Camp.",
+        "description": "Quick Build the wall at the Sentinel Base Camp.",
         "isMission": 1
     },
     {
@@ -1060,7 +1060,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Back-up Bulwark!",
-        "description": "<font color='#FF7F00'>Fly to the Block Yard Property</font> and provide back-up for <font color='#FF7F00'>Vance Bulwark</font>.",
+        "description": "Fly to the Block Yard Property and provide back-up for Vance Bulwark.",
         "isMission": 1
     },
     {
@@ -1660,7 +1660,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Brick Collection",
-        "description": "<font color='#FF7F00'>Smash lumber piles</font> near the Monument to find <font color='#FF7F00'>bricks</font> for the wall at the Sentinel Base Camp.",
+        "description": "Smash lumber piles near the Monument to find bricks for the wall at the Sentinel Base Camp.",
         "isMission": 1
     },
     {
@@ -1676,7 +1676,7 @@
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Choose a Faction",
-        "description": "<font color='#FF7F00'>Talk to Nexus Jay</font> in Nimbus Plaza. Then select a Faction to join!",
+        "description": "Talk to Nexus Jay in Nimbus Plaza. Then select a Faction to join!",
         "isMission": 1
     },
     {
@@ -1684,7 +1684,7 @@
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Back to Nexus Jay",
-        "description": "Tell <font color='#FF7F00'>Nexus Jay</font> that you earned the approval of the Assembly Faction.",
+        "description": "Tell Nexus Jay that you earned the approval of the Assembly Faction.",
         "isMission": 1
     },
     {
@@ -1692,7 +1692,7 @@
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Find Mardolf the Orange",
-        "description": "<font color='#FF7F00'>Talk to Mardolf the Orange</font> to earn approval from the Assembly Faction.",
+        "description": "Talk to Mardolf the Orange to earn approval from the Assembly Faction.",
         "isMission": 1
     },
     {
@@ -1700,7 +1700,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Secrets of the Maelstrom",
-        "description": "Smash enemies and <font color='#FF7F00'>collect 15 Maelstrom-infected bricks</font>. Then take them back to <font color='#FF7F00'>Wisp Lee</font>.",
+        "description": "Smash enemies and collect 15 Maelstrom-infected bricks. Then take them back to Wisp Lee.",
         "isMission": 1
     },
     {
@@ -1708,7 +1708,7 @@
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Find Johnny Thunder",
-        "description": "Explore Nimbus Station and <font color='#FF7F00'>find Johnny Thunder</font> to earn approval from the Venture League.",
+        "description": "Explore Nimbus Station and find Johnny Thunder to earn approval from the Venture League.",
         "isMission": 1
     },
     {
@@ -1716,7 +1716,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Impress the Sentinel Faction",
-        "description": "Interact with the <font color='#FF7F00'>Battle Tower</font> to enter the <font color='#FF7F00'>Avant Gardens Survival</font> challenge, then <font color='#FF7F00'>last for 1 minute</font>. Survival requires 1 Green Imaginite.",
+        "description": "Interact with the Battle Tower to enter the Avant Gardens Survival challenge, then last for 1 minute. Survival requires 1 Green Imaginite.",
         "isMission": 1
     },
     {
@@ -1724,7 +1724,7 @@
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "A Thunderous Collection",
-        "description": "<font color='#FF7F00'>Find 3 floating treasure chests</font> hidden around Nimbus Station.",
+        "description": "Find 3 floating treasure chests hidden around Nimbus Station.",
         "isMission": 1
     },
     {
@@ -1732,7 +1732,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Faction Time",
-        "description": "<font color='#FF7F00'>Fly to Nimbus Station</font> and <font color='#FF7F00'>talk to Nexus Jay</font>, the Nexus Force Recruiter.",
+        "description": "Fly to Nimbus Station and talk to Nexus Jay, the Nexus Force Recruiter.",
         "isMission": 1
     },
     {
@@ -2356,7 +2356,7 @@
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Get your Assembly Gear!",
-        "description": "<font color='#FF7F00'>Talk to Meldric Steamvalve</font> in Nimbus Plaza and pick your first Specialty Kit!",
+        "description": "Talk to Meldric Steamvalve in Nimbus Plaza and pick your first Specialty Kit!",
         "isMission": 1
     },
     {
@@ -2364,7 +2364,7 @@
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Get your Venture League Gear!",
-        "description": "<font color='#FF7F00'>Talk to Magnus Bumperdent</font> in Nimbus Plaza and pick your first Specialty Kit!",
+        "description": "Talk to Magnus Bumperdent in Nimbus Plaza and pick your first Specialty Kit!",
         "isMission": 1
     },
     {
@@ -2372,7 +2372,7 @@
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Get your Paradox Gear!",
-        "description": "<font color='#FF7F00'>Talk to Cog Blammo</font> in Nimbus Plaza and pick your first Specialty Kit!",
+        "description": "Talk to Cog Blammo in Nimbus Plaza and pick your first Specialty Kit!",
         "isMission": 1
     },
     {
@@ -2380,7 +2380,7 @@
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Get your Sentinel Faction Gear!",
-        "description": "<font color='#FF7F00'>Talk to Xeno Blueblade</font> in Nimbus Plaza and pick your first Specialty Kit!",
+        "description": "Talk to Xeno Blueblade in Nimbus Plaza and pick your first Specialty Kit!",
         "isMission": 1
     },
     {
@@ -2604,7 +2604,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Infested!",
-        "description": "<font color='#FF7F00'>Talk to Crash Helmut</font> at the infected Launch Area in Avant Gardens.",
+        "description": "Talk to Crash Helmut at the infected Launch Area in Avant Gardens.",
         "isMission": 1
     },
     {
@@ -2812,7 +2812,7 @@
         "defined_type": "Location",
         "defined_subtype": "Venture Explorer",
         "name": "Bounce to Sky Lane",
-        "description": "Quick Builds require Imagination. <font color='#FF7F00'>Quick Build a Bouncer</font> and use it to <font color='#FF7F00'>talk to Sky Lane</font>.",
+        "description": "Quick Builds require Imagination. Quick Build a Bouncer and use it to talk to Sky Lane.",
         "isMission": 1
     },
     {
@@ -3164,7 +3164,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Sentinel Shine",
-        "description": "<font color='#FF7F00'>Buy 3 cans of Armor Polish</font> from Klaus Zett, the Gear Vendor, and return to Beck Strongheart.",
+        "description": "Buy 3 cans of Armor Polish from Klaus Zett, the Gear Vendor, and return to Beck Strongheart.",
         "isMission": 1
     },
     {
@@ -3324,7 +3324,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "To Arms!",
-        "description": "Open your <font color='#FF7F00'>Backpack</font> and <font color='#FF7F00'>equip your weapon</font>. Then <font color='#FF7F00'>attack</font> with it. To equip, click and drag the weapon onto yourself.",
+        "description": "Open your Backpack and equip your weapon. Then attack with it. To equip, click and drag the weapon onto yourself.",
         "isMission": 1
     },
     {
@@ -3412,7 +3412,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Arachnophobia",
-        "description": "<font color='#FF7F00'>Smash the Spider Queen</font> on Block Yard.",
+        "description": "Smash the Spider Queen on Block Yard.",
         "isMission": 1
     },
     {
@@ -3676,7 +3676,7 @@
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Rocket Builder",
-        "description": "<font color='#FF7F00'>Build a new rocket</font> using a <font color='#FF7F00'>Nimbus rocket part</font>. You can drag a completed rocket into the Build Area to change its parts.",
+        "description": "Build a new rocket using a Nimbus rocket part. You can drag a completed rocket into the Build Area to change its parts.",
         "isMission": 1
     },
     {
@@ -3684,7 +3684,7 @@
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Venture League Specialty Kit",
-        "description": "Open the Rank 1 Specialty Kit Package in your inventory, <font color='#FF7F00'>read the Rank 1 book</font>, and <font color='#FF7F00'>equip every piece of your Specialty Kit</font>.",
+        "description": "Open the Rank 1 Specialty Kit Package in your inventory, read the Rank 1 book, and equip every piece of your Specialty Kit.",
         "isMission": 1
     },
     {
@@ -3692,7 +3692,7 @@
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Paradox Specialty Kit",
-        "description": "Open the Rank 1 Specialty Kit Package in your inventory, <font color='#FF7F00'>read the Rank 1 book</font>, and <font color='#FF7F00'>equip every piece of your Specialty Kit</font>.",
+        "description": "Open the Rank 1 Specialty Kit Package in your inventory, read the Rank 1 book, and equip every piece of your Specialty Kit.",
         "isMission": 1
     },
     {
@@ -3700,7 +3700,7 @@
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Sentinel Specialty Kit",
-        "description": "Open the Rank 1 Specialty Kit Package in your inventory, <font color='#FF7F00'>read the Rank 1 book</font>, and <font color='#FF7F00'>equip every piece of your Specialty Kit</font>.",
+        "description": "Open the Rank 1 Specialty Kit Package in your inventory, read the Rank 1 book, and equip every piece of your Specialty Kit.",
         "isMission": 1
     },
     {
@@ -3708,7 +3708,7 @@
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Assembly Specialty Kit",
-        "description": "Open the Rank 1 Specialty Kit Package in your inventory, <font color='#FF7F00'>read the Rank 1 book</font>, and <font color='#FF7F00'>equip every piece of your Specialty Kit</font>.",
+        "description": "Open the Rank 1 Specialty Kit Package in your inventory, read the Rank 1 book, and equip every piece of your Specialty Kit.",
         "isMission": 1
     },
     {
@@ -4012,7 +4012,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Stake a Claim",
-        "description": "<font color='#FF7F00'>Interact with the Property Console</font> to claim this Block Yard Property.",
+        "description": "Interact with the Property Console to claim this Block Yard Property.",
         "isMission": 1
     },
     {
@@ -4020,7 +4020,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Model Mania",
-        "description": "Find the Models tab in your Backpack and then <font color='#FF7F00'>place 4 models</font> on your Property.",
+        "description": "Find the Models tab in your Backpack and then place 4 models on your Property.",
         "isMission": 1
     },
     {
@@ -4140,7 +4140,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Model Movers",
-        "description": "<font color='#FF7F00'>Pick up, rotate and put away a model</font> on your Block Yard Property.",
+        "description": "Pick up, rotate and put away a model on your Block Yard Property.",
         "isMission": 1
     },
     {
@@ -4340,7 +4340,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "The Sentinel Shield",
-        "description": "<font color='#FF7F00'>Buy a Sentinel Shield</font> from Klaus Zett, the Gear Vendor in the Sentinel Base Camp.",
+        "description": "Buy a Sentinel Shield from Klaus Zett, the Gear Vendor in the Sentinel Base Camp.",
         "isMission": 1
     },
     {
@@ -4348,7 +4348,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Your Action Bar",
-        "description": "<font color='#FF7F00'>Equip the Sentinel Shield</font>, then <font color='#FF7F00'>press 3</font> or <font color='#FF7F00'>click on the new skill in your Action Bar</font> to use it.",
+        "description": "Equip the Sentinel Shield, then press 3 or click on the new skill in your Action Bar to use it.",
         "isMission": 1
     },
     {
@@ -4476,7 +4476,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Pay to Play",
-        "description": "<font color='#FF7F00'>Buy 10 Green Imaginite</font> for <font color='#FF7F00'>Commander Beck Strongheart</font> in Avant Gardens.",
+        "description": "Buy 10 Green Imaginite for Commander Beck Strongheart in Avant Gardens.",
         "isMission": 1
     },
     {
@@ -5476,7 +5476,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Slot Five",
-        "description": "Drag the Maelstrom Vacuum onto <font color='#FF7F00'>slot 5</font> of your <font color='#FF7F00'>Action Bar</font>. Then press <font color='#FF7F00'>5</font> to activate the Vacuum.",
+        "description": "Drag the Maelstrom Vacuum onto slot 5 of your Action Bar. Then press 5 to activate the Vacuum.",
         "isMission": 1
     },
     {
@@ -5484,7 +5484,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Smash and Awe",
-        "description": "<font color='#FF7F00'>Quick Build all 4 Satellite Beacons</font> on the Avant Gardens battlefield.",
+        "description": "Quick Build all 4 Satellite Beacons on the Avant Gardens battlefield.",
         "isMission": 1
     },
     {
@@ -5492,7 +5492,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Whatever It Takes",
-        "description": "<font color='#FF7F00'>Survive for 3 minutes</font> in the <font color='#FF7F00'>Avant Gardens Survival</font> mini-game.",
+        "description": "Survive for 3 minutes in the Avant Gardens Survival mini-game.",
         "isMission": 1
     },
     {
@@ -5532,7 +5532,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Spare Cannonballs",
-        "description": "<font color='#FF7F00'>Collect 10 cannonballs</font> for <font color='#FF7F00'>Sky Lane</font> in Avant Gardens. Find them inside sharks in Gnarled Forest.",
+        "description": "Collect 10 cannonballs for Sky Lane in Avant Gardens. Find them inside sharks in Gnarled Forest.",
         "isMission": 1
     },
     {
@@ -6428,7 +6428,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Clear Avant Grove!",
-        "description": "Find a way to <font color='#FF7F00'>reach the Imagination Orb</font> and clear the Property.",
+        "description": "Find a way to reach the Imagination Orb and clear the Property.",
         "isMission": 1
     },
     {
@@ -9292,7 +9292,7 @@
         "defined_type": "Location",
         "defined_subtype": "Venture Explorer",
         "name": "Wake Up Call",
-        "description": "<font color='#FF7F00'>Talk to Bob</font> on the center platform of the spaceship.",
+        "description": "Talk to Bob on the center platform of the spaceship.",
         "isMission": 1
     },
     {
@@ -9300,7 +9300,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Do You Spinjitzu?",
-        "description": "<font color='#FF7F00'>Interact with a mailbox</font> to retrieve the Ninjago item from Cole, then give it back to <font color='#FF7F00'>Rocco Sirocco</font>.",
+        "description": "Interact with a mailbox to retrieve the Ninjago item from Cole, then give it back to Rocco Sirocco.",
         "isMission": 1
     },
     {
@@ -9332,7 +9332,7 @@
         "defined_type": "Location",
         "defined_subtype": "Venture Explorer",
         "name": "Escape the Venture Explorer",
-        "description": "<font color='#FF7F00'>Build a rocket</font> at the building area below, then use one of the <font color='#FF7F00'>launchers</font> to escape. <font color='#FF7F00'>Talk to Wisp Lee</font> when you land.",
+        "description": "Build a rocket at the building area below, then use one of the launchers to escape. Talk to Wisp Lee when you land.",
         "isMission": 1
     },
     {
@@ -10140,7 +10140,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Seal of Approval",
-        "description": "Report back to <font color='#FF7F00'>Epsilon Starcracker</font>.",
+        "description": "Report back to Epsilon Starcracker.",
         "isMission": 1
     },
     {
@@ -10148,7 +10148,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "The Perils of Paradox",
-        "description": "<font color='#FF7F00'>Talk to Wisp Lee</font> at the destroyed Paradox Lab in Avant Gardens.",
+        "description": "Talk to Wisp Lee at the destroyed Paradox Lab in Avant Gardens.",
         "isMission": 1
     },
     {
@@ -10156,7 +10156,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Following the Trail",
-        "description": "Use the Maelstrom Vacuum to <font color='#FF7F00'>collect 8 Maelstrom Samples</font>. Follow the Spider Queen's trail behind the Paradox Lab in Avant Gardens.",
+        "description": "Use the Maelstrom Vacuum to collect 8 Maelstrom Samples. Follow the Spider Queen's trail behind the Paradox Lab in Avant Gardens.",
         "isMission": 1
     },
     {
@@ -10164,7 +10164,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Lightning Strikes Twice",
-        "description": "<font color='#FF7F00'>Interact with the bricks</font> in the cage to use the Maelstrom Cube on them and repeat Wisp's experiment.",
+        "description": "Interact with the bricks in the cage to use the Maelstrom Cube on them and repeat Wisp's experiment.",
         "isMission": 1
     },
     {
@@ -10172,7 +10172,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Paradox Approval",
-        "description": "Report to <font color='#FF7F00'>Epsilon Starcracker</font>.",
+        "description": "Report to Epsilon Starcracker.",
         "isMission": 1
     },
     {
@@ -10180,7 +10180,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Agent Foxtrot",
-        "description": "Report to <font color='#FF7F00'>Melodie Foxtrot</font> by the caves behind the Paradox Lab in Avant Gardens to <font color='#FF7F00'>borrow Faction Gear</font>.",
+        "description": "Report to Melodie Foxtrot by the caves behind the Paradox Lab in Avant Gardens to borrow Faction Gear.",
         "isMission": 1
     },
     {
@@ -10188,7 +10188,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Recon Report",
-        "description": "Give the Spider Queen's location to <font color='#FF7F00'>Beck Strongheart</font> at the Sentinel Base Camp.",
+        "description": "Give the Spider Queen's location to Beck Strongheart at the Sentinel Base Camp.",
         "isMission": 1
     },
     {
@@ -10196,7 +10196,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Laser Rampage",
-        "description": "Smash the fans and lasers on the Monument to <font color='#FF7F00'>collect 3 Flashlights and 4 Hamster Wheels</font>.",
+        "description": "Smash the fans and lasers on the Monument to collect 3 Flashlights and 4 Hamster Wheels.",
         "isMission": 1
     },
     {
@@ -10204,7 +10204,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Monumental Repairs",
-        "description": "<font color='#FF7F00'>Quick Build 1 button, 1 bouncer, and 1 moving platform</font> on the Monument.",
+        "description": "Quick Build 1 button, 1 bouncer, and 1 moving platform on the Monument.",
         "isMission": 1
     },
     {
@@ -10212,7 +10212,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Scarecrow",
-        "description": "<font color='#FF7F00'>Scare 5 birds</font> off of the top of the Monument.",
+        "description": "Scare 5 birds off of the top of the Monument.",
         "isMission": 1
     },
     {
@@ -10220,7 +10220,7 @@
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Do the Monster Smash",
-        "description": "<font color='#FF7F00'>Smash 20 Stromlings</font> on the Avant Gardens battlefield.",
+        "description": "Smash 20 Stromlings on the Avant Gardens battlefield.",
         "isMission": 1
     },
     {
@@ -10228,7 +10228,7 @@
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Reboot the Robots",
-        "description": "<font color='#FF7F00'>Smash 10 Stromling Mechs</font> on the Avant Gardens battlefield.",
+        "description": "Smash 10 Stromling Mechs on the Avant Gardens battlefield.",
         "isMission": 1
     },
     {
@@ -10236,7 +10236,7 @@
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Clean-Up Squad",
-        "description": "<font color='#FF7F00'>Smash 15 Stromlings and 5 Stromling Mechs</font> on the Avant Gardens battlefield.",
+        "description": "Smash 15 Stromlings and 5 Stromling Mechs on the Avant Gardens battlefield.",
         "isMission": 1
     },
     {
@@ -10252,7 +10252,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Creepy Crawlies",
-        "description": "<font color='#FF7F00'>Smash 10 Dark Spiderlings</font> in the Avant Gardens caves.",
+        "description": "Smash 10 Dark Spiderlings in the Avant Gardens caves.",
         "isMission": 1
     },
     {
@@ -10260,7 +10260,7 @@
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Web of Destruction",
-        "description": "<font color='#FF7F00'>Smash 10 Dark Spiderlings</font> in the Avant Gardens caves.",
+        "description": "Smash 10 Dark Spiderlings in the Avant Gardens caves.",
         "isMission": 1
     },
     {
@@ -10268,7 +10268,7 @@
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Smashdown",
-        "description": "<font color='#FF7F00'>Quick Build all 4 Satellite Beacons</font> in Avant Gardens.",
+        "description": "Quick Build all 4 Satellite Beacons in Avant Gardens.",
         "isMission": 1
     },
     {
@@ -10276,7 +10276,7 @@
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Test Your Metal",
-        "description": "<font color='#FF7F00'>Survive for 3 minutes</font> in the Avant Gardens Survival mini-game.",
+        "description": "Survive for 3 minutes in the Avant Gardens Survival mini-game.",
         "isMission": 1
     },
     {
@@ -10308,7 +10308,7 @@
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Brick Patrol",
-        "description": "<font color='#FF7F00'>Collect 6 bricks</font> for the wall at the Sentinel Base Camp.",
+        "description": "Collect 6 bricks for the wall at the Sentinel Base Camp.",
         "isMission": 1
     },
     {
@@ -10316,7 +10316,7 @@
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Spackle Fixes Everything",
-        "description": "<font color='#FF7F00'>Quick Build the wall</font> at the Sentinel Base Camp.",
+        "description": "Quick Build the wall at the Sentinel Base Camp.",
         "isMission": 1
     },
     {
@@ -10340,7 +10340,7 @@
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Wrecking Crew",
-        "description": "<font color='#FF7F00'>Collect 3 Hamster Wheels and 4 Flashlights</font> by smashing fans and lasers on the Monument.",
+        "description": "Collect 3 Hamster Wheels and 4 Flashlights by smashing fans and lasers on the Monument.",
         "isMission": 1
     },
     {
@@ -10348,7 +10348,7 @@
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Care to Repair?",
-        "description": "<font color='#FF7F00'>Quick Build 1 button, 1 Bouncer and 1 moving platform</font> on the Monument.",
+        "description": "Quick Build 1 button, 1 Bouncer and 1 moving platform on the Monument.",
         "isMission": 1
     },
     {
@@ -10356,7 +10356,7 @@
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Bye Bye Birdies",
-        "description": "<font color='#FF7F00'>Scare 10 birds</font> off of the Avant Gardens Monument.",
+        "description": "Scare 10 birds off of the Avant Gardens Monument.",
         "isMission": 1
     },
     {
@@ -10372,7 +10372,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "A View to a Monument",
-        "description": "<font color='#FF7F00'>Interact with the Binoculars</font> at the end of the broken road to see a view of the Monument.",
+        "description": "Interact with the Binoculars at the end of the broken road to see a view of the Monument.",
         "isMission": 1
     },
     {
@@ -10388,7 +10388,7 @@
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Spare Parts",
-        "description": "<font color='#FF7F00'>Collect 3 spare parts</font> by smashing <font color='#FF7F00'>Stromling Mechs</font> in Avant Gardens. Then smash and <font color='#FF7F00'>rebuild the Defense Robot</font> by the Paradox Lab.",
+        "description": "Collect 3 spare parts by smashing Stromling Mechs in Avant Gardens. Then smash and rebuild the Defense Robot by the Paradox Lab.",
         "isMission": 1
     },
     {
@@ -10396,7 +10396,7 @@
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Six Shooter",
-        "description": "Equip the Plunger Gun, select 3 on your Action Bar and press Attack to fire. <font color='#FF7F00'>Shoot  6 targets</font> around Avant Gardens.",
+        "description": "Equip the Plunger Gun, select 3 on your Action Bar and press Attack to fire. Shoot  6 targets around Avant Gardens.",
         "isMission": 1
     },
     {
@@ -10404,7 +10404,7 @@
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Bring Back the Booty",
-        "description": "<font color='#FF7F00'>Use Swabby’s Shovel</font> on 5 player Properties to dig up 5 hidden treasures.",
+        "description": "Use Swabby’s Shovel on 5 player Properties to dig up 5 hidden treasures.",
         "isMission": 1
     },
     {
@@ -10412,7 +10412,7 @@
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Help Wanted!",
-        "description": "<font color='#FF7F00'>Talk to Wisp Lee</font> in Avant Gardens about a <font color='#FF7F00'>Maelstrom Cube</font> for Hu Where.",
+        "description": "Talk to Wisp Lee in Avant Gardens about a Maelstrom Cube for Hu Where.",
         "isMission": 1
     },
     {
@@ -10420,7 +10420,7 @@
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Sample for Science",
-        "description": "Use the Maelstrom Vacuum to <font color='#FF7F00'>collect 10 Maelstrom Samples</font> in Avant Gardens.",
+        "description": "Use the Maelstrom Vacuum to collect 10 Maelstrom Samples in Avant Gardens.",
         "isMission": 1
     },
     {
@@ -10428,7 +10428,7 @@
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Faster and More Furious",
-        "description": "<font color='#FF7F00'>Interact with the Starting Line</font> at the base of the Monument to run the Monument Race.",
+        "description": "Interact with the Starting Line at the base of the Monument to run the Monument Race.",
         "isMission": 1
     },
     {
@@ -10468,7 +10468,7 @@
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Nexus Orders",
-        "description": "<font color='#FF7F00'>Talk to Nexus Jay</font> in Nimbus Plaza.",
+        "description": "Talk to Nexus Jay in Nimbus Plaza.",
         "isMission": 1
     },
     {
@@ -10476,7 +10476,7 @@
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Nexus Orders",
-        "description": "<font color='#FF7F00'>Talk to Nexus Jay</font> in Nimbus Plaza.",
+        "description": "Talk to Nexus Jay in Nimbus Plaza.",
         "isMission": 1
     },
     {
@@ -10484,7 +10484,7 @@
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Nexus Orders",
-        "description": "<font color='#FF7F00'>Talk to Nexus Jay</font> in Nimbus Plaza.",
+        "description": "Talk to Nexus Jay in Nimbus Plaza.",
         "isMission": 1
     },
     {
@@ -10492,7 +10492,7 @@
         "defined_type": "Location",
         "defined_subtype": "Nimbus Station",
         "name": "Nexus Orders",
-        "description": "<font color='#FF7F00'>Talk to Nexus Jay</font> in Nimbus Plaza.",
+        "description": "Talk to Nexus Jay in Nimbus Plaza.",
         "isMission": 1
     },
     {
@@ -10524,7 +10524,7 @@
         "defined_type": "Location",
         "defined_subtype": "Venture Explorer",
         "name": "Venture into Knowledge",
-        "description": "The orange circle at the top of the screen is the <font color='#FF7F00'>Mission Tracker</font>. It shows your current objective.",
+        "description": "The orange circle at the top of the screen is the Mission Tracker. It shows your current objective.",
         "isMission": 1
     },
     {
@@ -10532,7 +10532,7 @@
         "defined_type": "Hidden",
         "defined_subtype": "Hidden",
         "name": "Gonna Need a Bigger Boat",
-        "description": "<font color='#FF7F00'>Buy 5 Stinky Fish</font> from Farnham Spoon and use them to <font color='#FF7F00'>feed 5 sharks</font> in the water around Nimbus Station.",
+        "description": "Buy 5 Stinky Fish from Farnham Spoon and use them to feed 5 sharks in the water around Nimbus Station.",
         "isMission": 1
     },
     {
@@ -10676,7 +10676,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Borrowed Gear",
-        "description": "Equip the <font color='#FF7F00'>Trial Faction Gear</font> by dragging it from your backpack onto yourself.",
+        "description": "Equip the Trial Faction Gear by dragging it from your backpack onto yourself.",
         "isMission": 1
     },
     {
@@ -10684,7 +10684,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "Hall Pass",
-        "description": "<font color='#FF7F00'>Talk to Theo Balfour</font> in the tunnel behind the Sentinel Base Camp.",
+        "description": "Talk to Theo Balfour in the tunnel behind the Sentinel Base Camp.",
         "isMission": 1
     },
     {
@@ -10796,7 +10796,7 @@
         "defined_type": "Location",
         "defined_subtype": "Avant Gardens",
         "name": "One Size Fits All",
-        "description": "Find the <font color='#FF7F00'>Trial Faction Gear</font> in your Backpack and equip it.",
+        "description": "Find the Trial Faction Gear in your Backpack and equip it.",
         "isMission": 1
     },
     {

@@ -34,7 +34,7 @@ module.exports = {
         var desc = ''
 
         results.forEach(function(r, counter){
-            let name = r.displayName
+            let name = r.name
             if(name === ''){
                 name = r.name
             }
