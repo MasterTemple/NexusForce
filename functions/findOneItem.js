@@ -10,7 +10,18 @@ module.exports = {
         let match = item.find(e => sorted.every(function (el) {
             return e?.name?.toLowerCase().includes(el)
         }))
-        return match.id
+        try{
+            return match.id
+        }catch{
+            const SQLitem = require(`./../output/references/SQLItems.json`);
+
+            match = SQLitem.find(e => sorted.every(function (el) {
+                //console.log(e, el)
+                //console.log(e?.name?.toLowerCase().includes(el), e?.displayName?.toLowerCase().includes(el))
+                return e?.name?.toLowerCase().includes(el) + e?.displayName?.toLowerCase().includes(el)
+            }))
+            return match.id
+        }
 
     }
 }

@@ -21,7 +21,23 @@ module.exports = {
                 }
             }catch{}
         }
-        return results
+        if(results.length !== 0) {
+            return results
+        }else{
+            const SQLitem = require(`./../output/references/SQLObjects.json`)
+            let keys = Object.keys(SQLitem)
+            for (var j = 0; j < (keys.length);j++) {
+                try{
+                    var allMatch = sorted.every(function (e) {
+                        // return item[j].name.toLowerCase().includes(e) + item[j].displayName.toLowerCase().includes(e)
+                        return SQLitem[j].name.toLowerCase().includes(e)
+                    });
+                    if (allMatch) {
+                        results.push(SQLitem[j])
+                    }
+                }catch{}
+            }
+        }
 
     }
 }

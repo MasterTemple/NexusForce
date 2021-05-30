@@ -10,7 +10,17 @@ module.exports = {
         let match = item.find(e => sorted.every(function (el) {
             return e?.name?.toLowerCase().includes(el)
         }))
-        return match.id
+        try{
+            return match.id
+        }catch{
+            const SQLEnemies = require(`./../output/references/SQLEnemies.json`);
+
+
+            let match = SQLEnemies.find(e => sorted.every(function (el) {
+                return e?.name?.toLowerCase().includes(el) + e?.displayName?.toLowerCase().includes(el)
+            }))
+            return match.id
+        }
 
     }
 }

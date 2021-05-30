@@ -15,7 +15,7 @@ module.exports = {
                 console.error(error);
             }
         }
-        if(args.length > 1 || isNaN(args[0])){
+        if(args.length !== 1 || isNaN(args[0])){
             let findOne = require(`./../functions/findOnePackage.js`)
             var objectID = findOne.execute(args)
             if(objectID===undefined){
@@ -45,24 +45,24 @@ module.exports = {
         const { uIcon, luExplorerURL, resURL, unknownImageURL} = require('./../config.json')
         let img = resURL+packageFile.iconURL
         for(let p=0; p<packageFile.LootTableIndexes.length;p++){
-            if(packageFile.LootTableIndexes[p].names.Name === null || packageFile.LootTableIndexes[p].names.Name === undefined){
-                packageFile.LootTableIndexes[p].names.Name = packageFile.LootTableIndexes[p].names.AlternateName
+            if(packageFile.LootTableIndexes[p].names.Name === null || packageFile?.LootTableIndexes[p]?.names.Name === undefined){
+                packageFile.LootTableIndexes[p].names.Name = packageFile?.LootTableIndexes[p]?.names.AlternateName
             }
-            //description = `${description}**${packageFile.LootTableIndexes[p].names.Name}** [${packageFile.LootTableIndexes[p].LootTableIndex}] - **${packageFile.LootTableIndexes[p].percent}%**\n`
-			if(packageFile.LootTableIndexes[p].maxToDrop === 1){
-				description = `${description}**${packageFile.LootTableIndexes[p].names.Name}** [[${packageFile.LootTableIndexes[p].LootTableIndex}]](${luExplorerURL}objects/loot/table/${packageFile.LootTableIndexes[p].LootTableIndex}) - **${packageFile.LootTableIndexes[p].percent}%** For **1** Item\n`
+            //description = `${description}**${packageFile?.LootTableIndexes[p]?.names.Name}** [${packageFile?.LootTableIndexes[p]?.LootTableIndex}] - **${packageFile?.LootTableIndexes[p]?.percent}%**\n`
+			if(packageFile?.LootTableIndexes[p]?.maxToDrop === 1){
+				description = `${description}**${packageFile?.LootTableIndexes[p]?.names.Name}** [[${packageFile?.LootTableIndexes[p]?.LootTableIndex}]](${luExplorerURL}objects/loot/table/${packageFile?.LootTableIndexes[p]?.LootTableIndex}) - **${packageFile?.LootTableIndexes[p]?.percent}%** For **1** Item\n`
 			}
-			else if(packageFile.LootTableIndexes[p].minToDrop === packageFile.LootTableIndexes[p].maxToDrop){
-				description = `${description}**${packageFile.LootTableIndexes[p].names.Name}** [[${packageFile.LootTableIndexes[p].LootTableIndex}]](${luExplorerURL}objects/loot/table/${packageFile.LootTableIndexes[p].LootTableIndex}) - **${packageFile.LootTableIndexes[p].percent}%** For **${packageFile.LootTableIndexes[p].minToDrop}** Items\n`
+			else if(packageFile?.LootTableIndexes[p]?.minToDrop === packageFile?.LootTableIndexes[p]?.maxToDrop){
+				description = `${description}**${packageFile?.LootTableIndexes[p]?.names.Name}** [[${packageFile?.LootTableIndexes[p]?.LootTableIndex}]](${luExplorerURL}objects/loot/table/${packageFile?.LootTableIndexes[p]?.LootTableIndex}) - **${packageFile?.LootTableIndexes[p]?.percent}%** For **${packageFile?.LootTableIndexes[p]?.minToDrop}** Items\n`
 			}else{
-				description = `${description}**${packageFile.LootTableIndexes[p].names.Name}** [[${packageFile.LootTableIndexes[p].LootTableIndex}]](${luExplorerURL}objects/loot/table/${packageFile.LootTableIndexes[p].LootTableIndex}) - **${packageFile.LootTableIndexes[p].percent}%** For **${packageFile.LootTableIndexes[p].minToDrop} - ${packageFile.LootTableIndexes[p].maxToDrop}** Items\n`
+				description = `${description}**${packageFile?.LootTableIndexes[p]?.names.Name}** [[${packageFile?.LootTableIndexes[p]?.LootTableIndex}]](${luExplorerURL}objects/loot/table/${packageFile?.LootTableIndexes[p]?.LootTableIndex}) - **${packageFile?.LootTableIndexes[p]?.percent}%** For **${packageFile?.LootTableIndexes[p]?.minToDrop} - ${packageFile?.LootTableIndexes[p]?.maxToDrop}** Items\n`
 			}
             let arr = []
 
 
-            for(let k=0;k<Object.keys(packageFile.LootTableIndexes[p].rarityCount).length;k++){
-                //console.log(k, packageFile.LootTableIndexes[p].rarityCount[k])
-                if(packageFile.LootTableIndexes[p].rarityCount[k] > 0) {
+            for(let k=0;k<Object.keys(packageFile?.LootTableIndexes[p]?.rarityCount).length;k++){
+                //console.log(k, packageFile?.LootTableIndexes[p]?.rarityCount[k])
+                if(packageFile?.LootTableIndexes[p]?.rarityCount[k] > 0) {
                     arr.push(k)
                 }
 
@@ -73,20 +73,20 @@ module.exports = {
             description = `${description}__(Specific)__ `
             for (let i = 0; i < arr.length; i++) {
                 if(displayFractions) {
-                    description = `${description}**T${arr[i]}:** 1 in ${packageFile.LootTableIndexes[p].rarityTableInfo[arr[i]].howManyToKillForSpecific} `
+                    description = `${description}**T${arr[i]}:** 1 in ${packageFile?.LootTableIndexes[p]?.rarityTableInfo[arr[i]].howManyToKillForSpecific} `
                 }else{
-                    description = `${description}**T${arr[i]}:** ${(packageFile.LootTableIndexes[p].rarityTableInfo[arr[i]].weightedChanceForSpecificItemIncludingDrop * 100).toFixed(4)}% `
+                    description = `${description}**T${arr[i]}:** ${(packageFile?.LootTableIndexes[p]?.rarityTableInfo[arr[i]].weightedChanceForSpecificItemIncludingDrop * 100).toFixed(4)}% `
                 }
             }
             description = `${description}\n__(Any)__ `
 
             for (let i = 0; i < arr.length; i++) {
                 if(displayFractions) {
-                    description = `${description}**T${arr[i]}:** 1 in ${packageFile.LootTableIndexes[p].rarityTableInfo[arr[i]].howManyToKillForAny} `
+                    description = `${description}**T${arr[i]}:** 1 in ${packageFile?.LootTableIndexes[p]?.rarityTableInfo[arr[i]].howManyToKillForAny} `
                 }else{
-                    description = `${description}**T${arr[i]}:** ${(packageFile.LootTableIndexes[p].rarityTableInfo[arr[i]].weightedChanceForAnyItemIncludingDrop * 100).toFixed(4)}% `
+                    description = `${description}**T${arr[i]}:** ${(packageFile?.LootTableIndexes[p]?.rarityTableInfo[arr[i]].weightedChanceForAnyItemIncludingDrop * 100).toFixed(4)}% `
                 }
-                //description = `${description} ${config.emojis[`rarity${i}`]} ${(packageFile.drop.LootTableIndexes[p].rarityTableInfo[i].weightedChanceForSpecificItemIncludingDrop * 100).toFixed(4)}% `
+                //description = `${description} ${config.emojis[`rarity${i}`]} ${(packageFile.drop?.LootTableIndexes[p]?.rarityTableInfo[i].weightedChanceForSpecificItemIncludingDrop * 100).toFixed(4)}% `
             }
             description = `${description}\n\n`
 

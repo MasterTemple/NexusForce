@@ -10,7 +10,16 @@ module.exports = {
         let match = item.find(e => sorted.every(function (el) {
             return e?.name?.toLowerCase().includes(el)
         }))
-        return match.id
+        try{
+            return match.id
+        }catch{
+            const SQLitem = require(`./../output/references/SQLBricksAndItems.json`);
+
+            let match = SQLitem.find(e => sorted.every(function (el) {
+                return e?.name?.toLowerCase().includes(el) + e?.displayName?.toLowerCase().includes(el)
+            }))
+            return match.id
+        }
 
     }
 }

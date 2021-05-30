@@ -15,7 +15,7 @@ module.exports = {
                 console.error(error);
             }
         }
-        if((args.length > 1 || isNaN(args[0])) && (params['send_to_dm'] === false && params['edit_message'] === false) ){
+        if((args.length !== 1 || isNaN(args[0])) && (params['send_to_dm'] === false && params['edit_message'] === false) ){
             //console.log(args, params['send_to_dm'], params['edit_message'])
             let findOne = require(`./../functions/findOneItem.js`)
             var itemID = findOne.execute(args)
@@ -24,7 +24,7 @@ module.exports = {
                 //err()
                 return
             }
-        }else{
+        }else if(args.length === 1 && !isNaN(args[0])){
             var itemID = args[0]
         }
         //console.log(args.length > 1, isNaN(args[0]), params['send_to_dm'] === false, params['edit_message'] === false)
