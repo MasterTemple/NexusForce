@@ -158,7 +158,7 @@ module.exports = {
                 if(item_is_not_package){
                     package_button.setDisabled(true)
                 }
-                if(item_has_no_preconditions){
+                if(item_has_no_preconditions || itemFile['itemInfo']['type'] === "LEGO brick"){
                     preconditions_button.setDisabled(true)
                 }
                 button.message.edit({ buttons: [

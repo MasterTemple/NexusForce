@@ -107,7 +107,48 @@ module.exports = {
             )
         }
         try {
-            message.channel.send(embed)
+            let drop_button = new params.buttons.MessageButton()
+                .setStyle('blurple')
+                .setLabel('Drop')
+                .setID('drop')
+            let earn_button = new params.buttons.MessageButton()
+                .setStyle('blurple')
+                .setLabel('Earn')
+                .setID('earn')
+            let buy_button = new params.buttons.MessageButton()
+                .setStyle('blurple')
+                .setLabel('Buy')
+                .setID('buy')
+            let more_button = new params.buttons.MessageButton()
+                .setStyle('blurple')
+                .setLabel('More')
+                .setID('item_more')
+
+            if(item.buyAndDrop.Vendors.length === 0){
+                buy_button.setDisabled(true)
+            }
+            if(Object.keys(item.earn).length === 0){
+                earn_button.setDisabled(true)
+            }
+            if(item.buyAndDrop.EnemyIDs.length === 0){
+                drop_button.setDisabled(true)
+            }
+
+            if(params['send_to_dm'] === true){
+                message.author.send({ buttons: [
+                        drop_button, earn_button, buy_button, more_button
+                    ], embed: embed })
+            }
+            else if(params['edit_message'] === true) {
+                message.edit({ buttons: [
+                        drop_button, earn_button, buy_button, more_button
+                    ], embed: embed })
+            }
+            else {
+                message.channel.send({ buttons: [
+                        drop_button, earn_button, buy_button, more_button
+                    ], embed: embed })
+            }
         }catch{
             err()
         }

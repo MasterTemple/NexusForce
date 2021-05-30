@@ -80,7 +80,7 @@ module.exports = {
         let field = embedField('name', 'text', false)
         myembed.addField(field['name'], field['value'], field['inline'])
         message.channel.send({ buttons: [
-                btn
+                btn, btn, btn, btn, btn, btn, btn, btn
             ], embed: myembed });
 
         //message.channel.send('**Button:**', {button: btn})

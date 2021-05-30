@@ -46,7 +46,12 @@ client.once('ready', () => {
 
 client.on('clickButton', async (button) => {
     //console.log('button clicked')
-    button_handler.execute(button, params)
+    try {
+        button_handler.execute(button, params)
+    }catch(error){
+        button.defer()
+        console.log(error)
+    }
 });
 
 client.on('message', message => {
