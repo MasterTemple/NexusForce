@@ -108,7 +108,35 @@ module.exports = {
 
         })
 
-        message.channel.send(embed)
+        // message.channel.send(embed)
+
+        let enemy_stats_button = new params.buttons.MessageButton()
+            .setStyle('green')
+            .setLabel('Stats')
+            .setID('enemy_stats')
+        let enemy_drop_button = new params.buttons.MessageButton()
+            .setStyle('blurple')
+            .setLabel('Drops')
+            .setID('enemy_drop')
+
+
+
+        if(params['send_to_dm'] === true){
+            message.author.send({ buttons: [
+                    enemy_stats_button, enemy_drop_button
+                ], embed: embed })
+        }
+        else if(params['edit_message'] === true) {
+            message.edit({ buttons: [
+                    enemy_stats_button, enemy_drop_button
+                ], embed: embed })
+        }
+        else {
+            message.channel.send({ buttons: [
+                    enemy_stats_button, enemy_drop_button
+                ], embed: embed })
+        }
+
 
     }
 }

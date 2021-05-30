@@ -39,6 +39,9 @@ module.exports = {
         if(commandName === 'edf' || commandName === 'enemydropf'){
             displayFractions = true
         }
+        if(params['fractions'] === true){
+            displayFractions = true
+        }
         // if(dropFile.itemComponent.levelRequirement === undefined){
         //     dropFile.levelRequirement = 0
         // }
@@ -71,6 +74,8 @@ module.exports = {
         let c = 0
         let wasDMed = false
         let img = resURL.concat(dropFile.iconURL)
+        let embed_descriptions = []
+
 
         for(let p=0; p<dropFile.drop.LootTableIndexes.length;p++){
             if(dropFile.drop.LootTableIndexes[p].names.Name === null || dropFile.drop.LootTableIndexes[p].names.Name === undefined){
@@ -110,7 +115,8 @@ module.exports = {
             //     // }
             // }
             //let c = 0
-            for(let k=0;k<Object.keys(dropFile.drop.LootTableIndexes[p].rarityCount).length;k++){
+            let rarityCountLength = Object.keys(dropFile.drop.LootTableIndexes[p].rarityCount).length
+            for(let k=0;k<rarityCountLength;k++){
                 //console.log(k, dropFile.drop.LootTableIndexes[p].rarityCount[k])
                 if(dropFile.drop.LootTableIndexes[p].rarityCount[k] > 0) {
                     arr.push(k)
@@ -154,23 +160,94 @@ module.exports = {
 
 
             }
+
             if(description.length > 1900){
-                let embed = msgEmbed.execute(`${dropFile.itemInfo.displayName} [${dropFile.objectID}]`, description,`${luExplorerURL}objects/${dropFile.objectID}`, img)
-                message.author.send(embed)
+                embed_descriptions.push(description)
                 description = ''
-                wasDMed = true
             }
-            c++
-            if(c === dropFile.drop.LootTableIndexes.length && description !== '' && wasDMed){
-                let embed = msgEmbed.execute(`${dropFile.itemInfo.displayName} [${dropFile.objectID}]`, description,`${luExplorerURL}objects/${dropFile.objectID}`, img)
-                message.author.send(embed)
-                message.channel.send("Direct Messages Sent!")
-            }else if(c === dropFile.drop.LootTableIndexes.length && description !== ''){
-                let embed = msgEmbed.execute(`${dropFile.itemInfo.displayName} [${dropFile.objectID}]`, description,`${luExplorerURL}objects/${dropFile.objectID}`, img)
-                message.channel.send(embed)
+            if(p === dropFile.drop.LootTableIndexes.length-1){
+                embed_descriptions.push(description)
             }
 
+            // if(description.length > 1900){
+            //     let embed = msgEmbed.execute(`${dropFile.itemInfo.displayName} [${dropFile.objectID}]`, description,`${luExplorerURL}objects/${dropFile.objectID}`, img)
+            //     message.author.send(embed)
+            //     description = ''
+            //     wasDMed = true
+            // }
+            // c++
+            // if(c === dropFile.drop.LootTableIndexes.length && description !== '' && wasDMed){
+            //     let embed = msgEmbed.execute(`${dropFile.itemInfo.displayName} [${dropFile.objectID}]`, description,`${luExplorerURL}objects/${dropFile.objectID}`, img)
+            //     message.author.send(embed)
+            //     message.channel.send("Direct Messages Sent!")
+            // }else if(c === dropFile.drop.LootTableIndexes.length && description !== ''){
+            //     let embed = msgEmbed.execute(`${dropFile.itemInfo.displayName} [${dropFile.objectID}]`, description,`${luExplorerURL}objects/${dropFile.objectID}`, img)
+            //     message.channel.send(embed)
+            // }
+
         }
+
+        let embed = msgEmbed.execute(`${dropFile.itemInfo.displayName} [${dropFile.objectID}]`, description,`${luExplorerURL}objects/${dropFile.objectID}`, img)
+
+        let previous_button = new params.buttons.MessageButton()
+            .setStyle('blurple')
+            .setLabel('Previous')
+            .setID('previous_result_enemy')
+        let next_button = new params.buttons.MessageButton()
+            .setStyle('blurple')
+            .setLabel('Next')
+            .setID('next_result_enemy')
+        let percent_button = new params.buttons.MessageButton()
+            .setStyle('blurple')
+            .setLabel('Percents')
+            .setID('enemy_to_percent')
+        let fraction_button = new params.buttons.MessageButton()
+            .setStyle('blurple')
+            .setLabel('Fractions')
+            .setID('enemy_to_fraction')
+        let back_button = new params.buttons.MessageButton()
+            .setStyle('blurple')
+            .setLabel('Back')
+            .setID('enemy_stats')
+
+
+        if(displayFractions){
+            fraction_button.setStyle('green')
+        }else{
+            percent_button.setStyle('green')
+        }
+        let page
+        if(params['page'] === undefined){
+            page = 0
+        }else{
+            page = params['page']
+        }
+        if(page === 0){
+            previous_button.setDisabled(true)
+        }
+        embed.setDescription(embed_descriptions[page])
+        if(page === embed_descriptions.length-1){
+            next_button.setDisabled(true)
+        }
+        embed.setTitle(`${embed.title} (${page+1})`)
+        if(params['send_to_dm'] === true){
+            message.author.send({ buttons: [
+                    previous_button, next_button, percent_button, fraction_button, back_button
+                ], embed: embed })
+        }
+        else if(params['edit_message'] === true) {
+            message.edit({ buttons: [
+                    previous_button, next_button, percent_button, fraction_button, back_button
+                ], embed: embed })
+        }
+        else {
+            message.channel.send({ buttons: [
+                    previous_button, next_button, percent_button, fraction_button, back_button
+                ], embed: embed })
+        }
+        // embed_descriptions.forEach(function(e, i){
+        //     console.log(`--> ${i}\n${e}`)
+        // })
 
         // let embed = msgEmbed.execute(`${dropFile.itemInfo.displayName} [${dropFile.objectID}]`, description,`${luExplorerURL}objects/${dropFile.objectID}`, img)
         // //console.log(description)

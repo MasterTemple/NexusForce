@@ -106,14 +106,12 @@ module.exports = {
             case 'previous_result':
                 let previous_result_drop = require('./../../commands/drop')
                 params['edit_message'] = true
-                params['fractions'] = true
                 params['page']--
                 previous_result_drop.execute(button.message, [itemID], params)
                 break
             case 'next_result':
                 let next_result_drop = require('./../../commands/drop')
                 params['edit_message'] = true
-                params['fractions'] = true
                 params['page']++
                 next_result_drop.execute(button.message, [itemID], params)
                 break
@@ -186,6 +184,41 @@ module.exports = {
                 params['edit_message'] = true
                 params['fractions'] = false
                 packageFilePercent.execute(button.message, [itemID], params)
+                break
+            case 'enemy_stats':
+                let enemy_stats = require('./../../commands/enemy')
+                params['edit_message'] = true
+                enemy_stats.execute(button.message, [itemID], params)
+                break
+            case 'enemy_drop':
+                let enemy_drop = require('./../../commands/enemyDrop')
+                params['edit_message'] = true
+                enemy_drop.execute(button.message, [itemID], params)
+                break
+            case 'enemy_to_percent':
+                let enemy_to_percent = require('./../../commands/enemyDrop')
+                params['edit_message'] = true
+                params['fractions'] = false
+                enemy_to_percent.execute(button.message, [itemID], params)
+                break
+
+            case 'enemy_to_fraction':
+                let enemy_to_fraction = require('./../../commands/enemyDrop')
+                params['edit_message'] = true
+                params['fractions'] = true
+                enemy_to_fraction.execute(button.message, [itemID], params)
+                break
+            case 'previous_result_enemy':
+                let previous_result_enemy = require('./../../commands/enemyDrop')
+                params['edit_message'] = true
+                params['page']--
+                previous_result_enemy.execute(button.message, [itemID], params)
+                break
+            case 'next_result_enemy':
+                let next_result_enemy = require('./../../commands/enemyDrop')
+                params['edit_message'] = true
+                params['page']++
+                next_result_enemy.execute(button.message, [itemID], params)
                 break
         }
         params['edit_message'] = false
