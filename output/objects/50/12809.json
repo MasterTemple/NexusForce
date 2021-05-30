@@ -140,7 +140,6 @@
             "projectileAttack": false,
             "projectileAttackChargeUp": false,
             "damageComboArray": [
-                3,
                 5
             ],
             "chargeUpArmorRestore": [],
@@ -148,7 +147,7 @@
             "projectileLOTs": [],
             "projectileInfo": {},
             "projectileDamageComboArray": [],
-            "chargeUpCombo": 0,
+            "chargeUpCombo": 3,
             "allDamage": [
                 1,
                 3,

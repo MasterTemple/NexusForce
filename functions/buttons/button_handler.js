@@ -133,6 +133,60 @@ module.exports = {
                 item.execute(button.message, [itemID], params)
 
                 break
+            case 'item_more':
+                let preconditions_button = new params.buttons.MessageButton()
+                    .setStyle('blurple')
+                    .setLabel('Preconditions')
+                    .setID('preconditions')
+                let package_button = new params.buttons.MessageButton()
+                    .setStyle('blurple')
+                    .setLabel('Package')
+                    .setID('package')
+                let back_button = new params.buttons.MessageButton()
+                    .setStyle('blurple')
+                    .setLabel('Back')
+                    .setID('back_to_item')
+                let item_is_not_package = true
+                let item_has_no_preconditions = true
+                let itemFile = require(`./../../output/objects/${Math.floor(itemID/256)}/${itemID}.json`)
+                if(Object.keys(itemFile.components).includes('53')){
+                    item_is_not_package = false
+                }
+                if(itemFile.itemComponent.preconditions !== null){
+                    item_has_no_preconditions = false
+                }
+                if(item_is_not_package){
+                    package_button.setDisabled(true)
+                }
+                if(item_has_no_preconditions){
+                    preconditions_button.setDisabled(true)
+                }
+                button.message.edit({ buttons: [
+                        preconditions_button, package_button, back_button
+                    ], embed: old_embed })
+                break
+            case 'preconditions':
+                let preconditionsFile = require('./../../commands/preconditions')
+                params['edit_message'] = true
+                preconditionsFile.execute(button.message, [itemID], params)
+                break
+            case 'package':
+                let packageFile = require('./../../commands/package')
+                params['edit_message'] = true
+                packageFile.execute(button.message, [itemID], params)
+                break
+            case 'package_fraction':
+                let packageFileFraction = require('./../../commands/package')
+                params['edit_message'] = true
+                params['fractions'] = true
+                packageFileFraction.execute(button.message, [itemID], params)
+                break
+            case 'package_percent':
+                let packageFilePercent = require('./../../commands/package')
+                params['edit_message'] = true
+                params['fractions'] = false
+                packageFilePercent.execute(button.message, [itemID], params)
+                break
         }
         params['edit_message'] = false
         params['send_to_dm'] = false

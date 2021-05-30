@@ -55,7 +55,7 @@ module.exports = {
         let wasDMed = false
         for(var e=0;e<earnKey.length;e++){
             //console.log([earnKey])
-            console.log(earnKey[e])
+            //console.log(earnKey[e])
             // console.log([earnKey][e])
             // console.log(earnFile.earn[earnKey[e]])
             //earnInfo = `${earnInfo}${earnFile.earn[earnKey]['defined_type']} > ${earnFile.earn[earnKey]['defined_subtype']} > ${earnFile.earn[earnKey]['missionName']}\n${earnFile.earn[earnKey]['missionDescription']}\n`

@@ -67,14 +67,50 @@ module.exports = {
 
         let embed = msgEmbed.execute(`${item.itemInfo.displayName} [${item.objectID}]`, description, `${luExplorerURL}objects/${itemID}`, img)
 
-        try {
-            if(args[1] !== 'dm') {
-                message.channel.send(embed)
-            }else if(args[1] === 'dm'){
-                message.author.send(embed)
-            }
-        }catch{
-            err()
+        let preconditions_button = new params.buttons.MessageButton()
+            .setStyle('green')
+            .setLabel('Preconditions')
+            .setID('preconditions')
+        let package_button = new params.buttons.MessageButton()
+            .setStyle('blurple')
+            .setLabel('Package')
+            .setID('package')
+        let back_button = new params.buttons.MessageButton()
+            .setStyle('blurple')
+            .setLabel('Back')
+            .setID('back_to_item')
+        let item_is_not_package = true
+        if(Object.keys(item.components).includes('53')){
+            item_is_not_package = false
         }
+        if(item_is_not_package){
+            package_button.setDisabled(true)
+        }
+
+        if(params['send_to_dm'] === true){
+            message.author.send({ buttons: [
+                   preconditions_button, package_button, back_button
+                ], embed: embed })
+        }
+        else if(params['edit_message'] === true) {
+            message.edit({ buttons: [
+                   preconditions_button, package_button, back_button
+                ], embed: embed })
+        }
+        else {
+            message.channel.send({ buttons: [
+                   preconditions_button, package_button, back_button
+                ], embed: embed })
+        }
+        //
+        // try {
+        //     if(args[1] !== 'dm') {
+        //         message.channel.send(embed)
+        //     }else if(args[1] === 'dm'){
+        //         message.author.send(embed)
+        //     }
+        // }catch{
+        //     err()
+        // }
     }
 }

@@ -32,6 +32,9 @@ module.exports = {
         if(commandName === 'packagef' || commandName === 'pf'){
             displayFractions = true
         }
+        if(params['fractions'] === true){
+            displayFractions = true
+        }
         // message.reply(objectID)
         // return
         var packageFile = require(`./../output/packages/${objectID}.json`)
@@ -95,11 +98,64 @@ module.exports = {
 
         //message.channel.send(`\`\`\`json\n${JSON.stringify(packageFile,null, 2)}\`\`\``)
 
-        try {
-            message.channel.send(embed)
-        }catch{
-            err()
+        let preconditions_button = new params.buttons.MessageButton()
+            .setStyle('blurple')
+            .setLabel('Preconditions')
+            .setID('preconditions')
+        let package_button = new params.buttons.MessageButton()
+            .setStyle('green')
+            .setLabel('Package')
+            .setID('package')
+        let back_button = new params.buttons.MessageButton()
+            .setStyle('blurple')
+            .setLabel('Back')
+            .setID('back_to_item')
+        let percent_button = new params.buttons.MessageButton()
+            .setStyle('blurple')
+            .setLabel('Percents')
+            .setID('package_percent')
+        let fraction_button = new params.buttons.MessageButton()
+            .setStyle('blurple')
+            .setLabel('Fractions')
+            .setID('package_fraction')
+        let item_has_no_preconditions = true
+        let packageItemFile = require(`./../output/objects/${Math.floor(packageFile.objectID/256)}/${packageFile.objectID}.json`)
+        if(packageItemFile['itemComponent']['preconditions'] !== null){
+            item_has_no_preconditions = false
         }
+        if(displayFractions){
+            fraction_button.setStyle('green')
+        }else{
+            percent_button.setStyle('green')
+        }
+        //console.log(item_has_no_preconditions)
+
+        if(item_has_no_preconditions){
+            preconditions_button.setDisabled(true)
+        }
+
+        if(params['send_to_dm'] === true){
+            message.author.send({ buttons: [
+                    preconditions_button, percent_button, fraction_button, back_button
+                ], embed: embed })
+        }
+        else if(params['edit_message'] === true) {
+            message.edit({ buttons: [
+                    preconditions_button, percent_button, fraction_button, back_button
+                ], embed: embed })
+        }
+        else {
+            message.channel.send({ buttons: [
+                    preconditions_button, percent_button, fraction_button, back_button
+                ], embed: embed })
+        }
+
+
+        // try {
+        //     message.channel.send(embed)
+        // }catch{
+        //     err()
+        // }
 
     }
 }
