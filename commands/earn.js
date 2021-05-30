@@ -62,7 +62,7 @@ module.exports = {
             if(earnFile?.earn[earnKey[e]]?.rewardCount === 1) {
                 embed.addField(`${earnFile.earn[earnKey[e]]['defined_type']} > ${earnFile.earn[earnKey[e]]['defined_subtype']} > ${earnFile.earn[earnKey[e]]['missionName']}`, `${earnFile.earn[earnKey[e]]['missionDescription']} [[${earnKey[e]}]](${luExplorerURL}missions/${earnKey[e]})`, false)
             }else{
-                embed.addField(`${earnFile.earn[earnKey[e]]['defined_type']} > ${earnFile.earn[earnKey[e]]['defined_subtype']} > ${earnFile.earn[earnKey[e]]['missionName']}`, `${earnFile.earn[earnKey[e]]['missionDescription']} [Gives ${earnFile.earn[earnKey[e]]['rewardCount']}] [[${earnKey[e]}]](${luExplorerURL}missions/${earnKey[e]})`, false)
+                embed.addField(`${earnFile.earn[earnKey[e]]['defined_type']} > ${earnFile.earn[earnKey[e]]['defined_subtype']} > ${earnFile.earn[earnKey[e]]['missionName']}`, `${earnFile.earn[earnKey[e]]['missionDescription']} [Gives **${earnFile.earn[earnKey[e]]['rewardCount']}**] [[${earnKey[e]}]](${luExplorerURL}missions/${earnKey[e]})`, false)
 
             }
 

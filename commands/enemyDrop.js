@@ -161,7 +161,7 @@ module.exports = {
 
             }
 
-            if(description.length > 1900){
+            if(description.length > 1024){
                 embed_descriptions.push(description)
                 description = ''
             }

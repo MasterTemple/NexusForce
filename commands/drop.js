@@ -174,11 +174,12 @@ module.exports = {
             message.channel.send(embed)
         }
         let groupedFields = {}
-        for(let i=0;i<=embedArray.length/25;i++){
+        let embed_divide_number = 8
+        for(let i=0;i<=embedArray.length/embed_divide_number;i++){
             groupedFields[i] = []
         }
         embedArray.forEach(function(em, count){
-            groupedFields[Math.floor(count/25)].push(em)
+            groupedFields[Math.floor(count/embed_divide_number)].push(em)
         })
         Object.keys(groupedFields).forEach(function (e){
             groupedFields[e].shift()

@@ -222,7 +222,9 @@ module.exports = {
                 break
         }
         params['edit_message'] = false
+        params['fractions'] = false
         params['send_to_dm'] = false
+        params['page'] = 0
         button.defer()
     }
 }

@@ -6,7 +6,7 @@ Nexus Force LEGO Universe Bot
 2. Download git [here](https://git-scm.com/download)
 3. Paste `git clone https://github.com/MasterTemple/NexusForce.git` in terminal and hit enter
 4. Next, type `cd NexusForce` to navigate to the proper directory.
-5. Paste `npm i nodemon -g;npm i discord.js` to install Nodemon and Discord.js
+5. Paste `npm i nodemon -g;npm i discord.js discord-buttons` to install Nodemon and Discord.js
 6. Add a `config.json` to your current directory. The file should look exactly like this, except put in your own token.
 ```yaml
 {
