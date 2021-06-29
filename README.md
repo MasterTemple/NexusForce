@@ -1,6 +1,9 @@
 # NexusForce
 Nexus Force LEGO Universe Bot
 
+# Notice:
+This version is outdated. Please visit [here](https://github.com/MasterTemple/nexus_force_bot_v5) for an updated version
+
 # Setup:
 1. Download Node.js [here](https://nodejs.org/en/download/)
 2. Download git [here](https://git-scm.com/download)
